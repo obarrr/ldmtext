@@ -2649,5 +2649,28 @@ II Nefi 30:6; III Nefi 2:14-16.
 30u, 2409: Alma 11:1,3,20.
 30v, 2410: Versículo 27.
 30w, 2411: Versículos 28-29,48.
+30x, 2412: Versículo 28.
+30y, 2413: Versículos 45,48-50.
+30z, 2414: Copias del las planchas de bronce; Alma 63:12.
+30-2a, 2415: Helamán 12:11-15.
+30-2b, 2416: Véase y.
+30-2c, 2417: Versículos 49-50,52.
+30-2d, 2418: Véase y.
+30-2e, 2419: Versiculos 47,50.
+30-2f, 2420: Versículos 41-42.
+30-2g, 2421: II Nefi 9:9.
+30-2h, 2422: Versículo 56.
+30-2i, 2423: Versículo 58.
+30-2j, 2424: Alma 31:1-4,7-12; 35:2-3,7-11,13-14; 38:3; 39:2,11;
+43:4-6,13,20,44; 52:20,33.
+30-2k, 2425: Véase k, I Nefi 15.
+31a, 2426: Véase 2j, Alma 30.
+31b, 2427: Alma 43:5,15,22.
+31c, 2428: Véase h, Omni 1.
+31d, 2429: Véase g, Alma 27.
+31e, 2430: Véase 2j, Alma 30.
+31f, 2431: Véase h, Omni 1.
+31g, 2432: Véase c, Alma 8.
+
 
 
