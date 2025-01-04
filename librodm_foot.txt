@@ -2683,6 +2683,22 @@ II Nefi 30:6; III Nefi 2:14-16.
 31q, 2442: Versículos 12,21.
 31r, 2443: Versículo 18.
 31s, 2444: Versículo 16.
+31t, 2445: Versículo 7.
+31u, 2446: III Nefi 18:37.
+31v, 2447: III Nefi 13:25-34.
+31w, 2448: Versículo 32.
+31x, 2449: Versículos 26-35.
+32a, 2450: Véase u, Alma 16.
+32b, 2451: Versículos 4-5,12; Alma 34:40.
+32c, 2452: Véase u, Alma 16.
+32d, 2453: Véase b.
+32e, 2454: Versículos 12-16.
+32f, 2455: Versículo 5.
+32g, 2456: Véase u, Alma 16.
+32h, 2457: Mosíah 18:25.
+32i, 2458: Véase u, Alma 16.
+32j, 2459: Versículos 3-5.
+32k, 2460: Versículos 12,14-16.
 
 
 
