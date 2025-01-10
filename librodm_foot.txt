@@ -2716,6 +2716,21 @@ II Nefi 30:6; III Nefi 2:14-16.
 33f, 2475: Véase c.
 33g, 2476: Véase h, I Nefi 19.
 33h, 2477: Véase c.
-33i, 2478: Véase h, I Nefl 19
+33i, 2478: Véase h, I Nefi 19
 33j, 2479: Véase g, I Nefi 19.
-
+33k, 2480: La serpiente de metal, Números 21:8-9.
+33l, 2481: Véase f, II Nefi 2.
+33m, 2482: Véase d, II Nefi 2.
+34a, 2483: Alma 32:5.
+34b, 2484: Alma 33:23.
+34c, 2485: Alma 31:16.
+34d, 2486: Alma 33:3; Véase h, I Nefi 19.
+34e, 2487: Alma 33:15; Véase g, I Nefi 19.
+34f, 2488: Alma 33:19.
+34g, 2489: Véase f II Nefi 2.
+34h, 2490: Véase e, y g, II Nefi 9.
+34i, 2491: Véase f, II Nefi 2.
+34j, 2492: Versículos 10,14.
+34k, 2493: Versiculos 14-15.
+34l, 2494: III Nefi 9:19.
+34m, 2495: Véase o, II Nefi 25.
