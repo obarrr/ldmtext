@@ -2746,3 +2746,23 @@ II Nefi 30:6; III Nefi 2:14-16.
 34w, 2505: Véase i, II Nefi 9.
 34x, 2506: Véase r, Alma 7.
 34y, 2507: Véase e, Mosiah 5.
+34z, 2508: Véase e, II Nefi 32.
+34-2a, 2509: Alma 32:3-5.
+35a, 2510: Véase g, Alma 27.
+35b, 2511: Véase 2j, Alma 3.
+35c, 2512: Véase g, Alma 27.
+35d, 2513: Alma 27:26.
+35e, 2514: Véase 2j, Alma 30.
+35f, 2515: Versículo 6.
+35g, 2516: Alma 27:26.
+35h, 2517: Véase l, Mosíah 4.
+35i, 2518: Véase j, Alma 30.
+35j, 2519: Alma 27:6.
+35k, 2520: Véase j, Alma 27.
+35l, 2521: Véase c, Alma 8.
+35m, 2522: Alma 43:44.
+35n, 2523: Alma 31:7.
+35o, 2524: Véase h, Omni 1.
+35p, 2525: Véase 2j, Alma 30.
+35q, 2526: Versículo 6.
+35r, 2527: Véase g, Alma 27.
