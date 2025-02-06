@@ -2833,4 +2833,17 @@ Palabras de Mormón 1:6-11.
 37-2i, 2589: Véase 2a, II Nefi 9.
 37-2j, 2590: Versículo 38; Véase d, I Nefi 16.
 37-2k, 2591: Véase a, I Nefi 2.
-38-a, 2592: Véase h, II Nefi 1.
+38a, 2592: Véase h, II Nefi 1.
+38b, 2593: Véase h, II Nefi 31.
+38c, 2594: Véase 2j, Alma 30.
+38d, 2595: Véase p, Mosíah 23.
+38e, 2596: Véase e, Mosíah 5.
+38f, 2597: Mosíah 27:11-17.
+38g, 2598: Mosíah 27:19-23; Alma 36:10,16.
+38h, 2599: Véase d, Mosíah 5.
+38i, 2600: Véase m, Mosíah 16.
+38j, 2601: Véase 2j, Alma 30.
+39a, 2602: Véase 2j, Alma 30.
+39b, 2603: Versículos 7,11; Véase i, II Nefi 28.
+39c, 2604: Moroni 8:28.
+39d, 2605: Versículo 5.
