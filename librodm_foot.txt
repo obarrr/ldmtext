@@ -2869,3 +2869,18 @@ Palabras de Mormón 1:6-11.
 40q, 2625: Alma 11:41-45; 41:2; Véase d, II Nefi 2.
 40r, 2626: Véase q, Alma 12.
 40s, 2627: Alma 11:37.
+41a, 2628: Véase q, Alma 40.
+41b, 2629: Versículos 6-7,14.
+41c, 2630: Versículos 10-13,15.
+41d, 2631: Mosíah 16:10; Véase d, II Nefi 2.
+41e, 2632: Véase m, Jacob 6.
+41f, 2633: Véase b.
+41g, 2634: Véase c.
+41h, 2635: Véase b.
+41i, 2636: Véase m, Jacob 6.
+41j, 2637: Mormón 9:19.
+41k, 2638: Versículos 11-12.
+41l, 2639: Versículos 10,12.
+41m, 2640: Véase c.
+41n, 2641: Véase b.
+41o, 2642: Alma 42:28.
