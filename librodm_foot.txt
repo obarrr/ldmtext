@@ -2884,3 +2884,33 @@ Palabras de Mormón 1:6-11.
 41m, 2640: Véase c.
 41n, 2641: Véase b.
 41o, 2642: Alma 42:28.
+42a, 2643: Véase m, Mosíah 2.
+42b, 2644: Véase 2a, Alma 12.
+42c, 2645: Versículo 3.
+42d, 2646: Versículos 6,8; Alma 12:23,26.
+42e, 2647: Véase w, Alma 12.
+42f, 2648: Véase b, II Nefi 2.
+42g, 2649: Véase e, II Nefi 2.
+42h, 2650: Véase l, II Nefi 2.
+42i, 2651: Véase d.
+42j, 2652: Versículo 11; Nunca pudiera ser disuelta, ó sus partes
+separados de manera que desorganizare el personaje espiritual.
+42k, 2653: Véase c, II Nefi 2.
+42l, 2654: Véase b, II Nefi 2.
+42m, 2655: Véase 2a, Alma 12.
+42n, 2656: Tan luego como nurieran sus cuerpos.
+42o, 2657: Sus espíritus.
+42p, 2658: Véase 2a, Alma 12.
+42q, 2659: Véase 2m, Alma 12.
+42r, 2660: Véase f, II Nefi 11.
+42s, 2661: Véase e, y, g, II Nefi 9.
+42t, 2662: Véase w, Alma 12.
+42u, 2663: Véase f, II Nefi 2.
+42v, 2664: Véase 2m Alma 12.
+42w, 2665: Véase m, Jacob 6.
+42x, 2666: La vida del alma no tiene fin; Versículos 8-9;
+Véase e, y, g, II Nefi 9.
+42y, 2667: Véase j, Mosiah 3.
+42z, 2668: Véase 2m, Alma 12.
+42-2a, 2669: Véase f, II Nefi 9.
+42-2b, 2670: Véase f, II Nefi 2.
