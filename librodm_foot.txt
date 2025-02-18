@@ -2914,3 +2914,24 @@ Véase e, y, g, II Nefi 9.
 42z, 2668: Véase 2m, Alma 12.
 42-2a, 2669: Véase f, II Nefi 9.
 42-2b, 2670: Véase f, II Nefi 2.
+42-2c, 2671: Véase d, II Nefi 2.
+42-2d, 2672: Alma 40:21-26.
+42-2e, 2673: Véase f, II Nefi 11.
+42-2f, 2674: Véase d, Mosíah 4.
+42-2g, 2675: Alma 41:15.
+42-2h, 2676: Véase c, Alma 41.
+42-2i, 2677: Versículo 1.
+43a, 2678: Véase g, Mosíah 26.
+43b, 2679: Véase 2j, Alma 30.
+43c, 2680: Véase q, Alma 27.
+43d, 2681: Vease b, Alma 31.
+43e, 2682: Alma 31:3.
+43f, 2683: Véase 2j, Alma 30.
+43g, 2684: Véase n, Jacob 7.
+43h, 2685: Véase m, Mosíah 29.
+43i, 2686: Alma 27:2.
+43j, 2687: Véase t, Alma 23.
+43k, 2688: Alma 27:26.
+43l, 2689: Alma 24:16-19.
+43m, 2690: Alma 27:23-24.
+43n, 2691: Alma 27:22.
