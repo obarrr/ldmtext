@@ -2935,3 +2935,26 @@ Véase e, y, g, II Nefi 9.
 43l, 2689: Alma 24:16-19.
 43m, 2690: Alma 27:23-24.
 43n, 2691: Alma 27:22.
+43o, 2692: Alma 27:24.
+43p, 2693: Véase 2j, Alma 30.
+43q, 2694: Véase f, Mosíah 11.
+43r, 2695: Véase b, Alma 31.
+43s, 2696: Véase q, Alma 27.
+43t, 2697: Véase q, Alma 27.
+43u, 2698: Véase f, Alma 2.
+43v, 2699: Versículo 37; Enos 1:20; Alma 3:4-5.
+43w, 2700: Véase q, Alma 27.
+43x, 2701: Véase b, Alma 31.
+43y, 2702: Véase g, Alma 2.
+43z, 2703: Véase h, Alma 16.
+43-2a, 2704: Véase h, Alma 16.
+43-2b, 2705: Véase q, Alma 27.
+43-2c, 2706: Véase h, Alma 16.
+43-2d, 2707: Véase g, Alma 2.
+43-2e, 2708: Versículos 8,10.
+43-2f, 2709: Versículos 9,45,48-49; Alma 44:5; Véase m, Mosíah 29;
+Alma 46:12-20; 48:10-16.
+43-2g, 2710: Versículos 23,28.
+43-2h, 2711: Versículos 34-35.
+43-2i, 2712: Véase g, Alma 2.
+43-2j, 2713: Véase h, Alma 16.
