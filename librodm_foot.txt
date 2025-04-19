@@ -3039,6 +3039,15 @@ Helamán 1:14; Mormón 6:9.
 46x, 2791: Véase e.
 46y, 2792: La destrucción de los Jareditas en Norte América; Véase Éther.
 46z, 2793: Génesis 37:31-33.
-26-2a, 2794: Véase 2f, Alma 43.
-26-2b, 2795: Escrito sobre las planchas de bronce.
-26-2c, 2796: Véase 2f, Alma 43.
+46-2a, 2794: Véase 2f, Alma 43.
+46-2b, 2795: Escrito sobre las planchas de bronce.
+46-2c, 2796: Véase 2f, Alma 43.
+46-2d, 2797: Véase b, II Nefi 5.
+46-2e, 2798: Véase e, Mosíah 29.
+46-2f, 2799: Véase 2f, Alma 43.
+46-2g, 2800: Versículos 12-13.
+46-2h, 2801: Véase g, Mosíah 25.
+47a, 2802: Alma 46:33.
+47b, 2803: Véase b, II Nefi 5.
+47c, 2804: Versículos 8,16,35.
+
