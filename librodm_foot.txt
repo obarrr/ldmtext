@@ -3050,4 +3050,16 @@ Helamán 1:14; Mormón 6:9.
 47a, 2802: Alma 46:33.
 47b, 2803: Véase b, II Nefi 5.
 47c, 2804: Versículos 8,16,35.
+47d, 2805: Versículos 4,16,35.
+47e, 2806: Versículos 7,10.
+47f, 2807: Versículo 3.
+47g, 2808: Versículos 4,8,35.
+47h, 2809: Versículo 13.
+47i, 2810: Versículos 13,17.
+47j, 2811: Véase b, II Nefi 5.
+47k, 2812: Versículo 3.
+47l, 2813: Mosiah 7:12.
+47m, 2814: Véase h, Omni 1.
+47n, 2815: Alma 27:26.
+47o, 2816: Versículo 20.
 
