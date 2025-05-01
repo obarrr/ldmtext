@@ -3087,3 +3087,24 @@ Helamán 1:14; Mormón 6:9.
 49c, 2837: Alma 16:2-3,9-11.
 49d, 2838: Véase c, Alma 48.
 49e, 2839: Véase 2p, Alma 43.
+49f, 2840: Véase c, Alma 48.
+49g, 2841: Véase b, II Nefi 5.
+49h, 2842: Véase i, Alma 8.
+49i, 2843: Versículos 13-15; Alma 16:3.
+49j, 2844: Véase c, Alma 48.
+49k, 2845: Véase i.
+49l, 2846: Véase i, Alma 8.
+49m, 2847: Véase i.
+49n, 2848: Alma 43:35.
+49o, 2849: Véase g, Alma 2.
+49p, 2850: Versículo 13.
+49q, 2851: Véase c, Alma 48.
+49r, 2852: Versículos 4,18,21,24.
+49s, 2853: Véase r.
+49t, 2854: Véase c, Alma 43.
+49u, 2855: Alma 48:5.
+49v, 2856: Véase r.
+49w, 2857: Véase 2p, Alma 43.
+49x, 2858: Alma 48:5.
+49y, 2859: Véase b, II Nefi 5.
+
