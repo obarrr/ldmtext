@@ -3107,4 +3107,20 @@ Helamán 1:14; Mormón 6:9.
 49w, 2857: Véase 2p, Alma 43.
 49x, 2858: Alma 48:5.
 49y, 2859: Véase b, II Nefi 5.
+49z, 2860: Alma 51:9-10.
+49-2a, 2861: Véase g, Mosiah 26.
+50a, 2862: Véase c, Alma 48.
+50b, 2863: Véase h, Omni 1.
+50c, 2864: Véase b, II Nefi 5.
+50d, 2865: Véase c, Alma 48.
+50e, 2866: Versículo 8.
+50f, 2867: Véase h, Omni 1.
+50g, 2868: Véase b, II Nefi 5.
+50h, 2869: Véase g, Alma 2.
+50i, 2870: Norte América.
+50j, 2871: Véase 2k, Alma 22.
+50k, 2872: Versículo 14; Alma 41:22-24; 59:5; 62:32,34;
+III Nefi 8:9; 9:4.
+50l, 2873: Alma 51:24-26; 59:5,7-11; 62:14,18,26,30.
+50m, 2874: Versículos 25-28,36; Alma 51:1,24,26; 59:5; 62:30.
 

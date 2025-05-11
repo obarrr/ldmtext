@@ -950,3 +950,5 @@ inqudad
 atarcan
 habíendose
 surfrir
+enfuerció
+monotones
