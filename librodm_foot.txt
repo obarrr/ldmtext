@@ -3176,3 +3176,16 @@ III Nefi 8:9; 9:4.
 51-2i, 2925: Norte América.
 51-2j, 2926: Véase 2k, Alma 22.
 51-2k, 2927: Calor de la zona tórrida.
+52a, 2928: Norte América.
+52b, 2929: Véase 2d, Alma 51.
+52c, 2930: Véase e, Alma 48.
+52d, 2931: Véase c, Alma 48.
+52e, 2932: Véase 2k, Alma 22.
+52f, 2933: Véase 2r, Alma 22.
+52g, 2934: Norte América.
+52h, 2935: Véase c, Alma 48.
+52i, 2936: Véase h, Omni I.
+52j, 2937: Véase 2 *, Alma 22.
+52k, 2938: Véase 2d, Alma 51.
+52l, 2939: Véase c, Alma 48.
+52m, 2940: Véase 2k, Alma 22.
