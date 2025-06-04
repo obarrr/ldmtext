@@ -3185,7 +3185,15 @@ III Nefi 8:9; 9:4.
 52g, 2934: Norte América.
 52h, 2935: Véase c, Alma 48.
 52i, 2936: Véase h, Omni I.
-52j, 2937: Véase 2 *, Alma 22.
+52j, 2937: Véase 2k, Alma 22.
 52k, 2938: Véase 2d, Alma 51.
 52l, 2939: Véase c, Alma 48.
 52m, 2940: Véase 2k, Alma 22.
+52n, 2941: Véase 2d, Alma 51.
+52o, 2942: Véase 2j, Alma 30.
+52p, 2943: Véase 2d, Alma 51.
+52q, 2944: Véase 2d, Alma 51.
+52r, 2945: Véase 2k, Alma 22.
+52s, 2946: Véase 2d, Alma 51.
+52t, 2947: Véase 2j, Alma 30.
+52u, 2948: Véase 2d, Alma 51.
