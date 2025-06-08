@@ -3184,7 +3184,7 @@ III Nefi 8:9; 9:4.
 52f, 2933: Véase 2r, Alma 22.
 52g, 2934: Norte América.
 52h, 2935: Véase c, Alma 48.
-52i, 2936: Véase h, Omni I.
+52i, 2936: Véase h, Omni 1.
 52j, 2937: Véase 2k, Alma 22.
 52k, 2938: Véase 2d, Alma 51.
 52l, 2939: Véase c, Alma 48.
@@ -3197,3 +3197,16 @@ III Nefi 8:9; 9:4.
 52s, 2946: Véase 2d, Alma 51.
 52t, 2947: Véase 2j, Alma 30.
 52u, 2948: Véase 2d, Alma 51.
+52v, 2949: Véase 2k, Alma 22.
+53a, 2950: Véase 2d, Alma 51.
+53b, 2951: Véase 2k, Alma 22.
+53c, 2952: Véase c, Alma 48.
+53d, 2953: Véase 2k, Alma 22.
+53e, 2954: Véase 2d, Alma 51.
+53f, 2955: Véase c, Alma 48.
+53g, 2956: Alma 27:26.
+53h, 2957: Alma 23:8-13.
+53i, 2958: Véase h, Omni 1.
+53j, 2959: Alma 24:17-19.
+53k, 2960: Alma 24:17-19.
+53l, 2961: Véase m, Mosíah 29.
