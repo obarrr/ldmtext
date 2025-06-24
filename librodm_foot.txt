@@ -3225,3 +3225,10 @@ III Nefi 8:9; 9:4.
 55a, 2974: Alma 54:6,13.
 55b, 2975: Alma 47:29.
 55c, 2976: Véase 2c, Alma 51.
+55d, 2977: Véase 2c, Alma 51.
+55e, 2978: Véase c, Alma 48.
+55f, 2979: Véase 2c, Alma 51.
+55g, 2980: Véase 2k, Alma 22.
+55h, 2981: Véase p, Alma 50.
+55i, 2982: Véase c, Alma 48.
+56a, 2983: Alma 53:8,22.
