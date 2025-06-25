@@ -3232,3 +3232,22 @@ III Nefi 8:9; 9:4.
 55h, 2981: Véase p, Alma 50.
 55i, 2982: Véase c, Alma 48.
 56a, 2983: Alma 53:8,22.
+56b, 2984: Vernículos 5,10; Alma 53:22.
+56c, 2985: Véase b, II Nefi 5.
+56d, 2986: Véase n, Jacob 7.
+56e, 2987: Véase b.
+56f, 2988: Alma 24:17-19; 53:13-15.
+56g, 2989: Alma 53:22.
+56h, 2990: Versículos 15,18,57; Alma 57:11.
+56i, 2991: Véase b.
+56j, 2992: Véase b, II Nefi 5.
+56k, 2993: Véase h, Alma 16.
+56l, 2994: Alma 57:7-8,12,23,31,34.
+56m, 2995: Versículos 31,33-34; Alma 57:1-4.
+56n, 2996: Véase h.
+56o, 2997: Véase c, Alma 48.
+56p, 2998: Versículo 10.
+56q, 2999: Véase h.
+56r, 3000: Véase h, Omni 1.
+56s, 3001: Véase g, Alma 2.
+56t, 3002: Esta no es la misma cuidad señalada por la letra l, Alma 50.
