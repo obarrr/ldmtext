@@ -3251,3 +3251,11 @@ III Nefi 8:9; 9:4.
 56r, 3000: Véase h, Omni 1.
 56s, 3001: Véase g, Alma 2.
 56t, 3002: Esta no es la misma cuidad señalada por la letra l, Alma 50.
+56u, 3003: Alma 27:26.
+56v, 3004: Versículo 1O.
+56w, 3005: Véase h, Omni 1.
+56x, 3006: Véase m.
+56y, 3007: Véase m.
+56z, 3008: Versículos 10,17,27,30,39.
+56-2a, 3009: Alma 27:26.
+56-2b, 3010: Alma 57:21.
