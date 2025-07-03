@@ -3286,3 +3286,10 @@ III Nefi 8:9; 9:4.
 57t, 3035: Versículo 16.
 57u, 3036: Véase h, Omni 1.
 57v, 3037: Véase l, Alma 56.
+57w, 3038: Véase l, Alma 56.
+58a, 3039: Véase h, Alma 16.
+58b, 3040: Véase h, Omni 1.
+58c, 3041: Véase e, II Nefi 32.
+58d, 3042: Véase m, Mosíah 29.
+58e, 3043: Véase h, Alma 16.
+
