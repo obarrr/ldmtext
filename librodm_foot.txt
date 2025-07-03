@@ -3274,3 +3274,15 @@ III Nefi 8:9; 9:4.
 57h, 3023: Véase h, Alma 56.
 57i, 3024: Véase h, Omni 1.
 57j, 3025: Véase l.
+57k, 3026: Véase h, Omni 1.
+57l, 3027: Versículo 16.
+57m, 3028: Versículo 6; Véase b, Alma 56.
+57n, 3029: Versículo 26; Alma 56:47-48.
+57o, 3030: Versículos 16,18.
+57p, 3031: Véase h, Alma 16.
+57q, 3032: Véase l, Alma 56.
+57r, 3033: Alma 56:56.
+57s, 3034: Véase n.
+57t, 3035: Versículo 16.
+57u, 3036: Véase h, Omni 1.
+57v, 3037: Véase l, Alma 56.
