@@ -3292,4 +3292,10 @@ III Nefi 8:9; 9:4.
 58c, 3041: Véase e, II Nefi 32.
 58d, 3042: Véase m, Mosíah 29.
 58e, 3043: Véase h, Alma 16.
-
+58f, 3044: Versículos 16-17,20,23.
+58g, 3045: Véase h, Omni 1.
+58h, 3046: Véase h, Alma 16.
+58i, 3047: Véase h, Alma 16.
+58j, 3048: Versículo 8.
+58k, 3049: Alma 61.
+58l, 3050: Véase b, II Nefi 5.
