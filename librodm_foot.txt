@@ -3299,3 +3299,20 @@ III Nefi 8:9; 9:4.
 58j, 3048: Versículo 8.
 58k, 3049: Alma 61.
 58l, 3050: Véase b, II Nefi 5.
+58m, 3051: Alma 27:26.
+58n, 3052: Véase h, Alma 16.
+58o, 3053: Alma 56:56; 57:25.
+59a, 3054: Capítulos 56-58.
+59b, 3055: Alma 50:40.
+59c, 3056: Véase h, Omni 1.
+59d, 3057: Véase l, Alma 50.
+59e, 3058: Véase k, Alma 50.
+59f, 3059: Véase m, Alma 50.
+59g, 3060: Véase p, Alma 50.
+59h, 3061: Véase h, Alma 16, Alma 58:29-30.
+59i, 3062: Véase l, Alma 50.
+59j, 3063: Véase l, Alma 50.
+59k, 3064: Véase m, Mosíah 29.
+60a, 3065: Alma 50:40.
+60b, 3066: Véase h, Omni 1.
+60c, 3067: Véase f, Alma 2.
