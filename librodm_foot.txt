@@ -3316,3 +3316,10 @@ III Nefi 8:9; 9:4.
 60a, 3065: Alma 50:40.
 60b, 3066: Véase h, Omni 1.
 60c, 3067: Véase f, Alma 2.
+60d, 3068: Véase e, Mosíah 29.
+60e, 3069: Mosíah 17:10; Alma 14:11.
+60f, 3070: Véase 2v, Alma 12.
+60g, 3071: Alma 51:13-27.
+60h, 3072: Véase e, Alma 51.
+60i, 3073: Véase h, II Nefi 1.
+60j, 3074: Véase e, Alma 51.
