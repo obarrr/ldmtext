@@ -3323,3 +3323,13 @@ III Nefi 8:9; 9:4.
 60h, 3072: Véase e, Alma 51.
 60i, 3073: Véase h, II Nefi 1.
 60j, 3074: Véase e, Alma 51.
+60k, 3075: Versículo 11.
+60l, 3076: Versículo 24.
+60m, 3077: Véase 2f, Alma 43.
+60n, 3078: Véase 2f, Alma 43.
+60o, 3079: Véase h, Omni 1.
+60p, 3080: Véase 2f, Alma 43.
+60q, 3081: Véase n, Jacob 7.
+60r, 3082: Versículo 33.
+60s, 3083: Véase 2f, Alma 43.
+61a, 3084: Alma 50:40.
