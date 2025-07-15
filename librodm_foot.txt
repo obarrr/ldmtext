@@ -3340,4 +3340,19 @@ III Nefi 8:9; 9:4.
 61f, 3089: Véase m, Mosíah 29.
 61g, 3090: Véase h Omni 1.
 61h, 3091: Alma 60:33.
-
+62a, 3092: Véase m, Alma 2.
+62b, 3093: Alma 46:12-13,36.
+62c, 3094: Véase m, Alma 2.
+62d, 3095: Véase m, Mosíah 29.
+62e, 3096: Véase m, Alma 2.
+62f, 3097: Alma 51:6-7; 61:4.
+62g, 3098: Véase h, Omni 1.
+62h, 3099: Versículos 6,10-11; Alma 51:5,7,17,21; 60:16; 61:8.
+62i, 3100: Alma 51:19.
+62j, 3101: Véase h, Omni 1.
+62k, 3102: Alma 46:12-13,36.
+62l, 3103: Véase h, Omni 1.
+62m, 3104: Véase l, Alma 50.
+62n, 3105: Alma 27:26.
+62o, 3106: Véase l, Alma 50.
+62p, 3107: Versículo 23.
