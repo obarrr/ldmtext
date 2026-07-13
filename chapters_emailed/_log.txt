@@ -1,0 +1,6 @@
+# Chapters emailed log — one line per chapter sent, in the order sent.
+# Format: Book|Chapter|YYYY-MM-DD|note
+# Book column matches chapter_map.csv's book key (e.g. "Helaman", not "Helamán").
+Alma|63|2026-07-12|seeded — everything through Alma 63 already emailed manually outside this system
+Helaman|1|2026-07-12|
+Helaman|2|2026-07-12|

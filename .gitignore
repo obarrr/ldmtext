@@ -8,3 +8,15 @@
 /pg72412-h/pg72412-images.html
 /pg72412.txt
 /Pratt 1920 layout.txt
+
+# build/OS artifacts
+__pycache__/
+*.pyc
+Thumbs.db
+.~lock.*#
+
+# local Claude Code settings (machine-specific)
+.claude/settings.local.json
+
+# scratch workspace (drafts, fn_check files, reference corpora, reports)
+workspace/

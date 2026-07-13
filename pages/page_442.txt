@@ -1,0 +1,87 @@
+Página 442
+2. Y la parte de los rebeldes fueron exterminados y arrojados
+del país; yéndose al rey de los Lamanitas.
+3. Y vino á suceder que trataron de excitar á los Lamanitas,
+á que hicieran la guerra á los Nefitas; empero, he aquí, que era
+tal el miedo de los Lamanitas, que no quisieron escuchar las
+palabras de estos disidentes.
+4. Pero acaeció, que en el año quincuagésimo-sexto del gobierno
+de los Jueces, hubo nuevos disidentes que también fueron á
+aumentar el número de los Lamanitas, los que uniendo sus
+esfuerzos á los de los otros, consiguieron al fin excitarles á la ira
+contra los Nefitas; y estuvieron preparándose todo aquel año
+para la guerra.
+5. Y en el año quincuagésimo-séptimo marcharon contra
+los Nefitas, empezando la obra de muerte con tal fuerza, que en
+el año quincuagésimo-octavo consiguieron apoderarse del [3201]país
+de Zarahemla; conquistando también todas las tierras inmediatas
+al [3202]país de Abundancia;
+6. Y los Nefitas, así como los ejércitos de Moronihah, fueron
+rechazados hasta el país de Abundancia;
+7. Y allí se [3203]fortificaron contra los Lamanitas desde el mar del
+Oeste hasta el mar del Este; y esta línea que habían [3204]fortificado
+y guarnecido de tropas para la defensa de sus posesiones
+del Norte, tenía la longitud de un [3205]día de marcha para un Nefita.
+8. Así fué como los disidentes de los Nefitas con la ayuda de
+un formidable ejército Lamanita, se apoderaron de las posesiones
+de los Nefitas en el país del Sud. Todo lo que tuvo lugar en los
+años quincuagésimo-octavo y nono del gobierno de los Jueces.
+9. Y sucedió, que en el año sexagésimo del gobierno de los
+Jueces, consiguió Moronihah con sus ejércitos conquistar muchas
+partes del país, y apoderarse de muchas ciudades que habían
+tomado los Lamanitas.
+10. Y aconteció que en el año sexagésimo-primo del gobierno
+de los Jueces, consiguieron retener hasta la mitad de sus posesiones.
+11. Ahora, esta gran pérdida de los Nefitas, y la gran carnicería
+que hubo entre ellos, no hubiera acontecido, como no hubiese
+sido por sus maldades y por las abominaciones que habían entre
+ellos, siendolos verdaderos culpables los que habían entre ellos,
+que profesaban de pertenecer á la iglesia de Dios;
+12. Y vino á suceder, que á causa del orgullo de sus corazones,
+por las excesivas riquezas que poseían; sí, porque perseguían
+á los pobres, retirando su alimento [3206]de los que tenían hambre,
+
+4a, 3201: Véase h, Omni 1.
+4b, 3202: Véase 2k, Alma 22.
+4c, 3203: Véase c, Alma 48.
+4d, 3204: Véase c, Alma 48.
+4e, 3205: Alma 22:32.
+4f, 3206: Véase l, Mosíah 4.
+
+In 1879 the references d and 3 are inverted but it is actually not an
+error but is a difference in word order for the translation.
+
+Corrections
+[page] Running header "442  LIBRO DE HELAMÁN.  (CAP. IV." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.2] "del país ;" → "del país;" — removed space before semicolon.
+[v.3] "á los Nefitas ;" → "á los Nefitas;" — removed space before semicolon.
+[v.4] "contra los Nefitas ;" → "contra los Nefitas;" — removed space before
+semicolon.
+[v.5] image reads "en al año"; transcribed as "en el año" — likely misprint
+or imaging artifact; verify against 1879 or zoomed crop.
+[v.5] "de Zarahemla ;" → "de Zarahemla;" — removed space before semicolon.
+[v.5] "de Abundancia ;" → "de Abundancia;" — removed space before semicolon.
+[v.6] "Moronihah,fueron" → "Moronihah, fueron" — missing space after comma.
+[v.6] "de Abundancia ;" → "de Abundancia;" — removed space before semicolon.
+[v.7] "del Este ;" → "del Este;" — removed space before semicolon.
+[v.7] "fortifica-" + "do" → "fortificado" — rejoined hyphenated line-break
+split; rejoined word (71 chars) fits end of line.
+[v.10] "pose-" + "siones" → "posesiones" — rejoined hyphenated line-break
+split; rejoined word (70 chars) fits end of line.
+[v.11] "siendolos" — printed as one word; apparent typesetting error for
+"siendo los" (missing space); transcribed as printed.
+[v.11] "de Dios ;" → "de Dios;" — removed space before semicolon.
+[v.12] "poseían ;" → "poseían;" — removed space before semicolon.
+[fn 4b] cross-ref "2k" in Alma 22 — confirmed against 1879 fn_zoom
+("b, see 2k, Alma 22.") — digit 2 confirmed, not a stray mark.
+[fn 4c] "Véase e, Alma 48." → "Véase c, Alma 48." — fn_zoom glyph was an
+unresolvable ink blob at this size; resolved via Alma 48 page 404 fn_zoom,
+whose footnote c is a long cross-reference list explicitly including
+"Helamán ... 4:7" (this verse), while footnote e there is unrelated
+("Véase k, Alma 46"). 1879 fn_zoom corroborates ("c, see c, Alma 48.").
+[fn 4d] "Véase e, Alma 48." → "Véase c, Alma 48." — same target as 4c;
+see note above. 1879 fn_zoom corroborates ("e, see c, Alma 48.").
+[fn 4e] "Alma 22 : 32" → "Alma 22:32" — removed spaces around colon.
+[fn 4f] cross-ref "l" in Mosíah 4 — confirmed lowercase l (not i/1) against
+1879 fn_zoom ("f, see l, Mos. 4.").
