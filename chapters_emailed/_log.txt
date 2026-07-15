@@ -4,3 +4,6 @@
 Alma|63|2026-07-12|seeded — everything through Alma 63 already emailed manually outside this system
 Helaman|1|2026-07-12|
 Helaman|2|2026-07-12|
+Helaman|3|2026-07-13|
+Helaman|4|2026-07-14|
+Helaman|5|2026-07-14|

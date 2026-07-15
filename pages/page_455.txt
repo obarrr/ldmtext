@@ -1,0 +1,83 @@
+Página 455
+21. Empero, he aquí, que ha sido para entregaros al lucro, á
+fin de recibir las alabanzas de los hombres, y para amontonar
+el oro y la plata. Y habéis puesto veustros corazones en las
+riquezas y las cosas vanas de este mundo, por las cuales asesináis,
+robáis, saqueáis, y levantáis falsos testimonios en contra de
+vuestro prójimo, y os entregáis á todas clases de iniquidades;
+22. Y por esto es por lo que caerán sobre vosotros las desgracias,
+á menos que no os arripintáis. Porque si no queréis
+arrepentiros, he aquí, que esta gran ciudad, y todas las que la
+rodean, que están situadas en el país de nuestra posesión, os
+serán quitadas; y no tendréis ningún lugar en ellas; porque, he
+aquí, el Señor no os concederá fuerzas para resistir á vuestros
+enemigos, como lo ha hecho hasta aquí.
+23. Porque, he aquí, así dice el Señor: Yo no manifestaré
+mi fuerza á los malos, tanto á unos como á otros, como no sea
+á los que se arrepientan de sus pecados, y oigan mis palabras;
+porque quiero que sepáis, mis queridos hermanos, que será más
+tolerable para los Lamanitas que para vosotros, á menos que
+os arrepintiereis;
+24. Porque, he aquí, que ellos son más justos que vosotros;
+y no han pecado en contra de aquel gran conocimiento que
+vosotros habéis recibido; por lo tanto, el Señor les será
+misericordioso; sí, Él [3277]prolongará sus días, y aumentará su
+posteridad aun después de que seáis [3278]completamente destruidos, á
+menos que no os arrepintáis;
+25. Sí, ¡ay de vosotros! á causa de esa gran abominación que
+os ha venido; y vosotros os habéis unido á esa [3279]secreta banda
+establecida por Gadianton;
+26. Sí, la desgracia caerá sobre vosotros á causa del orgullo
+que ha entrado en vuestros corazones, que os ha henchido más
+allá de lo que es bueno, á causa de vuestras grandes riquezas;
+27. Sí, ¡ay de vosotros! á causa de vuestros crímenes, y de
+vuestras abominaciones.
+28. Y á menos que no os arrepintáis, pereceréis; sí, aun
+vuestras propias tierras os serán arrebatadas, y seréis [3280]destruidos
+de la superficie de la tierra.
+29. He aquí, ahora os digo que no conozco por mí mismo,
+que sucederán estas cosas; sino que sé que son verdaderas,
+porque el Señor me las ha dado á conocer; y os testifico que así
+sucederán.
+
+7h, 3277: Véase j, Alma 9.
+7i, 3278: Véase m, Alma 9.
+7j, 3279: Véase i, II Nefi 10.
+7k, 3280: Véase m, Alma 9.
+
+Corrections
+[page] Running header "CAP. VII.) LIBRO DE HELAMÁN. 455" discarded.
+[page] "Digitized by Google" watermark removed.
+[fn h-k] Mandatory i/l/1-adjacent swash-font check performed at first
+transcription: the 1920 footnote block's own-letters and cross-reference
+targets are printed in a heavily stylized cursive font where h/i/j/k are
+difficult to distinguish (same pattern as the page 451 precedent in
+libro_de_mormon_rules.md Section 8). A same-image read alone suggested
+"h,Véase i,Alma 9. / i,Véase m,Alma 9. / i,Véase i,II Nefi 10. /
+h,Véase m,Alma 9." — internally inconsistent (repeats "i" as an
+own-letter twice, repeats "h", breaks the expected alphabetical
+h-i-j-k sequence).
+Cross-checked against 1879 (page 458), which prints the same block in
+ordinary clearer type: "h, see j, Alma 9. i, see m, Alma 9. j, see i,
+II. Nep. 10. k, see m, Alma 9." Transcribed per the 1879-confirmed
+reading throughout.
+[v.21] "veustros" — preserved as printed; apparent 1920 error (expected
+"vuestros"); verify against 1886.
+[v.22] "arripintáis" — preserved as printed; apparent 1920 error
+(expected "arrepintáis"; note verse 24 on this same page correctly
+prints "arrepintáis" for the same word, suggesting an isolated typo
+rather than a spelling variant); verify against 1886.
+[v.28] "des-" + "truidos" → "destruidos" — rejoined hyphenated
+line-break split; rejoined line (72 chars) fits end of line.
+[v.22] "des-" + "gracias" → "desgracias" — Session E catch (2026-07-14):
+this hyphenated line-break split was missed at first transcription and
+had already been integrated into librodm.txt with the hyphen still in
+place; fixed in both files. Rejoined line (66 chars) fits end of line.
+Not a 1920 print issue — a transcription omission, no errors in
+1920.txt entry.
+[v.24] "miseri-" + "cordioso" → "misericordioso" — Session E catch
+(2026-07-14), same omission as above, also already in librodm.txt with
+the hyphen still in place; fixed in both files. Rejoined word (73
+chars appended) did NOT fit this time — moved to start of next line
+per rule 7, which cascaded one more word ("posteridad", then "menos")
+down the following two lines per rule 8. Not a 1920 print issue.

@@ -56,21 +56,27 @@ running is ever in context, not all five at once.
   page NNN."
 
 ## Current Progress
-- **Last completed**: pages 441–446 transcribed, footnote-verified, body
-  text inserted into `librodm.txt`, Block 1 footnotes appended to
-  `librodm_foot.txt`, and Block 2 generated and appended to `librodm.txt`
-  (Sessions A, B, C, D all done — `librodm_foot.txt` ends at footnote
-  3236, and `librodm.txt`'s Notas section now goes through 3236 too, all
-  40 new entries resolved with zero unresolved cross-references). Only
-  Session E (orthography check) remains for these pages. WSL + pptext are
-  set up and validated (see `environment_setup.md`); a pptext run against
-  `librodm.txt` (before Session D for these pages, so before the Block 2
-  text existed) found only 2 spellcheck suspects (`lanze`, `siendolos`),
-  both already known from pages 442/445's Corrections logs — re-run
-  pptext after Session D adds new content, since Block 2 text wasn't
-  covered by that earlier run.
-- **Next page**: 447 (Helaman 5 continues; next footnote after 3236)
-- **Completed pages**: 437–446 (in pages/ folder)
+- **Last completed**: pages 451–452 fully done, Sessions A–E all complete.
+  `librodm_foot.txt` ends at footnote 3269; `librodm.txt`'s Notas section
+  goes through 3269 too. Chapters Helamán 1–3 have been emailed (see
+  `chapters_emailed/_log.txt`); Helamán 4 is transcribed but not yet sent.
+  On 2026-07-13, Session E for pages 451-452 also swept the Corrections
+  logs of every earlier page (437-450) per the mandatory check added to
+  the `orthography-check` skill on 2026-07-12 — this was the first time
+  that sweep ran at scale. It found and resolved 6 previously-undetected
+  genuine 1920 errors (Helamán 4:5, 4:14, 5:10, 6:21 ×2, 6:22, 6:38 — see
+  `errors in 1920.txt`) plus one incident where a Session A transcriber
+  had silently "corrected" a suspected misprint (Helamán 4:5 "en al año"
+  → typed as "en el año") instead of preserving it — now fixed in both
+  `page_442.txt` and `librodm.txt`. Going forward this sweep only needs
+  to run against newly-transcribed pages, not re-run from page 437 (see
+  `orthography-check` skill's progress tracker for the exact cutoff).
+  One known gap remains: `errors in 1920.txt`'s "Helamán 5:35 seperado"
+  entry (logged 2026-07-11 or earlier) was never mirrored into
+  `permitted words.txt`, unlike every other preserved-as-printed error —
+  not yet fixed as of 2026-07-13.
+- **Next page**: 453 (Helamán 6 continues; next footnote 3270)
+- **Completed pages**: 437–452 (in pages/ folder)
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

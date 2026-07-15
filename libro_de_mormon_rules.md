@@ -30,6 +30,28 @@
    appended to the first line is under 73 characters, keep it at the end
    of the first line. If 73 or more characters, move it to the start of
    the next line. Never preserve the hyphen split.
+   **Confirmed failure mode (2026-07-14, Helamán 7, page 455):** this
+   rule is easy to apply reliably when something else is already forcing
+   a stop on that exact line (e.g. a footnote marker being inserted
+   nearby, which requires a character-count anyway) — a marker-adjacent
+   hyphen got rejoined correctly for exactly that reason. Two other
+   hyphens on the same page, with no adjacent marker to force a stop,
+   were transcribed straight through with the hyphen still in place: the
+   page also required an unusually large amount of other per-line
+   investigation that session (an 1879 swash-font cross-check across
+   four footnote letters, plus two separate suspected-misprint zooms),
+   and by the time the body text was actually written out, those two
+   lines were being reconstructed from earlier notes rather than
+   re-derived fresh from the image. The rejoin/rebalance step is
+   mechanical and judgment-free — it should be done as one complete pass
+   over every raw line, immediately after reading the image crops and
+   *before* any typo or footnote-letter investigation begins, rather
+   than left to be noticed opportunistically while attention is on
+   something else (see the `transcribe-page` skill's step 5, added for
+   this reason). `check_lines.py` now also flags any line still ending
+   in a bare `-` as a mechanical backstop, but that catches the mistake
+   after the fact — sequencing the mechanical pass first is what
+   prevents it.
 8. If a line as read from the image exceeds 72 characters in the output
    (e.g. due to added footnote markers), remove the last word and place
    it at the start of the next line. Repeat until the line is under 73
@@ -187,7 +209,27 @@ stripped. This matches the headers already present in `librodm_foot.txt`
     and the following comma, semicolon, or colon.
     (e.g. "dijo :" → "dijo:", "sí ," → "sí,", "jamás ;" → "jamás;").
 32. Preserve 1920 Spanish spelling conventions exactly: á, vió, fué, etc.
-    Do NOT modernize.
+    Do NOT modernize. This includes suspected misprints: **never silently
+    substitute what a word or phrase "should" say for what is actually
+    printed, even when you are confident it is a misprint** (confirmed
+    failure mode 2026-07-13, Helamán 4:5). A Session A transcription of
+    page 442 read the 1920 image as printing "en al año" (grammatically
+    wrong; "al" for "el"), correctly noted the anomaly in a Corrections-log
+    comment ("likely misprint... verify against 1879 or zoomed crop"), but
+    then typed the *expected* reading "en el año" into the actual
+    transcribed text anyway — silently fixing what the note itself flagged
+    as unverified. This went undetected through Sessions B and C (both of
+    which read the Corrections note and, seeing no error was actually
+    being reported in the text, moved on) until a later full audit
+    compared the page image directly against `page_442.txt` and found the
+    mismatch, then confirmed via 1886 ("el año" there) that 1920 really
+    does misprint "al". When a suspected misprint is noticed at
+    transcription time, ALWAYS type exactly what the image shows (never
+    the "corrected" reading) and log it in Corrections as "preserved as
+    printed; verify against 1886" — resolving whether it is a genuine
+    error is Session E's job (see the "Mandatory check for any suspected
+    error" section of the `orthography-check` skill), not something to
+    pre-empt by quietly typing the expected word during Session A.
 33. Remove "Digitized by Google" watermark text entirely.
 34. Roman numeral "I" mis-read as digit "1" in book/chapter references
     should be corrected by context.
@@ -215,18 +257,30 @@ stripped. This matches the headers already present in `librodm_foot.txt`
 
 ## 7. Session Workflow
 
-Scripts and PDFs all live in the project folder. Poppler is installed
-via winget; its path is hardcoded in process_page.py.
+Scripts and PDFs all live in the project folder. All three source PDFs
+are pre-rasterized once (via `split_pdfs.py`) into `pages_1920\`,
+`pages_1879\`, `pages_1886\` as 400dpi PNGs — normal per-page work reads
+those PNGs and never touches Poppler. Poppler (`pdftoppm`) is only needed
+for the one-time `split_pdfs.py` run, or if a specific page ever needs
+re-rasterizing above the standard 400dpi (the source scans' native
+resolution is ~600dpi — see `environment_setup.md` for the install path
+if that's ever needed). Use the `py` launcher, not `python`, for every
+script invocation below (confirmed working on this project's Windows
+setup; a bare `python` can resolve to a non-functional Microsoft Store
+stub on some machines).
 
-1. Run from the project folder:
-   `python process_page.py <pdf> <page_label> <first_fn_number>`
-   Image crops are saved to the Windows temp folder (%TEMP%).
+1. Run from the project folder, passing the pre-rasterized PNG from
+   `pages_1920\` (never the source PDF — see note below):
+   `py process_page.py pages_1920\page_0NNNN.png <page_label> <first_fn_number>`
+   where `NNNN` is the FILE page (book_page + 22, per Key Constants in
+   CLAUDE.md), zero-padded to 4 digits. Image crops are saved to the
+   Windows temp folder (%TEMP%).
 2. Read fn_zoom image to identify all footnote superscript letters.
 3. Read top/mid/bot images to confirm body text line endings.
    Use crop_page.py only when a specific region needs closer inspection.
 4. Write output file: body text, then Block 1, then Corrections.
    Save as page_NNN.txt in the project folder.
-5. Run: `python check_lines.py page_NNN.txt` — fix any lines ≥ 80.
+5. Run: `py check_lines.py page_NNN.txt` — fix any lines ≥ 80.
 6. Proceed to the Review Pass (Section 9) before integrating into
    master files.
 
@@ -234,9 +288,12 @@ via winget; its path is hardcoded in process_page.py.
 editor. Example: page 437 starts at footnote 3151.**
 
 Scripts:
-- **process_page.py** — rasterizes PDF at 400dpi via pdftoppm, saves
-  crops: top (0-40%), mid (30-70%), bot (65-90%), fn (87-100%),
-  fn_zoom (footnote area at 3× zoom).
+- **process_page.py** — takes a pre-rasterized PNG (from `pages_1920\`,
+  `pages_1879\`, or `pages_1886\`) and saves crops: top (0-40%), mid
+  (30-70%), bot (65-90%), fn (87-100%), fn_zoom (footnote area at 3×
+  zoom). Can also accept a raw PDF path and rasterize it at 400dpi via
+  pdftoppm (requires Poppler), but that path is redundant for any page
+  already covered by the pre-rasterized folders — use the PNG instead.
 - **check_lines.py** — flags any lines ≥ 73 characters (default; pass a
   second argument to override).
 - **crop_page.py** — zooms into a specific vertical band of the page.
@@ -345,6 +402,26 @@ this same procedure to any other letter** if your own judgment says the
 glyph might be ambiguous, even letters not in this named set — that
 discretion runs only in the direction of doing more checking, never less.
 There is never discretion to skip the check for i, l, or 1 specifically.
+
+**Provisional alphabetical-sequence inference for hard-to-read swash
+letters (validated 2026-07-13, Helamán 6, page 451):** some pages print
+Block 1 reference letters in a heavily stylized cursive/swash font where
+several individual letters in a row (that page's s, t, v, x, y, z) are
+genuinely difficult to distinguish by shape alone, even at high zoom.
+Since footnote letters within a chapter always run strictly alphabetically
+(rule 13) with no gaps or reordering, it is valid to provisionally assign
+letters by position in the sequence plus a content-fit check against each
+target reference (Section 8's content-fit sanity check), then treat that
+assignment as unconfirmed until Session B's independent 1879 check —
+do not skip Session B's check just because the sequence "must" be right.
+On page 451 this approach was later fully confirmed letter-for-letter
+against the clearer 1879 typeface, including body-text marker placement,
+validating both the technique and the specific glyph shapes involved (the
+1879 font renders these as ordinary italic letters, unlike 1920's swash
+style). This is not a substitute for the mandatory i/l/1 check above when
+the ambiguous letter is actually i, l, or 1 — it is a separate, discretionary
+technique for the *other* letters that also happen to be hard to read in
+this particular font.
 
 Procedure:
 

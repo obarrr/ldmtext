@@ -32,6 +32,15 @@ Usage: python insert_body_text.py 441 442 443 444 445 446
 Note: the book-boundary logic has not yet been exercised against real
 data (no page processed so far has crossed a book boundary) -- verify
 its output by hand the first time it actually fires.
+
+Note (2026-07-13): a Block 1 entry that wraps to a second line (e.g.
+page 451's "6v" entry, which spans "Vease Doctrinas y Convenios,
+pagina 11; o Genesis" / "capitulos II y III, ...") used to crash
+append_block1() -- it tried to parse a chapter number out of the raw
+continuation line and raised ValueError. Continuation lines (anything
+that doesn't match FN_LINE, i.e. doesn't start with "<chapter+letter>,
+<number>:") are now passed through unchanged as part of the previous
+entry instead of being treated as a malformed new one.
 """
 import io
 import re
@@ -172,6 +181,10 @@ def append_block1(page_nums, bodies, block1s):
 
     for num in page_nums:
         for raw in block1s[num]:
+            if not FN_LINE.match(raw):
+                # Continuation of a wrapped entry from the previous line.
+                appended.append(raw)
+                continue
             entry = normalize_entry(raw)
             chapter = chapter_of(entry)
             if chapter < last_chapter:

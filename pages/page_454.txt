@@ -1,0 +1,92 @@
+Página 454
+con él en la tierra de [3273]promisión; y entonces su pueblo era fácil
+de persuadir, firme en guardar los mandamientos de Dios,
+y lento en dejarse llevar pos sus iniquidades; hallándose siempre
+pronto á escuchar la palabra del Señor;
+    8. Sí, si yo hubiese vivido en aquellos días, mi alma se hubiera
+regocijado en la rectitud de mis hermanos.
+    9. Pero, he aquí, que fué mi destino el vivir en estos días, y
+mi alma padece amargamente por la iniquidad de mis hermanos.
+    10. Y, he aquí, que esto tuvo lugar en una torre que se hallaba
+en el jardín de Nefi, la cuál estaba situada cerca del camino real,
+que conducía al mercado principal de la [3274]ciudad de Zarahemla;
+y Nefi se había arrodillado sobre esta torre de su jardín; torre que
+se hallaba bastante cerca de la puerta del jardín, que daba
+salida al camino real.
+    11. Y sucedió, que pasando ciertos hombres por allí, vierion
+á Nefi cuando elevaba su alma á Dios sobre la torre; y corrieron
+y dijeron al pueblo lo que habían visto; y vino el pueblo en
+multitudes para conocer la causa del gran dolor que él mostraba
+por sus maldades.
+    12. Y ahora, cuando se levantó Nefi, vió á las multitudes del
+pueblo que se habían reunido.
+    13. Y sucedió que abrió su boca y les dijo: ¿Porqué habéis
+venido aquí? ¿No será para que os hable de vuestras iniquidades?
+    14. ¿Sí, no será porque he subido sobre mi torre para elevar
+mi alma á Dios á causa del excesivo dolor de mi corazon, el cual
+emana de vuestros iniquidas?
+    15. Y á causa de mis gemidos y lamentos, os habéis reunido,
+y admiráis; sí, en verdad que tenéis gran motivo para llenaros
+de admiración, puesto que habéis permitido al diablo que se
+apodere tan fuertemente de vuestros corazones;
+    16. Sí, como habéis podido ceder á las seducciones del que
+constantemente procura sumir á vuestros almas en la miseria
+[3275]sin fin, y en los males de la eternidad.
+    17. ¡Oh, arrepentíos, arrepentíos! ¿Porqué deseáis morir?
+¡Volved, volved al Señor, vuestro Dios! ¿Porqué os ha abandonado
+Él?
+    18. Es porque habéis endurecido vuestros corazones; sí, es
+porque no habéis querido escuchar la voz del [3276]Buen Pastor; sí,
+es porque habéis provocado su cólera contra vosotros:
+    19. Y en lugar de reuniros, he aquí, que si no os arrepentís,
+os dispersará de modo que serviréis de alimento á los perros y
+á las bestias del campo.
+    20. Oh, ¿cómo os habéis podido olvidar de vuestro Dios, en
+el mismo día en que os ha librado?
+
+7d, 3273: Véase a, I Nefi 2.
+7e, 3274: Véase h, Omni 1.
+7f, 3275: Véase m, Jacob 6.
+7g, 3276: Véase 2e, Alma 5.
+
+Corrections
+[page] Running header "454 LIBRO DE HELAMÁN. (CAP. VII." discarded.
+[page] "Digitized by Google" watermark removed.
+[fn] Cross-reference target letters d/e/f/g and their targets (a, h, m,
+2e) verified against 1879 (page 457) — all match exactly, including the
+unusual two-letter "2e" code (Alma 5), confirmed at zoom rather than
+assumed from the swash font alone.
+[v.7] "llevar pos sus iniquidades" — preserved as printed; confirmed
+against 1886 ("llevar por sus iniquidades" there) — likely genuine 1920
+error (expected preposition "por," not "pos"); flag for errors in
+1920.txt at Session E.
+[v.7] "promisión ;" → "promisión;" — removed space before semicolon.
+[v.7] "iniquidades ;" → "iniquidades;" — removed space before semicolon.
+[v.7] "Señor ;" → "Señor;" — removed space before semicolon.
+[v.10] "Zarahemla ;" → "Zarahemla;" — removed space before semicolon.
+[v.10] "jardín ; torre" → "jardín; torre" — removed space before
+semicolon.
+[v.11] "vierion" — preserved as printed; confirmed against 1886
+("viéron" there) — likely genuine 1920 error (extraneous "i"; expected
+"vieron"); flag for errors in 1920.txt at Session E.
+[v.11] "torre ; y corrieron" → "torre; y corrieron" — removed space
+before semicolon.
+[v.11] "visto ; y vino" → "visto; y vino" — removed space before
+semicolon.
+[v.13] "dijo : ¿Porqué" → "dijo: ¿Porqué" — removed space before colon.
+[v.13] "iniqui-" + "dades" → "iniquidades" — rejoined hyphenated
+line-break split; trailing "?" travels with word; rejoined line
+(64 chars) fits end of line.
+[v.14] "vuestros iniquidas" — preserved as printed; confirmed against
+1886 ("vuestras iniquidades" there) — likely genuine 1920 error (wrong
+gender on possessive, and truncated noun; expected "vuestras
+iniquidades"); flag for errors in 1920.txt at Session E.
+[v.15] "admiráis ; sí" → "admiráis; sí" — removed space before
+semicolon.
+[v.15] "corazones ;" → "corazones;" — removed space before semicolon.
+[v.17] "aban-" + "donado" → "abandonado" — rejoined hyphenated
+line-break split; rejoined line (64 chars) fits end of line.
+[v.18] "corazones ; sí" → "corazones; sí" — removed space before
+semicolon.
+[v.18] "Pastor ; sí" → "Pastor; sí" — removed space before semicolon.
+[v.18] "vosotros :" → "vosotros:" — removed space before colon.

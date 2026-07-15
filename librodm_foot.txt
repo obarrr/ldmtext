@@ -3512,3 +3512,29 @@ LIBRO DE HELAMÁN
 6o, 3256: Helamán 2:12-13.
 6p, 3257: Versículo 15.
 6q, 3258: Versículo 15.
+6r, 3259: Véase i, II Nefi 10.
+6s, 3260: Alma 37:27.
+6t, 3261: Alma 37:27-32.
+6u, 3262: Perla de Gran Precio, página 7.
+6v, 3263: Véase Doctrinas y Convenios, página 11; ó Génesis
+capítulos II y III, traducción inspirada por José Smith, hijo.
+6w, 3264: Véase Éther 1.
+6x, 3265: El Libro de Éther.
+6y, 3266: Véase la parte posterior del Libro de Éther.
+6z, 3267: Véase k, I Nefi 15.
+6-2a, 3268: Helamán 2:10-15.
+6-2b, 3269: Véase i, II Nefi 10.
+7a, 3270: Norte América.
+7b, 3271: Véase h, Omni 1.
+7c, 3272: Véase i, II Nefi 10.
+7d, 3273: Véase a, I Nefi 2.
+7e, 3274: Véase h, Omni 1.
+7f, 3275: Véase m, Jacob 6.
+7g, 3276: Véase 2e, Alma 5.
+7h, 3277: Véase j, Alma 9.
+7i, 3278: Véase m, Alma 9.
+7j, 3279: Véase i, II Nefi 10.
+7k, 3280: Véase m, Alma 9.
+8a, 3281: Véase i, II Nefi 10.
+8b, 3282: Véase i, II Nefi 10.
+8c, 3283: Helamán 7:22.

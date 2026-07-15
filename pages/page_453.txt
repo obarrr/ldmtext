@@ -1,0 +1,85 @@
+Página 453
+despedazaron y volvieron la espalda á los pobres, sencillos, y
+humildes servidores de Dios.
+    40. Y así, vemos el miserable estado en que se hallaban, y
+como marchaban á grandes pasos á su eterna destrucción.
+    41. Y sucedió, que así concluyó el año sexagésimo-octavo del
+gobierno de los Jueces sobre el pueblo de Nefi.
+
+CAPÍTULO 7.
+
+PROFECÍA DE NEFI, HIJO DE HELAMÁN.
+
+Amenaza Dios al pueblo de Nefi con que le visitará en su cólera
+para su entera destrucción, á menos que no se arrepienta de
+sus iniquidades. Dios hiere con la peste al pueblo de Nefi:
+arrepiéntese y vuelve á Él. Samuel, el Lamanita, profetiza á
+los Nefitas.
+
+1. He aquí, que sucedió en el año sexagésimo-nono del gobierno
+de los Jueces sobre el pueblo de Nefi, que Nefi, hijo de Helamán,
+volvió del [3270]país del Norte al [3271]país de Zarahemla;
+2. Porque había ido al país del Norte, y había predicado al
+pueblo la palabra de Dios, y le había profetizado muchas cosas;
+3. Pero estos rechazaron sus palabras, de modo que no pudiendo
+permanecer más entre ellos, él se volvió al país de su nacimiento;
+4. Y vió Nefi el horrible estado de perversidad del pueblo,
+y como después de haber usurpado el poder y la autoridad del
+país, estos ladrones de [3272]Gadianton ocupaban el asiento judicial,
+desechando los mandamientos de Dios, y en nada eran justos
+ante Él; no haciendo justicia á los hijos de los hombres;
+5. Condenando á los justos á causa de su rectitud; y dejando
+que el culpable y el malvado escaparan del castigo, á causa de
+su dinero; y á más de esto, se colocaron á la cabeza del gobierno
+para dirijir y obrar según sus deseos; con objeto de enriquecerse
+y de gozar de la gloria de este mundo; y además con el objeto
+de poderse entregar más libremente al adulterio, al robo y al
+asesinato y á obrar en todo según sus deseos.
+6. Ahora, esta gran iniquidad había venido sobre los Nefitas
+en el espacio de pocos años; y cuando Nefi hubo visto todas estas
+cosas, se le hinchó el corazón de doler dentro de su pecho; y
+exclamó en la agonía de su alma:
+7. Oh, que no hubiese yo vivido en los días en que mi padre
+Nefi salió del país de Jerusalem, para que me hubiese regocijado
+
+7a, 3270: Norte América.
+7b, 3271: Véase h, Omni 1.
+7c, 3272: Véase i, II Nefi 10.
+
+Corrections
+[page] Running header "CAP. VII.) LIBRO DE HELAMÁN. 453" discarded.
+[page] "Digitized by Google" watermark removed.
+[format] Chapter 7 opens with a bold-caps title ("PROFECÍA DE NEFI,
+HIJO DE HELAMÁN.") and a 4-line italic argument paragraph between
+"CAPÍTULO 7." and verse 1 — the first occurrence of this pattern in pages transcribed
+so far (chapters 3-6 had none; confirmed by checking the actual 1920
+image for the chapter 6 opening, page 449, which goes straight from
+"CAPÍTULO 6." to verse 1). Formatted here using the book-header style
+(blank line, caps line, blank line) as the closest existing convention;
+no rule currently covers this case. Also note: 1920 prints the order as
+CAPÍTULO 7 -> title -> argument, but both 1879 and 1886 print title ->
+argument -> CHAPTER/CAPÍTULO (verified against both images) — this is a
+genuine 1920 ordering difference, not a transcription error, so the 1920
+order was followed as printed. Flagged for editor review/formatting
+confirmation (see also I Nefi 1 and Mosíah 8 openings in librodm.txt for
+precedent on the more common title-before-chapter ordering).
+[v.1] "Zarahemla ;" → "Zarahemla;" — removed space before semicolon.
+[v.2] "cosas ;" → "cosas;" — removed space before semicolon.
+[v.3] "pudi-" + "endo" → "pudiendo" — rejoined hyphenated line-break
+split; rejoined word (62 chars) fits end of line.
+[v.3] "naci-" + "miento ;" → "nacimiento;" — rejoined hyphenated
+line-break split; trailing semicolon travels with word; removed space
+before semicolon; rejoined line (66 chars) fits.
+[v.4] "Él ; no" → "Él; no" — removed space before semicolon.
+[v.4] "hombres ;" → "hombres;" — removed space before semicolon.
+[v.5] "rectitud ;" → "rectitud;" — removed space before semicolon.
+[v.5] "dinero ;" → "dinero;" — removed space before semicolon.
+[v.5] "deseos ;" → "deseos;" — removed space before semicolon.
+[v.5] "mundo ;" → "mundo;" — removed space before semicolon.
+[v.6] "años ;" → "años;" — removed space before semicolon.
+[v.6] "pecho ;" → "pecho;" — removed space before semicolon.
+[v.6] "alma :" → "alma:" — removed space before colon.
+[v.6] "de doler dentro de su pecho" — preserved as printed; confirmed
+against 1886 ("de dolor dentro de su pecho" there) — likely genuine 1920
+error (expected noun "dolor," not verb "doler"); flag for errors in
+1920.txt at Session E.

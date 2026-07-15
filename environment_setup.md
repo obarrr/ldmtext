@@ -35,19 +35,36 @@ flagged missing accents and a nonsense word under `-a es`).
    - **pdfplumber** — PDF text extraction, used by `draft_page.py` for
      the "Google OCR conflict list" pass.
 
-3. **Poppler** (provides `pdftoppm`, used by `process_page.py` and
-   `split_pdfs.py` to rasterize PDF pages to PNG at 400dpi):
+3. **Poppler** (provides `pdftoppm`, used by `split_pdfs.py` to do the
+   one-time rasterization of all three source PDFs into
+   `pages_1920\`/`pages_1879\`/`pages_1886\` at 400dpi). **Not required
+   for routine Session A/B/C/E work** — `process_page.py` is always
+   called against those pre-rasterized PNGs day to day, and that path
+   never touches Poppler. Only install this if `split_pdfs.py` needs to
+   be (re-)run (new source PDF, missing pages) or a specific page needs
+   re-rasterizing above 400dpi (the source scans' native resolution is
+   ~600dpi, confirmed by inspecting the embedded JBIG2 image dimensions
+   via `pdfplumber` — worth doing as a targeted fallback if a superscript
+   stays ambiguous even after the normal 400dpi + zoom crop):
    `winget install oschwartz10612.Poppler`
-   `process_page.py` has this hardcoded fallback path (falls back to
-   plain `pdftoppm` on `PATH` if not found there):
+   `process_page.py` and `split_pdfs.py` both have this hardcoded
+   fallback path (falls back to plain `pdftoppm` on `PATH` if not found
+   there):
    ```
    C:\Users\<you>\AppData\Local\Microsoft\WinGet\Packages\
    oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe\
    poppler-25.07.0\Library\bin\pdftoppm.exe
    ```
-   If a future winget install lands at a different version/path, either
-   update `PDFTOPPM_PATH` in `process_page.py` or just ensure
-   `pdftoppm.exe` is reachable via `PATH`.
+   This path is per-user (embeds the Windows account name), so it will
+   never resolve on a machine where the project is accessed under a
+   different Windows username than the one Poppler was installed under
+   — confirmed 2026-07-13 on ROBERT-LAPTOP (account `rober`), where the
+   hardcoded path still points at a `Robert O'Barr` account that doesn't
+   exist on that machine, and Poppler was never installed there at all
+   since the pre-rasterized PNGs made it unnecessary. If a future winget
+   install lands at a different version/path, either update
+   `PDFTOPPM_PATH` in both scripts or just ensure `pdftoppm.exe` is
+   reachable via `PATH`.
 
 4. **Tesseract OCR engine** (native binary — `pytesseract` is only a
    wrapper around it): install via the UB-Mannheim Windows build

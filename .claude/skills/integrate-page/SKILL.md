@@ -31,6 +31,17 @@ and Block 1 entries, and writes the results back to both master files. Add
 already inserted in an earlier run, or `--body-only` to insert just the
 body text and defer the Block 1 append to a later run.
 
+If the script crashes partway through (confirmed 2026-07-13: a Block 1
+entry that wraps to a second line used to raise `ValueError` in
+`append_block1()`, after body-text insertion had already succeeded),
+check which half actually completed before re-running — `git diff` or
+grep for the page's `Página N` line in `librodm.txt` to confirm body
+text landed exactly once, then re-run with `--footnotes-only` rather
+than re-running the full command (which would duplicate the body text).
+The specific wrapped-entry bug is now fixed, but the general lesson
+(check state after any crash before retrying) still applies to any
+future failure mode.
+
 Output: `librodm.txt` and `librodm_foot.txt` updated. Block 2 generation
 (resolving cross-references to sequential numbers) happens next in
 Session D, before Session E's orthography check.

@@ -46,14 +46,72 @@ Trigger: "Orthography check for page NNN."
 
 Output: `permitted words.txt` and/or `errors in 1920.txt` updated.
 
+**Before proposing a `permitted words.txt` addition for a word noticed
+by eye rather than sourced from an actual pptext flag, confirm pptext
+actually flags it** (confirmed gap 2026-07-13): while auditing an older
+page's Corrections log, "Jesu Cristo" (unaccented "Jesu") looked like a
+natural spellcheck-suppression candidate — but a fresh pptext report
+showed zero hits for "Jesu" anywhere in the ~1.15MB document despite 26
+existing occurrences. aspell's Spanish dictionary already accepts it on
+its own (almost certainly the old Spanish vocative/combining form of
+"Jesús" used before another name, e.g. "Jesu Cristo," "Jesu Nazareno" —
+the same pattern as "San" before "Pedro" instead of "Santo"), so it was
+never being suppressed via the good-words list in the first place, and
+adding it would have been a no-op. `permitted words.txt` only matters for
+words aspell would otherwise flag — verify that's actually true (re-check
+the current pptext report's Spellcheck Suspect Words section) before
+adding anything discovered by manual reading rather than by the report
+itself. This does not apply to words that already came from an actual
+pptext flag (the normal case in step 3 above) — only to candidates
+surfaced some other way, e.g. from a Corrections-log audit.
+
 ## Mandatory check for any suspected error, in any section
 
 This applies everywhere in Session E, not just the spellcheck/flagged-word
 step above — every pptext section (dash, footnote, scanno, curly quote,
-special situations, book/paragraph level, Jeebies) and anything noticed by
-eye while reading `librodm.txt` directly. Whenever something looks like it
-might be a typographical or other error in the 1920 print itself (as
-opposed to a pure transcription-accuracy question):
+special situations, book/paragraph level, Jeebies), anything noticed by
+eye while reading `librodm.txt` directly, **and every entry in the page's
+own Corrections log** (`pages/page_NNN.txt`, the notes Sessions A/B/C
+leave behind, e.g. "preserved as printed" / "apparent 1920 original
+error" / "transcribed as printed"). That log is where a real error can
+slip through undetected: it gets noted at transcription time but nothing
+forces it to be checked against 1886 or promoted to `errors in 1920.txt`
+— this happened with Helamán 3:32 "reinó las paz" (correctly flagged in
+`page_441.txt`'s Corrections log back in Session A/B, but never checked
+against 1886 or added to the master file until a reader found it later
+in an emailed chapter). **Before finishing Session E for a page, read
+that page's full Corrections log line by line and run every flagged
+item through the same three-step check below**, exactly as if it had
+just been noticed in `librodm.txt` — don't assume a note already being
+in the Corrections log means it was resolved; the log records what was
+*observed*, not what was *verified against 1886 or promoted*.
+
+**Audit progress tracker**: this full-history sweep (every page's own
+Corrections log, not just the current page's) was first run at scale on
+2026-07-13, covering pages 437–452. It found and resolved 6
+previously-undetected genuine 1920 errors (Helamán 4:5, 4:14, 5:10,
+6:21 ×2, 6:22, 6:38 — see `errors in 1920.txt`) plus confirmed one
+non-error ("Jesu Cristo," legitimate, matches 1886). It also caught a
+transcription bug distinct from the missed-promotion pattern above: page
+442's Corrections note for Helamán 4:5 correctly flagged a suspected
+misprint, but the transcribed text itself had been silently changed to
+the "expected" reading instead of preserving what was printed — see the
+new note under rule 32 in `libro_de_mormon_rules.md` Section 6 for the
+general rule this violated. **Going forward, a fresh page's Session E only needs to
+sweep that page's own Corrections log** (the instruction two paragraphs
+up) — pages 437–452 are now a clean baseline and don't need re-auditing
+unless their transcriptions themselves change. One known gap surfaced
+but not yet fixed as of 2026-07-13: `errors in 1920.txt`'s "Helamán 5:35
+seperado" entry (logged 2026-07-11 or earlier) was never mirrored into
+`permitted words.txt`, unlike every other preserved-as-printed error —
+worth fixing whenever next touched, and worth spot-checking that new
+`errors in 1920.txt` entries for preserved-as-printed words also get
+their `permitted words.txt` counterpart (rule 10) at the time they're
+added, not just eventually.
+
+Whenever something looks like it might be a typographical or other error
+in the 1920 print itself (as opposed to a pure transcription-accuracy
+question):
 
 1. **Check the matching 1886 image** at that exact location
    (`chapter_map.csv` for the file page, `process_page.py`/`crop_page.py`

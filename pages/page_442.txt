@@ -11,7 +11,7 @@ aumentar el número de los Lamanitas, los que uniendo sus
 esfuerzos á los de los otros, consiguieron al fin excitarles á la ira
 contra los Nefitas; y estuvieron preparándose todo aquel año
 para la guerra.
-5. Y en el año quincuagésimo-séptimo marcharon contra
+5. Y en al año quincuagésimo-séptimo marcharon contra
 los Nefitas, empezando la obra de muerte con tal fuerza, que en
 el año quincuagésimo-octavo consiguieron apoderarse del [3201]país
 de Zarahemla; conquistando también todas las tierras inmediatas
@@ -58,8 +58,8 @@ Corrections
 [v.3] "á los Nefitas ;" → "á los Nefitas;" — removed space before semicolon.
 [v.4] "contra los Nefitas ;" → "contra los Nefitas;" — removed space before
 semicolon.
-[v.5] image reads "en al año"; transcribed as "en el año" — likely misprint
-or imaging artifact; verify against 1879 or zoomed crop.
+[v.5] "en al año" — preserved as printed; confirmed genuine 1920 error
+against 1886 ("en el año" there); logged in errors in 1920.txt.
 [v.5] "de Zarahemla ;" → "de Zarahemla;" — removed space before semicolon.
 [v.5] "de Abundancia ;" → "de Abundancia;" — removed space before semicolon.
 [v.6] "Moronihah,fueron" → "Moronihah, fueron" — missing space after comma.
