@@ -1,0 +1,95 @@
+Página 458
+20. Y, he quí, también lo mismo han hecho [3288]Zenoch. [3289]Ezías,
+Isafas y Jeremías, (Jeremías siendo el mismo profeta que vaticinó
+la destrucción de Jerusalem.) Y, ahora, sabemos que Jerusalem
+ha sido destruida según las palabras de Jeremías. Así pues,
+¿porqué no ha de venir el Hijo de Dios según su profecía?
+21. Y ahora ¿disputaréis también que la ciudad de Jerusalem
+no ha-sido destruida? ¿Diréis que los hijos de Sedecías
+no fueron asesinados, excepto [3290]Mulek? ¿Y no véis que la
+posteridad de Sedecías está con nosotros, y que fué echada
+del país de Jerusalem? Empero, he aquí, que esto no es todo.
+22. Y nuestro propio padre Lehi fué echado de Jerusalem,
+porque testificó estas cosas. También Nefi dió testimonio de
+ellas, así como casi todos nuestros padres, hasta nuestros días,
+sí, ellos han dado testimonio de la venida de Cristo, han mirado
+hacia el porvenir, y se han regocijado en su día que está para
+venir.
+23. Porque, he aquí, Él es Dios, está con ellos, y se les manifiesta,
+para que sean redimidos por Él; y ellos le glorifican á
+causa de lo que ha de venir.
+24. Y ahora, puesto que conocéis estas cosas, sin que las podáis
+negar, á menos de que no mintáis, por lo tanto habéis pecado
+en esto, porque habéis desechado estas cosas á pesar de las
+numerosas evidencias que habéis recibido; sí, vosotros habéis
+recibido todas las cosas, tanto las del cielo como las de la tierra,
+como testimonio de que son verdaderas.
+25. Pero, he aquí, que habéis despreciado la verdad, y os
+habéis rebelado contra vuestro Santo Dios; y aun hoy mismo
+en lugar de amontonar [3291]tesoros para vosotros en el cielo, dónde
+nada se corrompe, y á donde nada impuro puede penetrar, estáis
+amontonando por vosotros mismos la ira para el día del juicio;
+26. Sí, aun ahora mismo, á causa de vuestros asesinatos, de
+vuestras fornicaciones y vuestros crímenes estáis sazonando
+realmente para vuestra eterna destrucción; sí, y excepto que
+os arrepintiereis pronto, ella caerá sobre vosotros;
+27. Sí, he aquí, está ahora á vuestras puertas; sí, id al asiento
+judicial é investigad; y veréis que vuestro Juez ha sido asesinado,
+y yace bañado en su sangre, habiendo sido asesinado [3292]por su
+mismo hermano, él que ambiciona sentarse en el asiento judicial.
+28. Y, he aquí, que pertenecen ambos á vuestra banda [3293]secreta,
+cuyo autor ha sido Gadianton, y el inicuo que trata de destruir
+las almas de los hombres.
+
+8h, 3288: Véase g, I Nefi 19.
+8i, 3289: Ezías pudiera haber sido idéntico con Isaías, quién vivió
+contemporáneamente con Abraham; Véase Doctrinas y Convenios 84:11-13.
+8j, 3290: Helamán 6:10; Véase h, Omni 1; Ezequiel 17:22-23; Véase i,
+Omni 1.
+8k, 3291: Véase c, Helamán 5.
+8l, 3292: Helamán 9:6,26-28.
+8m, 3293: Véase i, II Nefi 10.
+
+Corrections
+[page] Running header "458 LIBEO DE HELAMÁN. (CAP. VIII." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.20] "he quí" — preserved as printed; apparent missing "a" (expected
+"he aquí"); verify against 1886.
+[v.20] "Zenoch." — preserved as printed; period where a comma is
+expected (the sentence continues as a list: "Ezías, Isafas y
+Jeremías"); cross-checked against 1879 ("also Zenock, and also Ezias,
+and also Isaiah, and Jeremiah"), which confirms a comma is intended;
+verify against 1886.
+[v.20] "Isafas" — preserved as printed; apparent 1920 error (expected
+"Isaías"); cross-checked against 1879 ("Isaiah"); verify against 1886.
+[v.21] "Jerusa-" + "lem" → "Jerusalem" — rejoined hyphenated
+line-break split; rejoined line fits end of line.
+[v.21] "ha-sido" — preserved as printed; stray hyphen between "ha" and
+"sido" with no clear function (not a line-break word split, and "ha
+sido" is otherwise two ordinary words); verify against 1886.
+[v.23] "ma-" + "nifiesta," → "manifiesta," — rejoined hyphenated
+line-break split; rejoined line (69 chars) fits end of line.
+[fn i] Cross-checked against 1879 (page 460): confirmed footnote text
+and letter exactly as read from the 1920 image.
+[fn j] 1920 prints "Ezequiel 17:22,23" (non-consecutive comma); verses
+22-23 are consecutive, so formatted as "17:22-23" per rule 23.
+[fn i/j/k/l/m] Mandatory 1879 check for letters i and l (own lettering)
+and the "Véase i" cross-reference targets in fn j and fn m: checked
+against 1879 (page 461, not 460 — the chapter's j-m footnotes fall on
+the page after the i footnote); 1879 confirms i and l exactly as read
+from the 1920 image (1879 uses plain italic type here,
+unambiguous: "i" shows a dot, "l" is a continuous stroke with no dot).
+Same-page 1920 glyph comparison (rule Section 8 step 1) independently
+agrees: the "i" glyphs (fn i's own letter; the "Véase i," targets in
+fn j and fn m) all show a short stroke with a separated dot, while fn
+l's own letter and its body-text marker (before "por" in v.27) both
+show a continuous unbroken curve with no dot — consistently distinct
+from each other in this page's type.
+[fn l] 1879 (page 461) reads "Hela. 9:6,26-38" — the 1920 print reads
+"9:6,26-28" (verified by close zoom: unambiguous "8," not "3," no
+glyph ambiguity involved). Content check: Helamán 9:6-38 covers the
+murder of the chief judge's brother, and the narrative continues
+through v.38, supporting the 1879 range as the intended one; 1886 has
+no footnote apparatus on this page so it can't corroborate either way.
+Logged as a probable 1920 error in "errors in 1920.txt"; text preserved
+as printed here per rule (never silently correct).

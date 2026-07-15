@@ -46,6 +46,39 @@ Trigger: "Orthography check for page NNN."
 
 Output: `permitted words.txt` and/or `errors in 1920.txt` updated.
 
+**`errors in 1920.txt` new entries must be inserted in book/chapter/verse
+order, never appended to the end of the file** (confirmed failure mode,
+found and fixed 2026-07-14): the file is organized in canonical
+Book-of-Mormon order (1 Nefi → 2 Nefi → Jacob → ... → Helamán → ...),
+and every entry within a book runs in ascending chapter:verse order,
+with chapter headings/footnote-only entries slotted near their
+approximate verse position. For the entire history of this file, a
+plain end-of-file append happened to *equal* correct sorted order,
+because Session E only ever checked the page(s) currently being
+transcribed, and pages are always transcribed in book order — so "new
+finding" and "next in book order" were the same thing. That stopped
+being true once whole-document sweeps were introduced (the "Mandatory
+check" section above, and the pptext full-report walkthrough's
+`errors in 1920.txt`-writing checks like "full stop followed by
+unexpected sequence"): a single sweep can surface confirmed errors in
+several different, already-transcribed books/chapters at once (e.g. one
+2026-07-12 sweep found hits in Alma 13, 17, 43, 48, 49, 52, 57 *and*
+Jacob 2 *and* Helamán, all in the same pass, while the page actively
+being transcribed was in Helamán). Appending all of these to the end
+of the file — instead of inserting each one at its own correct earlier
+position — scattered Alma- and Jacob-book entries into the middle of
+the Helamán section, and even shuffled the relative order of Helamán
+entries found across two different sweep dates. This went unnoticed for
+two commits before a user caught it by inspection. **Going forward:**
+when a sweep or check finds confirmed errors outside the book/chapter
+currently being transcribed, locate the correct insertion point for
+each one individually (search the file for the nearest existing
+Book/Chapter:Verse entry and insert immediately before/after it in
+ascending verse order) rather than adding it wherever the file
+currently ends. Plain append is still fine — and simplest — for the
+common case where every new finding belongs to the page(s) just
+transcribed, since that will always land at the true end of the file.
+
 **Before proposing a `permitted words.txt` addition for a word noticed
 by eye rather than sourced from an actual pptext flag, confirm pptext
 actually flags it** (confirmed gap 2026-07-13): while auditing an older

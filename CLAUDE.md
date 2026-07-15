@@ -75,6 +75,19 @@ running is ever in context, not all five at once.
   entry (logged 2026-07-11 or earlier) was never mirrored into
   `permitted words.txt`, unlike every other preserved-as-printed error —
   not yet fixed as of 2026-07-13.
+- **2026-07-14**: user spotted that `errors in 1920.txt` had Alma-book
+  entries scattered into the middle of the Helamán section, out of
+  book/chapter/verse order. Root cause: two commits' worth of
+  whole-document Session E sweeps (2026-07-12 and 2026-07-14) found
+  confirmed errors spanning several already-transcribed books/chapters
+  in a single pass, but all new findings were appended to the literal
+  end of the file — which only produces correct order when every
+  finding belongs to the page currently being transcribed. Fixed by
+  reordering the file (verified as a pure line reordering — same
+  535-line multiset before/after, nothing added/changed/lost) and by
+  adding an explicit insert-in-order instruction to the
+  `orthography-check` skill so future multi-book sweeps place each
+  finding at its correct position instead of appending.
 - **Next page**: 453 (Helamán 6 continues; next footnote 3270)
 - **Completed pages**: 437–452 (in pages/ folder)
 
