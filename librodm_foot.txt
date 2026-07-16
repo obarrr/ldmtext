@@ -3550,3 +3550,28 @@ Omni 1.
 8k, 3291: Véase c, Helamán 5.
 8l, 3292: Helamán 9:6,26-28.
 8m, 3293: Véase i, II Nefi 10.
+9a, 3294: Versículos 7-9,12-18.
+9b, 3295: Helamán 8:27.
+9c, 3296: Véase l, Helamán 8.
+9d, 3297: Véase a.
+9e, 3298: Helamán 7:10-11,14.
+9f, 3299: Véase a.
+9g, 3300: Véase t, Mosíah 27.
+9h, 3301: Véase a.
+9i, 3302: Véase a.
+9j, 3303: Versículo 9.
+9k, 3304: Helamán 8:27.
+9l, 3305: Véase a.
+9m, 3306: Véase l, Helamán 8.
+9n, 3307: Véase a.
+10a, 3308: Véase i, II Nefi 10.
+10b, 3309: Helamán 11:4-18.
+10c, 3310: Éther 12:30; Véase c, Jacob 4.
+10d, 3311: Versículos 12-14.
+10e, 3312: Helamán 8:27; 9:26-38.
+10f, 3313: Versículo 11.
+10g, 3314: Actos 8:39-40.
+10h, 3315: Versículo 16.
+11a, 3316: Véase i, II Nefi 10.
+11b, 3317: Véase b, Helamán 10.
+11c, 3318: Helamán 10:11-14.

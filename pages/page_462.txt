@@ -1,0 +1,85 @@
+Página 462
+entonces conoceréis que yo soy hombre honrado y que vengo á
+vosotros enviado por Dios.
+37. Y aconteció, que fueron é hicieron según Nefi les había
+dicho. Y, he aquí, que lo que él les había dicho, era la verdad;
+pues según sus palabras él negó; y también según sus palabras
+confesó.
+38. Y él fué traído á probar que era el esesino, de tal manera
+que los cinco fueron puestos en libertad, lo mismo que Nefi.
+39. Y hubieron algunos de los Nefitas que creyeron en las
+palabras de Nefi; y algunos otros creyeron también por el
+testimonio de los [3307]cinco, porque se habían convertido mientras
+que estuvieron en la prisión.
+40. Y habían algunos entre el pueblo, que decían que Nefi
+era profeta,
+41. Y otros decían que era un Dios; porque si no fuera un
+Dios, no podría conocer todas estas cosas; porque él nos ha dicho
+los pensamientos de nuestros corazones y nos ha revelado muchas
+cosas; y hasta él es quién nos ha hecho conocer al verdadero
+asesino de nuestro Juez Superior.
+
+CAPÍTULO 10.
+
+1. Y aconteció, que levantóse entonces una gran división entre
+el pueblo, de tal modo, que se dividió y siguió sus caminos, unos
+por un lado y otros por otro, dejando sólo á Nefi, según se hallaba
+en medio de ellos.
+2. Y sucedió, que Nefi siguió su camino hacia su casa, meditando
+sobre las cosas que el Señor le había revelado.
+3. Y aceció, que según se hallaba sumido en su meditación—
+siendo extremadamente desanimado por la perversidad de los
+Nefitas, de sus tenebrosas [3308]obras, de sus asesinatos, pillajes y
+toda clase de iniquidades—sucedió que según meditaba todo
+esto en su corazón, he aquí, que se oyó una voz que decía:
+4. Bendito eres tú, Nefi, por la obra que has hecho; porque
+he visto como has sido infatigable en predicar la palabra que
+te he dado para este pueblo. Y no les has temido, ni has cuidado
+de tu vida, sino que has tratado de cumplir mi voluntad; y has
+guardado mis mandamientos.
+5. Y porque has obrado así con tan infatigable voluntad,
+he aquí, que yo te bendeciré para siempre, y te haré poderoso
+en hechos y en palabras, en fe y en obras, sí, aun hasta que todas
+
+9n, 3307: Véase a.
+10a, 3308: Véase i, II Nefi 10.
+
+Corrections
+[page] Running header "462 LIBRO DE HELAMÁN. (CAP. X." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.1] Stray raised dot printed between "que" and "levantóse" in the
+image; not reproduced — same printing-defect pattern as page 461
+v.22's "ahullar" dot.
+[v.2] "medi-" + "tando" → "meditando" — rejoined hyphenated
+line-break split.
+[v.38] "esesino" — preserved as printed; apparent 1920 misprint for
+"asesino".
+[fn n] Footnote marker "n" (superscript before "cinco", v.39)
+cross-references "a" (back-reference within chapter 9); letter is
+unambiguous, no 1879 check required.
+[v.3, cap.10] "aceció" — preserved as printed; apparent 1920 misprint
+for "acaeció" (confirmed via 1886, page 459: "Y acaeció que según se
+hallaba..."; RAE confirms acaecer/acaeció is a legitimate verb meaning
+"suceder"; corpora show it's well-attested independent of "aconteció",
+the word I'd initially guessed at transcription time).
+[v.3, cap.10] Em dashes ("meditación—", "iniquidades—") reproduced as
+printed (single em dash, no surrounding spaces).
+[fn a, cap.10] Footnote marker "a" (chapter 10's first footnote,
+superscript before "obras") cross-references "i, II Nefi 10" —
+ambiguous i/l/1 target letter, cross-checked against 1879 (page 465):
+"a, see i, II. Nep. 10." — confirms the target is "i". Content fit:
+v.3's "tenebrosas obras" (works of darkness) is thematically
+plausible for a II Nephi 10 cross-reference.
+[v.5] Transcribed as "hasta que" (two words) — the 1920 image shows a
+tighter-than-usual but genuine space here; per editor review, this is
+ordinary inconsistent inter-word spacing (this printing's justified
+text varies from a full character-width space down to quite narrow),
+not a merged-word error. Not flagged in errors in 1920.txt.
+[fn n/a] Session B re-check (2026-07-15): independently re-fetched
+1879 page 464 (n, chapter 9) and page 465 (a, chapter 10) — fresh
+reads, not reused from Session A. Page 464: "n, see a." confirms the
+chapter-9 back-reference. Page 465: "a, see i, II. Nep. 10." confirms
+the target letter for chapter 10's first footnote is "i". Block 1
+reference text and both [3307]/[3308] marker placements (before
+"cinco" v.39, and before "obras" ch.10 v.3) match the 1920 image
+exactly.

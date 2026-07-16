@@ -1,0 +1,87 @@
+Página 459
+
+CAPÍTULO 9.
+
+1. Y, he aquí, que ahora cuando Nefi hubo pronunciado estas
+palabras, que ciertos hombres que estaban entre ellos, corrieron
+al asiento judicial; sí, y eran [3294]cinco los que fueron, los
+que iban, diciendo entre sí:
+2. Ahora vamos á saber con certeza, si este hombre es profeta
+ó no; y si ha sido mandado por Dios á que nos profetice tantas
+cosas maravillosas. He aquí, que nosotros no creemos que lo sea;
+sí, no creemos que es profeta; no obstante, si lo que ha dicho
+tocante al Juez Superior es cierto, si él es muerto, entonces
+creeremos que las demás de sus palabras son también verdaderas.
+3. Y vino á suceder, que habiendo corrido con todas sus fuerzas,
+llegaron al asiento judicial; y, he aquí, que el Juez yacía en el
+suelo, [3295]bañado en su propia sangre.
+4. Y ahora, he aquí. que caundo hubieron visto esto, quedaron
+tan atónitos que cayeron por tierra; porque no habían creído
+las palabras de Nefi relativamente al Juez Superior.
+5. Pero ahora, cuando le vieron, se convencieron de ello; y
+apoderóse de ellos el miedo de que vinieren sobre el pueblo los
+juicios predichos por Nefi, se quedaron temblando, y cayeron
+al suelo.
+6. Ahora, inmediatamente después que el Juez fué asesinado,
+siéndolo por el puñal de [3296]su mismo hermano, oculto bajo un
+disfraz secreto; él huyó, y los siervos corrieron, y se lo dijeron
+al pueblo. levantanado el grito de asesino entre ellos.
+7. Y, he aquí, que se reunió el pueblo al lugar del asiento
+judicial; y, he aquí, que á su mayor admiración, vieron á
+aquéllos [3297]cinco hombres que habían caído al suelo.
+8. Y, he aquí, ahora, que como el pueblo no sabía nada acerca
+de la multitud reunida en el [3298]jardín de Nefi; por lo tanto
+dijeron entre sí: [3299]Estos hombres son los que han asesinado
+al Juez, y Dios les ha herido para que no pudieren escapar de
+nostros.
+9. Y vino á suceder, que apoderándose de ellos, les ataron, y
+les pusieron en prisión. Y enviaron por todas partes una
+proclamación, para anunciar el asesinato del Juez, y que los
+asesinos habían sido prendidos y aprisionados.
+10. Y sucedió que se reunió el pueblo en la mañana siguiente
+
+9a, 3294: Versículos 7-9,12-18.
+9b, 3295: Helamán 8:27.
+9c, 3296: Véase l, Helamán 8.
+9d, 3297: Véase a.
+9e, 3298: Helamán 7:10-11,14.
+9f, 3299: Véase a.
+
+Corrections
+[page] Running header "CAP. IX.) LIBRO DE HELAMÁN. 459" discarded.
+[v.3] "Y vinoá suceder" — printed with tight/no visible space between
+"vino" and "á"; transcribed with normal space per standard phrase usage
+throughout the document (font kerning artifact, not a missing-space
+error).
+[v.4] "he aquí. que" — preserved as printed; period where a comma is
+expected (sentence continues); verify against 1886.
+[v.4] "caundo" — preserved as printed; apparent 1920 error (expected
+"cuando"); verify against 1886.
+[v.6] "al pueblo. levantanado" — preserved as printed; period followed
+by lowercase continuation (full-stop-then-lowercase pattern seen
+elsewhere in this document); verify against 1886.
+[v.6] "levantanado" — preserved as printed; apparent 1920 error
+(expected "levantando"); verify against 1886.
+[v.8] "nostros" — preserved as printed; established 1920 error for
+"nosotros" (already in permitted words.txt from prior occurrences,
+e.g. Mosiah 20:19).
+[v.8] "para que no  pudieren" — double space in source between "no" and
+"pudieren" collapsed to single space (print/OCR spacing artifact, not
+a transcription-meaningful feature).
+[fn c] Mandatory 1879 check (target letter ambiguous, could read as "i"
+or "l" in the 1920 swash-adjacent font): cross-checked against 1879
+(page 462): "c, see l, Hela. 8." — confirms "l", not "i". Content fit
+also strongly supports "l": 1920's own Helamán 8l (footnote 3292)
+reads "Helamán 9:6,26-28" — a forward cross-reference to this exact
+verse (the chief judge's murder) — while chapter 8's "i" footnote
+(3289, about Ezías/Isaías/Jeremías) has no thematic connection.
+[fn a/b/d/e/f] Cross-checked against 1879 (pages 453/462): confirms
+letters and reference content exactly as read from the 1920 image.
+[fn e] 1920 prints "Helamán 7:10, 11, 14," (comma-separated, not
+hyphenated) — verses 10 and 11 are consecutive, so formatted as
+"10-11,14" per rule 23/24; not a body-text preservation issue since
+Block 1 already normalizes verse-citation punctuation.
+[page boundary] Verse 10 is cut off mid-sentence at the bottom of the
+page ("...en la mañana siguiente"); continues on page 460 per rule 10
+(no hyphenated word split at the boundary, so no page-459 revision
+needed once page 460 is transcribed).

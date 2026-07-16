@@ -526,6 +526,18 @@ Helamán 6:21 he aquí. (he aquí,) (he aquí, en 1886)
 Helamán 6:21 protergerse (protegerse) (protegerse en 1886)
 Helamán 6:22 la banda. (la banda,) (la banda, en 1886)
 Helamán 6:38 su planes (sus planes) (sus planes en 1886)
+Helamán 7 (encabezado) orden invertido: en 1920 el título "PROFECÍA
+DE NEFI, HIJO DE HELAMÁN.—Amenaza Dios al pueblo de Nefi..." se
+imprime después de "CAPÍTULO 7." (entre el número de capítulo y el
+texto del capítulo). En 1886 (página 450, al final del capítulo 6) y en
+1879 (página 448, al final del capítulo 6) este mismo encabezado
+aparece antes de "CAPÍTULO 7." — y por su contenido corresponde a
+toda la sección que va del capítulo 7 hasta el final del Libro de
+Helamán (cap. 16), no solo al capítulo 7, por lo que su lugar lógico es
+antes del número de capítulo, no después. Orden correcto (1886/1879):
+encabezado, CAPÍTULO 7., texto. Orden en 1920 (invertido): CAPÍTULO
+7., encabezado, texto. No corregido aún en la transcripción; pendiente
+de decisión editorial.
 Helamán 7 (encabezado) arrepiéntese (arrepiéntase) (arrepiéntese también en 1886 — mismo error en ambas ediciones; no coincide con ninguna forma de conjugación moderna ni histórica hallada)
 Helamán 7:6 doler (dolor) (dolor en 1886)
 Helamán 7:7 pos (por) (por en 1886)
@@ -544,3 +556,18 @@ Footnote Helamán 8l, 3292: Helamán 9:6,26-28 (Helamán 9:6,26-38 en 1879
 v.38, lo que respalda la lectura de 1879; 1886 no tiene aparato de
 notas en esta página, así que no hay una tercera fuente para dirimir);
 texto conservado como aparece impreso en 1920.
+Helamán 9:4 he aquí. (he aquí,) (hé aquí, en 1886)
+Helamán 9:4 caundo (cuando) (cuando en 1886)
+Helamán 9:6 al pueblo. (al pueblo,) (pueblo, en 1886)
+Helamán 9:6 levantanado (levantando) (levantando en 1886)
+Helamán 9:11 reunírse (reunirse) (reunirse en 1886 — sin acento; el infinitivo pronominal es palabra llana terminada en vocal y no lleva tilde según la RAE)
+Helamán 9:14 sito judicial (sitio judicial) (sitio judicial en 1886)
+Helamán 9:30 abstante (obstante) (obstante en 1886; sin entrada en RAE; "obstante" aparece 91 veces en el resto del documento contra esta única excepción)
+Helamán 9:38 esesino (asesino) (asesino en 1886)
+Helamán 10:3 aceció (acaeció) (acaeció en 1886; RAE confirma acaecer/acaeció como verbo legítimo que significa "suceder"; bien atestiguado en los corpus de referencia independientemente de "aconteció")
+Helamán 10:14 arrepintieiereis (arrepintiereis) (arrepintiéreis en 1886; la forma correcta sin acento ya está establecida en este documento — 11 apariciones previas, incluyendo el v.11 de esta misma página — la "ie" duplicada es un error tipográfico aislado de 1920)
+Helamán 10:15 corazones. y no (corazones, y no) (corazones, y no en 1886 — coma, no punto; mismo patrón de "punto seguido de minúscula" ya documentado en Alma 43:9, 48:6, 49:3, 52:34, 57:6 y Helamán 5:2)
+Helamán 10:15 prisón (prisión) (prision en 1886)
+Helamán 11:2 detrucción (destrucción) (destruccion en 1886)
+Helamán 11:3 septusgésimo-tercio (septuagésimo-tercio) (septuagésimo-tercio en 1886; también inconsistente con "septuagésimo-primo/-segundo/-cuarto/-quinto," correctamente escritos en esta misma página de 1920)
+Helamán 11:8 hombres de Dios (hombre de Dios) (hombre de Dios en 1886, singular — concuerda con el verbo singular "eres")

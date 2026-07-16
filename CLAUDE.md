@@ -56,25 +56,11 @@ running is ever in context, not all five at once.
   page NNN."
 
 ## Current Progress
-- **Last completed**: pages 451–452 fully done, Sessions A–E all complete.
-  `librodm_foot.txt` ends at footnote 3269; `librodm.txt`'s Notas section
-  goes through 3269 too. Chapters Helamán 1–3 have been emailed (see
-  `chapters_emailed/_log.txt`); Helamán 4 is transcribed but not yet sent.
-  On 2026-07-13, Session E for pages 451-452 also swept the Corrections
-  logs of every earlier page (437-450) per the mandatory check added to
-  the `orthography-check` skill on 2026-07-12 — this was the first time
-  that sweep ran at scale. It found and resolved 6 previously-undetected
-  genuine 1920 errors (Helamán 4:5, 4:14, 5:10, 6:21 ×2, 6:22, 6:38 — see
-  `errors in 1920.txt`) plus one incident where a Session A transcriber
-  had silently "corrected" a suspected misprint (Helamán 4:5 "en al año"
-  → typed as "en el año") instead of preserving it — now fixed in both
-  `page_442.txt` and `librodm.txt`. Going forward this sweep only needs
-  to run against newly-transcribed pages, not re-run from page 437 (see
-  `orthography-check` skill's progress tracker for the exact cutoff).
-  One known gap remains: `errors in 1920.txt`'s "Helamán 5:35 seperado"
-  entry (logged 2026-07-11 or earlier) was never mirrored into
-  `permitted words.txt`, unlike every other preserved-as-printed error —
-  not yet fixed as of 2026-07-13.
+- **Last completed**: pages 453–460 fully done, Sessions A–E all complete.
+  `librodm_foot.txt` ends at footnote 3305; `librodm.txt`'s Notas section
+  goes through 3305 too. Chapters Helamán 1–6 have been emailed (see
+  `chapters_emailed/_log.txt`); Helamán 7 (spanning pages 453-460 plus
+  more) is transcribed but not yet sent.
 - **2026-07-14**: user spotted that `errors in 1920.txt` had Alma-book
   entries scattered into the middle of the Helamán section, out of
   book/chapter/verse order. Root cause: two commits' worth of
@@ -88,8 +74,19 @@ running is ever in context, not all five at once.
   adding an explicit insert-in-order instruction to the
   `orthography-check` skill so future multi-book sweeps place each
   finding at its correct position instead of appending.
-- **Next page**: 453 (Helamán 6 continues; next footnote 3270)
-- **Completed pages**: 437–452 (in pages/ folder)
+- **2026-07-15**: Session E run for pages 453-460 (a full-document sweep
+  requested by the user, not just the new-page default). Pages 453-458
+  needed no changes — already fully resolved in an earlier session.
+  Found and resolved 6 new genuine 1920 errors in Helamán 9 (verses 4,
+  6, 11, 14 — see `errors in 1920.txt`), all confirmed against 1886.
+  Also closed a `permitted words.txt` mirroring gap: `aguasse` and
+  `Isafas` had `errors in 1920.txt` entries but were never added to the
+  good-words list (same gap pattern as `seperado`, which turned out to
+  already be fixed — mirrored on 2026-07-14 or earlier, no longer an
+  open gap as of this date). Dash check, footnote-number consistency,
+  and curly-quote scan all came back clean for pages 453-460.
+- **Next page**: 461 (Helamán 9 continues; next footnote 3306)
+- **Completed pages**: 437–460 (in pages/ folder)
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

@@ -1,0 +1,92 @@
+Página 464
+19. Concluyéndose así el año septuagésimo-primo del gobierno
+de los Jueces sobre el pueblo de Nefi.
+
+CAPÍTULO 11.
+
+1. Y ahora, vino á suceder que en el año septuagésimo-segundo
+del gobierno de los Jueces, que se aumentaron las contenciones
+de tal modo que hubo guerras entre todo el pueblo de Nefi.
+2. Y esto fué debido á aquella [3316]secreta banda de ladrones, que
+proseguía en sus obras de detrucción y de maldades. Esa guerra
+duró todo aquel año, y el siguiente.
+3. Y sucedió que en el año septusgésimo-tercio, Nefi clamó
+al Señor, diciendo:
+4. Oh Señor, no permitas que este pueblo sea destruido por
+la espada; pero, oh Señor, sería mejor que hubiere [3317]hambre en
+el país, para que así se movieren á acordarse del Señor, su Dios;
+y acaso se arrepentirían, y volverían a Ti.
+5. Y así fué hecho, según las palabras de Nefi. Y hubo gran
+hambre en el país, entre todo el pueblo de Nefi. Y continuó el hambre
+en el año septuagésimo-cuarto, y aunque cesó la destrucción
+por la espada, la del hambre llegó á ser muy grave.
+6. Y continuó esta obra de destrucción también en el año
+septuagésimo-quinto; porque la tierra fué herida de modo que
+se resecó, y no dió ningún fruto en la época de la cosecha; siendo
+así herida toda la tierra, aún tanto entre los Lamanitas como
+entre los Nefitas, de cuyas resultas perecieron por miles en las
+partes más corrompidas del país.
+7. Y sucedió que cuando se vió el pueblo próximo á perecer de
+hambre, vinieron al fin á acordarse del Señor, su Dios; y empezaron
+á acordarse de las palabras de Nefi.
+8. Y empezaron á suplicar entonces á sus jueces superiores
+y á sus gobernadores, para que dijeran á Nefi: He aquí, sabemos
+que eres hombres de Dios; implora pues al Señor, nuestro Dios,
+para que nos libre del hambre, porque tememos que se cumpla
+cuanto tú has dicho [3318]respecto á nuestra destrucción.
+9. Y sucedió, que fueron los jueces del pueblo á hablar con
+Nefi, manifestándole los deseos del pueblo. Y aconteció que,
+cuando Nefi vió que el pueblo se había arrepentido, y que se
+había humillado y vestido de saco, clamó otra vez al Señor,
+diciendo:
+
+11a, 3316: Véase i, II Nefi 10.
+11b, 3317: Véase b, Helamán 10.
+11c, 3318: Helamán 10:11-14.
+
+Corrections
+[page] Running header "464 LIBRO DE HELAMÁN. (CAP. XI." discarded.
+[page] "Digitized by Google" watermark removed.
+[page] Several instances of tight/inconsistent inter-word spacing on
+this page ("queasí", "fuédebido"-area) transcribed with normal single
+spaces, per editor guidance 2026-07-15 (same "this printing's
+justification varies from a full space down to quite narrow" call
+made for page 462's "hasta que") — not flagged individually.
+[v.2] "detrucción" — preserved as printed; apparent 1920 misprint
+(dropped "s") for "destrucción" (1886, page 461: "destruccion").
+[v.3] "septusgésimo-tercio" — preserved as printed; apparent 1920
+misprint (dropped "a") for "septuagésimo-tercio" — compare this same
+page's correctly-spelled "septuagésimo-primo" (v.19), "-segundo"
+(v.1), "-cuarto" (v.5), "-quinto" (v.6), and 1886 (page 461, also
+correctly "septuagésimo-tercio").
+[v.4] "movieren" (subjunctive) confirmed via zoom, not "movieren"
+misread as "movieron" — matches 1886 (page 461: "movieren").
+[v.5] "ham-" + "bre" → "hambre" — rejoined hyphenated line-break
+split.
+[v.5] "destruc-" + "ción" → "destrucción" — rejoined hyphenated
+line-break split.
+[v.7] "empe-" + "zaron" → "empezaron" — rejoined hyphenated
+line-break split.
+[v.8] "hombres de Dios" — preserved as printed; apparent 1920
+misprint (plural "hombres" where the singular verb "eres" requires
+singular agreement) for "hombre de Dios" (1886, page 461, singular:
+"hombre de Dios").
+[fn a] The footnote block prints "Véase i, II Nefi 10." with NO
+letter label at all before it (confirmed at 14x zoom — genuinely
+blank at the left margin after the rule, not a cropping artifact).
+Assigned letter "a" positionally (chapter 11's first footnote,
+matching the body-text marker before "secreta" in v.2) since chapter
+11 must start its lettering at "a" per rule 13; the missing "a,"
+prefix itself is preserved as a print defect, not silently added to
+the image reading.
+[fn a] Target letter "i" ("Véase i, II Nefi 10.") is in the
+mandatory i/l/1 ambiguity set — checked now, at first transcription,
+per rule (not deferred). Cross-checked against 1879 (page 459): "a,
+see i, II. Nep. 10." — confirms the target is "i". This also
+independently confirms 1920's own missing "a," label is a pure print
+defect: 1879 prints the label normally, and the reference content
+matches 1920 exactly, so the letter "a" is correctly assigned above.
+[fn b] Cross-reference target letter "b" ("Véase b, Helamán 10.") is
+not in the i/l/1 set — no mandatory check required. This is a
+forward/back cross-reference pair with page 463's own "10b, 3309:
+Helamán 11:4-18." entry.
