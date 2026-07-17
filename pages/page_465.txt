@@ -1,0 +1,100 @@
+Página 465
+10. Oh Señor, he aquí, que este pueblo se arrepiente, y ha
+arrojado de su seno á la [3319]banda de Gadianton, hasta extinguirla
+completamente, de modo que ha escondido sus planes secretos
+en la tierra.
+11. Oh Señor, ¿no apartarás de ellos tu cólera, á causa de
+su humildad? ¿No se apaciguará tu cólera con la destrucción
+que has hecho ya de los malos?
+12. Oh Señor; ¿no harás Tú que desparezca tu cólera; sí
+tu ardiente cólera, y harás, que cese el hambre en este país?
+13. Oh, Señor; ¿no me oirás, y harás que se haga según mis
+palabras, y enviarás la lluvia sobre la faz de la tierra, para que
+produzca sus granos y sus frutos en la época de la cosecha?
+14. Oh Señor, Tú escuchaste mis palabras, cuando yo decía:
+Que haya [3320]hambre, para que cese la peste de la espada; yo sé
+que aun ahora escucharás mis palabras; porque Tú has dicho:
+Si este pueblo se arrepiente, yo le perdonaré;
+15. Sí, oh Señor, y Tú ves que se han arrepentido á causa del
+hambre, de la peste y de la destrucción, que han caído sobre ellos.
+16. Así pues, oh Señor, ¿no tornarás tu cólera de entre ellos,
+y les probarás otra vez para ver, si te sirven? Si así fuere, oh
+Dios, Tú puedes bendecirles según las palabras que has dicho.
+17. Y sucedió, en el año septuagésimo-sexto, que el Señor
+libró á su pueblo de los efectos de su cólera, é hizo llover sobre
+la tierra, de modo que en la época de la cosecha la tierra produjo
+frutos en abundancia. Y aconteció que produjo su grano en la
+época correspondiente.
+18. Y, he aquí, que se regocijó el pueblo, y glorificó á su Dios;
+y se esparció la alegría por todo el país; y no pensaron más en
+destruir á Nefi, sino que fué considerado como gran profeta, y
+como hombre de Dios, de Quién recibía un [3321]gran poder y
+autoridad.
+19. Y, he aquí, que su hermano Lehi no era menos grande que
+él, en las cosas pertenecientes á la rectitud.
+20. Y así fué como se repartió la prosperidad entre los Nefitas,
+que repoblaron los lugares abandonados, multiplicándose y
+repartiéndose por todas partes, hasta cubrir toda la superficie
+del país, tanto al [3322]Norte como al [3323]Sud, desde el mar del
+Oeste hasta el mar del Este.
+21. Y vino á suceder, que así concluyó en paz el año
+septuagésimo--sexto. Y reinó también la paz al principiar el año
+septuagésimo-séptimo; en él que se extendió la iglesia sobre
+todo el país; perteneciendo á ella la mayor parte del pueblo,
+tanto de los Lamanitas como de los Nefitas; y el país gozó de una
+paz completa, concluyendo así el año septuagésimo-séptimo.
+
+11d, 3319: Véase i, II Nefi 10.
+11e, 3320: Véase b, Helamán 10.
+11f, 3321: Helamán 10:5-11.
+11g, 3322: NorteAmérica.
+11h, 3323: Sur América.
+
+Corrections
+[page] Running header "CAP. XI.) LIBRO DE HELAMÁN. 465" discarded.
+[page] "Digitized by Google" watermark removed.
+[fn d] Footnote marker "d" (superscript before "banda", v.10)
+references "i, II Nefi 10" — ambiguous i/l/1 target letter (and the
+marker's own letter "d" was also checked as a matter of course).
+Checked against 1879 (page 459, file 467): "d, see i, II. Nep.
+10." — confirms both the marker letter and the target letter "i".
+[fn e] Marker "e" (before "hambre", v.14) targets "b, Helamán 10" —
+confirmed via 1879 (page 460, file 468): "e, see b, Hela. 10." —
+exact match, including body placement (before "famine").
+[fn f] Marker "f" (before "gran", v.18) targets "Helamán 10:5-11" —
+confirmed via 1879: "f, Hela. 10:5-11." and body placement (before
+"great power") — exact match.
+[fn g/h] Markers "g" (before "Norte", v.20) and "h" (before "Sud",
+v.20) confirmed via 1879: "g, North America." / "h, South America." —
+exact match. Block 1 text preserves the 1920 print's own inconsistent
+spacing: "NorteAmérica." (no space) vs "Sur América." (space) — both
+transcribed exactly as printed.
+[v.20] Line-break rebalance: "del país, tanto al [3322]Norte como al
+[3323]Sud, desde el mar del Oeste" exceeded 72 characters once the
+footnote markers were inserted; "Oeste" moved to the start of the
+next line per rule 8.
+[v.21] "sep-" + "tuagésimo--sexto." → rejoined "septuagésimo--sexto."
+per rule 7; preserved as printed with the apparent doubled hyphen
+between "tuagésimo" and "sexto" (confirmed at 8x zoom — two distinct
+hyphen-minus strokes at the same baseline, not an ink smudge or an
+em-dash). This is the same word correctly printed with a single
+hyphen elsewhere on this very page (v.17, "septuagésimo-sexto") and
+later in the same verse ("septuagésimo-séptimo") — apparent 1920-only
+print defect; verify against 1886 in Session E. Rejoined word moved
+to the start of the next line (rule 7) since appending it to line 1
+would have exceeded 72 characters.
+[v.21] "tanto de los Lamanitas como de los Nefitas" — 1920 image shows
+very tight inter-word spacing ("tantode los Lamanitascomo de los
+Nefitas") at two points; transcribed with normal single spaces per
+the established "this printing's justification varies from a full
+space down to quite narrow" convention (same pattern as pages 462/464)
+— not flagged individually.
+[rule 22] "Helamán 10 : 5-11." (spaces around colon in the original
+print) reformatted to "Helamán 10:5-11." per rule 22.
+[fn d/e/f/g/h] Session B re-check (2026-07-16): independently
+re-fetched 1879 pages 459-460 (files 467-468) — fresh reads, not
+reused from Session A. "d, see i, II. Nep. 10." / "e, see b, Hela.
+10." / "f, Hela. 10:5-11." / "g, North America." / "h, South
+America." — all confirm Session A's readings exactly. 1920 fn_zoom
+re-read fresh also matches Block 1 exactly, and body marker placement
+(before "banda") re-confirmed against the image.

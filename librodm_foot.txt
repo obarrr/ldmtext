@@ -3575,3 +3575,10 @@ Omni 1.
 11a, 3316: Véase i, II Nefi 10.
 11b, 3317: Véase b, Helamán 10.
 11c, 3318: Helamán 10:11-14.
+11d, 3319: Véase i, II Nefi 10.
+11e, 3320: Véase b, Helamán 10.
+11f, 3321: Helamán 10:5-11.
+11g, 3322: NorteAmérica.
+11h, 3323: Sur América.
+11i, 3324: Véase i, II Nefi 10.
+11j, 3325: Versículo 25.
