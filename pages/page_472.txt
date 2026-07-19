@@ -1,0 +1,92 @@
+Página 472
+25. Y ahora, cuando vosotros habláis, decís: Si hubiéramos
+vivido en los tiempos de nuestros padres, no habríamos matado
+á los profetas, ni les hubiéramos apedreado, ni desechado.
+26. Pero, he aquí, que sois peores que ellos; porque como el
+Señor vive, que si aparece un profeta entre vosotros para anunciaros
+la palabra del Señor, que testifique de vuestros pecados é
+iniquidades, os incomodáis con él, y le echáis fuera, buscando
+todos los medios posibles para destruirle; sí, vosotros decís que
+es falso profeta, y que es pecador, y hombre del diablo, porque
+él os testifica la maldad de vuestras obras.
+27. Pero, he aquí, que si un hombre llega á vosotros y os dice:
+Haced ésto, y no hay mal; haced aquéllo, y no sufriréis; sí, si
+él os dice: Marchad según os dicte el orgullo de vuestros propios
+corazones; sí, seguid según el orgullo de vuestros ojos, y haced
+en todo la voluntad de vuestros corazones; si un hombre viene
+y os habla de esta manera, es seguro que le recibiréis bien, y
+diréis que es un profeta;
+28. Sí, vosotros le exaltaréis, le daréis de vuestros bienes
+le daréis de vuestro oro, y de vuestra plata, y le cubriréis con
+suntuosos vestidos; y esto porque él os dice palabras de alabanza,
+y porque os dice que todo está bien, así que entonces no encontráis
+ninguna falta en él.
+29. ¡Ay de vosotros, generación mala y perversa; ay de
+vosotros, pueblo endurecido y obstinado! ¿hasta cuándo supondréis
+que os aguantará el Señor? Sí, ¿hasta cuándo os
+dejaréis llevar por guías ciegos é insensatos? ¿Hasta cuándo
+preferiréis las tinieblas á la luz?
+30. Sí, he aquí, que la cólera del Señor está ya encendida
+en contra vuestra; he aquí, que ya ha [3346]maldecido el país á causa
+de vuestra iniquidad;
+31. Y, he aquí, que se acerca el tiempo en que maldecirá
+vuestras riquezas, las que se harán tan [3347]resbaladizas, que no las
+podréis agarrar; y en el día de vuestra pobreza no las podréis
+retener;
+32. Cuando lleguen los días de vuestra pobreza, clamaréis al
+Señor; pero clamaréis en vano; porque ya os tenéis encima
+vuestra desolación, y vuestra exterminación es infalible; entonces
+lloraréis, sí, entonces serán vuestros lamentos, dice el
+Señor de los Ejércitos, y entonces será cuando os lamentaréis, y
+diréis:
+33. [3348]Oh, si me hubiese arrepentido, y si no hubiese matado
+á los profetas, si no les hubiese apedreado; y si no les hubiese
+echado fuera; sí, en aquel día diréis: Oh, si nos hubiésemos
+acordadodel Señor, nuestro Dios, en el día en que nos dió nuestras
+
+13k, 3346: Véase e, Helamán 12.
+13l, 3347: Versículos 33-37; Mormón 1:17-19; Véase e, Helamán 12.
+13m, 3348: Mormón 2:10-15.
+
+Corrections
+[page] Running header "472 LIBRO DE HELAMÁN. (CAP. XIII." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.26] "anunci-" + "aros" → "anunciaros" — rejoined hyphenated
+line-break split; rejoined word kept at end of the line (rule 7/8),
+under 72 characters.
+[v.28] "encon-" + "tráis" → "encontráis" — rejoined hyphenated
+line-break split; rejoined word kept at end of the line (rule 7/8),
+under 72 characters.
+[v.29] "su-" + "pondréis" → "supondréis" — rejoined hyphenated
+line-break split; rejoined word kept at end of the line (rule 7/8),
+under 72 characters.
+[v.32] "en-" + "tonces" → "entonces" — rejoined hyphenated line-break
+split; rejoined word kept at end of the line (rule 7/8), under 72
+characters.
+[v.28] "cs"/"alat anza" — the source image shows what first looked like
+misprints ("cs" for "os", and a broken-looking "alat anza" for
+"alabanza"), and was initially transcribed literally and logged as a
+suspected 1920 error. On review of the scan, the editor determined
+these are a scan/print artifact of this particular copy (uneven ink
+coverage / possible dust on the page) rather than an actual defect in
+the 1920 type — the original setting reads "os" and "alabanza"
+normally. Corrected to "os" and "alabanza" accordingly; no `errors in
+1920.txt` entry.
+[v.28/32] "acordadodel" — preserved as printed; no space between
+"acordado" and "del" in the source image (letters touch directly).
+Same missing-interword-space print defect already noted twice on page
+471 ("aquí,escuchad", "escuchadlas"). Not silently corrected.
+[page] Line "acordadodel Señor, nuestro Dios, en el día en que nos dió
+nuestras" is the last line on the page; verse 33 continues, unfinished
+(no hyphen — a natural page-boundary line wrap, not a hyphenated
+split), onto page 473.
+[fn k-m] Superscript letters k (v.30 "maldecido"), l (v.31
+"resbaladizas"), m (v.33 "Oh") continue the g-j sequence from page
+471; same swash font. l is one of the mandatory i/l/1 check letters:
+confirmed via 1879 (BOM 1879 Pratt page 467, file page 475; chapter_map
+Helamán 13), which prints clearly "k, see e, Hela. 12.", "l, ver. 33-37;
+Mor. 1:17-19; see e, Hela. 12.", "m, Mor. 2:10-15." — matching
+placement (k at "cursed" v.30, l at "slippery" v.31, m at "O that"
+v.33) and target content. The 1920 glyph itself was also directly
+confirmed as "l" (continuous unbroken curved stroke, no separated dot)
+via same-page zoom, distinguishing it from the "i" glyphs on page 471.

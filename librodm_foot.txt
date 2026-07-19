@@ -3582,3 +3582,56 @@ Omni 1.
 11h, 3323: Sur América.
 11i, 3324: Véase i, II Nefi 10.
 11j, 3325: Versículo 25.
+12a, 3326: Véase n, I Nefi 18.
+12b, 3327: Josué 10:12-14; II Reyes 20:8-11; Isaías 38:7,8; Véase 2a,
+Alma 30.
+12c, 3328: Isaías 44:27; 51:10.
+12d, 3329: III Nefi 8:10,25; 9:5,6,8.
+12e, 3330: Versículo 19; Helamán 13:17-23,30-37; Mormón 1:17-19; 2:10-14;
+Éther 14:1,2.
+12f, 3331: Véase k, Jacob 6.
+12g, 3332: Versículos 25, 26; Véase b, I Nefi 2.
+12h, 3333: Véase g.
+12i, 3334: Véase m, Jacob 6.
+12j, 3335: Véase m, Jacob 6.
+13a, 3336: Véase o, II Nefi 25.
+13b, 3337: Véase h, Omni 1.
+13c, 3338: Véase d, I Nefi 12.
+13d, 3339: Versículo 2.
+13e, 3340: Véase d, I Nefi 12.
+13f, 3341: III Nefi 8:8,24;9:3.
+13g, 3342: Véase m, Alma 2.
+13h, 3343: Véase e, Helamán 12.
+13i, 3344: Véase e, Helamán 12.
+13j, 3345: Versículo 26; Helamán 16:6.
+13k, 3346: Véase e, Helamán 12.
+13l, 3347: Versículos 33-37; Mormón 1:17-19; Véase e, Helamán 12.
+13m, 3348: Mormón 2:10-15.
+13n, 3349: Véase l.
+13o, 3350: Mormón 2:10.
+13p, 3351: Mormón 2:13-15.
+13q, 3352: Mormón 2:15.
+13r, 3353: Alma 41:10-12.
+14a, 3354: III Nefi 1:5-21.
+14b, 3355: Versículo 4; III Nefi 1:8,13-20.
+14c, 3356: III Nefi 1:21.
+14d, 3357: III Nefi 1:20;2:1-3.
+14e, 3358: III Nefi 1:16,17.
+14f, 3359: Helamán 13:3,7.
+14g, 3360: Helamán 13:2.
+14h, 3361: Helamán 13:4.
+14i, 3362: Mosíah 3:8;15:4;Alma 11:39;III Nefi 9:15;Éther 4:7.
+14j, 3363: Véase d, II Nefi 2.
+14k, 3364: Véase j, II Nefi 9.
+14l, 3365: Véase b, y, c, II Nefi 2.
+14m, 3366: Véase j, II Nefi 9.
+14n, 3367: Véase p, Alma 12.
+14o, 3368: Véase q, Alma 12.
+14p, 3369: Véase p, Alma 12.
+14q, 3370: Versículo 14.
+14r, 3371: Véase i, I Nefi 19.
+14s, 3372: Versículos 26-27; I Nefi 12:4;19:11-12; III Nefi 8:5-7,19.
+14t, 3373: I Nefi 12:4;19:12; III Nefi 8:18;10:9.
+14u, 3374: III Nefi 8:18.
+14v, 3375: I Nefi 9:11; III Nefi 8:6,12,19;10:14.
+14w, 3376: I Nefi 12:4;19:11; III Nefi 8:10-19.

@@ -23,6 +23,60 @@
    or guess line breaks from the OCR text or character-count estimation.
    Every line ending must be image-confirmed.
 6. Reproduce the image line endings exactly, subject to rules 7 and 8.
+   Transcribe strictly line-by-line: for each line as it appears in the
+   image, write it as one output line before moving to the next. Do NOT
+   compose the page as flowing prose/paragraphs and then wrap or reflow
+   it to a target width — that produces line breaks with no relationship
+   to the source and violates rules 5/6 even if every resulting line
+   happens to satisfy the rule 9 length cap. Before transcribing, note
+   how many print lines are visible in each crop (top/mid/bot); the raw
+   line-by-line transcript (before any rule 7/8 adjustment) must have
+   that same count.
+   **Confirmed failure mode (2026-07-19, page 475):** the entire body
+   text was generated as continuous prose and then broken into lines at
+   roughly even ~72-character intervals, with zero correspondence to the
+   image's actual line endings — every single line boundary was wrong,
+   even though every line satisfied rule 9. This is a distinct and more
+   serious failure than the rule 7 lapse documented below: there, most
+   lines were still image-derived and only two hyphen rejoins were
+   missed; here, no line was image-derived at all. The root cause is
+   that rule 9 (character count) is self-checkable while generating
+   flowing text, while rules 5/6 require actively cross-referencing the
+   image line-by-line — a much higher-friction habit that silently
+   drops out unless the transcription is done as a literal line-by-line
+   copy from the start. Spot-checks of two other completed pages (470,
+   474) against their images found no such problem, so this does not
+   appear to be a chronic, document-wide pattern — but it means a clean
+   `check_lines.py` report (which only checks length and trailing
+   hyphens) is NOT sufficient evidence that a page's line breaks are
+   image-derived. `check_line_wrap.py <book_page> <page_txt_path>` was
+   added as a partial backstop — it OCRs the page image independently
+   and flags a body-line-count mismatch or suspiciously uniform line
+   lengths — but it is advisory only (OCR line-splitting is itself
+   imperfect) and does not replace the per-line image read.
+   Regardless of how literally line endings are copied, inter-word
+   spacing within a line is always normalized to exactly one space in
+   the output. Never preserve a wider gap from the source — even a
+   gap only slightly wider than the surrounding spacing on the same
+   line — and this applies uniformly to every such instance on a page,
+   not only the ones that happen to get individually noticed. This is
+   unconditional: it does not require citing precedent from another
+   page's Corrections log, though a page-level Corrections note is
+   still fine for the reader's benefit. It does not need an `errors in
+   1920.txt` entry — justification-driven gap width is not a misprint.
+   **Confirmed failure mode (2026-07-19, page 465):** a fresh
+   transcription correctly normalized one justification-widened gap
+   (v.20, "mar del  Oeste") by citing precedent from page 464's
+   Corrections log, but left three other instances of the identical
+   phenomenon un-normalized elsewhere on the same page (v.11
+   "humildad?  ¿No", v.16 "sirven?  Si", v.17 "abundancia.  Y", v.21
+   "sexto.  Y" — all confirmed via zoom to be genuinely wider gaps in
+   the print, not a transcription slip). Root cause: this
+   normalization had only ever existed as ad hoc precedent cited in
+   individual pages' Corrections logs, never as a standing rule, so
+   applying it depended on the transcriber separately noticing and
+   citing precedent each time rather than following one blanket
+   instruction. This paragraph closes that gap.
 7. Hyphenated word at end of line: remove the hyphen and rejoin the word.
    Any punctuation immediately attached to the second half (e.g. a comma
    or period directly after the word fragment) travels with the rejoined

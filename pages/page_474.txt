@@ -1,0 +1,83 @@
+Página 474
+venida, [3355]no habrá obscuridad, y aparecerá á los hombres como
+si fuere de día;
+4. Por lo tanto, habrá un día, y una noche, y otro día, como
+si todo fuera un solo y mismo día, en él que no habrá habido
+noche: y esto os será de señal. Porque veréis la puesta y también
+la salida del sol; y así os asegurareis de que habrá dos días
+y una noche; no obstante, la noche no será obscura; y esta será la
+noche que precederá á su nacimiento:
+5. He aquí que aparacerá una [3356]nueva estrella, tal como nunca
+la habréis visto; la que os será también de señal.
+6. Y, he aquí, que no esesto todo, sino que aparecerán también
+[3357]muchas señales y prodigios en el cielo.
+7. Y vendrá á suceder, que os admiraréis, y os quedaréis todos
+maravillados de tal manera que [3358]caeréis por tierra.
+8. Y sucederá, que él que crea en el Hijo de Dios, alcanzará
+la vida eterna.
+9. Y, he aquí, que el Señor me ha [3359]ordenado por medio de su
+ángel, que venga á anunciaros estas cosas; sí, Él me ha mandado
+que os profetice estas cosas; sí, Él me ha dicho: Clama á este
+pueblo: Arrepentíos, y preparad la vía del Señor;
+10. Y ahora, porque soy Lamanita, y porque os he anunciado
+las palabras que el Señor me ha mandado, y porque era duro
+para vosotros, os enojáis contra mí, y tratáis de quitarme la
+vida, y me [3360]echáis de entre vosotros.
+11. Y tenéis que oir mis palabras, puesque por este motivo
+me he subido [3361]á las murallas de esta ciudad, á fin de que oigáis
+y conozcáis los juicios de Dios que os esperan á causa de vuestras
+iniquidades, y que conozcáis también las condiciones del
+arrepentimiento;
+12. Y también, para que, conozcáis la venida de Jesu Cristo,
+el Hijo de Dios, el [3362]Padre del cielo y de la tierra, el Creador de
+todas las cosas, desde el principio; y para que conozcáis las
+señales de su venida, con el objeto de que podáis creer en su
+nombre.
+13. Y si creéis en su nombre, os arrepentiréis de todos vuestros
+pecados, para que de este modo alcancéis la remisión de ellos
+por medio de sus méritos.
+14. Y, he aquí, os daré todavía otra señal, sí, una señal de su
+muerte;
+15. Porque de seguro morirá, para que venga la salvación;
+sí, porque le fué necesario, y vino á ser indispensable que muriera,
+
+14b, 3355: Versículo 4; III Nefi 1:8,13-20.
+14c, 3356: III Nefi 1:21.
+14d, 3357: III Nefi 1:20;2:1-3.
+14e, 3358: III Nefi 1:16,17.
+14f, 3359: Helamán 13:3,7.
+14g, 3360: Helamán 13:2.
+14h, 3361: Helamán 13:4.
+14i, 3362: Mosíah 3:8;15:4;Alma 11:39;III Nefi 9:15;Éther 4:7.
+
+Corrections
+[page] Running header "474 LIBRO DE HELAMÁN. (CAP. XIV." discarded.
+[v.4] "tam-" + "bién" → "también" — rejoined hyphenated line-break
+split; rejoined word kept at end of the line (rule 7/8), under 72
+characters.
+[v.11] "arre-" + "pentimiento" → "arrepentimiento" — rejoined
+hyphenated line-break split; with the attached semicolon the rejoined
+word reached 73 characters appended to its line, so per rule 8 it
+moved to the start of the next line instead.
+[v.5] "aparacerá" — preserved as printed; apparent misprint for
+"aparecerá" (confirmed at zoom: a-p-a-r-a-c-e-r-á). Session E: also
+found in 1886 at the same spot (shared error, not caught by the 1886
+comparison alone) — confirmed genuine via RAE (no entry for
+"aparacer") and reference-corpus/modern-edition research; added to
+errors in 1920.txt.
+[v.6] "esesto" — preserved as printed; no space between "es" and
+"esto" in the source image (letters touch directly, confirmed at
+zoom: e-s-e-s-t-o). Same missing-interword-space print defect already
+noted on pages 471-472 ("aquí,escuchad", "escuchadlas",
+"acordadodel"). Not silently corrected.
+[page] Page ends mid-verse 15 ("...que muriera,"); no hyphen present,
+a natural page-boundary line wrap — verse 15 continues onto page 475.
+[fn i] Superscript "i" (v.12, before "Padre") is one of the mandatory
+i/l/1 check letters. Same-page glyph (short stroke, separated dot,
+clearly distinct from the continuous-curve "l" shape) plus mandatory
+1879 cross-check (BOM 1879 Pratt page 469, file page 477;
+chapter_map Helamán 14) both confirm "i": 1879 prints "the ¹Father of
+heaven and of earth" at the identical position. Content-fit passes:
+target "Mosíah 3:8;15:4;Alma 11:39;III Nefi 9:15;Éther 4:7" are all
+passages describing Christ as Father of heaven and earth, matching
+v.12's own wording exactly.

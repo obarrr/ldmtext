@@ -22,7 +22,7 @@ y les probarás otra vez para ver, si te sirven? Si así fuere, oh
 Dios, Tú puedes bendecirles según las palabras que has dicho.
 17. Y sucedió, en el año septuagésimo-sexto, que el Señor
 libró á su pueblo de los efectos de su cólera, é hizo llover sobre
-la tierra, de modo que en la época de la cosecha la tierra produjo
+la tierre, de modo que en la época de la cosecha la tierra produjo
 frutos en abundancia. Y aconteció que produjo su grano en la
 época correspondiente.
 18. Y, he aquí, que se regocijó el pueblo, y glorificó á su Dios;
@@ -98,3 +98,13 @@ reused from Session A. "d, see i, II. Nep. 10." / "e, see b, Hela.
 America." — all confirm Session A's readings exactly. 1920 fn_zoom
 re-read fresh also matches Block 1 exactly, and body marker placement
 (before "banda") re-confirmed against the image.
+[v.17] "tierre" (2026-07-19, found during an independent from-scratch
+re-transcription exercise): the image reads "...é hizo llover sobre
+la tierre, de modo que..." then "...la cosecha la tierra produjo"
+later in the same line — two different words, confirmed via zoom
+(distinct "e" vs "a" glyph, same line for direct comparison). This
+1920-only misprint ("tierra" in 1886, page 462, file 480: "hizo
+llover sobre la tierra, de modo que en la época de la cosecha la
+tierra prodújo") was missed in the original Session A/B passes for
+this page and had been standing uncorrected in `librodm.txt` until
+now. Added to `errors in 1920.txt` and `permitted words.txt`.

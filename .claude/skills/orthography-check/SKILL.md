@@ -98,6 +98,35 @@ itself. This does not apply to words that already came from an actual
 pptext flag (the normal case in step 3 above) — only to candidates
 surfaced some other way, e.g. from a Corrections-log audit.
 
+**A word can fail to appear in the Spellcheck Suspect Words section for
+a reason unrelated to `permitted words.txt` entirely** (found
+2026-07-17, pages 469-470): three brand-new, single-occurrence
+misprints ("Poi", "dsesaría", "aninciado") were confirmed via direct
+`aspell --list` piping (both standalone and embedded in their actual
+sentence) to be flagged as misspelled, and a minimal 2-line
+reproduction file run through the real `pptext` binary with the
+project's actual `permitted words.txt` DID flag "Poi" correctly — but
+the real full ~1.15MB `librodm.txt` run did not flag any of the three,
+in ANY section of the report (confirmed by direct substring search
+across the whole report, not just the spellcheck section). Line-number
+citations elsewhere in the report were also found to be offset from
+the true file by a regionally-varying amount (pptext appears to strip
+blank lines or otherwise renumber internally), which makes any
+line-range-based cross-referencing technique unreliable without first
+confirming the offset in that specific region — prefer searching for
+distinctive substrings from the page's own text directly against the
+report instead of matching by line number. The root cause of the
+full-document suppression was not tracked down (a likely suspect is the
+"word occurs 5+ times anywhere in the document, in any case, and is
+auto-accepted" rule in `aspellCheck()`, but the observed counts didn't
+obviously reach 5 for these words — unconfirmed). Practical effect:
+**the full pptext report is not proof a rare/new misprint won't be
+flagged by aspell** — if 1886 comparison or independent research
+already confirms a word is a genuine error, don't let a clean pptext
+spellcheck section talk you out of logging it in `errors in 1920.txt`.
+It only means no `permitted words.txt` entry is needed (matching the
+"Jesu Cristo" no-op precedent above), not that the word is fine.
+
 ## Mandatory check for any suspected error, in any section
 
 This applies everywhere in Session E, not just the spellcheck/flagged-word

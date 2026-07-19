@@ -1,0 +1,80 @@
+Página 473
+riquezas, entonces no nos hubieran sido tan resbaladizas, y no
+las hubiéramos perdido; porque, he aquí, que nuestras riquezas
+se han huido de nosotros.
+34. He aquí, que hoy dejamos aquí una herramienta, y mañana
+ya ha desaparecido; y, he aquí, que nuestras espadas nos han sido
+quitadas en el día en que las buscábamos para la batalla.
+35. Sí, nosotros hemos ocultado nuestros tesoros, y se han
+escurrido de nuestras manos, á causa de la maldición que ha
+caído sobre el país.
+36. Ojalá que nos hubiésemos arrepentido en el día en que
+vino á nosotros la palabra del Señor; porque, he aquí, que ahora
+la tierra está maldita, y [3349]todas las cosas han venido á quedar
+resbaladizas, de modo que no podemos retenerlas.
+37. He aquí, que nos hallamos rodeados por [3350]demonios, sí,
+cercados por los ángeles del que ha tratado de destruir nuestras
+almas. He aquí, que son grandes nuestras iniquidades. Oh
+Señor, ¿no puedes Tú apartar tu cólera de nosotros? Y este será
+vuestro lenguaje en aquellos días.
+38. Pero, he aquí, que vuestros [3351]días de probación pasaron;
+habéis deferido el día de vuestra salvación hasta aquél en que
+ya fué enteramente demasiado tarde, asegurando así vuestra
+[3352]destrucción; sí, porque habéis empleado todos los días de
+vuestra vida en procuraros lo que no podíais obtener; y habéis
+buscado la dicha cometiendo la iniquidad, lo cual es [3353]contrario
+á la naturaleza de la justicia que está en nuestra gran y eterna
+Cabeza.
+39. ¡Oh vosotros habitantes de este país, esuchad mis palabras!
+Y yo ruego al Señor que aparte su cólera de vosotros, y
+que os dé el arrepentimiento, para que os salvéis.
+
+CAPÍTULO 14.
+
+1. Y ahora, vino á suceder, que muchas otras cosas profetizó
+Samuel, el Lamanita, que no pueden ser escritas.
+2. Y, he aquí, que les dijo. He aquí, os doy una señal: Cuando
+hayan pasado [3354]cinco años más, he aquí, que el Hijo de Dios
+vendrá para redimir á todos los que creerán en su nombre.
+3. Y, he aquí, que esta es la señal que os doy, para que sepáis
+el tiempo de su venida; porque, he aquí, que aparecerán grandes
+luces en el cielo, de tal modo que en la noche que precederá á su
+
+13n, 3349: Véase l.
+13o, 3350: Mormón 2:10.
+13p, 3351: Mormón 2:13-15.
+13q, 3352: Mormón 2:15.
+13r, 3353: Alma 41:10-12.
+14a, 3354: III Nefi 1:5-21.
+
+Corrections
+[page] Running header "473 CAP. XIV.) LIBRO DE HELAMÁN." discarded.
+[v.39] "pala-" + "bras" → "palabras" — rejoined hyphenated line-break
+split; the attached "!" travels with the rejoined word (rule 7), kept
+at end of the line, under 72 characters.
+[v.38] "aqué!" — the source image initially looked like it printed
+"aqué!" in place of "aquél" ("hasta aquél en que" = "until that [time]
+when"; matches 1879 "until it is everlastingly too late"
+contextually), and was transcribed literally and logged as a
+suspected 1920 error. On review of the scan, the editor determined
+this is a scan/print artifact of this particular copy (uneven ink /
+possible dust) rather than an actual 1920 misprint — the original
+setting reads "aquél" (accented, as printed elsewhere in 1920).
+Corrected to "aquél"; no `errors in 1920.txt` entry.
+[v.39] "esuchad" — preserved as printed; apparent 1920 misprint for
+"escuchad" (missing "c"), confirmed at high zoom. Verify against 1886
+in Session E.
+[page] Page ends mid-verse 3 ("...noche que precederá á su"); no
+hyphen present, a natural page-boundary line wrap, not a hyphenated
+split — verse 3 continues onto page 474.
+[fn n] Cross-reference target letter in "n, Véase l." is one of the
+mandatory i/l/1 check letters. Same-page glyph check (continuous
+unbroken stroke, no separated dot) plus mandatory 1879 cross-check
+(BOM 1879 Pratt page 468, file page 476; chapter_map Helamán 13/14)
+both confirm "l": 1879 prints "n, see l." exactly, matching the target
+already established as footnote 3347 (page 472, "resbaladizas").
+Content-fit also passes: v.36 "todas las cosas han venido á quedar
+resbaladizas" directly echoes the l-note's own theme.
+[chapter] Chapter 14 begins mid-page (CAPÍTULO 14 heading + v.1-3);
+footnote letters restart at "a" per rule 13, sequential numbering
+continues uninterrupted (3354).

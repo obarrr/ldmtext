@@ -138,22 +138,46 @@ class FootIndex:
         return self.by_book_chapter_code.get((book_id, chapter, code))
 
 
+LETTER_CODE = re.compile(r'^\d*[a-z]$')
+
+
+def parse_letters(letters_expr):
+    """Split a letters clause like "b, y, c" / "e, y g" / "g y j" / "p y q"
+    / bare "y" into individual letter/code tokens. The word "y" ("and") is
+    always a separator except when it is the ENTIRE clause (a literal
+    reference to the footnote letter "y" itself, e.g. "Vease y.") -- real
+    print copy uses every combination of comma and "y" inconsistently
+    around the separator, so normalize by treating every standalone "y"
+    as a comma before splitting, rather than assuming a fixed comma/"y"
+    placement."""
+    letters_expr = letters_expr.strip()
+    if letters_expr == "y":
+        return ["y"]
+    normalized = re.sub(r'\by\b', ',', letters_expr)
+    return [t.strip() for t in normalized.split(",") if t.strip()]
+
+
 def resolve_text(text, citing_book_id, citing_chapter, index):
     def repl(m):
         inner = m.group(1)
-        if "," in inner:
-            letters_part, book_chapter = inner.split(",", 1)
-            bc = book_chapter.strip()
-            bcm = re.match(r'^(.*\S)\s+(\d+)$', bc)
-            if not bcm:
-                return m.group(0)  # malformed, leave untouched
-            book_text, chapter = bcm.group(1), int(bcm.group(2))
-        else:
-            letters_part, book_text, chapter = inner, None, None
+        letters_expr, book_text, chapter = inner, None, None
 
-        tokens = [t.strip() for t in re.split(r'\s+y\s+', letters_part) if t.strip()]
-        if not tokens or any(t.isdigit() for t in tokens):
-            return m.group(0)  # already numeric/resolved, or malformed
+        if "," in inner:
+            # The letters clause and the book/chapter clause are always
+            # separated by the LAST comma in the whole span (book names
+            # never contain a comma) -- try that boundary first, and only
+            # commit to it if the tail actually looks like "Book Chapter".
+            # If it doesn't, there is no book/chapter present at all
+            # (e.g. "f, y g.") and the commas belong to the letters list.
+            candidate_letters, candidate_tail = inner.rsplit(",", 1)
+            bcm = re.match(r'^(.*\S)\s+(\d+)$', candidate_tail.strip())
+            if bcm:
+                book_text, chapter = bcm.group(1), int(bcm.group(2))
+                letters_expr = candidate_letters
+
+        tokens = parse_letters(letters_expr)
+        if not tokens or any(not LETTER_CODE.match(t) for t in tokens):
+            return m.group(0)  # not a plain letter-code list, leave untouched
 
         resolved = []
         for tok in tokens:

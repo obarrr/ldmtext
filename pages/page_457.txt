@@ -6,7 +6,7 @@ He aquí, mis hermanos, ¿no habéis leído como Dios dió poder
 á un hombre, aún á Moisés, para herir las aguas del Mar Rojo,
 las que se dividieron á un lado y á otro de tal modo que pasaron
 á pie enjuto los Israelitas, que fueron nuestros padres, y que
-después las aguasse cerraron sobre los ejércitos de los Egipcios,
+después las aguas se cerraron sobre los ejércitos de los Egipcios,
 los que fueron ahogados por ellas?
 12. Y ahora, he aquí, pues, si Dios dió á este hombre tanto
 poder, ¿porqué disputáis entre vosotros, y decís que Él no me
@@ -50,8 +50,11 @@ asesinado.
 Corrections
 [page] Running header "CAP. VIII.) LIBRO DE HELAMÁN. 457" discarded.
 [page] "Digitized by Google" watermark removed.
-[v.11] "aguasse" — preserved as printed; apparent missing space
-("aguas se"); verify against 1886.
+[v.11] "aguasse" — 1920 print spacing between "aguas" and "se" was
+too tight to read as two words at first pass; not a genuine 1920
+printing error (1886 also reads "aguas se"), so normalized to a
+single space between the two legitimate words rather than preserved
+as a merged form.
 [v.12] "acera" — preserved as printed; apparent 1920 error (expected
 "acerca"); verify against 1886.
 [fn e] 1920 prints "Alma 33:19:22" (colon, not hyphen) — cross-checked

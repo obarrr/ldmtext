@@ -1,0 +1,92 @@
+Página 468
+cometer iniquidad, y cuán lentos son en practicar el bien; sí,
+cuán prontos están á prestar oído á las palabras del espíritu
+maligno, y á poner su corazón en las vanidades del mundo!
+5. Sí, ¡cuán dispuestos están ellos á entregarse al orgullo;
+sí, y á llenarse de vanidad, y á deleitarse en toda clase de
+iniquidades; y cuán lentos son en recordar al Señor, su Dios, y en
+dar oído á sus consejos; sí, cuán lentos son para marchar en
+las vías de la sabiduría!
+6. He aquí, que no desean que el Señor, su Dios, Quién les ha
+creado, les gobierne y reine sobre ellos, á pesar de su gran bondad
+y de su misericordia hacia ellos; desprecian sus consejos, y no
+quieren que Él sea su guia.
+7. Oh, ¡cuán grande es la nulidad de los hijos de los hombres;
+sí, son menos que el mismo polvo de la tierra!
+8. Porque, he aquí, que el polvo de la tierra se mueve aquí y
+allí, dividiéndose á la orden de nuestro gran y eterno Dios;
+9. Sí, he aquí, que á su voz tiemblan y se agitan las colinas
+y los montes;
+10. Y por la potencia de su voz se rompen y se allanan, sí,
+hasta parecerse como un valle;
+11. Sí, por la potencia de su voz tiembla todo la tierra
+12. Sí, por el poder de su voz, Él hace sacudir la fundación,
+aún hasta el mismo centro;
+13. Sí, y si Él dice á la tierra, muévete, se moverá;
+14. Sí, y si Él dice á la tierra, que vuelva para atrás, para que
+se [3327]alargue el día muchas horas más, así se hará.
+15. Y así, según su palabra, la tierra se vuelve atrás, pareciéndoles
+á los hombres, como si el sol se hubiera detenido en
+su camino; sí, pero, he aquí, que es así; porque seguramente es
+la tierra la que se mueve, y no el sol.
+16. Y, he aquí, también que si Él dice á las aguas del abismo
+profundo, que se [3328]sequen, así sucederá.
+17. He aquí, que si dice á esta montaña, que se mueva y [3329]venga
+á caer sobre esta ciudad, para que quede enterrada por ella, así
+se hará.
+18. Y, he aquí, que si un hombre ocultara un tesoro en la
+tierra, y el Señor dice: que [3330]sea maldito á causa de la iniquidad
+de quién lo ha escondido; he aquí, que el tesoro quedará maldito;
+19. Y, si el Señor dijera, que sea maldito, para que nadie lo
+encuentre desde este día ni nunca jamás, he aquí, ninguna
+persona podrá encontrarlo entonces, ni nunca.
+20. Y, he aquí, que si el Señor dice á un hombre á causa de
+sus iniquidades: [3331]Maldito eres tú para siempre, así será.
+
+12b, 3327: Josué 10:12-14; II Reyes 20:8-11; Isaías 38:7,8; Véase 2a,
+Alma 30.
+12c, 3328: Isaías 44:27; 51:10.
+12d, 3329: III Nefi 8:10,25; 9:5,6,8.
+12e, 3330: Versículo 19; Helamán 13:17-23,30-37; Mormón 1:17-19; 2:10-14;
+Éther 14:1,2.
+12f, 3331: Véase k, Jacob 6.
+
+Corrections
+[page] Running header "468 LIBRO DE HELAMÁN. (CAP. XII." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.5] "in-" + "iquidades" → "iniquidades" — rejoined hyphenated
+line-break split; rejoined word moved to the start of the next line
+(rule 7/8) since appending it to line 1 would have exceeded 72
+characters.
+[v.11] "todo la tierra" — preserved as printed; apparent 1920 misprint
+(gender agreement) for "toda la tierra" — verify against 1886 in
+Session E.
+[v.15] "pare-" + "ciéndoles" → "pareciéndoles" — rejoined hyphenated
+line-break split.
+[v.6] "guia" — missing accent only ("guía"); not logged per convention.
+[fn b] Cross-reference target "Véase 2a, Alma 30" — the target letter
+renders as a badly degraded glyph at 1920's native resolution,
+plausibly misreadable as "8a" (swash "2" vs "8" in this font,
+consistent with the swash-letter ambiguity documented for other pages
+in this project). Checked against 1879 (page 463, file 471): "See 2a,
+Alma 30." — confirms the target is "2a", the two-letter code (rule
+16), not "8a".
+[fn b/c/d/e/f] All five footnote references on this page cross-checked
+against 1879 (page 463, file 471) and confirmed word-for-word:
+"b, Joshua 10:12-14. II Kings 20:8-11. Isaiah 38:7,8. See 2a, Alma 30."
+/ "c, Isaiah 44:27. 51:10." / "d, III Nep. 8:10,25. 9:5,6,8." /
+"e, ver. 19. Hela. 13:17-23,30-37. Mor. 1:17-19. 2:10-14. Ether
+14:1,2." / "f, see k, Jacob 6." Body marker placements (before
+"alargue" v.14, "sequen" v.16, "venga" v.17, "sea" v.18, "Maldito"
+v.20) all match the analogous 1879 English placements.
+[rule 18] Block 1 entries 12b and 12e exceed 79 characters as single
+lines; wrapped at a semicolon boundary per rule 18, continuation flush
+left.
+[fn b/c/d/e/f] Session B re-check (2026-07-17): independently
+re-fetched 1879 page 463 (file 471) — fresh read, not reused from
+Session A. "b, Joshua 10:12-14. II Kings 20:8-11. Isaiah 38:7,8. See
+2a, Alma 30." / "c, Isaiah 44:27. 51:10." / "d, III Nep. 8:10,25.
+9:5,6,8." / "e, ver. 19. Hela. 13:17-23,30-37. Mor. 1:17-19. 2:10-14.
+Ether 14:1,2." / "f, see k, Jacob 6." — all confirm Session A's
+readings exactly, including the "2a" (not "8a") resolution for
+footnote b. 1920 fn_zoom re-read fresh also matches Block 1 exactly.

@@ -1,0 +1,97 @@
+Página 469
+21. Y si el Señor dice, á causa de tus iniquidades, tú serás
+arrojado [3332]de mi presencia. Él hará que así suceda.
+22. Desgraciado de aquél, á quién Él diga esto; porque así
+será al que cometa iniquidad, y no podrá salvarse. Poi lo tanto,
+por esta causa ha sido declarado el arrepentimiento, para que
+los hombres se salven.
+23. Por lo tanto, benditos son los que desean arrepentirse,
+y escuchar la voz del Señor, su Dios; que estos serán salvos.
+24. Y que Dios conceda, en su gran munificencia, que los
+hombres sean llevados al arrepentimiento, y á las buenas obras;
+para que sean restaurados de gracia en gracia según sus obras.
+25. Y dsesaría que se salvasen todos los hombres. Pero
+leemos en las escrituras, que en el gran día final, habrán algunos
+quiénes serán desechados; sí, que serán echados [3333]de la presencia
+del Señor;
+26. Sí, que serán consignados á un estado de miseria [3334]sin
+fin, en cumplimiento de las palabras, que dicen: Los que han
+hecho el bien, gozarán de la vida eterna; y los que han hecho
+el mal, tendrán condenación [3335]eterna. Y así es. Amén.
+
+CAPÍTULO 13.
+
+1. Y sucedió ahora, que en el año octogésimo-sexto, continuaron
+los Nefitas todavía en sus maldades; sí, en sus grandes
+iniquidades, mientras que los Lamanitas se esmeraban en guardar
+estrictamente los mandamientos de Dios, según la [3336]ley de Moisés.
+2. Y vino á suceder, que hubo en este año entre ellos, uno
+llamado Samuel, el Lamanita, que vino al [3337]país de Zarahemla
+y empezó á predicar al pueblo. Y predicóles por muchos días
+el arrepentimiento, hasta que le echaron fuera, y se hallaba á
+punto de volver á su país,
+3. Mas, he aquí, que vino á él la voz del Señor, ordenándole que
+volviera, y profetizara al pueblo todas las cosas que vinieran
+á su corazón.
+4. Y vino á suceder, habiéndole impedido que entrara en la
+ciudad, se subió sobre la muralla, y extendiendo su mano, y
+levantando fuertemente su voz, profetizó al pueblo, cuánto el
+Señor le puso en su corazón;
+5. Y les dijo: He aquí, que yo Samuel, el Lamanita, vengo á
+
+12g, 3332: Versículos 25, 26; Véase b, I Nefi 2.
+12h, 3333: Véase g.
+12i, 3334: Véase m, Jacob 6.
+12j, 3335: Véase m, Jacob 6.
+13a, 3336: Véase o, II Nefi 25.
+13b, 3337: Véase h, Omni 1.
+
+Corrections
+[page] Running header "CAP. XIII.) LIBRO DE HELAMÁN. 469" discarded.
+[page] "Digitized by Google" watermark removed.
+[page] Chapter 13's italic subtitle line ("Profecía de Samuel, el
+Lamanita, a los Nefitas.") omitted, per the established convention on
+prior pages (no chapter-heading subtitle has been transcribed on any
+completed page so far) — treated analogously to rule 19's precedent
+of ignoring subtitle lines under a title.
+[v.22] "Poi lo tanto" — preserved as printed; apparent 1920 misprint
+for "Por lo tanto" (the "r" renders as a bare vertical stroke with no
+arm/hook, confirmed at high zoom). Session E: confirmed against 1886
+(page 466, file 484), which reads "Por lo tanto" — genuine 1920 error,
+added to errors in 1920.txt.
+[v.25] "dsesaría" — preserved as printed; apparent 1920 misprint for
+"desearía" (missing "e"). Session E: confirmed against 1886 (page 466,
+file 484), which reads "desearía" — genuine 1920 error, added to
+errors in 1920.txt.
+[v.1] "octogésimo-sexto, con-" + "tinuaron" → "continuaron" — rejoined
+hyphenated line-break split; rejoined word kept at end of line 1
+(rule 7/8), under 72 characters.
+[fn g/h/i/j] Superscript letters g (v.21 "de"), h (v.25 "de"), i (v.26
+"sin"), j (v.26 second "eterna") resolved by same-page glyph
+comparison (Section 8 procedure step 1): g/h share an ascender+arch
+shape with no dot (g additionally has a descender loop), i is a short
+stroke with a separated dot and no descender, j is a stroke with a
+dot plus a descender hook curling below the baseline — matched against
+the confirmed footnote-label glyphs "h, Véase g." and "i, Véase m,
+Jacob 6." in this page's own footnote block. The apparent duplicate
+"i, Véase m, Jacob 6." line in the raw footnote block is in fact two
+separate entries, i and j, both citing the same target — confirmed
+by zooming the second line's leading letter, which shows the
+dot+descender-hook "j" shape, not "i".
+[fn i] Session B: letter "i" mandatorily re-checked against 1879 (page
+472, file 472) per rule (i/l/1 always require 1879 confirmation, not
+just same-page comparison): 1879 fn block reads "h, see g.  i, see m,
+Jacob 6.  j, see m, Jacob 6." — confirms 1920 "i, Véase m, Jacob 6." and
+the adjacent "j, Véase m, Jacob 6." are both correct, matching the
+same-page glyph resolution above exactly.
+[fn a] Cross-reference target letter in "13a, Véase [o/g], II Nefi 25"
+renders as an ambiguous solid round glyph at 1920 native resolution
+(no visible tail distinguishing "o" from "g"). Checked against 1879
+(page 472, file 472): "a, see o, II Nep. 25." — confirms target is
+"o", not "g".
+[fn b] Cross-reference "13b, Véase h, Omni 1" confirmed against 1879
+(page 472, file 472): "b, see h, Omni 1."
+[fn c] 1879 (page 472, file 472) footnote block includes a "c, see d,
+I Nep. 12" entry not yet encountered in the 1920 body text on this
+page (verses 1-5 only reach as far as "vengo á"); its marker likely
+falls later in v.5, to be confirmed when page 470 is transcribed.

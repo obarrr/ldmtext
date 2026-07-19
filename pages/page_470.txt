@@ -1,0 +1,85 @@
+Página 470
+anunciar á este pueblo las cosas que Dios ha puesto en mi corazón;
+y, he aquí, que Él me ha inspirado á deciros, que la espada
+de la justicia está suspendida sobre este pueblo; y no se pasarán
+[3338]cuatrocientos años, sin que caiga sobre ellos.
+6. Sí, á este pueblo se le espera una terrible destrucción, que
+se verificará seguramente, sin que nadie le salve, excepto que se
+arrepienta y tenga fe en el Señor Jesu Cristo, Quién de seguro
+vendrá al mundo, y sufrirá muchas cosas, y será condenado á
+morir por su pueblo.
+7. Y, he aquí, que un ángel del Señor me lo ha aninciado, y
+trajo alegres nuevas á mi alma. Y, he aquí, que yo he sido
+enviado para anunciároslo, á fin de que tengáis buenas nuevas;
+pero, he aquí, que vosotros no [3339]queréis recibirme;
+8. Por lo que, así dice el Señor: A causa de la dureza de
+corazón del pueblo de los Nefitas, como no se arrepientan, yo
+quitaré mi palabra de entre ellos, y retiraré mi Espíritu, y no
+les sufriré mucho tiempo más, y volveré el corazón de sus hermanos
+contra ellos;
+9. Y no se pasarán [3340]cuatrocientos años, antes que yo haga
+que se les hiera; sí, y yo les visitaré con la espada, el hambre
+y la peste;
+10. Sí, yo les visitaré con mi severa ira, y aquéllos que vivan
+de la cuarta generación de vuestros enemigos, verán vuestra
+más completa destrucción; lo que de seguro ocurrirá, como no
+os arrepintáis, dice el Señor; y los de la cuarta generación visitarán
+vuestra destrucción.
+11. Pero si os arrepentís, y volvéis al Señor, vuestro Dios, yo
+volveré mi cólera, dice el Señor; sí, así dice el Señor: Benditos
+son los que se arrepientan y vengan á mí; pero ay de los que no
+se arrepientan.
+12. Sí, [3341]¡ay de esta gran ciudad de Zarahemla! porque, he
+aquí, que es á causa de los justos, por lo que se ha salvado; sí,
+¡ay esta gran ciudad ! dice el Señor, en la que veo que la mayor
+parte de sus habitantes endurecerán sus corazones contra mí.
+13. Pero benditos serán los que se arrepientan, porque yo les
+conservaré. Porque, he aquí, que si no fuera por los justos que
+hay en esta gran ciudad, yo haría que cayera fuego del cielo,
+y la destruyera.
+14. Empero, he aquí, que es por amor á los justos, por lo que
+se ha conservada. Pero, he aquí, que se acerca el tiempo, dice
+el Señor, en que, cuando echaréis á los justos de entre vosotros,
+entonces os hallaréis en sazón para la destrucción; sí, ¡ay de
+esta gran ciudad á causa de la perversidad y abominaciones que
+hay en ella!
+
+13c, 3338: Véase d, I Nefi 12.
+13d, 3339: Versículo 2.
+13e, 3340: Véase d, I Nefi 12.
+13f, 3341: III Nefi 8:8,24;9:3.
+
+Corrections
+[page] Running header "470 LIBRO DE HELAMÁN. (CAP. XIII." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.5] "cora-" + "zón" → "corazón" — rejoined hyphenated line-break
+split; rejoined word (plus attached semicolon) kept at end of line 1
+(rule 7/8), under 72 characters.
+[v.8] "her-" + "manos" → "hermanos" — rejoined hyphenated line-break
+split; rejoined word kept at end of the line (rule 7/8), under 72
+characters.
+[v.7] "aninciado" — preserved as printed; apparent 1920 misprint for
+"anunciado" (confirmed at high zoom: a-n-i-n-c-i-a-d-o, no "u").
+Session E: confirmed against 1886 (page 467, file 485), which reads
+"anunciado" — genuine 1920 error, added to errors in 1920.txt.
+[v.14] "se ha conservada" — preserved as printed; apparent 1920
+misprint/grammar error (invariable "haber" + participle construction
+would normally take "conservado", not the feminine "conservada"),
+same error type as the "todo la tierra" case documented for page 468.
+Session E: confirmed against 1886 (page 467, file 485), which reads
+"se ha conservado" — genuine 1920 error, added to errors in 1920.txt.
+[v.10] "cuar ta" — the source prints an anomalous gap inside the word
+"cuarta" (generación) on the same line, not a line-break hyphenation;
+transcribed as the single word "cuarta". Likely a stray spacer in the
+original typesetting, not a linguistic error.
+[fn c/e] Superscript "c" (v.5 "cuatrocientos") and "e" (v.9
+"cuatrocientos") both confirmed distinct from the g/h/i/j set
+resolved on page 469; same-page comparison against the confirmed
+footnote-label glyphs in this page's own fn block shows plain c/e
+shapes, no ambiguity.
+[fn f] Superscript before "¡ay" (v.12) initially looked like it might
+be "j" (a curved stroke was misread as having a dot, which on closer
+zoom proved to be the adjacent comma after "Sí,"). Re-zoomed isolating
+just the marker: a curved diagonal swash stroke with no dot, matching
+the confirmed "f" label glyph in this page's footnote block exactly.
+Resolved as "f", consistent with the footnote sequence c, d, e, f.

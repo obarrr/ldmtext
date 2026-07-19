@@ -1,0 +1,114 @@
+Página 471
+15. Sí, ¡ay de la [3342]ciudad de Gideón por los crímenes y
+abominaciones que hay en ella!
+16. Sí, ¡ay de todas las ciudades de los países inmediatos
+que son poseídos por los Nefitas, á causa de la maldad y abominaciones
+que hay en ellas!
+17. Y, he aquí, que la [3343]maldición caerá sobre el país, dice
+el Señor de los Ejércitos, por causa del pueblo que habita en él;
+sí, a causa de sus crímenes, y de sus abominaciones.
+18. Y vendrá á suceder, dice el Señor de los Ejércitos, sí,
+nuestro grande y verdadero Dios, que quienquiera que oculte
+sus tesoros en la tierra, no los encontrará más, á causa de la gran
+maldición echada sobre el país, excepto que sea hombre justo
+él que los oculte, y que los oculte para el Señor;
+19. Porque deseo, dice el Señor, que oculten sus tesoros para
+mí; y malditos serán aquéllos que no hagan así; porque ninguno
+oculta sus tesoros para mí, sino es un hombre justo; y [3344]malditos
+sean los que no los oculten para mí, y también su tesoro, que
+nadie redimirá á causa de la maldición del país.
+20. Y llegará el día, en que ocultarán sus tesoros, porque han
+puesto sus corazones en las riquezas; y porque han puesto sus
+corazones en ellas, las ocultaré cuando se huirán ante sus enemigos,
+por no haber querido ocultarlas para mí; malditos son
+ellos, y malditos sean sus tesoros; y en aquel día serán heridos,
+dice el Señor.
+21. He aquí,escuchad mis palabras, habitantes de esta gran
+ciudad; sí, escuchadlas palabras del Señor; porque, he aquí, que
+el Señor dice, que sois malditos á causa de vuestras riquezas,
+y que vuestras riquezas son malditas también. porque habéis
+puesto vuestro corazón en ellas, y desechado las palabras del
+que os las ha aunuciado.
+22. Vosotros no os acordáis del Señor, vuestro Dios, en las
+bendiciones que ha conferido á vosotros, pero os acordáis
+constantemente de vuestras requezas, mas no para dar gracias
+al Señor, vuestro Dios, por ellas; sí, vuestro corazón no va hacia
+Él, sino que se ha henchido con gran orgullo, y está lleno de
+jactancia, vanidad, envidia. de antipatías, de malicia, de
+persecuciones, asesinatos, y de toda clase de iniquidad.
+23. Por esta causa, el Señor Dios ha herido este país y vuestras
+riquezas con una maldición, y esto á causa de vuestras iniquidades.
+24. Sí, ay de este pueblo; porque ha llegado el tiempo en
+que [3345]desecháis, á los profetas, hacéis irrisión de ellos, les
+apedreáis, matáis y cometéis con ellos toda suerte de iniquidades, lo
+mismo que hacían en la antigüedad.
+
+13g, 3342: Véase m, Alma 2.
+13h, 3343: Véase e, Helamán 12.
+13i, 3344: Véase e, Helamán 12.
+13j, 3345: Versículo 26; Helamán 16:6.
+
+Corrections
+[page] Running header "471 CAP. XIII.) LIBRO DE HELAMÁN." discarded.
+[page] "Digitized by Google" watermark removed.
+[v.15] "abomi-" + "naciones" → "abominaciones" — rejoined hyphenated
+line-break split; with the [3342] marker inserted, the rejoined word
+appended to line 1 reached exactly 73 characters (rule 9's "73 or more"
+threshold), so per rule 8 it moved to the start of line 2 instead.
+[v.16] "abomi-" + "naciones" → "abominaciones" — rejoined hyphenated
+line-break split; rejoined word kept at end of the line (rule 7/8),
+under 72 characters (no marker on this line to push it over).
+[v.20] "ene-" + "migos" → "enemigos" — rejoined hyphenated line-break
+split; rejoined word (plus attached comma) kept at end of the line
+(rule 7/8), under 72 characters.
+[v.22] "perse-" + "cuciones" → "persecuciones" — rejoined hyphenated
+line-break split; with the attached comma the rejoined word appended
+to its line reached exactly 73 characters, so per rule 8 it moved to
+the start of the next line instead.
+[v.23] "iniqui-" + "dades" → "iniquidades" — rejoined hyphenated
+line-break split; rejoined word (plus attached period) kept at end of
+the line (rule 7/8), under 72 characters.
+[v.24] Line "que [3345]desecháis, á los profetas, hacéis irrisión de
+ellos, les apedreáis," reached 77 characters once the [3345] marker
+was inserted; per rule 8, "apedreáis," was moved to the next line,
+which then itself reached 75 characters, so "mismo" was moved again to
+the start of the following line. Rebalanced across three lines, all
+under 72 characters.
+[v.21] "aquí,escuchad" — preserved as printed; no space between the
+comma and "escuchad" in the source image (letters touch directly).
+Appears to be a print/justification defect (missing interword space),
+not a spelling error — not silently corrected.
+[v.21] "escuchadlas" — preserved as printed; same missing-space defect
+as above, between "escuchad" and "las" ("sí, escuchadlas palabras del
+Señor"). Not silently corrected.
+[v.21] "aunuciado" — preserved as printed; apparent 1920 misprint for
+"anunciado" (missing "n"), same error pattern as page 470 v.7
+"aninciado". Verify against 1886 in Session E.
+[v.22] "requezas" — preserved as printed; apparent 1920 misprint for
+"riquezas" (matches "riquezas" used elsewhere in this same verse and
+v.20/23). Verify against 1886 in Session E.
+[v.22] "envidia. de antipatías" — preserved as printed; a period
+appears where a comma is grammatically expected mid-list (compare
+1879: "envyings, strifes, malice, persecutions, and murders" as a
+comma-separated list). Verify against 1886 in Session E.
+[v.24] "Sí, ay de este pueblo" — preserved as printed; missing the
+inverted exclamation mark "¡" before "ay" that appears in the same
+construction at v.15 and v.16 ("¡ay de..."). Verify against 1886 in
+Session E.
+[fn g-j] Superscript letters g (v.15 "ciudad"), h (v.17 "maldición"),
+i (v.19 "malditos"), j (v.24 "desecháis") — same swash g/h/i/j cluster
+flagged as hard to distinguish on page 469. Mandatory 1879 check
+performed (BOM 1879 Pratt page 466, file page 474; chapter_map
+Helamán 13). 1879 prints clearly: "h, see e, Hela. 12.", "i, see e,
+Hela. 12.", "j, ver. 26. Hela. 16:6." — confirming both letter
+identity and body-text placement: h at "curse" (v.17), i at "cursed
+is he" (v.19), j at "cast out the prophets" (v.24). This corrected two
+initial misreadings from the 1920 image alone: the swash "i" before
+"malditos" in v.19 was first mistaken for a curly opening quotation
+mark, and the marker actually landing on v.24 "desecháis" was
+initially misassigned as "i" (by glyph shape alone) before the 1879
+check and alphabetical-sequence reasoning (g,h,i already used) settled
+it as "j". Content-fit check also passes: g's target "Véase m, Alma 2"
+fits "ciudad de Gideón" (a place named in Alma), and j's target
+"Versículo 26" is a forward self-reference within this same chapter
+(v.26 appears on page 472).

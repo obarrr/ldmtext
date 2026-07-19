@@ -1,0 +1,113 @@
+Página 475
+para que llevara á efecto la [3363]resurrección de los muertos, á fin
+de que por ella pueda el hombre ser conducido á la presencia del
+Señor;
+16. Sí, he aquí, que esta muerte lleva á efecto la resurrección,
+y redime á [3364]todo el género humano de la primera muerte--
+aquella muerte espiritual; puesque toda la humanidad, por
+la caída de Adam, quedando separada de la presencia del Señor,
+es considerada como muerta, [3365]tanto en las cosas temporales
+como en las espirituales.
+17. Pero, he aquí, que la resurrección de Cristo redime al
+género humano, sí, aún á [3366]toda la humanidad, trayéndola otra
+vez á la presencia del Señor;
+18. Sí, y lleva á efecto la condición del arrepentimiento, de
+modo que quienquiera que se arrepienta, no es tallado y arrojado
+al fuego; pero quienquiera que no se arrepienta, es tallado y
+echado al fuego, y entonces viene sobre ellos [3367]otra vez una
+muerte espiritual; sí, una segunda muerte, porque quedan [3368]otra
+vez separados de las cosas de la justicia;
+19. Por lo tanto, arrepentíos, arrepentíos, no sea que por saber
+estas cosas y no cumplirlas, os veáis obligados á caer en la
+condenación, y os veáis sumidos á sufrir la [3369]segunda muerte.
+20. Mas, he aquí, como os hablé [3370]de otra señal,--la señal de su
+muerte; he aquí, que en aquel día en que sufra la muerte, se
+obscurecerá el [3371]sol, y rehusará daros su luz; lo mismo que la
+luna y las estrellas; y no habrá luz sobre la superficie de esta
+tierra aún desde el día de su muerte, por tres días, hasta el
+momento en que resucite de entre los muertos;
+21. Sí, en el momento en que Él entregue su espíritu, [3372]habrá
+truenos y relámpagos por espacio de muchas horas, y se conmoverá
+y temblará la tierra; y las [3373]rocas de la superficie de la
+tierra, que se hallan arriba y también abajo, y que sabéis que
+ahora son macizas, ó que la mayor porción de ellas no es más
+que una masa completa, se despedazarán;
+22. Sí, se rajarán por la mitad, y siempre después se las [3374]verá
+rajadas, hendidas y esparcidas en quebrados fragmentos sobre
+la superficie de la tierra; sí, tanto encima de la tierra como debajo.
+23. Y, he aquí, que habrán grandes [3375]tempestades; y habrán
+muchas montañas que se [3376]allanarán como un valle, y muchos
+parajes que ahora se llaman valles se levantarán, convirtiéndose
+en montañas, cuya altura será muy grande.
+
+14j, 3363: Véase d, II Nefi 2.
+14k, 3364: Véase j, II Nefi 9.
+14l, 3365: Véase b, y, c, II Nefi 2.
+14m, 3366: Véase j, II Nefi 9.
+14n, 3367: Véase p, Alma 12.
+14o, 3368: Véase q, Alma 12.
+14p, 3369: Véase p, Alma 12.
+14q, 3370: Versículo 14.
+14r, 3371: Véase i, I Nefi 19.
+14s, 3372: Versículos 26-27; I Nefi 12:4;19:11-12; III Nefi 8:5-7,19.
+14t, 3373: I Nefi 12:4;19:12; III Nefi 8:18;10:9.
+14u, 3374: III Nefi 8:18.
+14v, 3375: I Nefi 9:11; III Nefi 8:6,12,19;10:14.
+14w, 3376: I Nefi 12:4;19:11; III Nefi 8:10-19.
+
+Corrections
+[2026-07-19 re-transcription] The body text below was rewrapped to match
+the actual 1920 image line breaks. The previous version of this file had
+been reflowed to a roughly even ~72-character width without checking
+each line ending against the page image (a violation of rules 5/6), even
+though it happened to satisfy the rule 9 length cap. Redone from scratch
+by reading pages_1920/page_0497.png (top/mid/bot crops) line by line;
+every line below now ends where the 1920 print actually ends it, subject
+only to the rule 7/8 adjustments noted below. Content/word choices and
+footnote numbers were unaffected and are unchanged from before.
+[v.19] "con-" + "denación" → "condenación" — rejoined hyphenated
+line-break split. Appending the whole word to the image line ("...caer
+en la condenación,") would reach 73 characters, so per rule 7 the whole
+word moves to the start of the next line instead: line ends "...caer en
+la" and the next line begins "condenación, y os veáis...".
+[v.21] "con-" + "moverá" → "conmoverá" — rejoined hyphenated line-break
+split; rejoined word ("...y se conmoverá") is under 72 characters, so it
+stays at the end of the first line per rule 7.
+[v.16, v.20] "primera muerte--aquella" and "señal,--la" — intentional
+em-dashes as printed, not line-break hyphens; the image happens to break
+the line immediately after the dash in both cases, which is not a rule 7
+case (no word is split) — left as "--" per existing project convention
+(no spaces around the dash), each half on the image's own line.
+[v.21] "masa com pleta. se despedazalán" — the source image shows a
+gap in the middle of "completa" (comparable in width to this line's
+genuine inter-word spaces), a letter between "za" and "án" that reads
+more like "l" than "r", and a period rather than a comma before "se".
+Initially transcribed literally and logged as suspected 1920 errors.
+On review, the editor determined this is a scan/print artifact of
+this particular copy (uneven ink coverage) rather than an actual
+defect in the 1920 type — same pattern as the 2026-07-18d cases on
+pages 472-473 — and that the original setting reads "una masa
+completa, se despedazarán" normally. Corrected accordingly; no
+`errors in 1920.txt` entry.
+[page] Page begins mid-verse 15, continuing directly from page 474
+("...que muriera," → "para que llevara..."); no blank line per rule 1.
+[Session B, 2026-07-19] Footnote letters j-w and Block 1 references
+verified against 1879 (BOM 1879 Pratt, file pages 477-478; chapter_map
+Helamán 14). Mandatory i/l/1 checks: marker "l" (14l) and its own
+target letter "b, y, c" — 1879's own unprefixed lettering confirms
+position ("l, see b and c, II. Nep. 2." — exact match); target letter
+"i" in 14r ("Véase i, I Nefi 19.") — 1879 confirms exactly ("r, see i,
+I. Nep. 19."). All other Block 1 entries (j,k,m,n,o,p,q,s,t,u,w)
+cross-checked against 1879's parallel list and match, with one
+exception noted below (14v). Body marker placement (n-w) re-confirmed
+against the image; sequence and position match the Block 1 list.
+[fn v, 3375] "I Nefi 9:11" — 1879 reads "I. Nep. 19:11" for the
+parallel entry; confirmed via tight zoom this is genuinely "9" in the
+1920 print, not a misread "19". I Nefi 19 (Nephi's prophecy of the
+signs of Christ's death — earthquakes, rent rocks) fits this verse's
+content ("rocas de la superficie de la tierra... se despedazarán")
+exactly, while I Nefi 9 (purpose of the two sets of plates) has no
+thematic connection. 1886 carries no footnote apparatus on this page,
+so no third source to arbitrate. Likely a dropped "1" in the 1920
+print; preserved as printed per rule 32, added to `errors in
+1920.txt`.

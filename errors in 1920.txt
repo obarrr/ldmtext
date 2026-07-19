@@ -545,11 +545,9 @@ Helamán 7:11 vierion (vieron) (viéron en 1886)
 Helamán 7:14 vuestros iniquidas (vuestras iniquidades) (vuestras iniquidades en 1886)
 Helamán 7:21 veustros (vuestros) (vuestros en 1886)
 Helamán 7:22 arripintáis (arrepintáis) (arrepintais en 1886 — sin acento pero con "arre-" correcto)
-Helamán 8:11 aguasse cerráron (aguas se cerráron) (aguas se cerráron en 1886)
 Helamán 8:12 conocer acera de (conocer acerca de) (conocer acerca de en 1886)
 Helamán 8:20 Y, he quí (Y hé aquí) (Y hé aquí en 1886)
 Helamán 8:20 Zenoch. Ezías (Zenoch, Ezías) (Zenoch, Ezías en 1886)
-Helamán 8:20 Isafas (Isaías) (Isaías en 1886)
 Helamán 8:21 no ha-sido destruida (no ha sido destruida) (no ha sido destruida en 1886)
 Footnote Helamán 8l, 3292: Helamán 9:6,26-28 (Helamán 9:6,26-38 en 1879
 — el pasaje sobre el asesinato del hermano del juez continúa hasta el
@@ -571,6 +569,30 @@ Helamán 10:15 prisón (prisión) (prision en 1886)
 Helamán 11:2 detrucción (destrucción) (destruccion en 1886)
 Helamán 11:3 septusgésimo-tercio (septuagésimo-tercio) (septuagésimo-tercio en 1886; también inconsistente con "septuagésimo-primo/-segundo/-cuarto/-quinto," correctamente escritos en esta misma página de 1920)
 Helamán 11:8 hombres de Dios (hombre de Dios) (hombre de Dios en 1886, singular — concuerda con el verbo singular "eres")
+Helamán 11:17 tierre (tierra) (tierra en 1886)
 Helamán 11:21 septuagésimo--sexto (septuagésimo-sexto) (septuagésimo-sexto en 1886, un solo guión; también inconsistente con "-sexto" en el v.17 y "-séptimo" en este mismo versículo, ambos correctos en esta misma página de 1920)
 Helamán 11:25 montaños (montañas) (montañas en 1886)
 Helamán 11:30 de elos (de ellos) (de ellos en 1886)
+Helamán 11:33 extragos (estragos) (extragos también en 1886 — mismo error en ambas ediciones; RAE no tiene entrada para "extrago(s)," solo "estrago"; sin coincidencias en los corpus de referencia)
+Helamán 11:36 olividarse (olvidarse) (olvidarse en 1886)
+Helamán 12:11 todo la tierra (toda la tierra) (toda la tierra en 1886)
+Helamán 12:22 Poi lo tanto (Por lo tanto) (Por lo tanto en 1886)
+Helamán 12:25 dsesaría (desearía) (desearía en 1886)
+Helamán 13:7 aninciado (anunciado) (anunciado en 1886)
+Helamán 13:14 conservada (conservado) (conservado en 1886)
+Helamán 13:21 también. porque (también, porque) (también, porque en 1886 — coma, no punto; mismo patrón de "punto seguido de minúscula" ya documentado en Alma 43:9, 48:6, 49:3, 52:34, 57:6, Helamán 5:2 y 10:15)
+Helamán 13:21 aunuciado (anunciado) (anunciado en 1886)
+Helamán 13:22 requezas (riquezas) (riquezas en 1886)
+Helamán 13:22 envidia. de antipatías (envidia, de antipatías) (envidia, de antipatías en 1886 — coma, no punto; mismo patrón de "punto seguido de minúscula" documentado arriba)
+Helamán 13:39 esuchad (escuchad) (escuchad en 1886)
+Helamán 14:5 aparacerá (aparecerá) ("aparacerá" también en 1886 — mismo error en ambas ediciones; RAE no tiene entrada para "aparacer," solo "aparecer"; sin coincidencias para "aparacer" en los corpus de referencia frente a 9 coincidencias para "aparecer" en Reina-Valera; la edición moderna en español usa "aparecerá")
+Footnote Helamán 14v, 3375: I Nefi 9:11 (I Nefi 19:11 en 1879 — "v, I.
+Nep. 19:11. III. Nep. 8:6,12,19. 10:14."; I Nefi 19 es precisamente la
+profecía de Nefi sobre las señales de la muerte de Cristo —
+terremotos, rocas partidas — que coincide exactamente con el
+contenido citado aquí ("rocas de la superficie de la tierra... se
+despedazarán"), mientras I Nefi 9 (el propósito de las dos series de
+planchas) no tiene relación temática alguna; 1886 no tiene aparato de
+notas en esta sección, así que no hay una tercera fuente para dirimir;
+probable "1" omitido en la imprenta de 1920); texto conservado como
+aparece impreso en 1920.

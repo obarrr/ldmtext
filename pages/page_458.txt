@@ -1,6 +1,6 @@
 Página 458
 20. Y, he quí, también lo mismo han hecho [3288]Zenoch. [3289]Ezías,
-Isafas y Jeremías, (Jeremías siendo el mismo profeta que vaticinó
+Isaías y Jeremías, (Jeremías siendo el mismo profeta que vaticinó
 la destrucción de Jerusalem.) Y, ahora, sabemos que Jerusalem
 ha sido destruida según las palabras de Jeremías. Así pues,
 ¿porqué no ha de venir el Hijo de Dios según su profecía?
@@ -56,12 +56,17 @@ Corrections
 [v.20] "he quí" — preserved as printed; apparent missing "a" (expected
 "he aquí"); verify against 1886.
 [v.20] "Zenoch." — preserved as printed; period where a comma is
-expected (the sentence continues as a list: "Ezías, Isafas y
+expected (the sentence continues as a list: "Ezías, Isaías y
 Jeremías"); cross-checked against 1879 ("also Zenock, and also Ezias,
 and also Isaiah, and Jeremiah"), which confirms a comma is intended;
 verify against 1886.
-[v.20] "Isafas" — preserved as printed; apparent 1920 error (expected
-"Isaías"); cross-checked against 1879 ("Isaiah"); verify against 1886.
+[v.20] "Isafas" → corrected to "Isaías" — this was a transcription
+misread, not a 1920 print error: a fresh 10x zoom (2026-07-17) shows
+the 1920 print clearly reads "Isaías" (the accented í's dot + thin
+stroke was misread as "f" at the original lower zoom). Previously
+logged as a suspected 1920 error and mirrored into `permitted
+words.txt`; both entries removed since the word was never actually
+misprinted.
 [v.21] "Jerusa-" + "lem" → "Jerusalem" — rejoined hyphenated
 line-break split; rejoined line fits end of line.
 [v.21] "ha-sido" — preserved as printed; stray hyphen between "ha" and
