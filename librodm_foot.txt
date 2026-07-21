@@ -3635,3 +3635,28 @@ Alma 30.
 14u, 3374: III Nefi 8:18.
 14v, 3375: I Nefi 9:11; III Nefi 8:6,12,19;10:14.
 14w, 3376: I Nefi 12:4;19:11; III Nefi 8:10-19.
+14x, 3377: III Nefi 8:13.
+14y, 3378: I Nefi 12:4; III Nefi 8:8-10,14,24,25;9:3-12;10:7.
+14z, 3379: Véase g, Jacob 4.
+14-2a, 3380: IV Nefi 23:7-13.
+14-2b, 3381: Véase s.
+14-2c, 3382: Véase i, I Nefi 19.
+14-2d, 3383: Véase l, II Nefi 2.
+14-2e, 3384: Alma 41.
+15a, 3385: Véase y, Helamán 14.
+15b, 3386: Véase n, Jacob 7.
+15c, 3387: Véase o, II Nefi 25.
+15d, 3388: Véase n, Jacob 7.
+15e, 3389: Alma 24:17-19.
+15f, 3390: Alma 24:21-23.
+15g, 3391: Véase c, Enos 1; también véase c, II Nefi 27.
+15h, 3392: Véase h, I Nefi 19.
+15i, 3393: Véase c, Enos 1; también véase c, II Nefi 27.
+15j, 3394: Mormón 5:15.
+15k, 3395: Véase 2e, Alma 5.
+15l, 3396: Véase c, Enos 1; también c, II Nefi 27.
+15m, 3397: Véase m, Alma 9.
+16a, 3398: Helamán 13:4.
+16b, 3399: Véase u, II Nefi 9.
+16c, 3400: Versículo 2.
+16d, 3401: Helamán 13:4.

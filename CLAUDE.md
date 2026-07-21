@@ -275,9 +275,108 @@ running is ever in context, not all five at once.
   (`report_wsl_20260719.html`) came back fully clean for the new range
   — no spellcheck suspects, no footnote gaps/duplicates, dash/hyphenation/
   paragraph-level checks all clean.
-- **Next page**: 476 (file page 498), full A–E cycle, first footnote
-  3377.
-- **Completed pages**: 437–475, Sessions A–E all done through page 475.
+- **2026-07-19c**: Sessions B–E run for page 476 (Helamán 14:24-31,
+  Helamán 15:1-2, footnotes 3377-3385, letters x-z/2a-2e then chapter
+  15 restarts at a). Session B: independent re-verification of all
+  Block 1 entries and body markers against the 1920 image, plus an
+  extra-discretion 1879 cross-check (file pages 478-479, chapter_map
+  Helamán 14/15) for the x/z pair, which looked visually similar
+  (both flat-topped, no crossing strokes or descender) at this print
+  size — 1879 confirmed the full x/y/z/2a-2e/15a sequence letter-for-
+  letter. Session C/D integrated cleanly, but generating Block 2
+  surfaced a genuine Session A transcription error found nowhere else
+  in the pipeline: footnote 3381 (14-2b) had been transcribed as
+  "Véase n." when it should read "Véase s." — the original content-fit
+  reasoning (matching v.26's near-verbatim repeat of v.21's text) and
+  the 1879 cross-check ("2b, see s") both actually pointed to letter s
+  the whole time, but got mislabeled as "n" in the write-up; corrected
+  in `pages/page_476.txt`, `librodm_foot.txt`, and `librodm.txt`'s
+  Block 2 entry (3381: Véase 3372, not 3367). Session E: fresh pptext
+  regeneration (`report_wsl_20260719b.html`) came back fully clean for
+  the new range — no spellcheck suspects, no footnote gaps/duplicates,
+  no new dash/hyphenation findings, and an independent curly-quote
+  scan and full-stop-then-lowercase scan of the new lines both came
+  back clean too.
+- **2026-07-19d**: Sessions B–E run for page 477 (Helamán 15:3-11,
+  footnotes 3386-3390, letters b-f). Session B: independently
+  re-verified all five body markers and Block 1 entries against
+  pages_1920/page_0499.png (top/mid/bot/fn_zoom); none of this page's
+  own letters or its cross-reference targets (n, o) are i/l/1, so no
+  new mandatory 1879 check applied — the discretionary 1879 checks
+  Session A already ran for the 15b/15d blob glyph and the 15c "e" vs
+  "o" ambiguity were reviewed and confirmed sufficient. No errors
+  found. Session C/D integrated cleanly via the scripts. Session E:
+  fresh pptext regeneration (`report_wsl_20260719c.html`) came back
+  fully clean for the new range — spellcheck, edit distance, dash/
+  hyphenation, footnote-number consistency (merged-bucket diff: zero
+  duplicates, zero out-of-range, only the pre-existing 812/Jacob 2:15
+  gap), scanno, curly quotes, special situations, book level, and
+  Jeebies all clean; a mandatory sweep of the page's own Corrections
+  log found only transcription-mechanics and already-1879-settled
+  footnote-letter notes, nothing needing a fresh 1886/RAE check. No
+  `errors in 1920.txt` or `permitted words.txt` entries needed.
+- **2026-07-19e**: Sessions B–E run for page 478 (Helamán 15:11-17,
+  Helamán 16:1-2, footnotes 3391-3399, letters g-m then chapter 16
+  restarts at a-b). Session B: independently re-verified all 9 Block 1
+  entries and body markers against pages_1920/page_0500.png; mandatory
+  1879 check re-run independently for this page's own letters i and l
+  (BOM 1879 Pratt file page 480 — chapter_map's listed 479 only carries
+  Helamán 14's tail, matching the "one page later" pattern already seen
+  for this chapter) confirmed both letter-for-letter, plus bonus
+  reconfirmation of g/h/j/k including Session A's swash-glyph "2e"
+  resolution. Session C integrated cleanly. Session D: `generate_block2.py`
+  left 3 entries unresolved (3391, 3393, 3396) — a new variant of the
+  known cross-reference-parsing limitation (a "Véase X; también véase Y"
+  clause with two separate targets gets treated as one unparseable
+  letters-list) — resolved by hand via book-aware lookup (Enos 1c=975,
+  II Nefi 27c=682), matching an exact existing precedent already in
+  librodm.txt. Session E: fresh pptext regeneration
+  (`report_wsl_20260719d.html`) came back fully clean for the new range —
+  no spellcheck suspects, no hyphenation findings (page has no hyphens),
+  footnote-number consistency confirmed (max 3399, zero duplicates, only
+  the pre-existing 812 gap), curly-quote scan clean, book/paragraph-level
+  and Jeebies all clean. Corrections-log sweep found only transcription-
+  mechanics notes, nothing needing `errors in 1920.txt` or `permitted
+  words.txt`. `generate_block2.py`'s two known cross-reference-parsing
+  gaps (comma-split from page 475, two-target "también" clause from this
+  page) are both still worth fixing next time the script is touched.
+- **2026-07-20**: Sessions B–E run for page 479 (Helamán 16:1-13,
+  footnotes 3400-3401, letters c-d). Session B: independently
+  re-verified both Block 1 entries and body markers against
+  pages_1920/page_0501.png; neither this page's own letters (c, d) nor
+  either cross-reference target (a verse number and a chapter:verse
+  citation, no letters) is i/l/1, so no mandatory 1879 check applied.
+  Session C/D integrated cleanly. Session E: fresh pptext regeneration
+  (`report_wsl_20260720.html`) flagged 5 spellcheck suspects, all from
+  this page; checked each against 1886 (file pages 493-494) plus
+  independent RAE/corpus/modern-edition research. Confirmed 4 new
+  genuine 1920 errors, all added to `errors in 1920.txt`: Helamán 16:5
+  "aunuciadas" (→ anunciadas) and "buatizase" (→ bautizase), both
+  1920-only per 1886; Helamán 16:10 "circumspectamente" and 16:5
+  "arrepentiéndose" — both also present in 1886 (shared-error pattern
+  like "aparacerá"/"seperado") but confirmed wrong via RAE (no entry
+  for the "circumspect-" spelling, only "circunspect-") and the modern
+  LDS Spanish edition (uses "circunspección" and the irregular gerund
+  "arrepintiéndose" at these verses). "apoderáos" confirmed legitimate
+  (established accented-imperative convention) and added to `permitted
+  words.txt` along with `circumspectamente` and `arrepentiéndose`.
+  Separately, a user review of v.7 found the Session A/B "quese"
+  reading was wrong: the print has a real, reduced-width space between
+  "que" and "se," not a true zero-space merge like page 474's "esesto"
+  — corrected to "que se" in `pages/page_479.txt` and `librodm.txt`
+  (no `errors in 1920.txt` entry; not a misprint). Added a new note to
+  rule 6 in `libro_de_mormon_rules.md` distinguishing a genuine merged-
+  word defect from a narrow-but-real gap, so future sessions verify gap
+  width at zoom before treating a tight word-pair as a true merge.
+  Footnote-anchor check, curly-quote scan, dash check, and Jeebies all
+  came back clean.
+- **2026-07-20b**: User's own reading of an already-completed page
+  (`page_467.txt`, Helamán 11) caught a previously-uncaught genuine 1920
+  error: v.36 "en año" (missing "el"), confirmed against 1886 (file 482,
+  book page 464) reading "en el año." Added to `errors in 1920.txt` and
+  `page_467.txt`'s Corrections log.
+- **Next page**: 480 (file page 502), full A–E cycle, first footnote 3402.
+- **Completed pages**: 437–479, Sessions A–E all done through page 479.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

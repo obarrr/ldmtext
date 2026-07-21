@@ -77,6 +77,19 @@
    applying it depended on the transcriber separately noticing and
    citing precedent each time rather than following one blanket
    instruction. This paragraph closes that gap.
+   **Narrow-but-real space vs. true zero-space merge (2026-07-20, page
+   479):** when two words appear to run together with little or no
+   gap, don't assume it's a genuine merged-word print defect (like page
+   474's "esesto," preserved as printed per rule 32) without checking
+   the gap at high zoom. Page 479 v.7 was transcribed and carried
+   through Session B as "quese" (treated as a true merge), but on
+   closer inspection the print has a real, if reduced-width, space
+   between "que" and "se" — not a zero-width merge. A reduced-but-
+   present gap is normalized to one space per this rule (like any other
+   inter-word spacing), not preserved as a merge and not logged in
+   `errors in 1920.txt`. Only treat a tight word-pair as a genuine
+   merge — with no space inserted, per rule 32 — when zoomed inspection
+   confirms there is truly no gap between the letters at all.
 7. Hyphenated word at end of line: remove the hyphen and rejoin the word.
    Any punctuation immediately attached to the second half (e.g. a comma
    or period directly after the word fragment) travels with the rejoined

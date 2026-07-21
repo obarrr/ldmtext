@@ -53,6 +53,10 @@ line-break split.
 "estragos" — verify against 1886 in Session E.
 [v.36] "olividarse" — preserved as printed; apparent 1920 misprint
 (extra "i") for "olvidarse" — verify against 1886 in Session E.
+[v.36] "en año" — missing "el" ("Y en año octogésimo-segundo," should
+read "en el año"); preserved as printed per rule 32. Found via user
+review of the 1920 image against 1886, which reads "en el año";
+confirmed error added to `errors in 1920.txt`.
 [v.37] "rapidamente" — missing accent only ("rápidamente"); not logged
 per convention (1886 frequently omits accents too).
 [fn a] Chapter 12's first footnote; letter "a" per rule 13 (chapter

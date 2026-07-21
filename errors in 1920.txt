@@ -574,6 +574,7 @@ Helamán 11:21 septuagésimo--sexto (septuagésimo-sexto) (septuagésimo-sexto e
 Helamán 11:25 montaños (montañas) (montañas en 1886)
 Helamán 11:30 de elos (de ellos) (de ellos en 1886)
 Helamán 11:33 extragos (estragos) (extragos también en 1886 — mismo error en ambas ediciones; RAE no tiene entrada para "extrago(s)," solo "estrago"; sin coincidencias en los corpus de referencia)
+Helamán 11:36 en año (en el año) (en el año en 1886)
 Helamán 11:36 olividarse (olvidarse) (olvidarse en 1886)
 Helamán 12:11 todo la tierra (toda la tierra) (toda la tierra en 1886)
 Helamán 12:22 Poi lo tanto (Por lo tanto) (Por lo tanto en 1886)
@@ -596,3 +597,8 @@ planchas) no tiene relación temática alguna; 1886 no tiene aparato de
 notas en esta sección, así que no hay una tercera fuente para dirimir;
 probable "1" omitido en la imprenta de 1920); texto conservado como
 aparece impreso en 1920.
+Helamán 16:5 aunuciadas (anunciadas) (anunciadas en 1886)
+Helamán 16:5 buatizase (bautizase) (bautizase en 1886)
+Helamán 16:5 arrepentiéndose (arrepintiéndose) (arrepentiéndose también en 1886 — mismo error en ambas ediciones; el gerundio moderno de "arrepentirse" es irregular ["arrepintiéndose"], confirmado en la edición SUD moderna en español de este mismo versículo)
+Helamán 16:10 circumspectamente (circunspectamente) (circumspectamente también en 1886 — mismo error en ambas ediciones; RAE no tiene entrada para "circumspecto"/"circumspección," solo "circunspecto"/"circunspección"; el Quijote usa "circunspecto"; la edición SUD moderna en español usa "circunspección" en este mismo versículo)
+Helamán 16:12 de os Jueces (de los Jueces) (de los Jueces en 1886)

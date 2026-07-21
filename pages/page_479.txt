@@ -1,0 +1,163 @@
+Página 479
+enojaron contra él; y le apedrearon, y muchos le tiraron flechas,
+cuando él estaba sobre las murallas. Pero el Espíritu del Señor
+estaba con él, de tal modo que no pudieron herirle con las piedras,
+ni con las flechas.
+3. Y cuando vieron que no podían herirle, habían muchos más
+que creyeron en sus palabras, de tal modo que fueron á Nefi,
+para que los bautizara.
+4. Porque, he aquí, que Nefi bautizaba y profetizaba y predicaba,
+llamando al pueblo al arrepentimiento, mostrando señales
+y prodigios; y haciendo milagros entre el pueblo, á fin de que
+conocieran de que pronto vendría Cristo;
+5. Anunciándoles las cosas que pronto se verificarían, para
+que en el día de su cumplimiento las pudiesen conocer, y se
+acordaran de que les habían sido aunuciadas de antemano, para
+que las creyeran; por lo tanto, todos los que creyeron en las
+palabras de Samuel, fueron á él, para que les buatizase; pues
+que venían arrepentiéndose confesando sus pecados.
+6. Pero la mayor parte de ellos no creían en las palabras de
+Samuel; por cuyo motivo, viendo que [3400]ni sus piedras ni flechas
+le podían herir, clamaron á sus capitanes, diciéndoles: Coged
+y atad á ese hombre, porque está poseído del demonio; y á
+causa del poder del diablo que está en él, no podemos herirle con
+nuestras piedras, ni con nuestras flechas, por lo tanto apoderáos
+de él, traedle, atadle, y acabad con él.
+7. Pero en el momento en que se iban á echarse sobre él, he
+aquí, que se dejó caer desde lo alto de la [3401]muralla, y echando á
+correr, salió de sus países hasta llegar al suyo, donde empezó á
+predicar y á profetizar entre su propio pueblo.
+8. Y, he aquí, que nunca más se volvió á oir hablar de él entre
+los Nefitas; y este era entonces el estado de los asuntos del pueblo.
+9. Y así concluyó el año octogésimo-sexto del gobierno de
+los Jueces sobre el pueblo de Nefi;
+10. Y así concluyó también el año octogésimo-séptimo del
+gobierno de los Jueces, en él que la mayor parte de los Nefitas
+continuaban en su orgullo, y en su perversidad, y solo una
+pequeña parte de ellos caminaba más circumspectamente ante
+Dios.
+11. Y estas fueron también las condiciones del país en el año
+octogésimo-octavo del gobierno de los Jueces.
+12. Y en el año octogésimo-nono del gobierno de os Jueces,
+hubo muy poca alteración en los negocios del pueblo, como no
+fuese que el pueblo empezara á endurecerse más en la iniquidad,
+y á hacer más y más lo que era contrario á los mandamientos de
+Dios.
+13. Mas vino á suceder que en el año nonagésimo del gobierno
+
+16c, 3400: Versículo 2.
+16d, 3401: Helamán 13:4.
+
+Corrections
+[page] Running header "CAP. XVI.) LIBRO DE HELAMÁN. 479" discarded.
+[page] Page begins mid-verse, continuing Helamán 16:2 from page 478
+("...Pero los que no creyeron en las palabras de Samuel, se" /
+"enojaron contra él..."); per rule 1, the first line follows
+"Página 479" with no blank line.
+[v.4] "predi-" + "caba" → "predicaba" — rejoined hyphenated line-break
+split. The rejoined word appended to the first line is under 72
+characters (65), so it stays at the end of the first line per rule 7.
+[throughout] Space before semicolon/colon normalized per rule 31 (e.g.
+"él ; y" → "él; y", "diciéndoles :" → "diciéndoles:"; also the double
+space after the colon in "diciéndoles :  Coged" collapsed to one) —
+matches the existing convention in already-completed pages.
+[v.2 cont.] "murallas.  Pero" (double space after period) normalized to
+a single space per rule 6's unconditional inter-word-spacing clause.
+[v.5] "aunuciadas" — suspected misprint for "anunciadas" (missing "n");
+preserved as printed per rule 32; verify against 1886 in Session E.
+[v.5] "buatizase" — suspected misprint for "bautizase" (missing "t");
+preserved as printed per rule 32; verify against 1886 in Session E.
+[v.6, fn c] Superscript "c" confirmed at 6x zoom before "ni" ("viendo
+que [c]ni sus piedras ni flechas") — matches Block 1 entry "c,
+Versículo 2", a self-reference back to the stones-and-arrows imagery
+introduced in v.2 ("le apedrearon... muchos le tiraron flechas").
+Letter c is not i/l/1, so no mandatory 1879 check applies; glyph shape
+unambiguous.
+[v.6] A stray ink mark appears before "atad" ("y atad á ese hombre")
+resembling a small dash/apostrophe at normal zoom. Not a footnote
+marker: fn_zoom shows only two footnotes on this page (c, d), both
+already accounted for (c at "ni", d at "muralla"), and the mark's shape
+doesn't match this page's own "c" glyph when compared side by side.
+Treated as a print artifact; no character transcribed for it.
+[v.7, fn d] Superscript "d" confirmed before "muralla" ("desde lo alto
+de la [d]muralla") — matches Block 1 entry "d, Helamán 13:4", a
+cross-reference to the earlier prophecy of the city walls. Letter d is
+not i/l/1, so no mandatory 1879 check applies; glyph shape unambiguous.
+[v.7] "quese" (Session A/B reading) corrected to "que se" — on closer
+inspection (per user review) the print has a real but reduced-width
+space between "que" and "se," not a true zero-space merge like page
+474's "esesto." Session B had accepted the Session A transcription
+without independently re-examining the gap width at high zoom.
+Corrected in this file, in `librodm.txt`, and normalized to a single
+space per rule 6. Not an `errors in 1920.txt` entry (a reduced-but-
+present gap is not a misprint). See rule 6 in `libro_de_mormon_rules.md`
+for the added guidance distinguishing a true merged-word gap from a
+narrow-but-real one.
+[v.10] "circumspectamente" — printed with "m" (Latinate spelling)
+rather than a modern "circunspectamente"; flagged for Session E
+archaic-spelling review, not silently corrected.
+[v.12] "de os Jueces" — suspected misprint for "de los Jueces" (missing
+"l"); preserved as printed per rule 32; verify against 1886 in
+Session E.
+[v.12] "apoderáos" — accented form of the reflexive imperative
+"apoderaos"; consistent with this edition's old-orthography practice
+of marking stress on forms like this where an enclitic pronoun could
+otherwise shift the default stress (same pattern as "fué"/"vió");
+not flagged as a misprint.
+[check_line_wrap.py] Flagged a +3 line-count gap against its OCR
+estimate (45 vs 42). Investigated, not a reflow problem: independently
+re-derived the line count by cross-referencing all three image crops
+(top/mid/bot) line-by-line a second time, matching the file's 45 lines
+exactly (16 unique from top, 17 new from mid, 12 new from bot). The
+page also has 9 lines under 50 chars (verse-ending short lines like
+"ni con las flechas.", "Dios." x2, "para que los bautizara.") — the
+script's own stated reflow red flag is near-zero short lines, so this
+count is evidence against reflow, not for it. Treated as a Tesseract
+undercount (short/punctuation-heavy lines are a known OCR line-split
+weak point), not a transcription issue.
+[Session B] Independently re-verified against pages_1920/page_0501.png
+(top/mid/bot/fn_zoom crops): both Block 1 entries ("c, Versículo 2." and
+"d, Helamán 13:4.") match the image exactly, and both body markers (c
+before "ni" in v.6, d before "muralla" in v.7) sit before the correct
+word. Neither this page's own letters (c, d) nor either cross-reference
+target (a verse number and a chapter:verse citation, no letters) is
+i/l/1, so no mandatory 1879 check applies. All previously-noted
+suspected misprints ("aunuciadas," "buatizase," "de os Jueces") and the
+"quese" merged-word spot re-confirmed against the image as printed. No
+errors found. (The "quese" reading was later revisited and corrected to
+"que se" during Session E — see the v.7 note above.)
+[Session E] Fresh pptext regeneration (`report_wsl_20260720.html`) flagged
+5 spellcheck suspects, all from this page: "apoderáos," "arrepentiéndose,"
+"buatizase," "circumspectamente," "quese." Checked against 1886 (file
+pages 493-494) plus independent RAE/corpus/modern-edition research per
+the mandatory-check procedure:
+- "buatizase" (v.5): 1886 prints "bautizase" — confirmed 1920-only
+  misprint (transposed letters), added to `errors in 1920.txt`.
+- "aunuciadas" (v.5, not itself pptext-flagged but swept from this
+  page's own Corrections log per the mandatory-check procedure): 1886
+  prints "anunciadas" — confirmed 1920-only misprint, added to `errors
+  in 1920.txt`.
+- "de os Jueces" (v.12, likewise swept from the Corrections log, never
+  pptext-flagged since "os" alone is a valid word): 1886 prints "de los
+  Jueces" — confirmed 1920-only misprint (missing "l"), added to
+  `errors in 1920.txt`.
+- "circumspectamente" (v.10): also printed in 1886 (shared error), but
+  RAE DLE has no entry for "circumspecto"/"circumspección" — only
+  "circunspecto"/"circunspección" (with "n") — confirmed via Quijote
+  corpus (one hit, spelled with "n") and the modern LDS Spanish edition
+  ("circunspección" at this verse). Same shared-error pattern as
+  "aparacerá"/"seperado"; added to `errors in 1920.txt`.
+- "arrepentiéndose" (v.5): also printed in 1886 (shared error); the
+  modern gerund of "arrepentirse" is irregular ("arrepintiéndose," stem
+  e→i), confirmed via conjugation references and the modern LDS Spanish
+  edition at this verse. Same shared-error pattern; added to `errors in
+  1920.txt`.
+- "apoderáos" (v.6): confirmed legitimate (see v.12 Corrections note
+  above); added to `permitted words.txt` only.
+"quese" is no longer a live flag — see the v.7 Corrections note above;
+now reads "que se" and needs no `permitted words.txt` entry.
+`circumspectamente` and `arrepentiéndose` also added to `permitted
+words.txt` since pptext actively flags both. Footnote-anchor check
+(3400-3401 both present, no duplicates/out-of-range), curly-quote scan,
+dash check, and Jeebies all clean for this page. No hyphenation
+findings (page has no hyphens).

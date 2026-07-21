@@ -1,0 +1,175 @@
+Página 478
+[3391]prolongará sus días hasta que llegue el tiempo predicho por
+nuestros padres, ese tiempo predicho igualmente por el profeta
+[3392]Zenos, y por otros muchos profetas, relativamente á la
+restauración de nuestros hermanos, los Lamanitas, al conocimiento de
+la verdad;
+12. Sí, yo os declaro que las [3393]promesas del Señor se han extendido
+hasta nuestros hermanos los Lamanitas en los últimos
+días; á pesar de las grandes aflicciones que experimentarán, y
+[3394]a pesar de que serán echados de un lado para otro sobre la
+superficie del país, y serán perseguidos, heridos, dispersados sin
+tener lugar donde refugiarse, el Señor les será misericordioso;
+13. Y esto es según la profecía de que serán traídos al vero
+conocimiento, que es el conocimiento de su Redentor y su gran
+y [3395]verdadero Pastor, y que serán contados entre sus ovejas.
+14. Por lo tanto, os declaro que será más tolerable para ellos
+que para vosotros, excepto que os arrepintáis.
+15. Porque, he aquí, que si las grandes obras que se os han sido
+mostradas, se les hubieran sido mostradas á ellos; sí, á ellos que
+se hallaban en la incredulidad á causa de las tradiciones de sus
+padres, hubierais visto por vosotros mismos, que no hubieran
+vuelto jamás á caer en la incredulidad;
+16. Por lo que dice el Señor: Yo no les exterminaré completamente;
+sino que haré que [3396]vuelvan á mí en el día de mi sabiduría,
+dice el Señor.
+17. Y ahora, he aquí, lo que dice el Señor relativamente al
+pueblo de los Nefitas: Si no se arrepienten y procuran cumplir
+mi voluntad, yo les exterminaré [3397]completamente, dice el Señor,
+á causa de su incredulidad, á pesar de las muchas grandes obras
+que yo he hecho entre ellos, y tan cierto como Dios vive, que
+así se cumplirán estas cosas, dice el Señor.
+
+CAPÍTULO 16.
+
+1. Y ahora sucedió, que hubo muchos que oyeron las palabras
+que Samuel, el Lamanita, anunció desde lo alto de las [3398]murallas
+de la ciudad. Y los que creyeron en su palabra, fueron á buscar
+á Nefi; y habiéndole encontrado, le confesaron sus pecados, y no
+se negaron, deseando ser [3399]bautizados al Señor.
+2. Pero los que no creyeron en las palabras de Samuel, se
+
+15g, 3391: Véase c, Enos 1; también véase c, II Nefi 27.
+15h, 3392: Véase h, I Nefi 19.
+15i, 3393: Véase c, Enos 1; también véase c, II Nefi 27.
+15j, 3394: Mormón 5:15.
+15k, 3395: Véase 2e, Alma 5.
+15l, 3396: Véase c, Enos 1; también c, II Nefi 27.
+15m, 3397: Véase m, Alma 9.
+16a, 3398: Helamán 13:4.
+16b, 3399: Véase u, II Nefi 9.
+
+Corrections
+[page] Running header "478 LIBRO DE HELAMÁN. (CAP. XVI." discarded.
+[page] Page begins mid-verse, continuing Helamán 15:11 from page 477
+("el Señor" ... "prolongará sus días..."); per rule 1, the first line
+follows "Página 478" with no blank line.
+[v.11] "restaura-" + "ción" → "restauración" — rejoined hyphenated
+line-break split. The rejoined whole word appended to the first line
+would reach 73 characters (over the rule 9 cap), so per rule 7 the
+entire word moved to the start of the next line instead of staying
+split across the break.
+[v.12] "ex-" + "tendido" → "extendido" — rejoined hyphenated line-break
+split; rejoined word appended to the first line is under 72 characters
+(71), so it stays at the end of the first line per rule 7.
+[v.16] "completa-" + "mente" → "completamente" — rejoined hyphenated
+line-break split; rejoined word plus attached semicolon
+("...completamente;") is under 72 characters (66), so it stays at the
+end of the first line per rule 7.
+[throughout] Space before semicolon/colon normalized per rule 31 (e.g.
+"verdad ;" → "verdad;", "Señor :" → "Señor:") — confirmed this matches
+the existing convention in already-completed pages (grep of pages
+474/477 for " ;" and " :" returns zero hits).
+[16:1] "ciudad.  Y" (double space after period) normalized to a single
+space per rule 6's unconditional inter-word-spacing clause.
+[Session A footnote-letter resolution] Letters continue alphabetically
+from page 477's last letter (f, chapter 15's own v.9 "asesinados"):
+g (v.11 "prolongará"), h (v.11 "Zenos"), i (v.12 "promesas"), j (v.12
+second "a pesar"), k (v.13 "verdadero"), l (v.16 "vuelvan"), m (v.17
+"completamente"); chapter 16 then restarts at a (v.1 "murallas"), b
+(v.2 "bautizados") per rule 13, sequential numbering continuing
+unbroken (3391-3399).
+[fn 15i/15l, mandatory 1879 check] Letters i and l are this chapter's
+own printed footnote letters, so the rule 8 mandatory i/l/1 check
+applies regardless of how clear the 1920 image looked. Confirmed via
+BOM 1879 Pratt (chapter_map Helamán 15 → file page 479; matching
+content actually found spanning 1879 file pages 480-481, one page
+later than the lookup's listed page, per the table's own caveat):
+1879 prints "i, see c, Enos 1. Also see c, II Nep 27." at the same
+"promises" position as 1920's "i" marker, and "l, see c, Enos 1. Also
+[see] c, II Nep 27." at the same "return" position as 1920's "l"
+marker — both confirmed letter-for-letter and target-for-target.
+[fn 15h] Discretionary 1879 check (not mandatory, letter h): 1920's
+own glyph and its cross-reference target glyph looked visually
+identical at first pass ("h, Véase h, I Nefi 19."), raising a
+self-reference concern. 1879 confirms the same reading exactly ("h,
+see h, I. Nep. 19.") — not a self-reference, since I Nefi 19 has its
+own independent footnote-letter sequence (rule 13); the target "h" is
+I Nefi 19's own letter h, unrelated to this chapter's letter h.
+[fn 15k, 3395] Cross-reference target after "Véase" was a swash-font
+squiggle that visually resembled a single "m" at first pass. 1879
+(file page 480) reads "k, see 2e, Alma 5." — a two-character code, not
+"m". Confirmed two ways: (1) librodm_foot.txt's existing Alma chapter
+5 section has letters continuing past z (5-2a through 5-2z), with
+"5-2e, 1733" reading "Versículos 39,41,57,59-60..." — and Alma 5:38-39
+in librodm.txt is the "Buen Pastor" (Good Shepherd) passage (footnote
+1733 tags "Buen Pastor" at v.38), a strong content-fit match for this
+verse's own "verdadero Pastor"; (2) the swash-glyph shape, compared
+side by side against this page's own plain "m" glyph (the m entry's
+target, "Véase m, Alma 9"), is visibly different in proportion —
+confirming the two are not the same letterform. Transcribed as
+"Véase 2e, Alma 5." (no hyphen in the target code — rule 16's
+hyphenated "[chapter]-[2-letter code]" form is for this document's own
+entry prefix only; rule 17 reproduces cross-reference target codes as
+printed, matching existing precedent such as "Véase 2a, II Nefi 9."
+already in librodm_foot.txt).
+[fn 16b, 3399] Cross-reference target after "Véase" was another
+swash-font squiggle, initially read as "m" by shape alone. 1879 (file
+page 481) reads "b, see u, II. Nep. 9." Confirmed via content-fit:
+librodm_foot.txt's existing "9u, 378" entry (II Nefi chapter 9, letter
+u) reads "Actos 2:38; Marcos 1:4; Mateo 3:5-6; Lucas 3:3; Juan 3:5;" —
+all baptism references, matching this verse's own "bautizados"
+(baptized). Transcribed as "Véase u, II Nefi 9."
+[check_line_wrap.py] Flagged a -6 line-count gap against its OCR
+estimate (30 vs 36). Explained, not a reflow problem: this page has a
+mid-page chapter heading (CAPÍTULO 16), and the script's own
+txt_body_lines() helper stops counting at the first blank line — the
+blank line before "CAPÍTULO 16." — so it never counts chapter 16's 6
+body lines (v.1-2) at all, while the OCR side scans the whole page
+image regardless of our blank-line convention. 30 and 36 differ by
+exactly 6, matching the excluded lines exactly. Both top/mid/bot image
+crops were read line-by-line directly per rules 5/6 regardless of this
+script's result; this is a known blind spot of the script for any page
+with a mid-page chapter break, not a transcription issue.
+[Session B] Independently re-verified all nine Block 1 entries and body
+markers against pages_1920/page_0500.png (top/mid/bot/fn_zoom); all
+match. Mandatory 1879 check re-run independently for this page's own
+letters i and l (footnotes 3393, 3396): BOM 1879 Pratt file page 480
+(chapter_map's listed 479 only carries Helamán 14's tail; the Helamán
+15/16 footnote block is on 480, matching the "one page later" pattern
+already noted for this chapter) reads "i, see c, Enos 1. Also see c,
+II. Nep 27." and "l, see c, Enos 1. Also c II. Nep. 27." — both
+letter-for-letter matches, including the subtle omission of a repeated
+"see"/"véase" before the second citation on the l entry. Same crop also
+independently reconfirms g, h, j, and k (including Session A's
+swash-glyph "2e" resolution: "k, see 2e, Alma 5."), all matching. No
+errors found; no changes made.
+[Session D] `generate_block2.py` left 3 entries unresolved (3391, 3393,
+3396) — same underlying limitation as page 475's comma-split bug, but a
+different trigger: its VEASE_CLAUSE regex matches "Véase ... ." as a
+single span up to the next period, so a two-target "Véase c, Enos 1;
+también véase c, II Nefi 27." clause gets treated as one letters-list
+with an embedded "Enos 1; también véase c" token that doesn't parse as a
+letter code, and the whole clause is left untouched. Resolved by hand
+using the same book-aware lookup the script would do: Enos 1's own
+letter c is `1c, 975` (LIBRO DE ENOS section of librodm_foot.txt) and II
+Nefi's chapter 27 letter c is `27c, 682` (LIBRO DE II NEFI section,
+disambiguated from two other unrelated "27c" entries in later books).
+Matches the exact existing precedent at librodm.txt's "Véase 975;
+también véase 682; Helamán 15:10-16." entry. Worth fixing in
+`generate_block2.py` next time it's touched, alongside the known
+comma-split issue.
+[Session E] Fresh pptext regeneration (`report_wsl_20260719d.html`)
+came back fully clean for the new range (body lines 21412-21452, Block
+2 lines 25099-25107, footnotes 3391-3399): zero spellcheck suspects,
+zero hyphenation/spaced-pair findings (page has no hyphens at all in
+its body text), footnote-number consistency confirmed independently
+(max 3399, zero duplicates, only the pre-existing 812/Jacob 2:15 gap),
+an independent curly-quote scan of the new lines found none, and
+book-level/paragraph-level/Jeebies checks all clean with no citations
+from this page's line ranges. Swept this page's own Corrections log
+line by line per the mandatory-check requirement: every entry is a
+transcription-mechanics note (hyphen rejoins, space normalization,
+footnote-letter resolution, the mandatory/discretionary 1879 checks) —
+none flagged a suspected 1920-original error needing an `errors in
+1920.txt` or `permitted words.txt` entry.

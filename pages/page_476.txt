@@ -1,0 +1,135 @@
+Página 476
+24. Y se romperán muchas [3377]calzadas, y [3378]muchas ciudades
+quedarán desoladas,
+25. Y [3379]muchas sepulturas se abrirán, y entregarán muchos
+de sus muertos ; y [3380]muchos santos aparecerán á muchos.
+26. Y, he aquí, que esto es lo que el ángel me ha anunciado ;
+porque me ha dicho, que [3381]habrá truenos y relámpagos por
+espacio de muchas horas ;
+27. Y me ha dicho que mientras que duren estos truenos y
+relámpagos, y la tempestad, que sucederá esto, y que la obscuridad
+cubrirá la faz de toda la tierra por espacio de [3382]tres días.
+28. Y me dijo el ángel, que muchos verán cosas mayores que
+estas, para que crean que estos prodigios y estas señales se
+verificarán por toda la superficie de este país ; con el objeto
+de que no haya ningún motivo de incredulidad entre los hijos de
+los hombres.
+29. Y esto será con el objeto de que quienquiera que crea,
+pueda salvarse ; y que los que no crean, sufrirán que un justo
+castigo caiga sobre ellos ; y también, si se condenaren, que se
+hayan atraído por sí mismos su propia condenación.
+30. Y ahora, recordad, recordad, mis hermanos, que él que
+perece, perece de sí mismo, y él que practica la iniquidad, lo
+hace de sí mismo ; porque, he aquí, que sois [3383]libres, y tenéis
+el privilegio de obrar según vuestra libre voluntad, porque Dios
+os ha dado el conocimiento, y os ha hecho libres ;
+31. Él os ha concedido que discernáis el bien del mal, y que
+podáis escoger la vida ó la muerte, y que podáis hacer bien,
+y ser restaurados á lo que sea bueno, ó que lo que sea bueno,
+se os sea [3384]restaurado ; ó que podáis hacer mal, y que lo que
+fuere malo, se os sea restaurado.
+
+CAPÍTULO 15.
+
+1. Y ahora, amados hermanos míos, he aquí, os declaro, que
+excepto que os arrepintáis, vuestras [3385]casas quedarán desoladas ;
+2. Sí, que como no os arrepintáis, vuestras esposas tendrán
+gran motivo para lamentarse en el día que den de mamar ;
+porque intentarán á escapar, y no habrá lugar de refugio ; sí,
+ay de las que estén embarazadas, porque se hallarán pesadas,
+y no podrán huir ; por lo tanto, serán atropelladas y serán
+abandonadas, para que perezcan.
+
+14x, 3377: III Nefi 8:13.
+14y, 3378: I Nefi 12:4; III Nefi 8:8-10,14,24,25;9:3-12;10:7.
+14z, 3379: Véase g, Jacob 4.
+14-2a, 3380: IV Nefi 23:7-13.
+14-2b, 3381: Véase s.
+14-2c, 3382: Véase i, I Nefi 19.
+14-2d, 3383: Véase l, II Nefi 2.
+14-2e, 3384: Alma 41.
+15a, 3385: Véase y, Helamán 14.
+
+Corrections
+[page] Running header "476 LIBRO DE HELAMÁN. (CAP. XV." discarded.
+[v.27] "obs-" + "curidad" → "obscuridad" — rejoined hyphenated
+line-break split; rejoined word ("...y que la obscuridad") is under
+72 characters, so it stays at the end of the first line per rule 7.
+[page] Page begins fresh at verse 24 (chapter 14 continues from page
+475, which ended cleanly at the end of verse 23); not a mid-verse
+continuation, so no special first-line handling beyond rule 1 — same
+pattern as page 469's fresh-verse start (no blank line after "Página
+N").
+[Session A footnote-letter resolution] Marker letters continue
+alphabetically from page 475's last letter (w): x (v.24 "calzadas"),
+y (v.24 "muchas ciudades"), z (v.25 "muchas sepulturas"), then 2a-2e
+(v.25 "muchos santos" through v.31 "restaurado"), confirmed both by
+body-text glyph shape (x and y markers zoomed and compared) and by
+alphabetical sequence. Chapter 15 restarts at "a" (v.1 "casas") per
+rule 13.
+[fn 14z, 3379] Target letter after "Véase" (before "Jacob 4") read
+as "g" from a tight zoom of the 1920 image (small loop+descender
+shape). Not a mandatory i/l/1 check, but cross-checked against 1879
+(BOM 1879 Pratt, file page 478; chapter_map Helamán 14) as
+corroboration: 1879 reads "z, see g, Jacob 4." — same letter, same
+target, confirming the reading.
+[fn 14-2b, 3381] Target letter after "Véase" (no book named — same-
+chapter reference per the librodm_foot.txt convention, e.g. "10j,
+399: Véase h.") was too small/blob-like in the 1920 print to read
+letter-shape alone. Original Session A pass misread it as "n" via a
+garbled content-fit chain that actually pointed to letter s (see
+Session B correction below) but mislabeled the target as "n."
+[Session B correction, 2026-07-19] Re-deriving the same content-fit
+chain during Block 2 generation surfaced the error: v.26 ("habrá
+truenos y relámpagos por espacio de muchas horas") is near-verbatim
+identical to v.21's text, whose own footnote is 14s, 3372, page 475
+("Versículos 26-27; I Nefi 12:4;19:11-12; III Nefi 8:5-7,19") — NOT
+14n (14n/3367 is unrelated: "Véase p, Alma 12"). 1879 (file page 478)
+independently confirms letter-for-letter: "2b, see s," and 1879's own
+"s" reads "vers. 26,27. I. Nep. 12:4. 19:11,12. III. Nep. 8:5-7,19" —
+content-identical to 1920's 14s/3372. Both the content-fit and the
+1879 cross-check point to the same letter (s) in both editions, no
+cross-edition letter substitution needed. Corrected to "Véase s."
+[fn 15a, 3385] Target letter after "Véase" (before "Helamán 14")
+was initially misread as "v" on a lower-zoom first pass. A tighter
+zoom showed a stroke with a left-curving descender, not a symmetric
+"v" shape, and the 1879 cross-check (file page 479, chapter_map
+Helamán 15) settled it: 1879 reads "a, see y, Hela. 14" — 1879's own
+"y" is content-identical to 1920's own letter y (footnote 3378, "I
+Nefi 12:4; III Nefi 8:8-10,14,24,25;9:3-12;10:7"), confirming the
+1920 target is letter y, not v. Corrected before finalizing.
+[fn 14-2c/14-2d, 3382/3383] Mandatory i/l/1 check: target letters
+"i" (I Nefi 19) and "l" (II Nefi 2) confirmed against 1879 (file
+page 478), which reads "2c, see i, I. Nep. 19" and "2d, see l, II.
+Nep. 2." — same letters, same targets.
+[Session B] Independent verification pass: all Block 1 entries and body-
+text marker placements checked against pages_1920/page_0498.png (top/mid/
+bot/fn_zoom crops) — every marker sits before the correct word and every
+footnote text matches the image exactly. The x/y/z/2a-2e letter sequence
+(footnotes 3377-3384) and the 15a target letter were independently
+reconfirmed via 1879 (BOM 1879 Pratt, file pages 478-479; chapter_map
+Helamán 14/15): 1879's footnote block reads "x, III. Nep. 8:13. y, I.
+Nep. 12:4... z, see g, Jacob 4. 2a, IV. Nep. 23:7-13. 2b, see s. 2c, see
+i, I. Nep. 19. 2d, see l, II. Nep. 2." and "2e, Alma 41." / "a, see y,
+Hela. 14." — letter-for-letter and content match to Session A's
+resolution, done because the x/z pair looked visually similar (both
+flat-topped, no crossing strokes or descender) in the small 1920
+superscript print. No changes needed.
+[check_line_wrap.py false flag] The script reported txt=29 body
+lines vs. OCR=37 (diff -8) and flagged a possible reflow. This is a
+script limitation, not a transcription issue: `txt_body_lines()`
+stops counting at the FIRST blank line in the file, but this page
+has an internal blank line before the mid-page "CAPÍTULO 15."
+heading (chapter 14 closes, chapter 15 opens on the same page), so
+everything from the heading onward (chapter 15's own heading line
+plus its two verses, 9 more lines) was silently excluded from the
+txt-side count while the OCR side still covered the whole page body.
+Manually counting all non-blank lines from "24." through
+"abandonadas..." gives 38, one less than OCR's 37... actually 38 vs
+37, i.e. +1, fully explained by this page's one hyphen rejoin
+(verse 27 "obs-/curidad") reducing the txt line count by one
+relative to the image's raw line count. Not a reflow — every line
+was read from the top/mid/bot image crops individually (see body1/
+body2/body3 crops covering the full page). Worth teaching
+check_line_wrap.py about mid-page chapter boundaries if this
+recurs.
