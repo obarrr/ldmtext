@@ -375,8 +375,40 @@ running is ever in context, not all five at once.
   error: v.36 "en año" (missing "el"), confirmed against 1886 (file 482,
   book page 464) reading "en el año." Added to `errors in 1920.txt` and
   `page_467.txt`'s Corrections log.
-- **Next page**: 480 (file page 502), full A–E cycle, first footnote 3402.
-- **Completed pages**: 437–479, Sessions A–E all done through page 479.
+- **2026-07-20c**: Discovered pages 480 and 481 were both already fully
+  transcribed through Session E on disk (Sessions A–E complete, per
+  their own Corrections logs and `errors in 1920.txt`/`permitted
+  words.txt` entries — e.g. Helamán 16:20 "podermos", 16:21
+  "sugetarán", 16:23 "piodigios"/"ápesar" for page 480), but this
+  progress log was never updated after page 480 finished, so it still
+  read "Next page: 480." Both pages remain uncommitted (`git status`
+  shows `pages/page_480.txt` and `pages/page_481.txt` untracked, plus
+  modified `errors in 1920.txt`/`librodm.txt`/`librodm_foot.txt`/
+  `permitted words.txt`). Sessions D–E then run for page 481
+  (Helamán 16:24-25 chapter close; III Nefi opens — book/chapter
+  boundary, footnotes 3405-3411): Session D's `generate_block2.py`
+  resolved all 7 Block 2 entries cleanly, including inserting the
+  "III NEFI" Notas section header correctly on the first real exercise
+  of the book-boundary logic flagged as untested back on 2026-07-19e/
+  page 476 (bottom-to-top selection correctly picked "III NEFI," not
+  "LIBRO DE NEFI," matching the disambiguation the user had explicitly
+  called for in a prior page-481 Session C note — no `librodm.txt`
+  hand-fix needed this time). Session E: fresh pptext regeneration
+  (`report_wsl_20260720b.html`) found 2 genuine 1920 errors, both
+  confirmed against 1886 (file page 496) and neither currently
+  pptext-flagged (the known brand-new-single-occurrence quirk, so
+  no `permitted words.txt` entries): III Nefi 1:5 "aunuciadas" for
+  "anunciadas" (third confirmed instance of this exact missing-letter
+  pattern, after Helamán 13:21 and 16:5), and III Nefi 1:3 "análes"
+  (accented) — 1886 actually accents "análes" all three times on this
+  page while 1920 only does so once, and RAE/corpus/modern-edition
+  research all confirm unaccented "anales" is the only correct form
+  (same shared-error pattern as "seperado"). Footnote-anchor check
+  (3405-3411, only the pre-existing 812 gap), curly-quote scan (zero
+  curly quotes in either master file), dash check, and `check_lines.py`
+  all clean.
+- **Next page**: 482 (file page 504), full A–E cycle, first footnote 3412.
+- **Completed pages**: 437–481, Sessions A–E all done through page 481.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

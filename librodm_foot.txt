@@ -3660,3 +3660,16 @@ Alma 30.
 16b, 3399: Véase u, II Nefi 9.
 16c, 3400: Versículo 2.
 16d, 3401: Helamán 13:4.
+16e, 3402: Alma 13:26.
+16f, 3403: Véase e, Mosíah 3.
+16g, 3404: Versículo 13.
+
+III NEFI
+
+1a, 3405: I Nefi 10:4.
+1b, 3406: Véase h, Omni 1.
+1c, 3407: Véase a, I Nefi 3.
+1d, 3408: Alma 37.
+1e, 3409: III Nefi 2:9.
+1f, 3410: Helamán 16:13,23.
+1g, 3411: Helamán 14:2-7.

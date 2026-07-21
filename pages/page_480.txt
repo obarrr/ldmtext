@@ -1,0 +1,129 @@
+Página 480
+de los Jueces, hubo grandes señales y grandes prodigios dados
+al pueblo, empezando así á cumplirse las palabras de los profetas;
+14. Y [3402]ángeles aparecieron á los hombres, hombres sabios,
+y les anunciaron las buenas nuevas de gran alegría; de este modo
+en este año empezaron á cumplirse las santas escrituras.
+15. No obstante, la gente seguía endureciendo sus corazones,
+á excepción de los más creyentes de entre ellos, tanto de los
+Nefitas como de los Lamanitas, empezando á depender sólo en
+sus propias fuerzas, y en su propia sabiduría, diciendo:
+16. Entre tantas cosas, algo podrían haber adivinado; mas
+sabemos que todas estas cosas maravillosas de que se ha hablado,
+no pueden llegar á suceder.
+17. Y empezaron así á raciocinar y á disputar entre sí, diciendo:
+18. No es razonable que aparezca un ser tal como Jesu Cristo;
+pero dado el caso de que viniere, y que fuere el Hijo de Dios,
+[3403]el Padre del cielo y de la tierra, como ha sido dicho, ¿porqué
+no se ha de mostrar á nosotros, del mismo modo que á los de
+Jerusalem?
+19. Sí, ¿porqué no se ha de mostrar á nosotros en este país,
+lo mismo que á los que viven en Jerusalem?
+20. Pero, he aquí, que nosotros sabemos que ésta es una inicua
+tradición, que nos ha sido transmitida por nuestros padres, para
+hacernos creer en alguna cosa grande y maravillosa que había
+de acontecer, pero no entre nosotros, sino en un país muy lejano;
+país que no conocemos; por lo que quedaremos en la ignorancia,
+puesto que no podermos ver por nuestros propios ojos, si será
+verdadera.
+21. Y ellos por medio de los artificiosos y misteriosos manejos
+del diablo, practicarán algún gran misterio, que nosotros no
+podemos comprender, con él que nos sugetarán á sus palabras y
+nos harán sus siervos, puesto que dependemos de ellos, para que
+nos enseñen la palabra; de modo que nos retendrán en la ignorancia,
+si nos sometemos á ellos por todos nuestros días.
+22. Y muchas otras cosas vanas y locas se imaginaba el pueblo
+en sus corazones; y se hallaban muy agitados; porque satán les
+incitaba continuamente á la iniquidad; sí, él era quién iba de
+un lado para otro, repartiendo rumores y contenciones por toda
+la superficie del país, para endurecer el corazón de los hombres
+contra lo que era bueno, y contra las cosas que iban á venir;
+23. Y [3404]ápesar de los signos y piodigios que aparecían entre el
+pueblo del Señor, y á pesar de los numerosos milagros que se
+realizaban, satán obtuvo un gran poder sobre los corazones del
+pueblo, por todo el país.
+
+16e, 3402: Alma 13:26.
+16f, 3403: Véase e, Mosíah 3.
+16g, 3404: Versículo 13.
+
+Corrections
+[page] Running header "480  LIBRO DE HELAMÁN. (CAP. XVI" discarded.
+[page] Page begins mid-verse, continuing Helamán 16:13 from page 479
+("...Mas vino á suceder que en el año nonagésimo del gobierno" /
+"de los Jueces, hubo grandes señales..."); per rule 1, the first line
+follows "Página 480" with no blank line.
+[v.20-21] "ig-" + "norancia," → "ignorancia," — rejoined hyphenated
+line-break split. The rejoined word (plus attached comma) appended to
+the first line is under 73 characters (67), so it stays at the end of
+that line per rule 7.
+[throughout] Space before semicolon/colon/question-mark normalized per
+rule 31 and established convention (e.g. "profetas ;" → "profetas;",
+"diciendo :" → "diciendo:", "Jerusalem ?" → "Jerusalem?") — matches the
+existing convention in already-completed pages.
+[v.14, fn e] Superscript "e" confirmed at high zoom directly before
+"ángeles" ("Y [e]ángeles aparecieron"). Glyph is a short stroke with a
+separated dot (matches fn_zoom's first footnote-block glyph). Matches
+Block 1 entry "e, Alma 13:26" — strong content fit (Alma 13:26 discusses
+angels declaring the good news of Christ's coming). Letter e is not
+i/l/1, so no mandatory 1879 check applies; alphabetical sequence
+(continuing from page 479's c, d) and content-fit both confirm.
+[v.18, fn f] Superscript "f" confirmed at high zoom directly before "el
+Padre del cielo" ("que fuere el Hijo de Dios, [f]el Padre del cielo y
+de la tierra"). Glyph is an elongated italic ligature (matches fn_zoom's
+second footnote-block glyph). Matches Block 1 entry "f, Véase e, Mosíah
+3" — content fit strong (Mosíah 3 similarly describes Christ as Father
+and Son). Letter f is not i/l/1, so no mandatory 1879 check applies.
+[v.23, fn g] Superscript "g" confirmed at high zoom directly before
+"ápesar" ("Y [g]ápesar de los signos y piodigios"). Glyph is an oval
+bulb shape with a short tail (matches fn_zoom's third footnote-block
+glyph). Matches Block 1 entry "g, Versículo 13" — a self-reference back
+to v.13's "hubo grandes señales y grandes prodigios," echoed here as
+"signos y piodigios [prodigios]." Letter g is not i/l/1, so no
+mandatory 1879 check applies.
+[v.20] "podermos" — suspected misprint for "podemos" (extra "r");
+preserved as printed per rule 32; verify against 1886 in Session E.
+[v.23] "piodigios" — suspected misprint for "prodigios" (apparent
+damaged type, "r" rendering as "i"); preserved as printed per rule 32;
+verify against 1886 in Session E.
+[Session E] Fresh pptext regeneration (`report_wsl_20260720b.html`)
+flagged 4 spellcheck suspects, all from this page: "podermos,"
+"piodigios," "sugetarán," "ápesar." Checked against 1886 (file pages
+493-494) plus independent RAE/corpus/modern-edition research:
+- "podermos" (v.20): 1886 prints "podrémos" (correct future tense,
+  "r"/"e" transposed in 1920) — confirmed 1920-only misprint, added to
+  `errors in 1920.txt`.
+- "piodigios" (v.23): 1886 prints "prodigios" — confirmed 1920-only
+  misprint (apparent damaged type), added to `errors in 1920.txt`.
+- "ápesar" (v.23): 1886 prints "á pesar" as two words, matching the
+  other 47 correctly-spaced instances of "á pesar" elsewhere in the
+  document. A pixel-column gap-width measurement at high zoom (per the
+  page 479 "quese" lesson) confirmed the á-p gap (~2.4-2.9 original px)
+  matches ordinary internal letter-kerning within "pesar" itself
+  (~1.8-3.8px), not the much wider genuine word-gaps on the same line
+  ("pesar de," ~15.4px; "de los," ~21.5px) — a true zero-space print
+  merge, not a narrow-but-real space. Preserved as printed; confirmed
+  1920-only defect, added to `errors in 1920.txt`.
+- "sugetarán" (v.21): also printed in 1886 (shared spelling), but RAE
+  DLE has no entry for "sugetar" (only "sujetar"), zero hits in the
+  reference corpora (only "sujetar"/"sujetarme" forms found), and the
+  modern LDS Spanish edition uses "sujetará" at this verse. Same
+  shared-error pattern as circumspectamente/arrepentiéndose; added to
+  `errors in 1920.txt`.
+All four added to `permitted words.txt`. Footnote-anchor check
+(3402-3404 present, no duplicates/out-of-range against the new range),
+curly-quote scan, and dash check all clean for this page's new lines.
+[v.18] "Jesu Cristo" — not flagged as a misprint. Confirmed via grep
+against librodm.txt that this exact two-word, unaccented spelling is
+this edition's consistent, established form throughout the document
+(15+ prior occurrences, e.g. lines 52, 67, 5400, 5986 etc.), not an
+isolated anomaly.
+[Session B] Independently re-verified against pages_1920/page_0502.png
+(fn_zoom, top/mid/bot crops): all three Block 1 entries ("e, Alma
+13:26.", "f, Véase e, Mosíah 3.", "g, Versículo 13.") match the image
+exactly, and all three body markers ([3402] before "ángeles" v.14,
+[3403] before "el Padre" v.18, [3404] before "ápesar" v.23) sit before
+the correct word. None of this page's own letters (e, f, g) nor the
+cross-reference target (e, self-referenced) is i/l/1, so no mandatory
+1879 check applies. Suspected misprints "podermos" and "piodigios"
+re-confirmed against the image as printed. No errors found.

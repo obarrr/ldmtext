@@ -1,0 +1,186 @@
+Página 481
+24. Así concluyó el año nonagésimo del gobierno de los Jueces
+sobre el pueblo de Nefi.
+25. Y así concluyó el libro de Helamán, según los anales de
+Helamán y sus hijos.
+
+III NEFI.
+
+LIBRO DE NEFI.
+
+HIJO DE NEFI, Y NIETO DE HELAMÁN.
+
+Y Helamán era hijo de Helamán, quién era hijo de Alma, el cuál
+era hijo de Alma, siendo descendiente de Nefi, quién era hijo de
+Lehi, que salió de Jerusalem en el primer año del reinado de
+Sedecías, rey de Judá.
+
+CAPÍTULO 1.
+
+1. Y ahora, vino á suceder, que el año nonagésimo-primo
+concluyó, habiéndose pasado [3405]seiscientos años desde el tiempo
+que Lehi salió de Jerusalem; en este año gobernaba en el país
+Lachoneus, que era su Juez Superior y Gobernador.
+2. Y Nefi, el hijo de Helamán, había partido del país de
+[3406]Zarahemla, entregando á Nefi, su hijo mayor, las [3407]planchas de
+bronce y todos los anales que habían sido conservados, y [3408]todas
+las cosas que se guardaban como sagradas, desde la salida de
+Lehi de Jerusalem.
+3. Entonces salió del país sin que nadie supiere á [3409]dónde se
+dirigía; y su hijo Nefi guardó los análes en su lugar; sí, los
+anales de este pueblo.
+4. Y vino á suceder que en el principio del año nonagésimo-segundo,
+he aquí, empezaron á cumplirse más de lleno las profecías
+anunciadas por los profetas; porque aparecieron más
+[3410]grandes señales, y se realizaron más grandes milagros entre el
+pueblo.
+5. Pero hubieron algunos que empezaron á decir, que se había
+pasado el tiempo en que debían haberse cumplido las profecías
+[3411]aunuciadas por Samuel, el Lamanita.
+6. Empezándose á ridiculizar á sus hermanos, diciéndoles:
+
+1a, 3405: I Nefi 10:4.
+1b, 3406: Véase h, Omni 1.
+1c, 3407: Véase a, I Nefi 3.
+1d, 3408: Alma 37.
+1e, 3409: III Nefi 2:9.
+1f, 3410: Helamán 16:13,23.
+1g, 3411: Helamán 14:2-7.
+
+Corrections
+[page] Running header "CAP. I.) III NEFI. 481" discarded.
+[page] "Digitized by Google" watermark removed.
+[page] Page begins with a fresh verse (v.24, continuing Helamán 16 — the
+prior page, 480, ended cleanly at the end of v.23), so per established
+precedent (e.g. page 471, which also opens on a fresh verse number) no
+blank line separates "Página 481" from the first body line.
+[book boundary] This page closes Helamán (v.24-25) and opens III Nefi
+(LIBRO DE NEFI). The 1920 print shows THREE consecutive all-caps lines
+before the genealogy paragraph: a small-caps ordinal label "III NEFI."
+(confirmed at 3x zoom — this matches the same short-form name already
+used in this page's own running header, i.e. it functions as a section/
+ordinal marker, not the book's actual title), then the large bold title
+"LIBRO DE NEFI." (matches this document's established "LIBRO DE [Name]"
+book-header convention — cf. "LIBRO DE ALMA", "LIBRO DE HELAMAN." at the
+Alma/Helamán boundaries in librodm.txt/librodm_foot.txt), then the
+subtitle "HIJO DE NEFI, Y NIETO DE HELAMÁN." (analogous to "HIJO DE
+ALMA." following "LIBRO DE ALMA"). All three are transcribed as printed,
+each on its own line with blank-line separators, matching the existing
+"book-header style" precedent (blank line, caps line, blank line) used
+for the chapter 7 title block on page 453.
+[Session C, resolved 2026-07-20] insert_body_text.py's
+extract_book_header() walks backward through every run of blank-line-
+separated all-caps lines above "CAPÍTULO 1." and keeps the LAST ONE
+ASSIGNED, which — because the walk proceeds from bottom to top — ends
+up being the TOPMOST title in the run ("III NEFI."), not the middle
+line ("LIBRO DE NEFI."). This is exactly the scenario the script's own
+docstring flagged as unexercised ("book-boundary logic has not yet
+been exercised against real data"). Session C initially "corrected"
+this by hand to "LIBRO DE NEFI" to match the bare-book-name convention
+used at other book boundaries ("LIBRO DE ALMA", "LIBRO DE HELAMÁN"),
+but the user overrode this: "LIBRO DE NEFI" alone is ambiguous here
+because there are THREE books of Nefi (1 Nefi = "PRIMER LIBRO DE
+NEFI", 2 Nefi = "LIBRO SEGUNDO DE NEFI", this one = III Nefi) — unlike
+Alma/Helamán, which are unique book names needing no disambiguator.
+The script's original output, "III NEFI", is actually the right
+section header for librodm_foot.txt/librodm.txt's Notas index here
+since it disambiguates; note that the print itself never actually
+spells out an ordinal form like "TERCER LIBRO DE NEFI" or "LIBRO
+TERCERO DE NEFI" the way 1st/2nd Nefi's title pages do — "III NEFI."
+is the only ordinal-bearing line in the print. Final: librodm_foot.txt
+line ~3667 section header kept/restored to "III NEFI" (not "LIBRO DE
+NEFI"). Lesson for next Session D: generate_block2.py's Notas-section
+book-header insertion for librodm.txt will likely hit the same
+bottom-to-top selection and pick "III NEFI" too — that is CORRECT
+here and should NOT be manually changed to "LIBRO DE NEFI".
+[format] The italic genealogy paragraph between the subtitle and
+"CAPÍTULO 1." is transcribed as a plain paragraph (no italics marker in
+plain-text output), matching precedent for the "PRIMER LIBRO DE NEFI"/
+"LIBRO DE ALMA" opening paragraphs elsewhere in librodm.txt.
+[v.1/v.4 hyphens] "nonagésimo-primo" (v.1) prints whole on one line, no
+split. "nonagésimo-segundo" (v.4) prints split across the image's line
+break ("nonagésimo-" / "segundo,"), but the hyphen is this document's
+established convention for compound ordinal numbers, not a line-break
+artifact (cf. librodm.txt line ~20287-20288, "sexagésimo-" / "octavo",
+same treatment) — so rule 7's rejoin-and-strip-the-hyphen procedure does
+not apply. Editor chose to unwrap the whole word onto the first line
+("...nonagésimo-segundo," with "he aquí," moving to the next line)
+rather than leave it split at the image's own break point; both are
+faithful to the word's spelling since the hyphen is kept either way,
+this is purely a line-boundary placement choice. Rechecked with
+check_lines.py after the edit: both resulting lines (67 and 57 chars)
+are under the 72-char cap.
+[v.4] "pro-" + "fecías" → "profecías" — genuine line-break hyphenation
+of an ordinary word (not a compound-number case like the one above);
+rejoined per rule 7. The rejoined word appended to the first line is
+under 73 characters (66), so it stays at the end of that line.
+[throughout] Space before semicolon/colon normalized per rule 31 (e.g.
+"Jerusalem ;" → "Jerusalem;", "dirigía ;" → "dirigía;", "lugar ;" →
+"lugar;", "profetas ;" → "profetas;", "diciéndoles :" → "diciéndoles:").
+Justification-widened inter-word gaps (e.g. "empezaron  á  decir",
+"realizaron  más") normalized to single spaces per rule 6's
+unconditional clause.
+[v.3] "análes" (first instance, "guardó los análes en su lugar") prints
+with an accent on the first a; "anales" (second instance two words
+later, "anales de este pueblo") prints without one — confirmed at 4x
+zoom, not a transcription slip. "anales" (no accent) is the
+orthographically expected form (regular stress, no diacritic needed);
+preserved both as printed per rule 32; verify against 1886 at Session E
+to decide whether the accented instance is a genuine 1920 error.
+[v.5] "aunuciadas" — suspected misprint for "anunciadas" (missing "n");
+preserved as printed per rule 32. Note: this is the same misprint
+pattern already confirmed as a genuine 1920-only error at Helamán 16:5
+("aunuciadas" for "anunciadas" — see errors in 1920.txt); verify this
+instance independently against 1886 at Session E rather than assuming
+it's the same case.
+[fn a-g] All seven footnote letters (a-g) and both cross-reference
+target letters (h in "Véase h, Omni 1"; a in "Véase a, I Nefi 3") are
+confirmed at zoom — none is i, l, or 1, so no mandatory 1879 check
+applies. Letters f and g use a heavily swash italic glyph (visually
+similar to each other at first glance); confirmed via dedicated 4x-6x
+zoom crops plus content-fit: f cites Helamán 16:13,23 (the "signs and
+wonders" verses), matching "grandes señales" in the body; g cites
+Helamán 14:2-7 (Samuel's own prophecy), matching "profecías
+[g]aunuciadas por Samuel, el Lamanita" in the body — both strong fits,
+consistent with strict alphabetical order a-g.
+[Session B] Independently re-verified against pages_1920/page_0503.png
+(top/mid/bot/fn_zoom crops): all seven Block 1 entries ("a, I Nefi
+10:4.", "b, Véase h, Omni 1.", "c, Véase a, I Nefi 3.", "d, Alma 37.",
+"e, III Nefi 2:9.", "f, Helamán 16:13,23.", "g, Helamán 14:2-7.") match
+the image exactly, and all seven body markers ([3405]-[3411], before
+"seiscientos" v.1, "Zarahemla" v.2, "planchas" v.2, "todas" v.2,
+"dónde" v.3, "grandes" v.4, "aunuciadas" v.5) sit before the correct
+word. None of this page's own letters (a-g) nor either cross-reference
+target (h, a) is i/l/1, so no mandatory 1879 check applies, confirming
+Session A's finding. Suspected misprints "aunuciadas" and the accented
+"análes" first-instance re-confirmed against the image as printed. No
+errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260720b.html`) did
+not flag either "aunuciadas" or "análes" in the spellcheck section
+(consistent with the known brand-new-single-occurrence quirk — see
+prior notes on this in the project log), but both were swept from this
+page's own Corrections log per the mandatory-check procedure and
+checked against 1886 (file page 496) plus independent research:
+- "aunuciadas" (v.5): 1886 prints "anunciadas" — confirmed 1920-only
+  misprint, same missing-letter pattern already confirmed at Helamán
+  13:21 and 16:5; added to `errors in 1920.txt`. No `permitted
+  words.txt` entry (not currently pptext-flagged, same as the two
+  prior instances).
+- "análes" (v.3, first instance): 1886 actually accents "análes" all
+  three times on this page (v.2, and both instances in v.3), while
+  1920 only does so once out of three — so 1920 is inconsistent even
+  relative to its own source. RAE DLE has no entry for "análes," only
+  unaccented "anales"; zero hits for "análes" in any reference corpus;
+  the modern LDS Spanish edition uses unaccented "anales" in all three
+  instances at this passage; and this document itself uses unaccented
+  "anales" in every other occurrence throughout. Same shared-error
+  pattern as "seperado" (error present in both editions at that exact
+  spot, but unsupported by RAE/corpus/modern edition); added to
+  `errors in 1920.txt`. No `permitted words.txt` entry (not currently
+  pptext-flagged).
+Footnote-anchor check (3405-3411 present, no duplicates/out-of-range;
+only the pre-existing 812 gap remains missing overall), curly-quote
+scan (zero curly quotes anywhere in either master file), dash check,
+and `check_lines.py` (0 lines over 72, only false-positive trailing-
+hyphen hits inside Corrections-log prose) all clean for this page's
+new lines.
