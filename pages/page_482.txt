@@ -1,0 +1,181 @@
+Página 482
+He aquí, que ya ha pasado el tiempo, y no se han cumplido las
+palabras de Samuel; de modo que vuestra fe y gozo relativamente
+á esta cosa han sido vanos.
+7. Y aconteció que consiguieron levantar una gran agitación
+entre todo el país, y el pueblo que creía empezó á apesadumbrarse
+en extremo; temiendo que por cualquier motivo no llegaran á
+verificarse estas cosas que habían sido anunciadas.
+8. Pero, he aquí, que permanecieron constantes, esperando
+con ansia la llegada [3412]de aquel día, y de esa noche, y de ese día,
+que debían ser conocidos como un día sin noche, con el fin de asegurarse
+de que no había sido en vano su fe.
+9. Y aconteció, que los incrédulos fijaron un día, en el cuál
+todos los que creyeran en estas cosas, [3413]habrían de ser castigados
+con la muerte á menos que las [3414]señales que habían sido anunciadas
+por el profeta Samuel, no llegaren á verificarse.
+10. Y ahora, vino á suceder, que Nefi, el hijo de Nefi, se afligió
+en extremo al ver la perversidad de su pueblo.
+11. Y acaeció, que fué, y postrándose sobre la tierra, c amó
+poderosamente á su Dos en favor de su pueblo; sí, en favor
+de los que iban [3415]á ser sacrificados, á causa de su fe en la
+tradición de sus padres.
+12. Y vino á suceder, que imploró al Señor todo el día con
+toda su alma, cuando, he aquí, que la voz del Señor vino á él,
+diciéndole:
+13. Levanta tu cabeza y regocíjate; porque el tiempo se
+acerca, y en [3416]esta noche será dada la señal, y mañana yo vendré
+al mundo para mostrar á los hombres que cumpliré todas las
+cosas que he anunciado por. boca de mis santos profetas.
+14. He aquí, que vengo á los míos para cumplir todas las
+cosas que he dado á conocer á los hijos de los hombres, [3417]desde
+el principio del mundo, y para cumplir la voluntad del Padre
+y del Hijo; [3418]del Padre á causa de mí, y [3419]del Hijo á causa de
+mi carne. He aquí, que el tiempo se acerca, y en [3420]esta noche será
+dada la señal.
+15. Y aconteció que las palabras que vinieron á Nefi, se
+cumplieron según habían sido dichas; porque, he aquí, que [3421]al
+ponerse el sol, no hubo obscuridad; y el pueblo empezó á asombrarse
+de ver que no había obscuridad, cuando vino la noche.
+16. Y hubo muchos de los que no habían creído en las palabras
+de los profetas, que [3422]cayeron por tierra como muertos;
+porque supieron que se había frustado el gran [3423]plan de
+exterminación que tenían tramado en contra de los que creían en las
+
+1h, 3412: Helamán 14:3-4.
+1i, 3413: Versículos 11,16.
+1j, 3414: Helamán 14:2-7.
+1k, 3415: Versículos 9,16.
+1l, 3416: Versículo 8; Helamán 14:3-4.
+1m, 3417: Véase d, Mosíah 4.
+1n, 3418: Véase o, Mosíah 15.
+1o, 3419: Véase b, Mosíah 3.
+1p, 3420: Helamán 14:3-4.
+1q, 3421: Helamán 14:3-4.
+1r, 3422: Versículo 17; Helamán 14:7.
+1s, 3423: Versículos 9,11.
+
+Corrections
+[page] Running header "482  III NEFI.  (CAP. I.)" discarded.
+[page] Page begins mid-verse (v.6 continues from page 481, which ended
+"Empezándose á ridiculizar á sus hermanos, diciéndoles:"), so per rule 1
+no blank line separates "Página 482" from the first body line.
+[v.1/v.2 rejoins] "relativa-" / "mente" → "relativamente" (v.6 tail);
+"ase-" / "gurarse" → "asegurarse" (v.8); "po-" / "nerse" → "ponerse"
+(v.15); "pala-" / "bras" → "palabras" (v.16 opening); "extermina-" /
+"ción" → "exterminación" (v.16) — all ordinary line-break hyphens,
+rejoined per rule 7.
+[v.19/v.20, v.31/v.32, v.40/v.41 rebalance] Footnote-marker insertion
+pushed three rejoined/marked lines to 73-74 characters; per rule 8 the
+last word was moved to the start of the next line in each case:
+"tradición" (v.11, after marker 3415), "mi" (v.14, after markers 3418/
+3419), and "exterminación" (v.16, after marker 3423, following its own
+rule-7 rejoin) all now begin their respective next lines.
+[v.12] "diciéndole :" → "diciéndole:"; v.13 "regocíjate ;" →
+"regocíjate;" — space before punctuation removed per rule 31. Same
+normalization applied to the other semicolons on this page (v.6 tail,
+v.7, v.11, v.15) consistent with this document's established
+convention (confirmed via zoom on v.13's instance).
+[fn h-s] All twelve footnote letters (h-s) confirmed via independent
+1879 cross-check (BOM 1879 Pratt file pages 484-485, chapter_map 3
+Nephi ch.1) — mandatory per rule since both "i" and "l" are among this
+page's own letters. Same-page glyph comparison first (v.9's "i" in
+"habrían"/"señales": dot + short hook, vs. v.13's "l" in "esta noche":
+continuous unbroken stroke, no dot — clearly distinct), then 1879
+confirmed every letter and reference text exactly, including the two
+"Hela. 14:3,4" duplicate citations (p, q) and the internal verse
+cross-references (i: vers.11,16; k: vers.9,16; s: vers.9,11).
+[rule 23] "Helamán 14:3,4" (h, l, p, q) reformatted to "Helamán 14:3-4"
+(consecutive verses → hyphenated range), matching existing precedent
+in librodm_foot.txt (e.g. "I Nefi 14:3-4,7").
+[v.9] "no llegaren á verificarse" — confirmed at zoom; initial glance
+suggested a possible misread ("llegaien") but the letter matches this
+page's own "r" shape (cf. "profeta" same line) exactly. Not a misprint.
+[v.11] "c amó" — suspected misprint for "clamó" (to cry out); zoomed
+closely and the gap between "c" and "amó" is a genuine wider-than-normal
+blank space, not a tight merge — looks like the "l" sort simply failed
+to ink (possible worn/broken type, or a scan-copy artifact per the
+2026-07-18d precedent). Preserved as printed with the visible gap
+(normalized to one space per rule 6); NOT silently corrected.
+[v.11] "Dos" — suspected misprint for "Dios" (missing "i"); confirmed
+at zoom (clean 3-letter "D-o-s", no gap suggesting damage). Preserved as
+printed.
+[v.13] "por. boca" — a period appears between "por" and "boca" with no
+grammatical justification ("...anunciado por boca de mis santos
+profetas" reads as one clause). Confirmed at zoom — a real printed dot,
+not a resize/compression artifact. Preserved as printed.
+[v.16] "frustado" — suspected misprint for "frustrado" (missing "r");
+confirmed at zoom. Preserved as printed.
+[Session E] Fresh pptext regeneration (`report_wsl_20260721.html`)
+flagged 2 spellcheck suspects from this page: "apesadumbrarse" (v.7)
+and "frustado" (v.16). 1886 (file page 497) checked for all four
+suspected-misprint items from this page's Corrections log:
+- "apesadumbrarse" (v.7): 1886 prints the identical word at the same
+  spot (top of its page 479) — confirmed a legitimate, if rare,
+  archaic Spanish word, not an error. Added to `permitted words.txt`.
+- "c amó" (v.11): 1886 clearly prints "clamó" — confirmed a genuine
+  1920-only misprint (the "l" sort apparently failed to ink, leaving
+  the visible gap). Added to `errors in 1920.txt`.
+- "Dos" (v.11): 1886 prints "Dios" — confirmed a genuine 1920-only
+  misprint (missing "i"). Added to `errors in 1920.txt`.
+- "por. boca" (v.13): 1886 reads "por boca" with no punctuation at
+  all between the words — confirmed a genuine 1920-only spurious
+  period, distinct from the "punto por coma" pattern already logged
+  for Alma 43:9 and others (there, 1886 has a comma where 1920 has a
+  period; here 1886 has nothing at all). Added to `errors in
+  1920.txt`.
+- "frustado" (v.16): 1886 ALSO prints "frustado" (shared-error pattern
+  like "seperado"), so the 1886 match alone does not clear it —
+  independent research confirms it's still wrong: RAE DLE has no
+  entry for "frustado" (only "frustrado"); the reference corpora have
+  zero hits for "frustado" (one hit for "frustrados" in the full
+  Reina-Valera Bible); and the modern LDS Spanish edition uses
+  "frustrado" at this exact verse (3 Nefi 1:16). Added to `errors in
+  1920.txt` and to `permitted words.txt` (actually flagged this run).
+Full-document footnote-anchor check (3412-3423 present, zero
+duplicates/out-of-range; only the pre-existing 812 gap remains missing
+overall), curly-quote scan (zero curly quotes in either master file),
+and the dash/hyphen-compound scan (no new hyphenated forms on this
+page — all line-break hyphens were mechanical rejoins) all clean. The
+"full stop followed by unexpected sequence" pptext check's only new-
+range hit was "por. boca", already resolved above.
+[2026-07-21, v.13 "por." reopened, unresolved] User asked for a direct
+visual comparison of this dot against three genuine end-of-sentence
+periods following an "r"-final word elsewhere in the same edition:
+"Señor." (Helamán 16:1, page 478), "suceder." (Helamán 16:16, page
+480), "Gobernador." (III Nefi 1:1, page 481). Connected-component
+analysis (8-connectivity, threshold <128) at native scan resolution,
+isolating the final "r" glyph and the following period in each case:
+  word          r height   period bottom vs. r baseline   period h   area
+  Señor.        23px       -1px (touches baseline)         7px        46px²
+  suceder.      23px       +1px (crosses baseline)         8px        50px²
+  Gobernador.   22px       +1px (crosses baseline)         8px        47px²
+  por.          23px       -2px (clear of baseline)        6px        40px²
+The three genuine periods agree closely with each other (bottom edge
+within 1px of the r's own baseline either side, height 7-8px, area
+46-50px²). The "por." dot misses on all three measures at once: it
+sits a full 2px clear above the baseline instead of touching/crossing
+it, and is both shorter and lighter than any genuine period on these
+four pages. This is quantitative support for the editor's suspicion
+that this mark is a stray fleck/smudge from the scan, not a genuinely
+typeset period — but it is NOT being treated as resolved: the
+transcription still reads "por. boca" as printed/scanned, and the
+`errors in 1920.txt` entry has been annotated with this finding rather
+than removed. Left for a manual look at the raw page image before any
+final call; no change to the transcribed text or to the general
+Session E workflow — this kind of visual/quantitative dot comparison is
+a case-by-case judgment call, not a new automatic check.
+[Session B] Independently re-read pages_1920/page_0504.png fn_zoom
+against all twelve Block 1 entries (h-s) — reference text matches the
+image exactly (before the rule 23 range-formatting applied to the four
+"14:3,4" citations). All twelve [N] markers in the body confirmed
+placed immediately before the correct word. The mandatory i/l check
+(letters i and l are this chapter's own lettering) was satisfied in
+Session A using the independent 1879 source (BOM 1879 Pratt file pages
+484-485, not a same-1920-image re-read); re-examined those same 1879
+crops here and confirm every letter h-s and its reference text again,
+letter-for-letter, including the two internal-verse citations (i, k, s)
+and the three duplicate "Hela. 14:3,4" entries (h/l/p/q — 1879 prints
+this same citation four times too, so the repetition is a feature of
+the original cross-referencing, not a transcription slip). No errors
+found in Block 1 or marker placement.

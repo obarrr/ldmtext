@@ -1,0 +1,148 @@
+Página 483
+palabras de los profetas, puesto que la señal que había sido dada
+por ellos, había empezado á realizarse;
+17. Y empezaron á convencerse de que el Hijo de Dios aparecería
+bien pronto; sí, en fin, todos los habitantes de sobre la
+faz de toda la tierra del Oeste al Este, tanto en el país del
+[3424]Norte como en él del [3425]Sud, fueron sobrecogidos de tal
+admiración, que [3426]cayeron por tierra;
+18. Porque sabían que lo profetas habían dado testimonio
+de estas cosas por muchos años, y que la señal que había sido
+dada, había empezado á cumplirse, y empezaron á temer á
+causa de su iniquidad y de su incredulidad.
+19. Y sucedió que [3427]no hubo obscuridad durante toda la
+noche, sino que había luz como si fuera medio día. Y aconteció
+que el sol apareció de nuevo en la mañana según se curso natural;
+y supieron que aquél fué el día en que había nacido el Señor,
+según la señal que se les había sido dada.
+20. Sucediendo que todas las cosas se cumplieron hasta el
+más mínimo ápice, según las palabras de los profetas.
+21. Y apareció también una [3428]nueva estrella según la palabra
+de los profetas.
+22. Y sucedió que desde entonces, empezaron á esparcirse
+por satán mentiras entre el pueblo para endurecer sus corazones,
+é impedirles que no creyeran en estas señales y maravillas que
+habían visto; pero á pesar de estas mentiras y engaños, la mayor
+parte del pueblo creyó y se convirtió al Señor.
+23. Y vino á suceder que Nefi y muchos otros se fueron por
+el pueblo, administrando el [3429]bautismo de arrepentimiento, por
+el cual hubo una gran remisión de pecados. Y así el pueblo
+empezó de nuevo á tener paz en el país;
+24. Y no hubieron ningunas contenciones, como no fuera de
+parte de algunos que empezaron á predicar, y se esforzaron en
+probar por medio de las escrituras, que ya no era necesario seguir
+la ley de Moisés, en lo que se equivocaron, porque no habían
+comprendido bien las escrituras.
+25. Pero acaeció que, convencidos de su error, se convirtieron
+bien pronto, porque les fué dado á conocer que la [3430]ley no se
+había cumplida todavía, y que era necesario que se cumpliera
+en todos sus puntos; sí, vino á ellos la palabra de que era necesario
+que se cumpliere; que ni una jota, ni una tilde pasaría,
+sin que todo se cumpliere; por lo que en el mismo año se vieron
+obligados á reconocer su error, y confesaron sus faltas.
+26. Y así concluyó el año nonagésimo-segundo, trayendo
+
+1t, 3424: Norte América.
+1u, 3425: Sur América.
+1v, 3426: Versículo 16; Helamán 14:7.
+1w, 3427: Helamán 14:3-4.
+1x, 3428: Helamán 14:5.
+1y, 3429: Véase u, II Nefi 9.
+1z, 3430: Véase o, II Nefi 25.
+
+Corrections
+[page] Running header "CAP. I.) III NEFI. 483" discarded.
+[page] Page begins mid-verse (v.16 continues from page 482, which ended
+"...que tenían tramado en contra de los que creían en las"), so per
+rule 1 no blank line separates "Página 483" from the first body line.
+[v.17 rejoin] "apare-" / "cería" → "aparecería" — ordinary line-break
+hyphen, rejoined per rule 7.
+[v.17 marker cascade] Footnote marker insertion pushed the "faz de
+toda...país del Norte" line to 73 characters; per rule 8, "Norte"
+(with marker 3424) moved to the start of the next line, which in turn
+pushed "admiración," to the line after that — a two-step mechanical
+cascade, both driven purely by marker-length overflow, not a reflow of
+the surrounding text.
+[rule 6, double-space normalization] Two justification-widened gaps
+after a mid-line period ("...medio día.  Y aconteció" v.19/20 boundary;
+"...de pecados.  Y así el pueblo" v.23) normalized to a single space —
+unconditional per rule 6, no `errors in 1920.txt` entry needed.
+[rule 31] Space before semicolon removed throughout this page for
+consistency with the document's established convention: "realizarse ;"
+→ "realizarse;", "por tierra ;" → "por tierra;", "natural ;" →
+"natural;", "visto ; pero" → "visto; pero", "el país ;" → "el país;",
+"sus puntos ; sí" → "sus puntos; sí", "se cumpliere ; que" → "se
+cumpliere; que", "se cumpliere ; por" → "se cumpliere; por".
+[fn t-z] None of this page's own footnote letters (t through z) fall
+in the mandatory i/l/1 check set, so no mandatory 1879 cross-check was
+required. Letter assignment to body markers was made by strict
+sequential position (rule 13: letters run alphabetically within a
+chapter with no gaps) plus independent glyph-shape zoom comparison
+against the footnote block's own reference glyphs for each letter (t:
+small comma/flick stroke; u: rounded twin-leg shape; v: solid serif
+triangle/heart shape; w: small double-hook blob; x: swash mark
+resembling an "="; y: hooked-tail shape distinct from v; z: compact
+flick similar in style to t) — every marker's shape matched its
+assigned letter's reference-block glyph. Content fit strongly
+corroborates every assignment: t/u label Norte América/Sur América at
+the exact "Norte"/"Sud" words in v.17; v (Versículo 16; Helamán 14:7)
+sits at "cayeron" (falling down in astonishment, echoing v.16 and the
+sign in Helamán 14:7); w (Helamán 14:3-4) sits at "no hubo obscuridad"
+(the no-darkness-at-night sign foretold there); x (Helamán 14:5) sits
+at "nueva estrella" (the new star foretold there); y (Véase u, II Nefi
+9) sits at "bautismo" (baptism of repentance, a doctrine also taught in
+II Nefi 9); z (Véase o, II Nefi 25) sits at "ley" in the law-of-Moses
+discussion (II Nefi 25 discusses at length the law's fulfillment in
+Christ).
+[rule 23] "Helamán 14:3,4" (w) reformatted to "Helamán 14:3-4"
+(consecutive verses → hyphenated range), matching existing precedent
+in librodm_foot.txt.
+[v.18] "lo profetas" — suspected misprint for "los profetas" (missing
+"s"); confirmed at zoom, a clean print with no sign of damaged type.
+Preserved as printed per rule 32; verify against 1886 in Session E.
+[v.19] "según se curso natural" — suspected misprint for "su curso
+natural" ("se" for "su"); confirmed at zoom, clean 2-letter "s-e", no
+damage. Preserved as printed per rule 32; verify against 1886 in
+Session E.
+[v.22, resolved as scan artifact] A dot-shaped mark appeared between
+"que" and "desde" in the image, initially transcribed as a printed
+period per rule 32 pending verification. User reviewed the page image
+directly and determined the mark is visibly smaller and fainter than
+this edition's genuine typeset periods — a scan artifact (dust/fleck),
+not real type, matching the 2026-07-18d/2026-07-21 precedent for
+this kind of physical-damage-looking mark. Corrected in the
+transcription to read "que desde entonces" (no period); not logged in
+`errors in 1920.txt`.
+[Session B] Independently re-read pages_1920/page_0505.png fn_zoom
+against all seven Block 1 entries (t-z) — reference text matches the
+image exactly. All seven [N] markers in the body re-confirmed placed
+immediately before the correct word (Norte, Sud, cayeron, no, nueva,
+bautismo, ley) by independently re-reading top/mid/bot against the
+transcription. No mandatory 1879 check applies (none of t-z is i, l,
+or 1); Session A's glyph-shape and content-fit reasoning was reviewed
+and found sufficient. No errors found in Block 1 or marker placement.
+[Session E] Fresh pptext regeneration (`report_wsl_20260721b.html`)
+found zero spellcheck suspects on this page (only pre-existing hit in
+the whole document is "buatizase," Helamán 16:5, already logged).
+Footnote-anchor check (3424-3430 present, zero duplicates/out-of-range;
+only the pre-existing 812 gap remains overall), curly-quote scan (zero
+curly quotes in either master file), and dash/hyphen-compound scan
+("nonagésimo-segundo" matches the established compound-ordinal pattern,
+e.g. "vigésimo-sexto") all clean. This page's three suspected-misprint
+Corrections-log items were run through the mandatory 1886 check (file
+page 498, chapter_map 3 Nephi ch.1):
+- "lo profetas" (v.18): 1886 clearly reads "los profetas" — confirmed
+  genuine 1920-only error (missing "s"). Added to `errors in 1920.txt`.
+  Not a pptext spellcheck matter ("lo" is a real word), so no
+  `permitted words.txt` entry.
+- "se curso natural" (v.19): 1886 clearly reads "su curso natural" —
+  confirmed genuine 1920-only error ("se" for "su"). Added to `errors
+  in 1920.txt`. Same reasoning — not a spellcheck matter, no
+  `permitted words.txt` entry.
+- "que . desde" (v.22): 1886 reads straight through "que desde
+  entónces" with no punctuation at all between the words. Flagged to
+  the editor rather than resolved unilaterally; the editor reviewed the
+  1920 image directly and confirmed the mark is a scan artifact, not
+  typeset (visibly smaller and fainter than this edition's genuine
+  periods) — see the resolved Corrections note above. Text corrected
+  to "que desde entonces"; no `errors in 1920.txt` entry.

@@ -407,8 +407,66 @@ running is ever in context, not all five at once.
   (3405-3411, only the pre-existing 812 gap), curly-quote scan (zero
   curly quotes in either master file), dash check, and `check_lines.py`
   all clean.
-- **Next page**: 482 (file page 504), full A–E cycle, first footnote 3412.
-- **Completed pages**: 437–481, Sessions A–E all done through page 481.
+- **2026-07-20d**: Sessions A–E run for page 482 (III Nefi 1:6(continues)-16,
+  footnotes 3412-3423, letters h-s). Session A: mandatory 1879 check for
+  this page's own "i" and "l" letters (BOM 1879 Pratt file pages 484-485,
+  chapter_map 3 Nephi ch.1) confirmed all twelve letters h-s and their
+  reference text exactly, including a same-page glyph comparison first
+  (v.9's "i": dot + short hook, vs. v.13's "l": continuous unbroken
+  stroke, no dot). Three suspected misprints caught and preserved as
+  printed per rule 32: v.11 "c amó" (gap where "clamó"'s "l" apparently
+  failed to ink) and "Dos" (missing "i" from "Dios"), and v.13 "por.
+  boca" (a spurious period with no grammatical basis). Session D:
+  `generate_block2.py` resolved all three Mosíah cross-references (m,
+  n, o) cleanly; spot-checked the book-aware resolution against
+  `librodm_foot.txt`'s "LIBRO DE MOSIAH" section to confirm none
+  collided with a different book's same chapter+letter. Session E:
+  fresh pptext regeneration (`report_wsl_20260721.html`) flagged 2
+  spellcheck suspects — "apesadumbrarse" (v.7, confirmed legitimate,
+  matches 1886 exactly, added to `permitted words.txt` only) and
+  "frustado" (v.16, confirmed genuine error despite matching 1886 —
+  same shared-error pattern as "seperado" — RAE has no entry for it,
+  zero corpus hits, and the modern LDS Spanish edition uses "frustrado"
+  at this exact verse; added to both `errors in 1920.txt` and
+  `permitted words.txt`). The other two Session A suspects ("c amó" →
+  "clamó", "Dos" → "Dios") were confirmed against 1886 (file page 497)
+  and added to `errors in 1920.txt`; neither is currently pptext-
+  flagged (known brand-new-single-occurrence quirk), so no `permitted
+  words.txt` entries for those two. Footnote-anchor check (3412-3423,
+  only the pre-existing 812 gap), curly-quote scan, and dash/hyphen-
+  compound scan all clean.
+- **2026-07-21b**: Sessions A–E run for page 483 (III Nefi 1:16(continues)-
+  26, footnotes 3424-3430, letters t-z). Session A: none of this page's
+  letters (t-z) fall in the mandatory i/l/1 set; assignment made by
+  strict sequential position plus independent glyph-shape zoom
+  comparison against the footnote block's own reference letters and
+  strong content-fit for every entry (Norte/Sur América at v.17's
+  "Norte"/"Sud"; Helamán 14:3-4's no-darkness sign at v.19's "no hubo
+  obscuridad"; Helamán 14:5's star prophecy at v.21's "nueva estrella";
+  II Nefi 9 (baptism scriptures) at v.23's "bautismo"; II Nefi 25 (law
+  of Moses) at v.25's "ley"). One rule-8 marker-overflow cascade (moving
+  "Norte" then "admiración," each to the next line). Session D's
+  `generate_block2.py` confirmed both cross-references resolved to the
+  correct II Nefi book section (378: baptism scriptures; 653: II Nefi
+  25's law-of-Moses passages), matching their v.23/v.25 context exactly.
+  Session E: fresh pptext regeneration (`report_wsl_20260721b.html`)
+  found zero new spellcheck suspects (only pre-existing hit in the whole
+  document remains "buatizase," Helamán 16:5). Two of this page's three
+  suspected-misprint Corrections-log items confirmed as genuine 1920-only
+  errors against 1886 (file page 498) and added to `errors in 1920.txt`:
+  III Nefi 1:18 "lo profetas" (missing "s") and 1:19 "se curso natural"
+  ("se" for "su") — neither needed a `permitted words.txt` entry since
+  both are real dictionary words pptext wouldn't flag regardless. The
+  third (v.22's free-floating "que . desde" period, with no counterpart
+  at all in 1886) was left for the editor's own visual judgment rather
+  than added unilaterally, given the 2026-07-21 precedent of page 482's
+  "por." being reopened as a possible scan artifact — see page_483.txt's
+  Corrections log for the full comparison. Footnote-anchor check
+  (3424-3430, only the pre-existing 812 gap), curly-quote scan, and
+  dash/hyphen-compound scan all clean.
+- **Next page**: 484 (file page 506), full A–E cycle, first footnote 3431.
+- **Completed pages**: 437–483, Sessions A–E all done through page 483
+  (pending editor's call on the v.22 "que . desde" period — see above).
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

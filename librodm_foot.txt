@@ -3673,3 +3673,22 @@ III NEFI
 1e, 3409: III Nefi 2:9.
 1f, 3410: Helamán 16:13,23.
 1g, 3411: Helamán 14:2-7.
+1h, 3412: Helamán 14:3-4.
+1i, 3413: Versículos 11,16.
+1j, 3414: Helamán 14:2-7.
+1k, 3415: Versículos 9,16.
+1l, 3416: Versículo 8; Helamán 14:3-4.
+1m, 3417: Véase d, Mosíah 4.
+1n, 3418: Véase o, Mosíah 15.
+1o, 3419: Véase b, Mosíah 3.
+1p, 3420: Helamán 14:3-4.
+1q, 3421: Helamán 14:3-4.
+1r, 3422: Versículo 17; Helamán 14:7.
+1s, 3423: Versículos 9,11.
+1t, 3424: Norte América.
+1u, 3425: Sur América.
+1v, 3426: Versículo 16; Helamán 14:7.
+1w, 3427: Helamán 14:3-4.
+1x, 3428: Helamán 14:5.
+1y, 3429: Véase u, II Nefi 9.
+1z, 3430: Véase o, II Nefi 25.
