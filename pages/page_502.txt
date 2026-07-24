@@ -1,0 +1,172 @@
+Página 502
+aquí, que duraron como por espacio de [3555]tres horas; y fué dicho
+por algunos que duraron aún más tiempo; no obstante, la duración
+de estas grandes y terribles cosas fué cerca de unas tres
+horas; y entonces, [3556]he aquí, que la obscuridad estaba sobre la
+superficie del país.
+20. Y sucedió que hubo espesas tinieblas sobre toda la superficie
+del país, de tal manera que los habitantes que no habían
+caído podían [3557]sentir el vapor de obscuridad;
+21. Y no podían encender ninguna luz á causa de la densa
+obscuridad, ni velas, ni antorchas; ni podía encenderse el fuego,
+con su menuda leña excesivamente seca, de modo que de ninguna
+manera podía haber ninguna luz;
+22. Y no se veía ninguna luz, ni fuego, ni vislumbre, ni sol,
+ni luna, ni las estrellas, porque tan densos eran los vapores de
+obscuridad que estaban sobre la faz de la tierra.
+23. Y sucedió que duraron estas tinieblas por espacio de
+[3558]tres días, en los cuales no fué vista ninguna luz; y habían
+grandes lamentaciones, gemidos y llantos continuamente entre todo el
+pueblo, sí, grandes fueron los gemidos del pueblo, á causa de
+estas tinieblas, y gran destrucción que había caído sobre ellos.
+24. Y en un lugar se les oía lamentar en estos términos: ¡Oh,
+que nos hubiésemos arrepentido antes de este grande y terrible
+día, entonces habrían sido conservados nuestros hermanos, y no
+hubieran sido [3559]quemados en aquella gran ciudad de Zarahemla!
+25. Y en otro lugar se les oía quejar y lamentar, diciendo:
+¡Ojalá que nos hubiésemos arrepentido antes de este grande y
+terrible día! ¡Ojalá que no hubiésemos apedreado, matado y
+desechado á los profetas! Entonces nuestras madres, y nuestras
+bellas hijas, y nuestros hijos habrían conservado su vida, y no
+hubieran sido enterrados en aquella gran [3560]ciudad de Moroníhah.
+Y así eran grandes y terribles los gemidos del pueblo.
+
+CAPÍTULO 9.
+
+1. Y sucedió que se oyó una [3561]voz por todos los habitantes de
+la tierra, en toda la superficie del país, clamando:
+2. ¡Ay, ay, ay de este pueblo; ay de los habitantes de toda
+la tierra, excepto que se arrepintieren! porque el diablo se ríe, y
+sus ángeles se regocijan, á causa de la muerte de los bellos hijos
+
+8-2g, 3555: Tiempo de la crucifixión.
+8-2h, 3556: Tinieblas empezaron cuando Cristo expiró.
+8-2i, 3557: Versículos 3,22-23; I Nefi 12:5; 19:11; Helamán 14:20,27;
+III Nefi 10:9.
+8-2j, 3558: Véase i, I Nefi 19.
+8-2k, 3559: Versículo 8; Helamán 13:12-14.
+8-2l, 3560: Véase k.
+9a, 3561: I Nefi 19:11.
+
+Corrections:
+[rule 7, hyphen rejoin] v.19 "dura-" / "ción" rejoined to "duración";
+rejoined line ("...no obstante, la duración") lands at 65 characters,
+under the cap, so it was kept on the first line (no rule 8 rebalancing
+needed).
+[rule 7, hyphen rejoin] v.20 "super-" / "ficie" rejoined to
+"superficie"; rejoined line ("...sobre toda la superficie") lands at
+65 characters, under the cap, so it was kept on the first line (no
+rule 8 rebalancing needed).
+[rule 6, unconditional merge normalization] v.23 "loscuales" (a true
+zero-width merge in the print, confirmed via zoom — the "s" of "los"
+directly touches the "c" of "cuales" with no gap) — per the current
+default (2026-07-22 editor guidance), transcribed as two words "los
+cuales" since grammar requires two words and no zoom/pixel debate is
+needed; not logged in `errors in 1920.txt`.
+[rule 6, unconditional merge normalization] v.23 "vistaninguna" (a
+second true zero-width merge on the same line, confirmed via zoom) —
+same treatment: transcribed as two words "vista ninguna" per the
+current default; not logged in `errors in 1920.txt`.
+[rule 8, marker-caused overflow] v.23: inserting marker [3558] pushed
+"tres días, en los cuales no fué vista ninguna luz ; y habían grandes"
+to 74 characters, so "grandes" moved to the start of the following
+line per rule 8.
+[rule 31] Removed the printed space before the colon at v.24
+"términos :" → "términos:", v.25 "diciendo :" → "diciendo:", and
+ch.9 v.1 "clamando :" → "clamando:" — matches this document's
+established colon convention (no space before colon anywhere in
+librodm.txt, confirmed via full-document grep), unlike the semicolon/
+exclamation-mark spacing on this same page, which is preserved as
+printed per the established recent-pages convention (space before ";"
+and "!" matches the 1920 print and is not corrected — see Session E
+notes on pages 496-501).
+[rule 6, unconditional space normalization] v.25 "día !  ¡Ojalá" and
+"profetas !  Entonces" both had a justification-widened double space
+after the exclamation mark; normalized to a single space. The space
+before "!" itself is kept per the established convention noted above.
+[Session A] Mandatory 1879 check for footnote 8-2j's cross-reference
+target letter "i" ("Véase i, I Nefi 19" — i is in the mandatory i/l/1
+set): same-page glyph comparison confirmed the target glyph is a short
+stroke with a separated dot (matching this page's own "2i" marker
+shape), distinct from the marker's own "j" shape (curled descender).
+Independently confirmed via a live 1879 read of I Nefi chapter 19's
+own footnote block (BOM 1879 Pratt, chapter_map I Nephi ch.19, file
+page 55-57 — chapter 19's lettering runs a-p across three pages):
+1879 file page 57 reads "i, Hela. 14:20,27. III. Nep. 8:19-23. 10:9." —
+matching this page's own 8-2i footnote content
+("Versículos 3,22-23; I Nefi 12:5;19:11; Helamán 14:20,27;
+III Nefi 10:9.") almost exactly, a very strong content-fit confirming
+the target is indeed I Nefi 19's letter i.
+[Session A] Mandatory check for footnote 8-2l's own marker letter "l"
+(l is in the mandatory i/l/1 set): same-page glyph comparison confirmed
+a continuous unbroken loop shape with no separated dot, matching the
+established "l" signature and distinct from the "i"/"j" shapes seen
+elsewhere on this page. A live 1879 parallel was not available for
+this specific footnote — 1879's own chapter 8 footnote lettering ends
+at "j" on file page 502 (confirmed by reading that page directly),
+far short of 1920's "2l" (this chapter is far denser in 1920's
+footnoting than 1879's), so no equivalent 1879 letter exists to check
+against. As an independent check (Section 8, procedure step 7), the
+target itself was resolved instead: 8-2l's cross-reference "Véase k"
+(plain single letter "k", confirmed via zoom — no "2" prefix visible on
+the target glyph) points to chapter 8's own earlier footnote k
+(sequential 3533: "Versículo 25; Helamán 12:17; III Nefi 9:5"), which
+itself cites "Versículo 25" — this page's own v.24-25 passage (the
+"ciudad de Moroníhah" destruction) — a strong same-chapter back
+reference, content-fit (Section 8, step 7/8) corroborating the
+marker's sequential position immediately after 8-2k.
+[Session A] No subtitle line appears between the chapter divider and
+"CAPÍTULO 9." in the 1920 image — checked directly per the chapter/book
+subtitle rule (Section 1); this chapter opens with no descriptive
+subtitle, consistent with the established pattern that some chapters in
+this stretch (8-12) have none.
+[Session A] Chapter 9's own first footnote letter is "a" per rule 13
+(chapter lettering always restarts at a); the printed glyph itself was
+too small/blurred to read with full confidence at this crop, but the
+letter assignment does not depend on the glyph reading since it is the
+first footnote of a new chapter.
+[Session B] Independently re-verified all 7 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0524.png's fn_zoom/top/
+mid/bot images; text and marker placement match exactly. Independently
+re-ran the mandatory 1879 checks from fresh crops: 8-2j's target letter
+"i" reconfirmed as a short stroke with a separated dot, distinct from
+8-2l's marker letter "l," reconfirmed as a continuous unbroken curved
+stroke with no separate dot — both match Session A's readings. No
+errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260723e.html`)
+came back fully clean for this page's new range across every
+section: zero new spellcheck suspects (the only hit anywhere is the
+pre-existing "Profecia," page 469), zero new edit-distance hits,
+footnote-anchor check (full-document, union of both buckets) confirms
+1-3561 with zero duplicates/out-of-range and only the pre-existing 812
+gap, curly-quote scan (zero curly quotes in either master file) clean,
+the two dash-check hits in range (3557's "22-23" and 3559's "12-14")
+are expected verse-range hyphens per rule 23, "spaced punctuation"
+hits for this page (space before ";"/"!" at v.19-25 and ch.9 v.1-2)
+match the established recent-pages convention (matches the 1920 print
+exactly, not page-specific), no new "full stop followed by unexpected
+sequence" hits, book/paragraph-level checks and Jeebies both clean.
+This page's own Corrections log had no suspected-misprint/spelling
+notes to run through the mandatory 1886 check (every note is
+footnote-letter reasoning or a rule-6/rule-7/rule-8/rule-31 mechanical
+normalization); the two rule-6 merge normalizations (v.23 "los
+cuales," "vista ninguna") were independently spot-checked against BOM
+1886 (file page 517, chapter_map III Nefi ch.8/9) anyway and confirmed
+as two words there too, matching the transcription. No `errors in
+1920.txt` or `permitted words.txt` entries needed for this page — a
+fully clean orthography pass.
+[2026-07-24, user correction] The "established recent-pages convention"
+cited above (lines 78-82, 86, 145-147 of this log) was wrong and has
+been reversed. Rule 31 already requires removing any space before a
+comma, semicolon, or colon, "whether original print spaces or
+OCR-added ones" — this was never actually a license to preserve
+space-before-semicolon/exclamation as an intentional 1920 typesetting
+style; that reading was adopted without basis starting on page 496 and
+repeated through page 502. All 12 instances on this page (v.19 x2,
+v.20, v.21 x2, v.23, v.24, v.25 x3, ch.9 v.1 x2) have been corrected to
+remove the space before ";" and "!", matching rule 31. See rule 31's
+updated wording in `libro_de_mormon_rules.md` for the corrected,
+explicit scope (now also names "!"). Also fixed identically in
+`librodm.txt`. Pages 471-495 may contain earlier instances of this same
+pattern and have not been swept yet — flagged for a future session, not
+addressed here per the user's page-502-scoped request.

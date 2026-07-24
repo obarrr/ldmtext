@@ -1,0 +1,138 @@
+Página 487
+6. Por lo tanto, os escribo para moveros á que entreguéis á
+mi gente vuestras ciudades, tierras y propiedades, más bien que
+ella os ataque espada en mano, y que la destrucción caiga sobre
+vosotros;
+7. O en otros términos: entregáos y uníos a nosotros, para
+que seáis iniciados en nuestras obras [3445]secretas, y para que vengáis
+á ser hermanos nuestros, é iguales á nosotros, no como esclavos,
+sino como hermanos, y socios de todo cuanto tenemos.
+8. Y, he aquí, que os juro que si hiciereis esto con juramento,
+no seréis destruidos; pero si no lo hacéis, os juro que pasando
+un mes desde el día de mañana, daré orden á mis ejércitos, para
+que caigan sobre vosotros; y no pararán su mano, ni os perdonarán,
+sino que os matarán y dejarán caer la espada encima,
+sí, hasta que quedéis exterminados.
+9. He aquí, yo soy Giddianhi, gobernador de esta sociedad
+[3446]secreta de Gadianton; sociedad y obras que tengo por buenas;
+y que son de antigua fecha, y nos han sido transmitidas.
+10. Os escribo esta carta, Lachoneus, en la confianza de que
+nos entregaréis vuestras tierras y propiedades sin efusión de
+sangre, á fin de que mi pueblo, que se ha separado de vosotros,
+porque vosotros inicuamente le habéis privado de sus derechos
+al gobierno, pueda recobrar sus derechos y su gobierno; y si así
+no lo hiciereis, yo vengaré sus agravios. Yo soy Giddianhi.
+11. Y vino á suceder, que cuando Lachoneus recibió esta carta,
+se asombró mucho al ver el atrevimiento con que Giddianhi
+exigía la entrega del país de los Nefitas, amenazando al pueblo
+con vengar los males de aquéllos, de quiénes no habían recibido
+ninguno, como no fuera el mal que ellos mismos se habían proporcionado,
+apostatando y entregándose á estos abominables
+bandoleros.
+12. Pero, he aquí, que el gobernador Lachoneus, que era
+hombre justo y recto, no dió oídos á las amenazas y demandas
+del bandido; así que sin dar oídos á la carta de Giddianhi,
+gobernador de la banda, hizo que su pueblo clamara al Señor por
+fuerzas, para cuando cayeren los ladrones sobre ellos;
+13. Sí, mandando entonces una proclamación por todo su
+pueblo, para que vinieran á [3447]reunir á sus mujeres, sus hijos,
+ganados, rebaños y todos sus bienes, excepto sus terrenos, en un
+lugar.
+14. É hizo construir [3448]fortificaciones al rededor de ellos de
+una solidez y de una gran resistencia, poniendo fuerzas en los
+alrededores, tanto sacadas de entre los Nefitas como de entre
+los Lamanitas, ó de entre los que eran considerados como Nefitas,
+
+3c, 3445: Véase i, II Nefi 10.
+3d, 3446: Véase i, II Nefi 10.
+3e, 3447: Versículos 22-24.
+3f, 3448: Véase c, Alma 48.
+
+Corrections
+[page] Running header "CAP. III.) III NEFI. 487" discarded.
+[page] Page begins with a new verse (v.6), not a chapter heading and
+not a hyphenated mid-word continuation from page 486 (which ended v.5
+at an ordinary sentence break, "...campo de batalla;"); per the
+established convention for this case (see pages 471, 476, 477 etc.),
+no blank line separates "Página 487" from the first body line.
+[rule 31] Space before punctuation removed: "vosotros ;" → "vosotros;",
+"términos :" → "términos:", "destruidos ;" → "destruidos;",
+"Gadianton ; sociedad" → "Gadianton; sociedad", "buenas ;" → "buenas;",
+"gobierno ; y si así" → "gobierno; y si así", "bandido ; así" →
+"bandido; así", "ellos ;" → "ellos;".
+[v.8 rejoin] "per-" / "donarán," → "perdonarán," — ordinary line-break
+hyphen, rejoined per rule 7; comma travels with the rejoined word.
+[v.11 rejoin] "pro-" / "porcionado," → "proporcionado," — ordinary
+line-break hyphen, rejoined per rule 7; comma travels with the
+rejoined word.
+[v.10, rule 6 double-space normalization] One justification-widened
+gap after a mid-line period ("...sus agravios.  Yo soy Giddianhi.")
+normalized to a single space — unconditional per rule 6, no
+`errors in 1920.txt` entry needed.
+[v.11] "vino á" — initially misread as a zero-gap merge ("vinoá")
+based on a zoomed crop and a column-projection pixel check; the editor
+reviewed the actual page directly and confirmed there is a real space
+between "vino" and "á". Corrected to "vino á" (normal spacing, no
+Corrections-log merge claim, no `errors in 1920.txt` entry — this was
+a transcription misread, not a print defect). Per
+feedback_narrow_space_vs_merge, this is now a third case where a
+zoomed/measured read of this specific gap-width judgment call came out
+wrong and the editor's own inspection of the source was needed to
+settle it — worth treating any future "words are touching" call as
+provisional until confirmed by the editor, not just re-zooming or
+re-measuring.
+[fn c/d] Letters c and d both cross-reference target letter "i" in II
+Nefi 10 — "i" falls in the mandatory i/l/1 check set even as a
+cross-reference target, so the 1879 check was run now rather than
+deferred to Session B. Confirmed via BOM 1879 Pratt (chapter_map III
+Nephi ch.3 lists file page 488/book 480 for the chapter opening, but
+this page's own content — v.6 onward — lands one page later at file
+489/book 481, same "one page later" drift pattern seen on prior pages
+in this book): "c, see i, II. Nep. 10." and "d, see i, II. Nep. 10."
+— both match the 1920 reading exactly, letter-for-letter and
+target-for-target. Body markers also confirmed by position: c sits at
+"secretas" (v.7, "acquainted with our secret works" in 1879), d sits
+at "secreta" (v.9, "this the secret society of Gadianton" in 1879).
+[fn e] "Versículos 22-24" — a direct self-reference (this chapter's
+own upcoming verses), not a cross-reference letter. Confirmed against
+1879 (file page 490/book 482): "e, vers. 22-24." — matches exactly.
+Body marker sits at "reunir" (v.13), matching 1879's marker position
+at "gather together" in the equivalent sentence.
+[fn f] "Véase c, Alma 48." — letter "c" is not in the mandatory i/l/1
+set. Initially misread as "e" from an isolated 12x zoom of the glyph
+(a very small, stylized superscript at this print size, easy to
+misjudge in isolation). The editor read the actual page directly and
+identified it as "c", matching 1879's parallel entry ("f, see c, Alma
+48.") exactly — no translation-order letter divergence after all.
+Content-fit confirms: Alma 48c (already transcribed, librodm_foot.txt)
+resolves to "Alma 49:13,18-24; 50:1-6,10; 51:23,27; 52:2,17; 53:3-7" —
+the chapters covering Moroni's building of fortified cities/walls —
+a strong thematic match for "fortificaciones" here, much stronger than
+48e ("Véase k, Alma 46", the title-of-liberty passage). Corrected from
+"e" to "c". Body marker sits at "fortificaciones" (v.14), matching
+1879's marker position at "fortifications" in the equivalent sentence.
+[Session B] Independently re-verified all four Block 1 entries (c, d, e,
+f) and body markers against fresh crops of pages_1920/page_0509.png; all
+match the page as written, including the editor's "vino á" and "Véase c,
+Alma 48" corrections. Re-ran the mandatory 1879 check for c/d (target
+letter "i") from scratch against a fresh crop of BOM 1879 Pratt file page
+489 (chapter_map III Nephi ch.3, "one page later" drift as noted in
+Session A): "c, see i, II. Nep. 10." and "d, see i, II. Nep. 10." confirmed
+again, letter-for-letter and target-for-target; body marker positions
+("secret works" v.7, "secret society" v.9) also reconfirmed independently.
+[Session E] Fresh pptext regeneration (`report_wsl_20260721e.html`)
+flagged one spellcheck suspect from this page: "entregáos" (v.7).
+Confirmed legitimate archaic accented imperative — 1886 (file page 484)
+prints the same accented root ("entregáosnos", with an extra enclitic
+"nos" this edition drops, but the "entregáos" spelling/accent itself
+matches exactly). Modern RAE convention no longer accents this ending
+(current standard would be "entregaos"), but 1886 agreement settles it
+as a legitimate 1920/1886-era spelling, not an error. Added to
+`permitted words.txt` only. Footnote-anchor check (max 3448, zero
+duplicates/out-of-range, only the pre-existing 812 gap), curly-quote
+scan (zero curly quotes in either master file), and a filtered sweep of
+every other pptext section against this page's line range (paragraph-
+level, dash, etc.) found nothing beyond already-documented false-
+positive patterns (verse numbers starting a paragraph, Block 2's "N:"
+format). No other `errors in 1920.txt` or `permitted words.txt` entries
+needed for this page.

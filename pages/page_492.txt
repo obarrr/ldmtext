@@ -1,0 +1,132 @@
+Página 492
+cortados en sus parajes de retirada. Todo lo que fué hecho
+según las órdenes de Gidgiddoni.
+    27. Y hubo muchos miles de ellos que se entregaron prisoneros
+á los Nefitas, y el resto pereció;
+    28. Y Zemnaríhah, su jefe, fué cogido y colgado de la copa
+de un arbol, hasta que nurió. Y cuando le hubieron colgado,
+cortaron el árbol de raíz, y gritaron en alta voz, diciendo:
+    29. Que el Señor conserve á su pueblo en justicia y santidad de
+corazón, para que haga caer por tierra á quienquiera que trate
+de asesinarles, por medio del poder, y de las [3475]secretas
+combinaciones, del mismo modo que este hombre ha caído por tierra.
+    30. Y clamaron otra vez en su alegría, y dijeron: Que el
+Dios de Abraham, Isaac y Jacob proteja á este pueblo en la
+justicia, tanto tiempo como invoquen el nombre de su Dios,
+pidiéndole protección.
+    31. Y sucedió que rompieron todos á una en cantos y alabanzas
+á su Dios, por el gran beneficio que habían recibido, preservándoles
+de caer en las manos de sus enemigos;
+    32. Sí, y gritaron: ¡Hosana al Más Alto Dios; bendito sea
+el nombre del Señor Dios Todopoderoso, del Más Alto Dios!
+    33. Y se llenaron de alegría sus corazones, hasta derramar
+muchas lágrimas, á causa de la inmensa bondad de Dios en
+librarles de las manos de sus enemigos; y sabían que era á causa
+de su arrepentimiento y de su humildad por lo que habían sido
+librados de una destrucción eterna.
+
+CAPÍTULO 5.
+
+    1. Y ahora, he aquí, que no había entre todos los del pueblo
+de Nefi, ni una sola alma viviente, que dudara en lo más mínimo
+de las palabras que todos los santos profetas habían hablado;
+porque sabían que era necesario que se cumplieran irremisiblemente;
+    2. Y sabían que era indispensable que Cristo hubiese venido,
+por motivo de las muchas señales que habían sido dadas, según
+las palabras de los profetas, y á causa de las cosas que ya se
+habían verificado, conocían que precisamente sucedieran toda
+las cosas anunciadas, según lo que había sido dicho;
+    3. Por lo tanto, renunciaron de todos sus pecados, abominaciones
+y fornicaciones, sirviendo á Dios con toda diligencia
+de día y de noche.
+
+4m, 3475: Véase i, II Nefi 10.
+
+Corrections
+[page] Running header "492    III NEFI.    (CAP. V." discarded.
+[page] Page begins as a mid-verse continuation of v.26 from page 491
+("...Y los bandidos que se hallaban al Sud, fueron también..."); per
+the established convention, no blank line separates "Página 492" from
+the first body line.
+[rule 6] Inter-word spacing normalized to a single space throughout,
+including wider (justification) gaps after "retirada." (before "Todo"),
+after "nurió." (before "Y cuando"), after "dijeron:" (v.30, before
+"Que el"), after "gritaron:" (v.32, before "¡Hosana"), and after "29."/
+"31." (v.29, v.31, before "Que"/"Y sucedió").
+[rule 31] Space before punctuation removed throughout: "pereció ;" ->
+"pereció;", "enemigos ;" (v.31, v.33 both instances) -> "enemigos;",
+"Dios ; bendito" (v.32) -> "Dios; bendito", "Dios !" (v.32) ->
+"Dios!", "hablado ;" (v.1) -> "hablado;", "mente ;" (v.1) ->
+"mente;", "dicho ;" (v.2) -> "dicho;".
+[rule 7] Hyphenated line-break splits rejoined: "alaban-/zas" (v.31) ->
+"alabanzas"; "pre-/servándoles" (v.31) -> "preservándoles"; "combina-
+/ciones" (v.29) -> "combinaciones" (moved to start of next line per
+rule 8, see below); "irremisible-/mente" (v.1) -> "irremisiblemente";
+"abomi-/naciones" (v.3) -> "abominaciones". None needed rule 8
+rebalancing except as noted.
+[rule 8] v.29's line "de asesinarles, por medio del poder, y de las
+[3475]secretas combina-" would have reached 75 chars once rejoined
+with "ciones,"; the whole word "combinaciones," was moved to start of
+the next line instead, per rule 8.
+[scan artifact] A small stray ink dot appears between "Y" and "ahora"
+in v.1, and another between "mente" and ";" at the v.1/v.2 boundary
+(right of "mente ;"). Both match the established scan-artifact pattern
+(page 483 v.22, page 490) rather than genuine type — not transcribed.
+[suspected misprint, preserved as printed per rule 32]: v.27
+"prisoneros" for what should read "prisioneros" (missing "i") — image
+confirmed at zoom ("prison-" / "eros" line break). Verify against 1886
+in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.28 "de un
+arbol" (unaccented) two lines before "el árbol de raíz" (correctly
+accented) — same word, inconsistent accentuation within the same
+verse; confirmed at zoom. Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.28 "nurió"
+for what should read "murió" — image confirmed at zoom (rounded
+double-hump "n", not "m"). Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.2 "sucedieran
+toda las cosas anunciadas" for what should read "todas las cosas"
+(missing "s") — image confirmed at zoom. Verify against 1886 in
+Session E.
+[not an error] v.32 "Hosana" (single "n") already appears unflagged
+elsewhere in librodm.txt (line 1524, "¡Hosana al Señor..."), so this
+is an established 1920 spelling convention, not a page-specific
+misprint — no Corrections/errors-log action needed.
+[fn m] Letter m is chapter 4's continuing lettering (l closed on page
+491). Read directly from the footnote block: "m, Véase i, II Nefi 10."
+Letter m itself is not in the mandatory i/l/1 set, but its
+cross-reference target letter "i" IS, so the 1879 check is mandatory.
+Confirmed via BOM 1879 Pratt file page 494 (chapter_map 3 Nephi ch.4,
+"one page later" content drift — chapter_map lists 491 but the v.29
+content lands on file 494), which reads at the identical v.29 position
+"and secret combinations" with footnote block "m, see i, II. Nep. 10."
+— letter-for-letter and target-for-target match. Body marker position
+confirmed by content fit: m at "secretas" (v.29, "de las secretas
+combinaciones" / II Nefi 10's secret-combinations warning).
+[Session B] Independently re-verified the single Block 1 entry and body
+marker against a fresh crop of pages_1920/page_0514.png; matches Session
+A exactly. Mandatory 1879 check for letter m's target letter i re-run
+independently from a fresh crop of BOM 1879 Pratt file page 494;
+reconfirmed "m, see i, II. Nep. 10." at the identical v.29 position, with
+a clean same-block glyph comparison against neighboring "l, North
+America." (l: tall unbroken stroke, no dot; i: short stroke with a
+separated dot — clearly distinct). No errors found; no changes made.
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260722e.html)
+flagged one spellcheck suspect from this page, "arbol" (v.28) — confirmed
+genuine 1920-only error against 1886 (file page 507): 1886 accents it
+"árbol" both times it appears in this passage, and 1920's own next line
+("cortaron el árbol de raíz") accents it correctly too, so the v.28
+"arbol" is an isolated slip, not a period convention; RAE also confirms
+"arbol" (no tilde) is not a recognized word. Added to `errors in
+1920.txt` and `permitted words.txt` (actually flagged this run). Three
+more suspected misprints from this page's own Corrections log were also
+checked against 1886 and confirmed genuine (none flagged by pptext this
+run — the known brand-new-single-occurrence quirk, so no `permitted
+words.txt` entries for these three): v.27 "prisoneros" (1886: "prisioneros"),
+v.28 "nurió" (1886: "murió"), and 3:2 "toda las cosas" (1886: "todas las
+cosas" — a grammatical/concordance slip, not a single mis-spelled word).
+All four added to `errors in 1920.txt`. Independent full-document
+footnote-anchor check (regex scan, union of both pptext buckets): max
+3475, zero duplicates, zero out-of-range, only the pre-existing 812 gap.
+Curly-quote scan (zero curly quotes in either master file) and a
+hyphen-compound scan (page 492's body text has no hyphens at all,
+post-rejoin) both clean.

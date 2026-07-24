@@ -1,0 +1,138 @@
+Página 484
+alegres nuevas al pueblo por las señales que vinieron á cumplirse,
+según las palabras de las profecías de todos los santos profetas.
+27. Y vino á suceder, que en el año nonagésimo-tercio reinó
+igualmente la paz; á excepción de algunos salteadores de
+[3431]Gadianton que habitaban en las montañas, y que infestaban
+el país; porque tan fuertes eran sus guaridas y escondrijos, que
+el pueblo no había podido dominarles; por lo tanto, cometieron
+muchos asesinatos, é hicieron una gran carnicería entre el pueblo.
+28. Y acaeció, que en el año nonagésimo-cuarto, se aumentaron
+considerablemente, porque, hubo un gran número de disidentes
+de los Nefitas que se fueron entre ellos; lo que causó mucha
+tristeza entre los Nefitas que permanecían en el país;
+29. Y esto fué también causa de mucha tristeza entre los
+Lamanitas; porque; he aquí, que muchos de sus hijos, según
+crecían en edad y en fuerzas, y empezaban á vivir por sí mismos,
+se dejaban extraviar por las palabras aduladoras y mentirosas
+de algunos Zoramitas, y fueron á unirse á la banda de Gadianton;
+30. Y así fueron aflijidos los Lamanitas también, y empezaron
+por causa de la perversidad de esta nueva generación, á minorar
+en su fe y justicia.
+
+CAPÍTULO 2.
+
+1. Y acaeció, que pasó también el año nonagésimo-quinto;
+y el pueblo empezó á olvidarse de [3432]esas señales y prodigios
+que había presenciado; y admiráronse cada vez menos y menos de
+cualquiera señal ó prodigio del cielo, de tal modo que empezaron
+á ser duros de corazón, y ciegos de imaginación, y á dudar de
+todo lo que habían visto y oído.
+2. Imaginándose vanamente en sus corazones, que eso era
+hecho por los hombres, y por el poder del diablo, para extraviar
+y engañar á los corazones del pueblo. De este modo se apoderó
+satán de nuevo de los corazones del pueblo; y cegando sus ojos,
+les indujo á creer que la doctrina de Cristo era una cosa loca y
+vana.
+3. Y ocurrió, que el pueblo empezó á aumentar en maldad, y
+en abominaciones; y ya no creía que se le serían dadas más
+señales, ni prodigios; y satán fué por todas partes extraviando
+los corazones del pueblo, tentándoles y llevándoles á cometer
+grandes maldades en el país.
+4. Así pasó el año nonagésimo-sexto; y también el nonagésimo-séptimo,
+
+1-2a, 3431: Helamán 2:11-13.
+2a, 3432: Helamán 14:3-7; III Nefi 1:8,13-21.
+
+Corrections
+[page] Running header "484 III NEFI. (CAP. II." discarded.
+[page] Page begins mid-verse (v.26 continues from page 483, which ended
+"26. Y así concluyó el año nonagésimo-segundo, trayendo"), so per rule 1
+no blank line separates "Página 484" from the first body line.
+[v.27 rejoin] "Gadi-" / "anton" → "Gadianton" — ordinary line-break
+hyphen, rejoined per rule 7; footnote marker [3431] (originally
+superscript "2a") placed immediately before the rejoined word.
+[rule 31] Space before semicolon removed throughout this page:
+"paz ; á" → "paz; á", "país ;" (x2) → "país;", "dominarles ;" →
+"dominarles;", "ellos ;" → "ellos;", "Lamanitas ;" → "Lamanitas;",
+"Gadianton ;" → "Gadianton;", "quinto ;" → "quinto;",
+"presenciado ;" → "presenciado;", "pueblo ; y cegando" →
+"pueblo; y cegando", "abominaciones ;" → "abominaciones;",
+"prodigios ; y satán" → "prodigios; y satán", "sexto ;" → "sexto;".
+[rule 6, double-space normalization] One justification-widened gap
+after a mid-line period ("...del pueblo.  De este modo" v.2)
+normalized to a single space — unconditional per rule 6, no
+`errors in 1920.txt` entry needed.
+[v.29] "Lamanitas; porque; he aquí" — suspected misprint (semicolon
+after "porque" where a comma would be grammatically expected);
+confirmed at high zoom to be a genuine printed semicolon, identical
+in shape to the semicolon immediately before it after "Lamanitas",
+no sign of damaged type. Preserved as printed per rule 32; verify
+against 1886 in Session E.
+[fn 2a/a] Neither of this page's own footnote letters ("2a" — the
+continuation of chapter 1's lettering past z, per rule 16 — and
+chapter 2's own restarted "a") falls in the mandatory i/l/1 check
+set, so no mandatory 1879 cross-check was required. Both markers
+were independently zoom-confirmed against the fn_zoom crop: "2a"
+(Helamán 2:11-13) sits at "Gadianton" in v.27 — content fits, since
+Helamán 2 is the chapter introducing the Gadianton robber band by
+name; "a" (Helamán 14:3-7; III Nefi 1:8,13-21) sits at "esas señales"
+in chapter 2 v.1 — content fits, since those are exactly the signs
+of Christ's birth given in Helamán 14 and fulfilled earlier in this
+chapter (III Nefi 1).
+[rule 23/24/25] "Helamán 14: 3-7" reformatted to "Helamán 14:3-7"
+(already a consecutive range in print, colon-spacing normalized per
+rule 22). "III Nefi 1: 8, 13-21" reformatted to "III Nefi 1:8,13-21"
+(verse 8 non-consecutive, comma no space; verses 13-21 consecutive
+range; colon-spacing normalized per rule 22).
+[v.4, page-boundary hyphen — RESOLVED 2026-07-21] Last word on the page
+was "nona-", the start of "nonagésimo-séptimo," split by the page
+boundary (rule 10). Page 485 was transcribed and confirms the full
+word reads "nonagésimo-séptimo," (comma attached). Appending the whole
+rejoined word to this page's last line ("4. Así pasó el año
+nonagésimo-sexto; y también el nonagésimo-séptimo,") comes to 69
+characters, under the 73-character cap, so the whole word stays on
+this page per rule 10; page 485's body text begins with the next word
+("y también el nonagésimo-octavo...") instead of any fragment.
+[check_line_wrap.py false flag] The script reported 20 txt lines vs.
+38 OCR lines, but `txt_body_lines()` stops at the FIRST blank line —
+this page has a mid-page chapter heading (blank line before
+"CAPÍTULO 2." per rule 3), so it only counted verses 26-30 (20 lines)
+and silently dropped chapter 2's 18 lines. Manual count of the full
+raw transcript (both halves) is 38 lines, exactly matching the OCR
+estimate — confirms the line breaks are image-derived, not reflowed.
+This is a script limitation on chapter-boundary pages, not a real
+discrepancy; worth fixing in check_line_wrap.py next time it's touched
+(count all non-blank lines up to the Block 1 section, not just up to
+the first blank line).
+[Session B] Independently re-read pages_1920/page_0506.png fn_zoom
+against both Block 1 entries ("2a, Helamán 2:11-13." and "a, Helamán
+14:3-7; III Nefi 1:8,13-21.") — reference text matches the image
+exactly. Both [N] markers re-confirmed placed immediately before the
+correct word (Gadianton, esas) by independently re-reading top/mid
+against the transcription. No mandatory 1879 check applies (neither
+2a nor a is i, l, or 1); Session A's glyph-shape and content-fit
+reasoning was reviewed and found sufficient. No errors found in
+Block 1 or marker placement.
+[Session E] Fresh pptext regeneration (`report_wsl_20260721c.html`)
+flagged one spellcheck suspect on this page — "admiráronse" (v.1 of
+ch.2, line 21700) — confirmed legitimate: matches 1886 exactly at the
+same spot (page 499, chapter_map 3 Nephi ch.2), and the archaic
+enclitic-pronoun preterite form (-áronse) is independently attested
+in Don Quijote (4 hits for "Admiráronse" in the local reference
+corpus). Added to `permitted words.txt` only. Footnote-anchor check
+(union of both pptext buckets covers 1-3432 with zero duplicates,
+zero out-of-range, only the pre-existing 812 gap), curly-quote scan
+(zero curly quotes in either master file), and dash check (this
+page's "nona-" is the expected page-boundary split, already noted
+above) all clean. This page's own suspected-misprint Corrections-log
+item was run through the mandatory 1886 check (file page 499,
+chapter_map 3 Nephi ch.1/2 boundary):
+- "Lamanitas; porque; he aquí" (v.29): 1886 reads "los Lamanitas;
+  porque hé aquí, que muchos..." — no punctuation at all between
+  "porque" and "hé aquí," only a comma after "aquí". Confirmed
+  genuine 1920-only error (spurious semicolon after "porque"). Added
+  to `errors in 1920.txt`. Not a spellcheck matter, so no `permitted
+  words.txt` entry. (Separately, 1886's accented "hé" vs. 1920's
+  unaccented "he" is an ordinary minor accent variation, not logged
+  as a separate error.)

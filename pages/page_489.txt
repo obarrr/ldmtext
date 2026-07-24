@@ -1,0 +1,171 @@
+Página 489
+que se reunieron en este país. Ahora, Lachoneus hizo que se
+reunieran en el país del [3458]Sud, á causa de la gran maldición que
+había caído sobre la [3459]región del Norte;
+    25. Y reuniéndose allí en un cuerpo, y en un solo pais, se
+[3460]fortificaron contra sus enemigos, temiendo las palabras que
+habían sido dichas por Lachoneus, de modo que se arrepintieron allí
+de todos sus pecados; é imploraron la protección del Señor, su
+Dios, para que les librara de sus enemigos, en la época en que
+llegarán á atacarles.
+    26. Y estaban muy afligidos á causa de su enemigo. Y
+[3461]Gidgiddoni hizo que fabricasen armas de guerra de [3462]todo
+género y que se fortalecieran con armaduras, escudos y broqueles,
+según sus instrucciones.
+
+CAPÍTULO 4.
+
+    1. Y aconteció, que hacia el fin del año diez y ocho, habiendo
+las [3463]tropas de los bandidos hecho sus preparativos de guerra,
+empezaron á bajar y salir de las colinas, y de las montañas, y
+del desierto, y sus fortalezas, y sus lugares secretos, y empezaron
+á tomar posesión de los países, tanto del país del [3464]Norte como del
+que estaba al [3465]Sud, y comenzaron á tomar posesión de todas las
+tierras [3466]abandonadas por los Nefitas, y de las ciudades que
+habían quedado desiertas:
+    2. Pero, he aquí, que no encontraron ni animales silvestres,
+ni nunguna caza en las tierras abandonadas por los Nefitas, y
+ni había caza para los bandidos, [3467]excepto en el desierto.
+    3. De modo que faltos de víveres, los ladrones no pudieron
+subsistir excepto en el desierto; porque los Nefitas habían dejado
+desprovistas sus tierras de todo, y habían recogido sus ganados,
+sus rebaños y todo cuanto tenían, y se habían reunido en [3468]un
+solo cuerpo;
+    4. Por lo tanto, no había ninguna oportunidad para los ladrones
+de robar, ni obtener alimentos, como no fuera el venir abiertamente
+á dar la batalla á los Nefitas; y los Nefitas, estando en
+un solo cuerpo de gran número, habían [3469]reservado tantas
+provisiones, [3470]caballos y ganados, y rebaños de toda clase, que se
+hallaban en disposición de subsistir durante siete años, en cuyo
+
+3p, 3458: Sur América.
+3q, 3459: Norte América.
+3r, 3460: Véase c, Alma 28.
+3s, 3461: Véase h.
+3t, 3462: Véase p, Alma 43.
+4a, 3463: Helamán 2:11-13.
+4b, 3464: Norte América.
+4c, 3465: Sur America.
+4d, 3466: III Nefi 3:13-14,22-24.
+4e, 3467: Véase m, I Nefi 18.
+4f, 3468: Véase d.
+4g, 3469: Versículos 16-18.
+4h, 3470: Véase m, I Nefi 18.
+
+Corrections
+[page] Running header "CAP. IV.) III NEFI. 489" discarded.
+[page] Page begins as a mid-verse continuation of v.24 from page 488
+("...que se reunieron en este país."); per the established convention,
+no blank line separates "Página 489" from the first body line.
+[rule 6] Inter-word spacing normalized to a single space throughout,
+including after the sentence-ending periods in "país. Ahora" (v.24)
+and "enemigo. Y" (v.26), which print with a wider (old-style) space in
+the original.
+[rule 7] "forti-" / "ficaron" -> "fortificaron" (v.25) — ordinary
+line-break hyphen, rejoined per rule 7; the rejoined line then measured
+81 characters (over the cap even before considering the footnote
+marker), so rule 8 rebalancing was applied: "[3460]fortificaron" was
+moved to start the next line, and the following two lines were
+rebalanced in turn ("habían" moved up to join "sido dichas...").
+[rule 8] Line "[3461]Gidgiddoni hizo que fabricasen armas de guerra de
+[3462]todo género" measured exactly 73 characters after marker
+insertion — at the cap, not under it — so "género" was moved to start
+the next line; "según" was then moved up in turn to join "sus
+instrucciones."
+[rule 8] Line "un solo cuerpo de gran número, habían [3469]reservado
+tantas pro-" (hyphenated in the image as "pro-/visiones") rejoins to
+"provisiones," which measured 73 characters appended to the first
+line — at the cap, not under it — so "provisiones," was moved to start
+the next line per rule 7; the following line ("[3470]caballos y
+ganados...") absorbed it cleanly at 70 characters, no further cascade.
+[space-width check] "allí en" (v.25, before "un cuerpo") and "y en un
+solo" (v.25, before "pais") both initially looked like possible tight
+merges on a first read, matching the same visual pattern documented on
+pages 479/485/488. Per feedback_narrow_space_vs_merge, measured with a
+pixel column-projection scan rather than eyeballing: "allí|en" measures
+10px, "y|en" measures 10px, and "en|un" (in "y en un solo") measures
+only 5px — all narrow but clearly nonzero, distinct from the 0-2px
+intra-letter kerning gaps on the same line and from a true zero-gap
+merge. Normalized to single spaces per rule 6; no `errors in 1920.txt`
+entry (narrow justification spacing, not a misprint).
+[punctuation marks] Every semicolon-looking mark on this page was
+verified at high zoom for the comma-shaped tail that distinguishes a
+semicolon from a colon (one mark, "desiertas:" at the end of v.1, was
+confirmed to be a genuine colon — round dot only, no tail — while
+"Norte;", "pecados;", "desierto;", "cuerpo;", and "Nefitas;" all showed
+the tail and are semicolons). This matters because a first pass at
+lower zoom misread the "pecados" mark as a colon when the crop cut off
+the tail below it.
+[rule 31] Space before punctuation removed throughout: "Norte ;" ->
+"Norte;", "pecados ;" -> "pecados;", "desierto ;" -> "desierto;",
+"cuerpo ;" -> "cuerpo;", "Nefitas ;" -> "Nefitas;". "desiertas:" had no
+space before the colon in the original.
+[check_line_wrap.py] The script's line-count flag (13 txt lines vs. 37
+OCR lines) is a false positive specific to this page's structure, not a
+reflow indicator: the script stops reading body lines at the first
+blank line in the file, which here is the "CAPÍTULO 4." heading gap
+partway down the page (chapter 3 closes mid-page), not the end of the
+body text — so it only measured the 13 chapter-3-continuation lines
+(v.24-26) against an OCR count covering the whole page's body region.
+The 13-line segment's own length profile (21-68 chars, 3 lines under
+50) shows normal justified-type variation, and every line on the full
+page was read line-by-line from the top/mid/bot crops per rules 5/6.
+[suspected misprint, preserved as printed per rule 32]: v.2 "ni
+nunguna caza" — the image clearly shows "nunguna" (letters n/u
+transposed), not "ninguna"; zoomed and confirmed this is how it
+prints, not a transcription slip. Session E: confirmed against 1886
+(file page 504, book page 486), which reads "ni ninguna caza" —
+genuine 1920-only error, added to `errors in 1920.txt`. Not flagged by
+this run's pptext spellcheck (known brand-new-single-occurrence
+quirk), so no `permitted words.txt` entry.
+[Session E] Fresh pptext regeneration (`report_wsl_20260722b.html`)
+came back clean for this page's new content: the only spellcheck
+suspect anywhere in the document is "Profecia" (from the restored
+Helamán 13 subtitle, page 469 — unrelated to this page). Footnote
+check: merging both anchor buckets gives a clean 1..3470 range, zero
+duplicates, zero out-of-range, only the pre-existing 812 gap.
+Curly-quote scan (zero curly quotes in either master file) and dash
+check (no new findings; book's standard "--" em-dash convention holds)
+both clean. Special situations checks showed nothing in this page's
+line range.
+[fn p-t] Chapter 3's continuing lettering (p-t) reads directly from the
+footnote block at the bottom of the chapter (before "CAPÍTULO 4."):
+"p, Sur América. q, Norte América. r, Véase c, Alma 28. s, Véase h.
+t, Véase p, Alma 43." All five letters are printed as raised
+superscripts with the same small serif/tick styling seen throughout
+this edition (not a digit "2" as an initial fast read suggested for
+the "t, Véase p" entry — zoomed confirmation ruled that out). Body
+marker positions confirmed by content fit: p at "Sud" (v.24, "país del
+Sud" / Sur América), q at "región" (v.24, "región del Norte" / Norte
+América), r at "forti-" (v.25, fortificaron / Alma 28 war chapters),
+s at "Gidgiddoni" (v.26, back-reference to h's own Gidgiddoni note from
+page 488), t at "todo" (v.26, "armas de guerra" / Alma 43's chapters on
+preparing for war).
+[fn a-h] Chapter 4's own lettering (a-h) read directly from the
+footnote block at the bottom of the page against the fn_zoom crop of
+page_0511.png: "a, Helamán 2:11-13. b, Norte América. c, Sur America.
+d, III Nefi 3:13,14,22-24. e, Véase m, I Nefi 18. f, Véase d.
+g, Versículos 16-18. h, Véase m, I Nefi 18." Per rule 23, the
+consecutive verses 13,14 in d's citation were formatted as a
+hyphenated range (13-14). None of this page's own letters (a-h) or
+their cross-reference targets are i/l/1, so no mandatory 1879 check
+applies; all eight assignments confirmed by sequential position plus
+zoom (a at "tropas", b at "Norte", c at "Sud", d at "abandonadas",
+e at "excepto", f at "un", g at "reservado", h at "caballos") and
+strong content fit (a: Helamán 2's Gadianton-robber band matches "las
+tropas de los bandidos"; b/c: direct Norte/Sur América matches; d: III
+Nefi 3's abandoned-lands verses match exactly; e/h: I Nefi 18:25's
+"wild beasts... horses and asses" matches both "ni encontraron...
+animales silvestres" and "caballos y ganados"; f: back-reference to
+d's same gathering-in-one-body theme; g: forward/summary reference to
+provision-storing, printed without a book name).
+[Session B] Independently re-verified all 13 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0511.png (fn_zoom, top,
+mid, bot); all match the page as written, including both footnote
+blocks ("p, Sur América. q, Norte América. r, Véase c, Alma 28.
+s, Véase h. t, Véase p, Alma 43." and "a, Helamán 2:11-13. b, Norte
+América. c, Sur America. d, III Nefi 3:13,14,22-24. e, Véase m, I Nefi
+18. f, Véase d. g, Versículos 16-18. h, Véase m, I Nefi 18.") and all
+13 body marker positions. None of this page's own letters (p-t, a-h)
+or their cross-reference targets (c, h, p, m, d) are i/l/1, so no
+mandatory 1879 check applies. No errors found; no changes made.

@@ -1,0 +1,186 @@
+Página 493
+    4. Y sucedió, que todos los bandidos murieron, sin que se
+escapara ninguno, excepto aquéllos que fueron cogidos prisoneros;
+los que encerraban en prisones, y allí se les predicaba la
+palabra de Dios; y tantos como se arrepintieran de sus pecados,
+é hicieran convenio de que no cometerían más asesinatos, fueron
+puestos en libertad;
+    5. Pero todos los que rehusaron entrar en este convenio,
+conservando en sus corazones el deseo de estos [3476]secretos
+asesinatos; sí, todos los que se les encontraron profiriendo amenzaas
+contra sus hermanos, fueron condenados y castigados según la
+ley.
+    6. Y ellos terminaron de esta manera sus malvadas, secretas
+combinaciones y todos sus abominables planes, que eran fuente
+de tantas iniquidades, y de tantos asesinatos.
+    7. Así concluyeron los años vientidós, vientitrés, vienticuatro,
+y [3477]vienticinco.
+    8. Y habíanse pasado muchas cosas que serían grandes y
+maravillosas á la vista de algunos; no obstante todas ellas no
+pueden escribirse en este libro; sí, porque [3478]este libro no puede
+contener ni la centésima parte de lo que ocurrió entre tanta
+gente, por el espacio de vienticinco años.
+    9. Pero, he aquí, que existen otros [3479]anales que contienen todos
+los actos de este pueblo; de los que solo una pequeña, pero
+verdadera parte ha sido dada por Nefi;
+    10. Por lo tanto, según estos [3480]anales de Nefi que estaban
+grabados en las planchas, llamadas las [3481]planchas de Nefi, he
+hecho mi registro.
+    11. Y, he aquí, que lo escribo en [3482]planchas que he hecho por
+mi propia mano.
+    12. Y, he aquí, que me llaman Mormón, cuyo nombre he
+tomado del [3483]país de Mormón, dónde [3484]Alma estableció la iglesia
+entre el pueblo; sí, la primera iglesia que se estableció entre
+ellos después de su transgresión.
+    13. Y, he aquí, soy [3485]discípulo de Jesu Cristo, el Hijo de Dios.
+Y he sido llamado por Él para anunciar su palabra al pueblo,
+para que pueda alcanzar la vida eterna.
+    14. Y ha venido á ser necesario que yo, según la voluntad de
+Dios, y para que se cumplan los deseos de los que han ido, quiénes
+eran los santos, según su fe, que diese una noticia de las cosas
+que han sucedido;
+
+5a, 3476: Véase i, II Nefi 10.
+5b, 3477: III Nefi 2:8.
+5c, 3478: Versículos 10-11; Palabras de Mormón 1:5-7,9; Helamán 3:14.
+5d, 3479: Helamán 3:13,15-16.
+5e, 3480: Helamán 2:14.
+5f, 3481: Véase f, I Nefi 1.
+5g, 3482: Versículos 14-18; Palabras de Mormón 1:11; Helamán 3:13-17;
+Mormon 1:1;3:16-22;5:9,12,1;7:8-10;8:5,12-16.
+5h, 3483: Véase b, Mosíah 18.
+5i, 3484: Mosíah 18.
+5j, 3485: Probablemente uno de los sucesores de los Doce Dicípulos
+entre los Nefitas.
+
+Corrections
+[page] Running header "CAP. V.) III NEFI. 493" discarded.
+[page] Page begins as a mid-verse continuation of v.4 (chapter 5
+opened on page 492); per the established convention, no blank line
+separates "Página 493" from the first body line.
+[rule 7] Hyphenated line-break split rejoined: "prison-/eros" ->
+"prisoneros" (see suspected-misprint note below — the rejoined form
+is missing an "i"); "asesi-/natos" -> "asesinatos", triggering a rule
+8 rebalancing cascade (see below).
+[rule 8] The line "conservando en sus corazones el deseo de estos
+[3476]secretos asesinatos;" reached 73 chars once rejoined; the whole
+word "asesinatos;" was moved to the start of the next line instead.
+[rule 31] Space before punctuation removed throughout: "prisoneros ;"
+-> "prisoneros;", "Dios ; y" -> "Dios; y", "libertad ;" -> "libertad;",
+"asesi-natos ; sí" -> "asesinatos; sí", "pueblo ; de" -> "pueblo; de",
+"Nefi ;" -> "Nefi;", "algunos ; no" -> "algunos; no", "libro ; sí" ->
+"libro; sí", "pueblo ; sí" -> "pueblo; sí", "sucedido ;" ->
+"sucedido;".
+[suspected misprint, preserved as printed per rule 32]: v.4 "prison-
+eros" (rejoins to "prisoneros", missing the "i" that would give
+"prisioneros") — image confirmed at zoom. Same error pattern as page
+492 v.27's confirmed "prisoneros" for "prisioneros". Verify against
+1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.5
+"amenzaas" for what should read "amenazas" (transposed letters) —
+image confirmed at zoom. Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.7-8
+"vientidós", "vientitrés", "vienticuatro" (v.7) and "vienticinco"
+(v.7 and v.8, two instances) all print "vient-" where the rest of
+librodm.txt consistently uses "veinti-" (8 other instances, e.g.
+"veinticuatro" at line 569) — image confirmed at zoom, all four
+instances on this page read "vient-" clearly, not "veint-". This
+looks like a page-specific compositor error, not a document-wide
+convention. Verify against 1886 in Session E.
+[fn a-g] Letters a-g resolved by direct 1920 image read plus
+independent 1879 confirmation (BOM 1879 Pratt file page 495,
+chapter_map 3 Nephi ch.5): "a, see i, II. Nep. 10." (secret murders,
+v.5); "b, III. Nep. 2:8." (twenty and five years, v.7); "c, vers. 10,
+11. Words of Mor. 1:5-7,9. Hela. 3:14." (this book cannot..., v.8);
+"d, Hela. 3:13,15,16." (records, v.9); "e, Hela. 2:14." (record of
+Nephi, v.10 first); "f, see f, I. Nep. 1." (plates of Nephi, v.10
+second); "g, vers. 14-18. Words of Mor. 1:1-11. Hela. iii. 13-17.
+Mor. 1:1. 3:16-22. 5:9,12,13. 7:8-10. 8:5,12-16." (plates, v.11) —
+all letter-for-letter and content-fit matches. 1879's g citation
+reads "5:9,12,13" (not "5:9,12,1;7") — the 1920 text has what looks
+like a stray/misplaced comma and missing digit ("5:9,12,1;7:8-10"),
+transcribed exactly as printed per rule 32; see suspected-misprint
+note below.
+[suspected misprint, preserved as printed per rule 32]: 5g's citation
+"Mormón 1:1;3:16-22;5:9,12,1;7:8-10;8:5,12-16." — the "5:9,12,1;7:8-10"
+segment looks like it should read "5:9,12,13;7:8-10" (1879's parallel
+entry reads "5:9,12,13. 7:8-10", i.e. verse 13, not "1" followed by a
+semicolon before "7:8-10"), an apparent dropped "3". Transcribed
+exactly as printed; not correctable via rule 34 (that rule only
+covers roman-numeral "I" misread as digit "1" in book/chapter
+references, not a verse-list digit). Verify against 1886/1879 in
+Session E and consider whether this belongs in `errors in 1920.txt`
+even though it's a footnote reference, not body text.
+[fn h,i,j] Letter i is in the mandatory i/l/1 set (both as this
+page's own body marker at v.12 "Alma" and as h's cross-reference
+target letter). Confirmed via BOM 1879 Pratt file page 496
+(chapter_map lists 495, but h/i/j's content lands one page later —
+same "one page later" drift pattern seen on prior pages in this
+book): "h, see b, Mos. 18. i, Mos. 18. j, Probably one of the
+successors of the Twelve Disciples among the Nephites." — matches
+1920's h/i/j letter-for-letter and content-for-content. Same-page
+glyph comparison also done: v.12's h (país) and i (Alma) are visually
+distinct short-stroke-with-dot ("i") vs the surrounding body type;
+independent 1879 confirmation is the controlling evidence per rule
+governing the mandatory check.
+[suspected misprint, preserved as printed per rule 32]: footnote j's
+"Doce Dicípulos" for what should read "Doce Discípulos" (missing "s")
+— image confirmed at zoom on the fn block. This is Block 1 footnote
+reference text, not body text, but rule 32 still applies. Verify
+against 1886/1879 in Session E and consider an `errors in 1920.txt`
+entry despite this being footnote rather than body text.
+[not an error, accent inconsistency] footnote g's "Mormon 1:1"
+(unaccented) appears in the same entry as "Palabras de Mormón 1:11"
+(accented) — image confirmed both readings are as printed; an
+ordinary accentuation inconsistency within one footnote entry, not
+logged as an error (same class as the dónde/donde, solo/sólo
+inconsistencies already established as normal throughout the
+document).
+[not an error] "Jesu Cristo" (v.13, two words, no hyphen) matches the
+established convention used throughout librodm.txt (20+ prior
+instances) — not a page-specific misprint.
+[not an error] "dónde" (v.12, accented, used non-interrogatively) and
+"solo" (v.9, unaccented adverb) both match existing mixed-usage
+patterns already present throughout librodm.txt (dónde/donde and
+solo/sólo both appear many times each) — not page-specific defects.
+[Session B] Independently re-verified all 10 Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0515.png; matches
+Session A exactly, including the "Dicípulos" and unaccented "Mormon
+1:1" readings. Mandatory 1879 check for letter i re-run independently
+from fresh crops of BOM 1879 Pratt file page 496 (chapter_map lists
+495, content lands one page later); reconfirmed "h, see b, Mos. 18.
+i, Mos. 18. j, Probably one of the successors of the Twelve Disciples
+among the Nephites." at the identical v.12/v.13 position. Same-page
+glyph comparison also re-run: v.12's h (país, taller stroke with a
+hook) and i (Alma, short stroke with a separated dot) are clearly
+distinct. No errors found; no changes made.
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260722f.html)
+flagged 6 spellcheck suspects, all from this page: "amenzaas", "Dicípulos",
+"vientidós", "vientitrés", "vienticuatro", "vienticinco". All confirmed as
+genuine 1920-only errors against 1886 (file page 507/508, chapter_map III
+Nefi ch.5) plus RAE (WebSearch), the local reference corpora (zero hits for
+any of the six malformed spellings), and the modern LDS Spanish edition
+(3 Nefi 5, fetched directly): 1886 has "prisioneros" (v.4, also confirmed
+error — not itself flagged by pptext this run, same known
+brand-new-single-occurrence quirk as III Nefi 4:27's identical error),
+"amenazas" (v.5), "veinte y dos"/"veinte y tres"/"veinte y cuatro"/
+"veinte y cinco" as three-word phrases (v.7-8 — 1920's own established
+"veinti-" contraction convention, used correctly 8 other places in this
+document, is itself fine; the specific defect is "vient-" for "veint-").
+Footnote j's "Dicípulos" (missing "s") has no 1886 comparison available
+(1886 carries no footnote apparatus) but is confirmed by internal
+consistency (correct "discípulo" appears in this same page's v.13 and 8
+other places in the document) and RAE (no entry for "dicípulo"). All 6
+flagged words added to `permitted words.txt`; all 6 corresponding errors
+(including the split "prisoneros" and the two-instance "vienticinco") added
+to `errors in 1920.txt`, along with footnote g's citation defect
+("5:9,12,1;7:8-10" for "5:9,12,13;7:8-10", confirmed against 1879's
+parallel entry — a dropped "3"). Footnote-anchor check (full-document,
+regex scan of `[NNN]`): max 3485, zero duplicates, zero out-of-range,
+only the pre-existing 812 gap. Curly-quote scan (zero curly quotes in
+either master file) and a letter-hyphen-letter compound scan (page 493's
+body text has no hyphens at all, post-rejoin) both clean. Checked the
+"full stop followed by unexpected sequence" and "paragraph ends in comma"
+pptext sections for any hits in this page's line range (22067-22107 in
+librodm.txt) — none found; all hits in those sections belong to
+already-resolved earlier pages.

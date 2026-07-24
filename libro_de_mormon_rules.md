@@ -15,6 +15,54 @@
    blank line before and after.
 4. Verses flow as continuous paragraphs.
 
+**Chapter/book subtitles — always transcribe, never omit (corrected
+2026-07-22).** Many chapter and book openings print an additional
+descriptive line — sometimes bold small-caps (e.g. Helamán 7's
+"PROFECÍA DE NEFI, HIJO DE HELAMÁN.", page 453), sometimes italic
+mixed-case (e.g. Helamán 13's "Profecía de Samuel, el Lamanita, á los
+Nefitas.", page 469) — immediately before or after the
+`CAPÍTULO N.`/book-name heading, occasionally followed by a longer
+descriptive paragraph as well (Helamán 7 has a 4-line argument after
+its subtitle). These subtitles are NOT limited to whole-book title
+pages: the same convention covers an entire book, a single book, a
+span of several chapters, one chapter, or even just part of a chapter.
+**Always transcribe every one of these exactly as printed**, on its
+own line with blank-line separators (the same "blank line, text, blank
+line" convention used for book-name headers), regardless of what level
+it applies to. Never assume a chapter has no subtitle just because
+neighboring chapters don't — some chapters have one and some don't,
+with no reliable pattern (Helamán 8-12 have none; 7 and 13 do) — always
+check the actual image at each new chapter opening.
+
+1920's placement of a subtitle relative to the chapter number can
+differ from 1879/1886: 1920 sometimes prints `CAPÍTULO N.` BEFORE the
+subtitle (confirmed at Helamán 7 and 13), while 1879/1886 consistently
+print the subtitle first, before the chapter number, in those same
+spots. This is a genuine, repeatable 1920 house-style difference, not
+a transcription error — transcribe in whatever order 1920 actually
+prints, never reorder to match 1879/1886. Do not modernize or supply
+missing accents in a subtitle; transcribe exactly as printed (rule 32)
+like any other text, but do check the corresponding 1879/1886 wording
+and note any substantive discrepancy (missing accents, reordering,
+wording differences) in `errors in 1920.txt`, even though the
+page-level ordering difference itself is not logged as an error.
+
+**Confirmed failure mode (2026-07-17 through 2026-07-22, Helamán 13,
+page 469):** Helamán 13's own subtitle was omitted from the body text
+entirely, justified in the page's Corrections log as analogous to rule
+19's precedent of skipping a subtitle line when picking a `LIBRO DE
+X`-style header for `librodm_foot.txt`. That analogy was wrong: rule
+19 (Section 4) is narrowly about which single line becomes the short
+header text in a completely different file (the Block 1 footnote
+listing) — it has never governed what belongs in the body text itself,
+and every subtitle-like line encountered while transcribing the body
+belongs there per this rule, independent of whatever gets picked out
+later as a Block 1 header. The omission also rested on a false premise
+("no chapter-heading subtitle has been transcribed on any completed
+page so far") that was already contradicted by Helamán 7's subtitle,
+transcribed correctly back on page 453. Restored 2026-07-22 in both
+`pages/page_469.txt` and `librodm.txt`.
+
 ---
 
 ## 2. Body Text — Line Wrapping
@@ -90,6 +138,35 @@
    `errors in 1920.txt`. Only treat a tight word-pair as a genuine
    merge — with no space inserted, per rule 32 — when zoomed inspection
    confirms there is truly no gap between the letters at all.
+   **Default to two words when 1886/grammar says two words (editor
+   guidance, 2026-07-22):** don't lean on zoom/pixel-measurement analysis
+   to decide this call at all, and don't default to writing it as one
+   merged word. If 1886 prints the corresponding text as two separate
+   words (or the phrase is simply not a word any other way — grammar
+   requires two words there), transcribe it as two words with a normal
+   single space, exactly as if it were any other inter-word gap — this
+   is the default even if the 1920 image looks, at a glance or even
+   under zoom, like it could be a single run-together word. Note the
+   spot in the page's Corrections log at transcription time
+   (book/chapter/verse, the two words involved) as usual, but do NOT
+   raise it to the editor as a standalone question during Sessions
+   A-D — those sessions should run through without stopping for this.
+   Instead, surface every such note collected across the page as part
+   of Session E's summary to the editor (grouped with that session's
+   other findings), so the editor can double-check against the actual
+   page whenever convenient, without it holding up integration/Block 2
+   generation. Write "que fueron," not "quefueron," immediately in
+   Session A either way — the editor's later review is a check on an
+   already-committed default, not a gate before proceeding.
+   Reserve the true zero-space "merge, preserved as printed" treatment
+   (rule 32) for the rare case where 1886 ALSO merges the same two words
+   (matching page 474's "esesto" precedent) or no two-word reading makes
+   sense at all — not for "the pixels looked like zero gap to me." See
+   `feedback_narrow_space_vs_merge`: even a carefully-isolated pixel
+   column-projection measurement (page 490 v.12, "que fueron") was
+   overridden by the editor's direct look at the page, so pixel analysis
+   has proven to be the wrong tool for settling this call by itself —
+   1886/grammar plus an editor flag is more reliable and much less work.
 7. Hyphenated word at end of line: remove the hyphen and rejoin the word.
    Any punctuation immediately attached to the second half (e.g. a comma
    or period directly after the word fragment) travels with the rejoined
@@ -193,6 +270,16 @@ is generated in a later review pass, not during initial transcription.
     applies here if it's convenient, but is not enforced).
 19. If a new book of the Book of Mormon begins within the block, insert
     the book name on its own line with a blank line above and below it.
+    **Scope note:** this rule and its "ignore subtitle lines" guidance
+    below apply ONLY to picking the single header line used here in
+    Block 1 (`librodm_foot.txt`) — they say nothing about the body
+    text in `librodm.txt`. Every subtitle/argument line encountered
+    while transcribing the body belongs there regardless of what gets
+    picked as this header (see Section 1's chapter/book subtitle rule);
+    do not use this rule as precedent for omitting anything from the
+    body text. (This distinction was missed once — see the Helamán 13
+    failure mode documented in Section 1 — so it is spelled out here
+    too.)
 20. Chapter boundaries within the same book do NOT get a blank line in
     Block 1.
 
@@ -272,9 +359,22 @@ stripped. This matches the headers already present in `librodm_foot.txt`
     (e.g. "fileles"→"fieles", "hahogó"→"ahogó", "coro"→"oro",
     "Covenios"→"Convenios").
 31. Remove spaces before punctuation — this applies to original print spaces
-    as well as OCR-added ones. No space between the last letter of a word
-    and the following comma, semicolon, or colon.
-    (e.g. "dijo :" → "dijo:", "sí ," → "sí,", "jamás ;" → "jamás;").
+    as well as OCR-added ones, with NO exception for a run of pages where the
+    1920 print itself consistently sets a space before a mark. No space
+    between the last letter of a word and the following comma, semicolon,
+    colon, exclamation mark, or question mark.
+    (e.g. "dijo :" → "dijo:", "sí ," → "sí,", "jamás ;" → "jamás;",
+    "cielo !" → "cielo!").
+    **(2026-07-24, user correction, pages 496-502):** a run of Session E
+    notes wrongly declared "space before ; and !" an "established
+    recent-pages convention" to be preserved as printed, on the theory
+    that it was intentional 1920 house style. This was never actually
+    supported by this rule — rule 31 already named "semicolon" explicitly
+    — and directly contradicted it. Fixed on page 502 (and `librodm.txt`);
+    pages 471-495, which contain earlier sporadic instances of the same
+    pattern, have not been swept yet as of this correction. If a future
+    page shows the same pattern, remove the space; do not re-invent this
+    "established convention" exception again.
 32. Preserve 1920 Spanish spelling conventions exactly: á, vió, fué, etc.
     Do NOT modernize. This includes suspected misprints: **never silently
     substitute what a word or phrase "should" say for what is actually

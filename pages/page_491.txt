@@ -1,0 +1,134 @@
+Página 491
+fatigado por tanto pelear, fué alcanzado y muerto. Y tal fué
+el fin de Giddianhi, el ladrón.
+    15. Y sucedió que los ejércitos de los Nefitas se volvieron á su
+plaza de seguridad. Y se pasó este año diez y nueve sin que los
+ladrones volvieron á atacarles, ni volvieron tampoco en el año
+veinte;
+    16. Y en el año veintiuno, no vinieron á darles batalla, sino
+que lleagaron á ellos por todas partes, para organizar un sitio
+todo al rededor del pueblo de los Nefitas. Porque suponían,
+si les envolvieran por todas partes, cortando sus comunicaciones
+con sus tierras, privándoles así de todos los privilegios del exterior,
+pudieran así obligarles á rendirse según sus deseos.
+    17. Ahora, habían puesto á su cabeza otro jefe llamado
+Zemnaríhah; que era él que les había hecho poner el sitio.
+    18. Pero, he aquí, que esto fué ventajoso para los Nefitas;
+porque era imposible para los ladrones el sostener el sitio bastante
+tiempo para que hiciese efecto sobre los Nefitas, á causa de [3473]las
+muchas provisiones que tenían almacenadas.
+    19. Mientras que los ladrones estaban tan escasos de provisiones,
+que no tenían nada por su sostén, excepto que fuere carne
+la cual obtenían en el desierto.
+    20. Y vino á suceder, que la caza se hizo escasa en el desierto,
+de tal modo que los ladrones se hallaron próximos á perecer de
+hambre.
+    21. Y los Nefitas hacían continuamente salidas de día y de
+noche, cayendo sobre sus ejércitos, y destrozándoles por miles y
+por decenas de miles.
+    22. Y así empezó la gente de Zemnaríhah á querer abandonar
+su designio, á causa de la gran destrucción que sufrían de día y de
+noche.
+    23. Y sucedió que Zemnaríhan mandó á los de su pueblo que
+se retiraran del sitio, y que se pusieran en marcha para las partes
+más lejanas del país del [3474]Norte.
+    24. Y ahora, Gidgiddoni instruido de su propósito, y conociendo,
+su debilidad, causada por la falta de víveres, y por las
+pérdidas enormes que habían sufrido, envió durante la noche á sus
+tropas, les cortó la retirada, y puso entonces á sus ejércitos en
+el camino de su retirada;
+    25. Lo que hicieron durante la noche, avanzando en su marcha
+delante de los ladrones, de modo que en la mañana, cuando
+estos se pusieron en marcha, se encontraron con las fuerzas de
+los Nefitas, tanto á su frente como á su retaguardia.
+    26. Y los bandidos que se hallaban al Sud, fueron también
+
+4k, 3473: Versículo 4.
+4l, 3474: Norte América.
+
+Corrections
+[page] Running header "CAP. IV.)    III NEFI.    491" discarded.
+[page] Page begins as a mid-verse continuation of v.14 from page 490
+("...y hallándose fatigado por tanto pelear..."); per the established
+convention, no blank line separates "Página 491" from the first body
+line.
+[rule 6] Inter-word spacing normalized to a single space throughout,
+including wider (justification) gaps after "muerto." (before "Y tal
+fué"), after "seguridad." (before "Y se pasó"), after "Nefitas."
+(v.16, before "Porque suponían"), and between "todo" and "al" (v.16,
+"todo  al rededor").
+[rule 31] Space before punctuation removed throughout: "veinte ;" ->
+"veinte;", "Zemnaríhah ; que" -> "Zemnaríhah; que", "Nefitas ;" (v.18)
+-> "Nefitas;", "retirada ;" (v.24) -> "retirada;".
+[rule 7] Hyphenated line-break splits rejoined: "ex-/terior," (v.16) ->
+"exterior,"; "pro-/visiones," (v.19) -> "provisiones,"; "cono-/ciendo,"
+(v.24) -> "conociendo,". None of the rejoined lines reached 73 chars,
+so each stays on its first line per rule 7.
+[space-width default, editor guidance 2026-07-22] v.15 "de los
+ejércitos de los Nefitas" — the image prints "de los" (before
+"Nefitas") with little to no visible gap ("delos"). Per the current
+rule 6 default (grammar/1886 says two words; no zoom/pixel analysis,
+no stopping mid-session), transcribed as "de los" with a normal single
+space. Flagged here for Session E's summary per the standing
+instruction, not raised as a standalone question during Sessions A-D.
+[suspected misprint, preserved as printed per rule 32]: v.16
+"lleagaron" for what should read "llegaron" (an extra "a" inserted)
+— image confirmed at zoom; typed exactly as printed. Verify against
+1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.23
+"Zemnaríhan" — every other instance of this name on this page (v.17,
+v.22) reads "Zemnaríhah" (ending in -hah); v.23 alone reads
+"Zemnaríhan" (ending in -han). Confirmed at zoom; typed exactly as
+printed in each spot. Verify against 1886 in Session E.
+[Session E] pptext regeneration (workspace/report_wsl_20260722d.html)
+flagged both "lleagaron" and "Zemnaríhan" as spellcheck/edit-distance
+suspects. Checked against 1886 (file page 506): v.16 reads "llegáron"
+(confirming the 1920 extra "a" is a genuine misprint) and v.23 reads
+"Zemnaríhah" (matching this page's own v.17/v.22 spelling, confirming
+1920's "Zemnaríhan" is a genuine misprint). Both added to `errors in
+1920.txt` and `permitted words.txt`. Footnote-anchor check (max 3474,
+zero duplicates/out-of-range, only the pre-existing 812 gap) and
+curly-quote scan both clean. No hyphens anywhere in this page's body
+text, so no dash-check findings. Pre-existing "Profecia" spellcheck
+flag (page 469) also appeared in this run's report but is unrelated to
+this page.
+[Session E summary — narrow-space flag for editor review] v.15 "de los
+ejércitos de los Nefitas" (before "Nefitas") — the 1920 print shows
+little to no visible gap between "de" and "los." Per the current rule
+6 default, transcribed as "de los" with a normal single space (no
+pixel analysis performed). Surfacing here per the standing instruction
+for the editor's own convenience, not as an open question blocking
+anything.
+[fn k] Chapter 4's continuing lettering (k) read directly from the
+footnote block at the bottom of the page against the fn_zoom crop of
+page_0513.png: "k, Versículo 4." k is not in the mandatory i/l/1 set,
+but was independently cross-checked against BOM 1879 Pratt file page
+493 (chapter_map 3 Nephi ch.4, one page before chapter_map's listed
+491 — "one page later" content drift landed one page earlier than
+usual for this stretch) as a discretionary bonus: 1879 reads "because
+of ᵏtheir much provision which they had laid up in store" with
+footnote block "k, ver. 4." — letter-for-letter and target-for-target
+match. Body marker position confirmed by content fit: k at "las" (v.18,
+"á causa de las muchas provisiones que tenían almacenadas" / v.4's
+seven years of stored provisions).
+[fn l] Letter l IS in the mandatory i/l/1 set. Read directly from the
+footnote block: "l, Norte América." Confirmed via BOM 1879 Pratt file
+page 494 (chapter_map 3 Nephi ch.4, "one page later" content drift),
+which reads at the identical body position "furthermost parts of the
+land ˡnorthward" (v.23) with footnote block "l, North America." —
+letter-for-letter and target-for-target match. Glyph shape also
+independently confirms: a continuous unbroken vertical stroke with no
+separated dot (l), unlike the short-stroke-plus-dot shape of i seen on
+prior pages. Body marker position confirmed by content fit: l at
+"Norte" (v.23, "país del Norte" / "North America").
+[Session B] Independently re-verified both Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0513.png; both match
+Session A exactly. Mandatory 1879 check for letter l re-run
+independently from a fresh crop of BOM 1879 Pratt file page 494;
+reconfirmed "l, North America." at the identical v.23 position
+("furthermost parts of the land ˡnorthward"). Bonus observation: 1879
+spells the name "Zemnarihah" at this same v.23 spot (not "-han"),
+supporting the page's own v.16/v.22 "Zemnaríhah" as the intended
+spelling and v.23's 1920 "Zemnaríhan" as the likely misprint —
+carried forward as evidence for Session E's 1886 check. No errors
+found; no changes made.

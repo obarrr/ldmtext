@@ -1,0 +1,169 @@
+Página 494
+15. Sí, una historia [3486]abreviada de las cosas que han transcurrido
+desde el día en que Lehi dejó á Jerusalem, hasta la época actual;
+16. Por lo que, hago mi relación según las noticias que han
+sido dadas de los que me han precedido, hasta los primeros días
+de mi vida;
+17. Y después, he puesto la [3487]relación de lo que he visto por
+mis propios ojos.
+18 Y sé que la relación que hago es cierta, y que es un registro
+verdadero; sin embargo, hay muchas cosas que según nuestro
+idioma, no podermos escribir.
+19. Ahora, concluyo mi relación que es de mí mismo, y prosigo
+á dar la relación de las cosas que se han verificado delante de mí.
+20. Yo soy Mormón, descendiente directo de Lehi. Tengo
+razón de bendecir á Dios y á Jesu Cristo, mi Salvador, que sacó
+á nuestros padres del país de Jerusalem, (sin que nadie lo supiera
+más que Él mismo, y los que sacó de ese país,) y por haberme
+dado á mi y á mi pueblo, tantos conocimientos para la salvación
+de nuestras almas.
+21. Seguramente el Señor ha bendecido á la casa de Jacob, y
+ha sido misericordioso con los descendientes de José.
+22. Y [3488]en tanto que los hijos de Lehi hayan guardado sus
+mandamientos, han prosperado y han sido benedecidos según
+su palabra;
+23. Sí, seguramente el Señor traerá el [3489]resto de la casa de
+José al conocimiento del Señor, su Dios.
+24. Y tan cierto como Dios vive, Él reunirá de las cuatro partes
+del mundo [3490]todo el resto de los descendientes de Jacob, que
+estén dispersados sobre toda la superficie de la tierra;
+25. Y del mismo modo que ha hecho alianza con toda la casa
+de Jacob, así se cumplirá en su época señalada por Él mismo,
+para restaurar á toda la casa de Jacob al conocimiento de la
+alianza que ha hecho con ella.
+26. Y entonces conocerán á su Redentor, que es Jesu Cristo,
+el Hijo de Dios; y entonces serán recogidos de las cuatro partes
+del mundo en sus propios países, de dónde han sido dispersados;
+sí, como vive el Señor, que así sucederá. Amén.
+
+CAPÍTULO 6.
+
+1. Y sucedió que en el año veintiséis, los Nefitas volvieron á
+sus propias tierras, cada hombre con su propia familia, llevando
+sus ganados, sus [3491]caballos, sus rebaños, y cuanto le pertenecía.
+
+5k, 3486: Véase g.
+5l, 3487: Mormón 1:7.
+5m, 3488: Véase h, II Nefi 1.
+5n, 3489: Véase g, II Nefi 3.
+5o, 3490: Véase e, I Nefi 15.
+6a, 3491: Véase m, I Nefi 18.
+
+Corrections
+[page] Running header "494 III NEFI. (CAP. VI." discarded.
+[page] Page begins with a fresh verse (v.15) at the top; no chapter
+heading present, so no blank line separator per rule 1.
+[indentation] Verse-start lines are transcribed flush left with no
+leading spaces, matching the overwhelming majority convention across
+the corpus (spot-checked pages 437, 440, 460, 470, 479-481, 483,
+486-488, all flush left); page 493's 4-space indent on its opening
+line appears to be an isolated inconsistency, not the standard.
+[rule 6, narrow-space-vs-merge default] v.15 "delas" (image shows no
+visible gap between "de" and "las") — grammar requires two words;
+transcribed "de las" per the 2026-07-22 editor default, no zoom/pixel
+analysis performed. Noted here per that rule; not raised as a
+standalone question during Sessions A-D.
+[scan artifact, not transcribed] v.15 "el.día": image shows a small
+dot squarely between "el" and "día" with no surrounding space,
+unlike a normal printed period (which sits flush against the
+preceding letter with a following word-space). Treated as a stray
+ink/dust artifact, same class as pages 483/490/492's floating-dot
+precedent; transcribed as "el día".
+[scan artifact, not transcribed] v.16 "vida ; ·": a small isolated
+dot floats just after the "vida;" line, disconnected from any
+letter. Treated as a stray ink artifact, not transcribed.
+[scan artifact, not transcribed] v.18 "hay. muchas": a small dot
+appears between "hay" and "muchas" with no sentence-ending
+justification (the sentence continues). Treated as a stray ink
+artifact, not transcribed; transcribed as "hay muchas".
+[scan artifact, not transcribed] v.20 "soy·Mormón": a small raised
+dot/blob floats between "soy" and "Mormón" at superscript height,
+with no corresponding Block 1 entry anywhere on the page (only k-o
+and 6a exist, all accounted for). Treated as a stray ink artifact,
+not a footnote marker; transcribed as "soy Mormón". [Session E: 1886
+(file page 509, book page 491) confirms plain "Yo soy Mormón," with no
+mark at all between the words — supports the scan-artifact call.]
+[suspected misprint, preserved as printed per rule 32]: v.18 "18"
+lacks the period every other verse number on this page has (15.,
+16., 17., 19., 20., 21., 22., 23., 24., 25., 26., 6:1.) — image
+confirmed at zoom, no period present. Verify against 1886 in
+Session E (likely a typesetting/formatting matter rather than a
+spelling error, but flagged per rule 32 regardless).
+[suspected misprint, preserved as printed per rule 32]: v.18
+"podermos" for what should read "podemos" — image confirmed at zoom.
+Same error pattern as the already-confirmed Helamán 16:20 "podermos"
+(page 480). Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.22
+"benedecidos" for what should read "bendecidos" (extra "e") — image
+confirmed at zoom; compare with this same page's correctly-spelled
+"bendecido" at v.21. Verify against 1886 in Session E.
+[fn k-o] Letters k-o (chapter 5's continuing lettering) resolved by
+direct 1920 image read plus independent 1879 confirmation (BOM 1879
+Pratt file page 496, chapter_map 3 Nephi ch.5 lists 495, content
+lands one page later — same "one page later" drift pattern seen
+throughout this book): "k, see g. l, Mor. 1-7. m, see h, II. Nep. 1.
+n, see g, II. Nep. 3. o, see e, I. Nep. 15." — matches 1920
+letter-for-letter and target-for-target. Letter l is in the mandatory
+i/l/1 set (this page's own letter, direct citation "Mormón 1:7", no
+Véase); confirmed via this same 1879 page, which also uses "l" at
+the identical position with the identical citation.
+[fn 6a] Chapter 6's own letter a (its own body marker at v.1
+"caballos") resolved via independent 1879 confirmation (BOM 1879
+Pratt file page 497, chapter_map 3 Nephi ch.6 lists 497, content
+lands on this exact file page): "a, see m, I. Nep. 18." — matches
+1920 letter-for-letter and target-for-target.
+[not an error] "Jesu Cristo" (v.20, v.26, two words, no hyphen)
+matches the established convention used throughout librodm.txt
+(20+ prior instances) — not a page-specific misprint.
+[check_line_wrap.py note] The script's line-count flag (36 txt vs 38
+OCR) is a false positive: `txt_body_lines()` stops counting at the
+first blank line, which on this page falls right before the chapter-
+5/chapter-6 boundary (CAPÍTULO 6.) — so it never counts this page's
+final 3 lines (chapter heading + ch.6 v.1's 3 lines), while the OCR
+count covers the whole page. Manual count of all image lines
+(top+mid+bot, deduplicating overlaps) is 39, matching the OCR's 38
+within ordinary noise. Not a reflow issue; a known script limitation
+on pages with a mid-page chapter boundary.
+[Session B] Independently re-verified all 6 Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0516.png; matches
+Session A exactly. Mandatory 1879 check for letter l re-run
+independently via a fresh `process_page.py` call on BOM 1879 Pratt
+file page 496 (chapter_map lists 495, content lands one page later);
+reconfirmed "k, see g. l, Mor. 1-7. m, see h, II. Nep. 1. n, see g,
+II. Nep. 3. o, see e, I. Nep. 15." at the identical position. Same-page
+glyph comparison also re-run: the fn block's k (short stroke with a
+diagonal leg), l (plain continuous vertical stroke, no dot), and m
+(wavy squiggle) are all visually distinct from one another, and l's
+shape matches the established continuous-stroke "l" pattern (not the
+short-stroke-plus-separated-dot "i" pattern). No errors found; no
+changes made.
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260722g.html)
+flagged 1 spellcheck suspect from this page, "benedecidos" (v.22) —
+confirmed genuine 1920-only error against 1886 (file page 509, book
+page 491, chapter_map III Nefi ch.6 lists 497 -> content lands here):
+1886 reads "bendecidos," matching this same page's own correctly-
+spelled "bendecido" at v.21; RAE has no entry for "benedecido/a," only
+"bendecido/a"; zero hits for "benedecidos" in the local reference
+corpora. Added to `errors in 1920.txt` and `permitted words.txt`.
+"podermos" (v.18) was NOT in this run's Spellcheck Suspect Words
+section, but not for the "brand-new single-occurrence" reason seen on
+earlier pages — it's already blanket-suppressed by the existing
+Helamán 16:20 `permitted words.txt` entry. 1886 (file page 509)
+confirms "no podemos escribir" at this exact verse — a different
+correction than Helamán 16:20's "podremos" (that page's own 1886
+reading), so this is logged as its own `errors in 1920.txt` entry
+despite the shared surface typo. Also confirmed via 1886: v.18's "18"
+lacks the period that 1886 prints ("18.") and that every other verse
+number on this 1920 page has — added to `errors in 1920.txt`. The
+narrow-space-vs-merge default applied at v.15 ("delas" -> "de las")
+is confirmed correct: 1886 prints "de las cosas" as two words at the
+identical spot. The three other scan-artifact calls (v.15 "el.día",
+v.16 "vida ; ·", v.18 "hay. muchas") are also confirmed: 1886 shows
+plain unmarked text at every one of those spots ("el dia", "vida;"
+line-end, "hay muchas cosas"), with no period/dot of any kind.
+Footnote-anchor check (full-document, regex scan of `[NNN]`): max
+3491, zero duplicates, zero out-of-range, only the pre-existing 812
+gap. Curly-quote scan (zero curly quotes in either master file) clean;
+this page's body text has no hyphens at all, so no dash-check findings.
+Jeebies clean. No `permitted words.txt` mirroring gaps found for any
+pre-existing error on this page.

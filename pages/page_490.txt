@@ -1,0 +1,127 @@
+Página 490
+período de tiempo tenían la esperanza de limpiar completamente
+el país de estos bandoleros. Y así concluyó el año diez y ocho.
+    5. Y sucedió, que en el año diez y nueve, Giddianhi se vió en
+la necesidad de atacar á los Nefitas, porque no le quedaba otro
+medio de subsistir sino el robo, el pillaje y el asesinato.
+    6. Y no se atrevían á esparcirse por el país para sembrar las
+tierras y recoger sus frutos; por miedo de que los Nefitas no
+vinieran á caer sobre ellos y matarles. Por cuyo motivo, Giddianhi
+hizo saber á sus tropas que en este año irían á atacar á los Nefitas.
+    7. Y vino a suceder, que fueron los bandidos á dar batalla
+en el sexto mes; y, he aquí, que fué grande y terrible el día en
+que dieron la batalla; y se hallaban ceñidos al estilo de los
+salteadores, con una piel de carnero al rededor de sus lomos,
+y estaban teñidos de sangre; teniendo afeitadas las cabezas, y
+cubiertas de cascos; y grande y terrible era la apariencia de las
+tropas de Giddianhi, á causa de sus armaduras, y á causa de la
+sangre de que estaban teñidos.
+    8. Y vino á suceder, que cuando los ejércitos de los Nefitas
+vieron la apariencia de los ejércitos de Giddianhi, cayeron todos
+al suelo, levantando al Señor, su Dios, sus clamores para que les
+salvara y les librara de las manos de sus enemigos.
+    9. Y vino á suceder, que cuando los ejércitos de Giddianhi
+vieron esto, empezaron á gritar de alegría, suponiendo que los
+Nefitas habían caído por el temor, á causa del terror de sus
+ejércitos.
+    10. Pero se engañaron en esto, porque los Nefitas no tenían
+ningún miedo de ellos, sino que temían á su Dios, y le pedían
+que les protegiera; por lo tanto, cuando las tropas de Giddianhi
+vinieron á atacarles, ya se hallaban preparados para hacerles
+frente; sí, les recibieron en la fuerza del Señor.
+    11. Y empezó la batalla en el sexto mes y fué grande y terrible
+la batalla, sí, grande y terrible fué la carnicería, de tal modo que
+nunca se había visto una carnicería tan grande entre todo el
+pueblo de Lehi, desde que salió de Jerusalem.
+    12. Y no obstante las [3471]amenazas y juramentos de Giddianhi,
+he aquí, que fueron batidos por los Nefitas, de modo que tuvieron
+que retroceder delante de ellos.
+    13. Y sucedió que [3472]Gidgiddoni dió la orden á sus ejércitos de
+que les persiguieran hasta los confines del desierto, y que no
+perdonaran á ninguno de los que cayeran en sus manos en el
+camino; lo que hicieron los Nefitas, persiguiéndoles y matándoles
+hasta los confines del desierto, hasta el cumplimiento de la
+orden de Gidgiddoni.
+    14. Y sucedió que Giddianhi, que se había parado y peleado
+con intrepidez, fué perseguido cuando se huyó, y hallándose
+
+4i, 3471: III Nefi 3:4-10.
+4j, 3472: Véase h, III Nefi 3.
+
+Corrections
+[page] Running header "490    III NEFI.    (CAP. IV." discarded.
+[page] Page begins as a mid-verse continuation of v.4 from page 489
+("...período de tiempo tenían la esperanza..."); per the established
+convention, no blank line separates "Página 490" from the first body
+line.
+[rule 6] Inter-word spacing normalized to a single space throughout,
+including the wider (old-style) spaces after "bandoleros." (v.4, before
+"Y así"), after "matarles." (v.6, before "Por cuyo"), and between "con"
+and "una" (v.7, "con  una piel").
+[rule 31] Space before punctuation removed throughout: "frutos ;" ->
+"frutos;", "mes ;" -> "mes;", "batalla ;" -> "batalla;", "sangre ;" ->
+"sangre;", "cascos ;" -> "cascos;", "protegiera ;" -> "protegiera;",
+"frente ;" -> "frente;", "camino ;" -> "camino;".
+[space-width check] Two tight word-pairs on this page initially looked
+like possible merges on a first read: "caer sobre" (v.6) and "Por cuyo"
+(v.6). Per feedback_narrow_space_vs_merge, measured with a pixel
+column-projection scan rather than eyeballing: "caer|sobre" measures 5px
+and "Por|cuyo" measures 6px — both narrow but clearly nonzero, distinct
+from the 1-2px intra-letter kerning gaps on the same line, and matching
+the established narrow-but-real-space pattern (cf. pages 479/485/488/489).
+1886 (file page 504) confirms both as ordinary two-word spacing ("caer
+sobre ellos" / "Por cuyo motivo"). Normalized to single spaces per rule
+6; no `errors in 1920.txt` entry.
+[space-width check, editor override 2026-07-22]: v.12 "que fueron" — a
+pixel column-projection scan had found no measurable gap between "que"
+and "fueron" and this was initially logged as a genuine zero-space merge
+("quefueron"), matching 1886's "que fuéron" only in wording, not spacing.
+The editor reviewed the actual page directly and determined there is
+enough space to read as two words — corrected to "que fueron" in the
+transcription (and in `librodm.txt`); the `errors in 1920.txt` and
+`permitted words.txt` entries for "quefueron" were both removed as no
+longer applicable. See `feedback_narrow_space_vs_merge` — this is now the
+fourth recurrence of this exact judgment call going the editor's way
+over a Claude-side merge/gap-width finding.
+[suspected misprint, preserved as printed per rule 32]: v.7 "vino a
+suceder" — the "a" prints with no accent, unlike the otherwise-identical
+construction "vino á suceder" used twice more on this same page (v.8,
+v.9) and in 1886's parallel v.7 ("vino á suceder que fuéron los
+bandidos", file page 505/book 487). Session E: checked the full
+`librodm.txt` for this exact construction and found "vino a suceder"
+(unaccented) already appears at least 4 other times throughout the
+document (e.g. I Nefi 17:4, II Nefi 5:3, Alma 21:28, Alma 51:35 —
+line hits at 8445/8634/13581/16956 in the pptext report), none of which
+have ever been logged in `errors in 1920.txt` — this is an established,
+recurring accentuation inconsistency in the document's own typesetting,
+not a page-490-specific misprint, so NOT added to `errors in 1920.txt`.
+[fn i-j] Chapter 4's continuing lettering (i, j) read directly from the
+footnote block at the bottom of the page against the fn_zoom crop of
+page_0512.png: "i, III Nefi 3:4-10.   j, Véase h, III Nefi 3." Both
+letters are mandatory-check letters (i is in the i/l/1 set); confirmed
+via BOM 1879 Pratt file page 493 (chapter_map 3 Nephi ch.4), which
+reads at the identical body positions: "notwithstanding the ithreatenings
+and the oaths" (v.12) and "that jGidgiddoni commanded" (v.13), and its
+own footnote block "i, III. Nep. 3:4-10.   j, see h, III. Nep. 3." —
+letter-for-letter and target-for-target match. Body marker positions
+confirmed by content fit: i at "amenazas" (v.12, "amenazas y juramentos
+de Giddianhi" / III Nefi 3:4-10, Giddianhi's threatening letter to
+Lachoneus), j at "Gidgiddoni" (v.13, back-reference to III Nefi 3's own
+letter h, where Gidgiddoni is first introduced/appointed chief captain).
+Glyph shapes also independently confirm the letters: the v.12 mark is a
+short stroke with a separated dot sitting on the baseline (i), while the
+v.13 mark has a curved descender below the baseline (j).
+[Session B] Mandatory 1879 check for letter i re-run independently from
+a fresh crop of BOM 1879 Pratt file page 493; reconfirmed both i and j
+exactly as above, including body marker positions and footnote-block
+wording. No errors found; no changes made.
+[check_line_wrap.py] Flagged a +2 line-count difference (45 txt lines vs
+43 OCR-estimated). Reviewed against the source: the page was read as
+three contiguous, slightly-overlapping crops (top/mid/bot) covering
+0-90% of the page with every line counted directly off the image at
+each stage (16 lines in top, 17 new lines in mid, 12 new lines in bot =
+45), not composed as prose. The two shortest lines on the page
+("ejércitos." at 10 chars and "orden de Gidgiddoni." at 20 chars) are
+the likely source of Tesseract's undercount (short verse-ending lines
+are a common OCR line-merge point) — a known limitation the script
+itself disclaims, not a reflow indicator.

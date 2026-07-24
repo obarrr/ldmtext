@@ -3692,3 +3692,137 @@ III NEFI
 1x, 3428: Helamán 14:5.
 1y, 3429: Véase u, II Nefi 9.
 1z, 3430: Véase o, II Nefi 25.
+1-2a, 3431: Helamán 2:11-13.
+2a, 3432: Helamán 14:3-7; III Nefi 1:8,13-21.
+2b, 3433: Mosíah 29:46-47.
+2c, 3434: Véase a.
+2d, 3435: Versículo 7.
+2e, 3436: III Nefi 1:2-3.
+2f, 3437: Véase h, Omni 1.
+2g, 3438: Helamán 2:11-13.
+2h, 3439: Véase m, Mosíah 29.
+2i, 3440: Véase d, I Nefi 2.
+2j, 3441: Véase f, II Nefi 30.
+2k, 3442: Helamán 2:11-13.
+3a, 3443: III Nefi 1:1.
+3b, 3444: Véase m, Mosíah 29.
+3c, 3445: Véase i, II Nefi 10.
+3d, 3446: Véase i, II Nefi 10.
+3e, 3447: Versículos 22-24.
+3f, 3448: Véase c, Alma 48.
+3g, 3449: Helamán 2:11-13.
+3h, 3450: Versículos 20-21,26; III Nefi 4:13,24,26.
+3i, 3451: III Nefi 1:1.
+3j, 3452: Véase m, I Nefi 18.
+3k, 3453: Véase l, Alma 18.
+3l, 3454: Versículos 13,23-24.
+3m, 3455: Véase h, Omni 1.
+3n, 3456: Véase 2k, Alma 22.
+3o, 3457: Véase 2l, Alma 22.
+3p, 3458: Sur América.
+3q, 3459: Norte América.
+3r, 3460: Véase c, Alma 28.
+3s, 3461: Véase h.
+3t, 3462: Véase p, Alma 43.
+4a, 3463: Helamán 2:11-13.
+4b, 3464: Norte América.
+4c, 3465: Sur America.
+4d, 3466: III Nefi 3:13-14,22-24.
+4e, 3467: Véase m, I Nefi 18.
+4f, 3468: Véase d.
+4g, 3469: Versículos 16-18.
+4h, 3470: Véase m, I Nefi 18.
+4i, 3471: III Nefi 3:4-10.
+4j, 3472: Véase h, III Nefi 3.
+4k, 3473: Versículo 4.
+4l, 3474: Norte América.
+4m, 3475: Véase i, II Nefi 10.
+5a, 3476: Véase i, II Nefi 10.
+5b, 3477: III Nefi 2:8.
+5c, 3478: Versículos 10-11; Palabras de Mormón 1:5-7,9; Helamán 3:14.
+5d, 3479: Helamán 3:13,15-16.
+5e, 3480: Helamán 2:14.
+5f, 3481: Véase f, I Nefi 1.
+5g, 3482: Versículos 14-18; Palabras de Mormón 1:11; Helamán 3:13-17;
+Mormon 1:1;3:16-22;5:9,12,1;7:8-10;8:5,12-16.
+5h, 3483: Véase b, Mosíah 18.
+5i, 3484: Mosíah 18.
+5j, 3485: Probablemente uno de los sucesores de los Doce Dicípulos
+entre los Nefitas.
+5k, 3486: Véase g.
+5l, 3487: Mormón 1:7.
+5m, 3488: Véase h, II Nefi 1.
+5n, 3489: Véase g, II Nefi 3.
+5o, 3490: Véase e, I Nefi 15.
+6a, 3491: Véase m, I Nefi 18.
+6b, 3492: Norte América.
+6c, 3493: Sur América.
+6d, 3494: III Nefi 5:4.
+6e, 3495: Véase h, III Nefi 3.
+6f, 3496: III Nefi 1:1; 3:1.
+6g, 3497: Helamán 14:24; III Nefi 8:13.
+6h, 3498: Helamán 6:8.
+6i, 3499: Versículos 21,22,27; Alma 10:14-15,17,27,32; 14:5,18,23,27.
+6j, 3500: III Nefi 2:8.
+6k, 3501: III Nefi 1:1.
+6l, 3502: Véase g, Mosíah 26.
+6m, 3503: Véase i.
+6n, 3504: Véase i.
+6o, 3505: Véase g, Mosíah 26.
+6p, 3506: Versículo 19.
+6q, 3507: Versículo 19.
+6r, 3508: Véase h, Omni 1.
+6s, 3509: Véase e, Mosíah 29.
+6t, 3510: Véase i.
+6u, 3511: Véase g, Mosíah 26.
+6v, 3512: Véase m, Mosíah 29.
+7a, 3513: Véase i, II Nefi 10.
+7b, 3514: III Nefi 5:7.
+7c, 3515: Véase i, II Nefi 10.
+7d, 3516: Versículo 19; III Nefi 6:23-25.
+7e, 3517: Versículo 8.
+7f, 3518: Versículo 15.
+7g, 3519: III Nefi 19:4.
+7h, 3520: Versículo 19.
+7i, 3521: Véase u, II Nefi 9.
+7j, 3522: Véase u, II Nefi 9.
+8a, 3523: III Nefi 23:7,12.
+8b, 3524: III Nefi 7:19-20.
+8c, 3525: III Nefi 2:8.
+8d, 3526: Versículo 23; I Nefi 19:10; Helamán 14:20,27; III Nefi 10:9.
+8e, 3527: III Nefi 2:8.
+8f, 3528: Véase v, Helamán 14.
+8g, 3529: Véase s, Helamán 14.
+8h, 3530: Véase k, I Nefi 19.
+8i, 3531: Véase h, Omni 1.
+8j, 3532: Véase k, Alma 50.
+8k, 3533: Versículo 25; Helamán 12:17; III Nefi 9:5.
+8l, 3534: Sur América.
+8m, 3535: Norte América.
+8n, 3536: Véase v, Helamán 14.
+8o, 3537: Versículo 16; III Nefi 10:13-14.
+8p, 3538: Véase s, Helamán 14.
+8q, 3539: Véase k, I Nefi 19.
+8r, 3540: Véase g, III Nefi 6.
+8s, 3541: I Nefi 12:4.
+8t, 3542: I Nefi 12:4.
+8u, 3543: I Nefi 12:4.
+8v, 3544: I Nefi 12:4.
+8w, 3545: Versículo 12.
+8x, 3546: Véase v, Helamán 14.
+8y, 3547: Véase s, Helamán 14.
+8z, 3548: Véase k, I Nefi 19.
+8-2a, 3549: Véase t, Helamán 14.
+8-2b, 3550: Helamán 14:22.
+8-2c, 3551: Véase s, Helamán 14.
+8-2d, 3552: Véase k, I Nefi 19.
+8-2e, 3553: Versículo 5.
+8-2f, 3554: Véase v, Helamán 14.
+8-2g, 3555: Tiempo de la crucifixión.
+8-2h, 3556: Tinieblas empezaron cuando Cristo expiró.
+8-2i, 3557: Versículos 3,22-23; I Nefi 12:5; 19:11; Helamán 14:20,27;
+III Nefi 10:9.
+8-2j, 3558: Véase i, I Nefi 19.
+8-2k, 3559: Versículo 8; Helamán 13:12-14.
+8-2l, 3560: Véase k.
+9a, 3561: I Nefi 19:11.

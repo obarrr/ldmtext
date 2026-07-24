@@ -1,0 +1,91 @@
+Página 499
+13. Y fué tan rápida su marcha, que no pudieron detenerla,
+hasta que se vieron fuera del alcance del pueblo. Y así concluyó
+el año treinta ; y tal era el estado de los negocios del pueblo de
+Nefi.
+14. Y vino á suceder que hallábanse todavía divididos en
+tribus en el año treinta y uno, cada hombre según su familia,
+parientes y amigos ; no obstante, se habían convenido en no
+hacerse la guerra entre ellos ; pero no estaban unidos en lo que
+concernía á sus leyes, y su forma de gobierno, porque se habían
+establecido según la voluntad de sus jefes y directores. Pero
+estableciendo muy estrictas leyes, para que ninguna tribu
+traspasara los derechos de otra tribu ; y así se gozaba de alguna
+manera de la paz en el país ; no obstante, sus corazones se habían
+alejado del Señor, su Dios, [3516]apedreando y echando fuera á
+los profetas de entre ellos.
+15. Y sucedió entonces que Nefi, habiendo sido visitado por
+ángeles, y también por la voz del Señor, sí, habiendo visto
+ángeles, y siendo testigo ocular, y habiendo recibido poder para
+conocer acerca del ministerio de Cristo, y siendo también testigo
+ocular de su repentino [3517]cambio de la justicia á la
+perversidad y abdominaciones ;
+16. Así pues, afligido de la dureza de sus coracones, y de la
+ceguedad de su entendimiento, fué en medio de ellos en aquel
+mismo año, predicándoles atrevidamente el arrepentimiento y
+la remisión de los pecados, por la fe en el Señor Jesu Cristo.
+17. Y les administró muchas cosas ; y no todas se pueden
+escribir, y parte de ellas no bastarían ; por lo tanto, no se han
+escrito en este libro. Y Nefi ejerció su ministerio con gran poder
+y autoridad.
+18. Y sucedió que se enojaron mucho contra él, aun por tener
+él mayor poder que ellos, de tal modo que les era imposible no
+creer en sus palabras, porque tan grande era su fe en el Señor
+Jesu Cristo, que los [3518]ángeles le ministraban diariamente ;
+19. Y en el nombre de Jesús echaba demonios y espíritus
+inmundos ; y levantó hasta á un [3519]hermano suyo de la
+muerte, después que hubo sido apedreado hasta morir por el
+pueblo ;
+20. Lo que fué visto por el pueblo, que dió testimonio de ello,
+y se irritaron contra él á causa de su poder ; é hizo también otros
+muchos milagros á la vista del pueblo en el nombre de Jesús.
+21. Y vino á suceder que en el año treinta y uno, no hubo más
+que un pequeño número de ellos que se convirtió al Señor ;
+pero todos los que se convirtieron, dieron testimonio al pueblo
+en verdad de que habían sido visitados por el poder del Espíritu
+de Dios, que estaba en Jesu Cristo, en Quién creían.
+
+7d, 3516: Versículo 19; III Nefi 6:23-25.
+7e, 3517: Versículo 8.
+7f, 3518: Versículo 15.
+7g, 3519: III Nefi 19:4.
+
+Corrections
+[page] Running header "CAP. VII.) III NEFI. 499" discarded.
+[page begins mid-verse] Verse 13 (chapter 7, continuing from page 498)
+continues directly with no chapter heading, so no blank-line separator
+per rule 1.
+[rule 6, unconditional space normalization] Three instances of a
+visibly wider justification gap after a sentence-ending period were
+normalized to a single space (confirmed via zoom, not a transcription
+slip): v.13 "pueblo.  Y así concluyó", v.14 "directores.  Pero", v.17
+"libro.  Y Nefi ejerció".
+[rule 7, hyphen rejoin] v.19 "espíritus in-" / "mundos" rejoined to
+"espíritus inmundos"; the rejoined line then exceeded 72 characters, so
+per rule 8 "inmundos ;" plus the rest of the sentence was rebalanced
+across the following lines rather than kept on the first line.
+[suspected misprint, preserved as printed] v.16 "de la dureza de sus
+coracones" — likely "corazones" (with z), missing the "z"/misprinted as
+"c". The same word is spelled correctly ("corazones") two verses
+earlier, v.14. Preserved as printed per rule 32; flagged here for
+Session E's 1886/RAE verification.
+[suspected misprint, preserved as printed] v.15 "la perversidad y
+abdominaciones" — likely "abominaciones" (abominations) with a spurious
+extra "d" inserted. Confirmed via zoom the image clearly prints
+"abdominaciones". Preserved as printed per rule 32; flagged here for
+Session E's 1886/RAE verification.
+[footnote lettering] Chapter 7's lettering continues from page 498's
+last letter (c); this page's footnotes are d-g. Sequential numbering
+continues from 3515 (page 498's last footnote).
+[footnote markers] None of this page's own letters (d, e, f, g) or
+footnote reference targets (plain verse/chapter citations, no "Véase")
+are in the mandatory i/l/1 set, so no mandatory 1879 cross-check
+applies. All four letters assigned by strict sequential position,
+confirmed by same-page glyph comparison against this page's own "d"
+(vertical stroke + closed bowl) and the fn_zoom block's final glyph
+(closed bowl + descender loop, matching a lowercase italic "g").
+[Session B] Independently re-verified all four Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0521.png's fn_zoom and
+body images; text and marker placement match exactly. No mandatory 1879
+check applies (none of d, e, f, g nor their reference targets are
+i/l/1). No errors found.

@@ -1,0 +1,147 @@
+Página 485
+y también el nonagésimo-octavo, y también el año nonagésimo-nono;
+5. Y también cien años habían transcurrido desde los días de
+[3433]Mosíah, que era el rey del pueblo de los Nefitas.
+6. Y habían pasado ya seiscientos y nueve años desde que
+Lehi salió de Jerusalem;
+7. Y habían pasado nueve años desde que fué dada la [3434]señal
+anunciada por los profetas, respecto á la venida de Cristo al
+mundo.
+8. Ahora, en esta época los Nefitas empezaron á [3435]computar
+su tiempo desde el día en que les fué dada la señal de la venida
+de Jesu Cristo; por lo tanto, habían pasado ya nueve años;
+9. Y Nefi, el padre de Nefi, que estaba encargado de los anales,
+no [3436]había vuelto al país de [3437]Zarahemla, y no se le pudo hallar
+tampoco en todo el país.
+10. Y sucedió, que á pesar de las numerosas predicaciones y
+profecías que les fueron hechas, el pueblo perseveró en su maldad.
+Y así pasó también el año décimo, y el año once pasó también
+en la iniquidad.
+11. Y sucedió, en el año trece, que las disensiones y las guerras
+empezaron por todo el país. Porque los ladrones de [3438]Gadianton
+se habían hecho tan numerosos, y mataban á tanta gente, que
+habían quedado desiertas muchas ciudades, cometiendo por todo
+el país tantas muertes, y entregándose á tan gran carnicería,
+que fué necesario que todo el pueblo, tanto Nefitas como Lamanitas,
+tomasen las armas contra ellos;
+12. Por tanto todos los Lamanitas convertidos al Señor, se
+unieron á sus hermanos, los Nefitas, y se vieron obligados, para
+la seguridad de sus vidas, y de la de sus mujeres é hijos, á tomar
+las armas contra los ladrones de Gadianton; sí, y para mantener
+[3439]también sus derechos y los privilegios de su iglesia, y los de su
+culto, y los de su independencia y de su libertad.
+13. Y sucedió, que, antes que hubiera terminado el año trece,
+se vieron los Nefitas amenazados de una entera destrucción, á
+causa de esta guerra, que había venido á ser en extremo grave.
+14. Y aconteció, que esos Lamanitas que se unieron con los
+Nefitas fueron contados entre los Nefitas.
+15. Y desapareció de ellos [3440]la maldición, y su cutis se volvió
+[3441]blanco como él de los Nefitas;
+16. Y sus hijos é hijas se volvieron extremadamente bellos,
+y fueron numerados entre los Nefitas y llamados Nefitas. Así
+concluyó el año trece.
+
+2b, 3433: Mosíah 29:46-47.
+2c, 3434: Véase a.
+2d, 3435: Versículo 7.
+2e, 3436: III Nefi 1:2-3.
+2f, 3437: Véase h, Omni 1.
+2g, 3438: Helamán 2:11-13.
+2h, 3439: Véase m, Mosíah 29.
+2i, 3440: Véase d, I Nefi 2.
+2j, 3441: Véase f, II Nefi 30.
+
+Corrections
+[page] Running header "CAP. II.) III NEFI. 485" discarded.
+[page] Page begins mid-word (continuation of "nonagésimo-séptimo,"
+split by the page boundary from page 484's "nona-"); per rule 10 the
+whole rejoined word fit on page 484's last line (69 chars, under the
+cap), so this page's body text begins with the following word,
+"y también...", instead of any fragment. No blank line separates
+"Página 485" from the first body line, per rule 1's mid-verse case.
+[v.9 spacing — CORRECTED in Session E] Initially misread as "YNefi", a
+zero-space merge. A pixel-level gap measurement during Session E
+(column-projection scan of the 1920 image) found this was wrong: the
+gap between "Y" and "N" measures 6px, clearly wider than the 2-3px
+intra-word kerning gaps within "Nefi" itself (N-e, e-f, f-i) and
+comparable to the later "el"-"pa" word gap (8px) on the same line. This
+is a real, if narrow, inter-word space per rule 6's narrow-space vs.
+merge note (page 479 precedent), not a true zero-space merge like page
+474's "esesto". Corrected to "Y Nefi" with a normal space; no
+`errors in 1920.txt` or `permitted words.txt` entry needed.
+[rule 31] Space before punctuation removed: "nono ;" → "nono;",
+"Jerusalem ;" → "Jerusalem;", "Cristo ; por" → "Cristo; por",
+"años ;" → "años;", "ellos ;" → "ellos;", "Gadianton ; sí" →
+"Gadianton; sí", "Nefitas ;" → "Nefitas;".
+[rule 6, double-space normalization] Two justification-widened gaps
+normalized to a single space, confirmed via zoom — unconditional per
+rule 6, no `errors in 1920.txt` entry needed: "país.  Porque" (v.11)
+and "Nefitas.  Así" (v.16).
+[v.11 rejoin] "La-" / "manitas," → "Lamanitas," — ordinary line-break
+hyphen, rejoined per rule 7; attached comma travels with the word.
+[Block 1, rule 23] "Mosíah 29:46, 47." (consecutive verses) reformatted
+to "Mosíah 29:46-47." per rule 23. "III Nefi 1:2, 3." (consecutive
+verses) reformatted to "III Nefi 1:2-3." per rule 23.
+[fn i — mandatory 1879 check] Letter i (v.15, "la maldición") falls in
+the mandatory i/l/1 check set. Same-page comparison first: zoomed the
+glyph (short stroke with a separated dot above, no descender) against
+the very next line's "j" (hook/tail curving below the baseline plus a
+dot) — clearly distinct shapes, consistent with "i" not "j" or "l".
+Independent 1879 check (BOM 1879 Pratt, chapter_map 3 Nephi ch.2 —
+file page 480, one page past the chapter_map-listed 479, matching this
+chapter's established "one page later" pagination drift) confirms
+"i, see d, I. Nep. 2." letter-for-letter, matching this page's own
+"i, Véase d, I Nefi 2." exactly.
+[fn b-j, full 1879 cross-check] All nine of this page's footnote
+letters (b-j) were independently confirmed against 1879 (BOM 1879
+Pratt file pages 479-480, chapter_map 3 Nephi ch.2), matching the 1920
+fn_zoom content letter-for-letter and in the same order: b (Mos.
+29:46,47), c (see a), d (ver. 7), e (III Nep. 1:2,3), f (see h, Omni
+1), g (Hela. 2:11-13), h (see m, Mos. 29), i (see d, I. Nep. 2), j (see
+f, II. Nep. 30). 1879's chapter 2 also ends at the same content point
+("thus ended the thirteenth year"), confirming this page's chapter 2
+close matches 1879's.
+[Session B] Independently re-verified all nine Block 1 entries against
+a fresh read of pages_1920/page_0507.png fn_zoom — reference text
+matches the image exactly, letter for letter. Independently
+re-confirmed all nine [N] markers placed immediately before the
+correct word (Mosíah, señal, computar, había, Zarahemla, Gadianton,
+también, la maldición, blanco) by re-reading top/mid/bot against the
+transcription. Mandatory 1879 check for letter i re-run independently
+with a fresh crop (not reused from Session A): re-rasterized BOM 1879
+Pratt page 488 and located its footnote block ("i, see d, I. Nep. 2.
+j, see f, II. Nep. 30.  k, Hela. 2:11-13." — note "k" there is a
+distinct, later chapter-2 letter used elsewhere on the 1879 page, not
+part of this page's b-j set) — confirms "i, see d, I. Nep. 2."
+letter-for-letter, matching Session A's finding. No errors found in
+Block 1 or marker placement.
+[Session C/D] Integrated cleanly via `insert_body_text.py 485` and
+`generate_block2.py 485` (all 9 Block 1 entries, all 9 Block 2
+cross-references resolved with no unresolved targets); page 484's
+line 4 was also corrected in librodm.txt to match its page-file fix
+(the rejoined "nonagésimo-séptimo," word), since page 484 had already
+been integrated before that fix was made. Four of the nine Block 2
+resolutions were spot-checked against librodm_foot.txt and confirmed
+correct (book-aware matching, not just first-match-by-chapter+letter):
+2c→3432 (this chapter's own "a"), 2f→1003 (Omni 1h), 2h→1608 (Mosíah
+29m), 2i→11 (I Nefi 2d).
+[Session E] Fresh pptext regeneration (`report_wsl_20260721d.html`,
+then `report_wsl_20260721e.html` after the fix below) flagged one new
+spellcheck suspect on this page — "YNefi" (v.9) — which was initially
+proposed as a zero-space merge but turned out, on pixel-level
+measurement, to be a real narrow space; see the corrected v.9 note
+above. No `errors in 1920.txt` or `permitted words.txt` entry resulted.
+Independent full-document footnote-anchor check (regex scan of every
+`[N]` in librodm.txt): max 3441, zero duplicates, only the
+pre-existing 812 gap. Independent curly-quote scan of both master
+files: zero curly quotes. Letter-hyphen-letter compound scan of this
+page: only the expected Spanish compound ordinals
+(nonagésimo-séptimo/-octavo/-nono) and this page's own Corrections-log
+prose, nothing new or suspect. Jeebies: no errors. Separately, this
+run's spellcheck also re-flagged "buatizase" (Helamán 16:5, page 479)
+— already correctly in `errors in 1920.txt` but never mirrored into
+`permitted words.txt` (a known gap pattern); added to
+`permitted words.txt` now to close it, unrelated to this page's own
+content. This page's own Corrections-log entries were swept per the
+mandatory check: only mechanical/1879-resolved items, nothing else
+needing an `errors in 1920.txt` or `permitted words.txt` decision.

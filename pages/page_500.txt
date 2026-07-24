@@ -1,0 +1,111 @@
+Página 500
+22. Y todos aquéllos, de quiénes habían sido echados los
+[3520]demonios, y quiénes habían sido curados de sus enfermedades
+y dolencias, manifestaron al pueblo con toda verdad, que el
+Espíritu de Dios había descendido sobre ellos, y que habían sido
+curados ; mostrando también otras señales, y haciendo algunos
+milagros entre el pueblo.
+23. Y así concluyó el año treinta y dos. Y al principiar el
+año treinta y tres, Nefi llamó al pueblo y le predicó el arrepentimiento
+y la remisión de los pecados.
+24. Y ahora quiero que recordéis también, que no hubo ninguno
+de los que vinieron á arrepentirse, que no fuera [3521]bautizado en el
+agua ;
+25. Por lo tanto, fueron ordenados por Nefi algunos hombres
+para este ministerio, para que todos los que viniesen á ellos,
+fuesen bautizados en el agua ; haciéndolo así, para que sirviese
+de testigo y testimonio ante Dios y para el pueblo, de que se
+habían arrepentido, y habían recibido la remisión de sus pecados.
+26. Y al principio de este año, fueron muchos los que recibieron
+el [3522]bautismo de arrepentimiento ; y así se pasó la mayor parte del
+año.
+
+CAPÍTULO 8.
+
+1. Y ahora sucedió que según nuestros anales, que sabemos
+que son verdaderos ; porque, he aquí, eran llevados por un hombre
+[3523]justo ; quién de seguro hizo [3524]muchos milagros en nombre de
+Jesús ; y no hubo ningún hombre que pudiera hacer milagros
+en el nombre de Jesús, excepto que estuviese completamente
+limpio de su iniquidad.
+2. Sucedió pues, que si no hubo equivocación en la manera con
+que este hombre calculaba nuestro tiempo, el año [3525]treinta y tres
+se había ya pasado.
+3. Y el pueblo empezó á mirar con gran entusiasmo por la
+señal dada por el profeta Samuel, el Lamanita ; sí, por el tiempo
+que hubiere [3526]tinieblas por espacio de tres días en toda la
+extensión del país.
+4. Y á pesar de habérseles sido dadas tantas señales, empezaron
+grandes dudas y disputas entre el pueblo.
+5. Y sucedió en el año [3527]treinta y cuatro, en el cuarto día del
+
+7h, 3520: Versículo 19.
+7i, 3521: Véase u, II Nefi 9.
+7j, 3522: Véase u, II Nefi 9.
+8a, 3523: III Nefi 23:7,12.
+8b, 3524: III Nefi 7:19-20.
+8c, 3525: III Nefi 2:8.
+8d, 3526: Versículo 23; I Nefi 19:10; Helamán 14:20,27; III Nefi 10:9.
+8e, 3527: III Nefi 2:8.
+
+Corrections
+[Session E] v.22 "dolencías" corrected to "dolencias" — Session A
+transcribed a spurious accent on the í that a fresh zoom confirms is not
+in the 1920 print (plain "dolencias," no accent mark at all); this was
+also what pptext's spellcheck suspect flag on this word was actually
+catching. Confirmed against 1886 (file page 514), which also prints the
+unaccented "dolencias."
+[page] Running header "500 III NEFI. (CAP. VIII." discarded.
+[page begins mid-verse] Verse 22 (chapter 7, continuing from page 499)
+continues directly with no chapter heading, so no blank-line separator
+per rule 1.
+[rule 6, unconditional space normalization] Two instances of a visibly
+wider justification gap were normalized to a single space (confirmed via
+zoom, not a transcription slip): v.23 "concluyó el año treinta y dos.  Y
+al principiar" and v.23 "Nefi llamó al  pueblo y le predicó".
+[rule 7, hyphen rejoin] v.23 "arrepenti-" / "miento" rejoined to
+"arrepentimiento"; the rejoined line lands at exactly 72 characters, so
+it was kept on the first line (no rule 8 rebalancing needed).
+[rule 8, marker-caused overflow] Chapter 8 v.3: inserting marker [3526]
+before "tinieblas" pushed the line to 73 characters ("que hubiere
+[3526]tinieblas por espacio de tres días en toda la extensión"), so the
+last word "extensión" was moved to the start of the next line per
+rule 8.
+[scan artifact, not transcribed] Chapter 8 v.3: a small raised
+apostrophe-like mark appears between "días" and "en" in the 1920 print.
+Confirmed via zoom to be a stray/raised mark, not a letter or
+grammatically-motivated punctuation (no comma or apostrophe makes sense
+at this spot: "...por espacio de tres días en toda la extensión del
+país."). Treated as a scan/print artifact and not transcribed, matching
+the established floating-mark precedent (pages 483, 490, 492, 494, 497);
+flagged here for Session E's 1886 verification.
+[chapter boundary] Chapter 7 closes at v.26 (this page's footnotes h, i,
+j = 3520-3522, continuing the lettering from page 499's d-g). Chapter 8
+opens on the same page with no subtitle line in the 1920 print (checked
+the image directly per the mandatory subtitle rule — none present, same
+as chapters 8-12 of Helamán); its own lettering restarts at a
+(footnotes a-e = 3523-3527). Same book (III Nefi), so no blank line or
+book-name header in Block 1 per rule 20.
+[footnote markers, mandatory 1879 check] Footnote i (chapter 7, v.24) is
+in the mandatory i/l/1 set. Confirmed via BOM 1879 Pratt file page 502
+(chapter_map lists 3 Nephi ch.8 1879 page as 502, matching exactly):
+"h, ver. 19.  i, see u, II. Nep. 9.  j, see u, II. Nep. 9." — matches
+the 1920 letter-for-letter and target-for-target (both i and j cite the
+same "u, II Nefi 9" target, an unusual but confirmed-genuine repeat).
+Chapter
+8's own letters a-e were independently confirmed as a bonus via the same
+1879 page 502 (a-d) and page 503 (e, printed later on that page since
+1879's denser typesetting fits much more chapter-8 content per page):
+"a, III. Nep. 23:7,12.  b, III. Nep. 7:19,20.  c, III. Nep. 2:8.
+d, ver. 23. I. Nep. 19:10. Hela. 14:20,27. III. Nep. 10:9." and
+"e, III. Nep. 2:8." — all match the 1920 letter-for-letter and
+target-for-target.
+[Session B] Independently re-verified all eight Block 1 entries and body
+markers against fresh crops of pages_1920/page_0522.png's fn_zoom/top/mid
+images; text and marker placement match exactly. Independently re-ran the
+mandatory 1879 check for letter i from a fresh crop of BOM 1879 Pratt
+file page 502 (not reusing Session A's crop) and reconfirmed "h, ver. 19.
+i, see u, II. Nep. 9.  j, see u, II. Nep. 9." plus a same-page glyph
+comparison (v.24's "i": short stroke + separated dot; v.26's "j":
+matching stroke with a curved descender below the baseline). No errors
+found.

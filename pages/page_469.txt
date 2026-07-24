@@ -21,6 +21,8 @@ el mal, tendrán condenación [3335]eterna. Y así es. Amén.
 
 CAPÍTULO 13.
 
+Profecia de Samuel, el Lamanita, a los Nefitas.
+
 1. Y sucedió ahora, que en el año octogésimo-sexto, continuaron
 los Nefitas todavía en sus maldades; sí, en sus grandes
 iniquidades, mientras que los Lamanitas se esmeraban en guardar
@@ -49,11 +51,29 @@ Señor le puso en su corazón;
 Corrections
 [page] Running header "CAP. XIII.) LIBRO DE HELAMÁN. 469" discarded.
 [page] "Digitized by Google" watermark removed.
-[page] Chapter 13's italic subtitle line ("Profecía de Samuel, el
-Lamanita, a los Nefitas.") omitted, per the established convention on
-prior pages (no chapter-heading subtitle has been transcribed on any
-completed page so far) — treated analogously to rule 19's precedent
-of ignoring subtitle lines under a title.
+[page, corrected 2026-07-22] Chapter 13's italic subtitle line was
+originally omitted here, on the mistaken belief that no prior chapter
+had one and that rule 19 (the Block 1 header-derivation rule) somehow
+justified dropping it from the body text too — both premises were
+wrong (Helamán 7's subtitle, page 453, was already transcribed
+correctly; rule 19 never governed body text at all). Restored: the
+image (pages_1920/page_0491.png) reads "CAPÍTULO 13." then, on its own
+line after a blank line, the italic subtitle "Profecia de Samuel, el
+Lamanita, a los Nefitas." — transcribed exactly as printed, including
+the two missing accents ("Profecia" not "Profecía", "a" not "á") that
+1886 (file page 484, book page 466) does carry ("Profecía de Samuel,
+el Lamanita, á los Nefitas."), confirmed at high zoom (no accent stroke
+on either letter in the 1920 print). 1886 also prints this subtitle
+before "CAPÍTULO 13." rather than after — the same order reversal
+(chapter number then subtitle) already documented at Helamán 7 (page
+453) as a genuine, repeatable 1920 house-style difference, not a
+transcription error; the 1920 order is followed here as printed. Both
+the order reversal and the missing accents are logged in `errors in
+1920.txt` (per editor instruction 2026-07-22), matching the existing
+Helamán 7 heading entry's format and its "pending editorial decision"
+framing on the ordering question. See the updated
+`libro_de_mormon_rules.md` Section 1 (chapter/book subtitle rule) for
+the corrected general policy this follows.
 [v.22] "Poi lo tanto" — preserved as printed; apparent 1920 misprint
 for "Por lo tanto" (the "r" renders as a bare vertical stroke with no
 arm/hook, confirmed at high zoom). Session E: confirmed against 1886

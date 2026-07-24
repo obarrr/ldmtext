@@ -1,0 +1,152 @@
+Página 496
+14. Y así se introdujo una gran desigualdad en todo el país ;
+de tal modo que empezó á deshacerse la iglesia ; sí, de tal manera
+que en el año treinta, se disolvió la iglesia por todo el país, no
+quedando firmes más que un corto número de Lamanitas, que
+había abrazado la fe ; y no quisieron separarse de ella, manteniéndose
+firmes, inquebrantables, inmutables, y deseosos de guardar
+con toda diligencia los mandamientos del Señor.
+15. Y la causa de esta iniquidad del pueblo era debida al
+gran poder que satán había obtenido sobre ellos, hasta el extremo
+de inducirles á entregarse á toda clase de iniquidades, inflándoles
+de orgullo, buscando los medios de apoderarse del poder, de la
+autoridad, riquezas, y cosas vanas del mundo.
+16. Y así satán extravió los corazones del pueblo, para que
+cometieran toda clase de iniquidad ; de modo que no gozaron
+sino por pocos años de la paz.
+17. Y así al principiar el año [3500]treinta, habiéndose el pueblo
+visto por mucho tiempo dominado por las tentaciones del diablo,
+por doquiera que deseare él llevarles, y hacerles hacer cualquiera
+iniquidad que él deseare ; así, á principios de este año se hallaban
+en el estado de la más extremada perversidad.
+18. Y ahora, no pecaban por ignorancia, porque conocían la
+voluntad de Dios relativamente á ellos, la que se les había sido
+enseñada ; por lo tanto, voluntariamente se rebelaron contra
+Dios.
+19. Y hallánbanse entonces en la época de Lachoneus, hijo
+de [3501]Lachoneus, que ocupaba el asiento de su padre, y gobernaba
+al pueblo en aquel año.
+20. Y empezaron á aparecer entre el pueblo por todo el país,
+hombres inspirados del cielo, parándose entre el pueblo por todas
+partes á predicar y testificar atrevidamente sobre los pecados é
+iniquidades del pueblo ; y testificarles respecto á lo concerniente
+á la redención que el Señor había de hacer para su pueblo ; ó en
+otros términos, de la resurrección de Cristo ; testificando
+intrepidamente su muerte y sus sufrimientos.
+21. Ahora, hubo muchos de los del pueblo que se enojaron en
+extremo, á causa de los que testificaban estas cosas ; y los que se
+enojaban, generalmente eran los jueces superiores, y los que
+habían sido [3502]sumo-sacerdotes y [3503]abogados ; sí, todos los
+abogados se irritaban contra los que daban testimonio de estas cosas.
+22. Y ahora, no había ningún [3504]abogado, ni juez, ni [3505]sumo-
+sacerdote que tuviese poder para condenar á muerte á ninguna
+
+6j, 3500: III Nefi 2:8.
+6k, 3501: III Nefi 1:1.
+6l, 3502: Véase g, Mosíah 26.
+6m, 3503: Véase i.
+6n, 3504: Véase i.
+6o, 3505: Véase g, Mosíah 26.
+
+Corrections
+[page] Running header "496 III NEFI. (CAP. VI." discarded.
+[page] Page begins with a fresh verse (v.14) at the top; chapter 6 already
+open (continuing from page 495), no chapter heading present, so no blank
+line separator per rule 1.
+[rule 7] Hyphenated line-break split "mantenién-/dose" rejoined to
+"manteniéndose" (v.14); rejoined line is 70 chars, under 73, no rule 8
+rebalancing needed.
+[rule 7, rule 8] Hyphenated line-break split "testificando in-/trepidamente"
+rejoined to "intrepidamente" (v.20); appended to the prior line the rejoined
+word would make 74 chars (over the 72-char cap), so per rule 8 the whole
+word "intrepidamente" was moved to start the next line instead.
+[rule 8, marker-caused overflow] v.21 line "habían sido [3502]sumo-sacerdotes
+y [3503]abogados ; sí, todos los abogados" reached 75 characters once both
+sequential footnote markers were inserted (exceeding the 72-char cap); per
+rule 8 the last word "abogados" was moved to the start of the next line.
+[compound-word hyphen, not a line-wrap split] v.22 "ni [3505]sumo-/sacerdote"
+falls at a line break in the same place as its own natural hyphen; this same
+page hyphenates "sumo-sacerdote(s)" mid-line at v.21 ("habían sido
+[3502]sumo-sacerdotes"), confirming the hyphen is a genuine part of the
+compound word, not a line-wrap artifact — transcribed as printed, hyphen
+retained across the line break, no rule 7 rejoin applied.
+[scan artifact, not transcribed] v.15: a small solid ink blob floats in the
+right margin after "inflándoles" (not immediately before any word, no space
+gap matching a real superscript position). Compared at high zoom against
+this page's confirmed j/l marker glyphs and found dissimilar in shape (solid
+blob, no counter, no separated dot, no unbroken stroke) — not a genuine
+letter. This page's footnote block has exactly 6 letters (j through o), and
+all 6 are fully accounted for by 6 other confirmed body markers, confirming
+this mark is extraneous. Same class as the established floating-mark
+precedent on pages 483/490/492/494/495.
+[fn j, mandatory 1879 check] The first footnote's own letter is genuinely
+ambiguous between "i" and "j" by 1920 glyph shape alone — the same curled
+descender + separated-dot shape appears for both this letter (before
+"treinta," v.17) and the page's own reference-block "i" glyphs (e.g. "Véase
+i." in the m/n entries). Confirmed via BOM 1879 Pratt file page 498, which
+reads "...in the commencement of the ʲthirtieth year" (v.17) with footnote
+block entry "j, III. Nep. 2:8." at the identical body position — matches
+1920 letter-for-letter and target-for-target. Also consistent with strict
+sequential lettering: page 495 already used letter i as chapter 6's last
+letter (6i, footnote 3499), so j is the expected next letter regardless.
+[fn l, mandatory 1879 check] Letter l (this page's own letter, v.21) is in
+the mandatory i/l/1 set. Same-page glyph comparison confirmed a continuous
+unbroken stroke with no dot (matches established "l" shape, distinct from
+the dotted i/j glyphs elsewhere on this page). Independently confirmed via
+BOM 1879 Pratt file page 499: "l, see g, Mos. 26." at the identical position
+(before "high priests" = "sumo-sacerdotes," v.21) — letter-for-letter and
+target-for-target match. Note: the target letter was initially misread as
+"o" from a first-pass zoom; a tighter re-crop confirmed it is actually "g"
+(round bowl plus descender loop, distinct from "o"'s plain oval), matching
+1879 exactly — corrected before finalizing.
+[fn k, m, n, o] Resolved by direct 1920 image read and independently
+cross-checked against BOM 1879 Pratt file pages 498-499 as a discretionary
+bonus (none of these letters or their targets are i/l/1): "k, III. Nep.
+1:1." (v.19, before "Lachoneus"), "m, see i." (v.21, before "abogados"),
+"n, see i." (v.22, before "abogado"), "o, see g, Mos. 26." (v.22, before
+"sumo-sacerdote") — all match letter-for-letter and target-for-target.
+Content fit is strong throughout: l/o both resolve to the same Mosíah 26
+letter g (high-priest/liberty theme, fitting both "sumo-sacerdotes" and
+"sumo-sacerdote"); m/n both resolve to this chapter's own letter i (the
+"abogados"/lawyers footnote already established on page 495), fitting both
+"abogados" and "abogado" here.
+[suspected misprint, preserved as printed per rule 32]: v.19 "hallánbanse"
+for what should read "hallábanse" (the letter after the accented á appears
+as "n" rather than "b") — image confirmed at zoom. Verify against 1886 in
+Session E.
+[Session B] Independently re-verified all 6 Block 1 entries and body markers
+against fresh crops of pages_1920/page_0518.png; matches Session A exactly.
+Both mandatory 1879 checks (letter j and letter l) re-run independently via
+fresh `process_page.py` calls on BOM 1879 Pratt file page 498 (letter j:
+"j, III. Nep. 2:8." at the identical v.17 position) and file page 499
+(letter l: "l, see g, Mos. 26." at the identical v.21 position) —
+reconfirmed letter-for-letter and target-for-target, including an
+independent fresh tight crop re-confirming the l-target glyph is "g" (round
+bowl + descender loop), not "o". No errors found; no changes made.
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260722i.html)
+came back clean in the Spellcheck Suspect Words section for this page (only
+the pre-existing, unrelated "Profecia" hit from page 469 appears). The v.19
+"hallánbanse" suspect from this page's own Corrections log was confirmed as
+a genuine 1920-only error via 1886 (file page 511, chapter_map III Nefi
+ch.6): 1886 reads "hallábanse" at the identical spot; independent research
+(RAE via WebSearch, the modern Spanish LDS edition at 3 Nefi 6:19, and the
+local reference corpora) further supports "hallábanse" as the correct
+archaic reflexive form and turned up no support for "hallánbanse" at all —
+added to `errors in 1920.txt`; not flagged by pptext this run (known
+brand-new-single-occurrence quirk), so no `permitted words.txt` entry.
+Both "sumo-sacerdote(s)" hyphenation flags (hyphenation-and-spaced-pair
+check, v.21; dash check, v.22) were individually checked against 1886 and
+confirmed correct as printed — 1886 hyphenates identically at both spots
+(v.21 "sumo-sacerdotes" mid-line, v.22 "sumo-/sacerdote" at the same line
+break) — no `errors in 1920.txt` entry needed. Full-document footnote-
+anchor check (regex scan of `[NNN]`): max 3505, zero duplicates, zero
+out-of-range, only the pre-existing 812 gap. Curly-quote scan (zero curly
+quotes in either master file) and a hyphen scan of this page's body text
+(only the two already-reviewed sumo-sacerdote(s) instances) both clean.
+The page's own space-before-semicolon instances (flagged under pptext's
+"spaced punctuation" special-situations sub-check) all match this
+document's established, already-vetted French-Spanish-style typographic
+convention — not a new finding. "Short lines check" hits are ordinary
+verse-wrap structure, no action needed. Paragraph-level "full stop
+followed by unexpected sequence" check has no hits anywhere in this page's
+line range. Jeebies clean.

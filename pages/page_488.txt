@@ -1,0 +1,186 @@
+Página 488
+para guardarles y librarles de los ataques de los bandidos de día
+y de noche;
+15. Sí, dicíendoles al mismo tiempo: Como vive el Señor,
+que si no os arrepintie.eis de vuestras iniquidades, y si no implorareis
+al Señor, de ningún modo os veréis libres de las manos
+de esos bandidos de [3449]Gadianton.
+16. Y tan giandes y maravillosas fueron las palabras y profecías
+de Lachoneus. que causaron que el pueblo se llenara de
+temor, haciendo que se esforzaran con todo su poder á hacer lo
+que les requiería Lachoneus.
+17. Y sucedió, que Lachoneus puso á capitanes en jefe sobre
+todos los ejércitos de los Nefitas, para que los dirigieran. cuando
+salieran los ladrones del desierto en contra de ellos.
+18. Y un hombre, llamado [3450]Gidgiddoni, fué nombrado como
+el primero de todos los capitanes, y el gran comandante de todos
+los ejércitos de los Nefitas.
+19. Ahora, era costumbre entre todos los Nefitas el escoger
+para capitán en jefe, salvo en sus épocas de de perversidad, á
+alguno que poseyera el Espíritu de revelación y profecía; por
+lo tanto, este Gidgiddoni era un gran profeta entre ellos, y
+él era también el Juez Superior.
+20. Y ahora, dijo el pueblo á Gidgiddoni: Ora al Señor, y
+vámonos á las montañas y al desierto, y caigamos sobre los
+bandidos, y destruyámosles en su propio terreno.
+21. Pero Gidgiddoniles respondió les respondió: Dios me libre
+de hacerlo así, porque si marchásemos contra ellos, el Señor. nos
+entregaría en sus manos; por tanto, nos prepararemos en el centro
+de nuestras tierras; y uniremos á todos nuestros ejércitos, y
+no iremos en contra de ellos, sino que esperaremos á que vengan
+sobre nosotros; por tanto, como el Señor vive, que si así lo
+hacemos, Él les entregará en nuestras manos.
+22. Y sucedió, que hacia el fin del año diez y siete, llegó la
+proclamación de [3451]Lachoneus por toda la superficie del país; y
+tomando sus [3452]caballos, [3453]carros, manadas, ganados y rebaños,
+con sus granos y sus bienes, se dirigieron por miles y decenas
+de miles al paraje [3454]señalado, hasta que todos se hubieron reunido
+para defenderse en contra de sus enemigos.
+23. Y el país señalado era el [3455]país de Zarahemla, y el [3456]país
+de Abundancia; sí, hasta la línea que dividía el país de Abundancia
+del país de [3457]Desolación;
+24. Y eran ellos muchos miles, los que se llamaban Nefitas,
+
+3g, 3449: Helamán 2:11-13.
+3h, 3450: Versículos 20-21,26; III Nefi 4:13,24,26.
+3i, 3451: III Nefi 1:1.
+3j, 3452: Véase m, I Nefi 18.
+3k, 3453: Véase l, Alma 18.
+3l, 3454: Versículos 13,23-24.
+3m, 3455: Véase h, Omni 1.
+3n, 3456: Véase 2k, Alma 22.
+3o, 3457: Véase 2l, Alma 22.
+
+Corrections
+[page] Running header "488  III NEFI.  (CAP. III" discarded.
+[page] Page begins as a mid-verse continuation of v.14 from page 487
+("...ó de entre los que eran considerados como Nefitas,"); per the
+established convention, no blank line separates "Página 488" from the
+first body line.
+[rule 31] Space before punctuation removed throughout: "noche ;" →
+"noche;", "tiempo :" → "tiempo:", "profecía ;" → "profecía;",
+"Gidgiddoni :" → "Gidgiddoni:", "respondió :" → "respondió:",
+"manos ;" → "manos;", "tierras ;" → "tierras;", "nosotros ;" →
+"nosotros;", "país ;" (v.22) → "país;", "Abundancia ;" → "Abundancia;",
+"Desolación ;" → "Desolación;".
+[v.15 rejoin] "im-" / "plorareis" → "implorareis" — ordinary line-break
+hyphen, rejoined per rule 7 (rejoined line measures exactly 72 chars,
+under the 73 cap).
+[v.16 rejoin] "pro-" / "fecías" → "profecías" — ordinary line-break
+hyphen, rejoined per rule 7.
+[v.23 rejoin] "Abun-" / "dancia" → "Abundancia" — ordinary line-break
+hyphen, rejoined per rule 7.
+[rule 8] Line "23. Y el país señalado era el [3455]país de Zarahemla,
+y el [3456]país de" measured 73 characters after marker insertion —
+at the cap, not under it — so the last word "de" was moved to start
+the next line per rule 8; both resulting lines are now under 73.
+[space-width check] "país de" (v.23, before "Abundancia") and "el
+Señor" (v.21, before "nos") both initially looked like possible tight
+merges on a first read. Per feedback_narrow_space_vs_merge, measured
+both with a pixel column-projection scan rather than eyeballing: both
+gaps measure 7px, comparable to the 6px "Y Nefi" real-space precedent
+from page 485 and clearly wider than the 1-3px intra-letter kerning
+gaps on the same line — confirmed genuine (if narrow) word spaces, not
+merges. Normalized to a single space per rule 6; no `errors in
+1920.txt` entry.
+[scan artifact] A small isolated dot appeared above the baseline
+between "para" and "defenderse" (last line before v.23) in the image —
+elevated, disconnected from any letter stroke, matching the same
+pattern as the page 483 v.22 "que.desde" artifact already resolved as
+scan/ink damage rather than printed content. 1886 (file page 503, book
+485) reads straight through "para defenderse" with no punctuation at
+that position, supporting the same call here. Transcribed as plain
+"para defenderse"; no `errors in 1920.txt` entry.
+[suspected misprints, preserved as printed per rule 32 — 1886 file page
+503 (book 485) checked directly against this same content range, which
+maps entirely onto this one 1886 page, and confirms every case below.
+Session E should add each to `errors in 1920.txt`]:
+  - v.15 "dicíendoles" — accent printed on the "i" instead of the "e";
+    1886 reads "diciéndoles" (correctly accented gerund+enclitic).
+  - v.15 "arrepintie.eis" — the image shows "arrepintie" then a small
+    isolated mark (round, non-connecting, not a clean period shape)
+    then "eis", with no "r" printed at all. 1886 reads "arrepintiéreis"
+    (future subjunctive) — the mark is very likely what remains of a
+    damaged/dropped "r" sort. Transcribed literally with a period as
+    the closest available character for the stray mark.
+  - v.16 "giandes" — the letter after "g" prints as a bare dotless
+    vertical stroke at x-height (no arm/hook), not a normal "r"; 1886
+    reads "grandes". Transcribed using "i" as the closest visual match
+    for the broken stroke.
+  - v.16 "Lachoneus. que" — period where 1886 has a comma
+    ("Lachoneus, que causáron").
+  - v.17 "dirigieran. cuando" — period where 1886 has a comma
+    ("dirigieran, cuando").
+  - v.19 "de de perversidad" — genuine dittography; 1886 reads "de
+    perversidad" (single "de").
+  - v.21 "Gidgiddoniles respondió les respondió" — two stacked defects:
+    a missing interword space ("Gidgiddoni" + "les" printed as one
+    word) and a duplicated "respondió"; 1886 reads cleanly "Gidgiddoni
+    les respondió" (once, properly spaced).
+  - v.21 "el Señor. nos" — a spurious period-like mark between "Señor"
+    and "nos" with no grammatical basis; 1886 has no punctuation at all
+    at this position ("el Señor nos entregaría").
+[fn g-o] All nine footnote letters (g through o) and their reference
+text read directly from fn_zoom against pages_1920/page_0510.png.
+Letters "i" and "l" are this chapter's own lettering and fall in the
+mandatory i/l/1 check set; separately, "k"'s cross-reference target
+letter "l" (Alma 18) also falls in that set. All three confirmed via
+BOM 1879 Pratt (chapter_map 3 Nephi ch.3 lists file 488, but this
+page's own content — v.15 onward — lands two pages later at file 490,
+book 482, matching the "one page later" drift pattern seen throughout
+this book; the following page, file 491/book 483, carries the rest):
+"i, III. Nep. 1:1." and "l, vers. 13, 23, 24." (the chapter's own
+letters) and "k, see l, Alma 18." (the cross-reference target) all
+match the 1920 reading exactly. The remaining six letters (g, h, j, m,
+n, o) were confirmed as a bonus in the same two 1879 pages: "g, Hela.
+2:11-13.", "h, vers. 20, 21, 26. III. Nep. 4:13, 24, 26.", "j, see m,
+I. Nep. 18.", "m, see h, Omni 1.", "n, see 2k, Alma 22.", "o, see 2l,
+Alma 22." — all match letter-for-letter and target-for-target. Body
+marker positions also confirmed by content fit against the 1879
+English: g at "Gadianton" (v.15), h at "Gidgiddoni" (v.18), i at
+"Lachoneus" (v.22), j at "caballos"/"horses" and k at "carros"/
+"chariots" (v.22), l at "señalado"/"had been appointed" (v.22), m at
+"país de Zarahemla"/"land of Zarahemla" and n at "país de Abundancia"/
+"land Bountiful" (v.23), o at "Desolación"/"Desolation" (v.23).
+[Session B] Independently re-verified all nine Block 1 entries and body
+markers against fresh crops of pages_1920/page_0510.png; all match the
+page as written. Re-ran the mandatory 1879 check for i and l (the
+chapter's own letters) and for k's cross-reference target letter l,
+from scratch against fresh crops of BOM 1879 Pratt file pages 490 and
+491 (chapter_map 3 Nephi ch.3, "one page later" drift as noted in
+Session A): "i, III. Nep. 1:1.", "l, vers. 13, 23, 24.", and "k, see l,
+Alma 18." all confirmed again, letter-for-letter and target-for-
+target; the remaining six letters (g, h, j, m, n, o) were also
+reconfirmed in the same two crops. Body marker positions (i before
+"Lachoneus" v.22, l before "señalado" v.22) reconfirmed independently.
+No errors found; no changes made.
+[Session E] Fresh pptext regeneration (`report_wsl_20260721g.html`)
+flagged three spellcheck suspects, all from this page: "arrepintie" and
+"eis" (the two aspell tokens produced by the preserved-as-printed
+"arrepintie.eis" misprint) and "requiería" — this last one is a new
+finding pptext caught that Session A's own reading had transcribed
+accurately but not flagged as suspect. Checked "requiería" against 1886
+(file page 503, book 485): reads "requería" — the imperfect indicative
+of "requerir" does not diphthongize, so "requiería" is not a valid
+conjugation; RAE has no entry for either conjugated form (only the
+infinitive "requerir"), and neither form appears in the reference
+corpora. Confirmed genuine 1920-only error. All three tokens
+("arrepintie", "eis", "requiería") added to `permitted words.txt`
+since this run actually flagged them. All nine suspected misprints
+already logged in this page's Corrections above (dicíendoles,
+arrepintie.eis, giandes, Lachoneus. que, requiería, dirigieran. cuando,
+de de perversidad, Gidgiddoniles respondió les respondió, el Señor.
+nos) confirmed genuine via the 1886 comparison already on file and
+added to `errors in 1920.txt`; "giandes", "dicíendoles", and
+"Gidgiddoniles" were not flagged by this pptext run (known brand-new-
+single-occurrence quirk), so no `permitted words.txt` entries for
+those three. Footnote check: merging pptext's two footnote-number
+buckets (anchors + start-of-line "footnotes" — 3439, 3441, and 3446
+all landed in the second bucket only, since each happens to open a
+wrapped line) gives a clean 1..3457 range with only the pre-existing
+812 gap; no duplicates, no out-of-range values. Curly-quote scan (zero
+curly quotes in either master file) and a letter-hyphen-letter compound
+scan of this page's new lines (zero hits — no such compounds on this
+page) both clean. Character checks, dash check, and special-situations
+checks showed nothing new for this page's line range beyond already-
+documented false-positive patterns.

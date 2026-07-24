@@ -1,0 +1,125 @@
+Página 486
+17. Y sucedió, que al principio del año catorce, continuó la
+guerra entre los [3442]ladrones y el pueblo de Nefi, la que continuó
+hasta hacerse muy grave; no obstante, los Nefitas tuvieron
+algunas ventajas sobre estos bandidos, de tal modo que les
+rechazaron de su país á las montañas y á sus escondrijos.
+18. Y así concluyó el año catorce. Y en el año quince volveron
+otra vez contra los Nefitas, y á causa de la perversidad,
+y de las divisiones y disensiones, que reinaban entre ellos, los
+ladrones de Gadianton obtuvieron muchas ventajas.
+19. Así concluyó el año quince, etando el pueblo lleno de
+aflicciones; y la espada de la destrucción estaba suspendida sobre
+ellos, de tal modo que estuvieron á punto de ser destruidos por
+ella, y esto á causa de su iniquidad.
+
+CAPÍTULO 3.
+
+1. Y sucedió, en el año diez y seis de la venida de Jesu Cristo,
+que [3443]Lachoneus, gobernador del país, recibió una carta del jefe
+y gobernador de esta banda de ladrones, cuyo contenido era el
+siguiente:
+2. A Lachoneus, el más noble Gobernador Principal del país;
+he aquí, os escribo esta carta, manifestándoos la altísima alabanza
+que me causa vuestra firmeza, y la de vuestro pueblo para mantener
+lo que vosotros suponéis que es vuestro [3444]derecho y libertad,
+sí, sosteniéndoos en vuestro ánimo, como si fueseis protegidos
+por la mano de Dios para defender vuestra libertad, vuestras
+propiedades y vuestro país, ó lo que vosotros así llamáis.
+3. Lástima me dá, muy noble Lachoneus, el veros tan loco
+y tan vano, que podáis suponer que habéis de prevalecer en contra
+de tantos hombres valientes como tengo bajo mis órdenes, y
+que están actualmente sobre las armas, esperando con la mayor
+ansiedad la palabra para caer sobre los Nefitas y exterminarles.
+4. Yo que conozco su indomable espíritu, por haberles probado
+en el campo de batalla, y que conozco el odio eterno que os
+tienen, á causa de los numerosos perjuicios que les habéis causado;
+prevengo que si llegaren á caer sobre vosotros, os destruirían
+completamente;
+5. Por lo que os he escrito esta carta, sellándola con mi propia
+mano, por el interés de vuestra conservación, á causa de vuestra
+firmeza en lo que creáis ser justo, y vuestro noble espíritu en el
+campo de batalla;
+
+2k, 3442: Helamán 2:11-13.
+3a, 3443: III Nefi 1:1.
+3b, 3444: Véase m, Mosíah 29.
+
+Corrections
+[page] Running header "486 III NEFI. (CAP. III." discarded.
+[page] Page begins mid-verse (v.17 continues from page 485, which ended
+"16. ... concluyó el año trece."), so per rule 1 no blank line separates
+"Página 486" from the first body line.
+[rule 31] Space before punctuation removed: "grave ; no" → "grave; no",
+"aflicciones ;" → "aflicciones;", "siguiente :" → "siguiente:",
+"país ;" (x2) → "país;", "causado ;" → "causado;",
+"completamente ;" → "completamente;", "batalla ;" → "batalla;".
+[rule 6, double-space normalization] One justification-widened gap
+after a mid-line period ("...año catorce.  Y en el año quince" v.18)
+normalized to a single space — unconditional per rule 6, no
+`errors in 1920.txt` entry needed.
+[v.18 rejoin] "vol-" / "veron" → "volveron" — ordinary line-break
+hyphen, rejoined per rule 7. Note: the rejoined word itself reads
+"volveron", not the expected "volvieron" (31 occurrences of
+"volvieron" already elsewhere in the document, zero of "volveron")
+— zoomed to confirm the
+second line genuinely starts "veron" not "vieron", no damaged type or
+misread visible. Preserved as printed per rule 32 as a suspected 1920
+misprint (missing "i"); verify against 1886 in Session E.
+[Session E] Confirmed genuine 1920-only error against 1886 (file page
+501, book page 483 — this stretch of 1886 pages has its own running-
+header quirk, misprinting "II NEFI" for several consecutive pages that
+are actually III Nefi content; not logged as a 1920 error since it's
+an 1886 printing issue, not ours): 1886 reads "volviéron" at this spot.
+Added to `errors in 1920.txt`. Not currently pptext-flagged (spellcheck
+suspects section fully empty this run), so no `permitted words.txt`
+entry.
+[v.19] "etando" — zoomed to confirm the print genuinely reads "etando"
+with no "s" (no damaged/faint type visible in the gap between "quince,"
+and "etando"). Suspected misprint for "estando" (missing "s"), preserved
+as printed per rule 32; verify against 1886 in Session E.
+[Session E] Confirmed genuine 1920-only error against 1886 (same file
+page 501): 1886 reads "estando" at this spot. Added to `errors in
+1920.txt`. Not currently pptext-flagged, so no `permitted words.txt`
+entry.
+[v.2 rejoin] "man-" / "tener" → "mantener" — ordinary line-break hyphen,
+rejoined per rule 7.
+[v.4/5 boundary] "completamente;" (end of v.4) — a small isolated mark
+(short diagonal stroke, floating above the line, no grammatical fit)
+appears in the image immediately after the semicolon. Zoomed at high
+magnification: the mark doesn't match any expected punctuation shape at
+that position and doesn't align with the baseline the way a comma or
+dash would. Consistent with the scan-artifact pattern seen on pages
+472-473/475/483 (uneven ink/dust rather than genuine type) — omitted
+from the transcription; flagged here for the editor's own visual
+confirmation if desired, not logged in `errors in 1920.txt` since a
+scan artifact isn't a 1920 print defect.
+[page end] Page ends mid-verse (v.5 continues onto page 487) at an
+ordinary sentence break ("...espíritu en el campo de batalla;", no
+trailing hyphen) — not a rule 10 word-split case, page 487 simply
+continues with the next word.
+[fn k/a/b] None of this page's three footnote letters (k — chapter 2's
+lettering continuing past j, per rule 16; a, b — chapter 3's own
+restarted lettering) falls in the mandatory i/l/1 check set, so no
+mandatory 1879 cross-check was required. All three zoom-confirmed
+against the fn_zoom crop and body-text crops: "k" (Helamán 2:11-13) sits
+at "ladrones" in v.17 — content fits, another Gadianton-robber-band
+reference like page 485's "g" and 1-2a; "a" (III Nefi 1:1) sits at
+"Lachoneus" in ch.3 v.1 — direct self-reference to this book's own
+opening chapter; "b" (Véase m, Mosíah 29) sits at "derecho" in v.2 —
+content fits (rights/liberty by voice of the people), same target
+letter "m" in Mosíah 29 as page 485's "h", a recurring cross-reference
+target for this theme.
+[Session B] Independently re-verified all three Block 1 entries (k, a, b)
+and body markers against fresh crops of pages_1920/page_0508.png; all
+match exactly. Confirmed none of k/a/b nor cross-reference targets
+(Helamán 2:11-13, III Nefi 1:1, Mosíah 29's "m") is i/l/1, so no
+mandatory 1879 check applies.
+[check_line_wrap.py false flag] Same known limitation as page 484
+(2026-07-21c note): the script's `txt_body_lines()` stops at the FIRST
+blank line, and this page has a mid-page chapter heading (blank line
+before "CAPÍTULO 3." per rule 3), so it only counted verses 17-19 (13
+lines) and silently dropped chapter 3's 26 lines. Manual count of the
+full raw transcript (both halves) is 39 lines, exactly matching the
+OCR estimate (39) — confirms the line breaks are image-derived, not
+reflowed. Not a real discrepancy.

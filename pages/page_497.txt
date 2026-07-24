@@ -1,0 +1,227 @@
+Página 497
+persona, excepto que su condenación fuere firmada por el
+[3506]gobernador del país.
+23. Ahora hubieron muchos de los que habían testificado intrepidamente
+las cosas pertenecientes á Cristo, que fueron cogidos y
+ejecutados secretamente por los jueces, de modo que el conocimiento
+de su muerte no llegó al [3507]gobernador del país, sino hasta
+después que fué consumada.
+24. Pero, he aquí, que esto era contrario á las leyes del país,
+que no permitían que se quitara la vida á ninguna persona, excepto
+que tuviere poder del gobernador del país ;
+25. Por lo tanto, se presentó una queja en el país de [3508]Zarahemla,
+ante el gobernador del país, contra los jueces que habían
+condenado á muerte á los profetas del Señor, en contra de la ley.
+26. Y ahora, sucedió, que cogiéndoles, les trajeron ante el juez,
+para ser juzgados del crimen que habían cometido, según la
+ley que había sido dada por el [3509]pueblo.
+27. Ahora sucedió que aquellos jueces tenían muchos amigos
+y parientes ; y el resto, sí, aun casi todos los [3510]abogados y
+[3511]sumo-sacerdotes, se reunieron juntamente, y, se unieron con los
+parientes de aquellos jueces que iban á ser juzgados según la ley ;
+28. É hicieron un convenio unos con otros, sí, aun hicieron
+aquel convenio que venía de los antiguos, el mismo convenio
+que fué dado y administrado por el diablo, para combinarse en
+contra de toda justicia ;
+29. Por lo tanto, se combinaron en contra del pueblo del
+Señor, haciendo alianza de destruirles, y de librar á los que eran
+reos de los asesinatos y que estaban entonces bajo la mano de
+la justicia, próximos á ser castigados por la ley.
+30. Y desafiando la ley y los derechos de su patria, se convinieron
+mutuamente para matar al gobernador, y establecer
+rey sobre el país, á fin de que el país ya no fuere más [3512]libre,
+sino que quedara sometido á reyes.
+
+CAPÍTULO 7.
+
+1. Ahora, he aquí, os mostraré que no pudieron establecer rey
+en el país ; sino que en este mismo año, sí en el año treinta,
+destruyeron el asiento judicial, sí, y mataron al Juez Superior del
+país.
+2. Y se dividió el pueblo, unos en contra de otros ; y se separaron
+
+6p, 3506: Versículo 19.
+6q, 3507: Versículo 19.
+6r, 3508: Véase h, Omni 1.
+6s, 3509: Véase e, Mosíah 29.
+6t, 3510: Véase i.
+6u, 3511: Véase g, Mosíah 26.
+6v, 3512: Véase m, Mosíah 29.
+
+Corrections
+[page] Running header "CAP. VII.) III NEFI. 497" discarded.
+[page] Page begins with a fresh continuation of v.22 (chapter 6 already
+open, continuing from page 496), no chapter heading present, so no blank
+line separator per rule 1.
+[rule 7, rule 8] Hyphenated line-break split "gober-/nador" rejoined to
+"gobernador"; appended to the end of the first line (with marker
+[3506] inserted before it) the line would reach 73 characters (exactly
+at the cap), so per rule 8 the whole marked word "[3506]gobernador" was
+moved to start the next line instead, and "nador" dropped as redundant
+now that the full word is intact there.
+[rule 7] Hyphenated line-break split "intre-/pidamente" rejoined to
+"intrepidamente" (v.23); rejoined line is 70 chars, under 73, no rule 8
+rebalancing needed.
+[rule 7] Hyphenated line-break split "conoci-/miento" rejoined to
+"conocimiento" (v.23); rejoined line is 67 chars, no rebalancing needed.
+[rule 7] Hyphenated line-break split "ex-/cepto" rejoined to "excepto"
+(v.24); rejoined line is 66 chars, no rebalancing needed.
+[rule 7] Hyphenated line-break split "Zara-/hemla" rejoined to
+"Zarahemla," (v.25, comma travels with the rejoined word); rejoined
+line (with marker [3508] inserted before it) is 70 chars, no
+rebalancing needed.
+[rule 8, marker-caused overflow] v.27 line "y parientes ; y el resto,
+sí, aun casi todos los [3510]abogados y [3511]sumo-" reached 77
+characters once both sequential footnote markers were inserted; per
+rule 8 the marked unit "[3511]sumo-" was moved to start the next line
+instead.
+[compound-word hyphen, not a line-wrap split] v.27 "y [3511]sumo-/
+sacerdotes" retains its own internal hyphen rather than being rule-7
+rejoined — matches the established "sumo-sacerdote(s)" compound-hyphen
+precedent from page 496 (there confirmed against 1886 as a genuine
+part of the word, not a line-wrap artifact).
+[rule 7, rule 8] Hyphenated line-break split "pari-/entes" rejoined to
+"parientes" (v.27); appended after the "sumo-sacerdotes," line the
+combined line reached 79 characters, so per rule 8 "parientes" was
+moved to start the following line instead (leaving that prior line at
+69 chars).
+[rule 7] Hyphenated line-break split "se con-/vinieron" rejoined to
+"convinieron" (v.30); rejoined line is 67 chars, no rebalancing needed.
+[rule 8, marker-caused overflow] v.30 line "rey sobre el país, á fin de
+que el país ya no fuere más [3512]libre, sino" reached 73 characters
+once the marker was inserted (at the 72-char cap, not under it); per
+rule 8 the last word "sino" was moved to start of the next line.
+[rule 7, rule 8] Hyphenated line-break split "des-/truyeron" rejoined
+to "destruyeron" (ch.7 v.1); appended to the prior line the combined
+line reached 74 characters, so per rule 8 "destruyeron" was moved to
+start of the next line instead.
+[rule 10, resolved 2026-07-23c] Last word on the page, "sepa-" (ch.7
+v.2), was a genuine page-boundary hyphen split. Page 498's Session A
+rejoined it with that page's first word ("raron") to form "separaron."
+Appending the completed word to this page's last line keeps it at 67
+characters, under the 73-character cap, so per rule 10 the whole word
+was placed here (line now reads "...y se separaron") and page 498's
+body text begins with the following word, "unos," instead. See
+`pages/page_498.txt`'s Corrections log for the full note.
+[scan artifact, not transcribed] v.23: a small solid ink blob appears
+directly after "Ahora" and before "hubieron" (no letter shape, no
+counter, no separated dot — compared against this page's own p/q/r/s/
+t/u/v reference glyphs and found dissimilar). This page's footnote
+block has exactly 7 letters (p through v), and all 7 are fully
+accounted for by 7 confirmed body markers, confirming this mark is
+extraneous. Same class as the established floating-mark precedent on
+pages 483/490/492/494/495/496. Confirmed clean against 1886 (file page
+511/book 493): plain "Ahora hubo muchos" with no mark of any kind.
+[suspected physical print defect, transcribed as printed] v.23: the
+"l" of "las" ("las cosas pertenecientes á Cristo") prints as only a
+short vertical tick floating above the baseline, not the full stem+
+serif shape of this font's ordinary "l" — compared at high zoom
+against confirmed "l"/"t" strokes on this page and found consistent
+with a genuinely under-inked (not absent) letter, same class as the
+2026-07-18d scan-artifact judgment calls (uneven ink/physical-looking
+damage rather than a clean substitution of one full word-shape for
+another). Transcribed as "las" (grammatically required, "the things
+pertaining to Christ"); flagged here for Session E's benefit rather
+than logged as a misprint. Confirmed via 1886 (file page 511/book 493):
+"intrepidamente las cosas pertenecientes á Cristo" — plain "las," no
+damage of any kind, consistent with the ink-artifact call (1920 does
+contain the letter, just under-inked).
+[narrow space vs. merge, default per 2026-07-22 editor guidance] v.23
+"que fueron" measures a true zero-width gap in the print (no visible
+space between "que" and "fueron," unlike the clear word-gaps
+elsewhere on the same line), but per the current rule 6 default this
+is transcribed as two words with a normal single space (grammar
+requires two words; no pixel/zoom analysis performed) rather than as
+a merge. Surfaced here for Session E's summary per the standing
+instruction, not raised as a standalone question during Sessions A-D.
+Confirmed via 1886 (file page 511/book 493): "que fuéron cogidos y
+ejecutados" — clearly two words.
+[suspected physical print defect, transcribed without accent] v.29:
+"eran" ("los que eran reos") shows a small ink blob above the "e" that
+could be misread as an accent, but its shape (a blobby smudge attached
+to the letter's top-left, not a clean diagonal stroke) is visibly
+unlike this same page's genuine accented letters (e.g. "É hicieron,"
+v.28, which has a crisp diagonal accent stroke). Read as a print/scan
+artifact, not a genuine "érades"-style accent (which would also be
+grammatically anomalous for the imperfect indicative "eran"); logged
+here for Session E to double-check against 1886 if useful, not treated
+as a misprint. Confirmed via 1886 (file page 512/book 494): "los que
+eran reos" — plain "eran," no accent.
+[preserved as printed; confirmed genuine 1920 error] v.27 "se
+reunieron juntamente, y, se unieron" — the comma-"y"-comma
+construction is exactly as the image prints it; double-checked at zoom
+to rule out a stray mark being mistaken for a second comma. Checked
+against 1886 (file page 512/book 494) in Session E: 1886 reads
+"juntamente,y se uniéron" — a single comma after "juntamente," none
+after "y." The extra 1920 comma is a genuine 1920-only error, added to
+`errors in 1920.txt` (III Nefi 6:27).
+[fn t, mandatory 1879 check] Footnote t's own citation, "Véase i."
+(target letter i, this chapter's own lettering), is in the mandatory
+i/l/1 set even though letter t itself is not. Confirmed via BOM 1879
+Pratt file page 499 (chapter_map lists 3 Nephi ch.6 at file 497;
+content lands two pages later, continuing the "one page later" (or
+more) drift pattern already established throughout this book for this
+chapter): the 1879 footnote block reads "q, ver. 19.  r, see h, Omni
+1.  s, see e, Mos. 29.  t, see i.  u, see g, Mos. 26.  v, see m, Mos.
+29." — every one of this page's seven letters (p through v, "p, ver.
+19." appearing on the same 1879 page's continuation of the prior
+block) and their targets match the 1920 reading letter-for-letter and
+target-for-target. Content fit for t is strong: "Véase i" points to
+this chapter's own already-established "abogados" (lawyers) footnote
+(letter i, from page 495/496), and t itself marks "abogados" in this
+page's body text (v.27) — an exact thematic match. 1879 body text
+independently confirms marker placement too: "almost all the
+[t]lawyers and the [u]high priests" at the identical v.27 position.
+[fn u, v — content fit, discretionary 1879 bonus] u ("Véase g, Mosíah
+26") marks "sumo-sacerdotes" (v.27), matching the identical g/Mosíah
+26 target already established for "sumo-sacerdote(s)" on page 496
+(letters l and o there). v ("Véase m, Mosíah 29") marks "libre" (v.30,
+"ya no fuere más libre"), fitting the recurring liberty-themed
+Mosíah 29 cross-reference already seen on pages 485-486. Both
+independently reconfirmed via the same BOM 1879 Pratt file page 499
+crop as fn t above (1879 body text: "the land should no more be at
+[v]liberty").
+[chapter 7 subtitle check] Per the Section 1 rule requiring an
+explicit check at every chapter opening: III Nefi Chapter 7 (this
+page) has no subtitle/argument line between "CAPÍTULO 7." and verse 1
+in the 1920 image — confirmed directly, nothing omitted. Consistent
+with 1886 (file page 512/book 494), which also opens Chapter 7 with
+verse 1 directly, no subtitle (only the ordinary minor accent
+variation "hé aquí" vs. 1920's "he aquí," not logged separately per
+established precedent).
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260723.
+html) came back clean in the Spellcheck Suspect Words and Edit
+Distance sections for this page (only the pre-existing, unrelated
+"Profecia"/"profeciá" hits from page 469 appear). The "sumo-sacerdotes"
+vs. "Sumo Sacerdotes" hyphenation/spaced-pair category includes this
+page's new v.27 instance (line 22259) — individually checked against
+1886 (file page 511/book 493) per the standing "don't wave a whole
+category through" instruction: 1886 also hyphenates "sumo-sacerdotes"
+at this exact spot, confirming the compound hyphen is genuine, not a
+new exception. All three of this page's own Corrections-log
+scan-artifact/narrow-space judgment calls ("Ahora" ink blob, "las"
+under-inked "l", "que fueron" zero-visible-gap, "eran" accent blob)
+were independently confirmed against 1886 (file pages 511-512, book
+493-494) and found consistent with the calls already made at
+transcription time — no reversals needed. One new genuine 1920-only
+error was found and confirmed: v.27's "juntamente, y, se unieron"
+spurious extra comma after "y" (1886 has only one comma, after
+"juntamente") — added to `errors in 1920.txt`. Full-document
+footnote-anchor check (union of both pptext buckets, range 1-3512):
+zero duplicates, zero out-of-range, only the pre-existing 812 gap.
+Curly-quote scan (zero curly quotes in either master file) and dash
+check (only the expected pending "sepa-" page-boundary hyphen, rule
+10) both clean. "Full stop followed by unexpected sequence" and
+paragraph-level checks: no hits anywhere in this page's line range.
+Jeebies clean.
+[Session B] Independently re-verified all 7 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0519.png; matches
+Session A exactly. The mandatory 1879 check for footnote t's target
+letter i was re-run independently via a fresh `process_page.py` call
+on BOM 1879 Pratt file page 499 (chapter_map lists 3 Nephi ch.6 at
+file 497; ruled out file 500, which independently confirmed to already
+be chapter 7's own footnote block a-c, consistent with the established
+drift pattern for this chapter) — reconfirmed letter-for-letter and
+target-for-target: "q, ver. 19.  r, see h, Omni 1.  s, see e, Mos. 29.
+t, see i.  u, see g, Mos. 26.  v, see m, Mos. 29." No errors found; no
+changes made.

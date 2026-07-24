@@ -127,6 +127,21 @@ spellcheck section talk you out of logging it in `errors in 1920.txt`.
 It only means no `permitted words.txt` entry is needed (matching the
 "Jesu Cristo" no-op precedent above), not that the word is fine.
 
+## Batch the narrow-space-vs-merge flags into this session's summary
+
+Per `feedback_narrow_space_vs_merge`: when Session A defaults a tight
+word-pair to two words (because 1886/grammar supports two words), it
+notes this in the page's Corrections log at transcription time but does
+NOT raise it to the editor mid-pipeline — Sessions A-D run straight
+through without stopping on it. Session E is where these surface: sweep
+the page's Corrections log for these notes and list them together in
+this session's summary to the editor (book/chapter/verse, the two words
+involved), so the editor can double-check against the actual image on
+their own schedule. Don't re-litigate the call yourself — the two-word
+transcription is already the committed default; this is purely a "you
+may want to look at these" pointer, not a pending decision blocking
+anything else in Session E.
+
 ## Mandatory check for any suspected error, in any section
 
 This applies everywhere in Session E, not just the spellcheck/flagged-word
@@ -498,6 +513,27 @@ direct text correction, not an `errors in 1920.txt` entry, since it's
 purely a transcription-formatting slip with no bearing on what the
 1920 original actually printed).
 
+### Spaced punctuation check
+
+**Do not confuse this with the "spacing pattern check" section** near the
+top of the report (Text Analysis Report), which is a different, unrelated
+check that has read 0 hits in every report seen so far. "Spaced
+punctuation" is a separate section, much further down the report
+(interleaved with the paragraph/book-level checks), that flags any comma,
+semicolon, colon, exclamation mark, or question mark preceded by a space.
+**This section was missing from the progress tracker below from
+2026-07-11 through 2026-07-23** — it was never being walked as its own
+section, which is exactly how a real, repeatable defect (a printed or
+justification-added space before ";"/"!" ) went unnoticed and even got
+misdiagnosed as an intentional "established recent-pages convention" on
+pages 496-502 (see rule 31 in `libro_de_mormon_rules.md`, corrected
+2026-07-24). Per rule 31, every hit in this section should be fixed by
+removing the space — there is no legitimate case where 1920 intentionally
+prints a space before one of these marks that should be preserved; this
+check never writes to `permitted words.txt` (punctuation, not spelling)
+and does not need an `errors in 1920.txt` entry either (it's a
+transcription-normalization rule, not a question of what 1920 printed).
+
 ### Special situations checks
 
 A grab-bag of unrelated sub-checks, each a simple regex/inventory over
@@ -604,6 +640,9 @@ order (see `workspace/report_wsl_*.html`):
 - Footnote check
 - Scanno check
 - Curly quote check
+- Spaced punctuation check (added to this tracker 2026-07-24 — was
+  present in every report all along but never listed here, which is why
+  it went unwalked; see the dedicated subsection above)
 - Special situations checks
 - Book level checks (as of 2026-07-12 report — all zero, clean)
 - Paragraph level checks (as of 2026-07-12 report — see note below)

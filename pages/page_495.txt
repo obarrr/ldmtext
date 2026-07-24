@@ -1,0 +1,177 @@
+Página 495
+2. Y sucedió que como no habían consumido todas sus provisiones,
+llevaron también consigo el resto de sus granos de toda
+specie, así como el oro, la plata y todas las cosas preciosas ;
+volviendo otra vez á ocupar sus tierras y posesiones, tanto en el
+[3492]país del Norte como en el [3493]país del Sud.
+3. Y concedieron á aquellos bandidos que habían [3494]entrado
+en la alianza de paz, los que pertenecían á aquella partida que
+deseaba permanecer Lamanita, terrenos según su número, con
+objeto de que pudieran vivir de su trabajo ; y así restablecieron
+la paz en todo el país.
+4. Y así empezaron á posperar y hacerse fuertes ; y así
+pasaron los años veintiséis, y veintisiete, reinando una paz
+completa en el país ; y habían establecido sus leyes según la
+equidad y la justicia.
+5. Y no había nada en el país que les impidiera de prosperar
+continuamente ; como no cayeran en la transgresión.
+6. Y ahora era [3495]Gidgiddoni, con el [3496]Juez Lachoneus, y los
+jefes que habían sido elegidos, los que proporcionaron al pueblo
+esta gran paz en el país.
+7. Y sucedió que construyeron muchas ciudades nuevas, y
+repararon muchas de las antiguas ;
+8. Y se abrieron [3497]muchos caminos, y muchas calzadas fueron
+construidas de unas ciudades á otras, y de un país á otro, y de
+un lugar á otro.
+9 Y ásí se pasó el año vientiocho y la gente continuó en
+permanente paz.
+10. Pero aconteció que en el año vientinueve, empezáronse
+á levantar disputas entre el pueblo ; y hubieron algunos que se
+hincharon en orgullo y vanagloria, por causa de sus inmensas
+riquezas, sí, aún hasta grandes persecuciones ;
+11. Porque habían muchos [3498]mercaderes en el país, como
+también muchos [3499]abogados y oficiales públicos.
+12. Y empezó el pueblo á dividirse por clases, según sus
+riquezas, y sus oportuñidades para la instrucción, sí, porque
+habían muchos que eran ignorantes á causa de su indigencia,
+mientras que otros recibían grande instrucción á cause de sus
+riquezas ;
+13. Sí, porque éstos se exaltaban en su orgullo, al paso que
+aquéllos se hallaban abatidos en su humildad ; unos respondían
+con insultos á los que les insultaban, mientras que otros sufrían
+las injurias, persecuciones, y toda clase de males, sin retaliar
+una vez, y se mantenían humildes y sumisos á la voluntad de
+Dios ;
+
+6b, 3492: Norte América.
+6c, 3493: Sur América.
+6d, 3494: III Nefi 5:4.
+6e, 3495: Véase h, III Nefi 3.
+6f, 3496: III Nefi 1:1; 3:1.
+6g, 3497: Helamán 14:24; III Nefi 8:13.
+6h, 3498: Helamán 6:8.
+6i, 3499: Versículos 21,22,27; Alma 10:14-15,17,27,32; 14:5,18,23,27.
+
+Corrections
+[page] Running header "CAP. VI.) III NEFI. 495" discarded.
+[page] Page begins with a fresh verse (v.2) at the top; no chapter
+heading present (chapter 6 already opened on page 494), so no blank
+line separator per rule 1.
+[rule 7] Hyphenated line-break split "pro-/visiones" rejoined to
+"provisiones" (v.2); rejoined line stays under 73 chars, no rule 8
+rebalancing needed.
+[rule 6, unconditional double-space normalization] v.2 "plata y  todas"
+(visibly wider gap in the print) normalized to "plata y todas".
+[rule 6, narrow-but-real space] v.2 "consigo el" prints with a
+noticeably tighter gap than surrounding word-spacing on the same line;
+transcribed as two words with a normal single space per the current
+default (no zoom/pixel analysis performed). Noted here per that rule;
+surfaced in Session E's summary rather than raised as a standalone
+question during Sessions A-D.
+[scan artifact, not transcribed] v.4 "completa en. el país": a small
+isolated dot appears between "en" and "el" with no grammatical basis
+for a period there (mid-sentence). Same class as the established
+floating-dot precedent (pages 483/490/492/494); transcribed as
+"completa en el país".
+[suspected misprint, preserved as printed per rule 32]: v.2 "specie"
+for what should read "especie" (missing initial "e") — image confirmed
+at zoom. Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.4 "posperar"
+for what should read "prosperar" (missing "r") — image confirmed at
+zoom; this same page correctly spells "prosperar" at v.5, highlighting
+the v.4 instance as an isolated misprint. Verify against 1886 in
+Session E.
+[suspected misprint, preserved as printed per rule 32]: v.9 "9" lacks
+the period every other verse number on this page has (2., 3., 4., 5.,
+6., 7., 8., 10., 11., 12., 13.) — image confirmed at zoom, no period
+present. Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.9 "ásí" for
+what should read "así" (accent mark appears on both "a" and "í" instead
+of only "í") — image confirmed at high zoom. Verify against 1886 in
+Session E.
+[suspected misprint, preserved as printed per rule 32]: v.9 "vientiocho"
+for what should read "veintiocho" (missing "e") — image confirmed at
+zoom; matches the established recurring "vient-" for "veinti-" pattern
+already confirmed as genuine errors elsewhere in this document (III
+Nefi 5:7-8, four instances). Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.10
+"vientinueve" for what should read "veintinueve" (missing "e") — same
+pattern as v.9's "vientiocho". Verify against 1886 in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.12
+"oportuñidades" for what should read "oportunidades" (tilde over what
+should be a plain "n") — image confirmed at zoom. Verify against 1886
+in Session E.
+[suspected misprint, preserved as printed per rule 32]: v.12 "cause"
+for what should read "causa" ("á cause de sus riquezas") — image
+confirmed at zoom. Verify against 1886 in Session E.
+[fn i, mandatory 1879 check] Letter i is in the mandatory i/l/1 set
+(this page's own letter, direct citation "Versículos 21,22,27; Alma
+10:14,15,17,27,32;14:5,18,23,27.", no Véase). Confirmed via BOM 1879
+Pratt file page 498 (chapter_map lists 3 Nephi ch.6 at 497; content
+lands one page later — same "one page later" drift pattern seen
+throughout this book): "i, vers. 21, 22, 27. Alma 10:14, 15, 17, 27,
+32. 14:5, 18, 23, 27." — matches 1920 letter-for-letter and
+target-for-target exactly (matched by target content per rule 26, not
+just position). The 1920 fn_zoom glyph for "i" (short stroke with a
+separated dot) is also unambiguous on its own — not a swash font on
+this page.
+[fn b-h] Letters b-h (chapter 6's continuing lettering after page 494's
+"a") resolved by direct 1920 image read; b/c/d/f/g/h independently
+cross-checked against BOM 1879 Pratt file pages 497-498 (chapter_map
+3 Nephi ch.6, "one page later" content drift for d-i) as a discretionary
+bonus, matching letter-for-letter and target-for-target: "d, III. Nep.
+5:4. e, see h, III. Nep. 3. f, III. Nep. 1:1. 3:1. g, Hela. 14:24. III.
+Nep. 8:13. h, Helá. 6:8."
+[Session B] Independently re-verified all 8 Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0517.png; matches
+Session A exactly. Mandatory 1879 check for letter i re-run
+independently via a fresh `process_page.py` call on BOM 1879 Pratt
+file page 498 (chapter_map lists 497, content lands one page later);
+reconfirmed "i, vers. 21, 22, 27. Alma 10:14, 15, 17, 27, 32. 14:5, 18,
+23, 27." at the identical position, letter-for-letter and
+target-for-target. No errors found; no changes made.
+[Session E] Fresh pptext regeneration (workspace/report_wsl_20260722h.html)
+flagged 5 spellcheck suspects from this page: "posperar", "retaliar",
+"specie", "vientiocho", "ásí" (the pre-existing "Profecia" hit is
+unrelated, from page 469). All confirmed against 1886 (file pages
+509-510, chapter_map III Nefi ch.6): v.2 "specie" (1886: "especie"),
+v.4 "posperar" (1886: "prosperar" — this page's own v.5 also spells it
+correctly, isolating v.4), v.9 "ásí" (1886: "así", unaccented on "a"),
+v.9 "vientiocho" (1886 spells it out as "veinte y ocho", but the
+established "vient-" for "veinti-" contraction-error pattern from III
+Nefi 5:7-8 applies — RAE has no "vient-" entry, only "veinti-"). All
+four added to `errors in 1920.txt` and `permitted words.txt` (this run
+did flag all four). "retaliar" (v.13, "sin retaliar una vez") is
+confirmed legitimate: 1886 prints the identical word at the identical
+spot ("sin retaliar una vez,y se mantenían..."), and RAE DLE has
+related entries "retaliación"/"retaliador" (regional Mexico/Venezuela
+usage, from Latin "retaliare") confirming the root is real Spanish, not
+an invented word — added to `permitted words.txt` only, no `errors in
+1920.txt` entry. Two suspected misprints from this page's own
+Corrections log were NOT flagged by pptext this run (known brand-new-
+single-occurrence quirk) but independently confirmed against 1886
+anyway and added to `errors in 1920.txt` (no `permitted words.txt`
+entry needed for these two): v.10 "vientinueve" (1886: "veinte y
+nueve", same vient-/veinti- pattern as v.9) and v.12 "oportuñidades"
+(1886: "oportunidades", plain "n"). v.9's "9" lacking a period (every
+other verse number on this page has one; 1886 confirms "9." with a
+period) was also confirmed and added to `errors in 1920.txt`. v.12
+"cause" for "causa" was confirmed against 1886 ("á causa de sus
+riquezas") and added to `errors in 1920.txt`; not flagged by pptext
+this run (brand-new-single-occurrence quirk) so no `permitted
+words.txt` entry — note "cause" is technically a valid Spanish word
+(subjunctive of "causar") but doesn't fit grammatically here, where the
+noun "causa" is required. The v.4 "completa en. el país" scan-artifact
+call is confirmed: 1886 shows plain "completa en el pais" with no mark
+of any kind at that spot. Full-document footnote-anchor check (regex
+scan of `[NNN]`): max 3499, zero duplicates, zero out-of-range, only
+the pre-existing 812 gap. Curly-quote scan (zero curly quotes in either
+master file) clean; this page's body text has no hyphens post-rejoin,
+so no dash-check findings. No pptext report hits (any section) in this
+page's line range beyond the spellcheck suspects already addressed
+above.
+[narrow-space-vs-merge, flagged for editor review per
+`feedback_narrow_space_vs_merge`] v.2 "consigo el" (tight kerning,
+transcribed as two words per the current default) — not a stopping
+point, just surfaced here for the editor to double-check against the
+image at their convenience.

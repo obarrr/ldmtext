@@ -23,8 +23,8 @@ corazones en ellas, las ocultaré cuando se huirán ante sus enemigos,
 por no haber querido ocultarlas para mí; malditos son
 ellos, y malditos sean sus tesoros; y en aquel día serán heridos,
 dice el Señor.
-21. He aquí,escuchad mis palabras, habitantes de esta gran
-ciudad; sí, escuchadlas palabras del Señor; porque, he aquí, que
+21. He aquí, escuchad mis palabras, habitantes de esta gran
+ciudad; sí, escuchad las palabras del Señor; porque, he aquí, que
 el Señor dice, que sois malditos á causa de vuestras riquezas,
 y que vuestras riquezas son malditas también. porque habéis
 puesto vuestro corazón en ellas, y desechado las palabras del
@@ -74,13 +74,22 @@ was inserted; per rule 8, "apedreáis," was moved to the next line,
 which then itself reached 75 characters, so "mismo" was moved again to
 the start of the following line. Rebalanced across three lines, all
 under 72 characters.
-[v.21] "aquí,escuchad" — preserved as printed; no space between the
-comma and "escuchad" in the source image (letters touch directly).
-Appears to be a print/justification defect (missing interword space),
-not a spelling error — not silently corrected.
-[v.21] "escuchadlas" — preserved as printed; same missing-space defect
-as above, between "escuchad" and "las" ("sí, escuchadlas palabras del
-Señor"). Not silently corrected.
+[v.21, corrected 2026-07-22] "aquí,escuchad" — originally transcribed
+as printed (no space visible between the comma and "escuchad" in the
+source image). Per editor review and the current rule 6 default
+(missing-space defects between a comma and the following word are
+normalized, not preserved as a merge), corrected to "aquí, escuchad"
+with a normal space. No `errors in 1920.txt` entry — punctuation
+spacing, not a misprint.
+[v.21, corrected 2026-07-22] "escuchadlas" — originally transcribed as
+printed (no space visible between "escuchad" and "las" in the source
+image). Grammar requires two words here ("escuchad" + "las palabras
+del Señor" as its object; the enclitic reading "escuchad+las" doesn't
+fit since "las" is needed as the article for "palabras," not a pronoun
+standing in for it) — per the current rule 6 default (2026-07-22
+editor guidance: default to two words when grammar/1886 requires it,
+no zoom/pixel analysis needed), corrected to "escuchad las" with a
+normal space. No `errors in 1920.txt` entry.
 [v.21] "aunuciado" — preserved as printed; apparent 1920 misprint for
 "anunciado" (missing "n"), same error pattern as page 470 v.7
 "aninciado". Verify against 1886 in Session E.

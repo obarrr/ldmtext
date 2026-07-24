@@ -9,7 +9,7 @@ y una noche; no obstante, la noche no será obscura; y esta será la
 noche que precederá á su nacimiento:
 5. He aquí que aparacerá una [3356]nueva estrella, tal como nunca
 la habréis visto; la que os será también de señal.
-6. Y, he aquí, que no esesto todo, sino que aparecerán también
+6. Y, he aquí, que no es esto todo, sino que aparecerán también
 [3357]muchas señales y prodigios en el cielo.
 7. Y vendrá á suceder, que os admiraréis, y os quedaréis todos
 maravillados de tal manera que [3358]caeréis por tierra.
@@ -65,11 +65,16 @@ found in 1886 at the same spot (shared error, not caught by the 1886
 comparison alone) — confirmed genuine via RAE (no entry for
 "aparacer") and reference-corpus/modern-edition research; added to
 errors in 1920.txt.
-[v.6] "esesto" — preserved as printed; no space between "es" and
-"esto" in the source image (letters touch directly, confirmed at
-zoom: e-s-e-s-t-o). Same missing-interword-space print defect already
-noted on pages 471-472 ("aquí,escuchad", "escuchadlas",
-"acordadodel"). Not silently corrected.
+[v.6] "esesto" — originally preserved as printed (treated as a true
+zero-space merge, "no space between 'es' and 'esto'") and added to
+`permitted words.txt`. **Reversed 2026-07-23, editor correction**: the
+editor reviewed the actual page image and determined there is a real
+space between "es" and "esto" — not a genuine merge. Corrected to
+"es esto" in this file, `librodm.txt`, and
+`chapters_emailed/Helaman_14.txt`; the `permitted words.txt` entry was
+removed. This was the only page-474 instance treated this way; pages
+471-472's comma-adjacent narrow-gap cases ("aquí,escuchad",
+"escuchadlas", "acordadodel") are unaffected.
 [page] Page ends mid-verse 15 ("...que muriera,"); no hyphen present,
 a natural page-boundary line wrap — verse 15 continues onto page 475.
 [fn i] Superscript "i" (v.12, before "Padre") is one of the mandatory
