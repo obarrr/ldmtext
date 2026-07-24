@@ -2,42 +2,42 @@ Página 476
 24. Y se romperán muchas [3377]calzadas, y [3378]muchas ciudades
 quedarán desoladas,
 25. Y [3379]muchas sepulturas se abrirán, y entregarán muchos
-de sus muertos ; y [3380]muchos santos aparecerán á muchos.
-26. Y, he aquí, que esto es lo que el ángel me ha anunciado ;
+de sus muertos; y [3380]muchos santos aparecerán á muchos.
+26. Y, he aquí, que esto es lo que el ángel me ha anunciado;
 porque me ha dicho, que [3381]habrá truenos y relámpagos por
-espacio de muchas horas ;
+espacio de muchas horas;
 27. Y me ha dicho que mientras que duren estos truenos y
 relámpagos, y la tempestad, que sucederá esto, y que la obscuridad
 cubrirá la faz de toda la tierra por espacio de [3382]tres días.
 28. Y me dijo el ángel, que muchos verán cosas mayores que
 estas, para que crean que estos prodigios y estas señales se
-verificarán por toda la superficie de este país ; con el objeto
+verificarán por toda la superficie de este país; con el objeto
 de que no haya ningún motivo de incredulidad entre los hijos de
 los hombres.
 29. Y esto será con el objeto de que quienquiera que crea,
-pueda salvarse ; y que los que no crean, sufrirán que un justo
-castigo caiga sobre ellos ; y también, si se condenaren, que se
+pueda salvarse; y que los que no crean, sufrirán que un justo
+castigo caiga sobre ellos; y también, si se condenaren, que se
 hayan atraído por sí mismos su propia condenación.
 30. Y ahora, recordad, recordad, mis hermanos, que él que
 perece, perece de sí mismo, y él que practica la iniquidad, lo
-hace de sí mismo ; porque, he aquí, que sois [3383]libres, y tenéis
+hace de sí mismo; porque, he aquí, que sois [3383]libres, y tenéis
 el privilegio de obrar según vuestra libre voluntad, porque Dios
-os ha dado el conocimiento, y os ha hecho libres ;
+os ha dado el conocimiento, y os ha hecho libres;
 31. Él os ha concedido que discernáis el bien del mal, y que
 podáis escoger la vida ó la muerte, y que podáis hacer bien,
 y ser restaurados á lo que sea bueno, ó que lo que sea bueno,
-se os sea [3384]restaurado ; ó que podáis hacer mal, y que lo que
+se os sea [3384]restaurado; ó que podáis hacer mal, y que lo que
 fuere malo, se os sea restaurado.
 
 CAPÍTULO 15.
 
 1. Y ahora, amados hermanos míos, he aquí, os declaro, que
-excepto que os arrepintáis, vuestras [3385]casas quedarán desoladas ;
+excepto que os arrepintáis, vuestras [3385]casas quedarán desoladas;
 2. Sí, que como no os arrepintáis, vuestras esposas tendrán
-gran motivo para lamentarse en el día que den de mamar ;
-porque intentarán á escapar, y no habrá lugar de refugio ; sí,
+gran motivo para lamentarse en el día que den de mamar;
+porque intentarán á escapar, y no habrá lugar de refugio; sí,
 ay de las que estén embarazadas, porque se hallarán pesadas,
-y no podrán huir ; por lo tanto, serán atropelladas y serán
+y no podrán huir; por lo tanto, serán atropelladas y serán
 abandonadas, para que perezcan.
 
 14x, 3377: III Nefi 8:13.
@@ -133,3 +133,4 @@ was read from the top/mid/bot image crops individually (see body1/
 body2/body3 crops covering the full page). Worth teaching
 check_line_wrap.py about mid-page chapter boundaries if this
 recurs.
+[2026-07-24, user correction] 13 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

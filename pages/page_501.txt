@@ -3,36 +3,36 @@ primer mes, que se levantó una tormenta tan grande como nunca
 se había visto en el país.
 6. Y hubo también una [3528]grande y terrible tempestad, con
 [3529]terribles truenos, de tal modo que sacudían toda la tierra como
-si se fuera á dividir por la mitad ;
+si se fuera á dividir por la mitad;
 7. Siendo tan [3530]resplandecientes los relámpagos, como nunca
 se habían visto en todo el país.
-8. Y se quemó la [3531]ciudad de Zarahemla ;
+8. Y se quemó la [3531]ciudad de Zarahemla;
 9. Y se hundió la [3532]ciudad de Moroni en las profundidades del
-mar, ahogándose sus habitantes ;
+mar, ahogándose sus habitantes;
 10. Y la tierra cubrió la [3533]ciudad de Moroníhah, de modo que
-en lugar de la ciudad, apareció un gran monte ;
+en lugar de la ciudad, apareció un gran monte;
 11. Y hubo una grande y terrible destrucción en el país del
 [3534]Sud.
 12. Pero, he aquí, que la destrucción fué mucho más grande y
-terrible en el país del [3535]Norte ; porque, he aquí, que toda la
+terrible en el país del [3535]Norte; porque, he aquí, que toda la
 extensión de esta región fué cambiada por la [3536]tempestad, por los
 [3537]torbellinos, por los [3538]truenos, y por los [3539]relámpagos, y
-por los violentos temblores de toda la tierra ;
+por los violentos temblores de toda la tierra;
 13. Y se rompieron las [3540]calzadas, y se desnivelaron los caminos,
 y muchos terrenos llanos se [3541]hicieron escabrosos,
 14. Y se [3542]hundieron muchas grandes y notables ciudades,
 [3543]quemándose otras muchas, y otras fueron de tal modo sacudidas
 que [3544]cayeron los edificios, muriendo en ellos sus habitantes, y
-quedando sus lugares desolados ;
+quedando sus lugares desolados;
 15. Y quedaron algunas ciudades, pero arruinadas por las
 grandes averías que habían sufrido, muriendo en ellas muchos de
-sus habitantes ;
+sus habitantes;
 16. Y algunos fueron llevados por el [3545]torbellino, sin que nadie
-supiera á donde fueron á parar ; solo se sabe que desaparecieron.
+supiera á donde fueron á parar; solo se sabe que desaparecieron.
 17. Así fué desfigurada toda la superficie del país, á causa
 de las [3546]tempestades, y de los [3547]truenos, y [3548]relámpagos, y
 de los temblores de tierra.
-18. Y, he aquí, que se hendieron las [3549]rocas ; y se hicieron
+18. Y, he aquí, que se hendieron las [3549]rocas; y se hicieron
 pedazos sobre toda la superficie de la tierra, dónde se encontraron
 después esparcidas en rotos [3550]fragmentos, y en juntas, y
 en aperturas, sobre toda la superficie de la tierra.
@@ -172,9 +172,15 @@ belong to page 469's already-logged "Profecia"), no new hyphenation/
 spaced-pair findings, footnote check (union of both anchor buckets)
 confirms 3520-3554 fully covered with zero duplicates/out-of-range,
 dash check's one hit in range (3537's "10:13-14") is the expected verse-
-range hyphen per rule 23, "spaced punctuation" hits are all the
-document-wide, established space-before-semicolon/exclamation
-convention (matches the 1920 print exactly, not page-specific), no new
+range hyphen per rule 23. "Spaced punctuation" hits on this page were
+wrongly waved through at the time as a "document-wide, established
+space-before-semicolon/exclamation convention" — there was no such
+convention; this reading contradicted rule 31, which already required
+removing a space before a semicolon. Reversed 2026-07-24 (user
+correction): 10 instances on this page were corrected to remove the
+space, in this file and in `librodm.txt`, matching the correction applied
+across pages
+470-501; see rule 31 in `libro_de_mormon_rules.md`. No new
 "full stop followed by unexpected sequence" hits, book/paragraph-level
 checks clean, Jeebies clean. This page's own Corrections log has no
 suspected-misprint/spelling notes to run through the mandatory 1886

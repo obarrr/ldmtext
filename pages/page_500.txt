@@ -3,36 +3,36 @@ Página 500
 [3520]demonios, y quiénes habían sido curados de sus enfermedades
 y dolencias, manifestaron al pueblo con toda verdad, que el
 Espíritu de Dios había descendido sobre ellos, y que habían sido
-curados ; mostrando también otras señales, y haciendo algunos
+curados; mostrando también otras señales, y haciendo algunos
 milagros entre el pueblo.
 23. Y así concluyó el año treinta y dos. Y al principiar el
 año treinta y tres, Nefi llamó al pueblo y le predicó el arrepentimiento
 y la remisión de los pecados.
 24. Y ahora quiero que recordéis también, que no hubo ninguno
 de los que vinieron á arrepentirse, que no fuera [3521]bautizado en el
-agua ;
+agua;
 25. Por lo tanto, fueron ordenados por Nefi algunos hombres
 para este ministerio, para que todos los que viniesen á ellos,
-fuesen bautizados en el agua ; haciéndolo así, para que sirviese
+fuesen bautizados en el agua; haciéndolo así, para que sirviese
 de testigo y testimonio ante Dios y para el pueblo, de que se
 habían arrepentido, y habían recibido la remisión de sus pecados.
 26. Y al principio de este año, fueron muchos los que recibieron
-el [3522]bautismo de arrepentimiento ; y así se pasó la mayor parte del
+el [3522]bautismo de arrepentimiento; y así se pasó la mayor parte del
 año.
 
 CAPÍTULO 8.
 
 1. Y ahora sucedió que según nuestros anales, que sabemos
-que son verdaderos ; porque, he aquí, eran llevados por un hombre
-[3523]justo ; quién de seguro hizo [3524]muchos milagros en nombre de
-Jesús ; y no hubo ningún hombre que pudiera hacer milagros
+que son verdaderos; porque, he aquí, eran llevados por un hombre
+[3523]justo; quién de seguro hizo [3524]muchos milagros en nombre de
+Jesús; y no hubo ningún hombre que pudiera hacer milagros
 en el nombre de Jesús, excepto que estuviese completamente
 limpio de su iniquidad.
 2. Sucedió pues, que si no hubo equivocación en la manera con
 que este hombre calculaba nuestro tiempo, el año [3525]treinta y tres
 se había ya pasado.
 3. Y el pueblo empezó á mirar con gran entusiasmo por la
-señal dada por el profeta Samuel, el Lamanita ; sí, por el tiempo
+señal dada por el profeta Samuel, el Lamanita; sí, por el tiempo
 que hubiere [3526]tinieblas por espacio de tres días en toda la
 extensión del país.
 4. Y á pesar de habérseles sido dadas tantas señales, empezaron
@@ -109,3 +109,4 @@ i, see u, II. Nep. 9.  j, see u, II. Nep. 9." plus a same-page glyph
 comparison (v.24's "i": short stroke + separated dot; v.26's "j":
 matching stroke with a curved descender below the baseline). No errors
 found.
+[2026-07-24, user correction] 8 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

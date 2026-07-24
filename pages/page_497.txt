@@ -8,7 +8,7 @@ de su muerte no llegó al [3507]gobernador del país, sino hasta
 después que fué consumada.
 24. Pero, he aquí, que esto era contrario á las leyes del país,
 que no permitían que se quitara la vida á ninguna persona, excepto
-que tuviere poder del gobernador del país ;
+que tuviere poder del gobernador del país;
 25. Por lo tanto, se presentó una queja en el país de [3508]Zarahemla,
 ante el gobernador del país, contra los jueces que habían
 condenado á muerte á los profetas del Señor, en contra de la ley.
@@ -16,13 +16,13 @@ condenado á muerte á los profetas del Señor, en contra de la ley.
 para ser juzgados del crimen que habían cometido, según la
 ley que había sido dada por el [3509]pueblo.
 27. Ahora sucedió que aquellos jueces tenían muchos amigos
-y parientes ; y el resto, sí, aun casi todos los [3510]abogados y
+y parientes; y el resto, sí, aun casi todos los [3510]abogados y
 [3511]sumo-sacerdotes, se reunieron juntamente, y, se unieron con los
-parientes de aquellos jueces que iban á ser juzgados según la ley ;
+parientes de aquellos jueces que iban á ser juzgados según la ley;
 28. É hicieron un convenio unos con otros, sí, aun hicieron
 aquel convenio que venía de los antiguos, el mismo convenio
 que fué dado y administrado por el diablo, para combinarse en
-contra de toda justicia ;
+contra de toda justicia;
 29. Por lo tanto, se combinaron en contra del pueblo del
 Señor, haciendo alianza de destruirles, y de librar á los que eran
 reos de los asesinatos y que estaban entonces bajo la mano de
@@ -35,10 +35,10 @@ sino que quedara sometido á reyes.
 CAPÍTULO 7.
 
 1. Ahora, he aquí, os mostraré que no pudieron establecer rey
-en el país ; sino que en este mismo año, sí en el año treinta,
+en el país; sino que en este mismo año, sí en el año treinta,
 destruyeron el asiento judicial, sí, y mataron al Juez Superior del
 país.
-2. Y se dividió el pueblo, unos en contra de otros ; y se separaron
+2. Y se dividió el pueblo, unos en contra de otros; y se separaron
 
 6p, 3506: Versículo 19.
 6q, 3507: Versículo 19.
@@ -225,3 +225,4 @@ drift pattern for this chapter) — reconfirmed letter-for-letter and
 target-for-target: "q, ver. 19.  r, see h, Omni 1.  s, see e, Mos. 29.
 t, see i.  u, see g, Mos. 26.  v, see m, Mos. 29." No errors found; no
 changes made.
+[2026-07-24, user correction] 6 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

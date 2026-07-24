@@ -57,14 +57,28 @@ Trigger: "Transcribe page NNN[, first footnote NNNN]."
    suspected misprints per rule 32 (preserve as printed, log in
    Corrections, never silently "correct").
 8. Write `pages/page_NNN.txt` (body + Block 1 + Corrections).
-9. Run `check_lines.py pages/page_NNN.txt` — this is the mechanical
-   backstop (flags both overlength lines and any trailing hyphen a
-   line-break split left behind), not a substitute for steps 5/6. Then
-   run `check_line_wrap.py <book_page> pages/page_NNN.txt` — an advisory
-   OCR-based cross-check that flags a body line count or length profile
-   that looks reflowed rather than image-derived (see rule 6's note on
-   the page 475 incident). A clean result from either script does not
-   by itself prove the line breaks are correct — only the per-line image
-   read in step 5 does that.
+9. Run `check_spaced_punctuation.py pages/page_NNN.txt` first — the
+   mechanical backstop for rule 31 (flags any space before a comma,
+   semicolon, colon, "!", or "?", whether from the original print or
+   introduced during transcription; a hit inside the Corrections log
+   itself may be a historical quote, not a live defect — check context).
+   Then run `check_footnote_punctuation.py pages/page_NNN.txt` — the
+   equivalent backstop for the page's own Block 1 entries (rules 22/23:
+   flags a space before a comma/semicolon/colon or around a verse-range
+   hyphen in a citation, e.g. "65 : 17" or "Alma 5 -10"). Fix anything
+   either script flags in live text before moving on. (Added 2026-07-24
+   after a run of pages — 470, 476, 495-502 — accumulated 91
+   space-before-punctuation defects across `librodm.txt`,
+   `librodm_foot.txt`, and three already-emailed chapter files before
+   being caught; see the CLAUDE.md 2026-07-24/2026-07-24b entries.)
+   Then run `check_lines.py pages/page_NNN.txt` — the mechanical
+   backstop for line length (flags both overlength lines and any
+   trailing hyphen a line-break split left behind), not a substitute for
+   steps 5/6. Then run `check_line_wrap.py <book_page> pages/page_NNN.txt`
+   — an advisory OCR-based cross-check that flags a body line count or
+   length profile that looks reflowed rather than image-derived (see
+   rule 6's note on the page 475 incident). A clean result from any of
+   these scripts does not by itself prove the line breaks or punctuation
+   are correct — only the per-line image read in step 5 does that.
 
 Output: `pages/page_NNN.txt` ready for review.

@@ -1232,11 +1232,90 @@ running is ever in context, not all five at once.
   starting around Helamán 13) and have not been swept — scoped out of
   this fix per the user's page-502-specific request; worth a dedicated
   full-range sweep in a future session.
+- **2026-07-24b**: Completed the full retroactive sweep flagged at the end
+  of the prior entry. User noticed the space-before-";"/"!" pattern
+  going back further than page 502 (as far back as page 470) and asked
+  for a full pptext "spaced punctuation" pass across all of `librodm.txt`.
+  Regenerated pptext (`report_wsl_20260724.html`), pulled every hit in
+  the "spaced punctuation" section (86 instances total, none before page
+  470 — pages up through ~469 are unaffected), and fixed all of them:
+  `librodm.txt` (86 instances), `pages/page_470.txt` (1), `page_476.txt`
+  (13), `page_495.txt` (11), `page_496.txt` (11), `page_497.txt` (6),
+  `page_498.txt` (13), `page_499.txt` (13), `page_500.txt` (8),
+  `page_501.txt` (10) — all body text only, historical Corrections-log
+  quotes of the old (wrong) reading were left as documentation, with a
+  new note added to each page explaining the reversal (and correcting
+  two pages, 496 and 501, whose own Session E notes had explicitly
+  mis-described the pattern as an "established convention" — see rule 31
+  in `libro_de_mormon_rules.md`). Also fixed the same content in the
+  three already-emailed chapter files affected: `chapters_emailed/
+  Helaman_13.txt` (1), `Helaman_14.txt` (9), `Helaman_15.txt` (4);
+  `Helaman_12.txt` had no instances. Used a bulk Python script for the
+  actual text substitution rather than one-by-one edits, given the
+  volume — this surfaced a real hazard worth remembering: the script's
+  first pass wrote plain LF line endings, silently flattening the three
+  `chapters_emailed` files (which are CRLF, unlike `librodm.txt`/
+  `pages/*.txt`, which are already LF) and inflating their diffs from a
+  handful of real changes to hundreds of spurious ones; caught via `git
+  diff --stat` before anything was committed and fixed by restoring CRLF
+  on just those three files. **Lesson for future bulk text edits**: check
+  original line-ending format per file before a script-based rewrite
+  (`file <path>` or inspect for `\r\n`), since this project's `.txt`
+  files are not uniform (CRLF in `chapters_emailed/`, LF elsewhere) and a
+  naive Python text-mode read/write can silently convert one to the
+  other. Also, mid-investigation, `git stash` was run to inspect a
+  pre-fix file version and briefly reverted all uncommitted work in the
+  working tree — recovered immediately with `git stash pop`, no work
+  lost, but a reminder to prefer `git show HEAD:<path>` over `git stash`
+  for read-only historical comparisons when there are uncommitted changes
+  in flight. Verified clean via a fresh pptext regeneration
+  (`report_wsl_20260724b.html`): the "spaced punctuation" section no
+  longer appears in the report at all (pptext omits sections with zero
+  findings), confirming zero remaining instances anywhere in
+  `librodm.txt`. Separately noted but NOT fixed (out of scope, different
+  rule/vintage): `librodm_foot.txt` has 4 old citation-formatting
+  instances of space-before-";"/":" (e.g. "I Nefi 4:9 ; II Nefi 5:15",
+  "Isaías 65 : 17 ; 66 : 22") that look like an unrelated, older
+  inconsistency violating rule 22 (no spaces around colons in
+  references), not rule 31 — worth a separate cleanup pass sometime.
+- **2026-07-24c**: Fixed the 5 space-before-punctuation instances found in
+  `librodm_foot.txt` at the end of the prior entry (all older citation-
+  formatting slips, unrelated in age to the pages 470-502 issue): "I
+  Nefi 4:9 ; II Nefi 5:15" → no space before ";" (fn 140), "Enos 1:12-18 ;
+  Alma 37:1-20" → same (fn 280), "Isaías 65 : 17 ; 66 : 22." → no spaces
+  around colon or semicolon (fn 350), "Jeremías 50:16 ; 51:9." → no space
+  before ";" (fn 608), "II Nefi 2 : 16" → no space around colon (fn
+  1935). Per the user's request, added two permanent scripts (rather than
+  relying on a rule alone) so this class of defect gets caught
+  mechanically going forward: `check_spaced_punctuation.py` (rule 31,
+  wired into `transcribe-page` step 9 to run before `check_lines.py`, and
+  into `orthography-check`'s new "Spaced punctuation check" section to
+  run against the whole document every Session E) and
+  `check_footnote_punctuation.py` (rules 22/23, defaults to
+  `librodm_foot.txt`, same wiring). Both scripts print line-number hits
+  with a summary count; verified against the full corpus post-fix:
+  `librodm.txt` and `librodm_foot.txt` both come back clean, and a sweep
+  of every `pages/*.txt` file turned up 145 additional hits that were all
+  confirmed to be historical Corrections-log quotes of already-fixed
+  readings (documentation, not live defects) — spot-checked page 441's
+  18 hits individually to confirm the pattern before accepting this
+  conclusion for the rest.
 - **Next page**: 503 (file page 525), full A–E cycle, first footnote 3562.
 - **Completed pages**: 437–502, Sessions A–E fully done through page 502.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom
+- `check_spaced_punctuation.py <file> [file2 ...]` — flags any line with a
+  space immediately before a comma, semicolon, colon, "!", or "?" (rule
+  31). Run on a page file before `check_lines.py` in Session A, and
+  against `librodm.txt` (whole document) every Session E — added
+  2026-07-24 after 91 such defects accumulated undetected across pages
+  470-502 and `librodm_foot.txt`.
+- `check_footnote_punctuation.py [file ...]` — defaults to
+  `librodm_foot.txt`; flags a space before a comma/semicolon/colon or a
+  spaced verse-range hyphen in footnote citation text (rules 22/23). Also
+  useful against a page's own file (Block 1 entries share the same
+  format). Added 2026-07-24 alongside `check_spaced_punctuation.py`.
 - `check_lines.py <file>` — flags lines ≥ 73 chars
 - `check_line_wrap.py <book_page> <file>` — advisory OCR-based cross-check
   added 2026-07-19 after page 475's line breaks were found to be entirely

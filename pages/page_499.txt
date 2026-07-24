@@ -1,17 +1,17 @@
 Página 499
 13. Y fué tan rápida su marcha, que no pudieron detenerla,
 hasta que se vieron fuera del alcance del pueblo. Y así concluyó
-el año treinta ; y tal era el estado de los negocios del pueblo de
+el año treinta; y tal era el estado de los negocios del pueblo de
 Nefi.
 14. Y vino á suceder que hallábanse todavía divididos en
 tribus en el año treinta y uno, cada hombre según su familia,
-parientes y amigos ; no obstante, se habían convenido en no
-hacerse la guerra entre ellos ; pero no estaban unidos en lo que
+parientes y amigos; no obstante, se habían convenido en no
+hacerse la guerra entre ellos; pero no estaban unidos en lo que
 concernía á sus leyes, y su forma de gobierno, porque se habían
 establecido según la voluntad de sus jefes y directores. Pero
 estableciendo muy estrictas leyes, para que ninguna tribu
-traspasara los derechos de otra tribu ; y así se gozaba de alguna
-manera de la paz en el país ; no obstante, sus corazones se habían
+traspasara los derechos de otra tribu; y así se gozaba de alguna
+manera de la paz en el país; no obstante, sus corazones se habían
 alejado del Señor, su Dios, [3516]apedreando y echando fuera á
 los profetas de entre ellos.
 15. Y sucedió entonces que Nefi, habiendo sido visitado por
@@ -19,28 +19,28 @@ los profetas de entre ellos.
 ángeles, y siendo testigo ocular, y habiendo recibido poder para
 conocer acerca del ministerio de Cristo, y siendo también testigo
 ocular de su repentino [3517]cambio de la justicia á la
-perversidad y abdominaciones ;
+perversidad y abdominaciones;
 16. Así pues, afligido de la dureza de sus coracones, y de la
 ceguedad de su entendimiento, fué en medio de ellos en aquel
 mismo año, predicándoles atrevidamente el arrepentimiento y
 la remisión de los pecados, por la fe en el Señor Jesu Cristo.
-17. Y les administró muchas cosas ; y no todas se pueden
-escribir, y parte de ellas no bastarían ; por lo tanto, no se han
+17. Y les administró muchas cosas; y no todas se pueden
+escribir, y parte de ellas no bastarían; por lo tanto, no se han
 escrito en este libro. Y Nefi ejerció su ministerio con gran poder
 y autoridad.
 18. Y sucedió que se enojaron mucho contra él, aun por tener
 él mayor poder que ellos, de tal modo que les era imposible no
 creer en sus palabras, porque tan grande era su fe en el Señor
-Jesu Cristo, que los [3518]ángeles le ministraban diariamente ;
+Jesu Cristo, que los [3518]ángeles le ministraban diariamente;
 19. Y en el nombre de Jesús echaba demonios y espíritus
-inmundos ; y levantó hasta á un [3519]hermano suyo de la
+inmundos; y levantó hasta á un [3519]hermano suyo de la
 muerte, después que hubo sido apedreado hasta morir por el
-pueblo ;
+pueblo;
 20. Lo que fué visto por el pueblo, que dió testimonio de ello,
-y se irritaron contra él á causa de su poder ; é hizo también otros
+y se irritaron contra él á causa de su poder; é hizo también otros
 muchos milagros á la vista del pueblo en el nombre de Jesús.
 21. Y vino á suceder que en el año treinta y uno, no hubo más
-que un pequeño número de ellos que se convirtió al Señor ;
+que un pequeño número de ellos que se convirtió al Señor;
 pero todos los que se convirtieron, dieron testimonio al pueblo
 en verdad de que habían sido visitados por el poder del Espíritu
 de Dios, que estaba en Jesu Cristo, en Quién creían.
@@ -89,3 +89,4 @@ markers against a fresh crop of pages_1920/page_0521.png's fn_zoom and
 body images; text and marker placement match exactly. No mandatory 1879
 check applies (none of d, e, f, g nor their reference targets are
 i/l/1). No errors found.
+[2026-07-24, user correction] 13 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

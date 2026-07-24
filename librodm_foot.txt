@@ -159,7 +159,7 @@ Moroni 8:13-14,21.
 16c, 138: I Nefi 7:2-6,19,22.
 16d, 139: Versículos 16,26-30; I Nefi 18:12,21; II Nefi 5:12;
 Alma 37:38-47.
-16e, 140: I Nefi 4:9 ; II Nefi 5:15; Jarom 1:8; Éther 7:9;
+16e, 140: I Nefi 4:9; II Nefi 5:15; Jarom 1:8; Éther 7:9;
 Salmos 18:34.
 16f, 141: I Nefi 16:10.
 16g, 142: I Nefi 7:2-6,19.
@@ -327,7 +327,7 @@ III Nefi 21:8-11; Mormón 8:16,25.
 3f, 277: Ezequiel 37:16-20.
 3g, 278: III Nefi 5:23; Mormón 7:5,1O.
 3h, 279: José.
-3i, 280: II Nefi 27:6-26; Enos 1:12-18 ; Alma 37:1-20;
+3i, 280: II Nefi 27:6-26; Enos 1:12-18; Alma 37:1-20;
 III Nefi 16:10-11; Mormón 7:8-10.
 3j, 281: Doctrinas y Convenios Sección 100:9,11.
 3k, 282: II Nefi 26:16; Mormón 8:14-16,23,25-26.
@@ -410,7 +410,7 @@ Doctrinos y Convenios 133:68.
 8o, 347: I Nefi 22:17.
 8p, 348: Véase j, I Nefi 22.
 8q, 349: Versículos 16,21-25; Isaías 60:12,14.
-8r, 350: Isaías 65 : 17 ; 66 : 22.
+8r, 350: Isaías 65:17; 66:22.
 8s, 351: Versículo 3; Salmos 46:4-7; 48:1-3; 102:13-16.
 8t, 352: Isaías 40:1-2,9-10; Lucas 21:22-24.
 8u, 353: Versículo 20; Revelaciones 11:3-13.
@@ -697,7 +697,7 @@ Lucas 21:25; Revelaciones 6:12.
 23h, 605: Isaías 2:17; 24:6; Malaquías: 4:1.
 23i, 606: Isaías 4:1-4.
 23j, 607: Isaías 24:17-20; Aggeo 2:6-7; Véase c, III Nefi 26.
-23k, 608: Jeremías 50:16 ; 51:9.
+23k, 608: Jeremías 50:16; 51:9.
 23l, 609: Salmos 137:8-9; Nahum 3:10.
 23m, 610: Isaías 21:2.
 23n, 611: Isaías 14:4-27.
@@ -2161,7 +2161,7 @@ Convenios 84:6-28,107.
 13b, 1932: Perla de Gran Precio, Moisés 6:7; 8:19; Véase o.
 13c, 1933: Véase d, Mosíah 4.
 13d, 1934: Versículo 7.
-13e, 1935: II Nefi 2 : 16; Alma 12:31.
+13e, 1935: II Nefi 2:16; Alma 12:31.
 13f, 1936: Véase a.
 13g, 1937: Véase d, Mosíah 4.
 13h, 1938: Véase f, II Nefi 2.

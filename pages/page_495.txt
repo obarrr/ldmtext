@@ -1,47 +1,47 @@
 Página 495
 2. Y sucedió que como no habían consumido todas sus provisiones,
 llevaron también consigo el resto de sus granos de toda
-specie, así como el oro, la plata y todas las cosas preciosas ;
+specie, así como el oro, la plata y todas las cosas preciosas;
 volviendo otra vez á ocupar sus tierras y posesiones, tanto en el
 [3492]país del Norte como en el [3493]país del Sud.
 3. Y concedieron á aquellos bandidos que habían [3494]entrado
 en la alianza de paz, los que pertenecían á aquella partida que
 deseaba permanecer Lamanita, terrenos según su número, con
-objeto de que pudieran vivir de su trabajo ; y así restablecieron
+objeto de que pudieran vivir de su trabajo; y así restablecieron
 la paz en todo el país.
-4. Y así empezaron á posperar y hacerse fuertes ; y así
+4. Y así empezaron á posperar y hacerse fuertes; y así
 pasaron los años veintiséis, y veintisiete, reinando una paz
-completa en el país ; y habían establecido sus leyes según la
+completa en el país; y habían establecido sus leyes según la
 equidad y la justicia.
 5. Y no había nada en el país que les impidiera de prosperar
-continuamente ; como no cayeran en la transgresión.
+continuamente; como no cayeran en la transgresión.
 6. Y ahora era [3495]Gidgiddoni, con el [3496]Juez Lachoneus, y los
 jefes que habían sido elegidos, los que proporcionaron al pueblo
 esta gran paz en el país.
 7. Y sucedió que construyeron muchas ciudades nuevas, y
-repararon muchas de las antiguas ;
+repararon muchas de las antiguas;
 8. Y se abrieron [3497]muchos caminos, y muchas calzadas fueron
 construidas de unas ciudades á otras, y de un país á otro, y de
 un lugar á otro.
 9 Y ásí se pasó el año vientiocho y la gente continuó en
 permanente paz.
 10. Pero aconteció que en el año vientinueve, empezáronse
-á levantar disputas entre el pueblo ; y hubieron algunos que se
+á levantar disputas entre el pueblo; y hubieron algunos que se
 hincharon en orgullo y vanagloria, por causa de sus inmensas
-riquezas, sí, aún hasta grandes persecuciones ;
+riquezas, sí, aún hasta grandes persecuciones;
 11. Porque habían muchos [3498]mercaderes en el país, como
 también muchos [3499]abogados y oficiales públicos.
 12. Y empezó el pueblo á dividirse por clases, según sus
 riquezas, y sus oportuñidades para la instrucción, sí, porque
 habían muchos que eran ignorantes á causa de su indigencia,
 mientras que otros recibían grande instrucción á cause de sus
-riquezas ;
+riquezas;
 13. Sí, porque éstos se exaltaban en su orgullo, al paso que
-aquéllos se hallaban abatidos en su humildad ; unos respondían
+aquéllos se hallaban abatidos en su humildad; unos respondían
 con insultos á los que les insultaban, mientras que otros sufrían
 las injurias, persecuciones, y toda clase de males, sin retaliar
 una vez, y se mantenían humildes y sumisos á la voluntad de
-Dios ;
+Dios;
 
 6b, 3492: Norte América.
 6c, 3493: Sur América.
@@ -175,3 +175,4 @@ above.
 transcribed as two words per the current default) — not a stopping
 point, just surfaced here for the editor to double-check against the
 image at their convenience.
+[2026-07-24, user correction] 11 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

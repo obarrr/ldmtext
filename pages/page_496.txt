@@ -1,9 +1,9 @@
 Página 496
-14. Y así se introdujo una gran desigualdad en todo el país ;
-de tal modo que empezó á deshacerse la iglesia ; sí, de tal manera
+14. Y así se introdujo una gran desigualdad en todo el país;
+de tal modo que empezó á deshacerse la iglesia; sí, de tal manera
 que en el año treinta, se disolvió la iglesia por todo el país, no
 quedando firmes más que un corto número de Lamanitas, que
-había abrazado la fe ; y no quisieron separarse de ella, manteniéndose
+había abrazado la fe; y no quisieron separarse de ella, manteniéndose
 firmes, inquebrantables, inmutables, y deseosos de guardar
 con toda diligencia los mandamientos del Señor.
 15. Y la causa de esta iniquidad del pueblo era debida al
@@ -12,16 +12,16 @@ de inducirles á entregarse á toda clase de iniquidades, inflándoles
 de orgullo, buscando los medios de apoderarse del poder, de la
 autoridad, riquezas, y cosas vanas del mundo.
 16. Y así satán extravió los corazones del pueblo, para que
-cometieran toda clase de iniquidad ; de modo que no gozaron
+cometieran toda clase de iniquidad; de modo que no gozaron
 sino por pocos años de la paz.
 17. Y así al principiar el año [3500]treinta, habiéndose el pueblo
 visto por mucho tiempo dominado por las tentaciones del diablo,
 por doquiera que deseare él llevarles, y hacerles hacer cualquiera
-iniquidad que él deseare ; así, á principios de este año se hallaban
+iniquidad que él deseare; así, á principios de este año se hallaban
 en el estado de la más extremada perversidad.
 18. Y ahora, no pecaban por ignorancia, porque conocían la
 voluntad de Dios relativamente á ellos, la que se les había sido
-enseñada ; por lo tanto, voluntariamente se rebelaron contra
+enseñada; por lo tanto, voluntariamente se rebelaron contra
 Dios.
 19. Y hallánbanse entonces en la época de Lachoneus, hijo
 de [3501]Lachoneus, que ocupaba el asiento de su padre, y gobernaba
@@ -29,14 +29,14 @@ al pueblo en aquel año.
 20. Y empezaron á aparecer entre el pueblo por todo el país,
 hombres inspirados del cielo, parándose entre el pueblo por todas
 partes á predicar y testificar atrevidamente sobre los pecados é
-iniquidades del pueblo ; y testificarles respecto á lo concerniente
-á la redención que el Señor había de hacer para su pueblo ; ó en
-otros términos, de la resurrección de Cristo ; testificando
+iniquidades del pueblo; y testificarles respecto á lo concerniente
+á la redención que el Señor había de hacer para su pueblo; ó en
+otros términos, de la resurrección de Cristo; testificando
 intrepidamente su muerte y sus sufrimientos.
 21. Ahora, hubo muchos de los del pueblo que se enojaron en
-extremo, á causa de los que testificaban estas cosas ; y los que se
+extremo, á causa de los que testificaban estas cosas; y los que se
 enojaban, generalmente eran los jueces superiores, y los que
-habían sido [3502]sumo-sacerdotes y [3503]abogados ; sí, todos los
+habían sido [3502]sumo-sacerdotes y [3503]abogados; sí, todos los
 abogados se irritaban contra los que daban testimonio de estas cosas.
 22. Y ahora, no había ningún [3504]abogado, ni juez, ni [3505]sumo-
 sacerdote que tuviese poder para condenar á muerte á ninguna
@@ -144,9 +144,14 @@ out-of-range, only the pre-existing 812 gap. Curly-quote scan (zero curly
 quotes in either master file) and a hyphen scan of this page's body text
 (only the two already-reviewed sumo-sacerdote(s) instances) both clean.
 The page's own space-before-semicolon instances (flagged under pptext's
-"spaced punctuation" special-situations sub-check) all match this
-document's established, already-vetted French-Spanish-style typographic
-convention — not a new finding. "Short lines check" hits are ordinary
+"spaced punctuation" special-situations sub-check) were wrongly waved
+through here as matching an "established, already-vetted
+French-Spanish-style typographic convention" — there was no such vetted
+convention; this reading contradicted rule 31, which already required
+removing a space before a semicolon. Reversed 2026-07-24 (user
+correction): all 11 instances on this page were corrected to remove the
+space, in this file and in `librodm.txt`. See rule 31 in
+`libro_de_mormon_rules.md` for the corrected wording. "Short lines check" hits are ordinary
 verse-wrap structure, no action needed. Paragraph-level "full stop
 followed by unexpected sequence" check has no hits anywhere in this page's
 line range. Jeebies clean.

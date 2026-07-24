@@ -31,7 +31,7 @@ son los que se arrepientan y vengan á mí; pero ay de los que no
 se arrepientan.
 12. Sí, [3341]¡ay de esta gran ciudad de Zarahemla! porque, he
 aquí, que es á causa de los justos, por lo que se ha salvado; sí,
-¡ay esta gran ciudad ! dice el Señor, en la que veo que la mayor
+¡ay esta gran ciudad! dice el Señor, en la que veo que la mayor
 parte de sus habitantes endurecerán sus corazones contra mí.
 13. Pero benditos serán los que se arrepientan, porque yo les
 conservaré. Porque, he aquí, que si no fuera por los justos que
@@ -83,3 +83,4 @@ zoom proved to be the adjacent comma after "Sí,"). Re-zoomed isolating
 just the marker: a curved diagonal swash stroke with no dot, matching
 the confirmed "f" label glyph in this page's footnote block exactly.
 Resolved as "f", consistent with the footnote sequence c, d, e, f.
+[2026-07-24, user correction] 1 instance of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.

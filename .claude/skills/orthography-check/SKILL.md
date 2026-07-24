@@ -534,6 +534,23 @@ check never writes to `permitted words.txt` (punctuation, not spelling)
 and does not need an `errors in 1920.txt` entry either (it's a
 transcription-normalization rule, not a question of what 1920 printed).
 
+**Don't rely on pptext's report alone for this check — run the dedicated
+scripts too, every Session E, across the WHOLE document, and fix
+whatever they find regardless of whether it falls in the current page's
+range** (2026-07-24 instruction, after 91 accumulated instances were
+found spanning pages 470-502 plus `librodm_foot.txt`, none caught at the
+time they were introduced): `check_spaced_punctuation.py librodm.txt`
+(rule 31 — body/Block 2 text) and `check_footnote_punctuation.py
+librodm_foot.txt` (rules 22/23 — Block 1 citation text: space before a
+comma/semicolon/colon, or a spaced verse-range hyphen). Also run
+`check_spaced_punctuation.py` against the current page's own file
+(`pages/page_NNN.txt`) — a hit inside that file's Corrections log is
+usually a historical quote of an already-fixed reading, not a live
+defect, so check context before editing rather than reflexively "fixing"
+the quote. Treat any live hit anywhere in the document as an
+immediate fix, the same as the mandatory Corrections-log sweep above —
+don't scope this to just the page(s) currently being transcribed.
+
 ### Special situations checks
 
 A grab-bag of unrelated sub-checks, each a simple regex/inventory over
