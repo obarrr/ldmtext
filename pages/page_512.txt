@@ -1,0 +1,157 @@
+Página 512
+19. He aquí, que os he dado la ley y los mandamientos de mi
+Padre, para que creáis en mí, para que os arrepintáis de vuestros
+pecados, y para que vengáis á mí con un corazón [3675]quebrantado
+y un espíritu contrito. He aquí, que tenéis los mandamientos
+delante de vosotros, y se ha cumplido la [3676]ley;
+20. Así pues, venid á mí, y os salvaréis; porque en verdad os
+digo, que excepto que guardareis mis [3677]mandamientos que ahora
+os he dado, de ningún modo entraréis en el reino del cielo.
+21. Habéis oído que fué dicho por los antiguos y ha sido
+escrito también para vosotros: No matarás; y quienquiera que
+mate, incurrirá en el riesgo del [3678]juicio de Dios.
+22. Pero yo os digo, que quienquiera que se irrite contra su
+hermano, está en peligro de la [3679]justicia. Y quienquiera que
+dijere á su hermano: Raca, cae en el peligro del juicio; y él
+que le dijere: Insensato, está en peligro del fuego del infierno.
+23. Por lo tanto, si vinieseis hacia mí, ó [3680]deseaseis venir hacia
+mí, y os acordaseis que vuestro hermano tiene algo contra
+vosotros;
+24. Id primero á vuestro hermano, y reconciliáos con él,
+y entonces venid á mí con firme resolución del corazon, y yo
+os recibiré.
+25. Reconsiliáos cuanto antes con vuestro adversario, cuando
+os encontréis en el camino con él, no sea que en cualquier tiempo
+se apodere de vosotros, y os ponga en prisión.
+26. En verdad, en verdad os digo, que no saldréis de ella,
+hasta que no hayáis pagado la última [3681]senina. Y mientras que
+os halléis en la prisión, ¿podréis pagar aún siquiera una senina?
+en verdad, en verdad, os digo, no.
+27. He aquí, que está escrito por los antiguos: No cometerás
+adulterio;
+28. Mas dígoos, que quienquiera que mire lascivamente á
+una mujer, ha cometido ya adulterio en su corazon.
+29. He aquí, que os doy el mandamiento, de que no permitáis
+que entre en vuestro corazón [3682]ninguna de estas cosas;
+30. Puesque vale más que os abstengáis de estas cosas, y así
+toméis vuestra cruz, que ser arrojados en el infierno.
+31. Ha sido escrito, que quienquiera que repudiare á su
+esposa, que la dé escritura de divorcio.
+32. En verdad, en verdad os digo, que quienquiera que [3683]repudiare
+á su esposa, como no fuere por causa de fornicación, hace
+que ella cometa adulterio; y quienquiera que se casare con la
+divorciada, comete adulterio.
+
+12n, 3675: III Nefi 9:20.
+12o, 3676: Versículos 18,46; III Nefi 9:17; 15:4-10.
+12p, 3677: Versículo 19; III Nefi 15:10.
+12q, 3678: Mateo 5:21.
+12r, 3679: Mateo 5:22.
+12s, 3680: Mateo 5:23-24.
+12t, 3681: Véase c, Alma 11.
+12u, 3682: Doctrinas y Convenios 42:23; 43:16-17; Véase i, II Nefi 28.
+12v, 3683: Mateo 5:32; Marcos 10:11-12; Lucas 16:18.
+
+Corrections
+- Continues chapter 12 from page 511 (page 511 ended at letter m,
+  3674); no chapter boundary on this page, so letters continue n-v
+  with no restart; sequential numbering continues at 3675.
+  Verse-initial lines transcribed flush left with no leading indent,
+  per the 2026-07-25e standing convention.
+- Rule 7 hyphenated line-break rejoin: v.32 "que-/pudiare" ->
+  "repudiare", with marker [3683] placed immediately before the
+  rejoined word; kept at the end of its line (66 chars, under the
+  72-char cap).
+- Mandatory 1879 check for footnote 12u's cross-reference target
+  letter "i" ("Véase i, II Nefi 28" -- the target letter is in the
+  mandatory i/l/1 set even though u itself isn't) confirmed via BOM
+  1879 Pratt file page_0514.png (prints book page "506" -- note, as
+  established on page 511, the PNG filename does not match the book's
+  own printed page number in this range; chapter_map lists 1879 file
+  512 for III Nefi ch.12, but content lands two pages later here,
+  matching page 511's own file-505/512 drift exactly one page
+  further). 1879 page 506's footnote block reads "m, Math. 5:18.
+  n, III. Nep. 9:20. o, vers. 18,46. III. Nep. 9:17. 15:4-10. p, ver.
+  19. III. Nep. 15:10. q, Math. 5:21. r, Math. 5:22. s, Math. 5:23,24.
+  t, see c, Alma 11. u, Doc. and Cov. 42:23. 43:16,17. See i, II. Nep.
+  28. v, Math. 5:32. Mark 10:11,12. Luke 16:18." -- letter-for-letter
+  and citation-for-citation identical to 1920's own n-v here,
+  confirming both the mandatory target letter and the entire
+  surrounding sequence as a bonus.
+- Narrow-but-real space (not a merge), transcribed as two words per
+  the current rule-6 default, no zoom/pixel debate: v.19 "para que"
+  (first instance, "Padre, para que creáis"). Flagged here for the
+  editor's own look per feedback_narrow_space_vs_merge, not raised as
+  a blocking question.
+- v.30 "Puesque" is NOT a merge question at all: this exact one-word
+  spelling is the document's own long-established form, used well
+  over 100 times throughout `librodm.txt` (already in `permitted
+  words.txt`), and Session E confirmed 1886 also prints it as one
+  word at this exact spot (book page 509/file 527). No further action
+  needed.
+- Suspected misprint, preserved as printed per rule 32: v.25
+  "Reconsiliáos" for "Reconciliáos" ("s" for "c" -- this same page's
+  own v.24 spells the correctly-formed "reconciliáos" two verses
+  earlier). Confirmed at zoom the print unambiguously reads
+  R-e-c-o-n-s-i-l-i-á-o-s. Session E confirmed this is a genuine
+  1920-only error: 1886 reads "Reconciliáos" at this exact spot (book
+  page 508/file 526), RAE has no entry for "reconsiliar", and the
+  reference corpora have zero hits for "reconsili-" against dozens for
+  "reconcili-". Added to `errors in 1920.txt` and `permitted
+  words.txt` (pptext flagged it this run).
+- v.26 "senina" (×2) is NOT an inconsistency with the document's
+  established "senine" (Alma 11's monetary unit, used 5 times
+  elsewhere): Session E confirmed 1886 also spells it "senina" at
+  both instances here (book page 509/file 527, matching Mateo 5:26's
+  "farthing"), distinct from the Alma 11 gold/silver measure. A
+  legitimate period spelling for this context, not an error. Added to
+  `permitted words.txt` only (pptext flagged it this run).
+- v.22 "Raca" (a transliterated Aramaic/Greek term from Mateo 5:22,
+  not a Spanish word) confirmed against 1886, which prints the
+  identical word at the identical spot. Added to `permitted
+  words.txt` only.
+- A stray floating ink mark between "mí," and "para" (v.19) was
+  identified as a scan artifact and not transcribed, matching the
+  established floating-mark precedent (pages 483, 490, 492, 494, 497,
+  500).
+- Rule 31 space-before-punctuation and rule 6 double-space
+  normalizations applied throughout (e.g. "ley ;" -> "ley;",
+  "vosotros :  No matarás ; y" -> "vosotros: No matarás; y",
+  "justicia.  Y" -> "justicia. Y", "senina.  Y" -> "senina. Y",
+  "adulterio ;" -> "adulterio;") -- all original-print justification
+  artifacts, no content change.
+- v.24 and v.28 "corazon" (unaccented) match the document's
+  long-standing corazon/corazón spelling inconsistency seen
+  throughout the rest of the text; Session E confirmed 1886 also
+  reads unaccented "corazon" at both spots; not logged as a new
+  page-specific error.
+- Session B: independently re-verified all 9 Block 1 entries and body
+  markers against a fresh crop of pages_1920/page_0534.png, and
+  re-ran the mandatory 1879 check for footnote 12u's target letter
+  "i" from a fresh crop of BOM 1879 Pratt file page_0514.png (prints
+  book page "506"). The fresh crop reconfirmed "u, Doc. and Cov.
+  42:23. 43:16, 17. See i, II. Nep. 28." exactly as Session A
+  resolved it. No errors found.
+- Session C/D: `insert_body_text.py 512` and `generate_block2.py 512`
+  both ran cleanly with no unresolved cross-references; 12t (Véase c,
+  Alma 11) and 12u (Véase i, II Nefi 28) both resolved to book-aware
+  targets confirmed by content fit (Alma 11c itself cites "III Nefi
+  12:26", a mutual cross-reference to this very page).
+- Session E: fresh pptext regeneration (`report_wsl_20260725e.html`)
+  flagged 4 spellcheck suspects for this page's range -- "Raca"
+  (legitimate transliterated term, matches 1886), "Reconsiliáos"
+  (genuine error, see above), "senina" x2 (legitimate period spelling
+  for this context, matches 1886, distinct from Alma 11's "senine" --
+  see above); all four added to `permitted words.txt`, one
+  ("Reconsiliáos") also to `errors in 1920.txt`. Full-document
+  footnote-anchor regex scan: max 3683, zero duplicates, only the
+  pre-existing 812 gap. `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, and `check_verse_indent.py` all
+  clean document-wide. Independent curly-quote character scan (zero
+  curly quotes in either master file) clean. "Full stop followed by
+  unexpected sequence" and other paragraph-level hits in the report
+  were all pre-existing, from earlier pages, none from this page's
+  range. Editor note per feedback_narrow_space_vs_merge: v.19 "para
+  que" (first instance) was a narrow-but-real gap, transcribed as two
+  words per the current default -- worth a look at the actual page
+  whenever convenient, not blocking.

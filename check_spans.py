@@ -13,7 +13,7 @@ the three editions exceeds THRESHOLD (default 1).
 import csv
 from pathlib import Path
 
-BASE_DIR = Path(r"\\Desktop-6p05aa1\d\Users\Robert O'Barr\Documents\My Documents\family\robert\bofm\libro_de_mormon_1920")
+BASE_DIR = Path(__file__).parent
 CSV_PATH = BASE_DIR / "chapter_map.csv"
 
 THRESHOLD = 1   # flag when max_span - min_span > this

@@ -4,7 +4,13 @@
 - **On Desktop-6p05aa1 (remote)**: `D:\Users\Robert O'Barr\Documents\My Documents\family\robert\bofm\libro_de_mormon_1920\`
 - **From local machine via mapped drive**: `Z:\Users\Robert O'Barr\Documents\My Documents\family\robert\bofm\libro_de_mormon_1920\`
 - **UNC (fallback)**: `\\Desktop-6p05aa1\d\Users\Robert O'Barr\Documents\My Documents\family\robert\bofm\libro_de_mormon_1920\`
+- **Local copy on C:\ drive**: `C:\Users\rober\Documents\libro_de_mormon\`
 - Start Claude Code sessions from whichever path applies to the machine you are on.
+  All scripts use paths relative to the project folder (confirmed via
+  grep: no `.py` file hardcodes `Z:\`, `D:\Users`, or the
+  `Desktop-6p05aa1` machine name), so any of the paths above works
+  identically — this list is just documentation for picking the right
+  one to `cd` into, not something the scripts or Claude parse.
 
 ## Project
 Transcribing the 1920 Spanish Libro de Mormón for Project Gutenberg.
