@@ -1,0 +1,161 @@
+Página 508
+vestido con una túnica blanca; él que vino á colocarse en medio.
+de ellos. Volviéronse entonces todos los ojos á él para mirarle, sin que
+nadie se atreviera á abrir su boca, ni siquiera uno á otro; no
+comprendiendo lo que aquéllo significaba, porque suponían que
+era un ángel que se les había aparecido.
+9. Y aconteció que extendiendo su mano, habló entonces al
+pueblo, diciéndole:
+10. He aquí, que yo soy Jesu Cristo, de Quién los profetas han
+dado testimonio, diciendo que vendría al mundo.
+11. Y, he aquí, que [3622]yo soy la luz y la vida del mundo; yo he
+bebido de la [3623]amarga copa que el Padre me ha dado, y le he
+[3624]glorificado, tomando sobre mí los [3625]pecados del mundo, en lo
+que he cumplido la voluntad del Padre en todas las cosas desde el
+principio.
+12. Y acaeció, que cuando Jesús hubo pronunciado estas
+palabras, toda la multitud cayó al suelo, acordándose que se
+les había sido [3626]profetizado que Cristo se mostraría á ellos después
+de haber ascendido al cielo.
+13. Y ocurrió que les habló entonces el Señor, diciendo:
+14. Levantáos, y venid á mí, para que [3627]metáis vuestras manos
+en mi costado, y para que toquéis las marcas, que los clavos
+hicieron en mis manos y pies, para que sepáis que yo soy el Dios
+de Israel, y el [3628]Dios de toda la tierra, y que he muerto por los
+[3629]pecados del mundo.
+15. Y aconteció, que adelantándose la multitud, [3630]metieron
+sus manos en su costado, y tentaron las marcas que habían
+hecho los clavos en sus manos y pies, haciéndolo así unos después
+de otros, hasta que todos se hubieron convencido, viendo por
+sus propios ojos y tentando con sus propias manos, convenciéndose
+de este modo con toda seguridad, y dieron testimonio, de
+que Él era de quién los [3631]profetas habían escrito que había de
+venir. 16. Y luego que se hubieron aproximado y convencido por sí
+mismos, clamaron todos á una:
+17. ¡Hosana! ¡bendito sea el nombre del [3632]Más Alto Dios!
+Y cayendo á los pies de Jesu Cristo, le adoraron.
+18. Y aconteció, que hablando Jesús á Nefi, que [3633]se hallaba
+entre la multitud, le mandó que se acercara.
+19. Y levantándose Nefi, se adelantó, y se arrodilló ante el
+Señor; [3634]besando sus pies.
+20. Mandóle el Señor que se levantara. Y levantándose,
+permaneció en pie ante Él.
+21. Y díjole el Señor: Te doy [3635]poder para que [3636]bautices á
+este pueblo, cuando me suba al cielo [3637]otra vez.
+
+11h, 3622: Véase m, Mosíah 16.
+11i, 3623: Juan 18:11.
+11j, 3624: Versículo 7; III Nefi 9:15.
+11k, 3625: Versículo 14; III Nefi 9:21.
+11l, 3626: Véase b, I Nefi 12.
+11m, 3627: Versículo 15.
+11n, 3628: Véase 2b, Mosíah 7.
+11o, 3629: Véase k.
+11p, 3630: Versículo 14.
+11q, 3631: Versículo 10.
+11r, 3632: Véase 2b, Mosíah 7.
+11s, 3633: III Nefi 1:2,3,10;7:15,20,23-26.
+11t, 3634: III Nefi 17:10.
+11u, 3635: Véase o, Mosíah 18.
+11v, 3636: Véase u, II Nefi 9.
+11w, 3637: III Nefi 18:39.
+
+Corrections
+- Continues chapter 11 from page 507 (v.8, "vestido con una túnica
+  blanca" continues "vieron á un hombre que descendía,"); letters
+  continue h onward per rule 13 (page 507 ended at g, 3621).
+- Mandatory 1879 check for footnote letters i and l (both in the
+  i/l/1 set): confirmed via BOM 1879 Pratt file page 510 (chapter_map
+  III Nefi ch.11 lists 1879 file 509, but that page's content matches
+  1920 page 507 instead — the very next 1879 page, 510, carries this
+  page's content with no further drift). All 16 letters h-w on this
+  page matched 1879 letter-for-letter and citation-for-citation
+  exactly, including confirming two points that looked surprising at
+  first glance: (1) footnote l's citation reads "Véase b, I Nefi 12."
+  with a comma, not a period, after the target letter — an initial
+  zoomed crop of the 1920 print made the mark look like it could be a
+  period, but a tighter crop showed the same comma shape used
+  elsewhere in the block, and 1879's parallel "l, see b, I. Nep. 12."
+  confirms it; (2) footnotes n and r cite the identical target,
+  "Véase 2b, Mosíah 7." — confirmed genuine (not a transcription
+  duplication) via 1879's identical "n, see 2b, Mos. 7." / "r, see 2b,
+  Mos. 7." Same-page glyph comparison (short stroke + separated dot
+  for "i" vs. this page's own full-height "l") was also done first,
+  before the 1879 check, and matched.
+- Content-fit sanity check (Section 8) confirmed the two reference
+  pairs make sense: k (v.11 "pecados del mundo," citing forward to
+  "Versículo 14") and o (v.14's second "pecados del mundo," "Véase
+  k") are the same theme reused across the two verses; p (v.15
+  "metieron," citing "Versículo 14") and q (v.15 "profetas," citing
+  "Versículo 10") both cite back to earlier in this same page. u
+  (v.21 "poder," Mosíah 18 — Alma's baptismal-authority chapter) and
+  v (v.21 "bautices," "Véase u, II Nefi 9" — the recurring baptism
+  scripture citation already established on pages 492/493/495/498/
+  502) both fit their verses strongly.
+- Two floating scan-artifact marks identified and not transcribed,
+  matching the established pattern (pages 483/490/492/494/497/500):
+  a small dot above the line between "en" and "todas" (v.11, "en
+  todas las cosas desde el principio") and a stray mark after the
+  period following "acercara." (v.18) — this second one is fully
+  accounted for as extraneous since all 16 real footnote letters
+  (h-w) are already placed elsewhere on the page and the letter count
+  matches the footnote block exactly.
+- One hyphenated line-break split rejoined per rule 7: v.15
+  "convencién-/dose" → "convenciéndose"; the rejoined line lands
+  under 72 characters, kept on the first line.
+- Google-text cross-check (step 10) flagged 3 candidates, all
+  dismissed: two were OCR noise on "clavos" (Google misread as
+  "calvos," a nonsense word — the image clearly prints "clavos,"
+  nails), and one was a genuine accent question, "convenciéndose" vs.
+  Google's "convencióndose" — a fresh zoom of the v.15 line-break
+  hyphen ("convencién-") confirmed the print clearly accents the é,
+  not ó, so the transcription is correct as printed.
+- Two rule-8 marker-caused overflow cascades: v.11 ("en lo que" moved
+  "que" to the start of the next line) and v.15/16 boundary ("venir."
+  cascaded onto the start of v.16's own line, dropping that line's
+  usual 4-space verse-initial indent since the line no longer starts
+  with the verse number — matching the page 506 precedent, "profetas.
+  15. He aquí...").
+- Rule 31 space-before-punctuation normalizations applied throughout
+  (semicolons, colons, exclamation marks): "blanca ; él" → "blanca;
+  él", "otro ; no" → "otro; no", "diciéndole :" → "diciéndole:", "el
+  mundo ; yo" → "el mundo; yo", "diciendo :" → "diciendo:", "una :" →
+  "una:", "¡Hosana !" → "¡Hosana!", "Dios !" → "Dios!", "Señor ;" →
+  "Señor;", "el Señor :" → "el Señor:".
+[Session B] Independently re-verified all 16 Block 1 entries and body
+markers against a fresh crop of pages_1920/page_0530.png; all content-fit
+(h-w's targets all thematically match their annotated words, per the
+Session A content-fit notes above). Re-ran the mandatory 1879 check for
+letters i and l from fresh independent crops of BOM 1879 Pratt file page
+510 (chapter_map lists III Nefi ch.11 at 1879 file 509, but that page's
+content actually matches 1920 page 507 — confirmed again this page's
+content lands on the next 1879 page, 510, with no further drift) —
+reconfirmed "i, John 18:11." and "l, see b, I. Nep. 12." letter-for-letter
+and citation-for-citation, matching Session A's finding exactly. No new
+errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260725b.html`) came
+back clean for this page's new range in every section that matters —
+Spellcheck Suspects and Edit Distance show only the pre-existing,
+already-logged "Profecia"/"profecía" items (unrelated to this page);
+footnote-anchor check (union of both buckets, full-document range
+1-3637) confirmed zero duplicates, zero out-of-range, only the
+pre-existing 812 gap; dash check has no hits in this page's range (all
+hyphens were rejoined in Session A); an independent curly-quote
+character scan of both master files came back zero; `check_
+spaced_punctuation.py`/`check_footnote_punctuation.py` (whole document)
+both clean; a fresh letter-hyphen-letter compound scan across
+`librodm.txt` found only already-established legitimate ordinals/proper
+nouns, nothing new from this page (which has no hyphens in its final
+body text). One new genuine 1920-only error was found via the "full
+stop followed by unexpected sequence" check: v.8's own opening line,
+"en medio. de ellos." — checked against 1886 (file page 522, book page
+504, chapter_map III Nefi ch.11), which reads the clause continuously,
+"colocarse en medio de ellos. Volviéronse entónces," with no
+punctuation at all between "medio" and "de" — confirming 1920's period
++ lowercase continuation is a genuine 1920-only defect. Added to
+`errors in 1920.txt` (III Nefi 11:8); no `permitted words.txt` entry
+needed (punctuation, not spelling). "aquéllo" (v.5) and "Jesu Cristo"
+(vv.10,17) were both double-checked against the existing corpus — both
+already-established, already-suppressed forms (4 and 26+ existing
+instances respectively), not page-specific findings. No narrow-space-
+vs-merge notes were flagged on this page to batch for the editor.

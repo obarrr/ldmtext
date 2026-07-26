@@ -1,0 +1,175 @@
+Página 503
+é hijas de mi pueblo; y es á causa de sus iniquidades y de sus
+abominaciones por lo que han caído.
+3. He aquí, que he [3562]quemado la [3563]gran ciudad de Zarahemla,
+y á sus habitantes.
+4. He aquí, he [3564]hundido en los abismos de la mar á la gran
+[3565]ciudad de Moroni, y he ahogado á sus habitantes.
+5. Y, he aquí, que he cubierto de tierra á la gran [3566]ciudad de
+Moroníhah con sus habitantes, para ocultar sus iniquidades y
+sus abominaciones de mi presencia; para que la sangre de los
+profetas y de los santos no ascienda más á mí en contra de ellos.
+6. Y, he aquí, que he hecho que se hundiera la ciudad de Gilgal,
+y que sus habitantes fueran sepultados en las profundidades de
+la tierra.
+7. Sí, y la ciudad de Oníhah con sus habitantes, y la de Mocum
+con sus habitantes, y [3567]la de Jerusalem con sus habitantes, y he
+hecho que las aguas ocupen sus lugares, para ocultar sus maldades
+y abominaciones de mi presencia, á fin de que la sangre de los
+santos y de los profetas no clame por más tiempo venganza en
+contra de ellos.
+8. Y, he aquí, que he hecho que se hundiera la ciudad de
+Gadiandi, y la de Gadiómnah, y la de Jacob, y la de Gimgimno,
+que las he sumido todas, y he hecho que aparezcan [3568]lomas y
+valles en su lugar; y he enterrado á sus habitantes en las entrañas
+de la tierra, para ocultar sus maldades y abominaciones de mi
+presencia; para que la sangre de los profetas y de los santos no
+ascienda más á mí en contra de ellos.
+9. Y, he aquí, que he hecho [3569]quemar por el fuego á la gran ciudad
+de Jacobúgath, donde habitaba el pueblo del rey Jacob, á causa
+de sus pecados y de sus iniquidades, que eran los peores de todos
+los de toda la tierra, á causa de sus [3570]secretos asesinatos y
+combinaciones; porque ellos fueron los que destruyeron la [3571]paz de
+mi pueblo y el gobierno del país.; por cuyo motivo les he hecho
+quemar, para que desaparezcan de mi presenca; para que la
+[3572]sangre de los profetas y de los santos no ascienda más á mí en
+contra de ellos.
+10. Y, he aquí, que he hecho [3573]quemar con fuego á la ciudad
+de Lamán, y la de Josh, y la de Gad, y la de Kishkumen, lo
+mismo que á sus habitantes, á causa de sus maldades en desechar
+á los profetas, y en apedrear á los que había mandado, para que
+les hiciesen conocer su maldad y sus abominaciones;
+11 Y puesto que les han desechado todos hasta no quedar
+ningún justo entre ellos, les he mandado el [3574]fuego que les ha
+
+9b, 3562: III Nefi 8:8.
+9c, 3563: Véase h, Omni 1.
+9d, 3564: III Nefi 8:9.
+9e, 3565: Véase k, Alma 50.
+9f, 3566: Véase k, III Nefi 8.
+9g, 3567: Véase b, Alma 21.
+9h, 3568: I Nefi 19:11; Helamán 12:17; 14:23; III Nefi 8:10; 10:13,14.
+9i, 3569: Versículo 10; I Nefi 12:4; III Nefi 8:14.
+9j, 3570: Véase i, II Nefi 10.
+9k, 3571: III Nefi 7:9-13.
+9l, 3572: III Nefi 6:23-25; 7:10.
+9m, 3573: Véase i.
+9n, 3574: Véase i.
+
+Corrections:
+[rule 7, hyphen rejoin] v.9 "com-" / "binaciones" rejoined to
+"combinaciones"; appended to the first line (with marker [3570] and
+the following "y ") the rejoined word plus attached semicolon reaches
+80 characters, at/over the 73-char cap, so per rule 7 the whole word
+was moved to the start of the following line instead.
+[rule 31] Removed the printed space before ";" at v.2 "pueblo ; y es"
+→ "pueblo; y es", v.5 "presencia ; para" → "presencia; para", v.8
+"lugar ; y he" → "lugar; y he" and "presencia ; para" → "presencia;
+para", v.9 "presenca ; para" → "presenca; para", and v.10
+"abominaciones ;" → "abominaciones;" — matches rule 31 (no space
+before comma/semicolon/colon/!/?), corrected per the 2026-07-24 fix
+to rule 31's scope (see CLAUDE.md 2026-07-24/2026-07-24b entries).
+[rule 32, suspected misprint, preserved as printed] v.9 "presenca"
+(missing "i") for what should presumably read "presencia" — zoomed
+crop confirms the 1920 print itself reads "presenca", not a
+transcription slip; typed exactly as printed per rule 32, verify
+against 1886 in Session E.
+[rule 32, suspected misprint, preserved as printed] v.9 "país.;" — a
+genuine double mark in the print: a period immediately followed by a
+semicolon with no space between them (confirmed via tight zoom, not a
+transcription artifact or an OCR-merged single character). Typed
+exactly as printed per rule 32; verify against 1886 in Session E
+whether this should be just "país;" or just "país.".
+[rule 32, suspected misprint, preserved as printed] v.11's verse
+number prints as "11" with no trailing period, unlike every other
+verse number on this page (all of which print "N."). Confirmed via
+zoom — no period present. Typed exactly as printed per rule 32;
+matches a recurring pattern already logged on other pages (e.g. page
+494/495's missing verse-number periods); verify against 1886 in
+Session E.
+[Session A] Mandatory 1879 check for footnotes m's and n's shared
+cross-reference target letter "i" (i is in the mandatory i/l/1 set).
+Same-page glyph comparison: the target glyph for both m and n is a
+short stroke with a clearly separated dot below it, matching this
+page's own established "i" shape (confirmed side-by-side against
+footnote j's "Véase i, II Nefi 10" on this same page) and distinct
+from this page's "l" shape (a continuous unbroken curved stroke, no
+separated dot — confirmed via footnote l's own marker glyph, "l, III
+Nefi 6:23-25"). Live 1879 comparison (BOM 1879 Pratt file page 505,
+chapter_map 3 Nephi ch.9 — matches this page's own content exactly,
+CAP. IX / III. NEPHI / p.497) confirms footnote m's target
+letter-for-letter: "m, see i." However, 1879's own chapter 9 footnote
+lettering ends at "m" on this page (no "n" printed at all), so no
+live 1879 parallel exists for footnote n specifically — the same
+pattern already established for footnote 8-2l on page 502, where 1920
+prints more footnotes in this chapter than 1879 does. For n, the
+same-page glyph read above was corroborated independently via
+content-fit (Section 8, procedure step 8): chapter 9's own letter i
+(3569) cites "Versículo 10," directly describing v.10's list of
+burned cities — a strong match for both m (v.10's own "quemar con
+fuego") and n (v.11's continuing "el fuego que les ha[bía mandado]"),
+so n citing back to the same footnote i as m is a coherent,
+content-consistent reading, not a mechanical letter-shape guess alone.
+[Session A] No mandatory 1879 check needed for the page's other
+letters (b-h, j-m are not i/l/1, and none of their own cross-reference
+targets are i/l/1 either — h, k are plain citations; c, e, f, g, j are
+Véase pointers to h, k, k, b, i respectively, none of which land on
+i/l/1 as the target letter except the j→i and m/n→i cases already
+covered above).
+[Session A] Page begins mid-verse (III Nefi 9:2 continuation from
+page 502); per rule 1, "Página 503" is followed immediately by body
+text with no blank line. Page ends mid-sentence at "les ha" (a
+complete word, not hyphenated) continuing into page 504; no rule 10
+page-boundary word-split applies since no hyphen is present at the
+line break.
+[Session B] Independently re-verified all 13 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0525.png's fn_zoom/top/
+mid/bot images; text and marker placement match Session A exactly.
+Independently re-ran the mandatory 1879 check for m/n's shared target
+letter "i" from a fresh crop of BOM 1879 Pratt file page 505: "m, see
+i." reconfirmed letter-for-letter, and 1879's own chapter 9 footnote
+lettering still ends at "m" (no "n" printed), confirming no live 1879
+parallel exists for footnote n. Independently re-ran the same-page
+glyph comparison for n's target from a fresh 1920 crop: still reads as
+a short stroke with a separated dot, matching "i". No errors found.
+[Session C/D] `insert_body_text.py 503` initially crashed in
+`append_block1()` because this page's Block 1 entries omitted the
+required chapter-number prefix (rule 16 — every entry needs a
+"[chapter][letter]" identifier, e.g. "9b", not just "b", even for a
+chapter continuing from an earlier page). Body text had already been
+inserted successfully by that point (confirmed via `grep -n "^Página
+503$" librodm.txt` — exactly one hit); fixed the 13 entry labels in
+this file to "9b"-"9n" and re-ran with `--footnotes-only`, which
+appended cleanly. `generate_block2.py 503` then resolved all 13 Block
+2 entries with no unresolved cross-references, including confirming
+m/n both resolve to 3569 (this chapter's own i), matching the Session
+A/B reasoning above.
+[Session E] Fresh pptext regeneration (`report_wsl_20260724c.html`)
+confirmed 8 spellcheck suspects for this page's new range: the place
+names Gad, Gilgal, Gimgimno, Jacobúgath, Josh, Mocum, and Oníhah (all
+legitimate Book-of-Mormon proper nouns unique to this passage,
+confirmed against 1886 file page 517/518 — added to `permitted
+words.txt` only), and "presenca" (v.9). "presenca" was confirmed as a
+genuine 1920-only error: 1886 (file page 517) reads "presencia" at
+this exact spot, this same page spells "presencia" correctly twice
+elsewhere (vv.5,8), zero hits for "presenca" in any of the three
+reference corpora against dozens for "presencia", and no RAE entry
+exists for it — added to both `errors in 1920.txt` and `permitted
+words.txt`. The two other Session A/B suspected-misprint Corrections
+items above were also confirmed against 1886 and added to `errors in
+1920.txt` (neither is a spellcheck matter, so no `permitted words.txt`
+entries): v.9 "país.;" (1886 reads "pais:" with a colon at this spot —
+1920's period-immediately-followed-by-semicolon is a composition
+error, not intentional double punctuation), and v.11's verse number
+missing its period (1886 prints "11." — 1920 omits the period here
+while using it on all eight other verse numbers on this page).
+Full-document footnote-anchor check (max 3574, zero duplicates,
+zero out-of-range, only the pre-existing 812 gap), curly-quote scan
+(zero curly quotes in either master file), dash check (the only two
+hyphens in this page's new Block 2 range are legitimate verse-range
+hyphens, "7:9-13" and "6:23-25", matching rule 23 — this page's own
+body text has no hyphens at all after the rule 7 rejoin), hyphenation/
+character checks, special situations, and paragraph-level checks all
+clean for the new range; Jeebies clean. `check_spaced_punctuation.py`
+and `check_footnote_punctuation.py` both confirm `librodm.txt` and
+`librodm_foot.txt` are fully clean document-wide.

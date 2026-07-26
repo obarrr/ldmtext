@@ -1,0 +1,156 @@
+Página 509
+22. Y llamó nuevamente el Señor á otros, diciéndoles lo mismo,
+dándoles el [3638]poder para bautizar. Y les dijo: De esta manera
+bautizaréis; y [3639]no habrá disputas entre vosotros:
+23. En verdad os digo que quienquiera que se arrepintiere
+de sus pecados por vuestras palabras, y deseare ser bautizado
+en mi nombre, de este modo le bautizaréis: He aquí, que descenderéis
+al agua, os [3640]pararéis en ella, y en mi nombre les bautizaréis.
+24. Y, he aquí, ahora las palabras que pronunciaréis, llamando
+á cada uno por su nombre, diciendo:
+25. Habiéndoseme sido dada [3641]autoridad de Jesu Cristo,
+[3642]yo te bautizo en el nombre del Padre, y del Hijo, y del Espíritu
+Santo. Amén.
+26. Y entonces le sumergiréis en el agua, y después saldréis
+de ella.
+27. Esa es la manera, como bautizaréis en mi nombre, porque
+he aquí, os digo en verdad, [3643]que el Padre, el Hijo y el Espíritu
+Santo son uno. [3644]Y yo estoy en el Padre, y el Padre está en
+mí, y el Padre y yo somos [3645]uno.
+28. Y de la manera que os he mandado, [3646]así bautizaréis, y [3647]no
+habrá mas disputas entre vosotros, como las habéis tenido ántes,
+ni disputaréis más entre vosotros sobre los puntos de mi doctrina,
+como lo habéis hecho hasta aquí;
+29. Porque en verdad, en verdad, os digo que aquél que tiene
+el espíritu de las [3648]disputas, no es de los míos, sino que es del
+diablo, quién es el padre de las contenciones, y excita los corazones
+de los hombres, para que contiendan unos contra otros
+con cólera.
+30. He aquí, que esta no es mi doctrina el agitar con ira los
+corazones de los hombres, el uno contra el otro; sino que mi
+doctrina es, que [3649]tales cosas cesen.
+31. He aquí, que en verdad, en verdad, os digo que os decalraré
+mi doctrina.
+32. Y esta es la doctrina, que es la doctrina que el Padre me
+ha dado, [3650]y yo doy testimonio del Padre, y el Padre lo dá de
+mí, y el Espíritu Santo lo dá del Padre y de mí, y yo triago el
+testimonio de que el Padre manda á todos los hombres, sea cual
+fuere el paraje, en que se encuentren, que se arrepientan y
+crean en mí;
+33. Los que crean en mí, y se [3651]bauticen, se salvarán; y estos
+son los que heredarán el reino de Dios.
+34. Y los que no crean en mí, ni sean bautizados se condenarán.
+
+11x, 3638: Véase o, Mosíah 18.
+11y, 3639: Versículos 28-30; III Nefi 18:34.
+11z, 3640: Mosíah 18:12; III Nefi 19:10-13.
+11-2a, 3641: Véase o, Mosíah 18.
+11-2b, 3642: Véase u, II Nefi 9.
+11-2c, 3643: Véase k, II Nefi 31.
+11-2d, 3644: Véase p, III Nefi 9.
+11-2e, 3645: Véase k, II Nefi 31.
+11-2f, 3646: Versículos 25-26.
+11-2g, 3647: Versículos 22,29-30.
+11-2h, 3648: Versículos 22,28,30.
+11-2i, 3649: Versículos 22,28-29.
+11-2j, 3650: Versículos 35-36; III Nefi 28:11; Éther 5:4.
+11-2k, 3651: Véase u, II Nefi 9.
+
+Corrections
+- Continues chapter 11 from page 508 (v.22 opens fresh, no mid-word
+  split); letters continue x onward per rule 13 (page 508 ended at w,
+  3637).
+- Two hyphenated line-break rejoins per rule 7: v.23 "des-/cenderéis"
+  → "descenderéis" (stays on the first line, 68 chars) and "bau-
+  /tizaréis" (v.23, the word itself split across what were originally
+  three image lines once "cenderéis" also absorbed — "pararéis en
+  ella, y en mi nombre les bautizaréis." all lands on one output line,
+  69 chars). One more rejoin, v.26: "cora-/zones" → "corazones" (stays
+  on the first line, 69 chars).
+- Discretionary 1879 check (not mandatory — none of this page's own
+  letters are i/l/1) applied anyway because the first three footnote
+  letters, read individually off the 1920 image, appeared to be "z, v,
+  t" in that order — a direct violation of rule 13's strict
+  alphabetical ordering, and the same swash-font ambiguity (this
+  chapter uses a heavily stylized cursive footnote-reference font)
+  documented on page 451 for s/t/v/x/y/z. Cross-checked against BOM
+  1879 Pratt file page 511 (chapter_map lists III Nefi ch.11 1879 file
+  as 509, but content lands two pages later — the same "one page
+  later" drift already established for this chapter on page 508,
+  plus one more page here since this is denser 1920 content spread
+  across more running text): 1879's own u/v/w (already confirmed on
+  page 508) are immediately followed by x "see g, Mos. 18.", y "vers.
+  28-30. III. Nep. 18:34.", z "Mos. 18:12. III. Nep. 19:10-13." — the
+  y and z entries match this page's second and third entries almost
+  word-for-word, and the x entry content-matches the first ("Véase o,
+  Mosíah 18." — a citation to the same chapter, just via a different
+  target letter per rule 26 translation drift). Reassigned the three
+  glyphs from z/v/t to x/y/z accordingly — both other 1920 markers
+  that had first looked like plain "z" (before "poder" and before
+  "pararéis") are in fact two different letters (x and z) that only
+  look alike in this font, exactly the page 451 failure pattern. All
+  eleven 2a-2k entries were independently confirmed content-for-
+  content against the same 1879 page and needed no correction.
+- Content-fit sanity check (Section 8) for the corrected x/y/z:
+  x (v.22 "poder para bautizar") cites Mosíah 18, Alma's
+  establishment of baptismal authority — strong fit; y (v.22 "no
+  habrá disputas") cites forward to this same chapter's vv.28-30 plus
+  III Nefi 18:34, both about disputes ceasing — strong fit; z (v.23
+  "pararéis en ella") cites Mosíah 18:12 and III Nefi 19:10-13, both
+  baptism-procedure passages ("stand in the water") — strong fit.
+- Two suspected misprints, preserved as printed per rule 32: v.31
+  "decalraré" (expected "declararé") and v.32 "triago" (expected
+  "traigo") — both verified at zoom against the 1920 image, not typos
+  in this transcription; to be checked against 1886 in Session E.
+- Rule 31 space-before-punctuation normalizations applied throughout:
+  "vosotros :" → "vosotros:", "diciendo :" → "diciendo:", "aquí ;" →
+  "aquí;", "otro ; sino" → "otro; sino", "mí ;" (v.32) → "mí;",
+  "salvarán ; y" → "salvarán; y".
+- Two unconditional rule-6 double-space normalizations (justification-
+  widened gaps): v.22 "bautizar.  Y" → "bautizar. Y" and v.25 "Santo.
+  Amén." had a double space, normalized to one; v.27 "uno.  Y yo" →
+  "uno. Y yo" (before marker insertion).
+- Google-text cross-check (step 10): 0 candidates after auto-dismissing
+  9 footnote-marker-glue hits and 1 trailing/footnote-block hit — clean.
+[Session B] Independently re-verified all 14 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0531.png; all content and
+marker placement confirmed exactly as transcribed, including both
+suspected misprints ("decalraré," "triago") visibly printed that way,
+not a transcription slip. None of this page's own letters (x, y, z,
+2a-2k) are i/l/1, so the mandatory 1879 check doesn't strictly apply,
+but given Session A's significant x/y/z correction, independently
+re-ran the discretionary 1879 check from a fresh crop of BOM 1879 Pratt
+file page 511 (not reusing Session A's saved crop) — reconfirmed "u,
+see g, Mos. 18. v, see u, II. Nep. 9. w, III. Nep. 18:39. x, see g,
+Mos. 18. y, vers. 28-30. III. Nep. 18:34. z, Mos. 18:12. III. Nep.
+19:10-13." letter-for-letter and citation-for-citation, matching
+Session A's finding exactly. No new errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260725c.html`)
+flagged 4 spellcheck/edit-distance suspects, all in this page's new
+range. Confirmed 2 genuine 1920-only errors against 1886 (file pages
+523-524, book pages 505-506, chapter_map III Nefi ch.11): v.31
+"decalraré" (→ declararé, a letter-transposition typo — RAE has no
+entry for "decalraré," zero corpus hits) and v.32 "triago" (→ traigo,
+same pattern — RAE has no entry, zero corpus hits vs. 23/1/22 for
+"traigo" across Quijote/Reina-Valera NT/Reina-Valera full Bible); both
+added to `errors in 1920.txt` and `permitted words.txt`. Confirmed 2
+legitimate archaic/period forms, matching 1886 exactly at the same
+spots — added to `permitted words.txt` only, no `errors in 1920.txt`
+entry: v.25 "Habiéndoseme" (1886 prints the identical "Habiéndoseme
+sido dada autoridad de Jesu-Cristo") and v.28 "ántes" (1886 also
+accents it: "como las habeis tenido ántes" — a genuine period spelling
+variant despite appearing only this once in the whole ~26,700-line
+document; 73 other instances of unaccented "antes" elsewhere are
+unrelated, not a contradiction). Full-document footnote-anchor check
+(regex scan of every `[N]` in `librodm.txt`): max 3651, zero
+duplicates, zero out-of-range, only the pre-existing 812 gap.
+Independent curly-quote character scan of both master files: zero
+curly quotes. `check_spaced_punctuation.py`/`check_footnote_
+punctuation.py`/`check_verse_indent.py` (whole document, all three)
+clean. No hyphens in this page's final body text, so no dash-check
+findings. Special situations and paragraph-level report sections
+showed nothing new in this page's line range (the one nearby hit,
+`22801: 1: Mosíah 1:4; Mormón 9:32.`, is the established "standalone
+1" false-positive pattern for a Block 2 entry starting with "1," and
+isn't even this page's own content — it's the very first Block 2
+entry in the Notas section, geographically adjacent by coincidence).

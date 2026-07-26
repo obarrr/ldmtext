@@ -1,0 +1,151 @@
+Página 505
+22. Por lo tanto, quienquiera. que se arrepienta y venga á
+mí como niño [3588]pequeñito, á este recibiré; porque de estos es
+el reino de Dios. He aquí, que para estos he dado yo mi vida,
+y la he vuelto á tomar; por lo tanto, arrepentíos y venid á mí,
+vosotros, oh extremos de la tierra, y salváos.
+
+CAPÍTULO 10.
+
+1. Y, ahora, he aquí, sucedió, que todos los habitantes del país
+[3589]oyeron estas palabras, y fueron testigos de ellas. Y después de
+estas palabras, hubo silencio en el país que duró por espacio de
+muchas horas;
+2. Porque fué tan grande la admiración del pueblo, que
+cesaron de lamentarse y de gemir por la pérdida de sus parientes
+que habían perecido; por lo que reinó silencio en todo el país
+durante muchas horas.
+3. Y sucedió, que vino otra vez una voz al pueblo, y todo el
+pueblo oyó y testificó de ella, diciendo:
+4. ¡Oh vosotros, pueblos de estas [3590]grandes ciudades que han
+sido destruidas; vosotros, descendientes de Jacob; sí, vosotros
+que pertenecéis á la casa de Israel; cuántas veces os he juntado,
+como la gallina junta sus pollos debajo de sus alas, y os he alimentado!
+5. Y otra vez, ¡cuántas veces quise juntaros como la gallina
+junta sus pollos bajo sus alas; sí, pueblo de la casa de Israel,
+vosotros los que habéis caído; sí, oh vosotros, pueblo de la casa de
+Israel, los que habitáis en Jerusalem, como vosotros que
+habéis caído; sí, cuántas veces quise juntaros, como la gallina
+junta sus pollos, y no quisisteis!
+6. Oh vosotros, casa de Israel, la que he [3591]conservado, ¡cuántas
+veces os juntaría yo como la gallina junta sus pollos bajo sus
+alas, si os arrepintieseis y vinieseis á mí con el firme propósito
+de vuestros corazones!
+7. Pero si no, oh casa de Israel, vuestras habitaciones quedarán
+desoladas, y serán desoladas hasta la [3592]epoca en que se cumpla la
+alianza que he hecho con vuestros padres.
+8. Y ahora, sucedió, que cuando oyeron esto los habitantes del
+país, empezaron á llorar y á gemir otra vez, á causa de la pérdida
+de sus parientes y amigos.
+9. Y acaeció que así pasaron los [3593]tres días. Y en la [3594]mañana
+
+9-2b, 3588: III Nefi 11:37,38.
+10a, 3589: I Nefi 19:11.
+10b, 3590: III Nefi 8:8-16,24,25; 9:3-12.
+10c, 3591: Versículos 12,13; III Nefi 9:13.
+10d, 3592: Véase e, I Nefi 15.
+10e, 3593: Véase i, I Nefi 19.
+10f, 3594: Háciendo un cálculo de siete y media horas por la
+diferencia de longitud entre Jerusalem y la Tierra de Abundancia,
+al sur del Istmo, los tres días de tinieblas en este último lugar
+hubieran comenzado y concluido a las 7:30 de la mañana, siendo el
+principio de las tinieblas, hora de Abundancia, la hora que Jesús
+expiró; III Nefi 8:19-23.
+
+Corrections
+- v.22 "quienquiera. que" — a small dot sits at baseline level between
+  "quienquiera" and "que" in the 1920 print, distinct from the
+  established floating-scan-artifact pattern (which sits above
+  mid-line, disconnected from the baseline) — this one reads as a
+  genuine printed period, matching the page 482 "por. boca" precedent.
+  Preserved as printed per rule 32; verify against 1886 in Session E.
+- v.7 "epoca" — printed without an accent (expected "época"). Preserved
+  as printed per rule 32; verify against 1886/RAE in Session E.
+- Footnote 10f "Háciendo" — printed with an accent on the initial á,
+  which is grammatically anomalous for a gerund ("haciendo" normally
+  takes no accent). Preserved as printed per rule 32; verify against
+  1886/RAE in Session E.
+- Footnote 10f "último lugar" — a small raised mark floats above the
+  space between "último" and "lugar" in the print, matching the
+  established floating-ink/scan-artifact pattern (pages 483, 490, 492,
+  494, 497, 500); not transcribed. The same spot also has a
+  justification-widened double space, normalized to one space per rule
+  6 (unconditional, no `errors in 1920.txt` entry needed).
+- v.1 "aquí, sucedió" — tight but real inter-word gap after the comma
+  (justification narrowing, not a true zero-space merge — punctuation
+  is present between the words). Normalized to a single space per rule
+  6, no zoom/pixel analysis needed since a comma separates the words.
+- v.4 "alas, y os he ali-/mentado!" — hyphenated line-break split,
+  rejoined per rule 7 ("alimentado", with the following "!" traveling
+  with it); rejoined line lands at exactly 72 characters, kept on the
+  first line.
+- Throughout: every space printed before a comma, semicolon, or
+  exclamation mark (an established 1920 print habit through this
+  stretch of the document) was removed per rule 31 at transcription
+  time, per the current standing practice since the 2026-07-24 fix
+  (see CLAUDE.md); `check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py` were run to confirm none slipped
+  through.
+- Footnote 10b/10c/10f verse citations: reformatted per rules 21-25
+  (no spaces around colons, hyphenated consecutive-verse ranges,
+  no-space commas for non-consecutive verses within one chapter, a
+  space after semicolons between whole references) from the 1920
+  print's spaced-out citation style (e.g. "8 : 8-16, 24, 25 ; 9 : 3-12"
+  → "8:8-16,24,25; 9:3-12").
+- v.7 "vuestros" — initially transcribed as "vuéstros" (accented) by
+  mistake; both `check_line_wrap.py` and `check_google_crosscheck.py`
+  only compare the file's text up through the first blank line (their
+  documented "body lines" convention), so neither tool's automated
+  pass reached this line — this page's `CAPÍTULO 10.` heading creates
+  that first blank line just 5 lines in. A manual read of the full
+  `google_text_1920/page_0527.txt` OCR text against the whole page
+  (done to cover the gap) flagged the accent mismatch; a fresh zoom
+  confirmed the print reads "vuestros," unaccented. Own transcription
+  error (rule 12), corrected directly; no `permitted words.txt`/
+  `errors in 1920.txt` entry needed. Worth noting for future pages
+  with a mid-page chapter heading: the automated line-wrap/cross-check
+  tools' coverage silently stops at that heading's blank line, so a
+  manual read of the rest of the page's Google OCR text is worth doing
+  as a substitute.
+[Session B] Independently re-verified all 7 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0527.png, including a
+fresh high-zoom re-read of v.7 "vuestros" (unaccented, confirmed).
+Independently re-ran the mandatory 1879 check for footnote 10e's
+cross-reference target letter "i" (I Nefi 19) from a fresh crop of BOM
+1879 Pratt file page 57: "i, Hela. 14:20,27. III. Nep. 8:19-23. 10:9."
+reconfirmed letter-for-letter, matching Session A's finding and the
+strong content fit with this page's own footnote 10f (III Nefi
+8:19-23). No errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260724d.html`)
+flagged 3 spellcheck/edit-distance suspects, all from this page's own
+Corrections-log suspects plus one new one: "epoca" (edit distance
+vs. 33 correctly-accented "época" instances elsewhere), "Háciendo"
+(edit distance vs. 34 correctly-spelled "haciendo" instances
+elsewhere), and "salváos" (new, single-occurrence). Checked against
+1886 (file pages 517/519/520, chapter_map III Nefi ch.9/10): 1886
+reads "quienquiera que se arrepienta" with no punctuation at all
+between the two words
+(confirming the v.22 period is a genuine 1920-only misprint) and
+"época" accented at v.7; both added to `errors in 1920.txt`, plus a
+new footnote-text entry for 10f's "Háciendo" (RAE/WebSearch confirms
+the regular gerund "haciendo" never takes an accent; no 1886 footnote
+text exists to compare against, since 1886 carries no footnotes). All
+three pptext-flagged words ("epoca", "Háciendo", "salváos") added to
+`permitted words.txt`. "salváos" itself confirmed legitimate — 1886
+prints the identical accented form at the identical spot, matching the
+established archaic accented-imperative-plus-enclitic-pronoun pattern
+already confirmed on pages 479/487 (apoderáos/entregáos); not an error.
+Full-document footnote-anchor check (union of both pptext buckets):
+max 3594, zero duplicates, zero out-of-range, only the pre-existing 812
+gap. `check_spaced_punctuation.py`/`check_footnote_punctuation.py` both
+confirm the whole document (`librodm.txt`/`librodm_foot.txt`) clean;
+independent curly-quote character scan of both master files clean;
+dash check's only hits in this page's range are legitimate verse-range
+hyphens in Block 2 citations; special situations, book-level,
+paragraph-level, and Jeebies checks all came back clean for the new
+range. No narrow-space-vs-merge flags for the editor this page: v.1
+"aquí, sucedió" (noted above) has a comma between the two words, so
+rule 6's unconditional space-normalization clause applies directly —
+this is not an ambiguous word-boundary call under
+`feedback_narrow_space_vs_merge`, which only concerns tight pairs with
+no punctuation between them.

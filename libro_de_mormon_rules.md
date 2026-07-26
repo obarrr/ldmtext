@@ -15,6 +15,36 @@
    blank line before and after.
 4. Verses flow as continuous paragraphs.
 
+**Verse numbers always start at column 1 — never indented (confirmed
+failure mode, pages 453/454/489-493/508, fixed 2026-07-25).** When a
+new verse's number begins a line, write it flush left with zero
+leading whitespace, exactly like every other body line. This project's
+plain-text transcription format never indents anything in the body
+text — not chapter openings, not verse starts — regardless of how an
+English reader's eye might expect a paragraph's first line to be set
+off. This defect first appeared on page 493 and was noted informally
+in a CLAUDE.md progress-log entry (2026-07-22g) at the time, but that
+note only changed how later pages were transcribed going forward — it
+was never converted into an actual rule here, and page 493 itself
+(plus its already-integrated copy in `librodm.txt`) was left
+unfixed. With nothing mechanical in place to prevent a recurrence, the
+identical defect reappeared independently on page 508. Fixed 2026-07-25
+across pages 453, 454, 489-493, and 508 (66 body-text instances total),
+`librodm.txt` (77 lines), and the two already-emailed chapter files
+affected (`chapters_emailed/Helaman_6.txt`, `Helaman_7.txt` — chapters
+Helamán 6-7 had already been sent to family before this was caught;
+the emails were not resent, but the archive copy was corrected for
+consistency, matching the 2026-07-24b precedent for this class of
+retroactive text fix). `check_verse_indent.py`, added the same day, is
+the mechanical backstop — wired into `transcribe-page` step 9 and
+`orthography-check`'s document-wide sweep, alongside
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`. Note
+its one known false-positive shape: a Corrections-log paragraph can
+happen to word-wrap so that a quoted verse excerpt starts a line with
+a few spaces of ordinary prose indentation (not a real defect) — check
+context, as with the other two checker scripts, before "fixing"
+a hit inside a Corrections section.
+
 **Chapter/book subtitles — always transcribe, never omit (corrected
 2026-07-22).** Many chapter and book openings print an additional
 descriptive line — sometimes bold small-caps (e.g. Helamán 7's

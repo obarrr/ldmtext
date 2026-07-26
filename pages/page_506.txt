@@ -1,0 +1,214 @@
+Página 506
+siguiente desapareció la obscuridad de sobre la faz del país, y
+cesó la tierra de temblar, y pararon las [3595]rocas de hendirse, y
+cesaron los espantosos gemidos, y se acabaron todos los sonidos
+tumultuosos.
+10. Y se cerró la tierra otra vez, y se afirmó; cesaron los lamentos
+y el llanto, y los gemidos de los del pueblo que quedaron
+vivos; y se cambiaron sus lamentos en alegría, y sus lamentaciones
+en alabanzas y acción de gracias al Señor Jesu Cristo, su
+Redentor.
+11. Y hasta aquí se cumplieron las [3596]escrituras que fueron
+vaticinadas por los profetas.
+12. Y fué la parte [3597]más justa del pueblo la que se salvó, que
+fueron los que recibieron á los profetas y no les apedrearon, y los
+que no vertieron la sangre de los santos, estos fueron los que se
+salvaron;
+13. Y fueron preservados, y [3598]no fueron hundidos, ni enterados
+en la tierra; y [3599]no fueron ahogados en las profundidades del
+mar; y [3600]no fueron quemados por el fuego, ni aplastados de
+muerte; y no fueron arrebatados por el [3601]huracán; ni fueron
+sofocados por el [3602]vapor de humo y de obscuridad.
+14. Y ahora, quienquiera que lea, que lo entienda; y quién
+tenga las escrituras, que las [3603]escudriñe, y que vea, si todas estas
+muertes y destrucciones por el [3604]fuego, y por el [3605]humo, y por
+las [3606]tempestades, y por los [3607]torbellinos, y por las
+[3608]aberturas de la tierra para recibirles, sí, si todas estas cosas
+no son en cumplimiento de las profecías de muchos de los santos
+profetas. 15. He aquí, que os digo, que muchos han testificado de estas
+cosas en la venida de Cristo, y fueron asesinados á causa de
+haber testificado de ellas;
+16. Sí, el profeta [3609]Zenos testificó estas cosas, y también
+[3610]Zenock habló relativamente de ellas, por que ellos testificaron
+particularmente sobre nosotros, que somos el resto de su simiente.
+17. Y nuestro padre Jacob también testificó [3611]relativamente
+de un resto de la simiente de José. Y, he aquí, ¿no somos nosotros
+un resto de la simiente de José? ¿Y no están estas cosas que
+testifican de nosotros, escritas en las [3612]planchas de bronce que
+nuestro padre Lehi trajo de Jerusalem?
+18. Y sucedió, á la conclusión del año treinta y cuatro, según
+yo os enseñaré, he aquí, que los que habían quedado del pueblo
+de Nefi, y también los que se habían salvado, que se llamaban
+Lamanitas, reciberon muchos favores, y muchas bendiciones
+
+10g, 3595: Véase i, Helamán 14.
+10h, 3596: I Nefi 12:4,5; 19:10-12; Helamán 14:20-28.
+10i, 3597: Versículo 13; III Nefi 9:13.
+10j, 3598: III Nefi 8:9; 9:4-8.
+10k, 3599: III Nefi 8:9; 9:4,7.
+10l, 3600: III Nefi 8:8,24; 9:3,9,10.
+10m, 3601: Versículo 14; III Nefi 8:16.
+10n, 3602: Véase 2i, III Nefi 8.
+10o, 3603: Véase h.
+10p, 3604: Véase i.
+10q, 3605: Véase 2i, III Nefi 8.
+10r, 3606: Véase v, Helamán 14.
+10s, 3607: Véase m.
+10t, 3608: Véase h, III Néfi 9.
+10u, 3609: Véase h, I Nefi 19.
+10v, 3610: Véase o, I Nefi 19.
+10w, 3611: Alma 46:24-26; III Nefi 20:22.
+10x, 3612: Véase a, I Nefi 3.
+
+Corrections
+- Mandatory 1879 check (letters i, l — own-chapter letters — plus g's
+  and p's cross-reference target letter "i"): same-page glyph comparison
+  first (this page's own "i" = short stroke + separated dot, e.g.
+  footnote 10i's own label and g's/p's targets all share this shape;
+  "l" = a single continuous stroke with no dot, e.g. footnote 10l's own
+  label), then confirmed via BOM 1879 Pratt file pages 507-508
+  (chapter_map III Nefi ch.10, "one page later" content-drift: chapter
+  10's footnotes a-f landed on file 507, g-x land on file 508). 1879's
+  own lettering for h/i/j/k/l/m/o/r/t/u/w matches 1920's letter-for-
+  letter and content-for-content exactly, confirming the base sequence.
+  1879 diverges from 1920 on several "Véase"-style cross-reference
+  target letters (g→1879 "t" vs 1920 "i"; n/q→1879 "2i" vs this
+  session's initial read; p→1879 "l" vs 1920 "i"; v→1879 "q" vs 1920
+  "o") — per rule 26, this is expected translation-word-order drift in
+  how the TARGET chapter's own lettering is assigned in each edition,
+  not evidence of a 1920 error. For the mandatory letters (g's and p's
+  targets, both read as "i"), a dedicated high-zoom crop of each target
+  glyph independently confirmed the short-stroke-plus-separated-dot "i"
+  shape (distinct from the continuous-stroke "l" shape also visible
+  on this page) — see the transcription session notes. Not re-litigated
+  against 1879's differing letter for these two since the 1920 glyph
+  read itself is unambiguous and rule 26 explicitly permits this kind
+  of cross-edition letter mismatch.
+- Footnotes n and q's cross-reference target (originally hard to read at
+  the 1920 print's small footnote size, resembling this page's own "n"
+  glyph) was resolved as the two-letter code "2i" (III Nefi 8's own
+  extended a-z-then-2a... lettering, see librodm_foot.txt's 8-2i entry,
+  3557) rather than a single letter: 1879 independently confirms
+  "see 2i" for both n and q, and III Nefi 8-2i's own citation
+  ("Versículos 3,22-23; I Nefi 12:5;19:11;Helamán 14:20,27;III Nefi
+  10:9") directly cites "III Nefi 10:9" — this very page — a strong,
+  nearly self-referential content-fit for footnotes annotating "vapor
+  de humo" (v.13) and "humo" (v.14), both about the same darkness/smoke
+  sign. Not a mandatory check (n/q are not i/l/1 and their target is a
+  two-letter code, not bare "i"), but flagged here since the reading
+  required more than a casual glance.
+- Footnote 10t "III Néfi 9" — printed with an accent on the é, unlike
+  every other instance of "III Nefi"/"Néfi" throughout the document
+  (always unaccented). Preserved as printed per rule 32; verify against
+  1886/RAE in Session E (1886 carries no footnotes, so this may need to
+  rest on internal consistency alone, similar to the "Háciendo" case on
+  page 505).
+- v.10 "se afirmó ; cesaron los la-/mentos" — hyphenated line-break
+  split, rejoined per rule 7 ("lamentos"); rejoined line lands at 68
+  characters, kept on the first line.
+- v.10 "sus lamenta-/ciones" — hyphenated line-break split, rejoined per
+  rule 7 ("lamentaciones"); rejoined line lands at 66 characters, kept
+  on the first line.
+- v.14 "cumpli-/miento" — hyphenated line-break split, rejoined per rule
+  7 ("cumplimiento"); rejoined line lands at 71 characters, kept on the
+  first line.
+- v.14: inserting footnote markers 3604/3605 into "por el fuego, y por
+  el humo, y por las tempestades..." pushed the line to 74 characters;
+  per rule 8, this cascaded across four lines (each successive line
+  also landing over the cap once the prior line's overflow word was
+  prepended): "las" moved down in front of "tempestades" (3606),
+  "aberturas" (3608)'s line absorbed "de la" pushed from the
+  tempestades/torbellinos line, "no son en cumplimiento" moved down, and
+  finally "profetas." (the last word of v.14) landed at the very start
+  of v.15's own image line ("profetas. 15. He aquí..."), the cascade's
+  last step landing exactly at 71 characters. Verse boundaries are not
+  a stopping point for rule 8 — verses are one continuous paragraph
+  stream (rule 4) and the marker-driven cascade runs on raw line length
+  alone.
+- Throughout: every space printed before a semicolon or question mark
+  (v.10 "afirmó ;", v.12 "vivos ;", "salvaron ;", v.13 "tierra ;",
+  "mar ;", "muerte ;", "huracán ;", v.14 "entienda ;", v.15 "ellas ;",
+  v.17 "José ?", "Jerusalem ?") was removed per rule 31 at transcription
+  time; `check_spaced_punctuation.py` run to confirm none slipped
+  through.
+- v.17 "de José.  Y, he aquí" — justification-widened double space,
+  normalized to one space per rule 6 (unconditional, no `errors in
+  1920.txt` entry needed).
+- Footnote 10h citation: reformatted per rules 21-25 (no spaces around
+  colons, no-space commas for non-consecutive verses within one
+  chapter, hyphenated consecutive-verse range, space after semicolons
+  between whole references) from the 1920 print's spaced-out style
+  ("12 : 4, 5 ; 19 : 10-12 ; Helamán 14 : 20-28" → "12:4,5; 19:10-12;
+  Helamán 14:20-28").
+- v.12 "más justa" — the Google-text cross-check reported this glued as
+  "másjusta" and a zoom confirms a narrower-than-usual gap, but a real,
+  visible gap is present between the two words; "másjusta" is not a
+  word, so per the current rule 6 default this is transcribed as two
+  words with a normal single space, no pixel analysis needed. Also, a
+  small raised mark floats above the gap between "pueblo" and "la" on
+  the same line — matches the established floating-ink/scan-artifact
+  pattern (pages 483, 490, 492, 494, 497, 500, 501); not transcribed.
+- v.18 "reciberon" — the Google-text cross-check (step 10) flagged this
+  word; initial Session A transcription had typed the expected
+  "recibieron" instead of what the image actually shows. A fresh zoom
+  of pages_1920/page_0528.png (82-87% vertical band) confirmed the 1920
+  print genuinely reads "reciberon" (missing "i"). Corrected to match
+  the image, preserved as printed per rule 32; verify against 1886/RAE
+  in Session E. The cross-check's other candidate (v.13 "tierra; y
+  [3599]no fueron ahogados" vs. Google's garbled "tierra; *no fueron")
+  was checked directly against a fresh zoom and confirmed as OCR noise
+  at the footnote-marker position, not a real discrepancy — "y" is
+  genuinely printed there.
+[Session B] Independently re-verified all 18 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0528.png. Re-ran the
+mandatory 1879 check from a fresh crop of BOM 1879 Pratt file page 508
+(chapter_map III Nefi ch.10, "one page later" content-drift: chapter
+10's own a-f landed on 1879 file 507, g-x on 508) — 1879's own lettering
+for h/i/j/k/l/m/o/r/t/u/w reconfirmed letter-for-letter and
+content-for-content; the g/n/p/q/v target-letter divergences noted in
+Session A held up under this independent re-read too (rule 26
+translation-order drift, not an error). Independently re-confirmed the
+1920 glyph shapes for "i" (short stroke + separated dot) and "l"
+(continuous stroke, no dot) from a fresh crop. No new errors found.
+[Session D] `generate_block2.py` left footnote 10x (3612, "Véase s, I
+Nefi 3") unresolved — I Nefi chapter 3's own lettering only runs a-h in
+librodm_foot.txt, so target letter "s" cannot exist there. A dedicated
+high-zoom crop of the 1920 glyph showed a solid, over-inked blob —
+illegible by shape alone, not a clean "s". BOM 1879 Pratt (file page
+508, fresh crop) independently reads "x, see a, I Nefi 3."; I Nefi 3a
+(footnote 12: "I Nefi 3:12,19-20,24;...") is also a strong content-fit
+match — I Nefi 3 is the chapter about retrieving the brass plates,
+directly matching this page's own v.17 "planchas de bronce" (footnote
+x's annotated word). Corrected the target letter to "a" in
+`pages/page_506.txt` and `librodm_foot.txt`, and resolved Block 2 entry
+3612 by hand to "Véase 12." (generate_block2.py's own --fix-unresolved
+pass does not re-parse an already-generated Block 2 line's text, so this
+required a direct edit rather than a re-run).
+[Session E] Fresh pptext regeneration (`report_wsl_20260724e.html`,
+re-confirmed clean after fixes via `report_wsl_20260724f.html`) flagged
+2 spellcheck/edit-distance suspects for this page: "hendirse" (v.9,
+"pararon las rocas de hendirse") — confirmed legitimate via 1886 (file
+page 520, chapter_map III Nefi ch.9/10), which prints the identical
+word at the identical spot; added to `permitted words.txt` only. And
+"reciberon" (v.18) — confirmed genuine 1920-only error: 1886 (file page
+521) reads "recibiéron muchos favores" at the same spot, RAE has no
+entry for "reciberon" (WebSearch confirmed), and all three reference
+corpora have zero hits for "reciberon" against dozens for
+"recibieron"/"recibiéron"; added to both `errors in 1920.txt` and
+`permitted words.txt`. Footnote 10t's "III Néfi 9" accent (flagged in
+Session A/B) was confirmed as a genuine isolated anomaly — a full-
+document grep found this is the ONLY accented "Néfi" anywhere in either
+master file, against 1366 unaccented instances in `librodm.txt` and
+1116 more in `librodm_foot.txt`; added to `errors in 1920.txt` in the
+established footnote-text-error style (no 1886 comparison possible,
+1886 carries no footnotes). Full-document footnote-anchor check (max
+3612, zero duplicates, zero out-of-range, only the pre-existing 812
+gap), independent curly-quote character scan (zero curly quotes in
+either master file), and `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py` (both run document-wide) all clean.
+No new hyphen/dash findings (this page's body text has no hyphens
+post-rejoin). One item flagged for the editor per
+`feedback_narrow_space_vs_merge` rather than resolved unilaterally:
+v.12 "más justa" (noted above) — a real but narrow gap, transcribed as
+two words per the current default, worth a look at the actual page
+whenever convenient.

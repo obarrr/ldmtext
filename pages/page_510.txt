@@ -1,0 +1,204 @@
+Página 510
+35. En verdad, en verdad, os digo, que esta es mi doctrina,
+y de [3652]ella doy testimonio desde el Padre; y [3653]los que crean en
+mí, creen también en mi Padre, y el Padre les [3654]dará testimonio de
+mí, porque Él le visitará [3655]con fuego, y con el Espíritu Santo.
+36. Y así [3656]dará el Padre testimonio de mí, y el Espíritu Santo
+lo dará del Padre y de mí; [3657]porque el Padre, yo, y el Espíritu
+Santo somos uno.
+37. Y otra vez os lo digo: Tenéis que arrepentiros, y venir
+á ser como un niño pequeñito, y ser [3658]bautizados, en mi nombre,
+ó de otro modo no podréis recibir estas cosas.
+38. Y todavía os digo, que tenéis que arrepentiros, y ser
+bautizados en mi nombre, y venir á ser como un niño [3659]pequeñito,
+ó de otro modo no en podréis heredar el reino de Dios.
+39. En verdad, en verdad, os digo, que esta es mi doctrina;
+y que los que edifican sobre esto, edifican sobre mi roca, y [3660]las
+puertas del infierno no prevalecerán en contra de ellos.
+40. Y él que declare más ó menos de esto, y lo establezca por
+mi doctrina, el mismo viene del mal, y no edifica sobre mi roca,
+sino que edifica sobre cimientos de [3661]arena, y las puertas del
+infierno estarán abiertas para recibirle, cuando vengan las
+inundaciones, y le batan los vientos.
+41. Así pues, id á este pueblo, y anunciad las palabras que os
+he dicho, hasta los extremos de la tierra.
+
+CAPTULO 12. (Véase Mateo 5.)
+
+1. Y vino á suceder que cuando Jesús hubo dicho estas palabras
+á [3662]Nefi, y á los que habían sido llamados, (siendo [3663]doce
+el número de los que habían sido llamados y habían recibido
+el [3664]poder y autoridad de bautizar,) he aquí, que extendió su mano
+hacia la multitud, y les habló en estos términos: Benditos seáis,
+si prestáis atención á las palabras de estos doce que yo he escogido
+de entre vosotros, para que os ministren y os sirvan;
+yo les he [3665]dado el poder, para que os bauticen en el agua; porque,
+he aquí, que después que hayáis sido bautizados en el agua, yo
+os bautizaré [3666]con fuego y con Espíritu Santo. Por lo que benditos
+seáis, si creéis en mí, y os bautizaréis después de haberme
+visto, y de saber que yo soy.
+
+11-2l, 3652: Versículos 32,36.
+11-2m, 3653: Éther 4:12.
+11-2n, 3654: Versículos 22,36.
+11-2o, 3655: Véase y, III Nefi 9.
+11-2p, 3656: Véase 2j.
+11-2q, 3657: Véase k, II Nefi 31.
+11-2r, 3658: Véase u, II Nefi 9.
+11-2s, 3659: Véase 2b, III Nefi 9.
+11-2t, 3660: Mateo 16:18; III Nefi 18:12,13.
+11-2u, 3661: Mateo 7:24-27; III Nefi 14:24-27;18:12,13.
+12a, 3662: Véase s, III Nefi 11.
+12b, 3663: III Nefi 13:25;15:11;18:1-17,26-39;19:4-36;20:1-6;22:10;26:17;27:28;
+IV Nefi 1:1,5,13,14,30-33,37,44,46; Mormón 1:13;3:19;8:10,11;9:22,25;
+Éther 12:17; Moroni 2:3.
+12c, 3664: Véase o, Mosíah 18.
+12d, 3665: Véase o, Mosíah 18.
+12e, 3666: Véase y, III Nefi 9.
+
+Corrections
+- Continues chapter 11 from page 509 (v.35 opens fresh, no mid-word
+  split); letters continue at 2l per rule 13 (page 509 ended at 2k,
+  3651). Chapter 12 opens mid-page (v.41 closes chapter 11); letters
+  restart at a per rule 13, sequential numbering continues (3662).
+- Chapter heading misprint, preserved as printed per rule 32: 1920
+  prints "CAPTULO 12." instead of "CAPÍTULO 12." — the "Í" is entirely
+  missing from the word (confirmed at 8x-16x zoom: C-A-P-T-U-L-O, no
+  vowel between P and T). A small floating ink-like mark appears just
+  above the baseline between "CAPTULO" and "12" — possibly a detached
+  remnant of the missing letter's accent — but it does not form a
+  legible character on its own and was not transcribed, matching the
+  established floating-scan-mark precedent (pages 483, 490, 492, 494,
+  497, 500). Verify against 1886 in Session E; this looks like a
+  genuine 1920-only typesetting defect (damaged/dropped type), not a
+  1886-shared error, since every other chapter heading in the document
+  reads "CAPÍTULO".
+- Two hyphenated line-break rejoins per rule 7: v.38 "peque-/ñito" →
+  "pequeñito" (falls at the very end of its line, 68 chars); chapter
+  12 v.1 "pala-/bras" → "palabras" (stays on the first line of v.1, 63
+  chars).
+- Two more hyphenated line-break rejoins, both in chapter 12 v.1: "es-
+  /cogido" → "escogido" (69 chars) and "bendi-/tos" → "benditos" (70
+  chars).
+- v.38: "ó de otro modo no en podréis heredar el reino de Dios." — the
+  extra "en" does not fit grammatically (compare v.37's parallel "ó de
+  otro modo no podréis recibir estas cosas.", with no "en"). Preserved
+  as printed per rule 32; suspected misprint, verify against 1886 in
+  Session E.
+- Chapter 12 v.1: a small mark appeared between "palabras" and "de" at
+  first read and was initially transcribed as a spurious period
+  ("palabras. de estos doce"), preserved as printed per rule 32 pending
+  1886 verification. The editor reviewed the actual 1920 page directly
+  and determined the mark is a tiny speck/scan artifact, not a printed
+  period — it does not read as genuine type. Corrected to "palabras de
+  estos doce" (no punctuation) in this page and `librodm.txt`; the
+  corresponding `errors in 1920.txt` entry was removed (no `permitted
+  words.txt` entry existed for this, since it was a punctuation
+  question, not a spelling one). This matches the established
+  scan-artifact pattern from pages 472-473/475/483/488/500 (see
+  `libro_de_mormon_rules.md`'s 2026-07-18d note): a mark that looks
+  like damage/debris rather than a clean, deliberate piece of type is
+  not automatically a genuine 1920 error, and the editor's direct look
+  at the page overrides an image-crop reading.
+- Narrow-but-real/near-zero print gaps transcribed as two words with a
+  normal single space per the current rule 6 default (grammar requires
+  two words; no zoom/pixel debate) — flagging both for the editor per
+  `feedback_narrow_space_vs_merge`, not resolved unilaterally: v.35
+  "doy testimonio desde el Padre" (a justification-widened gap between
+  "testimonio" and "desde"); chapter 12 v.1 "para que os bauticen en el
+  agua" (the tightest instance on the page — "que", "os", and
+  "bauticen" print with almost no visible gap between all three words).
+- Mandatory 1879 check (BOM 1879 Pratt file page 512, chapter_map III
+  Nefi ch.12 — content landed on the exact listed page, no drift this
+  time) resolved several footnote target letters that were ambiguous
+  or misread at first pass in this page's heavily swash reference
+  font:
+  - 11-2p's target, initially read as "2i" (i is mandatory) from a
+    first zoom, was re-examined at higher zoom and found to have a
+    hooked descender below the baseline rather than a plain dot — more
+    consistent with "j" than "i". 1879 confirms directly: "2p, see
+    2j." Resolved as 2j.
+  - 11-2s's target was first misread as plain "b" at lower zoom; a
+    tighter crop showed a second, smaller leading character —
+    the two-letter code "2b". 1879 confirms exactly: "2s, see 2b,
+    III. Nep. 9." Resolved as 2b.
+  - 11-2o's and 12e's targets (both citing "III Nefi 9") both looked
+    like a plain "v" glyph at every zoom level tried, with no visible
+    descender — but 1879 reads both as "y" ("2o, see y" / no 1879
+    equivalent for 12e, since 1879 combines what 1920 splits into 12
+    letters a-e into only 4, a-d). Settled via content-fit: 1920's own
+    chapter 9 footnote y (3585) is a long cross-reference chain whose
+    citation list explicitly includes "III Nefi 11:35,36" and "III
+    Nefi 12:1,2" — i.e., it already cites back to the exact verses
+    these two footnotes annotate. Resolved both as y, not v.
+  - 12a's target was an over-inked, blob-like glyph, illegible by
+    shape alone. 1879 reads "a, see s, III. Nep. 11." — and this is
+    the one target on the page where 1879's own letter POSITION (a)
+    also matches 1920's position (a), not just the content, the
+    strongest-confirmed resolution on this page. Resolved as s
+    (chapter 11's own letter s, 3633: III Nefi 1:2,3,10;7:15,20,
+    23-26 — a strong content fit, since III Nefi 1 introduces this
+    same disciple Nephi and his record-keeping).
+  - All other footnote targets on this page (2q/k, 2r/u, 2t, 2u, 12c/o,
+    12d/o) matched 1879 exactly by content, letter, and/or position
+    with no ambiguity.
+- `check_line_wrap.py` flagged a body-line-count mismatch (23 counted
+  vs. 39 OCR-estimated), but this is the same blind spot already
+  documented for page 505: the script stops reading at the chapter
+  heading's first blank line, so it only ever saw chapter 11's 23
+  continuing lines (v.35-41), not chapter 12 v.1's lines past the
+  heading. Every line on the page was individually verified against
+  the top/mid/bot image crops per rule 5/6 regardless of this script's
+  blind spot.
+- Google-text cross-check (`extract_google_text.py 510` /
+  `check_google_crosscheck.py 510`): one candidate, v.40 "más ó menos"
+  — Google's OCR drops the accent ("más o menos"); confirmed via direct
+  zoom that the 1920 print genuinely has the accent ("ó"), matching
+  this document's consistent house style of accenting the disjunctive
+  "ó" between words to avoid ambiguity with the digit 0. Known OCR
+  accent-dropping limitation, not a transcription error. All other
+  candidates were footnote-marker glue noise, auto-dismissed.
+- [Session B] Independently re-verified all 15 Block 1 entries and
+  body markers against fresh crops of pages_1920/page_0532.png; all
+  four Session A footnote-target resolutions (2p→2j, 2s→2b, 2o/12e→y,
+  12a→s) were re-examined from fresh, independent crops and reconfirmed
+  exactly, including re-confirming that 2j's glyph has a genuine
+  descender hook (distinguishing it from a plain "i") and that both the
+  2o/12e and 12a target glyphs remain illegible/ambiguous by shape
+  alone even under a fresh independent zoom — their resolution rests on
+  the 1879 cross-check plus content-fit, not glyph shape, exactly as
+  Session A concluded. No errors found.
+- [Session D] `generate_block2.py` resolved all 16 Block 2 entries with
+  no unresolved cross-references; the resolutions independently
+  corroborate two of Session A/B's trickiest calls: 12a→s resolved to
+  3633 ("III Nefi 1:2,3,10;7:15,20,23-26" — the exact 1879-confirmed
+  target), and 12c/12d→o both resolved to the same number (1350,
+  Mosíah 18 vv.26,28), while 11-2s→2b resolved to 3588 ("III Nefi
+  11:37,38" — the literal "become as a little child" passage this
+  page's own v.37-38 is paraphrasing, a near-perfect content fit).
+- [Session E] Checked all three of this page's own suspected-misprint
+  Corrections items against 1886 (file page 525/524, chapter_map III
+  Nefi ch.11/12): two confirmed as genuine 1920-only errors and added
+  to `errors in 1920.txt` — the "CAPTULO 12." heading (1886: "CAPÍTULO
+  12." correctly accented) and v.38 "no en podréis heredar" (1886 has
+  no "en" at all, and this page's own v.37 uses the parallel
+  construction with no "en"). The third, chapter 12 v.1's "palabras.
+  de estos doce," was reversed after the editor reviewed the actual
+  1920 page directly and determined the mark is a scan speck, not a
+  printed period (see the Corrections note above) — no `errors in
+  1920.txt` entry for this one. Fresh pptext regeneration
+  (`report_wsl_20260725e.html`) flagged exactly one new spellcheck
+  suspect for this page, "CAPTULO" itself (added to `permitted
+  words.txt`); the only other spellcheck hit, "Profecia," is the
+  pre-existing page-469 item, unrelated to this page. Full-document
+  footnote-anchor check (max 3666): zero duplicates, zero out-of-range,
+  only the pre-existing 812 gap. Curly-quote character scan (both
+  master files) and a hyphen-compound scan of this page's new lines
+  (zero hyphens post-rejoin) both clean.
+  `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py` all re-run against the whole document
+  (`librodm.txt`/`librodm_foot.txt`), not just this page, per the
+  2026-07-24/2026-07-25 standing instruction: all clean. The two
+  narrow-space-vs-merge notes above (v.35 "testimonio desde", chapter
+  12 v.1 "que os bauticen") remain open for the editor's own look,
+  per `feedback_narrow_space_vs_merge` — not resolved unilaterally.

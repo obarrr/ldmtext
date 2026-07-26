@@ -551,6 +551,23 @@ the quote. Treat any live hit anywhere in the document as an
 immediate fix, the same as the mandatory Corrections-log sweep above —
 don't scope this to just the page(s) currently being transcribed.
 
+### Verse indentation check
+
+Run `check_verse_indent.py librodm.txt` every Session E, across the whole
+document — flags any line where a verse number starting the line has
+leading whitespace instead of starting at column 1 (see the
+`libro_de_mormon_rules.md` Section 1 note). This defect went undetected
+on page 493 for over a month because nothing mechanical checked for it
+(only later pages were transcribed correctly going forward — page 493
+itself, and `librodm.txt`'s copy of it, were left wrong until it
+recurred independently on page 508 and both were finally fixed
+2026-07-25). Also run it against the current page's own file
+(`pages/page_NNN.txt`); as with the other two checker scripts, a hit
+inside that file's Corrections log may be a prose paragraph that
+happens to word-wrap onto a line starting with a quoted verse number —
+check context before editing. Treat any live hit anywhere in the
+document as an immediate fix, not scoped to just the current page(s).
+
 ### Special situations checks
 
 A grab-bag of unrelated sub-checks, each a simple regex/inventory over

@@ -1,0 +1,195 @@
+Página 504
+destruido, para que desaparezcan sus maldades y sus abominaciones
+de mi presencia; á fin de que la sangre de los profetas y
+los santos que les he enviado, no clame más desde la tierra en
+contra de ellos;
+12. Y yo he herido á este país y á sus habitantes con numerosas
+destrucciones, á causa de sus maldades y abominaciones.
+13. Oh vosotros, todos los que habeís sido conservados,
+porque fuisteis más justos que ellos, ¿no os volveréis á mí ahora,
+y os arrepentiréis de vuestros pecados y os convertiréis, para
+que yo os cure?
+14. Sí, en verdad os digo, que si venís á mí, tendréis vida
+eterna. He aquí, que mi brazo de misericordia se extiende hacia
+vosotros; y á cualquiera que venga, le recibiré; y benditos son
+los que vengan á mí.
+15. He aquí, yo soy Jesu Cristo, el Hijo de Dios. Yo [3575]creé
+los cielos y la tierra, y todas las cosas que ellos contienen. Yo
+estaba con el Padre desde el principio. [3576]Yo estoy en el Padre y
+el Padre en mí; y [3577]en mí ha glorificado el Padre su nombre.
+16. Yo he venido á los [3578]míos, y los míos no me han recibido.
+Y las escrituras [3579]relativas á mi venida se han cumplido.
+17. Y á todos los que me han recibido, les he [3580]dado el poder
+de convertirse en hijos de Dios; y lo mismo haré con todos los
+que crean en mi nombre; porque, he aquí, que por mí viene la
+[3581]redención, y [3582]en mí se ha cumplido la ley de Moisés.
+18. Yo [3583]soy la luz la vida del mundo. Yo soy el Alpha y
+Omega, el principio y el fin.
+19. Y vosotros no me ofreceréis ya [3584]más derrame de sangre;
+sí, vuestros sacrificios y vuestros holocaustos concluirán, porque
+yo no aceptaré ninguno de vuestros sacrificios, ni ninguna de
+vuestras ofrendas quemadas.
+20. Y me ofreceréis como sacrificio un corazón quebrantado
+y un espíritu contrito. Y quienquiera que á mí viniere con un
+corazón quebrantado y un espíritu contrito, le bautizaré [3585]con
+fuego y el Espíritu Santo; lo mismo que lo fueron los Lamanitas
+á causa de su fe en mí en la época de [3586]su conversión, cuando
+fueron bautizados con fuego y Espíritu Santo, sin que ellos lo
+supieran.
+21. He aquí, que he venido al mundo á traerle la [3587]redención,
+para salvar al mundo de pecado:
+
+9o, 3575: Mosíah 3:8; 4:2; Véase i, Helamán 14.
+9p, 3576: III Nefi 11:27; 19:23,29; Éther 3:14.
+9q, 3577: III Nefi 11:7,11.
+9r, 3578: Juan 1:11.
+9s, 3579: III Nefi 15:4,5.
+9t, 3580: Juan 1:12.
+9u, 3581: Versículo 21; II Nefi 31:21; Mosíah 3:17; 4:7,8; Véase d,
+Mosíah 5.
+9v, 3582: III Nefi 15:2-8.
+9w, 3583: Véase m, Mosíah 16.
+9x, 3584: III Nefi 15:2-8.
+9y, 3585: I Nefi 10:17,19,22; 13:37; II Nefi 31:11-14,17,18; 32:2-5;
+33:1,2; Jacob 6:8; 7:12; Alma 13:28; 34:38; 36:24; Helamán 5:45;
+III Nefi 7:21; 11:35,36; 12:1,2; 15:23; 16:4,6; 18:37; 19:9,13,14,
+20-22; 26:17; 28:11,28; 30:2; IV Nefi 1:1,3,48; Mormón 1:14; 7:10;
+Ether 5:4; 12:14,23,41; Moroni 2; 3:4; 4:3; 5:2; 6:4,9; 7:32,36;
+8:7,9,23,26; 10:4-7,9-19.
+9z, 3586: Helamán 5:45; Ether 12:14.
+9-2a, 3587: Véase u.
+
+Corrections:
+[rule 7, hyphen rejoin] v.11(cont.) "abomina-" / "ciones" rejoined to
+"abominaciones"; appended to the first line the rejoined word reaches
+65 characters, well under the 73-char cap, so kept at the end of the
+first line per rule 7.
+[rule 31] Removed the printed space before ";" throughout: v.11(cont.)
+"presencia ; á" -> "presencia; á" and "ellos ;" -> "ellos;", v.14
+"vosotros ; y" -> "vosotros; y" and "recibiré ; y" -> "recibiré; y",
+v.17 "Dios ; y" -> "Dios; y" and "nombre ; porque" -> "nombre; porque",
+v.19 "sangre ;" -> "sangre;", v.20 "Santo ; lo" -> "Santo; lo". Also
+removed the printed space before ":" at v.21 "pecado :" -> "pecado:".
+Matches rule 31 (no space before comma/semicolon/colon/!/?).
+[rule 6, justification-widened gap, unconditional normalization]
+Normalized several double-space gaps after sentence-ending periods to a
+single space (no `errors in 1920.txt` entry needed per rule 6): v.14
+"eterna.  He aquí", v.15 "contienen.  Yo" and "principio.  Yo estoy",
+v.18 "mundo.  Yo soy", v.20 "contrito.  Y quienquiera".
+[rule 6, narrow/zero space vs. merge, editor default] v.14 "quemi
+brazo" is a genuine zero-width print merge (confirmed via zoom), but
+per the 2026-07-22 editor default, since grammar requires two words
+("que mi brazo de misericordia" = "that my arm of mercy"), transcribed
+as "que mi brazo" with a normal space, no pixel analysis, no `errors in
+1920.txt` entry. Flagged here for the Session E summary per the
+standing instruction.
+[rule 6, scan artifact] v.17 "por·mí viene la" — a small centered dot
+between "por" and "mí" in the print, matching the established
+floating-mark/ink-artifact pattern (pages 483, 490, 492, 494, 497,
+500). Transcribed as a normal space, "por mí"; not a hyphen or
+punctuation mark.
+[rule 32, suspected misprint, preserved as printed] v.18 "la luz la
+vida del mundo" — no "y" between "luz" and "vida"; grammatically
+expected "la luz y la vida del mundo" ("the light and the life of the
+world"). Confirmed via zoom that no "y" is present in the 1920 print.
+Typed exactly as printed per rule 32; verify against 1886 in Session E.
+[Session A] Footnote 9y's citation was initially misread as
+"I Nefi 10:17,19,22:13:37" (two colons in a row after "22" and "13") —
+zoomed crops during Session A appeared to show two evenly-stacked-dot
+colons, not a colon/semicolon pair. The editor reviewed both the 1920
+print and the 1879 parallel directly and confirmed the first mark
+(after "22") is actually a semicolon, not a colon — the citation reads
+"I Nefi 10:17,19,22; 13:37" (verses 17, 19, 22 of chapter 10, then a
+new citation, chapter 13 verse 37, same book). Corrected in this file,
+`librodm_foot.txt`, and `librodm.txt`'s Block 2 entry (3585).
+[Session E] Fresh pptext regeneration (`report_wsl_20260724c.html`)
+flagged one spellcheck suspect for this page's new range, "Alpha"
+(v.18) — checked against 1886 (file page 519, chapter_map III Nefi
+ch.9): 1886 also prints "Yo soy el Alpha y Omega" (not "Alfa"),
+confirming "Alpha" is the established period spelling for this
+translation lineage, not a 1920-only error; added to `permitted
+words.txt` only. The same 1886 comparison also confirmed this page's
+own suspected misprint (v.18 "la luz la vida del mundo") as a genuine
+1920-only error: 1886 reads "la luz y la vida del mundo" at this exact
+spot — added to `errors in 1920.txt`. Footnote-anchor check
+(full-document, max 3587): zero duplicates, zero out-of-range, only
+the pre-existing 812 gap. Curly-quote scan (zero curly quotes in
+either master file) and dash/hyphen-compound scan (this page's body
+text has no hyphens at all post-rejoin; the Block 2 range's hyphens
+are all legitimate verse ranges per rule 23) both clean.
+`check_spaced_punctuation.py` and `check_footnote_punctuation.py` both
+confirm `librodm.txt` and `librodm_foot.txt` are fully clean
+document-wide. Flagging for the editor per the standing narrow-space-
+vs-merge instruction: v.14 "que mi brazo" was a genuine zero-width
+print merge, transcribed as two words per the 2026-07-22 default (no
+pixel analysis) — worth a look at the actual page if convenient.
+[Cross-check, transcription error caught] `check_google_crosscheck.py`
+(new tool, first live use — diffs the transcribed body text against the
+1920 PDF's own embedded/Google-OCR text layer, whitespace/hyphens
+stripped from both sides so word-fusion and hyphenation questions are
+structurally invisible to it, footnote-marker-glue noise auto-dismissed)
+flagged one candidate: v.13 "habéis" (mine) vs. "habeís" (Google). Zoomed
+the actual spot at high resolution and confirmed the 1920 print reads
+"habeís" — the accent is on the "i", not the "e" — meaning my original
+Session A transcription was wrong (typed the standard/expected spelling
+instead of what's actually printed), not a print ambiguity. Corrected
+in this file and `librodm.txt`. Checked against 1886 (which omits the
+accent entirely here, "habeis", supporting neither placement) and
+against the rest of the document (150+ correct "habéis" instances,
+one other pre-existing uncaught instance of the same error at II Nefi
+1:25) — confirmed as a genuine, isolated 1920 misprint; added to
+`errors in 1920.txt`. `permitted words.txt` already had "habeís" from
+the earlier instance, so no addition needed there. Re-ran the
+cross-check after fixing: 0 remaining candidates for this page.
+[Editor correction] The footnote 9y citation flagged above as a
+double-colon anomaly ("22:13:37") was reviewed directly by the editor
+against both the 1920 print and 1879 (including the PDF's embedded
+text layer): the mark after "22" is a semicolon, not a colon. Correct
+reading: "I Nefi 10:17,19,22; 13:37". Fixed in this file's Block 1
+entry, `librodm_foot.txt`, and `librodm.txt`'s Block 2 entry (3585).
+[Session A] Mandatory 1879 check for footnote 9o's cross-reference
+target letter "i" (i is in the mandatory i/l/1 set; "Véase i, Helamán
+14"). Confirmed via BOM 1879 Pratt file page 476/477 (chapter_map
+Helamán 14, 1879 file 476 — Helamán 14 opens mid-page there, and its
+own footnote lettering runs across into file page 477, matching the
+"one page later" content-drift pattern already established for this
+book): Helamán 14's own footnote i reads "i, Mos. 3:8. 15:4. Alma
+11:39. III. Nep. 9:15. Ether 4:7." — sharing "Mos. 3:8" with 1920's
+own 9o citation ("Mosíah 3:8; 4:2"), confirming this is the correct
+cross-reference target; also a strong content fit (both citations
+concern Christ's eternal/divine nature, matching v.15's "Yo creé los
+cielos y la tierra... Yo estaba con el Padre desde el principio").
+[Session A] No mandatory 1879 check needed for the page's own letters
+(o-z, 2a are not i/l/1) or its other cross-reference targets (d in
+"Véase d, Mosíah 5", m in "Véase m, Mosíah 16", and 2a's own target u
+are not i/l/1 either).
+[Session A] Page begins mid-verse (III Nefi 9:11 continuation from
+page 503); per rule 1, "Página 504" is followed immediately by body
+text with no blank line. Page ends at a colon, "pecado:", mid-verse
+21, continuing onto page 505; no rule 10 page-boundary word-split
+applies since no hyphen is present at the line break.
+[Session A] `check_line_wrap.py` flagged a body-line-count difference
+(39 in this file vs. 43 from its OCR pass). Reviewed and dismissed as
+a false positive: the script's OCR crop covers 0-87% of the page
+height, but this page's footnote block starts around 79-80% (per the
+crops used during Session A), so the OCR pass picks up roughly the
+first four lines of the footnote block (9o-9v) as extra "body" lines.
+The 39-line count was independently cross-checked by reading the
+top/mid/bot image crops line-by-line with deliberate overlap review
+(top ends mid-v.15, mid re-starts at the same point and runs through
+v.20's "fuego y el Espíritu Santo", bot re-starts at "y un espíritu
+contrito" and runs to the end of v.21) — no gap or double-count found.
+[Session B] Independently re-verified all 13 Block 1 entries against a
+fresh full-block crop of pages_1920/page_0526.png (79-96.5%, 5x zoom):
+every reference, including the (at-the-time-unresolved) 9y double-mark
+anomaly and the repeated "III Nefi 15:2-8" citation shared by 9v and
+9x, was reconfirmed exactly as Session A transcribed it (the 9y mark
+was later corrected to a semicolon per the editor's direct review
+above). Independently
+re-verified marker placement for p, q, r, s, t against a fresh crop of
+the v.15-17 body text (37-52%, 6x zoom) — matches. Independently
+re-ran the mandatory 1879 check for footnote 9o's cross-reference
+target letter "i" from a fresh crop of BOM 1879 Pratt file page 477
+(80-92%, 6x zoom): "i, Mos. 3:8. 15:4. Alma 11:39. III. Nep. 9:15.
+Ether 4:7." reconfirmed letter-for-letter, matching Session A's
+finding. No errors found.

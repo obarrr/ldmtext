@@ -1,0 +1,151 @@
+Página 507
+fueron derramadas sobre sus cabezas, de tal modo que poco
+después de la ascensión de Cristo al cielo, verdaderamente Él
+se manifestó á ellos;
+19. [3613]Y les mostró su cuerpo, y les administró; y la historia de
+su ministrio será [3614]dada más adelante. Por lo tanto, concluyo
+aquí por ahora lo que iba diciendo.
+
+CAPÍTULO 11.
+
+Aparece Jesu Cristo al pueblo de Nefi, según se hallaba reunida
+la multitud en el país de Abundancia, y les ministró, y de esta
+manera Él se les manifestó.
+
+1. Y aconteció, que se había reunido una gran multitud del
+pueblo de Nefi, en los alrededores del [3615]templo que se hallaba
+en el [3616]país de Abundancia; los cuáles se admiraban y maravillaban
+unos con otros, demostrándose mutuamente los [3617]grandes
+y maravillosos cambios que se habían verificado;
+2. Hablando al mismo tiempo de Cristo y de las [3618]señales de
+su muerte que ya habían sido dadas.
+3. Y acaeció, que según se hallaban así conversando unos con
+otros, oyeron una voz como si viniera del cielo; con lo que se
+pusieron á mirar por todas partes, no comprendiendo de donde
+provenía aquella voz; voz que no era áspera ni fuerte; no obstante,
+á pesar de no ser más que una voz [3619]suave, penetraba hasta
+el centro del alma de los que la oían, de tal modo que conmovía
+todas las fibras del corazón, encendiendo el espíritu, y haciendo
+temblar con grata emoción todas las partes del cuerpo; sí, les
+penetró hasta lo más profundo del alma, y encendió sus corazones.
+4. Sucedió entonces, que se hizo oir la voz por segunda vez,
+pero no comprendieron lo que decía;
+5. Oyéndose entonces por tercera vez, aplicaron sus oídos
+para escucharla, y mirando hacia el lugar de donde procedía,
+fijaron sus ojos hacia el cielo de donde venía su sonido;
+6. Y, he aquí, que esta tercera vez entendieron la voz que
+oían; y les decía:
+7. He aquí, á mi muy amado Hijo, en Quién me complazco,
+en Quién [3620]he glorificado mi nombre; á Él oid.
+8. Y acaeció, que según iban ellos oyendo, echaron su vista al
+cielo otra vez; y, he aquí, que vieron á un [3621]hombre que descendía,
+
+10y, 3613: Véase b, I Nefi 12.
+10z, 3614: III Nefi 11:30.
+11a, 3615: Véase h, II Nefi 5.
+11b, 3616: Véase 2k, Alma 22.
+11c, 3617: III Nefi 8:11-14.
+11d, 3618: Helamán 14:20-27; III Nefi 8:5-25; 9:10.
+11e, 3619: Helamán 5:30-31,46-47.
+11f, 3620: Versículo 11; III Nefi 9:15.
+11g, 3621: Véase b, I Nefi 12.
+
+Corrections
+- Chapter 10 closes mid-page at v.19, chapter 11 opens (with subtitle)
+  in the same page; letters restart at "a" per rule 13, global sequential
+  numbering continues.
+- The first footnote's own letter (v.19, before "Y les mostró") was
+  genuinely ambiguous by glyph shape alone — it resembles this document's
+  usual "v" shape, but chapter 10's own letter "v" was already used
+  earlier (10v, 3610, on page 506) and rule 13 requires strictly
+  alphabetical, no-gap lettering within a chapter, so it cannot recur.
+  Since page 506 ended at letter x (3612), the next two letters in
+  chapter 10 must be y and z — matching this page's exact two remaining
+  footnotes before the chapter closes. Confirmed independently via BOM
+  1879 Pratt file page 509 (chapter_map III Nefi ch.10/11): the identical
+  position (before "Shewing his body"/"Y les mostró") and the identical
+  glyph shape (checkmark top + curling descender) both print there, and
+  the second marker (before "given"/"dada") is clearly "z" in 1879 too —
+  confirming both letters as y and z, not v.
+- Footnote 11b's cross-reference target letter was small and required a
+  dedicated high-zoom crop to read past the "Véase" — confirmed as the
+  two-letter code "2k" (Alma 22's own extended a-z-then-2a... lettering),
+  not a single letter.
+- v.1 "país de Abundancia ; los cuáles se admiraban y maravilla-/ban" —
+  hyphenated line-break split, rejoined per rule 7 ("maravillaban");
+  rejoined line lands at 70 characters, kept on the first line.
+- v.3 "no era áspera ni fuerte ; no ob-/stante" — hyphenated line-break
+  split, rejoined per rule 7 ("no obstante,"); the rejoined line
+  (ending "...no obstante,") lands at 67 characters, kept on the first
+  line; the following line then starts at "á pesar de..." (62 characters
+  with the footnote marker inserted).
+- v.3 "encendió sus cora-/zones." — hyphenated line-break split, rejoined
+  per rule 7 ("corazones."); rejoined line lands at 65 characters, kept
+  on the first line (the following image line, "zones." alone, is fully
+  absorbed).
+- Throughout: every space printed before a semicolon or colon (v.18(cont)
+  "ellos ;", v.19 "administró ;", v.1 "Abundancia ;", "verificado ;",
+  v.3 "cielo ;", "fuerte ;", "cuerpo ;", v.4 "decía ;", v.5 "sonido ;",
+  v.6 "oían ;", "decía :", v.7 "nombre ;", v.8 "vez ;") was removed per
+  rule 31 at transcription time; `check_spaced_punctuation.py` run to
+  confirm none slipped through.
+- Three genuine zero-gap print merges, each transcribed as two words per
+  the current rule-6 default (grammar requires two words; no zoom/pixel
+  debate needed) rather than treated as a rule-32 merge: v.3 "no ser"
+  (printed "noser"), v.7 "mi muy" (printed "mimuy"). A fourth spot, v.8
+  "vista al", is a narrow-but-real gap (not a true zero-width merge) —
+  also transcribed as two words per the same default. All three flagged
+  here for Session E's summary per the standing instruction, not raised
+  as a standalone question during Sessions A-D.
+- Google-text cross-check (step 10) caught a genuine Session A
+  transcription slip, not a print question: v.4 "oír" was initially
+  typed with an accent; a fresh zoom of pages_1920/page_0529.png (65-68%
+  vertical band) confirmed the print actually reads unaccented "oir".
+  Corrected to match the image. Preserved as printed per rule 32; verify
+  whether this unaccented form is a genuine 1920 error or an established
+  accentuation inconsistency (like "vino a suceder" elsewhere in this
+  document) against 1886 in Session E — this page's own note does not
+  resolve that question, only that the image reading is now correct.
+  The cross-check's other apparent differences (footnote-marker-position
+  glue, "pesarde noser"/"vistaal" OCR word-fusion, "II" for "11" roman-
+  numeral OCR noise) were all confirmed as OCR artifacts, not real
+  discrepancies, matching the established dismissal categories.
+[Session B] Independently re-verified all 9 Block 1 entries and body
+markers against fresh crops of pages_1920/page_0529.png; all content-fit
+(a-g's targets all thematically match their annotated words — templo/
+país/grandes/señales/suave/glorificado/hombre). None of this page's own
+letters (y, z, a-g) or cross-reference target letters (b, h, 2k, b) are
+i/l/1, so no mandatory 1879 check applies. Independently re-ran the
+discretionary check for the ambiguous "y" glyph (Session A's reasoning:
+chapter 10's own "v" was already used at 3610, so this letter cannot
+recur per rule 13's strict alphabetical sequence) from a fresh crop of
+BOM 1879 Pratt file page 509 — reconfirmed the identical checkmark-plus-
+descender glyph shape at the identical position (before "Shewing his
+body"), matching 1920's "y" exactly. No new errors found.
+[Session E] Fresh pptext regeneration (`report_wsl_20260725.html`) came
+back fully clean for this page's new range — no new spellcheck suspects
+or edit-distance hits (only the pre-existing, already-logged "Profecia"/
+"profeciá" items from Helamán 13 remain), dash check clean (this page's
+only hyphens are legitimate footnote verse-ranges), footnote-anchor
+check (union of both buckets covers 1-3621 with zero duplicates/
+out-of-range, only the pre-existing 812 gap), scanno and curly-quote
+checks clean, special situations/paragraph-level checks showed nothing
+new from this page (the "paragraph ends in comma" hit at this page's
+last line is the expected pattern — followed by a blank line then
+`Notas`, since 507 is currently the last transcribed page), Jeebies
+clean. `check_spaced_punctuation.py`/`check_footnote_punctuation.py`
+(whole document) both clean. The v.4 "oir" fix (see Session A/B's
+Google-cross-check note) was checked against 1886 (file page 522,
+chapter_map III Nefi ch.11): 1886 ALSO prints unaccented "oir" at the
+identical spot, and a full-document grep found 53 unaccented "oir"
+instances elsewhere in `librodm.txt` against zero accented "oír" —
+confirming this is an established, consistent spelling used throughout
+the whole document (not a page-specific question), so no `errors in
+1920.txt` entry is needed (missing-accent case, same category as other
+accent variants 1886 shares). No `permitted words.txt` entries needed
+either, since "oir" isn't flagged by aspell. Three items flagged for the
+editor per `feedback_narrow_space_vs_merge` rather than resolved
+unilaterally (all transcribed as two words per the current default,
+none needing an `errors in 1920.txt` entry): v.3 "no ser" (printed
+"noser"), v.7 "mi muy" (printed "mimuy"), v.8 "vista al" (a narrow but
+real gap, not a true merge).

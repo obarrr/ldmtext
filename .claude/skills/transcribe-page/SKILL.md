@@ -71,6 +71,13 @@ Trigger: "Transcribe page NNN[, first footnote NNNN]."
    space-before-punctuation defects across `librodm.txt`,
    `librodm_foot.txt`, and three already-emailed chapter files before
    being caught; see the CLAUDE.md 2026-07-24/2026-07-24b entries.)
+   Then run `check_verse_indent.py pages/page_NNN.txt` — flags any line
+   where a verse number starting the line has leading whitespace (verse
+   numbers always start at column 1, never indented; a hit inside the
+   Corrections log may be a wrapped prose quote, not a live defect —
+   check context). Fix any live-text hit before moving on. (Added
+   2026-07-25 after this defect recurred on page 508 with no mechanical
+   guard in place — see the `libro_de_mormon_rules.md` Section 1 note.)
    Then run `check_lines.py pages/page_NNN.txt` — the mechanical
    backstop for line length (flags both overlength lines and any
    trailing hyphen a line-break split left behind), not a substitute for
@@ -80,5 +87,32 @@ Trigger: "Transcribe page NNN[, first footnote NNNN]."
    rule 6's note on the page 475 incident). A clean result from any of
    these scripts does not by itself prove the line breaks or punctuation
    are correct — only the per-line image read in step 5 does that.
+10. **Google-text cross-check** (added 2026-07-25). Run
+    `py extract_google_text.py <book_page>` to pull the 1920 PDF's own
+    embedded/Google-OCR text for this page into `google_text_1920/` (only
+    needs to be done once per page), then
+    `py check_google_crosscheck.py <book_page>`. This diffs the
+    transcribed body text against that OCR text as a second opinion on
+    letter-level misreads — see the script's own docstring for exactly
+    how it compares. Two things it will NEVER flag, by design, so don't
+    second-guess these categories even if you notice them yourself while
+    reading the script's output: word-fusion on Google's side (spaces are
+    stripped from both sides before comparing, so this never reaches the
+    diff at all — it must never be used as a reason to reconsider a
+    narrow-space-vs-merge call, see `feedback_narrow_space_vs_merge`) and
+    short glued-on superscript-letter noise at a known footnote-marker
+    position (auto-dismissed, not worth zooming for).
+    For every candidate the script DOES report: zoom the mapped line at
+    high resolution and re-read independently, then resolve — confirm
+    the existing transcription (note briefly in Corrections and move on),
+    fix a genuine misread (correct the text, log normally, and check
+    whether it needs an `errors in 1920.txt`/`permitted words.txt` entry
+    per the usual rule-32/rule-12 logic), or, if still ambiguous even
+    after zooming, keep the transcription as printed and flag it
+    explicitly for the editor rather than guessing. First real run (page
+    504) caught one genuine transcription error this way — a misplaced
+    accent ("habéis" typed for the actually-printed "habeís") that had
+    passed every other check (pptext included, since "habéis" is itself
+    a valid word) — see that page's Corrections log for the full writeup.
 
 Output: `pages/page_NNN.txt` ready for review.
