@@ -1,0 +1,212 @@
+Página 535
+aquel día, aún [3887]cuando sea predicado este evangelio entre el
+resto de este pueblo. En verdad, os digo, que en aquel día
+empezará la obra del Padre entre todos los dispersos de mi
+pueblo; sí, [3888]aún entre las tribus perdidas, á las cuales ha sacado
+el Padre de Jerusalem.
+27. Sí, empezará la obra entre todos los dispersos de mi
+pueblo, con el Padre, para preparar la vía, por donde han de
+venir hacia mí, para que pidan al Padre en mi nombre;
+28. Sí, y entonces empezará la obra, por el Padre, entre todas
+las naciones, preparando la vía por donde [3889]su pueblo sea recogido
+á sus hogares en el país de su herencia.
+29. Entonces saldrán de todas las naciones; y no [3890]saldrán
+apresurados, ni irán huyendo, porque yo iré delante de ellos,
+y seré también su retaguardia, dice el Padre.
+
+CAPÍTULO 22. (Véase Isaías 54.)
+
+1. Entonces sucererá lo que está escrito: Canta, oh [3891]estéril,
+la que no paría; rompe en cánticos, y da voces de júbilo, la que
+nunca estaba de parto; porque más serán los hijos de la [3892]desolada
+que los de la [3893]casada, dice el Señor.
+2. [3894]Ensancha el sitio de tu tienda, y que extiendan las cortinas
+de tus habitaciones; no seas escasa, alarga tus cuerdas, y fortifica
+tus estacas;
+3. Porque á la mano derecha y á la mano izquierda has de
+crecer; y tu simiente heredará á los Gentiles, y habitará las
+ciudades desoladas;
+4. No temas, porque no serás avergonzada; y no te avergüences,
+que no serás afrentada; porque te olvidarás de la
+vergüenza de tu mocedad; y de la afrenta de tu mocedad no
+tendrás más memoria, y no te acordarás más del reproche de tu
+viudez.
+5. Porque tu hacedor, tu marido; su nombre es el Señor de
+los Ejércitos; y tu Redentor, el muy santo de Israel: Dios de
+toda la tierra será Él llamado.
+6. Porque como á mujer dejada y triste de espíritu, [3895]te llamó
+el Señor, y como á mujer moza, cuando fuíste repudiada, dice
+tu Dios.
+7. Por un pequeño momento te dejé, más te [3896]recogeré con
+grandes misericordias.
+8. Con un poco de ira escondí mi rostro de ti por un momento.
+
+21-2p, 3887: Véase b, II Nefi 30.
+21-2q, 3888: Véase p, III Nefi 20:22.
+21-2r, 3889: Véase e, I Nefi 15.
+21-2s, 3890: III Nefi 20:42; Isaías 52:11-15.
+22a, 3891: Israel.
+22b, 3892: Isaías 49:21.
+22c, 3893: Los Gentiles.
+22d, 3894: Isaías 49:19-20.
+22e, 3895: Israel.
+22f, 3896: Véase c, I Nefi 15.
+
+Corrections:
+No i/l/1 ambiguity on this page: chapter 21's continuing two-letter
+codes are p, q, r, s (following page 534's z/2a-2o) and chapter 22
+opens fresh at a-f (rule 13); none of these ten letters, nor any of
+their cross-reference targets (b, p, e, c), are i, l, or 1, so the
+mandatory 1879 cross-check does not apply to this page.
+Footnote 21-2s's reference glyph reads as a stylized "III" (three
+strokes rendered close together by the swash-adjacent footnote font,
+easily misread as "H" or "II" at a glance) -- confirmed as "III Nefi
+20:42" by content: "II Nefi 20:42" does not exist (II Nefi 20
+reproduces Isaiah 10, only 34 verses), while III Nefi 20 is the same
+long chapter already cited repeatedly by this chapter's other
+footnotes (2j/2m: "III Nefi 20:22"), and verse 42 pairs naturally with
+the paired citation "Isaías 52:11-15" (Isaiah 52:12, "porque no
+saldréis apresurados," is the direct source text for this footnote's
+annotated word, v.29 "saldrán").
+Suspected misprint, chapter 22 v.1: 1920 prints "sucererá" (no such
+word in Spanish) where context and the parallel construction two
+verses later (v.20, "Porque sucederá, dice el Padre") both point to
+"sucederá" (will happen). Preserved as printed per rule 32. Verified
+against 1886 (file 549, book page 531): 1886 prints the correct
+"sucederá" at this exact spot ("Entónces sucederá lo que está
+escrito"), so this is a 1920-only error, not shared with 1886.
+Flagged for an `errors in 1920.txt` entry in Session E.
+Rule 23 range formatting: footnote 22d's original "Isaías 49:19, 20"
+(consecutive verses) written as "Isaías 49:19-20" per rule 23.
+Mechanical pass: one rule-7 hyphen rejoin. "aver-"/"güences" ->
+"avergüences": the rejoined word plus its attached comma ("y no te
+avergüences,") fit under the rule-9 cap on the first line (62 chars),
+so it stayed there per rule 7; the second line's remainder ("que no
+serás afrentada; porque te olvidarás de la") needed no further
+rebalancing. No rule-8 overflow occurred anywhere else on this page --
+every line (with footnote markers inserted) landed under 73 characters
+without moving words.
+Numerous rule-31 space-before-punctuation fixes throughout (this
+page's print consistently sets a space before semicolons and one
+colon, e.g. "pueblo ; sí" -> "pueblo; sí", "nombre ;" -> "nombre;",
+"naciones ; y no" -> "naciones; y no", "paría ;" -> "paría;", "parto ;"
+-> "parto;", "habitaciones ;" -> "habitaciones;", "estacas ;" ->
+"estacas;", "crecer ;" -> "crecer;", "desoladas ;" -> "desoladas;",
+"avergonzada ;" -> "avergonzada;", "afrentada ;" -> "afrentada;",
+"mocedad ;" -> "mocedad;", "marido ;" -> "marido;", "Ejércitos ;" ->
+"Ejércitos;", "Israel :" -> "Israel:").
+No narrow-space-vs-merge defaults were needed on this page.
+`check_line_wrap.py`'s large flagged diff (txt 14 vs OCR 37) is a false
+positive from the script's own `txt_body_lines()` helper, which stops
+counting at the first blank line -- correct for a page with no mid-page
+chapter break, but this page has one (the CAPÍTULO 22 heading's
+blank-line surround), so it only counted chapter 21's 14 continuation
+lines and never saw chapter 22's 24 lines at all. Manually comparing
+the script's own OCR count for the FULL page body (37, with the
+CAPÍTULO heading line itself excluded by the script's header regex)
+against this page's actual full verse-line count (38, i.e. 39 body
+lines minus that same heading line) gives a difference of only 1 --
+well within normal OCR noise, confirming no reflow occurred.
+`check_google_crosscheck.py` has the identical blank-line-truncation
+gap (it reuses the same `body_lines()`-style helper): it only actually
+compared chapter 21's 14 lines against Google's OCR (0 real
+candidates, 2 marker-glue dismissals for [3887]/[3888], consistent
+with clean text), then silently folded ALL of chapter 22 (lines
+17-42, footnote block included) into a single "trailing content" bucket
+it never inspects -- so the automated 0-candidates result does NOT
+cover chapter 22. Manually diffed chapter 22 against
+`google_text_1920/page_0557.txt` (lines 15-42) instead: matches this
+page's transcription line-for-line, with no new discrepancies. Notably,
+Google's independent OCR also reads "sucererá" (its line 15) at the
+same spot as this page's suspected misprint -- real corroborating
+evidence (same logic as rule 36 for accents) that the word is actually
+printed that way, not a scan artifact. Google's own garbled reading of
+footnote 21-2s's reference ("FI Nefi 20 : 42") also independently
+supports the "III Nefi 20:42" resolution already reached above by
+content-fit.
+Session B: independently re-verified all 10 Block 1 entries and all 10
+body markers from fresh crops (not reused from Session A) -- all
+reference text and marker placement reconfirmed exactly. No i/l/1
+letters appear anywhere on this page (own lettering p,q,r,s,a-f;
+cross-reference targets b,p,e,c), so the mandatory 1879 check does
+not apply, reconfirmed on this independent pass. No further errors
+found.
+Session D: `generate_block2.py 535` left footnote 3888 ("21-2q, Véase
+p, III Nefi 20:22") unresolved -- traced to two real bugs in
+`generate_block2.py`, both fixed in this session (not specific to this
+page's content): (1) `resolve_text()`'s book/chapter regex required the
+"Book Chapter" tail to end in a bare integer, so any cross-reference
+whose target included its own verse number (e.g. "III Nefi 20:22"
+instead of just "III Nefi 20") could never match and was left
+unresolved even when the target letter had long since been
+transcribed; fixed by allowing an optional ":verse[,verse/-range]"
+suffix on the chapter number. (2) `fix_unresolved()` re-derived the
+citing entry's book_id by scanning librodm.txt's own Notas-section
+lines for a header match on EVERY non-"NNN:" line, including ordinary
+wrapped continuation lines of a multi-line reference -- since a
+continuation line is almost never itself a book name, this silently
+reset book_id to None on nearly every wrap, breaking resolution for
+any entry after it until the next real header. Fixed by using the
+citing entry's book_id directly from the already-correct
+`index.entry_context` (the same source `incremental()` already uses),
+removing the redundant/buggy header re-scan entirely. Re-running
+`--fix-unresolved` after both fixes resolved 3888 (-> 3818, III Nefi
+20's own letter p, already established on page 532) plus 5 other
+long-stuck entries elsewhere in the document; a second
+`--fix-unresolved` run confirmed 0 further changes (stable), and a
+full-document `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` sweep
+afterward stayed clean. No page content
+was affected by either fix -- both were purely in the cross-reference
+resolution logic.
+Session E: fresh pptext regeneration (`report_wsl_20260728d.html`).
+Substring/line-number searches across the whole report for this page's
+distinctive vocabulary and footnote numbers (3887-3896) found nothing
+-- neither "sucererá" (v.1) nor "fuíste" (v.6) appear anywhere in the
+spellcheck section, matching the documented gap (pages 469-470) where a
+rare single-occurrence word can go unflagged in the full ~1.15MB
+document run for reasons unrelated to `permitted words.txt`. Both were
+confirmed genuinely non-standard by testing aspell directly and
+independently (`echo "sucererá" | aspell --lang=es list` and same for
+"fuíste" -- both echoed back as unrecognized; "estéril" tested as a
+control, correctly recognized).
+"sucererá" (v.1): already established in this page's own Session A/D
+notes as a genuine 1920-only error (1886 has the correct "sucederá").
+Additional Session E research: RAE WebSearch returns no entry for
+"sucererá" (only "suceder"/"sucesor"/etc.); zero hits in all three
+local reference corpora against 1 hit for "sucederá" in the Quijote
+corpus; this page's own text uses the correct "sucederá" just one page
+earlier (III Nefi 21:20, page 534, "Porque sucederá, dice el Padre").
+Added to `errors in 1920.txt` (III Nefi 22:1) and, per rule 10, also to
+`permitted words.txt` since the transcription preserves it as printed.
+"fuíste" (v.6): 1886 independently prints the identical accented form
+at the identical spot (confirmed via fresh crop of 1886 file 550, book
+page 532: "cuando fuíste repudiada"), so this is NOT a 1920-only
+error -- both editions agree. Modern RAE WebSearch confirms current
+spelling is unaccented "fuiste," but also surfaces an RAE/NGLE
+reference (@RAEinforma, citing NGLE section 4.4f) explicitly listing
+"fuiste, viste, dijiste" as forms that traditionally carried a written
+tilde under the pre-simplification Spanish orthography -- i.e. this is
+documented historical practice, the same category already established
+in this project for "fué"/"vió"/"fuí" (all three already in `permitted
+words.txt`). Sanity check: those three forms DO appear multiple times
+in the Quijote/Reina-Valera-1909 corpora (confirming they're broadly
+attested period spellings, not just this document's own house style),
+while "fuíste" has zero hits in any of the three corpora -- a real
+difference from the "fué"/"vió" case, noted here rather than glossed
+over, but not treated as disqualifying given the direct 1886 agreement
+and the specific RAE/NGLE historical citation naming this exact word.
+Added to `permitted words.txt` only (legitimate archaic form, not an
+`errors in 1920.txt` entry).
+No new findings in any other pptext section (repeated word, duplicate
+lines, ellipsis, dash/hyphen, footnote check, scanno, curly quotes,
+special situations, edit distance, book/paragraph level, Jeebies) for
+this page's content. Full-document footnote-anchor check (max 3896,
+zero duplicates/out-of-range, only the pre-existing 812 gap), a fresh
+whole-document curly-quote character scan (zero hits, both master
+files), and `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` (whole
+document) all clean. Page has zero
+hyphens in its final body text, so no dash-check findings. No
+narrow-space-vs-merge defaults were made on this page needing an
+editor pointer.

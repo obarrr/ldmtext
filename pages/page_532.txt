@@ -1,0 +1,126 @@
+Página 532
+36. Entonces vendrá á suceder lo que está escrito: [3840]Despierta,
+despierta otra vez, y vístete de tu fortaleza, oh Sión;
+vístete de tus ropas de hermosura, oh Jerusalem, ciudad santa,
+porque nunca más acontecerá que venga á ti incircunciso, ni
+inmundo.
+37. Sacúdete del polvo; levántate, y siéntate, oh Jerusalem;
+suéltate de las ataduras de tu cuello, oh cautiva hija de Sión.
+38. Porque así dice el Señor: De balde fuisteis vendidos;
+por tanto sin dinero seréis redimidos.
+39. En verdad, en verdad, os digo, que mi pueblo conocerá
+mi nombre, sí, en aquel día conocerán que soy yo, Él que habla.
+40. Entonces dirán: [3841]¡Cuán hermosos son sobre los montes
+los pies del que trae alegres nuevas, del que publica la paz, del
+que trae nuevas del bien, del que publica salud, del que dice á
+Sión: ¡Tu Dios reina!
+41. Entonces saldrá una voz que dirá: [3842]Salid, salid, apartáos
+de ahí, no toquéis lo que es inmundo; salid de en medio
+de ella; limpiáos, los que lleváis los vasos del Señor.
+42. Porque no saldréis apresurados, ni iréis huyendo; porque
+el Señor irá delante de vosotros, y el Señor Dios de Israel será
+vuestra retaguardia.
+43. He aquí, que mi siervo obrará prudentemente, él será
+engrandecido y ensalzado, y será muy sublimado.
+44. Como muchos se admiraron de ti; (de tal manera fué
+desfigurado de los hombres su parecer, y su forma más que la
+de los hijos de los hombres,)
+45. Así él rociará muchas naciones; los reyes [3843]cerrarán sobre
+él sus bocas; porque verán lo que no les fué contado; y entenderán
+lo que jamás habían oído.
+46. En verdad, en verdad, os digo, que todas estas cosas
+sucederán lo mismo que el Padre me las ha mandado. Entonces
+se cumplirá [3844]esta alianza que el Padre ha hecho con su pueblo;
+[3845]entonces volverá otra vez á ser habitada Jerusalem con mi
+pueblo, y ella será el país de su herencia.
+
+CAPÍTULO 21.
+
+1. En verdad, os digo, que os doy una [3846]señal, para que conozcáis
+cuando estas cosas estén próximas á tener lugar, cuando yo
+[3847]recogeré á mi pueblo de su larga dispersión, oh casa de Israel,
+y estableceré otra vez entre ellos mi Sión.
+
+20-2l, 3840: Isaías 52:1-3,6.
+20-2m, 3841: Isaías 52:7.
+20-2n, 3842: Isaías 52:11-15.
+20-2o, 3843: III Nefi 21:8.
+20-2p, 3844: Véase j, III Nefi 15.
+20-2q, 3845: Véase e, I Nefi 15.
+21a, 3846: Versículos 2,7; Isaías 66:19.
+21b, 3847: Véase e, I Nefi 15.
+
+Corrections:
+Mandatory i/l/1 check: this page's first footnote-reference glyph (the
+"2" + swash letter before "Isaías 52:1-3,6") looked, at overview zoom,
+like it could be superscript digit "1" rather than letter "l" -- but
+page 531 ended its own chapter-20 lettering at 2k, so rule 13 requires
+this page to continue 2l (no gap/reordering possible). Resolved via
+the mandatory BOM 1879 Pratt cross-check (file page 534, chapter_map
+has no III Nefi rows -- navigated by direct increment from page 531's
+established file 533/534): 1879's footnote block reads "2 k, see k, II.
+Nep. 31. 2 l, Isaiah 52:1-3, 6. 2 m, Isaiah 52:7." etc., letter-for-
+letter matching this page's own six chapter-20 markers (l through q)
+and content -- confirming the true letter is l, not the digit 1.
+A second glyph, footnote 20p's cross-reference target letter (after
+"Véase"), was misread at first overview pass as "i"; a dedicated zoom
+crop showed a clear descender/tail below the baseline (unlike this
+document's "i," which prints as a short stroke with a separated dot
+and no descender), so it was re-read as "j" before consulting 1879 --
+1879 confirms directly: "2 p, see j, III. Nep. 15." Both checks also
+confirmed the remaining four chapter-20 markers (2n, 2o, 2q) and the
+new chapter 21's own two letters (a, b) letter-for-letter and target-
+for-target against 1879 (file 535): "a, vers. 2, 7. Isaiah 66:19." and
+"b, see e, I. Nep. 15."
+Mechanical pass: three rule-7 hyphen rejoins, all landing under the
+72-char cap on their own line so none moved to the next line:
+"Des-/pierta" -> "Despierta" (footnote marker [3840] travels with the
+rejoined word, matching its position in the image), "apar-/táos" ->
+"apartáos", "enten-/derán" -> "entenderán". Numerous rule-31 space-
+before-punctuation fixes throughout (this page's print consistently
+sets a space before colons, semicolons, and the closing "!", e.g.
+"escrito :" -> "escrito:", "Sión ;" -> "Sión;", "reina !" -> "reina!").
+Rule 23 range formatting applied: "Isaías 52 : 1-3, 6" -> "52:1-3,6"
+(1-3 consecutive, plus non-consecutive 6 per rule 24); "Isaías
+52:11-15" already a straight range, only colon-spacing normalized.
+"Versículos 2, 7" (non-consecutive verses) -> "2,7" per rule 24, not a
+hyphenated range.
+No suspected misprints noticed on this page; no dash-check candidates
+beyond the three hyphen rejoins listed above (all removed).
+Session B: independently re-verified all 8 Block 1 entries and body
+markers from fresh crops. Re-ran both mandatory 1879 checks from fresh
+crops of file 534 (not reused from Session A) -- "2 l, Isaiah 52:1-3,
+6." and "2 p, see j, III. Nep. 15." both reconfirmed exactly, including
+the "j" glyph's descender clearly visible in the clearer 1879 italic.
+No errors found.
+Session C/D: integrated cleanly via `insert_body_text.py 532` and
+`generate_block2.py 532`; all 8 Block 2 cross-references resolved
+automatically with no unresolved targets, including 3844 -> 3702 (III
+Nefi 15's own letter j, matching page 531's identical target and
+confirming the letter correction again) and 3845/3847 -> 128 (I Nefi
+15e), consistent with 20-2j/20-2g's identical target on page 531.
+Session E: fresh pptext regeneration (`report_wsl_20260728.html`)
+introduced zero new findings from this page -- searched the report for
+every distinctive word/phrase unique to this page's new text (Isaiah-
+citation vocabulary, "apartáos", "cerrarán", "recogeré", "dispersión",
+footnote numbers 3840-3847, etc.) and confirmed none appear in the
+Spellcheck Suspect Words, Edit Distance, dash, scanno, curly-quote, or
+special-situations sections; the only nearby flagged spellcheck words
+(cuermo, leon, peofeta, Profecia, qulén) all sit on lines belonging to
+the previous page's own text (III Nefi 20:19-22ish), not this page's.
+"limpiáos" (v.41, the same archaic accented reflexive-imperative form
+as "apartáos" and ~24 other already-permitted "-áos" words) was not
+flagged by aspell at all -- confirmed via the clean spellcheck section
+-- so no `permitted words.txt` entry was added for it, per the
+established rule that an entry is only useful for a word aspell would
+otherwise flag ("Jesu Cristo" precedent). Full-document footnote-anchor
+check (max 3847, zero duplicates/out-of-range, only the pre-existing
+812 gap), `check_spaced_punctuation.py`/`check_footnote_punctuation.py`
+(whole document), `check_verse_indent.py` (whole document), and an
+independent curly-quote character scan of both master files all clean.
+Page has no hyphens in its final body text (all three rejoins removed
+the only candidates), so no dash-check findings; Jeebies clean. No
+suspected-misprint items were logged in this page's own Corrections
+log above requiring an 1886 follow-up, and no narrow-space-vs-merge
+defaults were made on this page needing an editor pointer. No
+`permitted words.txt` or `errors in 1920.txt` additions this session.

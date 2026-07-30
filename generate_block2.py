@@ -170,7 +170,7 @@ def resolve_text(text, citing_book_id, citing_chapter, index):
             # If it doesn't, there is no book/chapter present at all
             # (e.g. "f, y g.") and the commas belong to the letters list.
             candidate_letters, candidate_tail = inner.rsplit(",", 1)
-            bcm = re.match(r'^(.*\S)\s+(\d+)$', candidate_tail.strip())
+            bcm = re.match(r'^(.*\S)\s+(\d+)(?::[\d,\s-]+)?$', candidate_tail.strip())
             if bcm:
                 book_text, chapter = bcm.group(1), int(bcm.group(2))
                 letters_expr = candidate_letters
@@ -313,7 +313,6 @@ def fix_unresolved():
 
     notas_idx = find_notas_index(lines)
     changed = 0
-    book_id = None
     for i in range(notas_idx + 1, len(lines)):
         line = lines[i]
         s = line.strip()
@@ -321,13 +320,15 @@ def fix_unresolved():
             continue
         m = re.match(r'^(\d+):\s*(.*)$', line)
         if not m:
-            # header line
-            book_id = index.find_book_id(s)
+            # header line or wrapped continuation of the previous entry --
+            # either way, the citing entry's own book/chapter (below) comes
+            # straight from librodm_foot.txt's index, so no book_id needs
+            # to be tracked by scanning librodm.txt's own header lines here.
             continue
         seqnum, text = int(m.group(1)), m.group(2)
-        if book_id is None or seqnum not in index.entry_context:
+        if seqnum not in index.entry_context:
             continue
-        _, chapter = index.entry_context[seqnum]
+        book_id, chapter = index.entry_context[seqnum]
         new_text = resolve_text(text, book_id, chapter, index)
         if new_text != text:
             lines[i] = f"{seqnum}: {new_text}"

@@ -1,0 +1,204 @@
+Página 533
+2. Y, he aquí, lo que os daré por [3848]señal; porque en verdad os
+digo, que cuando estas cosas que os declaro, y las que os declararé
+desde ahora en adelante de mí mismo, y por el [3849]poder del Espíritu
+Santo que os será dado por el Padre, serán dadas á [3850]conocer á
+los Gentiles, para que tengan conocimiento de [3851]este pueblo, que
+es un resto de la casa de Jacob, y de este mi pueblo, que [3852]será
+esparcido por ellos;
+3. En verdad, en verdad, os digo, que cuando estas cosas se
+les sean dadas á conocer por el Padre, y vengan del Padre por
+medio [3853]de ellos á vosotros;
+4. Porque está en la sabiduría del Padre que se establezcan
+en esta tierra, y que sea un pueblo [3854]libre por el poder del Padre,
+para que estas cosas puedan venir de ellos [3855]al resto de vuestra
+posteridad, y se cumpla la [3856]alianza que el Padre ha hecho con
+su pueblo, oh casa de Israel;
+5. Así pues, cuando estas obras, y las que se harán desde
+ahora en adelante entre vosotros, vengan de los Gentiles [3857]á
+vuestra posteridad, que [3858]decaerá en la incredulidad por causa de
+iniquidad;
+6. Porque así le conviene al Padre que vengan por medio de
+los Gentiles, para mostrar su [3859]poder á los Gentiles con este
+motivo, para que los Gentiles, si no endurecieren sus corazones,
+puedan arrepentirse, y venir á mí, y ser [3860]bautizados en mi nombre,
+y conozcan los verdaderos puntos de mi doctrina, para que sean
+[3861]contados entre los de mi pueblo, oh casa de Israel;
+7. Y cuando estas cosas lleguen á verificarse, de modo que tu
+posteridad [3862]empieze á conocerlas, esto les será de [3863]señal,
+para que sepan que la obra del Padre ha empezado [3864]ya á cumplir la
+alianza que Él ha hecho con el pueblo que es de la casa de Israel.
+8. Y cuando llegue este día, sucederá que cerrarán su boca
+los [3865]reyes; porque verán lo que no les ha sido dicho; y
+considerarán lo que no habían oído.
+9. Porque en aquel día hará el Padre por amor mío, una obra
+que será [3866]grande y maravillosa entre ellos; y habrá entre ellos
+quién no la crea, por más que un hombre se la declarare.
+10. Pero, he aquí, que la vida de mi [3867]siervo estará en mi mano;
+por tanto, ellos no le dañarán, aunque será [3868]desfigurado por
+causa de ellos. No obstante, yo le curaré, porque quiero mostrarles
+que mi sabiduría en más grande que los [3869]artificios del diablo.
+11. Y ocurrirá por tanto, que los que no crean en mis palabras,
+siendo yo Jesu Cristo, palabras que el Padre hará que sean
+llevadas á los Gentiles por mi siervo, á [3870]quién daré poder para
+
+21c, 3848: Véase a.
+21d, 3849: Véase y, III Nefi 9.
+21e, 3850: Véase c, II Nefi 27.
+21f, 3851: Los Indios.
+21g, 3852: Véase 2c, III Nefi 20.
+21h, 3853: Véase b, II Nefi 30.
+21i, 3854: I Nefi 13:17-19; Véase f, II Nefi 10.
+21j, 3855: Véase b, II Nefi 30.
+21k, 3856: Véase j, III Nefi 15.
+21l, 3857: Véase b, II Nefi 30.
+21m, 3858: Véase g, y h, I Nefi 12.
+21n, 3859: Véase i, I Nefi 14.
+21o, 3860: Véase u, II Nefi 9.
+21p, 3861: Véase x, III Nefi 16.
+21q, 3862: III Nefi 16:10-13.
+21r, 3863: Véase a.
+21s, 3864: Versículos 26-29.
+21t, 3865: III Nefi 20:45.
+21u, 3866: Véase i, II Nefi 25.
+21v, 3867: Versículo 11; III Nefi 20:43,45.
+21w, 3868: III Nefi 20:44.
+21x, 3869: Doctrinas y Convenios 10:43.
+21y, 3870: Véase e, II Nefi 3.
+
+Corrections:
+Mandatory i/l/1 check: this page's own letters i (3854, "un pueblo
+ᶦlibre") and l (3857, "Gentiles ˡá") were both confirmed by sequence
+position (rule 13: straight run c-d-e-f-g-h-i-j-k-l..., no gaps
+possible) and independently verified against the mandatory BOM 1879
+Pratt cross-check (file page 535, chapter_map has no III Nefi rows --
+navigated by direct increment from page 532's established file
+534/535): 1879 reads "i, I. Nep. 13:17-19. See f, II. Nep. 10." and
+"l, see b, II. Nep. 30." -- both letter-for-letter and content-for-
+content matches to this page's own 21i/21l entries. Fresh zoom crops
+of the body-text superscripts themselves (not just the footnote-block
+letters) were also taken for these two glyphs as an extra check: the
+"i" glyph (verse 4, before "libre") showed the short-stroke-plus-dot
+shape at a resolution too fine to fully separate the dot from the
+stroke, so position/1879 content is what actually settled it; the "l"
+glyph (verse 5, before "á") showed the expected continuous tapered
+stroke with no separated dot, consistent with this document's "l"
+convention.
+A THIRD i/l/1 case surfaced mid-page and was the most consequential:
+footnote 21k's cross-reference target letter (III Nefi 15) was first
+read at overview zoom as "i" -- which would have made it a same-shape
+match to this page's own "i" -- but 1879's parallel entry reads
+"k, see j, III. Nep. 15," not "see i." A dedicated high-zoom crop of
+the 1920 glyph (20x, file page 555) then showed a clear hook/curl
+extending below the baseline, matching this document's "j" convention
+(descender), not "i" (no descender) -- the earlier overview-zoom read
+had been wrong, exactly the failure mode this mandatory check exists
+to catch. Content-fit confirms: III Nefi 15's own letter j (=
+sequential 3702, already established on page 532 as "III Nefi 5:24-26;
+16:5; Véase e, I Nefi 15") is a covenant-themed citation matching this
+page's word "alianza" (covenant); III Nefi 15's letter i (= 3701,
+"III Nefi 12:46-47") is not. Corrected to j.
+Discretionary extension of the same check (per Section 8: "you always
+have discretion to extend this same procedure to any other letter"),
+triggered because the k-letter miss above showed this page's swash
+font is unreliable at low zoom: three more cross-reference target
+letters were re-verified at high zoom against 1879 and all three
+turned out to be misread on first pass too --
+21d's target (III Nefi 9): first read "v", 1879 says "y"; high-zoom
+crop confirmed a descending curl consistent with "y", not "v".
+21m's second target (I Nefi 12): first read "y k", 1879 says "y h";
+high-zoom crop confirmed a tall ascender with a small hook/arch at the
+base, consistent with "h", not "k".
+21p's target (III Nefi 16): first read "z", 1879 says "x"; high-zoom
+crop confirmed two crossing diagonal strokes, consistent with "x", not
+"z" (which would show a zigzag with horizontal top/bottom strokes).
+21y's target (II Nefi 3): first read "c", 1879 says "e"; the glyph sits
+under the page's "Digitized by Google" watermark and stayed genuinely
+hard to read even at high zoom, so this one leans on 1879 plus a
+content-fit check: II Nefi 3's own letter e (own-chapter entry
+"Versículos 11,14; Mosíah 8:13-18; Éther 3:21-28;...", a seer/seer-
+stone citation) fits this page's word "quién" (the identity of the
+servant/seer to whom power is given) far better than letter c ("I Nefi
+13:30", about the Gentiles/scattering, unrelated). Corrected to e.
+All four corrected readings (d->y, k->j, m 2nd->h, p->x, y->e) are
+cross-reference target letters in other chapters' own blocks, not this
+page's own lettering, so none of them affect this page's c-y sequence
+or its footnote numbers 3848-3870.
+Suspected misprint, v.10: 1920 prints "que mi sabiduría en más grande
+que los artificios del diablo" -- "en" where grammar calls for "es".
+Preserved as printed per rule 32. Verified against both other editions:
+1879 (file 536) reads "that my wisdom is greater than the cunning of
+the devil" (confirms "es"), and 1886 (file 548, same book page 530)
+reads "mi sabiduría es más grande que los artificios del diablo" with
+"es" printed plainly. No archaic-legitimacy reading of "en" here is
+plausible -- likely a straightforward typo (highest-frequency letter
+substitution, s/n are not adjacent on a period compositor's case, but
+the resulting word "en" is a real, extremely common Spanish word, so
+aspell/pptext will not flag it as a spelling error). Flagged for an
+`errors in 1920.txt` entry in Session E.
+"Jesu Cristo" (v.11, no hyphen, two words) matches this document's
+long-established spelling convention (confirmed via librodm.txt grep:
+same form used ~19+ times already throughout the document); 1886 (file
+548) prints "Jesu-Cristo" with a hyphen at this exact spot, but that is
+a 1886-specific hyphenation choice, not evidence 1920 is wrong -- no
+action needed.
+Suspected misprint, v.7: 1920 prints "empieze" (with z) where the correct
+subjunctive of "empezar" is "empiece" (with c) -- caught by
+`check_google_crosscheck.py`, which flagged a c/z diff at this exact
+spot; Google's OCR reading turned out to be the accurate one. Preserved
+as printed per rule 32. High-zoom crop of the 1920 glyph (file page
+555) confirms an unambiguous "z", not a misprinted/damaged "c". 1886
+(file 548, book page 530) prints "empiece" correctly at the parallel
+spot, confirming this is a genuine 1920 typo, not an archaic spelling
+variant (z/c confusion before e/i is not a legitimate period spelling
+pattern in Spanish). Flagged for an `errors in 1920.txt` entry in
+Session E.
+Mechanical pass: two rule-7 hyphen rejoins. "considera-"/"rán" ->
+"considerarán": the straight rejoin would have landed the line at 73
+characters (over the rule-9 cap), so per rule 8 the whole rejoined word
+moved to the start of the next line instead, leaving "...ha sido
+dicho; y" as the end of the first line. "mos-"/"trarles" ->
+"mostrarles": rejoined line lands at 67 characters, well under the
+cap, so it stayed on the first line. Separately, one rule-8 overflow
+(unrelated to any hyphen): v.7's line with both the [3862] and [3863]
+markers plus "para" reached 73 characters; "para" was moved to start
+of the next line per rule 8, landing that line back under the cap.
+Numerous rule-31 space-before-punctuation fixes throughout (this
+page's print consistently sets a space before semicolons, e.g.
+"señal ; porque" -> "señal; porque", "ellos ; y" -> "ellos; y",
+"reyes ; porque" -> "reyes; porque").
+No narrow-space-vs-merge defaults were needed on this page.
+Session B: independently re-verified all 23 Block 1 entries and body
+markers from fresh crops (not reused from Session A). Re-ran both
+mandatory 1879 checks from fresh crops of files 535/536 -- own letters
+i and l, and all five previously-corrected cross-reference target
+letters (21d->y, 21k->j, 21m 2nd->h, 21p->x, 21y->e) all reconfirmed
+exactly, letter-for-letter and content-for-content. Also reconfirmed
+"empieze" (v.7, with z) directly from a fresh full-line crop. No
+further errors found.
+Session E: fresh pptext regeneration (`report_wsl_20260728b.html`) --
+the efficient line-range filter (this page's librodm.txt body lines
+23806-23849, Block 2 lines 27978-28000) found only the already-known
+"short lines check" false-positive category (verse-final/Block-2-entry
+short lines), nothing new. A keyword search of the whole report for
+this page's distinctive vocabulary (considerarán, mostrarles,
+artificios, desfigurado, empieze, decaerá, esparcido, contados, señal,
+bautizados) turned up matches only from other, already-processed pages
+or the book's own table-of-contents entry for page 533 ("Señal, empieza
+la obra del Padre 533" / "Será desfigurado 533") -- pre-existing
+content, not a new finding. Spellcheck Suspect Words section: zero
+hits from this page (the only nearby flagged words -- cuermo, leon,
+limpiáos, peofeta, Profecia, qulén -- all belong to the previous page's
+own text). Two `errors in 1920.txt` entries added (III Nefi 21:7
+empieze/empiece, III Nefi 21:10 en/es más grande, both inserted in
+book/chapter/verse order after the existing III Nefi 20:29 entry); no
+`permitted words.txt` addition needed ("empieze" already present from
+an earlier page; "en" is a common word aspell will never flag). Full-
+document footnote-anchor check (max 3870, zero duplicates/out-of-range,
+only the pre-existing 812 gap), `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` (whole
+document), and an independent curly-quote character scan of both
+master files all clean. Page has zero hyphens in its final body text
+(both rejoins removed the only candidates), so no dash-check findings.
+No narrow-space-vs-merge defaults were made on this page needing an
+editor pointer.

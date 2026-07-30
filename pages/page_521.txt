@@ -1,0 +1,186 @@
+Página 521
+18. [3740]Tus centinelas alzarán la voz; juntamente cantarán;
+porque ojo á ojo verán, cuando al Señor vuelve á traer á Sión.
+19. Prorumpid en alegría; cantad juntamente, vosotros
+lugares desolados de Jerusalem; porque el Señor ha consolado
+á su pueblo; á Jerusalem ha redimido.
+20. El Señor desnudó el brazo de su santidad ante los ojos de
+todas las naciones; todos los términos de la tierra verán la salud
+de Dios.
+
+CAPÍTULO 17.
+
+1. He aquí, sucedió que después que Jesús hubo concludio
+de hablar estas palabras, miró de nuevo al rededor á la multitud,
+y les dijo: He aquí, que se acerca mi tiempo.
+2. Veo que sois débiles, de modo que no podéis comprender
+todas mis palabras, las que me han sido mandadas por el Padre,
+para que os las diga en este tiempo;
+3. Por lo tanto, id á vuestras casas, y meditad sobre las cosas
+que os he dicho, y pedid al Padre en mi nombre, para que entendáis,
+y que preparáis vuestro entendimiento para mañana
+y vendré á vosotros otra vez;
+4. Pero ahora [3741]voy al Padre, y también voy á mostrarme á
+las tribus [3742]perididas de Israel, porque no están perdidas para
+el Padre, porque Él sabe á dónde las ha llevado.
+5. Y sucedió que cuando Jesús hubo hablado así, mirando
+al rededor á la multitud, vió como se hallaban todos con lágrimas
+en los ojos, mirándole fijamente, como si le quisieran pedir
+que permaneciera un poco más con ellos.
+6. Entonces les dijo: He aquí, que mis entrañas están llenas
+de misericordia para vosotros;
+7. [3743]¿Tenéis enfermos entre vosotros? Traédmeles aquí.
+¿Tenéis á alguien que esté cojo, ó ciego, ó manco, ó lisiado, ó
+leproso, ó emaciado, ó que esté sordo, ó afligido de cualquier
+modo? Traédmeles aquí, y les curaré, porque tengo compasión
+de vosotros; mis entrañas están llenas de misericordia;
+8. Y veo que tenéis deseos de que os muestre lo que he hecho
+para vuestros hermanos en Jerusalem; porque veo que vuestra fe
+es [3744]suficiente para que os cure.
+9. Y sucedió que cuando hubo hablado así, salió entonces
+toda la multitud de común acuerdo, y volvieron con sus enfermos,
+con sus lisiados, con sus cojos, ciegos, mudos, y con todos los
+
+16-2a, 3740: Isaías 52:9-10.
+17a, 3741: III Nefi 18:39.
+17b, 3742: Véase p, III Nefi 15.
+17c, 3743: Versículos 9-10.
+17d, 3744: II Nefi 27:23; Ether 12:12.
+
+Corrections:
+Hyphen rejoin (rule 7): v.3 "en-/tendáis" -> "entendáis" (line-break
+split); fits at the end of the first line at 67 characters.
+Hyphen rejoin (rule 7): v.7 "com-/pasión" -> "compasión" (line-break
+split); fits at the end of the first line at 59 characters.
+Unconditional space normalization (rule 31/6) applied throughout the
+page: numerous space-before-semicolon/colon instances in the source
+print (v.18 x2, v.19 x2, v.20, v.1, v.2, v.3, v.6 x2, v.7) normalized
+to no space before the mark -- no `errors in 1920.txt` entry needed,
+this is mechanical per rule 31.
+Narrow-space-vs-merge default (rule 6, 2026-07-22 standing default):
+v.7 "óque" (zero-width print merge) transcribed as "ó que" (two
+words) -- the same "ó cojo, ó ciego, ó manco, ó lisiado, ó leproso"
+construction runs throughout this exact sentence, so grammar clearly
+requires two words. No zoom/pixel analysis performed per the current
+default; noted here for Session E's summary to the editor.
+Suspected misprint preserved as printed per rule 32: v.1 "concludio"
+(expected "concluido" -- letters transposed). Verify against 1886 in
+Session E.
+Suspected misprint preserved as printed per rule 32: v.4 "perididas"
+(expected "perdidas" -- extra inserted "i"; this same verse spells
+"perdidas" correctly a few words later, isolating this as a one-off).
+Verify against 1886 in Session E.
+REVERSED (editor review, direct look at the page image): v.7
+"vcsotrcs" and v.7's first "Traédmel_s" were both initially transcribed
+with a "c"-shaped glyph in place of an "o" (see the superseded notes
+this replaces, below the Session E note). The editor reviewed the 1920
+page directly and determined: the "Traédmel_s" glyph is clearly an "e"
+("Traédmeles," matching 1886 and this verse's own second occurrence
+exactly, not a misprint at all); the "vosotros" word is genuinely
+printed with two "o"s, both of which are under-inked/missing ink,
+making them look more like "c"s in the scan -- a scan/print-quality
+artifact, not a genuine letter substitution, matching the established
+pattern from pages 472-473/475/483/488/500/510/515/516. Both corrected
+to read "Traédmeles" and "vosotros" in `pages/page_521.txt` and
+`librodm.txt`; the `permitted words.txt` entry for "Traédmelcs" was
+removed (no `errors in 1920.txt` entries existed for either, so
+nothing to remove there). The original notes describing the two
+misreads are preserved below for the historical record.
+
+[Superseded by the reversal above] Suspected misprint preserved as
+printed per rule 32: v.7 "vcsotrcs" (expected "vosotros" -- both
+instances of "o" replaced by "c"; initially misread as "vcsotros" at
+first zoom, corrected after the Google-text cross-check (manual read,
+since this line falls past the tool's known blank-line blind spot --
+see below) flagged the discrepancy and a tighter re-zoom confirmed the
+second "o" is also printed as "c"). Verify against 1886 in Session E.
+[Superseded by the reversal above] Suspected misprint preserved as
+printed per rule 32: v.7's first "Traédmel_s" (early in the verse) --
+initially misread as "Traédmelos" at first zoom, but a tighter re-zoom
+shows the letter before the final "s" is the same open, curved
+"c"-like glyph seen twice in this verse's own "vcsotrcs" (a third
+instance of the same apparent "o"-damaged-to-"c" pattern within a few
+lines of print), not a clean "o" -- transcribed as "Traédmelcs" to
+match what's actually printed. 1886 reads "Traédmeles" (with "e") at
+this exact position (both occurrences in its own v.7, in fact), which
+cannot be explained by the "o damaged to c" theory alone if the
+underlying set letter really was "o" -- this may be a case where 1920
+genuinely set a different letter here than 1886, with print damage
+additionally obscuring which one. Flagged for the editor's own direct
+look, same as the "vcsotrcs" call above -- both sit in the same few
+lines of this verse and may be related. Verify against 1886 in
+Session E regardless of the final letter-identity call.
+None of this page's footnote letters (16-2a, 17a-d) or cross-reference
+target (17b's "p") are i/l/1, so no mandatory 1879 check applies.
+Chapter 17 has no subtitle line in the 1920 print (confirmed at the
+chapter opening image) -- none omitted.
+Google-text cross-check (step 10): the automated
+`check_google_crosscheck.py` tool only compared the first 8 lines
+(chapter 16's tail) before stopping at the blank line preceding
+"CAPÍTULO 17." -- the same known blind spot documented on page
+505/2026-07-25a. The rest of the page (chapter 17's content) was
+manually compared line-by-line against `google_text_1920/page_0543.txt`
+directly; this caught the "vcsotrcs" misread noted above and confirmed
+everything else (concludio, perididas, óque, footnote citations)
+matches what was independently transcribed from the image.
+
+Session B: independently re-verified all 5 Block 1 entries and all 5
+body markers against fresh crops of pages_1920/page_0543.png; footnote
+letter counts (2a, a, b, c, d) match the 5 body markers exactly.
+Footnote 17a's own glyph is a solid over-inked blob with no legible
+letter shape (matching the established over-inked-blob precedent, e.g.
+page 510's "12a") -- resolved as "a" via rule 13 (chapter 17's
+lettering must restart at "a") rather than glyph shape, since it's the
+first footnote after the chapter-16-to-17 boundary. None of this
+page's letters (2a, a, b, c, d) or the one cross-reference target
+(17b's "p") are i/l/1, so no mandatory 1879 check applies; none of the
+5 entries or 5 markers needed correction. No errors found.
+
+Session E: 1886 (book page 518, file 536, chapter_map gap for III Nefi
+navigated by direct increment from page 519/520's already-established
+file 534-535) confirmed both settled Corrections-log suspects as
+genuine 1920-only errors, both added to `errors in 1920.txt`: v.1
+"concludio" (1886: "concluido") and v.4 "perididas" (1886: "las tribus
+perdidas de Israel"). Independent research (RAE via WebSearch, local
+reference corpora) confirmed both further: RAE has no entry for either
+1920 form, and the corpora have zero hits for either misspelling
+against several hits for the correct forms. Fresh pptext regeneration
+(`report_wsl_20260726g.html`, after two earlier regenerations caught
+the "Traédmelos"->"Traédmelcs" sync gap noted above) confirmed
+"concludio" and "perididas" both flagged this run (added to `permitted
+words.txt`); also flagged "emaciado" (v.7) and "Traédmeles" (v.7,
+second occurrence) -- both confirmed legitimate, matching 1886 exactly
+at their respective positions -- added to `permitted words.txt` only.
+"Traédmelcs" (v.7, first occurrence) was also flagged this run; added
+to `permitted words.txt` since it IS what's printed regardless of the
+open letter-identity question, but NOT added to `errors in 1920.txt`
+-- unlike "vcsotrcs", whether this represents genuine 1920 print
+damage, a genuine 1920/1886 wording difference, or a scan artifact is
+still unresolved and flagged for the editor's own look (see above).
+The only other spellcheck-suspect hits in the report ("mándoos," page
+519; "Profecia," page 469) are pre-existing and out of this page's
+scope. Full-document footnote-anchor check (regex scan): max 3744,
+zero duplicates, zero out-of-range, only the pre-existing 812 gap
+(Jacob 2:15). `check_spaced_punctuation.py`/`check_footnote_
+punctuation.py`/`check_verse_indent.py` (whole document) all clean.
+Independent curly-quote character scan (both master files) clean.
+Dash check: no hyphens in this page's range. Footnote check, special
+situations, and paragraph-level checks all showed nothing new in this
+page's line range. The v.7 "óque"->"ó que" narrow-space default is
+flagged here per the standing instruction for the editor's own
+convenience, not as a blocking question.
+
+RESOLVED by the editor (direct look at the page image, same day):
+"Traédmelcs" reads clearly as "Traédmeles" -- not ambiguous at all on
+direct inspection, matching 1886 and this verse's own second
+occurrence. "vcsotrcs" is genuinely printed with two "o"s (i.e.
+"vosotros"), but both are under-inked/missing ink, which is what made
+them look like "c"s in the scan crops -- a scan/print-quality artifact,
+not a real letter substitution. Both corrected in `pages/page_521.txt`
+and `librodm.txt`; the `permitted words.txt` entry for "Traédmelcs" was
+removed (it no longer appears anywhere in the text); no `errors in
+1920.txt` entries existed for either, so nothing to remove there. This
+matches the established pattern (pages 472-473, 475, 483, 488, 500,
+510, 515, 516) where a mark that looks damaged/ambiguous in the scan
+turns out, on the editor's own direct look, to be ordinary print with
+an ink-coverage defect -- not a genuine 1920 typesetting error.

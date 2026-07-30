@@ -1,0 +1,148 @@
+Página 523
+22. Y cuando hubo hecho esto, Él lloró de nuevo,
+23. Y hablando á la multitud, le dijo: Mirad á vuestros
+niños.
+24. Y, he aquí, que según levantaron la vista para mirar,
+dirigieron sus ojos hacia el cielo, y vieron los cielos abiertos, y á
+los ángeles que descedían del cielo, como si fuera en medio del
+fuego; y llegando los ángeles, se colocaron al rededor de los
+niños, que [3753]aparecieron entonces rodeados de fuego; y los
+ángeles les ministraron.
+25. De lo que da testimonio la multitud que lo vió y oyó;
+y ellos saben que su testimonio es verdadero, porque cada uno
+de ellos lo vió y oyó por sí mismo; siendo casi dos mil quinientas
+almas su número, hombres, mujeres y niños.
+
+CAPÍTULO 18.
+
+1. Y aconteció, que Jesús mandó á sus [3754]discípulos, que le
+trajeran [3755]pan y vino.
+2. Y mientras que iban por ello, hizo que se sentara en el
+suelo la multitud.
+3. Y llegando sus discípulos con pan y vino, cogió el pan, lo
+partió, y bendiciéndolo, se lo dio á sus discípulos, mandándoles
+que lo comieran.
+4. Y cuando lo hubieron comido, y se hallaron hartos, les
+mandó que dieran á la multitud.
+5. Y cuando comió y se satisfizo la multitud, dijo á los discípulos:
+He aquí, que uno de vosotros ha de quedar [3756]ordenado,
+y á él daré poder para que rompa y bendiga pan, y lo dé al pueblo
+de mi iglesia, á todos los que crean y se [3757]bauticen en mi nombre.
+6. Y esto siempre observaréis y haréis aun como yo he
+hecho; tal como yo he partido el pan, y lo bendije, y os lo dí.
+7. Lo que haréis en [3758]memoria de mi cuerpo, él que os he
+mostrado. Y será un testimonio al Padre, de que os acordáis
+siempre de mí. Y si os acordáis [3759]siempre de mí, mi Espíritu
+estará siempre con vosotros.
+8. Y sucedió, que cuando hubo pronunciado estas palabras,
+mandó á sus discípulos que tomaran la copa de vino, y bebieran
+de ella, y que dieran también á la multitud, para que bebieran.
+9. Y aconteció que haciéndolo así, lo bebieron y quedaron
+satisfechos; y dieron á la multitud, que bebió, y se satisfizo.
+
+17m, 3753: Véase g.
+18a, 3754: Véase c, III Nefi 12.
+18b, 3755: Versículos 2-14,28-34; III Nefi 20:3-9; 26:13; IV Nefi 1:27;
+Mormón 9:29; Moroni 4:5.
+18c, 3756: IV Nefi 1:14; Véase g, Mosíah 18; Moroni 3:4.
+18d, 3757: Véase u, II Nefi 9.
+18e, 3758: Versículo 11; III Nefi 20:8; Moroni 4:3; 5:2.
+18f, 3759: Versículo 11; Moroni 4:3; 5:2.
+
+Corrections:
+Discretionary 1879 check (none of this page's own letters -- m, a-f --
+or their cross-reference targets are i/l/1, so the mandatory check does
+not apply; extended to this page anyway because the target-letter glyph
+for both footnote c and footnote m looked genuinely ambiguous between
+"o" and "g" in this print's small superscript font). Initial 1920-only
+read (both zoomed independently and compared against each other) landed
+on "o" for both -- a small circle with a diagonal tick -- but that
+reading is internally inconsistent: chapter 17 has no letter "o" of its
+own (the chapter's own lettering runs only a-l as of page 522, with m
+being the very next letter), so "m, Véase o." with no book/chapter name
+(matching this chapter's own established no-name-for-self-citation
+convention, e.g. 17l, 3752: Véase g.) could not resolve. Confirmed via
+BOM 1879 Pratt (file page 525, chapter_map has no III Nefi rows --
+navigated by direct increment from page 522's established 1879 range):
+"m, see g." and "c, IV. Nep. 1:14. see g, Mos. 18." -- both are "g", not
+"o". The 1920 glyph read as "o" is this font's small superscript "g" (a
+small circle with a diagonal tick, easily confused with "o" at this
+print size); corrected in both entries above. Content-fit corroborates:
+17m annotates v.24's "rodeados de fuego" and 17l (the already-confirmed
+"Véase g.") annotates v.21's "tomando", both fitting 17g's own citation
+("Versículos 12,21,23-24; III Nefi 26:14,16" -- the fire/glory passage);
+18c annotates v.5's "quedar ordenado" and Mosíah 18 is Alma's
+establishment of the priesthood/ordinances at the Waters of Mormon, a
+strong fit for an ordination footnote.
+Session E found a genuine Session A transcription error: v.3 "se lo dío
+á sus discípulos" was originally typed with the accent on the wrong
+vowel and the wrong single letter besides ("dío", not a real word at
+all) -- a fresh zoom at v.3 shows the actual 1920 print reads plain
+"dio", with NO accent mark anywhere on the word. Corrected in
+`pages/page_523.txt` and `librodm.txt` (transcription fix, rule 12 --
+not a `permitted words.txt`/`errors in 1920.txt` matter on its own).
+Separately, the corrected reading "dio" (unaccented) IS a genuine 1920
+error in its own right: 1886 (book page 520/file 538, same spot) prints
+"dió" with the accent, and this exact verb form is spelled "dió"
+(accented) roughly 63 other times throughout `librodm.txt` with zero
+other unaccented instances -- unlike the recurring, already-tolerated
+"vino a suceder"/"vino á suceder" inconsistency (2026-07-22c), this is
+an isolated one-off, so it clears the bar for a genuine logged error;
+added to `errors in 1920.txt` (III Nefi 18:3). Not pptext-flagged (a
+bare "dio" is itself a rare-but-valid Spanish word, present tense of
+"diar", so aspell has no reason to flag it), so no `permitted words.txt`
+entry needed.
+Footnote e's citation prints with a genuine anomaly: "Versículo 11 ;
+III Nefi 20 : 8 : Moroni 4 : 3 ; 5 : 2." -- confirmed at zoom that the
+mark between "8" and "Moroni" is the same two-dot colon glyph used
+throughout for chapter:verse (not a semicolon), i.e. the original print
+punctuates as if "Moroni" continued the same chapter:verse citation as
+"III Nefi 20:8", which doesn't make sense across a book change. Per this
+project's own footnote-formatting convention (rule 21, semicolons
+between distinct references), transcribed above as "III Nefi 20:8;
+Moroni 4:3; 5:2." regardless -- flagged for Session E to decide whether
+this also warrants an `errors in 1920.txt` note, since it's a
+formatting normalization already applied uniformly rather than a
+content-changing error like a dropped digit.
+v.5: after "discípulos" the print has a colon, then a small stray ink
+speck sitting slightly below and after the colon before "He aquí" --
+confirmed at zoom to be a scan artifact (isolated dot, no letter shape),
+not additional printed punctuation; not transcribed, matching the
+established floating-mark precedent (pages 483, 490, 492, 494, 497, 500,
+510, 513, 522).
+v.8: a short horizontal ink fragment appears in the gap between "que"
+and "cuando" ("Y sucedió, que cuando hubo pronunciado") -- confirmed at
+zoom to be a stray scan/print artifact below the baseline, not a
+character; not transcribed.
+Rule 6 hyphen rejoin: v.5 "dis-/cípulos" -> "discípulos" (fits under 73
+chars appended to the first line, so no rule 8 rebalancing needed).
+Rule 6 unconditional space normalization (justification-widened gaps,
+confirmed at zoom, no `errors in 1920.txt` entry): v.6 "observaréis  y
+haréis" -> single space; v.8 "vino,  y bebieran" -> single space.
+No i/l/1 letters among this page's own lettering (m, a-f) apart from
+the discretionary o/g check above; no mandatory check triggered by this
+page's own letters.
+`check_line_wrap.py` only counted 13 body lines (the chapter 17 tail,
+v.22-25) -- the known blind spot where it stops at the blank line before
+a chapter heading (`CAPÍTULO 18.`), already documented on pages 505/521;
+every line in both halves of the page was read directly from the image
+crops line-by-line per rules 5/6, not composed as prose and rewrapped.
+Google-text cross-check (`check_google_crosscheck.py 523`) found one
+candidate: v.22 "Él" vs. Google's "El" -- confirmed via the top image
+crop that the print genuinely accents "Él lloró de nuevo,"; Google's OCR
+simply missed the accent (a known OCR limitation, not a transcription
+issue).
+Session B: independently re-verified all 7 Block 1 entries and body
+markers from a fresh crop of the fn_zoom image; matches exactly.
+Independently re-ran the discretionary o/g check from a fresh 1879 crop
+(BOM 1879 Pratt file page 525) and reconfirmed "m, see g." and "c, ...
+see g, Mos. 18." exactly as Session A found. Also noted while re-reading
+1879: footnote c's trailing citation prints differently between
+editions -- 1879 reads "Mos. 18. Moro. 3. IV. 1." (two separate
+bare-chapter citations, Moroni ch.3 and IV Nefi ch.1, no verse numbers),
+while 1920 unambiguously prints "Moroni 3:4." (confirmed at zoom, a
+genuine colon, not a period-then-separate-citation). Per rule 26, the
+two editions' footnote content can differ; transcribed exactly as 1920
+prints it ("Moroni 3:4."), flagged here for Session E's awareness in
+case it warrants further comparison, but not altering the 1920 reading,
+which is unambiguous on its own.

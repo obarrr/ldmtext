@@ -1,0 +1,137 @@
+Página 522
+que se hallaban afligidos por cualquier género de enfermedad;
+y Él les [3745]curó á todos, á medida que iban llegando á Él.
+10. Y prosternándose todos á sus pies, tanto los que habían
+sido curados, como los sanos, le adoraron; y tantos como lo
+permitía la multitud, venían á [3746]besar sus pies, de tal modo que
+los bañaban con sus lágrimas.
+11. Y vino á suceder que mandó entonces que le trajeran
+á sus niños [3747]pequeñitos.
+12. Y trajeron á sus niños pequeñitos, y les colocaron en tierra
+al rededor de Él, quedando así Jesús en medio de ellos haciendo
+espacio la multitud, hasta que le fueron traídos todos.
+13. Y aconteció que cuando fueron todos traídos, Jesús quedó
+en medio de ellos, y mandó á la multitud que se [3748]arrodillara por
+tierra.
+14. Y aconteció que cuando se hubieron arrodillado al suelo,
+gimió Jesús en sí mismo, y dijo: Padre, [3749]turbado estoy á causa
+de la maldad del pueblo de la casa de Israel.
+15. Y después que hubo pronunciado estas palabras, se [3750]arrodilló
+también sobre la tierra; y, he aquí, que oró al Padre, y las cosas
+que dijo en su oración, no pueden escribirse, y dan testimonio
+la multitud que le oyeron.
+16. Y de esta manera, ellos dan su testimonio: Ni [3751]el ojo
+ha visto nunca, ni el oído ha oído antes de ahora, cosas tan
+grandes y maravillosas como las que nosotros vimos y oímos,
+que Jesús habló al Padre;
+17. Y no hay lengua que pueda hablar, ni hombre que pudiere
+escribirlo, ni aun podría concebir el corazón de los hombres tan
+grandes y marvillosas cosas como nosotros vimos y oímos, que
+habló Jesús; ni nadie puede concibir tampoco, cuán grande
+fué el gozo que llenó nuestras almas en el momento en que le
+oímos rogar por nosotros al Padre.
+18. Y sucedió, que cuando Jesús hubo concluido de orar al
+Padre, se levantó; pero tan grande era la alegría de la multitud
+que quedaron sobrecogidos.
+19. Y sucedió que hablóles entonces Jesús, mandándoles que
+se levantaran.
+20. Y cuando se hubieron levantado del suelo, les dijo:
+Benditos sois por causa de vuestra fe. He aquí, ahora, que mi
+alegría es completa.
+21. Y diciendo esto, lloró; de lo que da testimonio la multitud;
+y [3752]tomando á sus niños pequeños, uno á uno, les bendijo, y rogó
+al Padre por ellos.
+
+17e, 3745: III Nefi 26:15.
+17f, 3746: III Nefi 11:19.
+17g, 3747: Versículos 12,21,23-24; III Nefi 26:14,16.
+17h, 3748: III Nefi 19:6,16-17.
+17i, 3749: III Nefi 27:32.
+17j, 3750: III Nefi 19:19,27.
+17k, 3751: III Nefi 19:32-34.
+17l, 3752: Véase g.
+
+Corrections:
+Mandatory 1879 check (rule, Section 8): letters i (v.14 "turbado") and l
+(v.21 "tomando") are this page's own lettering and fall in the mandatory
+i/l/1 set. Confirmed via BOM 1879 Pratt file page 524 (chapter_map has
+no III Nefi rows -- navigated by direct increment from page 521's
+established 1879 range; content matches exactly, no drift): the full
+letter sequence e-l matched 1879 letter for letter, citation for
+citation, and body-marker-position for position (e/"he did heal them"
+= curó v.9, f/"kiss" = besar v.10, g/"little children" = pequeñitos
+v.11, h/"kneel" = arrodillara v.13, i/"troubled" = turbado v.14,
+j/"knelt" = arrodilló v.15, k/"the eye" = el ojo v.16, l/"he took" =
+tomando v.21).
+Footnote-target correction (caught by the mandatory 1879 check): footnote
+l's cross-reference was initially read from the 1920 image as "Véase e."
+-- the superscript target glyph is a worn/small swash-font mark that looks
+nearly identical to both letter "e" and letter "g" at this print quality
+(both render as a small rounded blob). BOM 1879 Pratt reads "l, see g."
+at the parallel position, and content-fit confirms it decisively: footnote
+g's own citation ("Versículos 12,21,23-24...") lists verse 21 -- the exact
+verse footnote l annotates ("tomando") -- while the misread "e" target
+(III Nefi 26:15) has no connection to v.21 at all. Corrected to "Véase g."
+Suspected misprint preserved as printed per rule 32: v.17 "marvillosas"
+(expected "maravillosas" -- missing "a"; the immediately preceding verse,
+v.16, spells "maravillosas" correctly). Verify against 1886 in Session E.
+Suspected misprint preserved as printed per rule 32: v.17 "concibir"
+(expected "concebir" -- this same verse uses "concebir" correctly a few
+words earlier, isolating this as a one-off vowel substitution). Verify
+against 1886 in Session E.
+Floating scan-artifact ink mark (not transcribed): a stray dot
+immediately after "sobrecogidos." (v.18/19 boundary), matching the
+established floating-mark precedent (pages 483, 490, 492, 494, 497, 500,
+510, 515, 516, 521).
+Unconditional space normalization (rule 31) applied throughout the page:
+numerous space-before-semicolon/colon instances (v.9, v.10, v.14, v.15,
+v.16 x2, v.17, v.18, v.20, v.21 x2) normalized to no space before the
+mark -- no `errors in 1920.txt` entry needed, this is mechanical per
+rule 31.
+No hyphenated line-break splits occur on this page (rule 7 n/a).
+Chapter 17 continues from page 521 (v.9 continuation) through v.21; no
+new chapter heading appears on this page.
+Google-text cross-check (step 10): `check_google_crosscheck.py` flagged
+2 candidates, both dismissed after zoom. v.10 "venían" (mine) vs
+Google's garbled "veniá n" -- confirmed via fresh zoom that the 1920
+print clearly reads "venían" as transcribed; ordinary OCR noise on an
+accented word. The other candidate was an inserted "." at the
+sobrecogidos boundary -- this is Google's OCR independently picking up
+the same floating scan-artifact dot already noted above, corroborating
+that call rather than contradicting it; no change made.
+
+Session B: independently re-verified all 8 Block 1 entries and all 8
+body markers against fresh crops of pages_1920/page_0544.png; footnote
+letter sequence (e-l) matches the 8 body markers exactly. Re-ran the
+mandatory 1879 check from fresh crops of BOM 1879 Pratt file page 524
+(not reusing Session A's crops) and reconfirmed every citation
+letter-for-letter, including "l, see g." -- corroborating Session A's
+footnote-target correction independently. No errors found.
+
+Session E: fresh pptext regeneration (`report_wsl_20260726e.html`)
+flagged 2 spellcheck suspects, both from this page's own Corrections
+log: v.17 "marvillosas" and v.17 "concibir". 1886 (book page 519, file
+537, chapter_map has no III Nefi rows -- navigated by direct increment
+from page 521's established range) prints the IDENTICAL misspellings at
+the identical spots -- a shared-error case, same pattern as
+"aparacerá"/"seperado"/"frustado"/"circumspectamente" -- so the 1886
+agreement alone does not clear either word; independent research
+confirmed both are genuine errors regardless: RAE has no entry for
+"marvillosas" (only "maravilloso/maravillosa") or for "concibir" as an
+infinitive (only "concebir", with "concibo" etc. as irregular
+conjugated forms); the local reference corpora have zero hits for
+either misspelling vs. 2 hits for "maravillosas" and 6 for "concebir"
+(Reina-Valera); and the modern Spanish LDS edition (churchofjesuschrist.org,
+3 Nefi 17:16-17) uses "maravillosas" and "concebir". Both added to
+`errors in 1920.txt` and `permitted words.txt` (pptext flagged both this
+run). Full-document footnote-anchor check (regex scan): max 3752, zero
+duplicates, zero out-of-range, only the pre-existing 812 gap (Jacob
+2:15). `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document) all clean. Independent
+curly-quote character scan (both master files) clean. Dash check: this
+page's two Block 2 verse-range hyphens (16-17, 23-24) are both
+legitimate ranges, no floating/spaced hyphens. Special situations,
+paragraph-level checks, and Jeebies all showed nothing new in this
+page's range. Corrections-log sweep found nothing else needing
+promotion -- the footnote-target correction (l -> g) and the floating
+scan-artifact dot were both already resolved at transcription time.

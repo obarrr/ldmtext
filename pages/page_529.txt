@@ -1,0 +1,151 @@
+Página 529
+de su oración, que no pueden ser escritas, ni dichas por
+ningún hombre.
+35. Y aconteció, que cuando Jesús hubo concluido su oración,
+volvió á sus discípulos, y les dijo: Nunca he visto una fe tan
+grande entre todos los Judíos; por lo tanto, no les he podido
+mostrar tan [3806]grandes milagros, á causa de su incredulidad.
+36. En verdad, os digo, que no hay ninguno de ellos que haya
+visto tan grandes cosas como habéis visto vosotros; ni haya
+oído tampoco tan grandes cosas como vosotros habéis oído.
+
+CAPÍTULO 20.
+
+1. Y sucedió, que mandó entonces, á la multitud y á sus
+discípulos que cesasen en su oración vocal, pero que no dejasen
+de continuar orando en sus corazones.
+2. Mandándoles también que se levantaran del suelo. Y
+levantándose, permanecieron de pie.
+3. Y sucedió que [3807]partiendo de nuevo el pan, lo bendijo y se
+lo dió á sus discípulos para que lo comieran.
+4. Y cuando hubieron comido, les mandó que partieran ellos
+el pan, y se lo dieran á la multitud.
+5. Y cuando hubieron dado á la multitud, les dió también
+vino, para que bebieran, y les mandó que se lo dieran á la multitud.
+6. Ahora, ni pan, ni vino había sido traído por la multitud, ni
+por los discípulos;
+7. Pero verdaderamente Él les dió á comer pan, y á beber vino;
+8. Y les dijo: Quién coma de este pan, come de [3808]mi cuerpo
+para su alma, y quién beba de este vino, bebe de mi sangre para
+su alma, y su alma no padecerá nunca hambre, ni sed, sino que
+quedará satisfecha.
+9. Ahora cuando toda la multitud hubo comido y bebido, he
+aquí, sintióse [3809]llena del Espíritu, y clamando todos á una voz,
+glorificaron á Jesús, á Quién veían y oían.
+10. Y sucedió, que cuando hubieron glorificado á Jesús, Él
+les habló, diciendo: He aquí, que concluyo ahora el mandamiento
+que mi Padre me ha dado relativamente á este pueblo, que es
+un resto de la casa de Israel.
+11. Vosotros os acordáis de lo que os he dicho sobre las palabras
+de Isaías, para [3810]cuando lleguen á cumplirse, he aquí, pues, que
+están escritas, y delante de vosotros las tenéis, así pues examinadlas.
+
+19x, 3806: Véase d, III Nefi 17.
+20a, 3807: Véase b, III Nefi 18.
+20b, 3808: Véase t, III Nefi 18.
+20c, 3809: Véase y, III Nefi 9.
+20d, 3810: III Nefi 16:17; Isaías 52; 9,10.
+
+Corrections:
+Page-boundary hyphen split (rule 10) resolved: page 528's last word
+"pala-" completes here as "palabras" (continuing "...fueron las
+pala-/bras de su oración..."). Appending the whole word to page 528's
+last line keeps it at 63 characters, under the cap, so it was placed
+there; page 529's body begins with the following word, "de", instead.
+`pages/page_528.txt` (and its already-integrated copy in `librodm.txt`)
+revised accordingly.
+A small stray ink speck sits just above/right of "Y" in v.35 ("Y
+aconteció") -- confirmed at zoom to be a scan/print artifact, not a
+footnote marker or diacritic (no letter shape, doesn't align with any
+expected footnote letter), matching the established floating-mark
+precedent (pages 483, 490, 492, 494, 497, etc.). Not transcribed.
+Three rule-7 hyphenated line-break rejoins: v.5 "multi-/tud" ->
+"multitud" (fits at the end of its line, 68 chars); v.11 "pala-/bras"
+-> "palabras" (fits at the end of its line, 65 chars); v.11
+"examin-/adlas" -> "examinadlas." (fits at the end of its line, 71
+chars). No rule-8 rebalancing needed anywhere on this page, including
+after marker insertion.
+Four space-before-semicolon instances normalized per rule 31: v.35
+"Judíos ;" -> "Judíos;" (confirmed at zoom -- a clear, deliberate gap,
+not a kerning artifact) and "vosotros ;" -> "vosotros;"; chapter 20
+v.6 "discípulos ;" -> "discípulos;" and v.7 "vino ;" -> "vino;".
+This page's own letters (chapter 19's tail letter x, then chapter 20's
+a-d) are none of them i/l/1, and none of the four cross-reference
+target letters (b, t, y, and the direct citation on d) are either, so
+no *mandatory* 1879 check applied -- but the block uses the same
+heavily stylized swash-italic reference font seen on several recent
+pages, and two glyphs were genuinely hard to read at a glance, so a
+full discretionary check was run anyway via BOM 1879 Pratt file page
+531 (chapter_map has no III Nefi rows; navigated by direct increment
+from page 528's established file 530 -- content lands on the exact
+next page, no drift) and file 532 (for footnote d's own citation text,
+which continues onto the next 1879 page):
+- The first footnote's own letter (continuing chapter 19's lettering
+  past page 528's last letter, w) was read as a swash glyph that could
+  plausibly be "a" at a glance -- but chapter 19 already used letter a
+  back on page 526, so a literal "a" here would violate rule 13's
+  strict no-gaps alphabetical sequencing. 1879 confirms it should
+  continue the sequence as "x" ("x, see d, III. Nep. 17."), matching
+  both rule 13's sequencing logic and the glyph's actual stylized
+  shape once compared side-by-side with a known "x" from an earlier
+  page. Resolved as chapter 19's x.
+- Footnote c's target letter looked like a plain "v" at every zoom
+  tried, with no visible descender -- but 1879 reads "c, see y, III.
+  Nep. 9.", the same v/y swash-font ambiguity already documented on
+  page 510 (11-2o, 12e). Content-fit corroborates y over v: III Nefi
+  9's own letter y (seq. 3585) is the recurring "filled with the Holy
+  Ghost"/baptism-by-fire citation chain (already cited at this
+  chapter's own v.9 on page 526 and elsewhere), an exact match for
+  this page's v.9 "sintióse llena del Espíritu" -- whereas 9's own v
+  (seq. 3582, "III Nefi 15:2-8") has no such connection. Resolved as
+  Véase y, III Nefi 9 (not v).
+- Footnotes a and b's targets (III Nefi 18's own b and t) matched 1879
+  exactly ("a, see b, III. Nep. 18.  b, see t, III. Nep. 18."), no
+  correction needed.
+Footnote d's citation ("III Nefi 16:17; Isaías 52; 9,10.") has a
+suspected punctuation defect: 1879's parallel entry (file page 532)
+reads "d, III. Nep. 16:17. Isaiah 52:9, 10." -- i.e. a colon between
+"52" and "9,10" (verses 9-10 of Isaiah 52), not a semicolon. The 1920
+print's semicolon there produces a citation that doesn't parse on its
+own ("Isaías 52" as a bare chapter citation, followed by a dangling
+"9,10" with no unit). Transcribed exactly as printed per rule 32
+(semicolon preserved, only the space-before-punctuation normalized per
+rule 31); flagged here for Session E to confirm and log in `errors in
+1920.txt` as a footnote-text defect (matching the page 493/5g citation-
+defect precedent), pending the usual independent confirmation pass.
+No other suspected misprints found; body text reads cleanly and
+matches expected content throughout (v.35's citation to III Nefi 17's
+faith-enables-miracles footnote fits "no les he podido mostrar tan
+grandes milagros, á causa de su incredulidad" strongly).
+Session B: independently re-verified all 5 Block 1 entries and all 5
+body markers (x, a-d) from a fresh full-width footnote-block crop and
+fresh top/mid/bot crops; every reference text and marker position
+reconfirmed exactly as Session A read them, including footnote c's
+"v"-shaped glyph (resolved as y per Session A's 1879 check). No errors
+found.
+Session E: fresh pptext regeneration (`report_wsl_20260727.html`) came
+back clean for this page's own new range -- no Spellcheck Suspect Words
+or Edit Distance hits, "short lines"/"long lines" citations for lines
+23634-23675 and 27761-27764 are all ordinary content (no findings
+attached), footnote-anchor check (independent regex scan: max 3810,
+zero duplicates, zero out-of-range, only the pre-existing 812 gap)
+clean, "full stop followed by unexpected sequence" and other paragraph-
+level hits are all pre-existing and unrelated to this page, curly-quote
+scan (zero curly quotes in either master file) clean, and Jeebies clean.
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document) all clean. Footnote d's citation
+punctuation defect (flagged in Session A's Corrections note above) was
+confirmed via BOM 1879 Pratt (file page 532: "Isaiah 52:9, 10." with a
+colon, not the semicolon 1920 prints) and added to `errors in
+1920.txt` as a footnote-text entry; no `permitted words.txt` entry
+needed (punctuation, not spelling). Separately, this run's spellcheck
+section also flagged "mándoos" (III Nefi 16:4, page 519, footnote-
+marker context "Y mándoos que escribáis") -- an existing, already-
+transcribed word from an earlier page that had never been mirrored into
+`permitted words.txt`; confirmed legitimate (same archaic imperative+
+enclitic-pronoun pattern as apoderáos/entregáos/salváos/laváos/
+amontonáos/ungíos/Pusiéronse, all already in the list) and added to
+`permitted words.txt` only, closing that gap.
+No `permitted words.txt`/`errors in 1920.txt` entries were needed for
+this page's own text -- this page's own content produced a fully clean
+orthography pass. Page 529 now has Sessions A-E complete.

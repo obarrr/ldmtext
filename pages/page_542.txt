@@ -1,0 +1,108 @@
+Página 542
+6. Y quienquiera que tome mi nombre, y persevere hasta
+el fin, éste se salvará en el postrer día.
+7. Por lo tanto, todo lo que hagáis, lo haréis en mi nombre,
+y así daréis á la iglesia mi nombre, é invocaréis al Padre en mi
+nombre, á fin de que Él bendiga á la iglesia por mi causa.
+8. Y, ¿Cómo será mi iglesia, si no tiene mi nombre? Porque,
+si una iglesia tiene el nombre de Moisés, es porque es la iglesia
+de Moisés; y si se le da el nombre de una persona cualquiera, es
+porque pertenece á aquella persona; por lo tanto, si ella lleva
+mi nombre, será mi iglesia;—si fuere que estuvieren fundados
+sobre mi evangelio.
+9. En verdad, en verdad, os digo, que vosotros os habéis edificado
+sobre mi evangelio. Por lo tanto, cuanto pidáis, lo haréis
+en mi nombre; por lo tanto, si pedís al Padre en mi nombre para
+la iglesia, el Padre os escuchará;
+10. Y si fuere así que la iglesia estuviere edificada sobre mi
+evangelio, entonces el Padre mostrará sus propias obras en ella;
+11. Pero si no estuviere edificada sobre mi evangelio, sino
+que fuere construida según las obras de los hombres, ó según
+las obras del diablo, entonces en verdad os digo que gozarán
+de su obra por un poco de tiempo, pero pronto llegará el fin, en
+él que [3957]caerán y serán arrojados al fuego, de dónde no se vuelve;
+12. Porque sus obras les seguirán, porque es por causa de sus
+obras por lo que han sido cortados; por lo tanto, recordad las
+cosas que os he dicho.
+13. He aquí, que os he dado mi evangelio, y este es el evangelio
+que os he dado, que vine al mundo á hacer la voluntad de mi
+Padre, porque Él me envió;
+14. Y mi Padre me envió, para que yo fuese levantado sobre
+la cruz; y después que [3958]hubiere sido elevado sobre la cruz,
+pudiera traer á mí á todos los hombres, para que los hombres
+[3959]fueren elevados por el Padre, del mismo modo que yo lo he sido
+por ellos, para que aparezcan delante de mí, y sean juzgados
+según sus obras, ya fueren buenas ó malas;
+15. Por cuyo motivo he sido levantado; por lo que, según el
+poder del Padre, yo atraeré á mí á todos los hombres, para que
+sean juzgados según sus obras.
+16. Y sucederá, que quienquiera que se arrepienta y se [3960]bautice
+en mi nombre, quedará satisfecho; y si [3961]perseverare hasta el fin,
+he aquí, que á éste yo le presentaré puro delante del Padre en
+aquel día en que yo me presentaré á juzgar al mundo.
+17. Y aquél que no persevere hasta el fin, será él que yo
+
+27e, 3957: Véase k, I Nefi 15.
+27f, 3958: Versículo 15; I Nefi 19:10; III Nefi 28:6.
+27g, 3959: Levantados de la tumba.
+27h, 3960: Véase u, II Nefi 9.
+27i, 3961: Véase h, II Nefi 31.
+
+Corrections:
+No rule-7 hyphenated line-break splits requiring a cross-line rejoin
+except v.9's "habéis edi-" / "ficado" -> rejoined "edificado", appended
+to the first line (67 chars, under the 73-char cap), no rebalancing
+needed.
+Rule-6 justification-widened gap normalized to one space per the
+unconditional rule: v.8 "nombre? Porque," (a visibly wider gap after
+the question mark in the print) -- normalized, no exception, not
+logged as an error.
+No narrow-space-vs-merge candidates found on this page.
+No suspected misprints (rule 32) found on this page.
+Page continues Chapter 27 (v.6-17, no chapter boundary, no subtitle)
+from page 541; verse 17 is cut off mid-sentence at "será él que yo"
+and continues on page 543.
+Mandatory 1879 check for the current-chapter letter "i" (3961, in the
+i/l/1 set per Section 8): chapter_map.csv lists III Nefi 27 -> 1879
+file page 544 (book page 536), but that page's own Block 1 block only
+carries entries a-d; the matching e-i entries are on the next 1879
+file page (545, book page 537), fn_zoom read directly: "e, see k, I.
+Nep. 15. f, ver. 15. I. Nep. 19:10. III. Nep. 28:6. g, raised from the
+grave. h, see u, II. Nep. 9. i, see h, II. Nep. 31." -- an exact
+content-for-content match to all five 1920 entries in the same
+alphabetical order, confirming "i" (not an l/1 misread) and both of
+its neighbors' cross-reference targets.
+All five footnote letters (e-i) were also independently cross-checked
+via same-page glyph comparison before consulting 1879: e's
+teardrop/comma swash shape (anchor "caerán", v.11) matches the fn
+block's own "e" glyph (first entry, before "Véase k, I Nefi 15"); f's
+slanted stroke (anchor "hubiere", v.14) matches the fn block's "f"
+glyph (before "Versículo 15..."); g's solid oval/loop shape (anchor
+"fueren", v.14) matches the fn block's "g" glyph (the letter that
+wraps to the next line before "Levantados de la tumba"); h's
+short-stroke-with-bump shape (anchor "bautice", v.16) matches the fn
+block's "h" glyph (before the second "Véase"); i's
+short-stroke-with-separated-dot shape (anchor "perseverare", v.16)
+matches the fn block's "i" glyph (before the third "Véase") and is the
+classic "i" shape per Section 8's description. Content-fit check: f/g
+both plausibly gloss "levantado"/"elevados"/"fueren elevados" (lifted
+up, raised) by cross-referencing this same page's own v.15 ("Por cuyo
+motivo he sido levantado") and defining "elevados" as "levantados de
+la tumba" (raised from the grave/tomb); i's target (II Nefi 31, which
+is substantively about enduring to the end and baptism) fits "si
+perseverare hasta el fin" extremely well; all five fit their anchors.
+Google-text cross-check (`check_google_crosscheck.py 542`): one
+candidate surfaced, the em-dash in v.8 "iglesia;—si fuere" -- Google's
+OCR simply dropped the dash character (not a letter misread), and a
+fresh zoom (already done at transcription time, see the mark
+identified near "estuvieren fundados"/"sobre mi evangelio") confirms
+the 1920 print genuinely has an em-dash there. No change needed.
+Session B: independently re-verified all 5 Block 1 entries and all 5
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. Re-ran the mandatory 1879 check for the "i" letter
+(3961) using a second, independently-pulled crop of 1879 file page 545
+(also not reused from Session A) -- confirmed the same unambiguous
+"e, see k, I. Nep. 15. f, ver. 15. I. Nep. 19:10. III. Nep. 28:6. g,
+raised from the grave. h, see u, II. Nep. 9. i, see h, II. Nep. 31."
+reading, settling "i" (not an l/1 misread).

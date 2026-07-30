@@ -1,0 +1,155 @@
+Página 526
+35. Y [3778]ahora voy al Padre, porque es necesario que vaya á
+Él, por amor á vosotros.
+36. Y aconteció, que cuando Jesús concluyó de hablar, tocó
+con su mano á los discípulos que había elegido, á uno por uno,
+hasta que les hubo tocado á todos, hablándoles según les tocaba;
+37. Y la multitud no pudo oir las palabras que habló; por lo
+cual, no dieron testimonio de ellas. Pero los discípulos dan
+testimonio de que les concedió el [3779]poder de dar al Espíritu
+[3780]Santo. Y [3781]más adelante os mostraré, que esta relación es
+verdadera.
+38. Y sucedió, cuando Jesús les hubo tocado á todos, que
+apareció una nube y cubrió á la multitud, de modo que no
+pudieron ver á Jesús.
+39. Y mientras que se hallaban así cubiertos, partio Él de
+entre ellos, ascendiendo al cielo; lo que fué visto por los
+[3782]discípulos, que dan testimonio de su ascensión al cielo otra vez.
+
+CAPÍTULO 19.
+
+1. Y ahora, sucedió, que después de la [3783]ascensión de Jesús al
+cielo, se dispersó la multitud, y tomando cada uno á su mujer
+y sus hijos, se volvieron á sus casas.
+2. Extendióse inmediatamente por el pueblo, aun antes que
+llegara la noche, la nueva de que la multitud había visto á
+Jesús, y que Él había ministrado entre ellos, y de que se mostraría
+en el [3784]día siguiente otra vez á la multitud;
+3. Sí, y aun por toda la noche se extendieron las nuevas
+relativamente á Jesús; de tal modo, que mandaron á muchos
+al pueblo, sí, un gran número de ellos trabajó excesivamente
+toda la noche, para que estuvieren en la mañana seguiente en
+el paraje en que Jesús se iba á mostrar á la multitud.
+4. Y vino á suceder en la mañana, cuando la multitud se
+hallaba reunida, he aquí, á Nefi, y á [3785]su hermano que él había
+levantado de entre los muertos, que se llamaba Timoteo, como
+también á su hijo, llamado Jonás, y también á Matoni, y á
+Matoníah, su hermano, y á Kumen, y á Kumenonhi, y á Jeremíah,
+y á Shemnon, y á Jonás, y á Zedekíah, y á Isaías; ahora
+estos eran los nombres de los [3786]discípulos, á quiénes Jesús había
+elegido. Y aconteció, que avanzando estos, se colocaron en
+medio de la multitud.
+
+18y, 3778: III Nefi 17:4.
+18z, 3779: Moroni 2.
+18-2a, 3780: Véase y, III Nefi 9.
+18-2b, 3781: Moroni 2.
+18-2c, 3782: Véase c, III Nefi 12.
+19a, 3783: III Nefi 18:39.
+19b, 3784: III Nefi 17:3.
+19c, 3785: III Nefi 7:19.
+19d, 3786: Véase c, III Nefi 12.
+
+Corrections:
+Continues chapter 18 from page 525 (page 525 ended at letter x,
+3777); no chapter boundary at the start of this page, so letters
+continue y, z, then two-letter codes 2a-2c. Chapter 18 closes at
+v.39 (2c, 3782); chapter 19 opens immediately after with letter a
+(3783), sequential numbering continuing uninterrupted.
+None of this page's own letters (y, z, 2a, 2b, 2c, a, b, c, d) or
+their cross-reference target letters (y, c) are in the mandatory
+i/l/1 set, so no mandatory 1879 check applied. However, the first
+footnote glyph after "y" (this page's "z") printed as an over-inked
+blob with no clearly distinguishing shape, matching the swash/blob
+font pattern already seen on several recent pages, so a full
+discretionary 1879 check was run anyway rather than relying on
+sequence position and content-fit alone: BOM 1879 Pratt file page
+528 (chapter_map has no III Nefi rows; navigated by direct
+increment from page 525's established 1879 range, file 527 -> 528,
+content matches exactly, no drift) reads "z, Moro. 2. 2a, see y,
+III. Nep. 9. 2b, Moro. 2. 2c, see c, III. Nep. 12." and "a, III.
+Nep. 18:39. b, III. Nep. 17:3. c, III. Nep. 7:19. d, see c, III.
+Nep. 12." -- letter-for-letter and citation-for-citation identical
+to 1920's own z/2a/2b/2c/a/b/c/d here, confirming the "z" resolution
+and every other letter on the page. Body-marker placement and all
+twelve disciple names (v.4) were also cross-checked against 1879's
+parallel list ("Timothy...Jonas...Mathoni, and Mathonihah, his
+brother...Kumen...Kumenonhi...Jeremiah...Shemnon...Jonas...
+Zedekiah...Isaiah") and match exactly, including confirming
+"Matoni" is correctly unaccented here (distinct from "Matoníah",
+which is accented) -- both proper nouns, not logged as errors per
+rule 11.
+Two rule-7 hyphenated line-break rejoins kept in place (combined
+length stayed under 73 chars): v.2(ch.19) "mos-/traría" ->
+"mostraría"; v.4(ch.19) "Jere-/míah" -> "Jeremíah". One rule-7/8
+case where the rejoined marker+word moved to the start of the next
+line instead (combined length would have been 77 chars): v.39
+"[3782]dis-/cípulos" -> "[3782]discípulos," moved whole to the
+following line, per rule 7's "73 or more -> move to next line"
+clause.
+Suspected misprint preserved as printed per rule 32, pending
+Session E's 1886/RAE confirmation: v.39 "partio" (missing accent,
+expected "partió") -- confirmed at zoom, and independently
+corroborated by the Google OCR text (`google_text_1920/
+page_0548.txt`), which also transcribes it as plain "partio" with
+no accent.
+Scan-artifact call: v.38 "cubrió á" -- at zoom, what first looked
+like a short raised dash between "cubrió" and "á" ("cubrió-á") is
+not confirmed by the Google OCR text, which reads this spot clean
+as "cubrió á" with no dash character at all (matching the rule 36
+principle that Google's OCR reliably drops a mark that isn't
+actually printed type) -- treated as a print/scan artifact, not a
+genuine hyphen; transcribed as plain "cubrió á" with a normal
+single space. No `errors in 1920.txt` entry (not real type).
+Floating scan-artifact mark (not transcribed, matching the
+established precedent): a small raised dot appears above/after
+"hallaban" in v.39 ("hallabán así") -- "hallaban" takes no written
+accent under standard Spanish stress rules (llana, ends in "n"),
+and Google's OCR shows no mark there either.
+Google-text cross-check (`extract_google_text.py 526` /
+`check_google_crosscheck.py 526`) additionally flagged an apparent
+missing "y" in v.4(ch.19) ("y á Shemnon, [y] á Jonás") -- a fresh
+zoom confirmed the 1920 print clearly has both instances of "y";
+Google's OCR simply dropped one. No transcription change.
+"quiénes" (v.4, ch.19) matches this document's overwhelmingly
+established accented convention (59 accented instances vs. 2
+unaccented elsewhere in librodm.txt), not a page-specific issue --
+no `errors in 1920.txt` entry.
+Rule 31 space-before-semicolon normalizations applied throughout
+(original print spaces before a semicolon, removed per rule 31, no
+`errors in 1920.txt` entry): v.36 "tocaba ;" -> "tocaba;"; v.37
+"habló ;" -> "habló;"; v.39 "cielo ;" -> "cielo;"; ch.19 v.2
+"multitud ;" -> "multitud;"; v.3 "Jesús ;" -> "Jesús;"; v.4
+"Isaías ;" -> "Isaías;".
+Session B: independently re-verified all 9 Block 1 entries against a
+fresh read of the fn_zoom image, and all 9 body markers against
+fresh top/mid/bot crops. All match Session A's transcription
+exactly. No errors found.
+Session E: fresh pptext regeneration (`report_wsl_20260726j.html`)
+flagged 11 spellcheck/edit-distance suspects for this page's range.
+Nine are proper nouns (the twelve disciples list, v.4/ch.19: Jonás,
+Kumen, Kumenonhi, Matoni, Matoníah, Shemnon, Timoteo, Zedekíah,
+Jeremíah), all confirmed exactly as printed via the 1879 cross-check
+already run in Session A/B; added to `permitted words.txt` only, no
+`errors in 1920.txt` entries per rule 11. The other two are genuine
+new 1920-only errors: v.39(ch.18) "partio" (missing accent, expected
+"partió") -- confirmed against 1886 (book page 522/file 540, which
+reads "partió Él de" with the accent) and corroborated by the Google
+OCR text, which also reads plain "partio"; and ch.19 v.3 "seguiente"
+(expected "siguiente") -- 1886 shares the identical misspelling at
+the identical spot (book page 523/file 541, a shared-error case like
+"aparacerá"/"seperado"/"frustado"/"necessario"/"discipulos"), but RAE
+has no entry for "seguiente" at all (only "siguiente"), zero hits for
+"seguiente" across all three reference corpora (vs. 71 for
+"siguiente"), the modern Spanish edition uses "siguiente" at this
+verse, and 1886 itself correctly uses "siguiente" one verse earlier
+(19:2) -- both added to `errors in 1920.txt` and (since pptext
+flagged both this run) `permitted words.txt`. The earlier scan-
+artifact call on v.38 "cubrió á" (no dash) was independently
+corroborated by 1886, which prints the same spot as plain "cubrió á
+la multitud" with no dash or other mark. Full-document footnote-
+anchor check (max 3786, zero duplicates/out-of-range, only the
+pre-existing 812 gap), `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` (whole
+document), and an independent curly-quote scan all clean. No
+narrow-space-vs-merge judgment calls arose on this page.

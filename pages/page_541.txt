@@ -1,0 +1,168 @@
+Página 541
+15. Y sucedió, que después que se hubo ascendido al cielo la
+segunda vez que se hubo mostrado á ellos, y que hubo ido á su
+Padre, después de haber [3944]curado á todos los enfermos, y cojos,
+y de haber dado vista á los ciegos, y oído á los sordos, y después
+de haber hecho toda clase de curas entre ellos, y de haber levantado
+á un hombre de entre los muertos, y después que hubo
+mostrado su poder, y hubo ascendido al Padre,
+16. He aquí, que sucedió, que en la mañana siguiente, se reunió
+la multitud, y oyó y vió á estos niños; sí, [3945]aun los infantes
+abrían sus bocas, y anunciaban cosas maravillosas; y las cosas que
+dijeron, á nadie se le ha sido permitido de escribirlas.
+17. Y ocurrió, que desde entonces, los [3946]discípulos escogidos
+por Jesús empezaron á [3947]bautizar y á enseñar á todos los que
+venían á ellos; y tantos como fueron bautizados en el nombre
+de Jesús, se vieron [3948]llenos del Espíritu Santo.
+18. Y muchos de ellos vieron y oyeron inexplicables cosas,
+que [3949]no es permitido de escribir;
+19. Y enseñaron y se ministraron mutuamente, teniendo
+[3950]todas las cosas comunes entre sí, obrando con justicia unos con
+otros.
+20. Sucedió que hicieron todas las cosas, según Jesús se las
+había ordenado.
+21. Y á los que fueron [3951]bautizados en el nombre de Jesús, se
+les [3952]llamó la iglesia de Cristo.
+
+CAPÍTULO 27.
+
+1. Y aconteció, que según los [3953]discípulos se hallaban viajando
+y predicando las cosas que habían oído y visto, y estaban bautizando
+en el nombre de Jesús, he aquí, que se pusieron á orar y
+clamar á Dios con poderosa [3954]oración y [3955]ayuno.
+2. Y Jesús se les apareció de nuevo, porque pedían al Padre
+en su nombre; y apareciéndoseles, se puso en medio de ellos,
+y les dijo: ¿Qué es lo que queréis que os dé?
+3. Y ellos le dijeron: Señor, deseamos que nos indiques el
+nombre que hemos de dar á esta iglesia; porque hay disputas
+sobre este punto entre el pueblo.
+4. A lo que el Señor les respondió: En verdad, en verdad, os
+digo, ¿Cómo es que murmura y disputa el pueblo sobre esto?
+5. ¿No han leído las escrituras que dicen: Es necesario que
+toméis el [3956]nombre de Cristo, que es mi nombre? Porque por
+este nombre seréis llamados en el postrer día,
+
+26s, 3944: III Nefi 17:7-10.
+26t, 3945: Véase w, III Nefi 19.
+26u, 3946: Véase c, III Nefi 12.
+26v, 3947: IV Nefi 1:1; Véase u, II Nefi 9.
+26w, 3948: Véase y, III Nefi 9.
+26x, 3949: Véase w, III Nefi 19.
+26y, 3950: IV Nefi 1:2-3,25-26.
+26z, 3951: Véase u, II Nefi 9.
+26-2a, 3952: Véase d, Mosíah 26.
+27a, 3953: Véase c, III Nefi 12.
+27b, 3954: Véase e, II Nefi 32.
+27c, 3955: Véase t, Mosíah 27.
+27d, 3956: Versículos 6-10; Véase e, Mosíah 5.
+
+Corrections:
+Session B: independently re-verified all 13 Block 1 entries and all 13
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. Ran the mandatory 1879 check for entry 2 (t, 3945)
+using a fresh, independently-pulled 1879 crop (pages_1879/page_0543.png,
+not reused from Session A's overview read): the 1879 fn_zoom shows
+ordinary clear italic type -- "s, III. Nep. 17:7-10. t, see w, III.
+Nep. 19. u, see c, III. Nep. 12." / "v, IV. Nep. 1:1. See u, II. Nep.
+9. w, see y, III. Nep. 9. x, see w, III. Nep. 19." -- with an
+unambiguous crossbarred "t", confirming the Session A resolution (not
+the "i"-looking 1920 swash glyph) is correct.
+Page begins with a fresh verse (III Nefi 26:15, not a mid-sentence
+continuation from page 540, which ended cleanly at the close of v.14),
+so `Página 541` header IS included per rule 1, immediately followed
+by body text with no blank line, matching the fresh-verse-opening
+pattern (pages 530-536, 539, 540).
+Chapter 26 concludes on this page (v.15-21) and Chapter 27 opens
+mid-page (v.1-5, no subtitle line present between "CAPÍTULO 27." and
+v.1 -- checked the image directly, blank-line/heading/blank-line
+convention only). 9 footnote letters continue chapter 26 (s through
+the two-letter "2a" code), then 4 new letters open chapter 27 (a-d);
+13 footnote letters total on this page.
+Two rule-7 hyphenated line-break splits, both rejoined (checked every
+line ending against the image):
+- v.15 "levan-" / "tado" -> rejoined "levantado", appended to the
+  first line (67 chars, under the 73-char cap), no rebalancing needed.
+- III Nefi 27:1 "bauti-" / "zando" -> rejoined "bautizando", appended
+  to its first line (68 chars, under the cap), no rebalancing needed.
+Rule-31 space-before-punctuation cleanup applied throughout (original
+1920 print consistently sets a space before semicolons and colons,
+e.g. "niños ; sí" -> "niños; sí", "dijo :" -> "dijo:", "respondió :"
+-> "respondió:", "dicen :" -> "dicen:") -- removed per rule 31, no
+exception.
+v.4 "A lo que el Señor" -- zoomed to confirm the 1920 print genuinely
+sets a bare unaccented "A" here (not "Á"), consistent with "a" as an
+ordinary preposition/relative opener rather than the archaic accented
+"á" used elsewhere in this text for "to/at" -- transcribed as printed,
+not an error.
+Ambiguity/verification work on the footnote letters continuing
+Chapter 26 (Section 8 procedure): this block sits in the same heavily
+stylized swash font flagged on page 451/540, and multiple letters were
+initially misread from the 1920 image alone before a fresh, tighter
+zoom (and, for the mandatory case, the 1879 cross-check) resolved them:
+- Chapter 26's continuing letter sequence is s,t,u,v,w,x,y,z,2a (9
+  letters, following directly from page 540's last letter r). Resolved
+  against 1879 (chapter_map.csv: III Nefi 26 -> 1879 file page 543,
+  book page 535 for the s-x entries; III Nefi 27 -> 1879 file page 544,
+  book page 536 for the y/z/2a entries and the new chapter 27 a-d
+  entries), which lists this exact sequence with matching reference
+  content in the same order: "s, III. Nep. 17:7-10. t, see w, III. Nep.
+  19. u, see c, III. Nep. 12. v, IV. Nep. 1:1. See u, II. Nep. 9. w, see
+  y, III. Nep. 9. x, see w, III. Nep. 19." / "y, IV. Nep. 1:2,3,25,26.
+  z, see u, II. Nep. 9. 2a, see d, Mos. 26." -- content-for-content
+  match confirmed for every entry (Section 8 point 6/8), and every
+  target's content-fit against its 1920 body-text anchor word was also
+  independently confirmed (e.g. "s" lands on "curado" = "healed",
+  1879's own "s" lands on "healed all their sick"; full list checked
+  entry-by-entry, all fit).
+- Entry 2 (t, 3945): the current-chapter letter is literally "i"-shaped
+  in the 1920 image (short stroke, separated dot, no crossbar visible
+  even at 16x zoom) -- this triggered the MANDATORY i/l/1 cross-check
+  (Section 8) rather than the discretionary swash extension. 1879
+  settles it unambiguously as "t" (alphabetical position between s and
+  u, target "w" matches exactly, content-fit confirmed against "yea,
+  even babes did open their mouths"). Transcribed as "t" per the 1879
+  resolution, not the "i"-looking glyph -- this is exactly the
+  documented failure mode (Helamán 6, footnote 6n) the mandatory check
+  exists to prevent.
+- Entry 3's target (u, 3946): initially misread as "e"; re-zoomed at
+  16x and directly compared against this page's own clear "c" (chapter
+  27 entry a's target, "Véase c, III Nefi 12") and clear "e" (chapter
+  27 entry d's target, "Véase e, Mosíah 5") side by side -- the
+  ambiguous glyph is a plain closed hook with no tail, matching the "c"
+  comparator exactly and visually distinct from "e"'s hook-plus-tail
+  shape. Corrected to "c", confirmed by 1879 ("u, see c, III. Nep.
+  12.").
+- Entry 5's target (w, 3948): initially misread as "v"; re-zoomed at
+  16x and found a clear descender/tail below the baseline, the "y"
+  shape, not "v" (which has no descender in this font). Corrected to
+  "y", confirmed by 1879 ("w, see y, III. Nep. 9.").
+- Entry 6's current letter (x, 3949): initially misread as "z";
+  re-zoomed at 16x and found unmistakable crossed diagonal strokes (a
+  plain "x"), not the closed-loop "z" shape seen at entry 8 just below
+  it on the same crop. Corrected to "x", confirmed by 1879 ("x, see w,
+  III. Nep. 19.") and by there being only one "z" possible in a
+  strictly alphabetical sequence (entry 8, confirmed separately).
+- Entry 9 (26-2a, 3952): the 1920 print appears to render this
+  two-letter code as a swash "z"-plus-"a" ligature rather than 1879's
+  numeral "2a", but per the document's own established convention
+  (grep of librodm_foot.txt: "2a"/"2b" forms used throughout, e.g.
+  "9-2a", "20-2a", "27-2a") this is transcribed/formatted as "26-2a"
+  regardless of the source glyph's exact visual form, per rule 16.
+Footnote y (3950): "IV Nefi 1:2, 3, 25, 26" -- 2,3 are consecutive and
+25,26 are consecutive, but 3 and 25 are not, so this is two separate
+consecutive pairs, not one span. Converted to the mixed form
+"1:2-3,25-26" per rule 25.
+No narrow-space-vs-merge candidates found on this page.
+No rule-6 justification-widened double-space gaps found on this page.
+No suspected misprints (rule 32) found on this page.
+Rule 8: v.16's line ending in "abrían" hit 73 characters once [3945] was
+inserted; moved "abrían" to the start of the next line per rule 8.
+`check_line_wrap.py` flagged a large line-count gap (24 txt vs. 39 OCR),
+but this is a known false-positive shape for a page with a mid-page
+chapter boundary: the script's txt-side counter stops at the first
+blank line, which on this page is the chapter-heading blank line after
+v.21, not the end of the body -- so it only measured the chapter 26
+tail (24 lines) against an OCR count spanning the whole page (both
+chapters 26 and 27). Every line ending was confirmed directly against
+the top/mid/bot image crops per rules 5/6; no reflow occurred.

@@ -1,0 +1,153 @@
+Página 528
+en mí, y Tú ves que creen en mí, porque les oyes, y ellos oran á
+mí y oran á mí porque me hallo entre ellos.
+23. Y ahora, oh Padre, te pido por ellos, y también por todos
+los que crean en sus palabras, para que crean en mí, para que
+esté [3799]yo en ellos como Tú, Padre, estás en mí, para que seamos
+[3800]uno.
+24. Y sucedió, que cuando Jesús hubo orado así al Padre, se
+vino hacia sus discípulos, y, he aquí, que ellos continuaban
+todavía orando á Él sin cesar; lo que hacían sin multiplicar
+mucho las palabras, porque les había sido dado lo [3801]que debían
+pedir, y estaban llenos de deseo.
+25. Y ocurrió que bendíjoles entonces Jesús, mientras que
+dirigían á Él sus oraciones, y su semblante sonrió sobre ellos,
+y les iluminó la luz de su semblante de tal modo, que aparecieron
+blancos como el semblante, y también los vestidos de Jesús;
+y, he aquí, que eran tan blancos que [3802]excedían á toda blancura, de
+tal modo, sí, que no había nada sobre la tierra tan blanco como
+su blancura.
+26. Y díjoles Jesús: Continuad orando. Y continuaron en
+su oración.
+27. Y retirándose otra vez un poco de ellos, se fué algunos
+pasos y se inclinó á tierra, y oró de nuevo al Padre, diciendo:
+28. Padre, gracias te doy porque has purificado á los que he
+excogido á causa de su fe; y te ruego por ellos, y también por
+los que crean en sus palabras, para que sean purificados en mí,
+por la fe en sus palabras, del mismo modo que ellos se han purificado
+en mí.
+29. Padre, yo no te pido por el mundo, sino por aquéllos que
+Tú me has dado del mundo, por causa de su fe, para que se
+purifiquen en mí, y para que yo esté [3803]en ellos como Tú estás en
+mí, para que seamos uno, y yo sea glorificado en ellos.
+30. Y cuando Jesús hubo dicho estas palabras, volvióse otra
+vez á sus discípulos, y, he aquí, que oraban firmemente, sin cesar;
+y sonriéndoles de nuevo, he aquí, que aparecieron [3804]blancos hasta
+como Jesús.
+31. Y ocurrió, que retirándose otra vez un poco de ellos, oró.
+de nuevo al Padre;
+32. Y la [3805]lengua no puede hablar las palabras que oró, ni
+pueden ser escritas por ningún hombre las palabras de su oración.
+33. Y la multitud las oyó, y da testimonio de ellas, y se abrieron
+sus corazones, y comprendieron en sus corazones las palabras de
+su oración.
+34. No obstante, tan grandes y maravillosas fueron las palabras
+
+19q, 3799: Véase p, III Nefi 9.
+19r, 3800: Véase k, II Nefi 31.
+19s, 3801: Versículo 9.
+19t, 3802: Versículo 30.
+19u, 3803: Véase p, III Nefi 9.
+19v, 3804: Versículo 25.
+19w, 3805: III Nefi 17:16-17;26:14;28:14,16.
+
+Corrections:
+Continues chapter 19 from page 527 (page 527 ended at letter p, 3798);
+no chapter boundary on this page, letters continue q-w (7 entries,
+strictly sequential, no gaps).
+One rule-7 hyphenated line-break rejoin: v.28 "puri-/ficado" ->
+"purificado" -- appending it to the first line keeps that line at 69
+chars, under the cap, so it stays there (no rule-8 rebalancing needed);
+"en mí." starts the next line.
+One page-boundary hyphen split (rule 10), resolved once page 529 was
+transcribed: v.34's last word, "pala-", completes as "palabras"
+("...fueron las palabras de su oración..."). Appending the whole word
+here keeps this line at 63 characters, under the cap, so it was placed
+on this page; page 529's body begins with the following word, "de",
+instead. See `pages/page_529.txt`'s own Corrections log for the
+matching note.
+Three zero-width print merges normalized to two words per the
+2026-07-22 rule-6 default (grammar requires two words; no zoom/pixel
+analysis performed, not logged in `errors in 1920.txt`): v.22 "ves que"
+(printed "vesque"), v.25 "que eran" (printed "queeran"), v.30 "que
+oraban" (printed "queoraban").
+Six space-before-semicolon/colon instances normalized per rule 31: v.24
+"cesar ;" -> "cesar;", v.25 "Jesús ;" -> "Jesús;", v.27 "diciendo :" ->
+"diciendo:", v.26 "Jesús :" -> "Jesús:", v.28 "fe ;" -> "fe;", v.30
+"cesar ;" -> "cesar;", v.31 "Padre ;" -> "Padre;" (seven total).
+Footnote w's citation prints with spaces around each colon in the 1920
+image ("III Nefi 17 : 16, 17 ; 26 : 14 ; 28 : 14, 16.", confirmed via a
+tight zoom crop); normalized per rules 22/23 to "III Nefi 17:16-17;
+26:14;28:14,16." -- verses 16 and 17 of chapter 17 are consecutive, so
+they become a hyphenated range per rule 23, unlike chapter 28's
+non-consecutive 14 and 16, which stay comma-separated.
+This page's own letters (q-w) are none of them i/l/1, so no mandatory
+1879 check applied. Letters q and r were independently zoom-confirmed
+against their matching glyph shapes in the footnote block itself (q:
+small loop-with-tail shape before "yo", matching "q, Véase p..."; r:
+small hook shape before "uno", matching "r, Véase k..."). Letters s-w
+were assigned by strict sequential position (rule 13) plus strong
+content-fit for each: s ("Versículo 9") sits at v.24's "lo que debían
+pedir" -- a callback to this chapter's own v.9, "Pidiéndole por lo que
+más deseaban... que les fuese dado el Espíritu Santo" (page 527); t
+("Versículo 30") sits at v.25's "excedían á toda blancura" and
+forward-cites v.30's own "aparecieron blancos hasta como Jesús" -- a
+mutual pair, confirmed by v ("Versículo 25") sitting at v.30 and
+back-citing v.25 in return; u (Véase p, III Nefi 9 -- identical
+citation to q) sits at v.29's near-identical repeat of v.23's own
+phrasing ("esté yo en ellos como Tú... estás en mí"), the same target
+as q for the same recurring wording; w (III Nefi 17:16-17;26:14;
+28:14,16, a citation chain about the ineffability of the words spoken)
+sits at v.32's "la lengua no puede hablar las palabras que oró."
+Google-text cross-check (`extract_google_text.py 528` /
+`check_google_crosscheck.py 528`) reported 3 candidates. Two were
+confirmed at zoom to be OCR misses, not transcription errors: v.25 "y
+les iluminó" (the "y" is genuinely printed, confirmed at zoom --
+Google's OCR just dropped it) and v.29 "aquéllos" (the accent is
+genuinely printed, confirmed at zoom -- Google's OCR is diacritic-blind
+here, a known pattern). The third caught a genuine transcription gap: v.31
+prints a solid, full-size period after "oró" ("...un poco de ellos,
+oró. de nuevo al Padre;") that the initial read had missed entirely --
+confirmed at zoom (same size/shape as the page's other periods, not a
+scan speck) and confirmed against 1886 (book page 525/file 543), which
+reads the clause continuously with no punctuation at all between "oró"
+and "de nuevo" -- a genuine 1920-only error, transcribed as printed
+per rule 32 and added to `errors in 1920.txt` (III Nefi 19:31); no
+`permitted words.txt` entry needed (punctuation, not spelling).
+No other suspected misprints found on this page; text reads cleanly and
+matches expected content throughout.
+Session B: independently re-verified all 7 Block 1 entries and all 7
+body markers (q-w) from fresh crops of the footnote block and each
+body line; all reconfirmed exactly as Session A read them. No errors
+found.
+Session D: `generate_block2.py` resolved all 7 Block 2 cross-references
+with no unresolved targets. III Nefi 9's own footnote p (seq. 3576,
+resolved target of both q and u) cites "III Nefi 11:27; 19:23,29;
+Éther 3:14" -- verses 23 and 29 are exactly where q and u were placed,
+an independent mutual confirmation of both the letter identity and the
+body-marker positions.
+Session E: fresh pptext regeneration (`report_wsl_20260727b.html`)
+flagged one new spellcheck/edit-distance suspect for this page's range:
+v.28 "excogido" (edit distance 1 from "escogido," which appears 29
+other times in the document). Confirmed at zoom to be printed with an
+unambiguous "x" (not a poorly-printed "s"), confirmed against 1886
+(book page 525/file 543: "he escogido á cáusa de su fé," with "s"),
+confirmed via the local reference corpora (zero hits for "excogido"
+across all three vs. 73 combined for "escogido"; "excoger" is not a
+Spanish verb), and confirmed via the modern Spanish edition
+(churchofjesuschrist.org, 3 Nefi 19:28: "escogido") -- a genuine
+1920-only error, added to both `errors in 1920.txt` and `permitted
+words.txt`. The v.31 "oró." spurious-period finding (see above) was
+independently re-surfaced by this same pptext run's "full stop followed
+by unexpected sequence" check, corroborating the earlier catch from the
+Google-text cross-check. Independent full-document footnote-anchor check
+(direct regex scan of `librodm.txt`, not just the pptext report): max
+3805, zero duplicates, zero out-of-range, only the pre-existing 812 gap.
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document) and an independent curly-quote
+character scan of both master files all clean. Dash check, hyphenation/
+spaced-pair check, scanno check, special situations, book-level checks,
+and Jeebies all came back clean for this page's range -- this page's
+body text has no hyphens remaining after the one rule-7 rejoin (besides
+the pending page-boundary "pala-"), so no dash-check findings applied.
+Page 528 now has Sessions A-E complete.

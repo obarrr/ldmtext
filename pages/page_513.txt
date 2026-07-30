@@ -1,0 +1,149 @@
+Página 513
+33. Y está escrito otra vez: No te perjurarás, sino que cumplirás
+tus juramentos al Señor.
+34. Mas en verdad, en verdad os digo: No juréis de ninguna
+manera; ni por el cielo, porque es el trono de Dios;
+35. Ni por la tierra, porque es la peana de sus pies;
+36. Ni siquiera jurarás por tu cabeza, pues que tú no puedes
+hacer ni un pelo negro ó blanco;
+37. Sino que vuestro modo de comunicaros sea: Sí, sí; no, no;
+pues lo que fuere más que esto, de lo malo viene.
+38. Y, he aquí, que está escrito: Ojo por ojo, y diente por
+diente.
+39. Mas dígoos, que no resistáis al mal, sino que á quienquiera
+que te hiriere en la mejilla derecha, vuélvele la otra
+también.
+40. Y si alguien te demandare ante la ley, y te quitare tu
+túnica, déjele llevar tu capa también.
+41. Y quienquiera que te compeliere á marchar una milla,
+anda con él el doble.
+42. Da á quién te pida, y á quién te pidiere prestado, no le
+despidas.
+43. Y, he aquí, que está escrito también: Amarás á tu prójimo,
+y aborrecerás á tu enemigo;
+44. Mas, he aquí, que os digo: Amad á vuestros enemigos,
+bendecid á los que os maldigan, haced bien á los que os aborrezcan,
+y orad por los que os traten con menosprecio, y os persigan;
+45. Para que seáis los hijos de vuestro Padre que está en los
+cielos; puesque Él hace que su sol se levante sobre los malos
+y sobre los buenos;
+46. Por tanto, estas cosas de la antigüedad, que se hallaban
+bajo la ley, en mí se han [3684]todas cumplido.
+47. Lo antiguo [3685]ha desaparecido ya, y todo se ha renovado;
+48. Por tanto, quisiera que fueseis perfectos aun [3686]como yo
+lo soy, ó vuestro Padre que está en el cielo es perfecto.
+
+CAPÍTULO 13. (Véase Mateo 6.)
+
+1. En verdad, en verdad os digo, que quisiera que hiciereis
+limosnas á los pobres; mas mirad que no las hagáis ante los
+hombres, para ser vistos de ellos; puesque entonces no recibiréis
+ningún galardón de vuestro Padre que está en el cielo.
+2. Por tanto, cuando hagáis vuestras limosnas, no toquéis la
+trompeta ante vosotros, como harán los hipócritas en las
+[3687]sinagogas, y en las calles, para así ganar gloria humana. En
+verdad os digo, que tienen su recompensa.
+
+12w, 3684: Véase o.
+12x, 3685: III Nefi 15:2,3.
+12y, 3686: Mateo 5:48; III Nefi 19:25-29; 27:27.
+13a, 3687: Véase u, Alma 16.
+
+Corrections
+- Continues chapter 12 from page 512 (page 512 ended at letter v,
+  3683); no chapter boundary until chapter 13 opens mid-page at
+  verse 2, so letters continue w-y for the chapter 12 tail, then
+  restart at a for chapter 13; sequential numbering continues at
+  3684. Verse-initial lines transcribed flush left with no leading
+  indent, per the 2026-07-25e standing convention.
+- Rule 7 hyphenated line-break rejoins: v.33 "cum-/plirás" ->
+  "cumplirás"; v.39 "quien-/quiera" -> "quienquiera"; v.43
+  "pró-/jimo" -> "prójimo"; ch.13 v.2 "sina-/gogas" -> "sinagogas"
+  (marker [3687] placed immediately before the rejoined word). All
+  four rejoined lines stayed under the 72-char cap, no rule 8
+  rebalancing needed.
+- Rule 31/rule 6 space-before-punctuation and double-space
+  normalizations applied throughout (e.g. "vez :" -> "vez:", "os
+  digo :" -> "os digo:", "manera ; ni" -> "manera; ni", "Dios ;" ->
+  "Dios;", "sea :  Sí, sí ;" -> "sea: Sí, sí;", "no ;" -> "no;",
+  "escrito :" -> "escrito:", "Ni  por" -> "Ni por", "al  mal, sino
+  que" -> "al mal, sino que", "también :  Amarás" -> "también:
+  Amarás", "enemigo ;" -> "enemigo;", "os digo :  Amad" -> "os digo:
+  Amad", "cielos ; puesque" -> "cielos; puesque", "buenos ;" ->
+  "buenos;", "renovado ;" -> "renovado;", "CAPÍTULO 13.  (Véase" ->
+  "CAPÍTULO 13. (Véase", "pobres ; mas" -> "pobres; mas", "ellos ;
+  puesque" -> "ellos; puesque", "humana.  En" -> "humana. En") --
+  all original-print justification artifacts, no content change.
+- Scan artifact, not transcribed as printed: v.34 "por'el" -- a raised
+  stray ink mark sits in the gap between "por" and "el" instead of a
+  plain space. Confirmed against 1886 (file page 527, book page 509),
+  which prints a plain unmarked space at the identical spot ("ni por
+  el cielo"). Transcribed as "por el" with a normal single space,
+  matching the established floating-mark precedent (pages 483, 490,
+  492, 494, 497, 500, 512). No `errors in 1920.txt` entry (not a
+  misprint, a physical mark).
+- Ink-blot artifact, not transcribed as printed: v.39 "hiriere" --
+  the 1920 print shows "hirier" followed by a solid black blob with no
+  discernible letter shape where "e" belongs (over-inked type, the
+  opposite defect from the "giandes"-style under-inked/dotless-stroke
+  precedent). Grammar requires "hiriere" (subjunctive future of
+  "herir," matching "quienquiera que" earlier in the same verse), and
+  1886 (file page 527, book page 509) confirms "hiriere" in full at the
+  identical spot. Transcribed as "hiriere" per grammar/1886; no
+  `errors in 1920.txt` entry (a physical ink defect obscuring a letter,
+  not a legible alternate-word substitution).
+- Mandatory/discretionary letter-ambiguity resolution: none of this
+  page's own chapter-12-tail letters (w, x, y) or chapter 13's first
+  letter (a) are i/l/1, but the reference font on this page is the
+  same heavily stylized cursive seen on pages 509/510, and two of the
+  three chapter-12-tail glyphs were genuinely ambiguous by shape alone
+  (the "x" and "y" both looked like plain "z"/"v" at every zoom tried,
+  with no clearly visible distinguishing stroke). Resolved via the
+  alphabetical-sequence inference (rule: chapter 12's lettering must
+  continue strictly from page 512's last letter, v, with no gaps --
+  see Section 8) plus a strong content-fit check for each: w's "Véase
+  o." cross-references chapter 12's own o (3676, "Versículos 18,46;
+  III Nefi 9:17; 15:4-10" -- a direct self-citation of verse 46, the
+  very verse w annotates); x's direct citation "III Nefi 15:2,3"
+  thematically fits v.47's "lo antiguo ha desaparecido ya" (the old
+  law passing away); y's direct citation "Mateo 5:48; III Nefi
+  19:25-29; 27:27" is the literal parallel-Bible-verse citation for
+  v.48's "sed perfectos ... como yo lo soy." Independently confirmed
+  via BOM 1879 Pratt file page 515 (book page 507, chapter_map lists
+  III Nefi ch.12 1879 file as 512 but content lands three pages later,
+  extending the two-page drift already established on pages 511/512 by
+  one more page), which reads letter for letter and citation for
+  citation identical to 1920: "w, see o. x, III. Nep. 15:2, 3. y,
+  Math. 5:48. III. Nep. 19:25-29. 27:27." Chapter 13's own letter a
+  ("Véase u, Alma 16") independently confirmed via BOM 1879 Pratt file
+  page 516 (book page 508): "a, see u, Alma 16."
+- v.36 "ó" (unaccented conjunction) and v.48 "ó" match the document's
+  long-standing "ó"/"o" convention already established throughout the
+  rest of the text; not logged as page-specific.
+- Session B: independently re-verified all 4 Block 1 entries and body
+  markers against fresh crops of pages_1920/page_0535.png, and re-ran
+  the discretionary swash-letter check from fresh crops of BOM 1879
+  Pratt file pages 515 and 516. Both reconfirmed exactly: file 515's
+  footnote block reads "w, see o. x, III. Nep. 15:2, 3. y, Math. 5:48.
+  III. Nep. 19:25-29. 27:27." and file 516's reads "a, see u, Alma
+  16. b, see t, Mos. 27." No errors found.
+- Session E: fresh pptext regeneration (`report_wsl_20260725f.html`)
+  came back clean for this page's range -- zero new Spellcheck Suspect
+  Words or Edit Distance hits (only the pre-existing, unrelated
+  "Profecia"/"PROFECIA" items from page 469 remain); footnote-anchor
+  check (union of both buckets) confirmed the full 1-3687 range with
+  zero duplicates/out-of-range, only the pre-existing 812 gap; scanno
+  and curly-quote checks clean; the "spaced punctuation" section is
+  absent from the report entirely (zero findings document-wide,
+  matching `check_spaced_punctuation.py`/`check_footnote_punctuation.py`,
+  both run clean); dash check has no hyphens in this page's range at
+  all (all four rule-7 rejoins removed the only candidates);
+  special-situations and paragraph-level checks (including "full stop
+  followed by unexpected sequence") show nothing from this page's line
+  range, only pre-existing hits from earlier pages; `check_verse_
+  indent.py` clean document-wide; Jeebies clean. Both of this page's
+  own suspected-artifact Corrections items (v.34 "por el," v.39
+  "hiriere") were already checked against 1886 at transcription time
+  and confirmed as physical print/scan defects, not spelling
+  questions -- no `errors in 1920.txt` or `permitted words.txt`
+  entries needed for either. No new findings required for this page.

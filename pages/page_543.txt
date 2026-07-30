@@ -1,0 +1,194 @@
+Página 543
+[3962]separaré y arrojaré al fuego, de dónde no se puede volver más,
+por causa de la justicia de mi Padre;
+18. Y esta es la palabra que Él ha dado á los hijos de los
+hombres Por esto es por lo que Él cumple las palabras que Él
+ha dado, porque Él no puede mentir, sino que cumple todas sus
+palabras;
+19. Y [3963]nada impuro puede entrar en su reino; por lo que,
+nadie puede entrar en su reposo, sino aquéllos que han lavado
+sus vestidos en mi sangre, por medio de su fe, y del arrepentimiento
+de todos sus pecados, y de su fidelidad hasta el [3964]fin.
+20. Este es, pues, el mandamiento: Arrepentíos, vosotros
+todos los extremos de la tierra, y venid á mí, para que seáis
+[3965]bautizados en mi nombre, y seáis [3966]santificados, recibiendo al
+Espíritu Santo, para que en el postrer día aparezcáis limpios
+de toda mancha en mi presencia.
+21. En verdad, en verdad, os digo, que este es mi evangelio;
+y que ya sabéis las cosas que tenéis que hacer en mi iglesia;
+porque las obras que me habéis visto hacer esas mismas son las
+que vosotros debéis hacer; por lo tanto, haced lo que me habéis
+visto hacer.
+22. Porque si así lo hiciereis, sobre vosotros caerá la bendición,
+y seréis [3967]exaltados en el postrer día.
+23. Escribid las cosas que habéis visto y oído, excepto aquéllas
+[3968]que fueran prohibidas.
+24. Escribid las obras de este pueblo que serán aun como
+ya han sido escritas, de lo que ha existido;
+25. Porque, he aquí, que, [3969]por los libros que se han escrito,
+y por los que se escribirán [3970]será juzgado este pueblo, porque
+por medio de ellos serán sus obras conocidas de los hombres.
+26. He aquí, que todas las cosas han sido [3971]escritas por el
+Padre; por tanto, el mundo será juzgado según lo que se halle
+escrito [3972]en los libros.
+27. Y sabed que vosotros [3973]seréis los jueces de este pueblo,
+según el juicio que yo os dé, que será justo: Por lo tanto, ¿Qué
+clase de hombres habríais de ser? en verdad os digo, que debéis
+ser como yo soy.
+28. Y ahora, voy al Padre. Y os digo, en verdad, que cuantas
+cosas pidáis al Padre en mi nombre, os serán concedidas;
+29. Por lo tanto, [3974]pedid, y recibiréis; llamad, y se os abrirá;
+porque él que pide, recibe, y al que llama, se le abre.
+30. He aquí, ahora, que mi gozo es grande, aún hasta la plenitud,
+á causa de vosotros, y también por esta generación; sí,
+
+27j, 3962: Véase k, I Nefi 15.
+27k, 3963: Alma 11:37; Véase r, Alma 7.
+27l, 3964: Véase h, II Nefi 31.
+27m, 3965: Véase u, II Nefi 9.
+27n, 3966: Véase v, III Nefi 9.
+27o, 3967: Véase p, Mosíah 23.
+27p, 3968: III Nefi 26:16,18.
+27q, 3969: Versículo 26; Véase c, II Nefi 27.
+27r, 3970: Véase i, II Nefi 29.
+27s, 3971: III Nefi 24:16.
+27t, 3972: Versículo 25; Véase c, II Nefi 27.
+27u, 3973: I Nefi 12:9-10; Mormón 3:19.
+27v, 3974: III Nefi 14:7-8.
+
+Corrections:
+Page continues Chapter 27 (v.17 cont.-30, no chapter boundary, no
+subtitle) from page 542; v.17 opens mid-sentence ("separaré y
+arrojaré al fuego...") and v.30 is cut off mid-sentence at "sí," and
+continues on page 544.
+Rule-7 hyphenated line-break rejoins: v.19 "arrepenti-" / "miento" ->
+rejoined "arrepentimiento", appended to the first line (68 chars,
+under the 73-char cap), no rebalancing needed. v.30 "pleni-" / "tud,"
+-> rejoined "plenitud,", appended to the first line (65 chars, under
+the cap), no rebalancing needed.
+Suspected misprint (rule 32), v.18: the 1920 print has a visibly wide
+gap between "hombres" and "Por esto" with NO period -- preserved as
+printed (gap normalized to a single space per the unconditional rule-6
+normalization; no period inserted). Confirmed via 1886 (pages_1886/
+page_0557.png), which reads "hombres. Por esto..." with a clear
+period at this spot -- strong evidence 1920 dropped the period here.
+Recommend an `errors in 1920.txt` entry (III Nefi 27:18, missing
+period after "hombres", evidence: 1886) -- flagged for Session E to
+formalize.
+Rule-23 verse-range normalization applied per the mechanical rule
+(not a correction to the source, just citation formatting): 27u's "I
+Nefi 12: 9, 10" -> "I Nefi 12:9-10" (consecutive verses) and 27v's
+"III Nefi 14: 7, 8" -> "III Nefi 14:7-8" (consecutive verses); 27p's
+"III Nefi 26: 16, 18" is non-consecutive (16 and 18) and stays
+comma-separated per rule 24, unchanged.
+Mandatory 1879 check for the current-chapter letter "l" (3964, in the
+i/l/1 set per Section 8): chapter_map.csv lists III Nefi 27 -> 1879
+file page 544 (book page 536); the matching j-n entries are on the
+next 1879 file page (545, book page 537), fn_zoom read directly: "j,
+see k, I. Nep. 15. k, Alma 11:37. See r, Alma 7. l, see h, II. Nep.
+31. m, see u, II. Nep. 9. n, see y, III. Nep. 9." -- an exact
+content-for-content match to 1920's j, k, l, and m entries (n's
+target letter differs, see note below), confirming "l" (not an i/1
+misread) via its "Véase h, II Nefi 31" content matching 1879's "l,
+see h, II. Nep. 31." exactly.
+The body-text "l" superscript itself (before "fin", v.19) was also
+independently confirmed via same-page glyph comparison: its small
+curved/comma-like shape (fresh zoom, distinct from the short-stroke-
+with-separated-dot "i" shape and from a plain digit "1") matches the
+fn block's own "l" glyph (before "Véase h, II Nefi 31").
+Cross-reference target-letter discrepancies noted (not logged as
+errors -- expected translation-order divergence per rule 26, since
+these are the TARGET chapter's own lettering, not a misread of this
+page's own glyphs): 27r's target reads clearly as "Véase i, II Nefi
+29" in the 1920 image (independently zoom-confirmed twice, textbook
+short-stroke-with-separated-dot "i" shape -- satisfies the mandatory
+i/l/1 check), but 1879's equivalent entry reads "r, see j, II. Nep.
+29." Checked II Nefi 29's own already-transcribed Block 1 in
+librodm_foot.txt: 1920's target "29i" (line 853, "746: Véase c, II
+Nefi 27") is a weaker content fit for v.25's "por los libros...será
+juzgado este pueblo" than 1879's likely target "29j" (line 854, "747:
+II Nefi 25:18,22; 29:12-14; III Nefi 27:23-26; Revelaciones 20:12" --
+Revelation 20:12 is literally the "judged out of the books" passage).
+Neither target is implausible on its own (29i's chain lands on II
+Nefi 27, which q and t on this same page already cite directly for
+similar content), so this is preserved as printed per rule 32.
+**Resolved (editor, 2026-07-29)**: the editor independently checked
+target "i" in II Nefi 29 and confirms it lands in a verse about being
+judged according to the books -- topically related to v.25's "por
+los libros...será juzgado este pueblo" even though it differs from
+1879's "j" -- no issue, preserved as printed per rule 26 (expected
+translation-order divergence).
+Separately, 27n's target reads "Véase v, III Nefi 9" in 1920 vs
+1879's "n, see y, III. Nep. 9". **Investigated further (2026-07-29,
+per editor's request)**: checked what III Nefi 9's own letters "v"
+and "y" actually cite, in both editions (they agree with each other
+on content for both letters, so this isn't a case of the two editions
+labeling the same content differently -- v and y are genuinely
+different footnotes in chapter 9 itself). 9v = "III Nefi 15:2-8"
+(Jesus explaining the other sheep / law of Moses fulfilled). 9y = a
+40+ citation mega-chain (I Nefi 10...Ether...Moroni 2; 3:4; 4:3; 5:2;
+6:4,9...), notably including Moroni 2-6 -- the ordinance for
+conferring the Holy Ghost. 27n itself annotates v.20's "seáis
+[3966]santificados, recibiendo al Espíritu Santo" -- a strong
+thematic fit for 9y's Holy-Ghost-heavy citation chain, and a weak fit
+for 9v's unrelated "other sheep" content. Unlike 27r above, this does
+NOT look like an innocent translation-order letter drift -- both
+editions agree on what v and y each individually mean in chapter 9,
+so 1920 and 1879 are pointing 27n at two substantively different
+targets, and the content evidence favors 1879's "y" as the better
+fit. **Logged (editor approved, 2026-07-29)**: added to `errors in
+1920.txt` as "Footnote III Nefi 27n, 3966 Véase v, III Nefi 9
+(posiblemente Véase y, III Nefi 9)" (inserted at its correct
+book/chapter/verse position, between the existing III Nefi 27:18 and
+27:30 entries), phrased as a possible/investigated error rather than
+a certainty, since neither edition explicitly confirms which letter
+is correct.
+All non-i/l/1 footnote letters (j, k, m, n, o, p, q, r, s, t, u, v)
+were also confirmed via same-page body-text/fn-block glyph comparison
+at zoom (each superscript shape matched its corresponding fn-block
+entry glyph); see the 1879 block quoted above for the independent
+cross-check covering j, k, m (and n's content, letter divergence
+aside).
+Rule-31 space-before-punctuation cleanup (mechanical, no exceptions
+per the rule): "Padre ;" -> "Padre;" (v.17 end, v.26), "palabras ;"
+-> "palabras;" (v.18), "reino ;" -> "reino;" (v.19), "mandamiento :"
+-> "mandamiento:" (v.20), "evangelio ;" -> "evangelio;" (v.21),
+"iglesia ;" -> "iglesia;" (v.21), "hacer ;" -> "hacer;" (v.21),
+"justo :" -> "justo:" (v.27), "concedidas ;" -> "concedidas;" (v.28),
+"recibiréis ;" -> "recibiréis;" and "abrirá ;" -> "abrirá;" (v.29),
+"generación ;" -> "generación;" (v.30).
+No narrow-space-vs-merge candidates found on this page (the v.18
+"hombres  Por esto" gap is a missing-punctuation misprint, not a
+narrow-space-vs-merge case -- both words are already fully separated
+by a wide gap).
+Session B: independently re-verified all 13 Block 1 entries and all
+13 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A) -- all reference text and marker placements
+confirmed matching exactly. Re-ran the mandatory 1879 check for the
+"l" letter (3964) using a second, independently-pulled crop of 1879
+file page 545 (also not reused from Session A) -- confirmed the same
+unambiguous "l, see h, II. Nep. 31." reading, settling "l" (not an
+i/1 misread).
+Session D (`generate_block2.py 543`): all 13 entries resolved cleanly
+to bare sequential numbers, no unresolved cross-references.
+Session E: fresh pptext regeneration (`report_wsl_20260729d.html`) --
+zero new spellcheck/edit-distance hits in the new page's line range
+(all hits landed in the pre-existing, already-benign "short lines
+check" category, plus one expected "paragraph ends in comma" hit at
+the page's own cut-off point, v.30's "...generación; sí," -- normal
+for the currently-latest transcribed page, since it ends mid-verse
+awaiting page 544), zero new footnote-anchor gaps/duplicates
+introduced by this page (a whole-document `\[(\d+)\]` scan found
+exactly one gap, footnote 812, the long-since-documented Jacob 2:15
+case -- unrelated to this page), zero curly quotes, and a clean
+full-document run of `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py`. The v.18
+missing-period misprint (see above) was formalized into `errors in
+1920.txt` this session (no `permitted words.txt` entry needed --
+punctuation, not spelling). No other new `permitted words.txt` or
+`errors in 1920.txt` entries needed. Narrow-space-vs-merge candidates
+to flag for the editor per `feedback_narrow_space_vs_merge`: none on
+this page. Cross-reference target-letter discrepancies to flag for
+the editor (not logged as errors, see full writeup above): 27r
+("Véase i, II Nefi 29" vs 1879's "see j") and 27n ("Véase v, III Nefi
+9" vs 1879's "see y").

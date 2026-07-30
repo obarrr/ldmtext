@@ -1,0 +1,219 @@
+sea [3905]bautizado, el mismo se salvará. Escudriñad á los profetas,
+porque muchos son los que testifican estas cosas.
+6. Y ahora, ocurrió, que cuando Jesús hubo dicho estas palabras,
+después que les hubo explicado todas las escrituras que
+habían recibido, les dijo otra vez: He aquí, quisiera que escribieras
+otras escrituras, que vosotros no tenéis.
+7. Y sucedió que dijo á [3906]Nefi: Trae los anales que has guardado.
+8. Y cuando Nefi trajo los anales, y los presentó delante de
+Él, puso sus ojos sobre ellos, y dijo:
+9. En verdad, os digo, que mandé á mi siervo [3907]Samuel, el
+Lamanita, que testificara á este pueblo, que en el día en que el
+Padre glorificara su nombre en mí, habrían [3908]muchos santos que
+se levantarían de entre los muertos, y aparecerían á muchos,
+y les ministrarían. Y les dijo: ¿No sucedió así?
+10. Y sus discípulos contestaron, y le dijeron: Sí, Señor,
+Samuel profetizó según tus palabras, y todas fueron cumplidas.
+11. Y Jesús les dijo: ¿Cómo es que no habéis escrito esto,
+de que muchos santos se levantaron y aparecieron á muchos, y
+les ministraron?
+12. Y sucedió, que Nefi se acordó, de que ésto no se había
+escrito.
+13. Y, sucedió, que mandó Jesús que se escribiera; por lo
+tanto, se escribió según su mandamiento.
+14. Y sucedió, ahora, que cuando Jesús les hubo explicado
+todas las escrituras en una, lo que habían escrito, les mandó
+que enseñasen las cosas que Él les había explicado.
+
+CAPÍTULO 24. (Véase Malaquías 3.)
+
+1. Y sucedió, que les mandó que escribieran las palabras que
+el Padre había dado á Malaquías, que Él se las dijera. Y sucedió
+que después que fueron escritas, se las explicó. Y estas son las
+palabras que les habló, diciendo: Así dijo el Padre á Malaquías:
+[3909]He aquí, enviaré á mi mensajero, el cuál preparará el camino
+delante de mí, y de [3910]pronto vendra á su templo el Señor, á Quién
+vosotros buscáis, aún el mensajero de la alianza, en la cual os
+deleitáis; he aquí, él vendrá, dice el Señor de los Ejércitos.
+2. Y, ¿quién podrá [3911]aguantar el día de su venida? y, ¿quién
+podrá pararse, cuando Él se mostrare? Porque Él es como fuego
+purificador, y como jabón de bataneros.
+3. Y sentarse há como refinador y purificador de plata, y
+
+23c, 3905: Véase u, II Nefi 9.
+23d, 3906: III Nefi 8:1-2.
+23e, 3907: Helamán Capítulo 13.
+23f, 3908: Véase g, Jacob 4; Helamán 14:25-26.
+24a, 3909: Doctrinas y Convenios 45:9; Isaías 66:6; 40:3-5,9-11; 59:20-21.
+24b, 3910: Isaías 2:2-4; Miquéas 4:1-4; III Nefi 20:22; 21:25.
+24c, 3911: III Nefi 25.
+
+Corrections:
+Page begins mid-verse (continuation of III Nefi 23:5 from page 536,
+"y se arrepienta, y sea bautizado..."), so no `Página 537` blank-line/
+header per rule 1 (same precedent as pages 535, 536). Chapter 23
+continues with letters c-f (23c-23f), then chapter 24 opens mid-page
+within the same book (III Nefi) with letters restarting a-c (24a-24c)
+-- no blank line in Block 1 per rule 20, only the letter reset signals
+the boundary.
+Mandatory i/l/1 check: no superscript or cross-reference letter on
+this page is i, l, or 1 -- chapter 23's own continuing letters here
+are c, d, e, f; chapter 24's own letters are a, b, c; the two
+cross-reference target letters are u (23c, "Véase u, II Nefi 9") and
+g (23f, "Véase g, Jacob 4"). All confirmed via zoomed crops (fn_zoom
+and individual glyph zooms of every marker in the body text); none
+required the 1879 mandatory check.
+Content-fit sanity check (Section 8) on all 7 Block 1 targets: 23c
+(II Nefi 9, atonement/salvation) fits v.5's baptism/salvation text;
+23d (III Nefi 8:1-2) fits the record-keeping context around v.7's
+"Nefi"; 23e (Helamán Capítulo 13, Samuel the Lamanite's own prophecy
+chapter) fits v.9's naming of "Samuel"; 23f (Helamán 14:25-26, graves
+opening and saints rising) is an exact match for v.9's "muchos santos"
+resurrection text; 24a (Malachi messenger prophecies) fits v.1's
+"enviaré á mi mensajero"; 24b (Isaiah 2/Micah 4 temple-gathering
+prophecies) fits v.1's "vendrá á su templo"; 24c (III Nefi 25, the very
+next chapter, itself the continuation of this same Malachi quotation)
+fits v.2's "aguantar el día de su venida" as a forward continuation
+reference. All resolved letters confirmed plausible; no red flags.
+Mechanical pass: two rule-7 hyphen rejoins. "pala-"/"bras" (v.6) ->
+"palabras," -- rejoined line ("6. Y ahora, ocurrió, que cuando Jesús
+hubo dicho estas palabras,") is 64 characters, stays on the first
+line. "es-"/"cribieras" (v.6) -> "escribieras" -- rejoined line
+("habían recibido, les dijo otra vez: He aquí, quisiera que
+escribieras") is 69 characters, stays on the first line. No rule-8
+overflow occurred anywhere else on the page.
+Numerous rule-31 space-before-punctuation fixes (this page's print
+consistently sets a space before colons and semicolons): "vez :" ->
+"vez:", "dNefi :" -> "Nefi:", "y dijo :" (v.8) -> "y dijo:", "dijo :
+¿No" (v.9) -> "dijo: ¿No", "dijeron :" (v.10) -> "dijeron:", "dijo :
+¿Cómo" (v.11) -> "dijo: ¿Cómo", "escribiera ; por" (v.13) ->
+"escribiera; por", "diciendo :" -> "diciendo:", "Malaquías :" ->
+"Malaquías:", "deleitáis ;" -> "deleitáis;".
+Rule-6 double-space-after-punctuation normalized to a single space
+(justification-widened gaps, not real content): "salvará.  Escudriñad"
+-> "salvará. Escudriñad", "ministrarían.  Y les dijo" -> "ministrarían.
+Y les dijo", "dijera.  Y sucedió" -> "dijera. Y sucedió", "explicó.  Y
+estas" -> "explicó. Y estas", "mostrare?  Porque" -> "mostrare? Porque".
+Narrow-space-vs-merge default (rule, Section 2): chapter 24 v.1 "templo
+el Señor" -- a fresh zoomed crop (75-78%, 8x) shows essentially zero
+gap between "templo" and "el" ("temploel"), tighter than any
+intra-word letter-kerning gap on the same line, but grammar requires
+two words here ("de pronto vendrá á su templo el Señor" -- "temploel"
+is not a word), so transcribed as two words with a normal space per
+the default-to-two-words rule. Flagged here for the editor per that
+rule's batching requirement, not raised as a blocking question during
+Sessions A-D. **Resolved (editor, 2026-07-29)**: the editor's own
+direct look at the page confirms there is definitely more space
+between the "o" of "templo" and the "e" of "el" than between any of
+the letters within "templo" itself -- a genuine printed space, not a
+merge. Transcription (two words, normal space) was already correct;
+no further action needed.
+Suspected misprints/anomalies, checked against 1886 and the modern
+edition in Session E: chapter 24 v.1 "vendra" (no accent) -- 1886
+(book page 534/file 552) prints "vendrá" with a tilde at the identical
+spot, and the modern Spanish edition (churchofjesuschrist.org, 3 Nefi
+24:1) also uses "vendrá" (twice in the verse). Confirmed genuine
+1920-only missing-accent error; added to `errors in 1920.txt` and
+`permitted words.txt` (not a standard word form on its own). v.1 "el
+cuál preparará" -- 1886 prints unaccented "el cual" at the identical
+spot; "cual" here is a relative pronoun (referring to "mi mensajero"),
+not interrogative/exclamative, and RAE confirms a relative "cual"
+never takes a tilde. Confirmed genuine 1920-only error (spurious
+accent); added to `errors in 1920.txt` (no `permitted words.txt` entry
+needed -- "cuál" is a valid word in isolation, already used elsewhere
+in the document without suppression). v.1 "su templo el Señor, á
+Quién vosotros buscáis" -- 1886 prints plain lowercase, unaccented
+"quien" here (also a relative pronoun, referring to "el Señor"), so
+1920's capitalized, accented "Quién" is likewise a deviation from 1886
+-- but unlike "cuál" above, this pronoun's antecedent is the Lord
+himself. pptext's edit-distance check surfaced three earlier, already-
+transcribed instances of the identical pattern elsewhere in this same
+III Nefi section: line 23683 "vendrá al conocimiento del Señor, su
+Dios, Quién les ha redimido," line 23703 "yo soy Quién lo hace," and
+line 23715 "yo soy Aquel de Quién Moisés habló" -- all three are
+relative pronouns referring to Deity, capitalized and accented exactly
+like this page's instance. This confirms a genuine, consistent 1920
+house-style convention (reverential capitalization+accentuation for
+any pronoun referring to Deity, personal or relative -- the same
+convention already established for "Él" on page 536), not an isolated
+misprint. Preserved as printed; not logged as an error.
+v.3 "sentarse há" -- 1886 ALSO prints the accented periphrastic-future
+auxiliary "há" at the identical spot (and "hé" similarly in v.5),
+confirming this is a genuine shared period convention, not a misprint;
+flagged by pptext's spellcheck section this run (not a standard word
+form on its own), so added to `permitted words.txt` alongside the
+existing "hé" entry.
+Session E: full pptext report regenerated fresh
+(`workspace/report_wsl_20260728f.html`) and walked for this page's
+specific content (body lines 23981-24021, Block 2 lines 28208-28214 in
+`librodm.txt`). Only two live findings, both already resolved above:
+"há" (spellcheck suspect, added to `permitted words.txt`) and the
+edit-distance "Quién" cluster (which supplied the three corroborating
+precedents used to settle that call). Everything else in range is an
+already-established structural false-positive category: "short lines
+check" (verse-ending short lines, expected), "dash check"/hyphen-minus
+bucket (pure digit-hyphen-digit verse ranges in the new Block 2
+entries, e.g. "8:1-2", "14:25-26", "59:20-21"), the "CAPÍTULO N. (Véase
+X.)" main-text-headers inventory listing, and two paragraph-level
+hits ("incorrectly split paragraph" on this page's opening line,
+"query: unexpected paragraph end" on this page's closing line) that
+are both simply this page's mid-verse page-boundary continuations
+(no `Página 537` header, verse spanning into page 538) -- the same
+structural false-positive pattern already documented for this
+project's continuous-verse format, not a real signal. "ésto" (v.12)
+is an already-established `permitted words.txt` entry (13 prior
+occurrences in `librodm.txt`, added in an earlier session), so no new
+action needed for it. The "templo el Señor" narrow-space-vs-merge
+default (Section 2 above) was the one item flagged as still worth the
+editor's own look, per that rule's batching requirement -- now
+resolved (see the 2026-07-29 update above): everything on this page is
+fully resolved.
+Whole-document mechanical sweep (`check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, `check_verse_indent.py` against
+`librodm.txt`/`librodm_foot.txt`, a footnote-anchor range/duplicate/
+out-of-range scan up to the new max 3911, and a curly-quote character
+search of both master files) all came back clean -- only the
+pre-existing 812 gap remains, as documented on prior pages.
+Chapter heading "CAPÍTULO 24. (Véase Malaquías 3.)" -- italicized
+parenthetical cross-reference to the Bible chapter being quoted,
+transcribed exactly as printed on its own line (III Nefi 24-25 quote
+Malachi 3-4 nearly verbatim, per 24c's own cross-reference above).
+Rule 23/24 range formatting applied: "8:1, 2" -> "8:1-2" (consecutive
+verses); "14:25, 26" -> "14:25-26" (consecutive verses); "59:20, 21"
+-> "59:20-21" (consecutive verses); "40:3-5, 9-11" kept as two
+non-consecutive ranges separated by comma-no-space per rule 24 (spaces
+around the comma removed per rule 22/rule 31).
+Page ends mid-verse (chapter 24 v.3, "...purificador de plata, y") --
+no trailing hyphen, the last word "y" is complete, so no page-boundary
+word-split (rule 10) applies; verse 3 continues on page 538 starting
+with the next word.
+`check_line_wrap.py` flagged the same mid-page-chapter-break false
+positive already documented for pages 535/536 (txt_body_lines() stops
+at the first blank line, missing chapter 24's 14 lines after the
+heading) -- the real total (41 body lines) is within range of the
+script's own OCR estimate (38) once those missing lines are counted
+back in, consistent with no reflow.
+Session B: independently re-verified all 7 Block 1 entries against a
+fresh `process_page.py` crop (not reused from Session A) -- all
+reference text confirmed matching exactly. All 7 `[N]` body markers
+reconfirmed against their Block 1 content (each footnote's reference
+content matches the exact word it annotates). No letter on this page
+is i, l, or 1 (own letters c-f/a-c, cross-reference targets u and g),
+so the mandatory 1879 check does not apply; no further errors found.
+Session D (`generate_block2.py 537`): 6 of 7 entries resolved cleanly
+on first pass. 3908 ("Véase g, Jacob 4; Helamán 14:25-26.") came back
+unresolved -- a `generate_block2.py` parsing limitation, not a missing
+target: `VEASE_CLAUSE`'s regex captures everything up to the entry's
+FINAL period, so when a "Véase [letter], Book Chapter" cross-reference
+is followed by an additional semicolon-separated direct citation (as
+here), the trailing "; Helamán 14:25-26" gets swallowed into the
+letters/book-parsing attempt and the whole clause fails to resolve
+rather than resolving just the "Véase" part and leaving the rest
+alone. Manually resolved: Jacob 4g = sequential 846 ("Mosíah
+15:21-23; Alma 40:16-21; Helamán 14:25; III Nefi 23:9-13" --
+confirmed in `librodm_foot.txt`, LIBRO DE JACOB section), matching
+this entry's own "Helamán 14:25-26" almost verbatim and corroborating
+the content-fit check already made in Session A. Fixed directly in
+`librodm.txt`: "3908: Véase 846; Helamán 14:25-26." (matches the
+existing "Véase N; additional citation." precedent already used
+elsewhere in Block 2, e.g. entries 656, 730, 785, 861).

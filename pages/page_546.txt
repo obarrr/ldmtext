@@ -1,0 +1,198 @@
+Página 546
+18. Solo sé, según los anales que se han dado, que fueron
+por toda la superficie del país, ejerciendo su ministerio entre
+todo el pueblo; [3995]bautizando y agregando á la iglesia á todos
+los que creían en sus predicaciones; y todos los que fueron
+bautizados [3996]recibieron al Espíritu Santo;
+19. Y fueron arrojados en prisiones por los que no pertenecían
+á la iglesia. Y las [3997]prisiones no les pudieron contener, porque
+estaban partidas por la mitad.
+20. Y se les echó dentro de la tierra, pero ellos hirieron la
+tierra con la palabra de Dios, de tal modo que se libraron por
+este poder de las profundidades de la tierra; por lo tanto, no
+podían hacer hoyos suficientemente hondos que les pudieran
+contener.
+21. Y por tres veces fueron arrojados en un horno ardiente,
+sin que recibieran ningún daño.
+22. Y por dos veces fueron arrojados en un foso de animales
+feroces; y, he aquí, que jugaron con las fieras, como un niño
+juega con el cordero de leche, sin que recibieran ningún daño.
+23. Y ocurrió que fueron de este modo por todo el pueblo de
+Nefi, predicando el evangelio de Cristo á todos los habitantes
+del país; á quienes convirtieron al Señor, agregándoles á la
+iglesia de Cristo: siendo bendecido de este modo el pueblo de
+[3998]esta generación, según las palabras de Jesús.
+24. Y con esto dejo yo, Mormón, de escribir sobre estas cosas
+por ahora.
+25. He aquí, que iba á escribir los [3999]hombres de aquéllos que
+nunca habían de probar la muerte; pero el Señor me lo prohibió;
+por lo tanto, no los escribo, porque están escondidos del mundo.
+26. Pero, he aquí, que [4000]yo les he visto, y ellos me han ministrado;
+27. Y, he aquí, que se hallarán entre los Gentiles, y los Gentiles
+no les conocerán.
+28. Se hallarán también entre los Judíos, y los Judios no les
+concerán.
+29. Y ocurrirá, que cuando el Señor considere conveniente
+en su sabiduría, que ministren á todas las tribus esparcidas de
+Israel, y á todas las naciones, familias, lenguas y pueblos; y
+traigan de entre ellos muchas almas á Jesús, que sean satisfechos
+sus [4001]deseos á causa del poder [4002]convincente de Dios que se
+halla en ellos;
+30. Porque ellos son como los ángeles de Dios, que rogando
+al Padre en el nombre de Jesús, puedan mostrarse á cualqiuer
+hombre, según consideren conveniente;
+
+28p, 3995: Véase u, II Nefi 9.
+28q, 3996: Véase v, III Nefi 9.
+28r, 3997: IV Nefi 1:5,30-33; Mormón 8:24.
+28s, 3998: III Nefi 27:30-31.
+28t, 3999: III Nefi 19:4.
+28u, 4000: Mormón 8:11.
+28v, 4001: Versículo 9.
+28w, 4002: Versículos 30-33.
+
+Corrections:
+Page continues Chapter 28 (v.18-30) from page 545, which ended mid-verse
+at v.17 ("...no lo sé;"); v.18 begins this page's first line ("18. Solo
+sé...") per rule 1 convention for a page opening on a new verse number
+(no blank line after `Página 546`, matching the same convention already
+confirmed for mid-verse continuations — see pages 530/535/542 precedent).
+Rule-7 hyphenated line-break rejoins: "minis-"/"trado" -> "ministrado"
+(v.26, rejoined line lands at exactly 72 chars with the [4000] marker
+and attached semicolon included), "Gen-"/"tiles" -> "Gentiles" (v.27).
+Rule-31 space-before-punctuation cleanup (this page's print consistently
+sets a space before semicolons, and one instance before a colon;
+removed throughout, no exceptions per the standing rule): "pueblo ;"
+(v.18), "Santo ;" (v.18), "predicaciones ;" (v.18), "prisiones no" (v.19,
+no semicolon that line but see below), "tierra ;" (v.20), "animales" (no
+mark), "feroces ;" (v.22), "país ;" (v.23), "Cristo :" (v.23, colon, not
+semicolon), "muerte ;" and "prohibió ;" (v.25, two on one line),
+"trado ;" (v.26, pre-rejoin), "pueblos ;" (v.29), "ellos ;" (v.29),
+"conveniente ;" (v.30).
+Rule-6 wide justification-gap normalizations (all reduced to a single
+space, none logged as errors per the standing rule): "iglesia.  Y" (v.19),
+"tierra,  pero" (v.20), "convirtieron  al" (v.23), "hallarán  entre"
+(v.27, pre-rejoin).
+Two genuine 1920-only misprints found, both confirmed via 1886
+(pages_1886/page_0560.png book p.541 for v.18-22, page_0561.png book
+p.543 for v.23-36) and logged in `errors in 1920.txt`:
+(1) v.25 "los hombres de aquéllos que nunca habían de probar la
+muerte" — 1920 clearly prints "hombres" (h, not n; confirmed at high
+zoom, ordinary lowercase h with full ascender, not a damaged/ambiguous
+glyph), but grammatically and contextually this must be "nombres"
+(names) — Mormón is explaining he was going to write down the *names*
+of those who would never taste death, not "the men." 1886 confirms:
+"iba á escribir los nombres de aquellos que nunca habían de probar la
+muerte." Content-fit check on this verse's own footnote (28t, "III
+Nefi 19:4" — the chapter listing the twelve disciples by name)
+independently corroborates "nombres" as the correct reading. Preserved
+as printed ("hombres") in the transcription per rule 32.
+(2) v.30 "puedan mostrarse á cualqiuer hombre" — 1920 prints "cualqiuer"
+(i/u transposed) where "cualquier" is required; confirmed via 1886:
+"mostrarse á cualquier hombre." Preserved as printed.
+One additional discrepancy noted but NOT logged as an error per rule 11
+(missing accent alone is not error-worthy, and is common enough not to
+need a citation beyond this note): v.28 "y los Judios no les" — second
+"Judios" lacks the accent present on the first "Judíos" earlier in the
+same sentence; 1886 accents both instances consistently ("los Judíos...
+los Judíos"), so this is a 1920-only inconsistency, but bare accent
+omission alone doesn't meet the errors-log bar per rule 11's carve-out.
+A third, more substantial defect at the same verse WAS logged: v.28
+"y los Judios no les concerán" — "concerán" is missing the "o" of
+"conocerán" (confirmed via 1886: "no les conocerán", and via this
+page's own v.27 "conocerán" spelled correctly two lines earlier as an
+internal consistency check). Logged in `errors in 1920.txt`.
+Footnote lettering: Chapter 28 continues from page 545 (which ended at
+"o") with p through w, all eight body-text markers independently
+zoom-confirmed letter-by-letter against the fn_zoom crop and matched to
+their body-text position by strict alphabetical sequencing (rule 13):
+p (v.18, "bautizando"), q (v.18, "recibieron"), r (v.19, "prisiones"),
+s (v.23, "esta generación"), t (v.25, "hombres"/"nombres"), u (v.26,
+"yo"), v (v.29, "deseos"), w (v.29, "convincente") — eight letters,
+eight footnote numbers 3995-4002, no gaps.
+No i/l/1 letters appear anywhere on this page, either in the chapter's
+own lettering (p-w) or in the two cross-reference target letters (u,
+II Nefi 9; v, III Nefi 9, both cited within entries 28p/28q) — mandatory
+1879 check (Section 8) does not apply to any footnote on this page.
+Content-fit sanity check (Section 8, item 8) passed for all eight
+entries: p/q's cross-references (baptism, receiving the Holy Ghost)
+fit v.18's baptism narrative; r (imprisonment) fits v.19; s ("III Nefi
+27:30,31" -> rendered as consecutive range "30-31" per rule 23) fits
+the blessing-of-this-generation clause; t (III Nefi 19:4, the naming of
+the twelve) independently corroborates the "nombres" reading discussed
+above; u (Mormón 8:11, Mormón's own account of seeing the three
+Nephites) fits v.26; v ("Versículo 9", this same chapter's v.9 "lo que
+habéis deseado de mí") fits "deseos"; w ("Versículos 30-33", this same
+chapter's own upcoming verses on great works) fits "convincente" as a
+forward-reference.
+Rule-23/24 verse-range formatting applied: 28r "IV Nefi 1:5, 30-33" ->
+"1:5,30-33" (5 non-consecutive per rule 24, comma no space; 30-33
+already a range in print, unchanged); 28s "III Nefi 27:30, 31" ->
+"27:30-31" (30 and 31 are consecutive per rule 23, converted from
+comma to hyphenated range regardless of how the original printed it).
+No narrow-space-vs-merge candidates found on this page.
+Google-text cross-check (`check_google_crosscheck.py 546`): one
+candidate reported near v.28, a [delete] of "y" between "Judíos," and
+"los Judios" — Google's OCR simply dropped the short connector word "y"
+(confirmed present in the print via the same zoom crop used for the
+"Judíos"/"Judios" accent check above); not a transcription error, no
+action needed. Also independently confirms "concerán" is genuinely
+printed that way (Google's own OCR reads it the same, not as
+"conocerán"), corroborating the errors-log entry above rather than
+casting doubt on it. Four other raw diff hits were auto-dismissed by
+the script itself as known footnote-marker glue noise, and one as
+trailing footnote-block content, per the script's design.
+Session B: independently re-verified all 8 Block 1 entries and all 8
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text and marker placements confirmed
+matching exactly. No i/l/1 letters appear anywhere on this page, either
+in the chapter's own lettering (p-w) or in the two cross-reference
+target letters (u, II Nefi 9; v, III Nefi 9) — mandatory 1879 check
+does not apply to any footnote on this page.
+Session D (`generate_block2.py 546`): all 8 entries resolved cleanly (no
+unresolved cross-references). While spot-checking the two resolved
+cross-references (28p -> 378, 28q -> 3582) against their targets in
+`librodm_foot.txt`, entry 28q's target ("v, III Nefi 9" -> 3582, "III
+Nefi 15:2-8", the "other sheep" passage) turned out to be a weak
+content-fit for what it annotates here ("recibieron [Espíritu Santo]",
+v.18) — the same v/y ambiguity pattern already documented for footnote
+27n on an earlier page. Investigated and confirmed via 1879
+(pages_1879/page_0548.png): 1879 prints "q, see y, III. Nep. 9." (not
+"v"), and III Nefi 9's own letter y (-> 3585) is a Holy-Ghost/baptism-
+themed citation chain, a strong fit. The 1920 glyph itself is
+unambiguously "v" (not a same-image misreading), so this is a genuine
+1920 cross-reference-letter misprint, not a transcription error.
+Preserved as printed ("v") in Block 1 per rule 32; logged in `errors in
+1920.txt`.
+Session E: fresh pptext regeneration (`report_wsl_20260729g.html`).
+Spellcheck Suspect Words flagged three words from this page's line
+range (24369-24411/24417 and footnotes 3995-4002): "concerán" and
+"cualqiuer" (both already-confirmed genuine 1920 errors, logged above
+and in `errors in 1920.txt`; independent research step per Session E
+requirements -- zero hits for either spelling across all three local
+reference corpora, `quijote_gutenberg2000.txt`/
+`reina_valera_1909_nt_gutenberg5881.txt`/
+`reina_valera_full_bible_archiveorg_ocr.txt` -- versus 226+69+9 hits
+for correctly-spelled "cualquier", corroborating both are typos, not
+period variants) and "Judios" (missing-accent-only variant of
+"Judíos", not logged as an error per rule 11's carve-out, but still
+flagged by aspell). All three added to `permitted words.txt` per rule
+10 (every flagged word gets suppressed regardless of verdict). Edit
+Distance Checks: "concerán(1):conocerán(4)" is the same confirmed
+finding, no new information. Footnote check: whole-document
+`\[(\d+)\]` scan confirms zero duplicates, last number 4002 (matching
+this page's final marker), and the only gap in the entire document
+remains the long-documented footnote 812 (Jacob 2:15) -- footnote
+numbering for this page is fully clean. Short-lines/dash-check/
+special-situations hits touching this page's line range all matched
+established false-positive categories (verse-end short lines; the
+"standalone 1" special-situations check firing on this page's own new
+Block 2 entries' "N:" citation format, e.g. "3997: IV Nefi
+1:5,30-33..."; legitimate hyphenated verse ranges 27:30-31/30-33 in
+the new Block 2 entries). No long lines found anywhere in the document.
+Whole-document mechanical sweeps -- `check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, `check_verse_indent.py` -- all clean
+across `librodm.txt`/`librodm_foot.txt`; zero curly quotes in either
+master file. No narrow-space-vs-merge candidates were flagged on this
+page during Session A, so there is nothing to batch into this
+summary for the editor per that standing convention.

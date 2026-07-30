@@ -1,0 +1,168 @@
+Página 517
+24. Por tanto, á quienquiera que estos mis dichos oyere, y
+los hiciere, compararéle al sabio, que fabricó su casa sobre una
+peña,
+25. Y la [3692]lluvia descendió, y aparecieron los torrentes, y
+soplaron los vientos, y azotaron á aquella casa; y no cayo;
+porque estaba fundada sobre una peña.
+26. Y cada uno que oyere estos mis dichos, y no los hiciere,
+será comparado á un insensato, que fabricó su casa sobre la arena,
+27. Y descendió la lluvia, y aparecieron los torrentes, y
+soplaron los vientos, y azotaron á esa casa; y cayó, y grande fué
+su caída.
+
+CAPÍTULO 15.
+
+1. Y ahora, vino á suceder, que cuando Jesús hubo acabado
+estos dichos, fijó sus ojos sobre la multitud á su alrededor, y les
+dijo: He aquí, que habéis oído lo que os he [3693]enseñada antes
+de subir á mi Padre; por tanto, quienquiera que se acuerde de
+estos mis dichos, y los haga, será [3694]exhaltado por mí en el postrer
+día.
+2. Y vino á suceder que cuando Jesús hubo dicho estas palabras,
+apercibió que habían algunos entre ellos, que se maravillaban,
+y admiraban acerca de que quiso decir respecto á la
+[3695]ley de Moisés; porque no entendían la [3696]frase que decía que
+las cosas viejas habían ya pasado, y que todas las cosas se habían
+vuelto nuevas.
+3. Y Él les dijo: No os maravilléis, porque os haya dicho que
+ya pasó lo viejo, y que todas las cosas se han vuelto nuevas.
+4. He aquí dígoos, que la [3697]ley que fué dada á Moisés, se ha
+cumplida ya.
+5. He aquí, que [3698]soy Aquél que dí la ley, y soy Aquél que hice
+alianza con mi pueblo, Israel; por tanto, la [3699]ley que dí, en mí
+se ha cumplido, puesque he venido á cumplir la ley; por tanto
+ella tiene fin.
+6. He aquí, que [3700]no destruyo á los profetas, porque tantos
+como no se han cumplido en mí, en verdad os digo que todos
+serán cumplidos.
+7. Y porque os dije que lo [3701]antiguo ha pasado ya, no destruyo
+lo que se ha hablado acerca de lo que está por venir.
+
+14c, 3692: Véase e, Alma 26.
+15a, 3693: Mateo, Capítulos 5-7.
+15b, 3694: Véase p, Mosíah 23.
+15c, 3695: Véase o, II Nefi 25.
+15d, 3696: III Nefi 12:46-47.
+15e, 3697: III Nefi 9:17.
+15f, 3698: I Corintios 10:4.
+15g, 3699: III Nefi 12:46-47.
+15h, 3700: Versículos 7-8; III Nefi 20:11-12; 23:1-3.
+15i, 3701: III Nefi 12:46-47.
+
+Corrections:
+v.25 "cayo" — printed with no accent, unlike the otherwise-identical
+construction two verses later at v.27 ("cayó," accented). Preserved as
+printed per rule 32; verify against 1886 in Session E.
+v.1 (ch.15) "vinoá" — REVISED 2026-07-26: initially described as
+printed with no gap at all between "vino" and "á." The transcription
+("vino á", per the rule 6 default -- this exact phrase recurs many
+times elsewhere in the document, always as two words) was never in
+question, but the "no gap" characterization itself was wrong: the
+editor's own close inspection of the page found a real, if narrow,
+space, confirmed by a pixel measurement on the editor's own
+higher-resolution crop (o-á gap measures 9px, clearly wider than the
+1-2px intra-word letter gaps within "vino" itself). A first
+re-measurement attempt on this project's standard 400dpi transcription
+crop (`pages_1920/page_0539.png`) found only a 1px gap at the same
+spot, matching the original "merge" call -- that crop's resolution/
+binarization was evidently collapsing a real gap down to nothing, not a
+reliable measurement. Not flagged as an error either way, since the
+transcription was already correct. See `feedback_narrow_space_vs_merge`.
+v.1 (ch.15) "exhaltado" — misprint for "exaltado" (extra "h").
+Preserved as printed per rule 32; verify against 1886 in Session E.
+v.2 "cuandoJesús" — REVISED 2026-07-26: initially described as a "true
+zero-width gap confirmed at high zoom" -- this was wrong. The editor's
+own inspection and a pixel measurement on the editor's higher-resolution
+crop found a real gap between "o" and "J" measuring 10px -- wider than
+any intra-word letter gap in either "cuando" or "Jesús" (max 5px). The
+same standard 400dpi transcription crop that misjudged v.1's "vinoá"
+also collapsed this gap to 1px, again matching the original wrong
+"merge" call. Transcription ("cuando Jesús", per the rule 6 default)
+was already correct either way; not flagged as an error. See
+`feedback_narrow_space_vs_merge`.
+v.5 "puesque" — initially mis-transcribed as "pues que" (rule 6's
+two-word default) during Session A, but Session E's pptext regeneration
+showed "puesque" is already an established one-word spelling used 85
+other times throughout `librodm.txt` (already in `permitted words.txt`)
+— an intentional archaic contraction ("pues" + "que", since/given
+that), not a merge or narrow-gap defect at all. Corrected back to
+"puesque" to match the document's own settled convention; no
+`errors in 1920.txt` entry (not a misprint).
+Footnote 14c ("Véase [target], Alma 26.") — the target letter is a
+solid over-inked blob in the 1920 print, illegible even at high zoom
+(this page's footnote-letter type appears to be a poor impression
+throughout the block — the footnote's own letter "c" and chapter 15's
+own "c" target below show the same issue). Resolved via BOM 1879
+Pratt (file page 519, printed page 511): "c, see e, Alma 26." —
+independently confirmed by content-fit: Alma 26e (sequential 2315,
+already transcribed) cites "Helamán 5:12; III Nefi 14:26-27" — an
+exact mutual back-reference to this very passage (v.26-27's parable
+of the house built upon a rock). Target letter = e (2315).
+Footnote 15c ("Véase [target], II Nefi 25.") — same illegible
+over-inked-blob defect as footnote 14c's target. Resolved via BOM
+1879 Pratt (same file page 519): "c, see o, II. Nep. 25." Target
+letter = o.
+Mandatory 1879 check (letter i, v.7 "antiguo," chapter 15's own
+letter): confirmed via same-page glyph comparison (short stroke +
+separated dot, distinct from the plain continuous-stroke "l" in
+"lo" immediately before it) and BOM 1879 Pratt file page 519,
+which reads "i, III. Nep. 12:46,47." — matching content and
+alphabetical position exactly.
+check_google_crosscheck.py's automated diff only reached this page's
+chapter 14 tail (v.24-27) — the file's own known blind spot (it stops
+reading body text at the first blank line, and this page has a blank
+line around the mid-page "CAPÍTULO 15." heading; see the 2026-07-25a
+page 505 precedent). The chapter 15 portion (v.1-7) was cross-checked
+manually against google_text_1920/page_0539.txt instead: no
+discrepancies beyond already-identified narrow/zero-gap spots
+("vinoá," "cuandoJesús," "soyAquél," "puesque" — all consistent with
+this page's real print, not transcription misreads) and expected OCR
+noise (a stray "A" line, missing accents, garbled footnote-block text).
+
+Session B: independently re-verified all 10 Block 1 entries (14c,
+15a-i) and all 10 body markers against fresh crops of pages_1920/
+page_0539.png; re-ran the mandatory 1879 check for letter i (v.7)
+from a fresh crop of BOM 1879 Pratt file page 519, reconfirming "i,
+III. Nep. 12:46,47." exactly, and reconfirmed the footnote 14c/15c
+glyph shapes (open-hook "c" markers, illegible over-inked "•" targets)
+match Session A's reading. No errors found.
+
+Session E: fresh pptext regeneration (`report_wsl_20260726.html`)
+flagged 2 spellcheck suspects for this page's range. "compararéle"
+(v.24) confirmed legitimate archaic future+enclitic form -- matches
+1886 exactly (book page 513/file 531); added to `permitted words.txt`
+only. "exhaltado" (v.1, ch.15) -- already flagged as a suspected
+misprint in this page's own Corrections log -- confirmed as a genuine
+1920-only error against both 1886 (book page 514/file 532: "será
+exaltado por mí") and the modern Spanish edition (3 Nefi 15:1,
+"exaltaré"); added to `errors in 1920.txt` and `permitted words.txt`.
+"Profecia" is the pre-existing, unrelated flag from page 469. The
+mandatory Corrections-log sweep also confirmed v.25's suspected "cayo"
+(no accent) as a genuine 1920-only error against 1886 (book page 513/
+file 531: "y no cayó;") and the modern edition ("no cayó"); added to
+`errors in 1920.txt` (not pptext-flagged, since "cayo" is itself a
+valid Spanish word -- a geographic term for a reef/key -- so no
+`permitted words.txt` entry needed). Three more genuine errors were
+found during Session E's own reading of the page against 1886/the
+modern edition, none flagged by pptext (all are valid dictionary words
+used in the wrong grammatical form): v.1 (ch.15) "he...enseñada"
+(should be "enseñado" -- RAE confirms the participle after "haber" is
+always invariable, ending in "-o", regardless of gender; 1886/the
+modern edition use a different construction at this exact spot so
+neither directly confirms the word, but both sidestep the same
+concordance problem entirely); v.2 (ch.15) "habían algunos" (should be
+singular "había algunos" -- impersonal "haber" is always singular per
+RAE; both 1886 and the modern edition confirm singular); v.4 (ch.15)
+"se ha cumplida" (should be "cumplido" -- same invariable-participle-
+after-haber rule as "enseñada"; both 1886 and the modern edition
+confirm "cumplido", and this page's own v.5-7 all correctly use
+"cumplido" without the "-a"). All three added to `errors in 1920.txt`,
+no `permitted words.txt` entries. Full-document footnote-anchor check
+(max 3701, zero duplicates/out-of-range, only the pre-existing 812
+gap), `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document), and an independent
+curly-quote scan all clean. No hyphens anywhere on this page, so no
+dash-check findings. Full pptext walkthrough (dash, scanno, special
+situations, book/paragraph-level including "full stop followed by
+unexpected sequence", Jeebies) came back clean for this page's range.

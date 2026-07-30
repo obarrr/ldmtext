@@ -1,0 +1,206 @@
+purificará á los [3912]hijos de Leví, y les refinará como oro y plata,
+para que ofrezcan al Señor ofrenda con justicia.
+4. Entonces la ofrenda de Judá y de Jerusalem será agradable
+al Señor, como en los días primitivos, como en los años anteriores.
+5. Y [3913]llegarme he á vosotros para juicio; y [3914]seré pronto
+testigo contra los hechiceros y adúlteros, y contra los que juren
+en falso, y contra los que opriman al jornalero en su salario, y
+á la viuda, y al huérfano, y que echen á un lado al extranjero,
+y no me teman, dice el Señor de los Ejércitos.
+6. Porque yo soy el Señor, y no cambio; y así vosotros, hijos
+de Jacob, no habéis sido consumidos.
+7. Desde los días de vuestros padres os habéis apartado de mis
+ordenanzas, y no las guardasteis. Volvéos á mí, y yo me volveré
+á vosotros, dice el Señor de los Ejércitos. Pero vosotros decís,
+¿á dónde nos hemos de volver?
+8. ¿Robará el hombre á Dios? No obstante vosotros me
+habéis robado á mí. Pero decís ¿En qué te hemos robado?
+En diezmos y ofrendas.
+9. La maldición ha caído sobre vosotros, porque me habéis
+robado, aún toda esta nación.
+10. Traed [3915]todos los diezmos al almacén, para que haya
+comida en mi casa; y probadme ahora en esto, dice el Señor
+de los Ejércitos, y veréis, si no os abro las ventanas de los cielos,
+y no derramo sobre vosotros bendición hasta que no os quepa.
+11. Y yo rependeré al devorador por causa vuestra, y él no
+destruirá los frutos de vuestra tierra; ni vuestra viña echará
+el fruto antes de su tiempo en los campos, dice el Señor de los
+Ejércitos.
+12. Todas las naciones os llamarán benditos, porque vuestra
+tierra será deliciosa, dice el Señor de los Ejércitos.
+13. Pesadez han sido contra mí vuestras palabras, dice el
+Señor de los Ejércitos; no obstante vosotros decís: ¿Qué es lo
+que hemos dicho contra Ti?
+14. Vosotros decís: Es en vano que sirvamos á Dios. ¿Qué
+hemos ganado con haber guardado su ordenanza, y con haber
+caminado lamentando delante del Señor de los Ejércitos?
+15. Y ahora, llamamos felices á los orgullosos. sí, los que obran
+iniquidad, son ensalzados, sí, los que tientan á Dios, son aun
+libertados.
+16. Entonces los que temían al Señor, se hablaban á [3916]menudo,
+uno al otro, y el Señor escuchaba y oía, y un [3917]libro de memoria
+fué escrito ante Él para los que temían al Señor y que pensaban
+en su nombre.
+
+24d, 3912: Doctrinas y Convenios 84:31-34.
+24e, 3913: Ezequiel 43:1,2,4-7.
+24f, 3914: III Nefi 25:1,3,6; Véase w, III Nefi 20.
+24g, 3915: Doctrinas y Convenios 64:23;119:120.
+24h, 3916: Moroni 6:5,6.
+24i, 3917: III Nefi 27:25,26.
+
+Corrections:
+Page begins mid-verse (continuation of III Nefi 24:3 from page 537,
+"...y sentarse há como refinador y purificador de plata, y"), so no
+`Página 538` blank-line/header per rule 1 (same precedent as pages
+535-537). Chapter 24 continues on this page with letters d-i (no
+chapter or book boundary occurs on this page); no blank line needed
+in Block 1.
+Mandatory i/l/1 check: letter 24i (3917, "libro de memoria") is i --
+mandatory 1879 check performed. chapter_map.csv maps III Nefi 24 to
+1879 file page 540 (book page 532); the matching content (Malachi
+3:16, "book of remembrance") was found continuing onto file page 541
+(book page 533). Fresh zoomed crops of 1879 page 541 confirm: (1) the
+body-text superscript before "book of" is a short vertical stroke with
+a clearly separated dot above it -- the same shape rule 8's own
+glyph-comparison method identifies as "i", matching the 1920 glyph's
+own shape (also independently zoomed: short stroke, separated dot,
+not a continuous "l" curve); (2) 1879's own page-541 footnote footer
+reads "h, Moro. 6:5,6.  i, III. Nep. 27:25,26.  j, Doc. and Cov.
+101:3." -- letter, position, and citation content all match this
+page's own "h, Moroni 6:5,6." and "i, III Nefi 27:25,26." exactly
+(1879's trailing "j, Doc. and Cov. 101:3." falls on the next page,
+v.17-18, past this page's own cutoff at v.16 -- not a discrepancy).
+Confirmed correct; no error found. Letter 24h (3916, "menudo"), while
+not itself i/l/1, was corroborated by the same 1879 page-541 check
+(ordinary italic "h", content match "Moro. 6:5,6."), and letters
+24d-24g were separately corroborated via 1879 page 540's own footnote
+footer, which reads "d, Doc. and Cov. 84:31-34.  e, Ezekiel 43:1,2,
+4-7.  f, III Nep. 25:1,3,6.  See w, III Nep. 20.  g, Doc. and Cov.
+64:23. 119:120." -- letter and citation content matching this page's
+own d-g entries exactly.
+Content-fit sanity check (Section 8) on all 6 Block 1 targets: 24d
+(D&C 84:31-34, sons of Levi/priesthood purification) fits v.3's
+"purificará ... los hijos de Leví"; 24e (Ezequiel 43:1,2,4-7, the
+Lord's glory returning to the temple for judgment) fits v.5's
+"llegarme he ... para juicio"; 24f (III Nefi 25:1,3,6, the very next
+chapter continuing this same Malachi quotation; Véase w, III Nefi 20)
+fits v.5's "seré pronto testigo" as a forward-continuation reference;
+24g (D&C 64:23;119:120, tithing revelations) fits v.10's "Traed todos
+los diezmos al almacén"; 24h (Moroni 6:5,6, believers speaking often
+together/record-keeping of the faithful) fits v.16's "se hablaban á
+menudo"; 24i (III Nefi 27:25,26, names written in the book of life)
+fits v.16's "un libro de memoria fué escrito". All resolved letters
+confirmed plausible; no red flags.
+Mechanical pass: no rule-7 hyphenated line-break splits occur anywhere
+on this page (checked every line ending against the image; all words
+are complete at line end).
+Numerous rule-31 space-before-punctuation fixes (this page's print
+consistently sets a space before colons and semicolons, continuing the
+pattern from prior pages): "juicio ; y" -> "juicio; y" (v.5), "cambio ;
+y" (v.6) -> "cambio; y", "casa ; y" (v.10) -> "casa; y", "tierra ; ni"
+(v.11) -> "tierra; ni", "Ejércitos ; no obstante vosotros decís :
+¿Qué" (v.13) -> "Ejércitos; no obstante vosotros decís: ¿Qué", "decís
+: Es en vano" (v.14) -> "decís: Es en vano". All confirmed via zoomed
+crops against the source image and cross-checked against this page's
+own Google OCR text (`google_text_1920/page_0560.txt`), which
+independently shows the identical spaced-punctuation pattern at every
+one of these spots.
+Rule-6 double-space-after-punctuation normalized to a single space
+(justification-widened gaps, not real content, confirmed via zoom):
+"guardasteis.  Volvéos" (v.7) -> "guardasteis. Volvéos", "Ejércitos.
+Pero vosotros decís," (v.7) -> "Ejércitos. Pero vosotros decís,",
+"Dios?  No obstante" (v.8) -> "Dios? No obstante", "mí.  Pero decís"
+(v.8) -> "mí. Pero decís", "Dios.  ¿Qué" (v.14) -> "Dios. ¿Qué".
+Stray-mark check (rule 36 procedure, applied by analogy to a
+non-accent mark): a faint small dot appears after "á" and before
+"Dios" in two places (v.8 "el hombre á Dios?" and v.14 "sirvamos á
+Dios."), at high zoom in the same relative position both times,
+suggesting a printing-plate speck rather than an intentional
+punctuation mark (a period there would be ungrammatical mid-question/
+mid-clause in both spots). Checked against this page's own Google OCR
+text (`google_text_1920/page_0560.txt`): both instances read as plain
+"á Dios" with no intervening character. Per the rule 36 principle
+(Google's OCR reliably omits marks that aren't actually printed),
+treated as a stray speck in both places -- transcribed as plain
+"á Dios", not logged in `errors in 1920.txt`.
+Suspected misprints/anomalies, preserved as printed per rule 32 (not
+silently corrected), for Session E verification against 1886/modern
+edition: v.15 "llamamos felices á los orgullosos. sí, los que obran"
+-- a full stop appears where a comma would be grammatically expected
+before the lowercase continuation "sí, los que obran" (parallel to the
+following "son ensalzados, sí, los que tientan"). Confirmed via zoom
+this is a genuine period, not a comma rendered oddly, and confirmed
+present in the page's own Google OCR text as well
+(`google_text_1920/page_0560.txt` line 37: "orgullosos. sí, los").
+v.16 "y que pensaban" -- Session A's first zoom misread the third
+letter of "que" as an open, crossbar-less "c" shape and flagged it as
+a suspected misprint ("quc"). Google's OCR read this spot as "que",
+and Session E's 1886 comparison also showed "que" -- but at the time,
+both were dismissed as inconclusive (Google chalked up to dictionary
+autocorrection on a common word, not treated as evidence about the
+actual printed letter). **Correction (user-flagged after Session E):**
+the user's own direct look at the page confirmed the letter's
+horizontal crossbar IS present, just faint at this zoom/rasterization
+level -- the word is genuinely "que" as printed, not "quc". This was a
+transcription misread, not a 1920 print error. Fixed directly in the
+body text; the `errors in 1920.txt` and `permitted words.txt` entries
+added for "quc" have been removed (both were based on the misread).
+Google crosscheck (`check_google_crosscheck.py 538`): 2 candidates.
+One was the "quc"/"que" spot above, now resolved as a transcription
+fix, not a misprint. The other, a stray "1" Google's OCR
+picked up near line 2, traces to small vertical tick marks in the
+page's right margin, outside the body-text block entirely -- zoomed
+and confirmed these are print/bleed-through marks (not this page's
+own content, and not part of any word), correctly omitted from the
+transcription; no action needed.
+`check_spaced_punctuation.py`, `check_footnote_punctuation.py`,
+`check_verse_indent.py`, `check_lines.py`, and `check_line_wrap.py`
+all run clean (see script output; only Corrections-log quotes of the
+raw print were flagged, not live text).
+Session B: independently re-verified all 6 Block 1 entries and all 6
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. The mandatory 24i (3917) i/l/1 check was
+independently re-run against a fresh 1879 page-541 crop (different
+crop parameters than Session A's) -- again confirms a short vertical
+stroke with a clearly separated dot, matching "i", not "l". No further
+errors found.
+Session D (`generate_block2.py 538`): all 6 entries resolved cleanly on
+first pass, including 3914's cross-reference ("Véase w, III Nefi 20")
+resolving to 3825 (III Nefi 20w) -- confirmed correct (Deut. 18
+prophet-like-unto-me/Acts 3 citation, a plausible companion reference
+alongside 3914's own direct III Nefi 25:1,3,6 citation).
+Session E: full pptext report regenerated fresh
+(`workspace/report_wsl_20260728g.html`) and walked for this page's
+specific content (body lines 24020-24065, Block 2 lines 28259-28264 in
+`librodm.txt`). One spellcheck finding, "quc" (v.16) -- at the time
+this session ran, a fresh 1886 comparison (pages_1886/page_0553.png,
+book page 535/file 553: "y que pensaban en su nombre") and the modern
+Spanish edition (churchofjesuschrist.org, 3 Nefi 24:16, "que") were
+both read as corroborating a genuine 1920-only misprint, and it was
+logged as such in `errors in 1920.txt`/`permitted words.txt`. This was
+**reversed after the fact**: the user directly examined the page and
+confirmed the letter's crossbar is present (faint, not absent) -- the
+word is plainly "que", and the "c" reading was a Session A zoom
+misread, not a print defect. Both entries have been removed and the
+body text corrected to "que" (see Corrections note above for the full
+account). This page's real 1886 comparison in fact already read "que"
+too and should have settled it without the misprint theory -- worth
+remembering that a common function word misread against grammar/
+context deserves more skepticism before promoting to a genuine-error
+finding. The same 1886 page did settle the other Session A flag,
+v.15 "orgullosos. sí" -- 1886 prints a
+comma at this exact spot ("llamamos felices á los orgullosos, sí, los
+que obran iniquidad"), confirming this is also a genuine 1920-only
+punctuation error (same pattern as the already-documented III Nefi
+22:17 "prosperará." case) -- added to `errors in 1920.txt` (no
+`permitted words.txt` entry needed, it's a punctuation question, not a
+word). The "á Dios" stray-mark finding (v.8, v.14) required no further
+action beyond Session A's Google-OCR-based dismissal (see above). No
+narrow-space-vs-merge defaults occurred on this page needing batching
+to the editor. Full-document footnote-anchor check (max 3917, zero
+duplicates/out-of-range, only the pre-existing 812 gap), a fresh
+curly-quote character search of both master files, and
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document) all came back clean.

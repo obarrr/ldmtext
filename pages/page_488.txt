@@ -2,15 +2,15 @@ Página 488
 para guardarles y librarles de los ataques de los bandidos de día
 y de noche;
 15. Sí, dicíendoles al mismo tiempo: Como vive el Señor,
-que si no os arrepintie.eis de vuestras iniquidades, y si no implorareis
+que si no os arrepintiereis de vuestras iniquidades, y si no implorareis
 al Señor, de ningún modo os veréis libres de las manos
 de esos bandidos de [3449]Gadianton.
 16. Y tan giandes y maravillosas fueron las palabras y profecías
-de Lachoneus. que causaron que el pueblo se llenara de
+de Lachoneus, que causaron que el pueblo se llenara de
 temor, haciendo que se esforzaran con todo su poder á hacer lo
 que les requiería Lachoneus.
 17. Y sucedió, que Lachoneus puso á capitanes en jefe sobre
-todos los ejércitos de los Nefitas, para que los dirigieran. cuando
+todos los ejércitos de los Nefitas, para que los dirigieran, cuando
 salieran los ladrones del desierto en contra de ellos.
 18. Y un hombre, llamado [3450]Gidgiddoni, fué nombrado como
 el primero de todos los capitanes, y el gran comandante de todos
@@ -24,7 +24,7 @@ lo tanto, este Gidgiddoni era un gran profeta entre ellos, y
 vámonos á las montañas y al desierto, y caigamos sobre los
 bandidos, y destruyámosles en su propio terreno.
 21. Pero Gidgiddoniles respondió les respondió: Dios me libre
-de hacerlo así, porque si marchásemos contra ellos, el Señor. nos
+de hacerlo así, porque si marchásemos contra ellos, el Señor nos
 entregaría en sus manos; por tanto, nos prepararemos en el centro
 de nuestras tierras; y uniremos á todos nuestros ejércitos, y
 no iremos en contra de ellos, sino que esperaremos á que vengan
@@ -107,19 +107,12 @@ Session E should add each to `errors in 1920.txt`]:
     vertical stroke at x-height (no arm/hook), not a normal "r"; 1886
     reads "grandes". Transcribed using "i" as the closest visual match
     for the broken stroke.
-  - v.16 "Lachoneus. que" — period where 1886 has a comma
-    ("Lachoneus, que causáron").
-  - v.17 "dirigieran. cuando" — period where 1886 has a comma
-    ("dirigieran, cuando").
   - v.19 "de de perversidad" — genuine dittography; 1886 reads "de
     perversidad" (single "de").
   - v.21 "Gidgiddoniles respondió les respondió" — two stacked defects:
     a missing interword space ("Gidgiddoni" + "les" printed as one
     word) and a duplicated "respondió"; 1886 reads cleanly "Gidgiddoni
     les respondió" (once, properly spaced).
-  - v.21 "el Señor. nos" — a spurious period-like mark between "Señor"
-    and "nos" with no grammatical basis; 1886 has no punctuation at all
-    at this position ("el Señor nos entregaría").
 [fn g-o] All nine footnote letters (g through o) and their reference
 text read directly from fn_zoom against pages_1920/page_0510.png.
 Letters "i" and "l" are this chapter's own lettering and fall in the
@@ -184,3 +177,32 @@ scan of this page's new lines (zero hits — no such compounds on this
 page) both clean. Character checks, dash check, and special-situations
 checks showed nothing new for this page's line range beyond already-
 documented false-positive patterns.
+[2026-07-28, user correction] v.15 "arrepintie.eis" corrected to
+"arrepintiereis" — closer inspection of the source image confirms the
+mark previously read as an isolated stray dot is actually the lower
+portion of a printed "r" (the letter's foot/bowl is visible), not
+damaged type or a period. This is not a genuine 1920 misprint; the
+word is printed correctly as "arrepintiereis", the same future-
+subjunctive form used many other times elsewhere in this document.
+The `errors in 1920.txt` entry for this word has been removed, and
+the "arrepintie"/"eis" `permitted words.txt` entries (added only
+because the erroneous split had produced those two spurious aspell
+tokens) have been removed as no longer needed. This corrects the
+Session A/B/E notes above for v.15 "arrepintie.eis", which are now
+superseded by this entry.
+[2026-07-28f, user correction] Three more marks on this page corrected
+after the user's own closer inspection of the source image: v.16
+"Lachoneus. que" -> "Lachoneus, que" and v.17 "dirigieran. cuando" ->
+"dirigieran, cuando" (both marks are commas, not periods — the earlier
+reading mistook them for periods), and v.21 "el Señor. nos" -> "el
+Señor nos" (the mark is a stray spot, not even at the height/level of
+a printed period or comma, so it is dropped entirely rather than
+transcribed as punctuation). None of the three is a genuine 1920
+misprint. The corresponding `errors in 1920.txt` entries for
+"Lachoneus. que" and "dirigieran. cuando" and "el Señor. nos" have been
+removed; no `permitted words.txt` entries existed for any of the three
+(punctuation-only, no new aspell tokens produced). This corrects the
+Session A/B/E notes above for v.16 "Lachoneus. que", v.17 "dirigieran.
+cuando", and v.21 "el Señor. nos", which are now superseded by this
+entry. The text has been updated in `pages/page_488.txt`,
+`librodm.txt`, and `chapters_emailed/III_Nefi_3.txt`.

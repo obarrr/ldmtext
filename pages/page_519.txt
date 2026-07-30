@@ -1,0 +1,165 @@
+Página 519
+de oir mi voz en ningún tiempo; que no me manifestara á ellos,
+[3713]excepto que fuere por el Espíritu Santo.
+24. Más, he aquí, que habéis ambos oído mi voz, y me habéis
+visto; y sois mis [3714]ovejas, y nombrados estáis entre los que el
+Padre me ha dado.
+
+CAPÍTULO 16.
+
+1. Y en verdad, en verdad, os digo que tengo [3715]otras ovejas,
+que no son de este país; ni de la tierra de Jerusalem; ni de ninguna
+de las partes de aquel país inmediato, en donde estuve yo ministrando.
+2. Porque aquellos de quiónes hablo, son los que [3716]no han
+todavía oído mi voz; ni yo en ningún tiempo me he manifestado
+á ellos.
+3. Mas he recibido un mandato del Padre, de que yo vaya
+á ellos, para que [3717]oigan mi voz, y vengan á ser nombrados entre
+mis ovejas, para que no haya más que un redil, y un pastor;
+por tanto, voy á manifestarme á ellos.
+4. Y mándoos que escribáis lo que os digo, después que me
+vaya, para que, si mi gente de Jerusalem, los que me vieron y
+estuvieron conmigo en el ministerio, no piden al Padre en mi
+nombre, para que reciban conocimiento de vosotros por medio
+del Espíritu Santo, y también de las [3718]otras tribus de que no
+saben—para que se guarden estas mis palabras, que vosotros
+escribiréis, y serán manifestadas [3719]a los Gentiles, para que por
+la [3720]plentitud de los Gentiles el resto de su posteridad que será
+esparcida sobre la superficie de la tierra á causa de su incredulidad,
+pueda así ser traído, ó pueda ser llevado al conocimiento
+de mí, su Redentor.
+5. [3721]Entonces yo les reuniré de las cuatro partes de la tierra;
+y entonces cumpliré yo la [3722]alianza que el Padre ha hecho con
+todo el pueblo de la casa de Israel.
+6. Y benditos son los Gentiles á causa de su fe en mí, en
+y [3723]por el Espíritu Santo, que les da testimonio [3724]de mí y del
+Padre. 7. He aquí, que á causa de su fe en mí, dice el Padre, y á
+causa de vuestra incredulidad, oh casa de Israel, en los [3725]últimos
+días vendrá la verdad á los Gentiles, para que les sea dada la
+plentitud de estas cosas;
+8. Pero [3726]ay de los Gentiles incrédulos, dice el Padre, porque
+
+15u, 3713: Actos 10:44-48.
+15v, 3714: Versículos 17,21.
+16a, 3715: Véase p, III Nefi 15.
+16b, 3716: III Nefi 15:17,21,23,24.
+16c, 3717: Véase b.
+16d, 3718: Véase p, III Nefi 15.
+16e, 3719: Véase c, II Nefi 27.
+16f, 3720: I Nefi 10:14; Véase c, II Nefi 27.
+16g, 3721: Véase e, I Nefi 15.
+16h, 3722: Véase j, III Nefi 15.
+16i, 3723: Véase u, III Nefi 15.
+16j, 3724: III Nefi 11:32,35,36.
+16k, 3725: Véase c, II Nefi 27.
+16l, 3726: II Nefi 28:32; Véase d, II Nefi 14.
+
+Corrections:
+Space-before-semicolon (rule 31): the 1920 print visually shows a
+gap before ";" throughout this page (v.1, v.2, v.3, v.5, v.7),
+matching the pre-2026-07-24 house style already fixed document-wide
+-- removed in transcription per rule 31, not preserved.
+Hyphen rejoin (rule 7): v.1 "minis-/trando" -> "ministrando"
+(line-break split).
+Hyphen rejoin (rule 7): v.4 "incre-/dulidad" -> "incredulidad"
+(line-break split).
+Em-dash "saben—para" (v.4): confirmed genuine, not a hyphen or
+line-break artifact; preserved as printed.
+Chapter 15's continuing lettering (u, v) resolved via glyph shape
+(u: two-hump stroke before "excepto"; v: open two-stroke shape
+before "ovejas") plus content-fit and independent 1879 confirmation:
+BOM 1879 Pratt file page 521 (chapter_map III Nefi ch.15/16,
+content matches the listed page exactly, no drift) reads "v, vers.
+17, 21." at the parallel spot, confirming letter v; u's own
+citation ("Actos 10:44-48") continues the same Acts-of-the-Apostles
+passage begun by page 518's letter t ("Actos 10:34-43").
+Suspected misprint preserved as printed per rule 32: v.2 "quiónes"
+(expected "quiénes" -- wrong accented vowel). Verify against 1886
+in Session E.
+Suspected misprint preserved as printed per rule 32: v.4 and v.7
+both print "plentitud" (expected "plenitud" -- extra "n"), the same
+misspelling twice on one page. Verify against 1886 in Session E.
+Marker/count investigation (v.4, start of verse, before "Y
+mándoos"): the 1920 print shows a small raised mark at this spot
+that at first glance resembles a footnote superscript. Cross-check
+against BOM 1879 Pratt file page 521 shows NO footnote at the
+parallel position ("And I command you..." is unmarked in 1879),
+and this page's own Block 1 block contains exactly 12 lettered
+entries (a-l) for chapter 16 with no letter left over to assign a
+13th marker -- both facts rule out this mark being a footnote.
+Treated as a stray print/ink artifact, matching the established
+floating-mark precedent (pages 483, 490, 492, 494, 497, 500); not
+transcribed. A similar isolated ink speck sits in the left margin
+beside the "de las partes de aquel pais..." line (v.1) -- outside
+the body text itself, not transcribed either.
+Mandatory 1879 check (letters i and l, this page's own chapter 16
+lettering): confirmed via BOM 1879 Pratt file page 521 (exact page
+match, no drift this time), which reads "...i, see u, III. Nep.
+15. j, III. Nep. 11:32,35,36. k, see c, II. Nep. 27. l, II. Nep.
+28:32. See d, II. Nep. 14." -- letters i and l both match
+letter-for-letter and position-for-position (i at "of the Holy
+Ghost"/"por el Espiritu Santo", l at "wo"/"ay").
+Footnote h's cross-reference target letter was initially misread
+as "i" from a lower-zoom crop of the footnote block (this matters
+since target letter i is in the mandatory i/l/1 set). A tighter
+crop of the 1920 print showed a descender curling below the
+baseline -- inconsistent with "i" (short stroke, separated dot) --
+and BOM 1879 Pratt file page 521 confirmed the target is actually
+"j": "h, see j, III. Nep. 15." Corrected before finalizing; this is
+exactly the failure mode the mandatory i/l/1 check exists to catch.
+Body-marker recount: an initial pass over verses 4-8 mapped 13
+candidate marker positions to only 12 Block 1 entries (a-l), because
+the stray mark before "Y mándoos" (see above) was wrongly counted as
+a footnote letter. Cross-referencing BOM 1879 Pratt's parallel
+verse-by-verse marker positions (file page 521, which matches this
+page's content exactly) resolved the correct 12-marker mapping:
+d/otras tribus, e/a los Gentiles, f/plentitud, g/Entonces,
+h/alianza, i/por, j/de mi, k/ultimos, l/ay.
+Rule 8 marker-overflow cascade (v.6/v.7 boundary): inserting both
+[3723] and [3724] pushed the line to 77 characters; removed the
+last word ("Padre.") and prepended it to the following line, which
+begins verse 7's own "7. He aqui...". Both resulting lines are
+under the 72-character cap.
+Google-text cross-check (extract_google_text.py / check_google_
+crosscheck.py): one candidate near v.24 ("Más" vs an OCR "å")
+dismissed as Google OCR noise -- "å" is not a character used
+anywhere in this document's Spanish text; the 1920 print's own
+accent is confirmed as a normal acute "á" at zoom. No other
+candidates after dismissing known footnote-marker-glue noise.
+check_line_wrap.py only read 5 body lines (stops at the first blank
+line, before the CAPÍTULO 16 divider) -- the same known limitation
+noted on page 505 (chapter heading mid-page), not a reflow finding;
+the chapter-16 lines were transcribed line-by-line from the images
+same as the rest of the page.
+
+Session B: independently re-verified all 14 Block 1 entries (15u-v,
+16a-l) and all 12 body markers against fresh crops of
+pages_1920/page_0541.png; re-ran the mandatory 1879 check for
+letters i and l from a fresh crop of BOM 1879 Pratt file page 521,
+reconfirming "h, see j, III. Nep. 15. i, see u, III. Nep. 15." and
+"l, II. Nep. 28:32. See d, II. Nep. 14." exactly, matching Session
+A's resolution (including the h-target correction from i to j). No
+errors found.
+
+Session E: fresh pptext regeneration (report_wsl_20260726c.html)
+flagged 2 spellcheck/edit-distance suspects, both from this page's
+Corrections log and both confirmed as genuine 1920-only errors
+against 1886 (book page 516/file 534, chapter_map III Nefi ch.15/16)
+plus independent RAE and reference-corpus research: v.2 "quiónes"
+(1886: unaccented "quienes", correct vowel "e"; RAE has no entry for
+"quiónes"; modern Spanish edition uses "quiénes") and v.4/v.7
+"plentitud" (appearing twice on this page with the same misspelling;
+1886 reads "plenitud" both times; RAE has no entry for "plentitud";
+zero corpus hits for "plentitud" vs 20 for "plenitud"). Both added to
+`errors in 1920.txt` and `permitted words.txt`. Full-document
+footnote-anchor check (max 3726, zero duplicates/out-of-range, only
+the pre-existing 812 gap), curly-quote scan (zero curly quotes in
+either master file), and `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` (whole
+document) all clean. No hyphens anywhere in this page's body text, so
+no dash-check findings. The "full stop followed by unexpected
+sequence" paragraph-level check showed nothing new in this page's
+range. Corrections-log sweep found nothing else needing a fresh
+1886/RAE check -- the stray-mark, u/v-lettering, and h-target
+findings were already resolved with their own 1879 cross-checks in
+Session A/B.

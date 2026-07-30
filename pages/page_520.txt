@@ -1,0 +1,174 @@
+Página 520
+ellos han venido sobre la superficie de esta país, y han dispersado
+á mi pueblo, que es de la casa de Israel; y mi pueblo que es de
+la casa de Israel, ha sido echado de ellos, y ha sido pistoteado
+por ellos;
+9. Y á causa de la misericordia del Padre hacia los Gentiles,
+y á causa de los juicios del Padre contra mi pueblo, que
+es de la casa de Israel, en verdad, en verdad os digo, que [3727]después
+de todo esto, después que he hecho que los de mi pueblo, que
+son de la casa de Israel, sean afligidos, heridos, y matados, y
+que sean echados de entre ellos, viniendo á ser odiados, y escarnecidos,
+como cosa de burla, y desprecio por ellos;
+10. Y así el Padre me manda deciros, en el día en que los
+Gentiles pequen contra mi [3728]evangelio, y se levanten en el orgullo
+de sus corazones por encima de [3729]todas las naciones, y de todos
+los pueblos de la tierra, y se llenen de toda clase de engaños,
+mentiras, é iniquidades, y de toda clase de hipocresías, de asesinatos,
+y [3730]supercherías sacredotales, de [3731]fornicaciones y
+[3732]secretas abominaciones; sí, si llega á suceder que hicieren todas
+estas cosas, y rechazaren la [3733]plenitud de mi evangelio, he aquí,
+dice el Padre; que yo sacaré de entre ellos la plentud de mi evangelio;
+11. Y entonces recordaré la alianza que hice con mi pueblo,
+oh casa de Israel, y les llevaré á [3734]ellos mi evangelio;
+12. Y os mostraré, oh casa de Israel, que los Gentiles no
+tendrán ningún poder sobre vosotros, sino que recordaré la
+[3735]alianza que os hice, oh casa de Israel, y vendréis al
+[3736]conocimiento de la plenitud de mi evangelio.
+13. Pero si se arrepienten los Gentiles, y se vuelven á mí,
+dice el Padre, he aquí, que serán [3737]contados entre los de mi pueblo,
+oh casa de Israel;
+14. Y no dejaré á mi pueblo, que es de la casa de Israel, que
+caiga sobre ellos, y les huelle con sus pies, dice el Padre.
+15. Pero si no se volvieren hacia mí, y escucharen mi voz,
+yo les permitiré, sí, yo permitiré á mi pueblo, oh casa de Israel,
+que caigan sobre ellos, y les huellen con sus pies, y serán como
+la [3738]sal que ha perdido su sabor, que desde entonces no es buena
+para nada, sino para ser arrojada y pisoteada bajo los pies de
+mi pueblo, oh casa de Israel.
+16. En verdad, en verdad, os digo, que así el Padre me ha
+mandado, que [3739]dé á este pueblo este país por su herencia.
+17. Y cuando se cumplirán las palabras del profeta Isaías,
+que dicen:
+
+16m, 3727: Véase j, II Nefi 26.
+16n, 3728: Como es revelado en el Libro de Mormón.
+16o, 3729: Mormón 8:35-41.
+16p, 3730: II Nefi 26:29.
+16q, 3731: Véase i, II Nefi 28.
+16r, 3732: Véase i, II Nefi 10.
+16s, 3733: Véase n.
+16u, 3734: A los Lamanitas ó Indios.
+16v, 3735: Véase j, III Nefi 15.
+16w, 3736: Siéndose cumplido ya.
+16x, 3737: II Nefi 10:18-19; III Nefi 21:22-25; 30.
+16y, 3738: III Nefi 12:13.
+16z, 3739: Véase o, III Nefi 15.
+
+Corrections:
+Missing footnote letter "t" (genuine 1920 anomaly): this page's
+footnote-lettering runs m,n,o,p,q,r,s,u,v,w,x,y,z -- letter t is
+entirely absent, both as a body-text marker and as a footnote-block
+entry. Verified at high zoom: no marker appears anywhere near "que
+yo sacaré" (v.10, the position that should carry it), and the
+footnote block reads "...s, Véase n. u, A los Lamanitas..." with
+nothing between s and u. BOM 1879 Pratt file page 522 (chapter_map
+III Nefi ch.16, exact page match, no drift) confirms 1879 DOES have
+a "t" entry there: "t, fulfilled, when the Saints left the States
+and came to Utah." -- so 1920 drops an entire footnote (marker and
+text both), not just a citation error. Verify against 1886 in
+Session E and consider an `errors in 1920.txt` entry documenting the
+dropped letter.
+Mandatory 1879 check (target letters i/l/1): footnote m's target
+("Véase [letter], II Nefi 26") and footnote v's target ("Véase
+[letter], III Nefi 15") both initially resembled "i" (short stroke,
+separated dot) at first glance, but a tighter zoom showed a curved
+hook at the base of the stroke -- inconsistent with "i" and matching
+the swash "j" shape instead. Confirmed via BOM 1879 Pratt file page
+522: "m, see j, II. Nep. 26." and "v, see j, III. Nep. 15." Footnotes
+q and r's targets were independently confirmed as genuine "i"
+(straight stroke, separated dot, no hook), matching 1879's "q, see
+i, II. Nep. 28." and "r, see i, II. Nep. 10." exactly.
+Content-fit: m (3727) resolves to II Nefi 26j (663, latter-day
+scattering/persecution of the remnant of Israel) -- fits v.9's
+"sean afligidos, heridos, y matados... echados de entre ellos". v
+(3735) resolves to III Nefi 15j (3702, III Nefi 5:24-26 gathering/
+covenant language) -- fits v.12's "recordaré la alianza... oh casa
+de Israel". z's target o (III Nefi 15o, 3707, "Norte y Sur América")
+fits v.16's land-inheritance language.
+Suspected misprint preserved as printed per rule 32: v.8(continues)
+"esta país" (expected "este país" -- gender-agreement misprint,
+"país" is masculine). Verify against 1886 in Session E.
+Suspected misprint preserved as printed per rule 32: v.8(continues)
+"pistoteado" (expected "pisoteado" -- extra "t"; this same page
+spells "pisoteada" correctly at v.15, isolating this as a one-off).
+Verify against 1886 in Session E.
+Suspected misprint preserved as printed per rule 32: v.10
+"sacredotales" (expected "sacerdotales" -- "e"/"r" transposed).
+Verify against 1886 in Session E.
+Suspected misprint preserved as printed per rule 32: v.10 "plentud"
+(second occurrence in the verse, expected "plenitud" -- missing "i";
+this same verse spells "plenitud" correctly earlier at "rechazaren
+la plenitud de mi evangelio", isolating this as a one-off, unrelated
+to page 519's separate "plentitud" misspelling). Verify against 1886
+in Session E.
+Hyphen rejoin (rule 7): v.9 "escarne-/cidos" -> "escarnecidos"
+(line-break split); fits at the end of the first line at exactly 72
+characters.
+Hyphen rejoin (rule 7): v.10 "ase-/sinatos" -> "asesinatos"
+(line-break split).
+Hyphen rejoin (rule 7): v.12 "cono-/cimiento" -> "conocimiento"
+(line-break split).
+Rule 8 marker-overflow cascade (v.10): inserting footnote markers
+[3730]-[3732] after the "ase-/sinatos" rejoin pushed the line over
+72 characters; the cascade propagated forward through several lines
+("secretas" -> next line, then "estas" -> next line, then "dice" ->
+next line) before resettling under the cap for the rest of the
+verse.
+Rule 8 marker-overflow cascade (v.12): inserting [3736] immediately
+before the rejoined word "conocimiento" made that line 78 characters;
+moved "conocimiento" as a whole to the start of the next line rather
+than splitting it further.
+Unconditional space normalization (rule 6) applied at several
+justification-widened gaps in the source print (v.9 "de  los",
+v.9 "contra  mi") -- normalized to a single space, no `errors in
+1920.txt` entry needed.
+
+Session B: independently re-verified all 13 Block 1 entries and all
+13 body markers against fresh crops of pages_1920/page_0542.png;
+re-ran the mandatory 1879 check for targets m and v (both i/l/1
+candidates) from a fresh crop of BOM 1879 Pratt file page 522, which
+reconfirmed "m, see j, II. Nep. 26.", "q, see i, II. Nep. 28.", "r,
+see i, II. Nep. 10.", "s, see n.", and "v, see j, III. Nep. 15."
+exactly, matching Session A's resolution including the m/v
+i-vs-j correction. The same 1879 crop also reconfirmed the missing
+"t" footnote is genuinely present in 1879 ("t, fulfilled, when the
+Saints left the States and came to Utah.") and genuinely absent from
+1920. Spot-checked body markers o (before "todas", v.10) and n
+(before "evangelio", v.10) against fresh crops -- both confirmed at
+the expected positions. No errors found.
+
+Session E: fresh pptext regeneration (report_wsl_20260726d.html)
+confirmed all four Corrections-log suspects as genuine 1920-only
+errors against 1886 (book pages 516-517, file 534-535, chapter_map
+gap for III Nefi navigated by direct increment from page 519's
+already-established file 534): v.8 "esta país" (1886: "este pais",
+correct gender agreement) and "pistoteado" (1886: "pisoteado", no
+extra "t"; this same page spells "pisoteada" correctly at v.15), and
+v.10 "sacredotales" (1886: "sacerdotales", e/r in correct order) and
+the second "plentud" (1886: "plenitud"; distinct from page 519's
+separate "plentitud" misspelling). All four added to `errors in
+1920.txt`; the three pptext-flagged this run (pistoteado, plentud,
+sacredotales) also added to `permitted words.txt`. Also added an
+`errors in 1920.txt` entry for the missing footnote letter "t"
+(documented above), matching the established "falta la nota" style
+used for the pre-existing Jacob 2:15/footnote-812 gap. One more
+spellcheck suspect, "Siéndose" (footnote 16w's own text, "Siéndose
+cumplido ya"), was flagged this run; added to `permitted words.txt`
+only. Independent research found no other instance of "ser" taking a
+reflexive/impersonal "se" anywhere else in `librodm.txt` (only
+"-iéndose" gerunds of other verbs -- volviéndose, habiéndose,
+sintiéndose, etc. -- and two plain, se-less uses of "siendo"), and no
+RAE DLE entry or reference-corpus hit for "siéndose" specifically;
+since this is a footnote (1886 carries no footnotes, so no comparison
+source exists) and the meaning is unambiguous and matches 1879's
+parallel note ("now being fulfilled"), it was not added to `errors in
+1920.txt` -- flagged here for the editor's awareness rather than
+decided unilaterally. Full-document footnote-anchor check (max 3739,
+zero duplicates/out-of-range, only the pre-existing 812 gap),
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document), and an independent
+curly-quote character scan all clean. No hyphens remain in this
+page's body text (all three rejoined), so no dash-check findings; the
+"full stop followed by unexpected sequence" paragraph-level check
+showed nothing new in this page's range.

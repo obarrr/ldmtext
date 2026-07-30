@@ -1,0 +1,176 @@
+Página 544
+hasta el Padre se recocija, y con Él todos los santos ángeles, á
+causa de vosotros y de esta generación; porque ninguno de
+ellos se perderá.
+31. Por lo tanto, quisiera que lo supierais que ninguno de
+cuantos viven ahora en esta generación se perderá; y en ellos
+tengo la plenitud de mi gozo.
+32. Pero, he aquí, que me llena de tristeza el porvenir de la
+[3975]cuarta generación, á contar desde esta, porque serán llevados
+á la cautividad por aquél que fué el [3976]hijo de perdicion, porque
+me venderán por el oro, y por la plata, y por todo aquello que
+la [3977]polilla corrompe, y lo que los ladrones puedan romper y
+robar. Y en aquel día les visitaré, [3978]haciendo que sus obras
+caigan sobre sus propias cabezas.
+33. Y ocurrió que cuando Jesús hubo pronunciado estas
+palabras, dijo á sus discípulos: [3979]Entrad por la puerta estrecha,
+porque estrecha es la puerta, y angosto es el camino que conduce
+á la vida, y pocos son los que lo encuentran; pero ancha es la
+puerta, y espacioso es el camino que conduce á la muerte, y hay
+muchos que caminan por él, hasta que llegue la noche, en la
+que nadie puede trabajar.
+
+CAPÍTULO 28.
+
+1. Y sucedió, que después que Jesús dijo estas palabras, habló
+á sus discípulos, uno á uno, diciéndoles: ¿Qué es lo que deseáis
+de mí después que me haya ido al Padre?
+2. Y contestaron todos á excepción de tres: Deseamos que
+después que vivamos hasta la edad del hombre, y hayamos
+cumplido con el ministerio, para el cual Tú nos has escogido,
+que nos vayamos luego á Ti, en tu reino.
+3. Y Jesús les respondió: Benditos sois por causa de lo que
+deseáis de mí; por lo tanto, cuando tengáis [3980]setenta y dos años
+de edad, vendréis á mí en mi reino, y conmigo hallaréis descanso.
+4. Y cuando les hubo hablado, volvió hacia los tres, y les
+dijo: ¿Qué es lo que deseáis que haga para vosotros, cuando
+me haya ido al Padre?
+5. Y ellos padecían en su corazón, porque no se atrevían á
+decirle lo que deseaban.
+6. Y Él les dijo: He aquí, que conozco vuestros pensamientos;
+vosotros deseasteis lo mismo que de mí deseó mi muy amado
+
+27w, 3975: Véase d, I Nefi 12.
+27x, 3976: III Nefi 29:7.
+27y, 3977: III Nefi 13:19-21.
+27z, 3978: Mormón 5.
+27-2a, 3979: III Nefi 14:13-14; Véase 2a, II Nefi 9.
+28a, 3980: IV Nefi 1:14.
+
+Corrections:
+Page continues Chapter 27 (v.30 cont.-33, no chapter boundary at the
+top, no subtitle) from page 543; v.30 concludes on this page
+("...ninguno de ellos se perderá."). Chapter 27 continues through
+v.33, then CAPÍTULO 28 begins mid-page -- checked directly against
+the image for a subtitle at this chapter opening per the standing
+rule (Section 1) and found none. Body text is cut off mid-verse at
+v.6 ("...deseó mi muy amado"), continuing on page 545. Per rule 1,
+`Página 544` is followed immediately by body text with no blank line
+since the page opens mid-sentence.
+No rule-7 hyphenated line-break rejoins needed this page (no line-end
+hyphens observed in any crop).
+Rule-6 gap normalizations (wider-than-normal gaps collapsed to a
+single space, mechanical, no exceptions): "robar.  Y en aquel día"
+(v.32), "discípulos:   [3979]Entrad" (v.33), "diciéndoles:   ¿Qué"
+(28:1), "tres :  Deseamos" (28:2, combined with the rule-31 fix
+below), "respondió :  Benditos" (28:3, combined), "dijo :  ¿Qué"
+(28:4, combined), "dijo :  He aquí" (28:6, combined).
+Rule-31 space-before-punctuation cleanup: "generación ;" ->
+"generación;" (v.30), "perderá ;" -> "perderá;" (v.31), "encuentran ;"
+-> "encuentran;" (v.33), "tres :" -> "tres:" (28:2), "respondió :" ->
+"respondió:" (28:3), "deseáis de mí ;" -> "deseáis de mí;" (28:3),
+"dijo :" -> "dijo:" (28:4 and 28:6), "pensamientos ;" ->
+"pensamientos;" (28:6).
+Suspected misprint (rule 32) investigated, v.30: the 1920 image
+clearly prints "se recocija" (zoomed and confirmed letter-for-letter:
+r-e-c-o-c-i-j-a), which looks at first glance like it should be "se
+regocije"/"regocija". Checked directly against 1886
+(pages_1886/page_0558.png, book page 540, mid crop): 1886 prints the
+identical "sí, hasta el Padre se recocija, y con Él todos los santos
+ángeles" at the same spot -- a shared-between-editions reading, same
+pattern as "seperado"/"marvillosas". Session E did the full mandatory
+research pass regardless of the 1886 agreement: RAE DLE has no entry
+at all for "recocijar" (only "regocijar"); the modern Spanish edition
+(churchofjesuschrist.org, 3 Nefi 27:30) reads "se regocija"; and the
+local reference corpora have zero hits for "recocija"/"recocije"
+against 26 for "regocija"/"regocije". This evidence, not just the
+1886 match, is what settled it -- **logged in `errors in 1920.txt`**
+(III Nefi 27:30, "recocija" -> "regocija") and added to `permitted
+words.txt` (pptext flags it as a spellcheck suspect). Preserved as
+printed in the transcription itself, per rule 32.
+Minor accent divergence noted, v.31 "supierais": 1920 prints with no
+accent (zoomed and confirmed: no mark over any vowel); the same 1886
+page/crop above prints "supiérais" with an accent on the e. Unlike
+the "perdicion"/v.32 case below, this one was NOT promoted to
+`errors in 1920.txt`: pptext's spellcheck section does not flag
+"supierais" at all (it's accepted as-is by aspell, unlike
+"perdicion"), so there is no independent signal beyond the bare
+1886 divergence to justify the extra research pass -- treated as a
+routine missing-accent case per rule 11 and left as a Corrections-log
+note only.
+No i/l/1 letters appear among this page's footnote letters (w, x, y,
+z, 2a, a) or cross-reference targets except the already-settled "d"
+and "2a" (neither is i/l/1) -- the mandatory 1879 check was not
+triggered this page.
+Footnote lettering: Chapter 27's lettering continues from page 543
+(which ended at "v") with w, x, y, z, 2a for v.32-33's five
+footnotes, confirmed via strict alphabetical sequencing (rule 13,
+letters run with no gaps) plus a direct same-page glyph check for the
+first (w, before "cuarta") and fourth (z, before "haciendo") letters,
+whose shapes are both distinctive and unambiguous at zoom. The
+"2a" cross-reference target ("Véase 2a, II Nefi 9") follows the same
+two-letter-code convention already established in the rules doc
+(rule 16 example, "3-2a"), confirming II Nefi 9's own footnote
+lettering also runs past z -- not independently verified further
+since 2a is outside the mandatory i/l/1 set and the citation content
+(a "strait gate" cross-reference tied to III Nefi 14:13-14, the
+Nephite Sermon on the Mount) is a thematically good fit for v.33.
+Chapter 28 begins fresh at footnote letter "a" (v.3, "setenta y dos
+años") per rule 13; its citation "IV Nefi 1:14" (disciples living to
+old age) is a strong content match.
+Rule-16 formatting: 27's fifth footnote past z is written "27-2a"
+(hyphenated two-letter code) per the established convention.
+Rule-23 verse-range formatting applied: 27-2a's "III Nefi 14:13,14"
+-> "13-14" (consecutive verses); 27y's "III Nefi 13:19-21" was already
+printed as a hyphenated range in the source, unchanged.
+No narrow-space-vs-merge candidates found on this page.
+Google-text cross-check (`check_google_crosscheck.py 544`) caught one
+genuine transcription error: v.32 "hijo de perdición" was initially
+typed with an accent on the o, but the 1920 image (zoomed) clearly
+prints "perdicion" with no accent, matching Google's OCR reading.
+Corrected in the transcription. Session E: also checked against 1886
+(pages_1886/page_0558.png, book page 540, bot crop), which
+hyphenates the same word across a line break as "perdi-" / "cion" --
+also with no accent on the o, a shared-between-editions reading, same
+pattern as "discípulos"/"leon". pptext flags "perdicion" as a
+spellcheck suspect in this run, so the full mandatory research pass
+was done: RAE requires the accent ("perdición" is aguda, ending in
+"n"); the document itself already uses "perdición" accented elsewhere
+(`librodm.txt` line 9266, a separate verse/print location); the
+modern Spanish edition (churchofjesuschrist.org, 3 Nefi 27:32) reads
+"perdición"; and the local reference corpora have 16 clean-text hits
+for accented "perdición" against 0 clean-text hits for unaccented
+"perdicion" (the one raw hit is OCR noise in the archive.org corpus).
+**Logged in `errors in 1920.txt`** (III Nefi 27:32, "perdicion" ->
+"perdición") and added to `permitted words.txt`.
+`check_line_wrap.py` flagged the same known mid-page-chapter-break
+false positive documented on earlier pages (`txt_body_lines()` stops
+at the first blank line, missing CAPÍTULO 28's 17 lines and only
+counting chapter 27's leading 20) -- manually confirmed the real
+total (38 body lines) is within 1 of the script's own OCR estimate
+(37), consistent with no reflow.
+Session B: independently re-verified all 6 Block 1 entries and all 6
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. No i/l/1 letters appear anywhere on this page (in
+either the page's own lettering or any cross-reference target), so
+the mandatory 1879 check does not apply this session.
+Session E: fresh pptext regeneration (`report_wsl_20260729e.html`).
+Two spellcheck-suspect words on this page ("recocija", "perdicion")
+were investigated per the mandatory research pass (1886 + RAE DLE +
+modern edition + local corpora) and both resolved as genuine 1920
+errors despite 1886 agreement -- see the two write-ups above; both
+added to `errors in 1920.txt` (inserted in book/chapter/verse order,
+right after the existing III Nefi 27:18 entry) and to `permitted
+words.txt`. Whole-document sweep: `check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, and `check_verse_indent.py` all
+clean across `librodm.txt`/`librodm_foot.txt`; a full `\[(\d+)\]`
+anchor scan found zero duplicates and exactly one gap (footnote 812,
+the long-since-documented Jacob 2:15 case, unrelated to this page);
+zero curly quotes in either master file. pptext's footnote-check
+section's two anchor buckets both appear consistent for this page's
+range once merged (3975 lands in the "start of wrapped line" bucket
+purely because `[3975]cuarta` happens to open its own output line,
+not because it's actually missing -- the known bucket-split quirk).
+No new narrow-space-vs-merge candidates to flag for the editor from
+this page (none were found in Session A).

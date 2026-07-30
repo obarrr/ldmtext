@@ -1,0 +1,144 @@
+Página 527
+5. Y, he aquí, que era tan grande la multitud, que fué necesario
+dividirla en doce partes.
+6. Pusiéronse entonces los doce á enseñar á la multitud;
+y, he aquí, que hicieron que se [3787]arrodillase sobre la superficie
+de la tierra, y orase al Padre en el nombre de Jesús.
+7. Y los discípulos oraron también al Padre, en el nombre de
+Jesús. Y aconteció que levantándose ministraron al pueblo.
+8. Después que les hubieron administrado las mismas palabras
+que Jesús había pronunciado--sin [3788]variar en nada las
+palabras que Jesús había hablado--he aquí, que se arrodillaron
+de nuevo, é invocaron al Padre en el nombre de Jesús;
+9. Pidiéndole por lo que más deseaban; que era, que les fuese
+dado el Espíritu [3789]Santo.
+10. Y cuando hubieron orado de este modo, descendieron á
+las orillas del agua, y les seguió la multitud.
+11. Y sucedió, que entrando Nefi en el agua, fué bautizado.
+12. Y saliendo después de ella, empezó á bautizar; y bautizó
+á todos estos que Jesús había escogido.
+13. Y aconteció, que, cuando [3790]todos fueron bautizados, y
+salieron del agua, el Espíritu [3791]Santo descendió sobre ellos, y
+fueron llenados de Espíritu Santo, y fuego.
+14. Y, he aquí, que quedaron [3792]envueltos como con llamas que
+descendían [3793]del cielo; lo que fué visto por la multitud, que da
+testimonio de ello; y bajando ángeles del cielo, les ministraron.
+15. Y sucedió que mientras que los ángeles se hallaban ministrando
+á los discípulos, he aquí, que apareció Jesús en medio de
+ellos, y les ministró.
+16. Y sucedió, que hablando Él á la multitud, les mandó que
+se [3794]arrodillaran otra vez por tierra, y lo mismo dijo á sus
+discípulos, mandándoles que se arrodillasen también.
+17. Y sucedió que, cuando todos se hubieron arrodillado por
+tierra, mandó á sus discípulos que [3795]orasen.
+18. Y, he aquí, que empezaron ellos á orar; y oraron á Jesús,
+llamándole su Señor y su Dios.
+19. Y sucedió, que Jesús se salió de entre ellos, y separándose
+un poco de ellos, se inclinó á tierra, y dijo:
+20. Padre, gracias te doy porque has [3796]dado el Espíritu Santo
+á estos, á quiénes yo he escogido; á los que he [3797]escogido entre
+los del mundo, por su fe en mí.
+21. Te ruego, oh Padre, que [3798]dés el Espíritu Santo á todos
+los que crean en sus palabras.
+22. Padre, Tú les has dado el Espíritu Santo, por que creen
+
+19e, 3787: Véase h, III Nefi 17.
+19f, 3788: III Nefi Capítulos 11-18.
+19g, 3789: Véase v, III Nefi 9.
+19h, 3790: Véase u, II Nefi 9.
+19i, 3791: Véase v, III Nefi 9.
+19j, 3792: Helamán 5:23,24,36,43-45; III Nefi 17:24.
+19k, 3793: Helamán 5:45.
+19l, 3794: Véase h, III Nefi 17.
+19m, 3795: Véase c, II Nefi 32.
+19n, 3796: Véase v, III Nefi 9.
+19o, 3797: Véase c, III Nefi 12.
+19p, 3798: Véase v, III Nefi 9.
+
+Corrections:
+Continues chapter 19 from page 526 (page 526 ended at letter d, 3786);
+no chapter boundary on this page, letters continue e-p (12 entries,
+strictly sequential, no gaps).
+Three rule-7 hyphenated line-break rejoins: v.8 "pala-/bras" ->
+"palabras" (kept on the first line, 61 chars); v.15 "minis-/trando"
+-> "ministrando" (kept on the first line, 66 chars); v.16
+"[3794]dis-/cípulos" -> "discípulos" -- this one triggered rule 8
+rebalancing (combined length with the footnote marker would have been
+75 chars), so "discípulos," moved whole to the start of the next line
+instead, per rule 7's "73 or more -> move to next line" clause.
+Em-dashes preserved as printed (rule 32/established project
+convention, represented as "--"): v.8 "pronunciado--sin" and
+"hablado--he aquí".
+Two zero-width print merges normalized to two words per the 2026-07-22
+rule-6 default (grammar requires two words; no zoom/pixel analysis
+performed, not logged in `errors in 1920.txt`): v.5 "que era" (printed
+"queera") and v.5 "tan grande" (printed "tangrande").
+v.22 "por que creen" -- confirmed at zoom to be printed with normal,
+full-width spacing (not a tight/merge candidate); transcribed exactly
+as printed, not "porque".
+This page's own letters e-p include two in the mandatory i/l/1 set:
+i (v.13, second "Santo") and l (v.16, "arrodillaran"). Confirmed via
+BOM 1879 Pratt file page 529 (chapter_map has no III Nefi rows;
+navigated by direct increment from page 526's established 1879 file
+528 to file 529, content matches exactly, no drift): "i, see y,
+III. Nep. 9." and "l, see h, III. Nep. 17." -- letter identity
+confirmed for both (1879 independently uses the same letters i and l
+at the same positions). Every other letter/citation on this page
+(f, h, j, k, m, o) matched 1879 letter-for-letter and
+content-for-content exactly.
+Two genuine, expected differences from 1879, both translation
+artifacts per rule 26, not errors: (1) everywhere 1920 cites "Véase
+v, III Nefi 9" (footnotes g, i, n, p -- all Espíritu Santo/Holy Ghost
+citations), 1879 cites "see y, III. Nep. 9" for the identical content
+-- III Nefi 9's own lettering simply differs by edition, already an
+established pattern; (2) 1879's chapter 19 footnote lettering on this
+page starts at "f" with no "e" entry at all, while 1920 has one extra
+footnote (e, at v.6 "arrodillase") that 1879 does not mark at the
+equivalent spot -- a footnote-count difference between editions, not
+logged as an error.
+Content-fit note: footnotes g, i, n, and p all resolve to the same
+target (III Nefi 9's own Holy-Ghost-related footnote), a strong fit
+given this page's own repeated "Espíritu Santo" mentions (verses 9,
+13, 20, 21, 22).
+No suspected misprints found on this page; text reads cleanly and
+matches expected content throughout.
+Google-text cross-check (`extract_google_text.py 527` /
+`check_google_crosscheck.py 527`) caught one genuine transcription
+error missed by the initial read: v.10 was typed "siguió" but a fresh
+zoom confirmed the print actually reads "seguió" -- fixed directly
+per rule 12 (transcription error). Re-ran the cross-check after the
+fix: 0 remaining candidates for page 527.
+Session E: fresh pptext regeneration (`report_wsl_20260727.html`)
+flagged two spellcheck suspects for this page's range. "Pusiéronse"
+(v.6) confirmed legitimate -- matches 1886 exactly (book page
+523/file 541, "Pusiéronse entónces los doce"), the same archaic
+enclitic-pronoun pattern already established elsewhere in this
+document (admiráronse, etc.); added to `permitted words.txt` only.
+"seguió" (v.10, the very word the Google cross-check corrected the
+transcription to) turned out to itself be a genuine 1920 error once
+checked against 1886, RAE, and the modern edition: 1886 shares the
+identical reading at the identical spot (confirmed at zoom, same
+page image used for the "Pusiéronse" check above) -- a shared error
+between editions, same pattern as "seguiente"/"aparacerá"/"seperado"/
+"frustado"/"necessario"/"discipulos" -- but "seguir" is an irregular
+e-to-i stem-changing verb whose third-person preterite is always
+"siguió", never "seguió" (confirmed via RAE/WebSearch); the local
+reference corpora have zero hits for "seguió" versus 5 for "siguió"
+in Don Quijote; and the modern Spanish LDS edition
+(churchofjesuschrist.org, 3 Nefi 19:10) reads "siguió". Added to both
+`errors in 1920.txt` (III Nefi 19:10) and `permitted words.txt`.
+Full-document footnote-anchor check (max 3798, zero duplicates/
+out-of-range, only the pre-existing 812 gap),
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document), and an independent
+curly-quote character-count scan of both master files all clean. This
+page's body text has no hyphens post-rejoin (only the two intentional
+em-dashes, v.8), so no dash-check findings.
+This page's file originally included a "Block 1:" label line before
+the footnote entries, deviating from the established no-label
+convention (pages 511-514+) -- this caused `insert_body_text.py` to
+swallow that label line into `librodm.txt`'s body text right before
+`Notas`, the same bug documented on 2026-07-25i (page 515).
+`librodm_foot.txt` was unaffected (footnote entries appended
+correctly regardless). Fixed by removing the label line from both
+`pages/page_527.txt` and the stray line from `librodm.txt`.

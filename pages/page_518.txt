@@ -1,0 +1,151 @@
+Página 518
+8. Porque, he aquí, que no se ha cumplido enteramente la
+[3702]alianza que hice con mi pueblo; mas la [3703]ley, que se dió
+á Moisés, tiene fin en mí.
+9. He aquí, que yo soy la ley, y la [3704]luz. Mirad hacia mí, y
+perseverad hasta el fin, y viviréis, porque á quién [3705]perseverare
+hasta el fin, le daré vida eterna.
+10. He aquí, que os he dado los mandamientos; por tanto
+guardadlos. Y esta es la ley y los profetas, porque ellos en
+verdad testificaron de mí.
+11. Y ahora, vino á suceder, que cuando Jesús hubo hablado
+estas palabras dijo á [3706]aquellos doce, á quiénes Él había
+escogido:
+12. Vosotros sois mis discípulos, y sois una luz para este
+pueblo, que es un resto de la casa de José.
+13. Y, he aquí, [3707]este es el país de vuestra herencia; y el
+Padre os lo ha dado.
+14. Y jamás el Padre me ha dado ningún mandamiento, para
+que lo comunicare á vuestros hermanos en Jerusalem;
+15. Ni tampoco en cualquier tiempo me ha dado el Padre
+mandamiento, para que les dijera acerca de las [3708]otras tribus
+de la casa de Israel, que el Padre ha conducido afuera del país.
+16. Tanto me mandó el Padre, que les dijera,
+17. Que tengo [3709]otras ovejas, que no son de este redil; á
+ellas debo yo traer, y ellas oirán mi voz; y habrá un redil, y
+un pastor.
+18. Y ahora, á causa de obstinación é incredulidad, no
+comprendieron mi palabra; por tanto, fuí mandado de no
+decirles más del Padre acerca de esto;
+19. Mas en verdad os digo, que el Padre me ha mandado, y
+yo os lo digo, que fuisteis separados de ellos á causa de su
+iniquidad; por tanto, es á causa de su iniquidad, que no saben
+de no vosotros.
+20. Y en verdad, dígoos otra vez, que el Padre ha separado
+de ellos á las [3710]otras tribus; y es á causa de su iniquidad, que
+saben de ellas.
+21. Y dígoos, en verdad, que [3711]sois aquéllos de quiénes dije:
+Otras ovejas tengo yo, que no son de este redil; á ellas también
+debo yo traer, y ellas oirán mi voz; y habrá un redil; y un
+pastor.
+22. Y no me comprendieron, por suponer que me refería á los
+Gentiles; porque no entendieron que los Gentiles se
+[3712]convertirían por medio de su predicación;
+23. Y ellos no me entendieron que yo dijera que ellos oirían
+mi voz; y no me comprendieron de que los Gentiles no habían
+
+15j, 3702: III Nefi 5:24-26; 16:5; Véase e, I Nefi 15.
+15k, 3703: Véase o, II Nefi 25.
+15l, 3704: Véase m, Mosíah 16.
+15m, 3705: Véase II Nefi 31.
+15n, 3706: III Nefi 12:1.
+15o, 3707: Norte y Sur América; Véase k, I Nefi 18; III Nefi 15:13.
+15p, 3708: Versículo 20; Las Diez Tribus; II Nefi 21:12; III Nefi
+16:1-4; 17:4.
+15q, 3709: Versículos 21-24; Juan 10:16.
+15r, 3710: Véase p.
+15s, 3711: Versículo 17.
+15t, 3712: Actos 10:34-43.
+
+Corrections:
+Hyphen rejoin (rule 7): v.18 "no com-/prendieron" -> "no
+comprendieron" (line-break split).
+Mandatory 1879 check (letter l, v.9 "luz," chapter 15's own
+continuing lettering): confirmed via BOM 1879 Pratt file page 520,
+which reads "l, see m, Mos. 16." At low zoom the 1920 print's "16"
+looked like "Mosíah :6" (a faint "1" resembling a colon mark before
+the "6"); a tighter re-zoom plus the 1879 match confirmed the digit
+is "1", i.e. chapter 16, not a colon-6 anomaly.
+Footnotes j and k's cross-reference targets are illegible
+over-inked-blob glyphs in the 1920 print (same font/print defect
+already seen on page 517's footnotes 14c/15c). Resolved via BOM 1879
+Pratt file page 519: "j, ... See e, I. Nep. 15." and "k, see o, II.
+Nep. 25." Target letters: j -> e; k -> o. Neither target letter is
+i/l/1, so this is a discretionary (not mandatory) check, done anyway
+per the same-page-illegible-glyph precedent.
+Footnote o's cross-reference chapter number ("Véase k, I Nefi 18")
+was read crisply and unambiguously at zoom on the 1920 print (clear
+"1" and "8" digits), even though the parallel BOM 1879 Pratt entry
+(file page 520, "See k. I. Nep. 1?.") is blurred/inked enough to be
+read as either "15" or "18" at any zoom tried. Settled via
+content-fit: I Nefi 18 is the chapter covering the ocean voyage and
+arrival in the promised land, and I Nefi 18's own letter k
+(librodm_foot.txt line 190, sequential 165) cites "I Nefi 2:20; Se
+cree que fué en la costa de Chili" -- a landing-site footnote, an
+exact thematic match for this footnote's own "Norte y Sur América"
+citation. Resolved as I Nefi 18. (Session D note: the mixed
+"direct text; Véase [letter], Book Chapter; more text" citation
+format that generate_block2.py can't auto-parse -- the same known
+limitation as prior pages -- meant 3707 needed a manual fix: "Véase
+k, I Nefi 18" -> "Véase 165".)
+v.18 "obstinación é incredulidad" -- printed with a true zero-width
+gap ("obstinaciôné"), confirmed at zoom. Per the rule 6 default,
+transcribed as two words with a normal space rather than preserved
+as a merge: BOM 1879 Pratt (file page 520) reads "stiffneckedness
+and unbelief" at the parallel spot, confirming two words are
+intended ("é" here is the archaic form of "y" used before a word
+beginning with the "i" sound, "incredulidad"). Not logged as an
+error; surfaced here per the standing instruction for Session E's
+summary.
+v.19 "no saben de no vosotros" -- suspected misprint (a doubled
+"no"). BOM 1879 Pratt (file page 520) reads "...that they know not
+of you," i.e. a single negation ("no saben de vosotros" expected).
+Preserved as printed per rule 32; verify against 1886 in Session E.
+Marker n (v.11, "aquellos doce") confirmed via BOM 1879 Pratt file
+page 520 (same footnote block as l/m), which places its own
+equivalent letter at "he said unto [n]those twelve whom he had
+chosen" -- matching position and content (III Nefi 12:1, Jesus
+addressing the twelve disciples).
+
+Session B: independently re-verified all 11 Block 1 entries (15j-t)
+and all 11 body markers against fresh crops of pages_1920/
+page_0540.png; re-ran the mandatory 1879 check for letter l from a
+fresh crop of BOM 1879 Pratt file page 520, reconfirming "l, see m,
+Mos. 16." exactly. Also re-examined the o-target chapter-number
+digit ("I Nefi 18" vs "15") at a fresh, tighter zoom on the 1879
+page: still genuinely ambiguous there (a blurred "1" followed by an
+inked loop-and-curl shape consistent with either "5" or "8"),
+confirming Session A's note that this is a real print-quality
+limit, not a reading that would resolve with more zooming. The 1920
+print itself remains crisp and unambiguous ("18"), so the resolution
+stands. No errors found.
+
+Session E: fresh pptext regeneration (report_wsl_20260726b.html) came
+back fully clean for this page's range -- the sole document-wide
+spellcheck/edit-distance hit remains the pre-existing, unrelated
+"Profecia" (page 469); no new spellcheck suspects, no hyphenation
+findings (page has none post-rejoin), and the "full stop followed by
+unexpected sequence" / "paragraph ends in comma" paragraph-level
+checks show nothing from this page's range. Footnote-anchor check
+(merging pptext's "found footnote anchors" and "found footnotes"
+buckets) confirms 3702-3712 fully and uniquely covered with zero
+duplicates and zero gaps -- only the pre-existing, unrelated 812 gap
+remains document-wide. check_spaced_punctuation.py,
+check_footnote_punctuation.py, and check_verse_indent.py all came
+back clean against the whole document. Mandatory Corrections-log
+sweep: v.19 "no saben de no vosotros" confirmed as a genuine
+1920-only error against 1886 (book page 515/file 533: "que no saben
+de vosotros", single negation), matching the BOM 1879 Pratt reading
+already noted in Session A; added to `errors in 1920.txt` (no
+`permitted words.txt` entry -- a grammatical duplication, not a
+spelling matter). v.18 "obstinación é incredulidad" reconfirmed via
+1886 (book page 515/file 533: "obstinacion é incredulidad", also two
+words, matching BOM 1879 Pratt's "stiffneckedness and unbelief") --
+not an error, no entry needed. The mandatory 1879 check for letter l
+and the discretionary j/k blob-target resolutions were both already
+independently reconfirmed in Session B; no further action needed.
+Narrow-space/tight-pair note for the editor (per
+feedback_narrow_space_vs_merge): none on this page -- no tight word
+pairs were flagged in Session A besides the true zero-width
+"obstinaciôné" merge, which is already resolved as a two-word default
+per rule 6, not an open question.

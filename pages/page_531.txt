@@ -1,0 +1,173 @@
+Página 531
+Él os dijere. Y sucederá que toda alma que no quisiere oir á
+este profeta, será separada de entre el pueblo.
+24. Sí, en verdad, os digo: que [3826]todos los profetas que hubieron
+desde Samuel, y los que le siguieron después, y tantos como han
+hablado, han dado testimonio de mí.
+25. He aquí, que vosotros sois los hijos de los profetas; y sois de
+la casa de Israel; y sois los de la alianza que el Padre hizo con
+vuestros padres, diciendo á Abraham: [3827]En tu posteridad serán
+benditas todas las familias de la tierra;
+26. El Padre habiéndome resucitado primero, me ha enviado
+á bendeciros para separar á cada uno de vosotros de sus iniquidades;
+y esto, porque sois los hijos de la alianza.
+27. Y después que hayáis sido bendecidos, entonces cumplirá
+el Padre la alianza que hizo con Abraham, diciendo: [3828]En tu
+posteridad serán bendecidas todas las familias de la tierra,
+por la efusión del Espíritu [3829]Santo sobre los Gentiles por medio
+de mí, cuya bendición [3830]hará que los Gentiles se eleven por sobre
+todas las cosas, hasta dispersar á mi pueblo, oh casa de Israel;
+28. Y serán un [3831]azote para el pueblo de este país. No
+obstante, si cuando hayan recibido la [3832]plentitud de mi evangelio,
+llega á suceder que endurezcan sus corazones en contra
+mía, entonces haré [3833]caer sus iniquidades sobre sus propias
+cabezas, dice el Padre.
+29. Y yo recordaré la [3834]alianza que he hecho con mi pueblo,
+en la que les he ofredico [3835]recogerles á mi propio tiempo, y que
+les daré otra vez el país de sus padres para su posesión, que es el
+país de Jerusalem, que les ha sido prometido para siempre, dice
+el Padre.
+30. Y sucederá, que el día llegará en que les será [3836]predicada
+la plenitud de mi evangelio,
+31. Y ellos creerán en mí, y creerán que yo soy Jesu Cristo,
+el Hijo de Dios; y rogarán al Padre en mi nombre.
+32. Entonces levantarán la voz [3837]sus centinelas, y cantarán
+juntamente; porque verán ojo á ojo.
+33. Entonces les [3838]congregará otra vez el Padre, y los dará
+Jerusalem por país de su herencia.
+34. Entonces romperán en cánticos de alegría: cantad juntamente,
+soledades de Jerusalem; porque el Padre ha consolado á
+su pueblo; á Jerusalem ha redimido;
+35. El Padre ha desnudado el brazo de su santidad ante los
+ojos de todas las naciones; y todos los términos de la tierra
+verán la salud del Padre, y el Padre y yo [3839]somos uno.
+
+20x, 3826: Actos 3:19-26.
+20y, 3827: Versículo 27; Génesis 22:18; Actos 3:25.
+20z, 3828: Véase y.
+20-2a, 3829: III Nefi 15:23; Actos 10:44-48.
+20-2b, 3830: I Nefi 13:11-15.
+20-2c, 3831: I Nefi 13:11,14; III Nefi 16:8-9.
+20-2d, 3832: III Nefi 16:10.
+20-2e, 3833: III Nefi 16:15; 20:15-20.
+20-2f, 3834: Véase j, III Nefi 15.
+20-2g, 3835: Véase e, I Nefi 15.
+20-2h, 3836: Véase f, II Nefi 25.
+20-2i, 3837: Isaías 52:9-10; III Nefi 16:18-20.
+20-2j, 3838: Véase e, I Nefi 15.
+20-2k, 3839: Véase k, II Nefi 31.
+
+Corrections:
+Mechanical pass: three rule-7 hyphen rejoins, all landing under the
+72-char cap on their first line so none moved to the next line:
+"ini-/quidades" -> "iniquidades", "evan-/gelio" -> "evangelio",
+"junta-/mente" -> "juntamente". Numerous rule-31 space-before-
+punctuation fixes throughout (the 1920 print consistently sets a
+space before colons and semicolons on this page, e.g. "digo :" ->
+"digo:", "profetas ; y" -> "profetas; y", "Israel ;" -> "Israel;",
+"alegría :" -> "alegría:" -- all normalized per rule 31, no exception).
+One rule-8 overflow: inserting [3829] before "Santo" pushed that line
+to 73 characters, so "de" moved to the start of the next line.
+Footnote lettering: this page's own footnote-reference font is the
+same heavily stylized swash italic already documented as ambiguous on
+pages 509/510 -- an initial read of the first three letters (before
+"Actos 3:19-26", before "Versículo 27...", before "Véase [prior
+letter]") looked like z, v, s respectively, with no visible descender
+distinguishing the second glyph from a "v". This would violate rule 13
+(page 530 ended at letter w, so page 531 must continue x, y, z with no
+gap or reordering) and was resolved via the mandatory-discretion
+BOM 1879 Pratt cross-check (file page 533, chapter_map has no III Nefi
+rows -- navigated by direct increment from page 530's established file
+532, content lands on the very next page, no drift): 1879 reads "x,
+Acts 3:19-26. y, ver. 27. Gen. 22:18. Acts 3:25. z, see y." letter-for-
+letter matching the citation content, confirming the true letters are
+x, y, z (not z, v, s) -- the same "looks like v with no visible
+descender, is actually y" pattern already documented on page 510
+(11-2o/12e). Footnote 2f's target letter was similarly misread at
+first as "i" (mandatory check applied since i is in the i/l/1 set) --
+1879 reads "2f, see j, III. Nep. 15.", and content-fit confirms j over
+i decisively: III Nefi 15j (3702) cites "III Nefi 5:24-26; 16:5; Véase
+e, I Nefi 15" -- the gathering/covenant theme this footnote (v.29
+"alianza... recogerles") is actually about -- while 15i (3701) cites
+the unrelated Sermon-on-the-Mount passage (III Nefi 12:46-47). This
+page's own literal letter "i" (2i, a direct citation with no Véase)
+was independently confirmed via the same 1879 page ("2i, Isaiah
+52:9,10. III. Nep. 16:18-20.") -- satisfies the mandatory i/l/1 check
+for this page's own lettering too. All other letters/targets (2a-2e,
+2g, 2h, 2j, 2k) matched 1879 letter-for-letter and target-for-target,
+including two mutual cross-reference confirmations: II Nefi 25f (644)
+itself cites "III Nefi 20:30" -- the exact verse footnote 2h annotates
+-- and II Nefi 31k (778) cites "III Nefi 11:27-28,36" (the Godhead
+"one" doctrine), matching v.35 "el Padre y yo somos uno" exactly.
+Rule 23 range formatting applied: "III Nefi 16:8,9" -> "16:8-9" and
+"Isaías 52:9,10" -> "52:9-10" (consecutive verses); "I Nefi 13:11,14"
+stays comma-separated (non-consecutive) per rule 24.
+Suspected misprint, preserved as printed per rule 32, pending Session
+E's 1886 check: v.28 "plentitud" for "plenitud" (this same page's own
+v.30 spells "plenitud" correctly two verses later, isolating v.28 as
+the defect -- matches the established "plentitud"/"plentud" pattern
+already logged for Helamán 16:5/III Nefi 5:18 and pages 519/520); v.29
+"ofredico" for "ofrecido" (confirmed via zoom and independently via the
+Google-text cross-check, which reads the identical "ofredico").
+Scan-artifact call: a small mark that looked, at low zoom, like a
+comma wedged between "Y" and "sucederá" (v.30) was re-examined at
+progressively higher zoom and found to be a stray ink speck with no
+comma-shaped stroke actually present at full resolution; the Google
+OCR text (`google_text_1920/page_0553.txt`) independently reads this
+spot as plain "Y sucederá," with nothing between the words, matching
+the established scan-artifact precedent (pages 472-473, 475, 483, 488,
+500, 510, 515, 516, 521, 525) -- transcribed as plain text, no
+`errors in 1920.txt` entry.
+Two words flagged only as NOT page-specific, both confirmed via a
+full-document grep as this document's established spelling convention
+rather than a fresh anomaly: v.23(cont.) "oir" unaccented (55 other
+unaccented instances in librodm.txt, 0 accented "oír") and v.31
+"Jesu Cristo" (43 other instances of this exact two-word form
+elsewhere in librodm.txt).
+Google-text cross-check (`check_google_crosscheck.py 531`) run;
+besides corroborating "ofredico" above, its only other candidate (a
+dropped "y" before "los que le siguieron", v.24) was confirmed via
+zoom to be a plain OCR miss -- the 1920 print genuinely has "y" there,
+unchanged from the original reading.
+Mandatory 1879 check performed for: this page's own letter 2i (literal
+"i"), and footnote 2f's target letter (initially suspected "i", i.e.
+mandatory, resolved to "j" as detailed above). All other letters were
+checked as a matter of discretion given the swash-font ambiguity
+already established for this book's footnote block (see pages 509/510
+precedent), not because they were individually i/l/1.
+Session B: independently re-verified all 14 Block 1 entries and body
+markers from fresh crops, and re-ran the mandatory 1879 check (letter
+2i and footnote 2f's target) from a fresh crop of file 533 -- both
+reconfirmed exactly. No errors found.
+Session C/D: integrated cleanly via `insert_body_text.py 531` and
+`generate_block2.py 531`; all 14 Block 2 cross-references resolved
+automatically with no unresolved targets, including 2f -> 3702 (III
+Nefi 15's own letter j), confirming the Session A/B letter correction.
+Session E: fresh pptext regeneration (`report_wsl_20260727c.html`)
+confirmed both Corrections-log suspects as genuine 1920-only errors
+against 1886 (file 546, book 528): v.28 "plentitud" for "plenitud"
+(this same page's own v.30 spells "plenitud" correctly, matching the
+established pattern from III Nefi 16:4/16:7/16:10) and v.29 "ofredico"
+for "ofrecido" (letters "c"/"d" transposed; zero corpus hits for
+"ofredico" vs. 8 in Quijote and 13 in the Reina-Valera Bible for
+"ofrecido"). Both added to `errors in 1920.txt`; "ofredico" also added
+to `permitted words.txt` (flagged this run); "plentitud" was NOT
+re-flagged in the Spellcheck Suspect Words section this run because
+it's already in `permitted words.txt` from the earlier III Nefi 16
+instances -- blanket suppression, not evidence this occurrence is
+fine. One more word flagged this run, "bendeciros" (v.26) -- confirmed
+legitimate (1886, file 545, uses the identical word at the identical
+spot: "enviado á bendeciros para separar"), a standard infinitive+
+enclitic-pronoun form just missing from aspell's dictionary; added to
+`permitted words.txt` only. Full-document footnote-anchor check (max
+3839, zero duplicates/out-of-range, only the pre-existing 812 gap),
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document), and an independent
+curly-quote character scan of both master files all clean. Page has no
+hyphens in its final body text (all three rejoins removed the only
+candidates), so no dash-check findings; Jeebies clean. One incidental
+edition difference noted, not logged as an error: v.34's colon before
+"cantad" ("alegría: cantad") versus 1886's comma-plus-dash ("alegría,--
+cantad") -- both are grammatically valid punctuation choices
+introducing the same following clause, not a case of 1920 diverging
+into nonsense, so no `errors in 1920.txt` entry.

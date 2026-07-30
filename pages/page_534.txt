@@ -1,0 +1,198 @@
+Página 534
+llevarlas á los Gentiles, (lo que se hará según dice [3871]Moisés,)
+serán echados de entre los de mi pueblo que son los de la alianza;
+12. Y [3872]mi pueblo, que es un resto de la casa de Jacob, se
+hallará en medio de los Gentiles, sí, en medio de ellos como leon
+entre los animales del campo, y como cachorro de leon entre
+manadas de ovejas, que, si pasa por en medio de ellos, las pisotea
+y despedaza con sus pies, sin que nadie las pueda librar.
+13. Sus manos se levantarán contra sus adversarios, y todos
+sus enemigos serán tallados.
+14. Sí, ay de los Gentiles, si no se arrepienten; porque en
+aquel día, dice el Padre, yo sacaré tus caballos de en medio de
+ti, y yo destruiré tus carros,
+15. Y tallaré las ciudades de tu país, y arruinaré todas tus
+fortalezas;
+16. Y sacaré de tus manos los encantamientos, y no tendrás
+más adivinos;
+17. Yo quitaré de en medio de ti tus imágenes grabadas, y no
+adorarás más á la obra de tus manos;
+18. Y arrancaré tus bosques de entre ti; así destruiré tus
+ciudades.
+19. Y sucederá que concluirán todas tus [3873]mentiras, engaños,
+envidias, contiendas, supercherías y fornicaciones.
+20. Porque sucederá, dice el Padre, que á quienquiera que
+no se arrepienta en aquel día, y vaya á mi muy amado Hijo,
+yo le [3874]tallaré de entre los de mi pueblo, oh casa de Israel;
+21. Y yo ejecutaré mi [3875]venganza, y ejerceré mi furor sobre
+ellos, aún como sobre los paganos, de una manera tal como
+nunca ha llegado á sus oídos.
+22. Pero si se arrepienten, y escuchan mis palabras, y no
+endurecen sus corazones, yo estableceré [3876]mi iglesia en medio
+de ellos; y vendrán á disfrutar de las [3877]alianzas, y serán
+[3878]contados entre este resto de Jacob, á quién he dado [3879]este
+país por herencia,
+23. Y [3880]asistirán á mi pueblo, el resto de Jacob, como también
+á cuantos vengan de la casa de Israel, para que construyan una
+ciudad que será [3881]llamada la Nueva Jerusalem;
+24. Y [3882]ayudarán entonces á [3883]mi pueblo que está dispersado
+por toda la superficie de este país, para que se reuna en la [3884]Nueva
+Jerusalem.
+25. Y entonces el [3885]poder del cielo bajará en medio de ellos;
+y yo [3886]mismo estaré entre ellos;
+26. Y entonces la obra del Padre empezará entre ellos, en
+
+21z, 3871: Véase w, III Nefi 20.
+21-2a, 3872: Véase o, III Nefi 20.
+21-2b, 3873: Versículos 11,20-21; III Nefi 29:4,9;30; Mormón 8:21,41.
+21-2c, 3874: Véase w, III Nefi 20.
+21-2d, 3875: Véase 2b.
+21-2e, 3876: I Nefi 14:12,14.
+21-2f, 3877: Véase j, III Nefi 15.
+21-2g, 3878: Véase x, III Nefi 16.
+21-2h, 3879: Véase o, III Nefi 15.
+21-2i, 3880: Éther 13:10.
+21-2j, 3881: Versículos 24-25; III Nefi 20:22; Éther 13:1-12.
+21-2k, 3882: Los Géntiles creyentes.
+21-2l, 3883: Los Lamanitas.
+21-2m, 3884: Véase 2j.
+21-2n, 3885: III Nefi 20:22.
+21-2o, 3886: III Nefi 20:22.
+
+Corrections:
+Mandatory i/l/1 check: this page's own letters i (3880, "Éther
+13:10") and l (3883, "Los Lamanitas") were confirmed by sequence
+position (rule 13: straight run ...h-i-j-k-l..., no gaps possible) and
+by shape (fresh zoom crop: the "i" glyph shows a short stroke with a
+clearly separated dot, matching this document's "i" convention; the
+"l" glyph shows a continuous tapered stroke with no separated dot,
+matching this document's "l" convention).
+Two genuine i/l/1 misreads were caught by the mandatory 1879 BOM
+Pratt cross-check (file pages 536/537, chapter_map has no III Nefi
+rows -- navigated by direct increment from page 533's established
+file 535/536): footnote 21-2f's cross-reference target letter (III
+Nefi 15) was first read as "i" but 1879's parallel entry reads "2f,
+see j, III. Nep. 15," not "see i." A dedicated high-zoom crop of the
+1920 glyph confirmed a hook/curl extending below the baseline,
+matching this document's "j" convention (descender), not "i" (no
+descender) -- corrected to j. The same error propagated into footnote
+21-2m's cross-reference (a self-reference back to this page's own
+letter): first read as "Véase 2i," but 1879 reads "2m, see 2j," and a
+fresh zoom of that glyph shows the same j-shaped descender --
+corrected to 2j. Content-fit confirms both: III Nefi 15's own letter j
+is a covenant-themed citation (already established on page 533 as
+"III Nefi 5:24-26; 16:5; Véase e, I Nefi 15"), fitting this page's own
+2j entry ("Versículos 24-25; III Nefi 20:22; Éther 13:1-12" -- the
+2m/2j pairing both cite the same III Nefi 20:22/Éther passage), while
+III Nefi 15's letter i is unrelated. Neither corrected reading (f: i->j,
+m: 2i->2j) is this page's own lettering -- 2f's target is a
+cross-reference into III Nefi 15's block, and 2m's target is this
+page's own 2j, not 2m itself -- so neither affects this page's own
+z/2a-2o sequence or its footnote numbers 3871-3886.
+This page is the first to exhaust the single-letter alphabet begun on
+page 532 (...w, x, y on page 533, z here) and continue with
+rule-16's two-letter "2a, 2b..." codes for the remainder of the same
+chapter (21) -- confirmed both by the 1879 cross-check (which prints
+the identical "2a," "2b," etc. two-character superscripts throughout
+its own parallel footnote block, file pages 536-537) and by the body
+text's own markers, which are set in a clearer (non-swash) font than
+the footnote block and read unambiguously as "2a," "2b," etc. at
+normal zoom.
+Suspected misprint, v.12: 1920 prints "leon" (no accent) twice
+("como leon entre los animales del campo, y como cachorro de leon
+entre manadas de ovejas") where the correct accented form is "león"
+(aguda word ending in "n", requires a written tilde per the RAE).
+Preserved as printed per rule 32. Verified against 1886 (file 548,
+book page 530): 1886 prints the identical unaccented "leon" twice at
+this exact spot -- an error shared between both editions, matching
+the same already-documented pattern at III Nefi 20:16 (see `errors in
+1920.txt`). Flagged for an `errors in 1920.txt` entry in Session E.
+Suspected misprint, v.24: 1920 prints "reuna" (no accent) where the
+correct present-subjunctive form of "reunir" is "reúna" (this verb
+takes a written tilde on the stressed u throughout its present
+forms per the RAE, e.g. reúno, reúna). Preserved as printed per rule
+32. Verified against 1886 (file 549, book page 531): 1886 prints the
+identical unaccented "reuna" at this exact spot ("para que se reuna
+en la Nueva Jerusalem") -- again an error shared between both
+editions, not unique to 1920. Flagged for an `errors in 1920.txt`
+entry in Session E.
+Unusual accent, footnote 21-2k: the footnote block prints "Géntiles"
+with an accent on the é, but "Gentiles" is a llana word stressed on
+the (unaccented) penultimate syllable and takes no written accent --
+confirmed as the correct, accent-free form used repeatedly in this
+same page's own body text (v.12, v.14, etc., all "Gentiles" with no
+accent). Per rule 36, checked against the Google OCR text
+(`google_text_1920/page_0556.txt`) before logging: Google's own OCR
+independently reads the same accent ("2k, Los Géntiles creyentes."),
+which is real evidence the mark is actually printed (Google reliably
+drops accents that aren't really there) rather than a stray speck.
+Flagged for an `errors in 1920.txt` entry in Session E.
+Mechanical pass: one rule-7 hyphen rejoin. "con-"/"tados" ->
+"contados": the straight rejoin (attached to the end of the line
+already carrying both the [3877] and [3878] markers) would have
+landed the line at 77 characters, over the rule-9 cap, so per rule 8
+the whole rejoined word ("[3878]contados") moved to the start of the
+next line instead; that next line then itself reached 77 characters
+once prepended, so its own last word ("[3879]este") cascaded one line
+further per the same rule, landing "país por herencia," as a short
+final line. A second, unrelated rule-8 overflow: the page's very
+first line ("llevarlas ... [3871]Moisés,) serán") reached 73
+characters once the footnote marker was added; "serán" moved to the
+start of the next line per rule 8.
+Numerous rule-31 space-before-punctuation fixes throughout (this
+page's print consistently sets a space before semicolons, e.g.
+"alianza ;" -> "alianza;", "arrepienten ;" -> "arrepienten;",
+"fortalezas ;" -> "fortalezas;", "adivinos ;" -> "adivinos;",
+"manos ;" -> "manos;", "ti ;" -> "ti;", "Israel ;" -> "Israel;",
+"ellos ;" -> "ellos;" (four instances), "Jerusalem ;" ->
+"Jerusalem;").
+No narrow-space-vs-merge defaults were needed on this page.
+Session B: independently re-verified all 16 Block 1 entries and body
+markers from fresh crops (not reused from Session A). Re-ran both
+mandatory 1879 checks from fresh crops (1920 file 556; 1879 file 537,
+the same physical 1879 page carries both the tail of old-chapter-21's
+footnote block, 2e-2s, and new-chapter-22's own a-d block below it,
+per that edition's older/longer chapter divisions) -- own letters i
+and l (3880, 3883) and both corrected cross-reference target letters
+(21-2f: j, 21-2m: 2j) all reconfirmed exactly, letter-for-letter and
+content-for-content, including the same-page glyph contrast (2i's
+separated dot vs. 2f/2m's target hook-descender) used in Session A.
+No further errors found.
+Session E: fresh pptext regeneration (`report_wsl_20260728c.html`) --
+the efficient line-range filter (this page's librodm.txt body lines
+23850-23892, Block 2 lines 28045-28060) plus a keyword search of the
+whole report for this page's distinctive vocabulary found three
+genuine, previously-undetected findings, all already anticipated in
+this page's own Corrections notes above: (1) "leon" (v.12, 2x) was NOT
+flagged by this run's own spellcheck section (likely an aspell
+false-negative from coincidental overlap with the proper noun "León" --
+see the orthography-check skill's documented "full pptext report is
+not proof a rare misprint won't be flagged" gap), so this relies on the
+1886 comparison and RAE tilde rule already done in Session A; (2)
+"Géntiles" (footnote 21-2k) WAS flagged by this run's spellcheck
+section, and independently corroborated by the edit-distance section
+pairing it against the page's own correctly-spelled "Gentiles"; (3)
+"reuna" (v.24) WAS flagged by spellcheck and also surfaced in the
+edit-distance section (paired against unrelated "reina"/"reunan", both
+coincidental, not corrections). All three already had 1886 comparisons
+done in Session A; this session added the RAE confirmation for
+"reúna" (WebSearch, RAE/Fundéu sources agree the tilde is mandatory
+per the hiato rule) and confirmed zero hits for "reuna"/"reúna" in all
+three local reference corpora (inconclusive either way, word is simply
+rare). Three `errors in 1920.txt` entries added in book/chapter/verse
+order after the existing III Nefi 21:10 entry (21:12 leon/león,
+footnote 21-2k Géntiles/Gentiles, 21:24 reuna/reúna); `permitted
+words.txt` updated with all three forms (also backfilling "leon" for
+the pre-existing III Nefi 20:16 occurrence, which had never been added
+despite already being a documented error -- matching the "worth fixing
+whenever next touched" note in the orthography-check skill). No other
+pptext section (repeated word, duplicate lines, ellipsis, dash/hyphen,
+footnote check, scanno, curly quotes, special situations) produced any
+hit in this page's line range. Full-document footnote-anchor check
+(max 3886, zero duplicates/out-of-range, only the pre-existing 812
+gap), `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (whole document), and an independent
+curly-quote character scan of both master files all clean. Page has
+zero hyphens in its final body text (the one rejoin removed the only
+candidate), so no dash-check findings. No narrow-space-vs-merge
+defaults were made on this page needing an editor pointer.

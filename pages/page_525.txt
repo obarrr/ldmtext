@@ -1,0 +1,195 @@
+Página 525
+23. Sino que oraréis por ellos, y no les arrojaréis; y si sucediere
+que vinieren á vosotros á menudo, rogaréis al Padre por ellos
+en mi nombre;
+24. Así pues, levanta tu luz, para que aparezca ante el mundo He
+aquí, yo soy la [3768]luz que os es necesario tener levantada--lo
+que me habéis visto hacer. He aquí, que me habéis visto orar al
+Padre de lo que todos vosotros habéis sido testigos;
+25. Y bien visteis que mandé que [3769]ninguno de vosotros se
+alejara de mí, y que dispuse que os acercaseis á mí, para que
+vierais y [3770]sintierais; así pues, lo mismo habéis de hacer
+vosotros con el mundo; porque quienquiera que quebrante este
+mandamiento se entrega á sí mismo en la tentación.
+26. Cuando Jesús hubo hablado de este modo, volvió de, nuevo sus
+ojos á los [3771]discipulos que Él había escogido, y les dijo:
+27. En verdad, en verdad, os digo, que os doy otro mandamiento,
+después del cual subiré al Padre para cumplir [3772]otros
+mandamientos que Él me ha dado.
+28. He aquí, ahora el mandamiento que os doy: No permitiréis
+sabiéndolo, que nadie [3773]participe de mi carne, ni de mi sangre
+indignamente, cuando administréis.
+29. Porque los que coman mi carne, y beban mi sangre
+indignamente, comen y beben la condenación para sus almas; por
+lo tanto, si supiereis que alguien fuere indigno de comer de mi
+carne, y de beber de mi sangre, se lo prohibiréis;
+30. No obstante, no le echaréis de entre vosotros, sino que le
+ministraréis, y rogaréis al Padre por él, en mi nombre; y si
+sucediere que se arrepintiere, y fuere [3774]bautizado en mi
+nombre, entonces le recibiréis, y le administraréis mi carne y mi
+sangre;
+31. Pero si no se arrepintiere, no será contado entre los de mi
+pueblo, para que no destruya á mi pueblo, porque, he aquí, que
+[3775]conozco mis ovejas, y están enumeradas;
+32. No obstante, no le echaréis de vuestras [3776]sinagogas, ni de
+los lugares de vuestro culto, sino que á los tales continuaréis
+ministrándoles; porque no sabéis, si volverán á mí, y se
+arrepentirán con todo el propósito de sus corazones, en cuyo
+caso yo les curaré, y vosotros habréis sido los medios, por donde
+les venga la salvación.
+33. Por lo tanto, guardad estos mandamientos que os he dado,
+para que no caigáis en la condenación, porque desgraciado de
+aquel á quién el Padre condene.
+34. Y yo os doy estos mandamientos, á causa de las disputas que
+se han levantado entre vosotros. Y benditos sois, si [3777]no
+tuviereis disputas entre vosotros.
+
+18o, 3768: Véase m, Mosíah 16.
+18p, 3769: Versículos 22, 23.
+18q, 3770: III Nefi 11:14, 16.
+18r, 3771: Véase c, III Nefi 12.
+18s, 3772: III Nefi 16:3.
+18t, 3773: Versículos 29, 30; III Nefi 20:8; Mormón 9:29.
+18u, 3774: Véase u, II Nefi 9.
+18v, 3775: I Nefi 22:25.
+18w, 3776: Véase u, Alma 16.
+18x, 3777: III Nefi 11:28-30.
+
+Corrections:
+Continues chapter 18 from page 524 (page 524 ended at letter n,
+3767); no chapter boundary on this page, so letters continue o-x
+with no restart; sequential numbering continues at 3768.
+None of this page's own letters (o-x) or footnote cross-reference
+target letters (m, c, u, u) are in the mandatory i/l/1 set, so no
+mandatory 1879 check applied. However, this page's superscript font
+prints several letters as small round blobs with little
+distinguishing shape (matching the swash/blob-font pattern already
+seen on pages 509-510/513), so a full discretionary 1879 check was
+run anyway rather than relying on glyph shape alone: BOM 1879 Pratt
+file page 527 (chapter_map has no III Nefi rows; navigated by direct
+increment from page 524's established 1879 range, file 526 -> 527,
+content lands on the exact next page, no drift) reads "p, vers.
+22,23. q, III. Nep. 11:14,16. r, see c, III. Nep. 12. s, III. Nep.
+16:3. t, vers. 29,30. III. Nep. 20:8. Mor. 9:29. u, see u, II. Nep.
+9. v, I. Nep. 22:25. w, see u, Alma 16. x, III. Nep. 11:28-30." --
+letter-for-letter and citation-for-citation identical to 1920's own
+p-x here (1879's own "o" entry, matching this page's own o, falls on
+the prior 1879 page since 1879 packs more text per page -- consistent
+with the established one-page-earlier-content drift pattern for this
+book). Footnote r's target letter was resolved as "c" via this 1879
+match; a first-pass content-fit guess (chapter 12's own b, the
+"twelve disciples" citation list) was considered but is NOT what
+1879 confirms, so it was discarded in favor of the 1879 reading.
+Footnote o's target letter "m" (Mosíah 16) was independently
+corroborated by content: Mosíah 16m (1323) itself cites "III Nefi
+9:18; 15:9; 18:16,24" -- verse 24 is the exact verse this footnote
+annotates ("yo soy la luz"), a mutual cross-reference. Footnote u's
+target "u" (II Nefi 9, sequential 378) matches the many other
+"Véase u, II Nefi 9" baptism-scripture citations already established
+throughout this chapter (e.g. 12f/3667). Footnote w's target "u"
+(Alma 16, sequential 2046) fits by content too: Alma 16u cites "Alma
+21:4-5,11,16,20;..." -- Alma 21 is where the Lamanite "synagogues of
+the order of Nehor" are introduced, a strong match for this page's
+own "vuestras sinagogas" (v.32).
+Two rule-7 hyphenated line-break rejoins: v.27 "manda-/miento" ->
+"mandamiento"; v.28 "per-/mitiréis" -> "permitiréis" (as part of "No
+per-/mitiréis"). Two more: v.29 "in-/dignamente" -> "indignamente";
+v.32 "arre-/pentirán" -> "arrepentirán". No rule-8 rebalancing was
+needed after any of the four rejoins (all resulting lines stayed
+under the 72-char cap).
+Suspected misprints/anomalies, preserved as printed per rule 32,
+pending Session E's 1886/RAE confirmation:
+- v.24: no punctuation at all between "...ante el mundo" and "He
+  aquí, yo soy..." -- confirmed at zoom, genuinely no period or other
+  mark present.
+- v.24: "que os es necesario" (not "que es necesario") -- confirmed
+  at zoom, the object pronoun "os" is clearly printed.
+- v.26: "volvió de, nuevo sus ojos" -- a solid, well-formed comma-
+  shaped mark appears directly after "de" and before the line break
+  to "nuevo", but grammatically "volvió de nuevo" (turned again) takes
+  no internal comma, and this page's own v.23 uses the identical
+  "sucediere que" construction with no comma. Confirmed at zoom the
+  mark itself is a normal, solidly-inked comma shape (not an
+  irregular scan speck) -- transcribed as printed rather than silently
+  dropped, since it does not match the established floating-mark
+  precedent (those are consistently smaller, off-baseline, and
+  irregularly shaped).
+- v.26: "discipulos" (missing accent, expected "discípulos") --
+  confirmed at zoom.
+Two floating scan-artifact marks (not transcribed, matching the
+established precedent from pages 483, 490, 492, 494, 497, 500, 510,
+513): a small raised mark directly after "sucediere" and before "que"
+in v.30 (confirmed at zoom -- off-baseline, no distinct letter or
+punctuation shape); a small dot at the very start of the "de aquel"
+line in v.33 (confirmed at zoom -- sits slightly left of and above
+the line's own margin, not part of any letter).
+Google-text cross-check (`extract_google_text.py 525` /
+`check_google_crosscheck.py 525`) surfaced 2 candidates after
+dismissing 3 known footnote-marker-glue/trailing-content hits: (1)
+v.28 "cuandò" (as first transcribed) vs. Google's plain "cuando" --
+this candidate was initially dismissed as expected OCR normalization
+of a rare diacritic, but the user's own review of the page confirmed
+Google was right and the transcription was wrong: the mark is a
+random speck, not a genuine grave accent at all -- see the correction
+below; (2) v.30 Google's text is missing the "y" in "recibiréis, y le
+administraréis" -- a fresh zoom of the line confirms the 1920 print
+clearly has "y" there; Google's OCR simply dropped it. No
+transcription change from candidate (2).
+Rule 31 space-before-punctuation normalizations applied throughout
+(original print spaces before a semicolon, removed per rule 31, no
+`errors in 1920.txt` entry): v.23 "arrojaréis ; y" -> "arrojaréis; y";
+v.23 "nombre ;" -> "nombre;"; v.24 "testigos ;" -> "testigos;"; v.25
+"sintierais ; así" -> "sintierais; así"; v.25 "mundo ;" -> "mundo;";
+v.26 "dijo :" -> "dijo:"; v.29 "almas ;" -> "almas;"; v.29 "sangre,
+se" (no change needed); v.29 "prohibiréis ;" -> "prohibiréis;"; v.30
+"nombre ; y" -> "nombre; y"; v.30 "sangre ;" -> "sangre;"; v.31
+"enumeradas ;" -> "enumeradas;". Em-dash "levantada--lo" (v.24)
+transcribed with the document's established two-hyphen convention
+(matching "primera muerte--aquella" elsewhere).
+Session B: independently re-verified all 10 Block 1 entries against a
+fresh full-width crop of the fn_zoom block and all 10 body markers
+against fresh top/mid/bot crops; both match Session A's transcription
+exactly, including the 1879-resolved targets for o/r/u/w. No errors
+found.
+Session E: fresh pptext regeneration (`report_wsl_20260726g.html`)
+flagged one spellcheck suspect from this page's range, "ministrándoles"
+(v.32) -- 1886 (book page 522/file 540) uses a different verb at this
+spot ("administrándoles"), but the modern Spanish edition
+(churchofjesuschrist.org, 3 Nefi 18:32) confirms "ministrando" as a
+legitimate, correct translation choice here too -- "ministrándoles" is
+a valid gerund+enclitic construction, not a misspelling; added to
+`permitted words.txt` only. Four of the five suspected misprints/
+anomalies logged above were confirmed against 1886 (book pages
+521-522/file 539-540) and added to `errors in 1920.txt`: v.24 missing
+period between "mundo" and "He aquí"; v.24 missing semicolon before the
+em-dash ("levantada;--lo" in 1886 vs. 1920's bare "levantada--lo");
+v.26 spurious comma in "volvió de, nuevo"; v.26 "discipulos" missing
+its required accent (shared with 1886, but the document's own 17:1
+internal ratio, RAE's esdrújula rule, and the modern edition's
+"discípulos" all confirm it's wrong). The two floating-mark calls
+(v.30 "sucediere'" before "que"; v.33 stray dot before "de aquel") were
+independently confirmed against 1886, which has plain unmarked text at
+both spots. "os es necesario" (v.24) matches 1886 exactly, confirming
+it's not an error.
+User correction (same day): the fifth item, v.28's mark over the "o" in
+"cuando", was NOT a grave accent -- the user reviewed the actual page
+and determined it is simply a random speck, unrelated to the "còn"/
+"què" precedent on page 515 that this was initially (wrongly) matched
+against. The word is plain "cuando", exactly as Google's own OCR read
+it (see the cross-check note above, which had dismissed that signal
+too quickly). Corrected to "cuando" in `pages/page_525.txt` and
+`librodm.txt`; the `errors in 1920.txt` entry for III Nefi 18:28 was
+removed (no `permitted words.txt` entry existed for it, so nothing to
+remove there). Matches the established scan-artifact pattern (pages
+472-473, 475, 483, 488, 500, 510, 515, 516, 521) where a mark that
+looks like genuine type on a zoomed crop turns out, on the editor's own
+direct look, to be print/scan noise rather than a real character.
+Full-document footnote-anchor check (max 3777, zero duplicates/out-of-
+range, only the pre-existing 812 gap), `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` (whole
+document), and an independent curly-quote character scan (zero curly
+quotes in either master file) all clean. Dash check: no new letter-
+hyphen-letter compounds or irregular hyphen-minus instances introduced
+by this page (its only hyphen is the established "--" em-dash
+convention). No narrow-space-vs-merge judgment calls arose on this
+page.

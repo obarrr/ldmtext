@@ -1,0 +1,203 @@
+Página 539
+17. Y ellos serán míos, dice el Señor de los Ejércitos, en el
+día que yo [3918]recoja á parte mis joyas; y les conservaré, y les
+libraré del mismo modo que un padre conserva á su propio hijo,
+que le sirve.
+18. Entonces os tomaréis y dicerniréis la diferencia que hay
+entre los justos y los malos, entre él que sirve á Dios, y él que
+no le sirva.
+
+CAPÍTULO 25. (Véase Malaquías 4.)
+
+1. Porque, he aquí, que viene el día [3919]ardiente como un horno,
+y todos los soberbios, y todos los que hacen maldad, serán
+estopa; y aquel día que vendrá, los abrasará, ha dicho el Señor
+de los Ejércitos, el cual no les dejará ni raíz, ni rama.
+2. Pero para vosotros, los que [3920]teméis mi nombre, se levantará
+el Hijo de la justicia, trayendo la salud en sus alas; y vosotros
+saldréis, y creceréis como [3921]terneros en el pesebre.
+3. Y hollaréis á los malvados; que vendrán á ser como [3922]ceniza
+bajo las plantas de vuestros pies en el día en que yo haré esto,
+dice el Señor de los Ejércitos.
+4. Recordad la ley de Moisés mi siervo, á quién le dí mis
+estatutos y mandamientos en Horeb para todo el pueblo de
+Israel.
+5. He aquí, que os mandaré á [3923]Elías el profeta, antes que
+[3924]llegue el grande y terrible día del Señor.
+6. Él que hará que se [3925]vuelva el corazón de los padres hacia
+los hijos, y el corazón de los hijos hacia sus padres, no sea que
+yo venga é hiera á la tierra con una maldición.
+
+CAPÍTULO 26.
+
+1. Y ahora ocurrió que cuando Jesús hubo anunciado estas
+cosas, se las explicó detalladamente á la multitud, y Él explicó
+todas las cosas, tanto grandes como pequeñas.
+2. Y les dijo: [3926]Estas escrituras que vosotros no habéis
+obtenido, el Padre me ha mandado que os las dé; porque está en
+su sabiduría que sean dadas á las futuras generaciones.
+
+24j, 3918: Doctrinas y Convenios 101:3.
+25a, 3919: Versículo 3; I Nefi 22:15,17-18,23; II Nefi 27:2; 30:10; Jacob 6:3;
+Isaías 24:6, 66:16.
+25b, 3920: III Nefi 24:16.
+25c, 3921: I Nefi 22:24.
+25d, 3922: Versículo 1.
+25e, 3923: Doctrinas y Convenios 110:13;
+Apareció á José Smith en el Templo de Kirtland.
+25f, 3924: El día de la segunda venida de Cristo; III Nefi 25:3.
+25g, 3925: Doctrinas y Convenios 98:16-17.
+26a, 3926: III Nefi 24:25.
+
+Corrections:
+Page begins with a fresh verse (III Nefi 24:17, not a mid-sentence
+continuation from page 538, which ended cleanly at the close of v.16),
+so `Página 539` header IS included per rule 1 (matching the pattern of
+pages 530-536, which likewise open on a fresh verse number and take the
+header immediately followed by body text with no blank line -- only a
+true mid-sentence/mid-verse continuation, like page 537's opening,
+omits the header entirely).
+Chapter 24 (Malachi 3, per the "(Véase Malaquías 4.)" subtitle on the
+following chapter confirming the Malachi mapping) ends at v.18 on this
+page, matching Malachi 3's own 18-verse length in modern versification
+-- one more footnote letter for chapter 24 occurs here: superscript
+before "recoja" (v.17). Zoomed and compared directly against a
+same-page footnote-block glyph and against page 538's own confirmed
+"i" shape (short stroke, separated dot): this page's glyph is a
+distinct hook-with-descender-below-baseline shape, matching the body
+text superscript exactly -- read as "j" (continuing the alphabetic
+sequence after page 538's last letter, i), not "i" a second time. Not
+one of the mandatory i/l/1 letters itself, but given the visual
+similarity to "i", the same-image shape comparison was backed up with
+an 1879 cross-check during Session B (see below) rather than left to
+rest on the shape/alphabetic-sequence reasoning alone.
+Session B: independently re-verified all 9 Block 1 entries and all 9
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. Ran the 1879 cross-check for the 24j/"i" ambiguity
+even though "j" itself isn't in the mandatory i/l/1 set (discretionary
+extension per Section 8, given the shape's similarity to "i"):
+chapter_map.csv maps III Nefi 24 to 1879 file page 540; that page's own
+footnote block runs a-g (matching page 538's already-confirmed d-g,
+corroborating precedent), and the following page (file 541, book 533)
+-- which is where chapter 24's tail end (v.10-18) and its own footnote
+letters h/i/j actually land -- explicitly prints "h, Moro. 6:5,6.
+i, III. Nep. 27:25,26. j, Doc. and Cov. 101:3.", with the body text's
+v.17 ("in that day when I make up my jewels") carrying a clearly
+italic "j" superscript directly before "make". This definitively
+confirms the letter is "j" (not "i") and that its target is Doc. and
+Cov. 101:3, exactly matching this page's own 24j entry -- both the
+letter and the content resolve cleanly, no error found.
+Chapter 25 (Malaquías 4) begins and ends entirely on this page (v.1-6),
+with subtitle "(Véase Malaquías 4.)" printed on the SAME line as
+"CAPÍTULO 25." in the image (not a separate line) -- transcribed as one
+line per rule 6 (reproduce actual image line breaks). Seven footnote
+letters (a-g) used, all corroborated by content-fit against their body
+text targets: a/D&C 101:3(fn 3918, ch.24)... [see below]. a (v.1,
+"ardiente") -> Isaías/I Nefi/II Nefi/Jacob citations on the burning-day
+theme, plus a self-reference "Versículo 3" (ashes, same theme); b (v.2,
+"teméis") -> III Nefi 24:16 (this document's own preceding "temían al
+Señor y ... pensaban en su nombre", exact echo); c (v.2, "terneros") ->
+I Nefi 22:24 (growing up theme); d (v.3, "ceniza") -> "Versículo 1"
+(self-reference to the same chapter's "día ardiente"); e (v.5,
+"Elías") -> D&C 110:13 (Elijah's appearance to Joseph Smith in the
+Kirtland Temple -- an exact, unambiguous content match); f (v.5,
+"llegue") -> "El día de la segunda venida de Cristo; III Nefi 25:3"
+(this same chapter's own v.3, a forward self-reference, thematically
+consistent -- "great and terrible day" in both spots); g (v.6,
+"vuelva") -> D&C 98:16-17 (turning of hearts / covenant theme). All
+plausible; no red flags.
+Chapter 26 begins on this page (no subtitle line under "CAPÍTULO 26.")
+with only one footnote letter reached so far: a (v.2, "Estas
+escrituras"), citing "III Nefi 24:25." This citation is suspected to be
+a misprint, preserved as printed per rule 32 (not silently corrected):
+chapter 24 on this same page is confirmed to end at v.18 (matching
+Malachi 3's own 18-verse length), so a same-book citation to "24:25"
+points to a verse that does not exist anywhere in this chapter as
+transcribed -- flagged for Session E's 1886 comparison (a plausible
+resolution is a chapter-number misprint for "26:25", a forward
+self-reference of the same kind already seen at 25d/25f above, but this
+is not asserted here, only flagged).
+Rule-7 hyphenated line-break rejoin, with rule-8 rebalancing: v.2's
+"ob-" / "tenido," (chapter 26) rejoins to "obtenido," which would bring
+the first line to exactly 73 characters if kept there (over the rule-9
+cap) -- moved whole to the start of the following line instead, per
+rule 7's own over-72 branch. No other rule-7 hyphen splits occur
+elsewhere on this page (checked every line ending against the image).
+Suspected misprint, preserved as printed per rule 32, for Session E
+verification against 1886: v.18 "dicerniréis" -- zoomed and confirmed
+the image genuinely prints this form (missing the "s" after "di" that
+"discerniréis" would have), not a transcription misread.
+"quién"/"dí" (v.4, "á quién le dí mis estatutos") zoomed and confirmed
+accented exactly as printed -- consistent with this document's
+established archaic/period accentuation of monosyllabic and
+interrogative-form words elsewhere (rule 32's own á/vió/fué examples),
+not flagged as an anomaly.
+No rule-31 space-before-punctuation instances found on this page (all
+colons/semicolons/commas already print tight against the preceding
+word, unlike several recent pages' consistent spacing pattern).
+No rule-6 double-space/justification-widened gaps found on this page.
+No narrow-space-vs-merge candidates found on this page.
+`check_line_wrap.py 539` reports a large txt-vs-OCR line-count gap
+(7 vs. 34), but this is a known script limitation, not a reflow
+finding: the script's `txt_body_lines()` stops counting at the FIRST
+blank line after `Página N`, which on this page is the blank line
+before the mid-page "CAPÍTULO 25." heading (only 7 lines in), while
+its OCR pass reads the entire page image regardless of chapter
+boundaries. Every line ending on this page was individually
+image-confirmed per rules 5/6 during transcription (see the per-line
+zoom crops used throughout this session); not a genuine reflow flag.
+`check_google_crosscheck.py` has the identical body_lines() cutoff
+(stops at the first blank line), so it likewise only actually compared
+v.17-18 against Google's OCR (0 candidates) and treated the rest of
+the page's content -- all of chapters 25 and 26 -- as undifferentiated
+"trailing" text, never really diffing it. Compensated for by reading
+`google_text_1920/page_0561.txt` directly in full: it independently
+confirms essentially every reading on this page verbatim, including
+"dicerniréis" (v.18, corroborating that flagged spelling is genuinely
+printed, not a transcription misread) and "III Nefi 24: 25." (the
+suspected chapter-26 misprint, corroborating it's genuinely printed
+that way too). Google's own OCR reads the chapter-24j letter as "i"
+rather than "j", but per rule 14 Google's OCR is not trusted for
+superscript letters at all -- the zoomed-image glyph comparison
+already made in this page's Corrections above stands.
+Session E: fresh pptext report regenerated
+(`workspace/report_wsl_20260728h.html`) and walked for this page's
+content. "dicerniréis" (v.18) is flagged by spellcheck -- checked
+against 1886 (pages_1886/page_0553.png, book page 537/file 553), which
+ALSO prints "dicerniréis" (identical form, missing the "s" that
+"discerniréis" would have), so this is NOT a 1920-only error. Further
+research per the mandatory step: RAE's Tesoro de los diccionarios
+históricos has an entry for "dicernir" (confirming it's a real,
+if archaic/obsolete, period form, not a nonsense spelling); the modern
+official Spanish Book of Mormon (3 Nefi 24:18) uses the corrected
+"discerniréis"; the local reference corpora had zero hits either way
+(uninformative, not contradicting). Added to `permitted words.txt`
+only, no `errors in 1920.txt` entry (matches this project's established
+"1886 agreement + real archaic form" pattern for NOT logging an
+error). "Elías" (v.5) also flagged by spellcheck -- ordinary proper
+name (Elijah), added to `permitted words.txt`.
+26a's "III Nefi 24:25" citation (flagged in Corrections above) --
+this session's own 1879 look (chapter_map.csv file 542) found no
+footnote letter at v.2 at all, so it could not be independently
+resolved that way. **Resolved after the fact by the editor**: the
+editor's own examination of 1879 confirms footnote a reads
+"III Nefi 24,25" (comma) there, not a chapter:verse citation --
+referring to the whole of chapters 24 and 25 (the Malachi 3-4 passages
+just quoted), matching v.2's "these scriptures which ye had not
+obtained" thematically far better than a single verse would (1886 has
+no footnote apparatus at all, so it isn't a comparison point here).
+1920 alone prints a colon in place of the comma, producing an invalid
+chapter:verse citation to a verse that doesn't exist (chapter 24 ends
+at v.18 on this page).
+Genuine 1920-only error, added to `errors in 1920.txt` (punctuation in
+a citation, not a spelling question, so no `permitted words.txt` entry
+needed). Preserved as printed in the body/Block 1/Block 2 text per
+rule 32 -- the error is documented, not silently corrected.
+Whole-document sweeps this session, all clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` (librodm.txt + librodm_foot.txt), the
+full-document footnote anchor continuity scan (max 3926, zero
+duplicates/out-of-range, only the pre-existing 812 gap), and a
+curly-quote character search of both master files (zero hits). No
+narrow-space-vs-merge items to batch from this page.

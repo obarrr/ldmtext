@@ -449,6 +449,36 @@ stripped. This matches the headers already present in `librodm_foot.txt`
     after being in the document undetected for some time, since
     pptext's curly quote check only flags MISUSE of curly quotes
     already present, not their mere existence.
+36. An unusual accent mark — one that doesn't fit this document's
+    established usage (which uses only acute á/é/í/ó/ú; anything else,
+    e.g. a grave accent, is already suspect on its face) or that looks
+    like it might just be print/scan damage rather than real type —
+    must be checked against the Google OCR text
+    (`extract_google_text.py`/`check_google_crosscheck.py`, or a direct
+    look at `google_text_1920/page_NNNN.txt`) before being logged as a
+    genuine 1920 error, in addition to (not instead of) the usual 1886/
+    1879 comparison. **If Google's OCR doesn't transcribe the mark
+    either, treat it as a stray speck and transcribe the plain letter
+    with no accent — do not log it in `errors in 1920.txt`.** Google's
+    OCR is trained on real type; it reliably drops accents that aren't
+    actually printed, so its silence on a mark you're unsure about is
+    real evidence, not noise to explain away.
+    **(2026-07-26, user correction, twice in one day):** two separate
+    "genuine grave accent" findings — III Nefi 14:2 "còn"/"què" (page
+    515, logged 2026-07-25) and III Nefi 18:28 "cuandò" (page 525) —
+    were both wrong. Both were confirmed by the user's own direct look
+    at the page to be stray specks, not real accents; both cases'
+    Google OCR text had *already* read the plain unaccented word all
+    along (`google_text_1920/page_0537.txt` for "con"/"que",
+    `page_0547.txt` for "cuando"), but that signal was dismissed each
+    time as "expected OCR behavior for a rare diacritic" instead of
+    being treated as the answer. Worse, the second case was reasoned
+    into existence partly *by citing the first, already-wrong, case as
+    precedent* — a good demonstration of how an unverified "established
+    anomaly" can compound. Going forward: an unusual accent claim needs
+    the Google OCR check before it can be logged, and a match to an
+    earlier such claim is not itself evidence — each instance still
+    needs its own check.
 
 ---
 

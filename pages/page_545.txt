@@ -1,0 +1,193 @@
+Página 545
+[3981]Juan, quién me acompañó en mi ministerio, antes de que yo
+fuera [3982]levantado por los Judíos;
+7. Por lo tanto, más bendecidos sois vosotros, porque [3983]nunca
+probaréis la muerte, sino que viviréis para ver todos los hechos
+del Padre para los hijos de los hombres, aún hasta que se cumplan
+todas las cosas según la voluntad del Padre, cuando yo [3984]venga en
+mi gloria con los poderes del cielo;
+8. Y vosotros no [3985]padeceréis nunca las penas de la muerte;
+sino que cuando yo aparezca en mi gloria, seréis [3986]cambiados en
+un abrir de ojo de la mortalidad á la inmortalidad; y entonces
+seréis benditos en el reino de mi Padre.
+9. Y también mientras que permanezcáis en la carne, no padeceréis
+ni dolor, ni [3987]pena, [3988]como no sea por los pecados del mundo;
+y haré todo esto con motivo de lo que habéis deseado de mí;
+porque habéis deseado traer á mí las almas de los hombres,
+mientras que exista el mundo;
+10. Y por esta causa, recibiréis una alegría completa; y os
+sentaréis en el reino de mi Padre; sí, vuestra alegría será completa,
+y será como la completa alegría que el Padre me ha dado:
+y vosotros seréis lo mismo que yo soy, y yo soy lo mismo que es
+el Padre; y el Padre y yo somos [3989]uno;
+11. Y el Espíritu Santo da testimonio del Padre, y de mí;
+y el Padre [3990]da el Espíritu Santo á los hijos de los hombres por
+mi causa.
+12. Y ocurrió que después de haber pronunciado estas palabras,
+Jesús tocó á cada uno de ellos con su dedo, excepto á los
+tres que habían de quedar, y entonces se fué.
+13. Y, he aquí, que se abrieron los cielos, y [3991]fueron transportados
+á ellos, y oyeron y vieron cosas inexplicables.
+14. Y se les fué [3992]prohibido que las manifestaran. Y no se
+les permitió que revelaren ninguna de las cosas que habían
+visto y oído;
+15. Y no pudieron decir, si estaban en el cuerpo ó fuera del
+cuerpo; porque á ellos se les pareció, como si hubiesen sido
+transfigurados, y como si hubiesen sido cambiados del cuerpo
+de carne mortal á un estado inmortal, para poder. contemplar
+las cosas de Dios.
+16. Pero sucedió, que continuaron ejerciendo el ministerio
+sobre la superficie de la tierra; no obstante, no administraron
+las cosas que habían visto y oído; á causa del [3993]mandamiento
+que les había sido dado en el cielo.
+17. Ahora, [3994]si desde el día en que se transfiguraron, permanecieron
+en un estado mortal ó inmortal, no lo sé;
+
+28b, 3981: Doctrinas y Convenios 7.
+28c, 3982: Véase f, III Nefi 25:27.
+28d, 3983: Versículos 8-9,19-22,25,37-40;
+IV Nefi 1:14,37; Mormón 8:10-12; Ether 12:17.
+28e, 3984: III Nefi 20; 21:25.
+28f, 3985: Véase d.
+28g, 3986: Versículos 15,17,36-40.
+28h, 3987: Véase d.
+28i, 3988: IV Nefi 1:44; Mormón 8:10.
+28j, 3989: Véase k, II Nefi 31.
+28k, 3990: Véase v, III Nefi 9.
+28l, 3991: Los tres.
+28m, 3992: Véase w, III Nefi 19.
+28n, 3993: Versículo 14.
+28o, 3994: Versículos 36-40.
+
+Corrections:
+Page continues Chapter 28 (v.6 cont.-17, opens mid-sentence "Juan, quién
+me acompañó..." per rule 1, no blank line after `Página 545`) from
+page 544, whose Corrections log confirmed no subtitle at the chapter 28
+opening. Body text is cut off mid-verse at v.17 ("...no lo sé;"),
+presumably continuing on page 546.
+Rule-7 hyphenated line-break rejoins: "pade-"/"ceréis" -> "padeceréis"
+(v.9), "com-"/"pleta" -> "completa" (v.10), "pala-"/"bras" ->
+"palabras" (v.12), "transpor-"/"tados" -> "transportados" (v.13,
+rejoined line lands at exactly 72 chars), "perma-"/"necieron" ->
+"permanecieron" (v.17, rejoined line lands at exactly 72 chars).
+Rule-31 space-before-punctuation cleanup (this page's print
+consistently sets a space before every semicolon; removed throughout,
+no exceptions per the standing rule): "Judíos ;" (v.6), "cielo ;"
+(v.7), "muerte ;" (v.8), "inmortalidad ;" (v.8), "mundo ;" (x2, v.9),
+"mí ;" (v.9 and v.11), "completa ;" (v.10), "Padre ;" (v.10), "juno ;"
+(v.10), "oído ;" (x2, v.14 and v.16), "cuerpo ;" (v.15), "sé ;" (v.17).
+No rule-6 wide-gap normalizations spotted on this page beyond the
+above (all extra width was space-before-semicolon, already covered by
+rule 31).
+Suspected misprint (rule 32) investigated and confirmed, v.15: the
+1920 image clearly prints "...para poder. contemplar las cosas de
+Dios" with a genuine period (round, baseline-level, matching the
+shape of ordinary sentence-ending periods elsewhere on this page --
+not a raised comma and not an off-baseline speck) sitting mid-sentence
+where grammar requires none ("para poder contemplar" = "in order to
+be able to contemplate"). Initially suspected as a stray speck per
+rule 36, but the Google OCR cross-check (step 10,
+`check_google_crosscheck.py 545`) independently transcribed a
+punctuation mark at the same position (read as a comma rather than a
+period, but confirming a real printed mark, not a scanning artifact --
+so the rule 36 "Google's silence" test does not apply here; Google
+was not silent). Checked directly against 1886
+(pages_1886/page_0560.png, book page 542, mid crop): 1886 prints
+"...para poder contemplar las cosas de Dios." with NO period after
+"poder" (line-wraps "poder" / "contemplar" with nothing between).
+This is a genuine 1920-only punctuation error (an extraneous period
+inserted mid-sentence), not a shared-edition reading. **Logged in
+`errors in 1920.txt`** (III Nefi 28:15, extraneous period after
+"poder"). Preserved as printed in the transcription itself, per rule
+32.
+Footnote lettering: Chapter 28 continues from page 544 (which ended at
+"a") with b through o, all confirmed via strict alphabetical
+sequencing (rule 13) and, additionally, essentially verbatim content
+matches against the 1879 English edition (pages_1879/page_0547.png
+and page_0548.png, book pages 539-540, chapter_map.csv "3
+Nephi,28,566,547,559") -- both editions place the same lettering on
+the same annotated words for this entire page, letter for letter.
+Mandatory 1879 check (rule, Section 8) for letter "l" (v.13, before
+"fueron"): the 1920 glyph is genuinely ambiguous at zoom (short
+stroke with what could read as a separated dot, i.e. "i"-shaped), but
+"i" was already used earlier on this same page (v.9, "como") so
+strict alphabetical sequencing (rule 13) requires this to be "l", not
+a repeat "i". Confirmed independently via the 1879 crop
+(pages_1879/page_0548.png, ~17% down): a clear, continuous sloping
+italic stroke ("they" -> "l, Los tres."), matching the "l" shape per
+the rules doc's own glyph description and NOT the "short stroke with
+separated dot" of "i". Both lines of evidence agree.
+Session E: fresh pptext regeneration (`report_wsl_20260729f.html`).
+Spellcheck Suspect Words section contains no vocabulary from this
+page's line range (24324-24375) or its new footnote numbers
+(3981-3994) -- the section's 7 total hits (carbunclo, cuermo,
+limpiños, peofeta, Pobrecita, Profecia, qulán, rependerá) are all from
+earlier, already-reviewed pages. Footnote check: merged anchor/
+footnote buckets for this page's range (3982-3994 in the "anchors"
+bucket, 3981 in the separate "footnotes" bucket purely because
+`[3981]Juan` happens to open its own wrapped output line -- the same
+known bucket-split quirk documented on page 544, not an actual
+absence) are fully consistent with a direct `\[(\d+)\]` scan of
+`librodm.txt`: zero duplicates, zero out-of-range values, and the only
+gap in the whole document is footnote 812 (the long-since-documented
+Jacob 2:15 case, unrelated to this page). Short lines / dash check /
+special situations hits touching this page's line range were all
+confirmed to be the standard, already-established false-positive
+categories (verse-end short lines; legitimate hyphenated verse ranges
+in the new Block 2 entries 3983/3986/3994; the "standalone 1" special-
+situations check firing on "IV Nefi 1:44" inside entry 3988's own
+colon-based citation). Whole-document mechanical sweeps:
+`check_spaced_punctuation.py`, `check_footnote_punctuation.py`, and
+`check_verse_indent.py` all clean across `librodm.txt`/
+`librodm_foot.txt`; zero curly quotes in either master file.
+Genuine 1920 print defect found and documented (not corrected in the
+transcription, footnote structure only): footnote letter "e" is
+present in the body text (v.7, before "venga") but its own "e,"
+marker is entirely missing from the printed footnote block -- the
+text "III Nefi 20; 21:25" (itself missing the ":22" verse number
+after "20") runs on directly after "d"'s citation ("...Ether 12:17.")
+with no letter, comma, or paragraph break of any kind signaling a new
+entry, confirmed via multiple zoom crops at the "d"/"e" boundary and
+independently at the "20;" spot (no stray mark of any kind, not even
+a speck). Confirmed via 1879 (same pages as above, bottom footnote
+block): 1879 prints this as its own clearly separate entry, "e, III.
+Nep. 20:22. 21:25." Since Block 1 in this project is a structured
+re-transcription (not a literal line-for-line print reproduction) and
+every body-text superscript requires a corresponding entry per the
+project's own footnote scheme, entry "28e" was reconstructed as a
+separate line using 1920's own (verse-number-short) printed wording,
+"III Nefi 20; 21:25" -- not 1879's fuller "20:22" -- per rule 32
+(transcribe what 1920 actually shows, not what 1879 supplies).
+Logged in `errors in 1920.txt`: III Nefi 28:7 footnote e, missing
+letter marker and missing verse 22 for III Nefi 20 (1879 comparison).
+No other i/l/1 letters or cross-reference targets appear on this page
+(checked j/k/v's cross-reference targets -- v is not i/l/1, no other
+occurrences). Neither of this page's two `errors in 1920.txt` entries
+(28e missing footnote letter; 28:15 extraneous period) needed a
+`permitted words.txt` companion entry -- both are structural/
+punctuation findings, not misspelled words, so there is nothing for
+aspell/pptext to suppress.
+Rule-23 verse-range formatting applied to 28d: "8, 9" (consecutive) ->
+"8-9"; "19-22", "37-40", "Mormón 8:10-12" already ranges in the print,
+unchanged.
+No narrow-space-vs-merge candidates found on this page.
+Google-text cross-check (`check_google_crosscheck.py 545`) reports
+exactly one remaining candidate after the fix above: a [replace] at
+the "poder./poder," spot (Google reads it as a comma, we transcribe
+it as a period) -- this is the same mark already investigated in
+full above (rule 32/36 write-up), not a new finding; both editions
+agree a real mark is printed there, they just differ on which
+character it is, and the period reading was settled by direct zoom
+(round, baseline-level, matching this page's other sentence-ending
+periods) rather than by the OCR comparison. No action needed beyond
+what's already logged.
+Session B: independently re-verified all 14 Block 1 entries and all 14
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. Mandatory 1879 check for letter "l" (v.13,
+"fueron") independently re-run this session (fresh crop of
+pages_1879/page_0548.png, ~17% down): confirms a continuous sloping
+italic stroke, not a short-stroke-plus-dot "i" -- same conclusion as
+Session A, reached from the 1879 source again rather than by trusting
+Session A's note. No other i/l/1 letters appear anywhere on this page
+(in either the page's own lettering or any cross-reference target).

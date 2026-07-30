@@ -1,0 +1,177 @@
+Página 536
+mas con misericordia eterna tendré compasión de ti, dice el
+Señor, tu Redentor.
+9. Porque esta me será como las aguas de Noé; que juré que
+nunca más las aguas de Noé pasarían sobre la tierra; así he
+jurado que no me enojaré más contra ti.
+10. Porque los [3897]montes desaparecerán, y los collados se
+mudarán, mas no se apartará de ti mi bondad, ni el [3898]pacto de
+mi pueblo se removerá, dice Él Señor, Él que tiene misericordia
+de ti.
+11. ¡Pobrecita! [3899]Fatigada con tempestad y sin consuelo;
+he aquí, que yo [3900]acimentaré tus piedras con bellos colores, y sobre
+zafiros te fundaré;
+12. Tus ventanas pondré de ágatas; tus puertas de piedras
+de carbunclo; y todos tus términos de piedras de buen gusto.
+13. Y [3901]todos tus hijos serán enseñados del Señor; y grande
+será la paz de tus hijos.
+14. En justicia serás establecida; estarás lejos de opresión,
+porque no temerás; y de terror, porque no se acercará á ti.
+15. He aquí, que seguramente se reunirán en contra de ti, no
+por mí; los que se reunan en [3902]contra de ti, caerán por causa tuya.
+16. He aquí, que yo creé al herrero que sopla las áscuas en el
+fuego, y que saca la herramienta para su obra; y yo he creado
+al devorador para destruir.
+17. Toda arma que fuere fabricada contra ti, no prosperará.
+y tú condenarás toda lengua que se levantare contra ti en juicio.
+Esta es la heredad de los siervos del Señor, y su justicia viene
+de mí, dice el Señor.
+
+CAPÍTULO 23.
+
+1. Y ahora, he aquí, os digo, que debeis escudriñar estas cosas.
+Sí, os doy el mandamiento de que escudriñéis estas cosas diligentemente;
+porque grandes son las palabras de Isaías.
+2. Porque seguramente él habló relativamente á todas las
+cosas de mi pueblo, que pertenecen á la casa de Israel; por lo
+tanto, es preciso que hable también á los Gentiles.
+3. Y todas las cosas que él ha dicho, han sido y serán de
+[3903]conformidad con las palabras que dijo.
+4. Por tanto, dad oídos á mis palabras, escribid las cosas que
+os he dicho; y conforme al tiempo y á la voluntad del Padre,
+[3904]irán á los Gentiles.
+5. Y quienquiera que oiga mis palabras, y se arrepienta, y
+
+22g, 3897: Helamán 12:8-12; Isaías 40:4,5.
+22h, 3898: Véase j, III Nefi 15.
+22i, 3899: Isaías 49:21.
+22j, 3900: La suntuosidad y grandeza de sus ciudades sagradas.
+22k, 3901: Isaías 60:21; Jeremías 31:33-34.
+22l, 3902: Véase j, I Nefi 22.
+23a, 3903: II Pedro 1:19-21.
+23b, 3904: Véase c, II Nefi 27.
+
+Corrections:
+Mandatory i/l/1 check: chapter 22's own lettering on this page
+includes both i (before "Fatigada", v.11) and l (before "contra",
+v.15), so the 1879 cross-check applies (chapter_map.csv: III Nefi 22
+-> 1879 file 537; content located instead on file 538, book page 530).
+1879 confirms the same footnote content letter-for-letter in the same
+order (e/f already established page 535; g/h/i/j/k/l on this page):
+"g, Hela. 12:8-12; Isaiah 40:4,5. h, see j, III. Nep. 15. i, Isaiah
+49:21. j, the costliness and grandeur of their holy cities. k, Isaiah
+60:21; Jer. 31:33,34. l, see j, I. Nep. 22." Both the current-chapter
+letters i and l are confirmed correct as read (i attaches to
+"tossed"="Fatigada", matching Isaiah 49:21 content exactly; l attaches
+to "'against thee"="contra de ti", matching content).
+Cross-reference target letters corrected via this same check: an
+initial same-page read of both "h, Véase _, III Nefi 15" and "l,
+Véase _, I Nefi 22" looked like "i" at a glance, but 1879 reads both
+as "j" ("see j" in each case), and a fresh zoomed crop of each Spanish
+glyph shows a dot above a stroke with a distinct leftward hook/curl
+below the baseline -- matching this page's own confirmed "j" shape
+(the label glyph on "j, La suntuosidad...") and NOT the confirmed "i"
+shape (dot above a plain straight stroke, no curl, per the "i,
+Isaías 49:21" label glyph on this same page). Content-fit corroborates
+independently for the "l" cross-reference: I Nefi 22's own footnote j
+(sequential 237, "Versículos 19-20; II Nefi 27:2-3") is I Nefi
+22:19-20, "all those who fight against Zion shall be destroyed" --  a
+strong the matic match for v.15's "los que se reunan en contra de ti,
+caerán por causa tuya," stronger than footnote i's own content
+(14:3,15-17; 21:26, a gathering/scattering reference, not a
+falling/destruction one). Both corrected to "j" from an initial "i"
+misreading -- the exact failure mode Section 8's mandatory check
+exists to catch.
+Footnote 23b's target letter "c" (II Nefi 27) confirmed by content fit:
+27c (sequential 682) cites I Nefi 13:34-35,39-42 etc., the Book of
+Mormon coming forth to the Gentiles through Joseph Smith/Martin
+Harris -- matches v.4's "escribid las cosas...irán á los Gentiles"
+exactly.
+Rule 23 range formatting: footnote 22k's original "Jeremías 31:33, 34"
+(consecutive verses) written as "31:33-34" per rule 23.
+Narrow-space-vs-merge default (rule, Section 2): v.1 "que debeis" --
+Session A's zoomed crop looked like a tight/no-gap run ("quedebeis"),
+so this was transcribed as two words per the default-to-two-words
+rule (1886, book page 533/file 551, prints "que debeis" as two
+separate words at the identical spot, and grammar requires two words
+here regardless). Editor confirmed directly from the page (2026-07-28)
+that a normal space is in fact visible between "que" and "debeis" --
+so the transcription was correct, and the "no visible gap" read was a
+standard-crop-resolution artifact (per `feedback_narrow_space_vs_merge`),
+not a real printing anomaly worth further note.
+Two stray printing specks (not real punctuation/accents), both
+confirmed against 1886 which shows plain unbroken text at the
+identical spots: v.13 "todos .tus hijos" -- 1886 (book page 532)
+prints "todos tus hijos" as plain text, no period; the stray mark sits
+mid-phrase where a period would be ungrammatical anyway. v.15 "se
+reunan" -- 1920 shows a tiny mark between "se" and "'reunan"; 1886
+prints "se reunan" plainly. Both transcribed as plain text with the
+speck omitted; neither logged in `errors in 1920.txt` (not a
+misprint, just scan/ink noise).
+Mechanical pass: one rule-7 hyphen rejoin, "dili-"/"gentemente" (v.1)
+-> "diligentemente". The rejoined word plus its attached punctuation
+("diligentemente;", after normalizing the original's space-before-
+semicolon per rule 31) is exactly 72 characters on the first line
+("Sí, os doy el mandamiento de que escudriñéis estas cosas
+diligentemente;"), so it stays there per rule 7 (72 is under the
+73-character cutoff); the remainder ("porque grandes son las palabras
+de Isaías.") needed no further rebalancing. No rule-8 overflow
+occurred anywhere else on this page.
+Numerous rule-31 space-before-punctuation fixes throughout (this
+page's print consistently sets a space before semicolons, e.g.
+"Noé ;" -> "Noé;", "tierra ;" -> "tierra;", "consuelo ;" ->
+"consuelo;", "fundaré ;" -> "fundaré;", "ágatas ;" -> "ágatas;",
+"carbunclo ;" -> "carbunclo;", "Señor ;" -> "Señor;", "temerás ;" ->
+"temerás;", "mí ;" -> "mí;", "obra ;" -> "obra;",
+"diligentemente ;" -> "diligentemente;", "Israel ;" -> "Israel;",
+"dicho ;" -> "dicho;").
+Capitalization preserved as printed: v.10 "dice Él Señor, Él que
+tiene misericordia de ti" -- capital, accented "Él" used twice as a
+reverential pronoun for Deity, distinct from the ordinary lowercase
+"el" used elsewhere on this same page (e.g. v.17's "dice el Señor").
+Initial Session A read missed the accent (small mark easy to lose in
+the bold-face capital at standard crop resolution); caught by the
+Google OCR cross-check (`check_google_crosscheck.py`), which
+independently read "Él"/"Él" at both spots, then confirmed by a tight
+zoom crop showing the acute mark clearly. 1886 uses plain lowercase
+"el" in the equivalent v.10 spot, so this capitalized/accented form is
+1920's own choice, not a shared convention -- not an error, just
+preserved exactly as printed both times it occurs.
+Punctuation preserved as printed: v.17 "no prosperará." followed by
+lowercase "y tú condenarás..." -- 1920 prints a period where 1886
+prints a comma at the same spot, producing a lowercase sentence-start
+after a period. Session E: confirmed this is exactly the "full stop
+followed by unexpected sequence" pptext pattern documented for Alma
+43:9/48:6/49:3/52:34/57:6 and Helamán 5:2 (1886 always has a comma at
+these spots) -- added to `errors in 1920.txt` (III Nefi 22:17) per
+that established precedent. Punctuation error, not a spelling one, so
+no `permitted words.txt` entry. Editor confirmed directly from the
+page (2026-07-28) that the period (not a comma) is indeed what 1920
+prints, matching the transcription and the errors-log entry.
+"acimentaré" (v.11) and "áscuas" (v.16): both confirmed as matching
+1886 exactly at the same spots (book page 532, file 550) -- legitimate
+period spellings, not errors.
+"causa tuya" (v.15): printed with no accent on "causa" in 1920, unlike
+1886's "cáusa" -- not flagged, since unaccented "causa" is actually
+the correct modern spelling; no error either way.
+"debeis" (v.1, no accent, vs. modern "debéis"): confirmed matching
+1886's identical unaccented spelling at the same spot -- legitimate
+period spelling, to be added to `permitted words.txt` in Session E,
+not `errors in 1920.txt`.
+Page begins mid-verse (continuation of III Nefi 22:8 from page 535,
+Isaías 54:8 quotation), so no `Página 536` blank-line/header per rule
+1. Chapter 22 closes and chapter 23 opens mid-page within the same
+book (III Nefi), so no blank line in Block 1 per rule 20 -- only the
+letter reset (l -> a) signals the boundary.
+Session B: independently re-verified all 8 Block 1 entries against a
+fresh `process_page.py` crop (not reused from Session A) -- all
+reference text confirmed matching exactly, including the two
+"Véase j" cross-references already corrected in Session A. Redid the
+mandatory i/l/1 check independently against a fresh 1879 crop
+(file 538): confirmed "h, see j, III. Nep. 15." and "l, see j, I.
+Nep. 22." in clean 1879 type, matching Session A's resolution exactly.
+Also independently confirmed current-chapter letters i ("tossed"/
+Fatigada) and l ("gather together 'against"/contra) against the same
+fresh 1879 crop. All 8 [N] body markers reconfirmed against their
+Block 1 content (each footnote's reference content matches the exact
+word it annotates). No further errors found.

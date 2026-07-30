@@ -1,0 +1,151 @@
+Página 516
+3. Y ¿por qué miras la mota que está en el ojo de tu hermano,
+y no echas de ver la viga que está en tu ojo?
+4. O, ¿cómo dirás á tu hermano, déjame sacar esta arista de
+tu ojo; y, he aquí, que tienes una viga en tu propio ojo?
+5. Tú, hipócrita, primeramente echa la viga fuera de tu propio
+ojo; y entonces verás claro para echar la arista fuera del ojo de
+tu hermano.
+6. No deis lo que es santo á los perros, ni echéis vuestras perlas
+ante los marranos, no sea que las huellen con sus pies, y volviéndose
+en contra os despedacen.
+7. [3690]Pedid, y se os dará; buscad, y hallaréis; tocad, y se os
+abrirá; 8. Puesque quienquiera que pida, recibe; y él que busque,
+halla; y al que toque se le abrirá.
+9. O, ¿Qué hombre hay de vosotros, a quién, si su hijo pidiere
+pan, le daría una piedra?
+10. O, ¿si le pidiera pescado, le daría una serpiente?
+11. Y si vosotros siendo malos, sabéis dar buenas dádivas
+á vuestros hijos, ¿cuánto mejor no sabrá vuestro Padre que está
+en los cielos, dar buenas cosas á aquéllos que se las pidan?
+12. Por tanto, cuanto deseareis que los hombres os hicieran,
+aun hacédselo á ellos, puesque esta es la ley y los profetas.
+13. Entrad por la puerta [3691]estrecha porque ancha es la puerta,
+y espacioso el camino que conduce á la destrucción, y muchos
+son los que entran por ella;
+14. Porque recta es la puerta, y angosta es la senda, que conduce
+á la vida, y pocos son los que la hallan.
+15. Guardáos de falsos profetas, que se os presenten con
+vestido de ovejas, mas por dentro son lobos rapaces.
+16. Por sus frutos les conoceréis: ¿Cógense uvas de los
+espinos, ó higos de los cardos?
+17. De esta manera es que cada buen árbol trae buen fruto;
+mas un árbol corrupto trae mal fruto.
+18. Un buen árbol no puede llevar mal fruto, ni un árbol
+corrompido puede dar buen fruto.
+19. Todo árbol que no lleva buen fruto, es cortado y echado
+á la lumbre.
+20. Por tanto, por sus frutos les conoceréis.
+21. No todos los que me digan: Señor, Señor, entrarán en
+el reino del cielo; sino él que hiciere la voluntad de mi Padre que
+está en el cielo.
+22. Muchos me dirán en aquel día: Señor, Señor, ¿no hemos
+profetizado en tu nombre? ¿y en tu nombre no hemos echado
+demonios? ¿y no hemos hecho en tu nombre cosas maravillosas?
+23. Y entonces les profesaré: Nunca os conocí, apartáos de
+mí, obradores de iniquidad.
+
+14a, 3690: III Nefi 27:29.
+14b, 3691: Véase a, II Nefi 9; III Nefi 27:33.
+
+Corrections
+- Rule 7 hyphen rejoins: v.6 "volvién-/dose" -> "volviéndose"; v.14
+  "con-/duce" -> "conduce". Both fit under 72 chars appended to their
+  first line, per rule 7.
+- Rule 8 marker-caused overflow: inserting [3690] before "Pedid" (v.7)
+  pushed that line to 73 chars; moved the last word "abrirá;" to the
+  start of the next line (which begins "8. Puesque..."), matching the
+  established cascade-into-the-next-verse's-own-line pattern (see
+  pages 496, 506, 508).
+- Rule 31 space-before-punctuation normalized throughout (original
+  print sets a space before most semicolons and colons on this page):
+  v.4 "ojo ;", v.5 "ojo ;", v.7 "dará ;"/"hallaréis ;"/"abrirá ;", v.8
+  "recibe ;", v.13 "ella ;", v.16 "conoceréis :", v.17 "fruto ;", v.21
+  "digan :"/"cielo ;", v.22 "día :", v.23 "profesaré :". All fixed
+  directly per the standing rule.
+- v.4 "t u ojo": the print shows a genuinely wider-than-normal gap
+  between "t" and "u" within the single word "tu" (a justification
+  artifact, not a real word break -- "t u" isn't a word-boundary
+  reading of any kind). Closed up to the normal single word "tu" per
+  the rule 6 spacing-normalization default; no `errors in 1920.txt`
+  entry (not a misprint, just a print-justification gap).
+- v.9 "a quién" prints with no accent on "a". This matches an already
+  established recurring 1920 accentuation inconsistency documented
+  elsewhere in the corpus (e.g. "vino a suceder" vs. "vino á suceder",
+  2026-07-22c/page 490), not a page-specific defect -- no new
+  `errors in 1920.txt` entry.
+- v.22 "no. hemos" (REVERSED 2026-07-25): initially transcribed with a
+  period between "no" and "hemos" and preserved as printed per rule 32,
+  then confirmed against 1886 (Session E) and added to `errors in
+  1920.txt`. The editor then reviewed a zoomed crop directly and judged
+  the mark to be a stray scan artifact, not genuine type -- notably
+  smaller and lower than the page's genuine periods; the PDF's own
+  embedded/OCR text layer (`google_text_1920/page_0538.txt`) reads a
+  plain space at this exact spot with no character at all, corroborating
+  the artifact call. Reversed to read "no hemos" (no punctuation) in
+  this file and `librodm.txt`; the `errors in 1920.txt` entry was
+  removed. Matches the established scan-artifact pattern (e.g. pages
+  472-473, 475, 483, 488, 500, 510, 515).
+- v.23 "mí,.": a small stray dot appears immediately after the comma
+  following "mí" -- consistent with the established floating-ink-speck
+  scan-artifact pattern (pages 483, 490, 492, 494, 497, 500, 512-515),
+  not a second punctuation mark. Not transcribed; transcribed as "mí,"
+  only.
+- Neither footnote letter on this page (a, b) nor footnote b's
+  cross-reference target letter (a, in "Véase a, II Nefi 9") is i/l/1,
+  so no mandatory 1879 check applies. Both glyphs were also visually
+  unambiguous at zoom.
+- No chapter/book heading or subtitle on this page (continues chapter
+  14, opened on page 515, mid-chapter).
+- Google-text cross-check flagged 2 candidates. v.22 "no." vs. Google's
+  reading with no period: consistent with the mark being genuine but
+  small enough for the OCR to miss (does not override the direct zoom
+  read, which showed a clear period-sized mark); the suspected-misprint
+  call stands, to be verified against 1886 in Session E. v.23
+  "apartáos" vs. Google's "apartãos": plain OCR noise misreading the
+  acute accent as a tilde, matching the established "Acordáos"/
+  "Acordãos" pattern from page 515; no change.
+- Session B: independently re-verified both Block 1 entries ("a, III
+  Nefi 27:29." and "b, Véase a, II Nefi 9; III Nefi 27:33.") and both
+  body markers (superscript a before "Pedid" v.7; superscript b before
+  "estrecha" v.13) against fresh crops. Neither this page's own letters
+  (a, b) nor footnote b's cross-reference target letter (a) is i/l/1,
+  so no mandatory 1879 check applies. No errors found.
+- Session D: footnote 3691's cross-reference ("Véase a, II Nefi 9;
+  III Nefi 27:33") resolved by hand -- `generate_block2.py` left it
+  unresolved because its parser doesn't handle a "Véase [letter], Book
+  Chapter; [direct citation]" mixed form. Located II Nefi 9's own
+  letter a at `librodm_foot.txt` line 421 ("9a, 358: Véase e, I Nefi
+  15."), within the II Nefi section (lines 283-915), giving sequential
+  number 358; final Block 2 entry: "3691: Véase 358; III Nefi 27:33."
+  matching the established "Véase [number]; [extra citation]." format
+  (e.g. existing entries 656, 730).
+- Session E: fresh pptext regeneration (`report_wsl_20260725j.html`)
+  flagged one new spellcheck suspect for this page, "Cógense" (v.16) --
+  confirmed legitimate: matches 1886 exactly (book page 513/file 531,
+  "¿Cógense uvas de los espinos, ó higos de los cardos?"), RAE
+  confirms "coger" is a standard verb (this is an archaic
+  pronominal/enclitic word order, "cógense" for "se cogen"), and the
+  modern Spanish edition (churchofjesuschrist.org, 3 Nefi 14:16) uses
+  the same root verb ("¿Se recogen uvas...?", different word order per
+  the usual independent-translation caveat); added to `permitted
+  words.txt` only. "Profecia" is the pre-existing, unrelated flag from
+  page 469. The "full stop followed by unexpected sequence" check
+  initially confirmed v.22's suspected period against 1886 (same page,
+  "¿y en tu nombre no hémos echado demonios?", no punctuation there)
+  and it was added to `errors in 1920.txt` -- but the editor's own
+  direct review of a zoomed crop afterward (2026-07-25) identified the
+  mark as a stray scan artifact rather than genuine type (smaller and
+  lower than the page's real periods), corroborated by the PDF's own
+  embedded/OCR text layer reading a plain space there with no character
+  at all; reversed to "no hemos", `errors in 1920.txt` entry removed
+  (see the v.22 Corrections note above). v.23's "mí,." stray dot was
+  also checked against 1886 (same page, "de mí, obradores de iniquidad.",
+  plain comma only) -- confirms the scan-artifact call, no change.
+  Full-document footnote-anchor check (max 3691, zero duplicates/
+  out-of-range, only the pre-existing 812 gap), `check_spaced_
+  punctuation.py`/`check_footnote_punctuation.py`/`check_verse_
+  indent.py` (whole document), and an independent curly-quote
+  character scan all clean. No hyphens remain in this page's body
+  text after the rule-7 rejoins, so no dash-check findings for this
+  page's range.

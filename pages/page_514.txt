@@ -1,0 +1,107 @@
+Página 514
+3. Pero cuando hagáis limosna, que la izquierda no sepa lo
+que la mano derecha haga;
+4. Que vuestras limosnas sean en secreto; y vuestro Padre
+que vé en secreto, el mismo os premiará abiertamente.
+5. Y cuando orareis, no hagáis como los hipócritas, porque
+les gusta orar parados en las sinagogas, y en las esquinas de las
+calles, para que puedan ser vistos de los hombres. Dígoos en
+verdad, que tienen su recompensa.
+6. Mas tú, cuando orares, entra en tu aposento, y cuando
+hayas cerrado tu puerta, ora á tu Padre que está en secreto;
+y tu Padre, que vé en secreto, te recompensará abiertamente.
+7. Mas cuando orareis, no uséis vanas repeticiones, como los
+paganos, que esperan ser oídos por su mucha parlería.
+8. No seáis por tanto como ellos, puesque vuestro Padre sabe
+lo que necesitáis antes de que le pidáis.
+9. Por tanto, de esta manera oraréis: Padre nuestro que estás
+en el cielo, santificado sea tu nombre.
+10. Tu voluntad sea hecha en la tierra como se hace en el cielo.
+11. Y perdónanos nuestras deudas, como perdonamos á
+nuestros deudores.
+12. Y no nos conduzcas á la tentación, mas libranos del mal.
+13. Porque tuyo es el reino, y el poder, y la gloria, para siempre.
+Amén.
+14. Porque si perdonáis á los hombres sus ofensas, vuestro
+Padre celestial os perdonará también;
+15. Mas si no perdonáis á los hombres sus ofensas, tampoco
+vuestro Padre os perdonará vuestras ofensas.
+16. Además cuando [3688]ayunéis, no seáis como los hipócritas
+que ponen un triste semblante, pues que desfiguran sus rostros,
+para que aparezcan á los hombres como que están ayunando.
+Dígoos en verdad, que ellos tienen su galardón.
+17. Mas, cuando vosotros ayunareis, ungíos la cabeza, y
+laváos la cara;
+18. Para que no aparentéis á los hombres que ayunáis, sino que
+á vuestro Padre, que está en secreto; y vuestro Padre, que vé
+en lo secreto, os premiará abiertamente.
+19. No os amontonéis tesoros sobre la tierra para vosotros
+mismos, en donde la polilla y el moho corrompen, y los ladrones
+abren brecha y roban.
+20. Mas amontonáos tesoros en el cielo, en donde ni la polilla,
+ni el moho corrompen, y en donde los ladrones no abren brecha,
+ni roban.
+21. Porque en donde está vuestro tesoro, alli estará también
+vuestro corazón.
+22. La luz del cuerpo es el ojo; por tanto, si vuestro ojo fuese
+sincero, todo vuestro cuerpo estará lleno de luz.
+
+13b, 3688: Véase t, Mosíah 27.
+
+Corrections
+- Verse-initial lines transcribed flush left with no leading indent,
+  per the 2026-07-25e standing convention. No chapter heading on this
+  page; continues chapter 13 (opened mid-page on page 513) from verse
+  3 through verse 22. Neither this page's own footnote letter (b) nor
+  its cross-reference target letter (t) is i/l/1, so no mandatory 1879
+  check applied; both glyphs were unambiguous at normal zoom.
+- No rule 7 hyphenated line-break splits anywhere on this page.
+- Rule 31/rule 6 space-before-punctuation and double-space
+  normalizations applied throughout: v.3 "haga ;" -> "haga;", v.4
+  "secreto ; y" -> "secreto; y", v.7 "hombres.  Dígoos" -> "hombres.
+  Dígoos", v.6 "secreto ;" -> "secreto;", v.9 "oraréis :  Padre" ->
+  "oraréis: Padre", v.14 "también ;" -> "también;", v.17 "cara ;" ->
+  "cara;", v.18 "secreto ; y" -> "secreto; y", v.22 "ojo ; por" ->
+  "ojo; por" -- all original-print justification artifacts, no content
+  change.
+- Suspected misprint, preserved as printed per rule 32: v.12
+  "libranos" -- printed with no accent on the i (expected "líbranos,"
+  an esdrújula word); verify against 1886 in Session E.
+- Suspected misprint, preserved as printed per rule 32: v.21 "alli" --
+  printed with no accent on the second i (expected "allí"); the same
+  line's "está"/"estará" both show accents clearly, so this isn't a
+  print-quality issue affecting the whole line; verify against 1886 in
+  Session E.
+- Scan artifact, not transcribed as printed: v.7 "mucha" -- a solid
+  ink blob obscures part of the "c" in the 1920 print (visually
+  resembling "muqha"), matching the established over-inked-blob
+  precedent (e.g. page 513's "hiriere," page 512's "por el"-adjacent
+  marks). Grammar requires "mucha" ("su mucha parlería," matching
+  Matthew 6:7's "much speaking"); transcribed as "mucha."
+- Scan artifact, not transcribed: a stray floating ink speck sits
+  above the line between "tentación," and "mas" in v.12 -- matches the
+  established floating-mark precedent (pages 483, 490, 492, 494, 497,
+  500, 512, 513); not a printed character, nothing inserted.
+- check_line_wrap.py flagged a +3 line-count gap vs. its OCR estimate
+  (46 vs. 43) and a high proportion of short lines. Re-checked directly
+  against the top/mid/bot crops: this page's short lines ("nuestros
+  deudores.", "Amén.", "laváos la cara;", "abren brecha y roban.", "ni
+  roban.", "vuestro corazón.") are all genuine verse-final fragments
+  confirmed individually in the image, not reflow artifacts -- the
+  page simply has an unusually high count of short verses (10, 13's
+  "Amén.", 17's "laváos la cara;", 20's three-line wrap, 21's "vuestro
+  corazón."). The OCR undercount is consistent with Tesseract merging
+  some of these short lines with neighbors, a known limitation of this
+  advisory check.
+- Google-text cross-check (extract_google_text.py/check_google_
+  crosscheck.py) flagged one candidate: an extra "." near v.18/19's
+  boundary. Zoomed the spot (v.18 "...os premiará abiertamente.") and
+  confirmed a small stray ink speck sits just after and below the
+  sentence period -- the same floating-mark scan-artifact pattern as
+  elsewhere on this page and prior pages; not printed type, nothing
+  added to the transcription.
+- Session B: independently re-verified the single Block 1 entry ("b,
+  Véase t, Mosíah 27.") and the [3688] body marker's placement
+  (immediately before "ayunéis," v.16) against fresh crops. No
+  mandatory 1879 check applied (neither b nor t is i/l/1); both
+  glyphs are unambiguous. No errors found.
