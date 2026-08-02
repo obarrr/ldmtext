@@ -4947,3 +4947,291 @@ instead:
   independent curly-quote character scan of both master files also
   found zero curly quotes. No new `permitted words.txt` or `errors in
   1920.txt` entries resulted from this page.
+- **2026-08-01**: Sessions A–E run for page 563 (Mormón, chapter
+  boundary: chapter 4 closes on page 562, chapter 5 opens here with
+  `CAPÍTULO 5.` immediately after `Página 563` per the established
+  chapter-opening convention -- no subtitle line present at this
+  opening, confirmed by checking the actual image; footnotes
+  4131-4134, letters a-d). Session A: 5 rule-31 space-before-semicolon
+  instances normalized (v.3, 5 x2, 6, 7). 2 rule-7 hyphen rejoins
+  (v.1 considerán-/dome -> considerándome, 69 chars; v.5 ar-/ruinadas
+  -> arruinadas, 69 chars), neither requiring rule-8 rebalancing. No
+  i/l/1 letters anywhere on this page (footnote letters run a-d only,
+  and cross-reference target letter "c" in entry 5c, "Véase c, II Nefi
+  27," is not in the mandatory set), so the Section 8 1879 cross-check
+  did not apply -- confirmed and noted explicitly rather than silently
+  skipped. Footnote 5d's citation ("III Nefi 16:8 9; 20:27, 28.")
+  prints no comma between the consecutive verses 8 and 9, just an
+  unusually wide gap (confirmed via high-zoom crop and independently
+  corroborated by Google's own OCR reading the identical gap); since
+  rule 23 already normalizes consecutive verse numbers to a hyphenated
+  range regardless of source punctuation, this became "16:8-9" like
+  the entry's other bare-verse-list citations without needing an
+  `errors in 1920.txt` entry (footnotes have no 1886 typesetting to
+  compare against in the first place, per the Reference PDFs section).
+  One other footnote-5d gap (before "10:18") was a justification
+  artifact, normalized to one space per rule 6. `check_line_wrap.py`
+  and `check_google_crosscheck.py` both returned 0/empty for this page
+  -- the known, previously-documented tool limitation for any page
+  whose body text starts with a chapter heading immediately after
+  `Página N` (their shared body-extraction helper stops at that first
+  blank line; same root cause as pages 536, 559, 570). Worked around
+  manually: `check_line_wrap.py`'s own OCR line-count estimate (39)
+  landed within 1 of the true hand-counted total (40), and a full
+  manual read of `google_text_1920/page_0585.txt` against the page's
+  body text and footnote block found an exact match throughout
+  (including the footnote-d "16:8 9" gap, independently reproduced by
+  Google's OCR) -- no reflow, no undetected misreads. Google's OCR did
+  drop one letter elsewhere ("no quero" for "no quiero," v.8), a known
+  OCR weak spot, not a transcription error (confirmed via direct zoom
+  that the image plainly prints "quiero" in full). Session B:
+  independently re-verified all 4 Block 1 entries and all 4 `[N]` body
+  markers against a fresh `process_page.py` crop (page label 563b, not
+  reused from Session A) -- exact match, no corrections needed.
+  Session C (`insert_body_text.py 563`): no book-boundary header
+  needed (still within Mormón, just a new chapter), body text and all
+  4 Block 1 entries inserted cleanly. Session D (`generate_block2.py
+  563`): all 4 entries resolved cleanly on first pass, including
+  entry 5c's "Véase c, II Nefi 27" resolving to sequential number 682
+  -- sanity-checked directly against the identical resolution already
+  on record for this same target from page 536's session ("3904->682
+  II Nefi 27c"), an exact match confirming both the cross-reference
+  reading and the existing index entry. Session E: fresh pptext
+  regeneration (`report_wsl_20260801g.html`, live WSL run). Spellcheck
+  Suspect Words and Edit Distance Checks: zero hits from this page's
+  range (the 6 pre-existing flagged words in the report all sit well
+  before page 563's line range, unrelated to this session). Footnote
+  scan (whole document, computed directly from `[N]` markers):
+  footnotes 4131-4134 contiguous, gap-free, duplicate-free, in-range;
+  only pre-existing gap remains the long-documented footnote 812.
+  Whole-document mechanical sweeps (`check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`) all clean
+  against both master files; an independent curly-quote character scan
+  of both master files also found zero curly quotes. Walked the
+  character-checks, hyphenation (both non-hyphenated and spaced-pair),
+  dash-check (hyphen-minus bucket confirms footnotes 4132/4134's
+  verse-range hyphens match the established no-space convention), and
+  special-situations sections of the full pptext report and confirmed
+  no new page-563-specific findings in any of them -- the only
+  page-563 citations that surfaced were in already-cleared categories
+  (short-lines check, on every Block 2 entry by construction; the
+  paragraph-level "unexpected paragraph end" false positive, since
+  this page's last transcribed line is currently the true end of the
+  body-text section pending page 564). No new `permitted words.txt` or
+  `errors in 1920.txt` entries resulted from this page -- no suspected
+  1920 printing errors were found in the body text or footnotes.
+- **2026-08-02**: Sessions A–E run for page 564 (Mormón 5, verses
+  9(cont.)-19; footnotes 4135-4145, letters e-o). Session A: page
+  continues verse 9 mid-sentence from page 563. 11 footnote markers
+  (e-o) placed and matched letter-for-letter against a fresh 1879
+  cross-check (chapter_map file pages 566-567) covering all of this
+  page's own footnote content and body-marker placement -- exact match
+  throughout. The mandatory i/l/1 check (Section 8) caught a genuine
+  misread: entry 5o's cross-reference target letter, first read as "i"
+  from the fn_zoom overview ("Véase i; Mormón 4"), was shown by 1879's
+  clear "o, see j, Mor. 4." to actually be "j" -- confirmed on the 1920
+  image itself via high-zoom shape comparison against this page's own
+  "i" (plain stroke + separate dot) and "j" (stroke with a below-
+  baseline hook) specimens; the disputed glyph matches "j". Corrected
+  to "Véase j; Mormón 4." Two other findings: v.9 "que he recibido" and
+  v.18 "he aquí" have justification-narrowed (but real, unambiguous)
+  inter-word gaps, normalized per rule 6, not escalated to the editor
+  since no single-word reading is grammatically plausible either way
+  (unlike the "quefueron"-style ambiguous case rule 6 asks Session E to
+  flag). V.15 "idolatría" prints with a genuine internal gap,
+  "idola tría," confirmed via high-zoom crop as real ink (not
+  justification kerning) and confirmed against 1886's unsplit
+  "idolatría" at the same spot -- preserved as printed, later promoted
+  to `errors in 1920.txt` in Session E. 12 rule-31 space-before-
+  semicolon instances normalized. No rule-7 hyphen rejoins needed (no
+  line-break hyphens anywhere on the page). `check_line_wrap.py`/
+  `check_google_crosscheck.py` both ran cleanly (43 transcribed lines
+  vs. 44 OCR estimate; zero cross-check candidates after the routine
+  footnote-marker/glue dismissals). Session B: independently
+  re-verified all 11 Block 1 entries and all 11 `[N]` body markers
+  against a fresh crop (page label 564b) -- exact match, including the
+  "idola tría" gap and the resolved letter "j." Session C
+  (`insert_body_text.py 564`): caught and fixed a real omission --
+  the page's own `Página 564` header line (rule 1) had been left out of
+  the Session A draft entirely (this page continues mid-verse from 563,
+  so the omission wasn't visually obvious), only surfacing once the
+  script's insertion left a bare blank line in `librodm.txt` where the
+  header belonged. Fixed in both `pages/page_564.txt` and the
+  already-inserted copy in `librodm.txt`. Session D
+  (`generate_block2.py 564`): 9 of 11 entries resolved automatically;
+  entries 4135 ("Véase a; Mormón 1.") and 4145 ("Véase j; Mormón 4.")
+  were left unresolved because the script's cross-reference parser only
+  splits the letter from the Book/Chapter clause on a comma, not a
+  semicolon -- 1879's comma-form equivalents ("e, see a, Mor. 1.", "o,
+  see j, Mor. 4.") confirm these are the same single-reference pattern
+  as the comma-form entries elsewhere on this page, just printed with a
+  semicolon. Resolved by hand against `librodm_foot.txt`'s own index
+  (Mormón 1a = 4062, Mormón 4j = 4125) and fixed directly in
+  `librodm.txt`'s Notas section. Three older `librodm_foot.txt` entries
+  (29c/740, 5g/861, 22-2r/2244) show this same semicolon pattern and
+  were apparently hand-resolved the same way previously -- a known,
+  unfixed script limitation, not addressed here per scope. Session E:
+  fresh pptext regeneration (`report_wsl_20260802.html`, live WSL run).
+  Only "idola" (from the already-logged "idola tría" gap) appeared in
+  Spellcheck Suspect Words from this page's range; added to `permitted
+  words.txt` as a genuine documented error being preserved as printed.
+  Independent research (mandatory regardless of pptext's silence) found
+  a second, pptext-unflagged error: v.16 "rastojo" is missing its first
+  "r" ("rastrojo") -- confirmed against 1886's correct "rastrojo" at
+  the same spot, RAE DLE having no entry at all for "rastojo," and zero
+  corpus hits for "rastojo" vs. 2 for "rastrojo" in Quijote (modern
+  edition uses the unrelated word "paja" here, not directly comparable
+  since it's an independent translation). Both errors added to `errors
+  in 1920.txt` (Mormón 5:15, 5:16); "idola"/"rastojo" added to
+  `permitted words.txt`. Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py` against both master files, a curly-quote
+  character scan, and a footnote-anchor continuity scan of the whole
+  body) all clean -- 4144 anchors spanning 1-4145, zero duplicates,
+  zero out-of-range, only the pre-existing footnote-812 gap remains. No
+  new hyphen compounds or adjacent-dash instances on this page.
+- **2026-08-02**: Sessions A-E run for page 565 (Mormón 5, verses
+  19(cont.)-24, plus Mormón 6, verses 1-6(partial); footnotes 4146-4153,
+  letters p-u then chapter 6's a-b). Session A: page continues verse 19
+  mid-sentence from page 564; chapter 6 opens partway down the page with
+  no subtitle line, and the page ends mid-word on a page-boundary
+  hyphen split ("Mor-", to be rejoined once page 566 is transcribed per
+  rule 10). None of this page's 8 footnote letters (p,q,r,s,t,u,a,b) or
+  cross-reference targets (d,c,o) are i/l/1, so the mandatory Section 8
+  check didn't apply; letter identity was corroborated instead by exact
+  content-match against the six-entry chapter-5 footnote block (p-u)
+  and content-fit against chapter 6's a-b block. 3 rule-31
+  space-before-punctuation instances normalized (v.22 "caminos !", v.24
+  "vuestra ; ó", cap.6 v.4 "fuentes ;"); one rule-6 widened-gap
+  normalization (v.23 "Dios?  ¿No" -> "Dios? ¿No"); Block 1 verse-range
+  reformatting per rules 23-25 (commas -> hyphens for consecutive
+  verses) in entries 5p, 5s, 6a, 6b. A first draft incorrectly split
+  the cap.6 v.5 line early (moved "años," to the next line) before
+  double-checking against the image showed the full original line with
+  its footnote marker fit under 72 chars intact -- caught and fixed
+  before finalizing, a reminder that rule 7/8 rebalancing should only
+  be applied after confirming the unrebalanced line actually doesn't
+  fit, not preemptively. Several small isolated ink/scan specks
+  scattered near line ends throughout the page (including one right
+  between the "q" and "r" markers) were checked against the possibility
+  of being a missed 7th footnote letter but ruled out, since the Block 1
+  list for this section contains exactly six entries (p-u) matching the
+  six body superscripts with no seventh. `check_line_wrap.py` flagged a
+  large mismatch (18 vs. 37 lines) that turned out to be a script
+  limitation, not a reflow defect: its body-line reader stops at the
+  first blank line, which this page hits early (the blank line before
+  "CAPÍTULO 6."), so it only saw the chapter-5 tail while Tesseract OCR'd
+  the whole page; the counts reconcile exactly once that's accounted
+  for (38 total non-blank lines minus 1 for the OCR's own header-regex
+  filter = 37). `check_google_crosscheck.py` found zero candidates.
+  Session B: independently re-verified all 8 Block 1 entries and all 8
+  `[N]` body markers against a fresh crop (page label 565b) -- exact
+  match throughout, including marker placement and the "Mor-"
+  page-boundary hyphen. Session C (`insert_body_text.py 565`): clean
+  insertion, no issues. Session D (`generate_block2.py 565`): all 8
+  entries auto-resolved with no manual intervention, including the
+  letter-only cross-reference "5q, Véase d." -> 4134. Session E: fresh
+  pptext regeneration (`report_wsl_20260802b.html`, live WSL run). Only
+  "Manchester" (a real English place name in footnote 6a) appeared in
+  Spellcheck Suspect Words from this page's range -- added to
+  `permitted words.txt` as an expected proper-noun flag, not an error.
+  Independent research on a Corrections-log-flagged item found a
+  genuine error: footnote 6a prints "nueva York" with a lowercase "n"
+  despite being a proper place name; 1886 has no footnotes to compare,
+  but 1879's matching footnote prints "N. York" capitalized, and this
+  same document already uses "Nueva York" correctly elsewhere (footnote
+  699, "Profesor Anthon de Nueva York") -- confirmed as a genuine 1920
+  inconsistency and added to `errors in 1920.txt` (Mormón 6, nota a). A
+  targeted search of the full pptext report for this page's distinctive
+  vocabulary (edit distance, hyphenation, special-situations sections)
+  found nothing else in this page's range beyond expected structural
+  noise (short-lines check). Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py` against both master files, a curly-quote
+  character scan, and a footnote-anchor continuity scan of the whole
+  body) all clean -- 4152 anchors spanning 1-4153, zero duplicates,
+  zero out-of-range, only the pre-existing footnote-812 gap remains. No
+  new hyphen compounds or adjacent-dash instances on this page.
+- **2026-08-02**: Sessions A–E run for page 565 (Mormón 5, verses
+  19(cont.)-24, plus Mormón 6, verses 1-6(partial); footnotes 4146-4153,
+  letters p-u then chapter 6's a-b). Session A: no i/l/1 letters on this
+  page, so letter identity was corroborated via exact content-match
+  against the footnote block instead of the mandatory 1879 check. Page
+  ends mid-word on a page-boundary hyphen ("Mor-", rule 10 — to be
+  rejoined once page 566 is transcribed). Caught and fixed a
+  self-introduced error before finalizing: an early draft split the
+  cap.6 v.5 line one word too soon ("años," moved down) when the full
+  original line actually fit under 72 chars with its footnote marker.
+  3 rule-31 space fixes, 1 rule-6 gap fix, Block 1 verse-range
+  reformatting (rules 23-25) in 4 entries. `check_line_wrap.py`'s
+  large-looking mismatch (18 vs. 37 lines) was a script limitation
+  (stops at the first blank line, which this page hits early at the
+  chapter-6 heading), not a reflow defect — counts reconcile once
+  accounted for. Session B: fresh crop (565b) confirmed all 8 Block 1
+  entries/markers exact match. Session C/D: clean, no manual
+  intervention needed (`generate_block2.py` auto-resolved all 8
+  entries). Session E: fresh pptext regeneration
+  (`report_wsl_20260802b.html`). Only "Manchester" flagged (proper
+  noun, added to `permitted words.txt`). Independent research on a
+  Corrections-log item confirmed a genuine error: footnote 6a's "nueva
+  York" (lowercase) vs. 1879's capitalized "N. York" and this
+  document's own correct "Nueva York" elsewhere (footnote 699) — added
+  to `errors in 1920.txt` (Mormón 6, nota a). Whole-document mechanical
+  sweeps all clean — 4152 anchors, zero duplicates/out-of-range, only
+  the pre-existing footnote-812 gap remains.
+- **2026-08-02**: Sessions A–E run for page 566 (Mormón 6, verses
+  6(cont.)-15(partial); footnotes 4154-4164, letters c-m). Session A:
+  resolved page 565's trailing "Mor-" page-boundary split (rule 10) —
+  appending "Mormón," to page 565's last line kept it at 61 chars, so
+  the whole word moved there and page 566 begins with "empezaba"
+  instead; revised `pages/page_565.txt` and its already-integrated copy
+  in `librodm.txt` to match. Letters i and l both present in this
+  page's own lettering (mandatory Section 8 check): resolved via a full
+  1879 page-image read (file pages 567-569, not a same-crop re-read) —
+  both d and i cross-reference the swash-digit target "2f, IV Nefi 1"
+  (confirmed via 1879's "see 2f, IV. Nep. 1", twice), k targets "2p,
+  Alma 43", l targets bare "a", and m's "Versículo II" is confirmed to
+  be the digits "11" (this font's small swash numerals resembling Roman
+  "II" at a glance), not an actual Roman numeral, via 1879's "m, ver.
+  11." All 11 entries (not just the mandatory two) cross-checked
+  against 1879 given the font's frequent 2/s ambiguity. Rule-8
+  rebalancing cascaded across three consecutive lines once footnote
+  markers were inserted into a dense stretch ("planchas de Nefi ...
+  escondí ... cerro de Cumórah ... habían sido"). Session D: a
+  Block-1-to-Block-2 resolution failure was traced to the page's own
+  Block 1 print anomaly — footnote 6f/4157 originally transcribed
+  literally as "I Nefi.1." (a period where every sibling entry in the
+  same footnote block has a space) broke `generate_block2.py`'s
+  book/chapter regex; reconsidered under rules 16-25 (which already
+  normalize Block 1 reference punctuation regardless of print, e.g. the
+  comma-to-hyphen verse-range rule) rather than rule 32's body-text
+  verbatim standard, and normalized to "I Nefi 1." in both
+  `pages/page_566.txt` and `librodm_foot.txt`; the already-appended
+  Block 2 line was hand-resolved to "Véase 6." (I Nefi ch. 1 letter f).
+  Session E: fresh pptext/WSL regeneration
+  (`report_wsl_20260802c.html`, following on from 565's
+  `...802b.html` — renamed from a bare `...802.html` after publishing
+  to avoid clobbering that same-day file). Only 4 new Spellcheck
+  Suspect Words hits, all proper names (Cameníhah, Jonéam, Límhah,
+  Shiblom), added to `permitted words.txt`; three other page-566 names
+  with irregular diacritics (Lámah, Gidgiddónah, Antiónum) are not
+  flagged by the actual report despite absence from that list, so
+  nothing was added for them (no-op precedent, pages 469-470). The
+  page's own suspected-misprint note ("ricibirles" for "recibirles",
+  v.7) was run through the full mandatory check: 1886 (book page
+  562/file 580) prints the identical misspelling, hyphenated
+  "ricibir-les" — a shared-edition error, not 1920-only — but RAE DLE
+  has no entry for "ricibir" and none of the three reference corpora
+  contain it either, so per the `seperado`/`marvillosas` precedent
+  (1886 agreement alone doesn't establish legitimacy) it was added to
+  `errors in 1920.txt` as Mormón 6:7; not added to `permitted words.txt`
+  since the fresh pptext report doesn't flag it at all (same
+  unexplained-gap pattern as "Poi"/"dsesaría"/"aninciado", pages
+  469-470). Independently verified "tallaron"/"tallados" (v.10-11,
+  double-l) is not a new error — matches 1886 exactly and is already
+  established document-wide vocabulary (~15 prior instances, never
+  needing a `permitted words.txt` entry since aspell already accepts
+  "tallar" conjugations). Whole-document mechanical sweeps all clean —
+  max footnote 4164, zero duplicates/out-of-range, only the
+  pre-existing footnote-812 gap remains; zero curly quotes; no new
+  hyphen compounds.

@@ -1,0 +1,207 @@
+Página 566
+[4154]empezaba á envejecer; y conociendo que esta iba á ser
+la última lucha de mi pueblo, y habiendo recibido orden del
+Señor de que no permitiera que los sagrados [4155]anales transmitidos
+por nuestros padres, cayeran en poder de los Lamanitas, (porque
+los Lamanitas los destruirían;) por lo tanto, hice [4156]esta
+compilación que extracté de las [4157]planchas de Nefi; y [4158]escondí
+en el [4159]cerro de Cumórah [4160]todos los recuerdos que me habían
+sido confiados por la mano del Señor, salvo [4161]este corto número de
+planchas que dí á mi hijo Moroni.
+7. Y sucedió, que mi pueblo, con sus mujeres y sus hijos, vieron
+ahora á los ejércitos de los Lamanitas adelantándose hacia ellos;
+y quedaron esperándoles para ricibirles con aquel terrible terror
+de la muerte que llena el pecho de todos los inicuos.
+8. Y aconteció, que vinieron á darnos la batalla, llenando las
+almas de todos con terror al ver el inmenso número de sus fuerzas.
+9. Y sucedió, que cayeron sobre mi pueblo [4162]con la espada, y
+con el arco, y con la flecha, y con el hacha, y con toda clase de
+armas de guerra.
+10. Y sucedió, que tallaron completamente á mis hombres,
+sí, aún á los diez mil que iban conmigo, y yo caí herido en medio
+de ellos, pasando los Lamanitas á mi lado, sin que pusieran
+término á mi vida.
+11. Y cuando pasaron por medio, matando á todo mi pueblo,
+á excepción de veinticuatro de los nuestros, entre los cuales
+se encontraba mi hijo Moroni; y habiendo sobrevivido á los
+muertos de nuestro pueblo, vimos en la mañana, cuando los
+Lamanitas hubieron vuelto á su campamento, desde la cima del
+[4163]cerro de Cumórah, á los diez mil de mi pueblo que fueron tallados
+é iban guiados por mí, hallándome yo al frente de todos;
+12. Y también vimos á los diez mil de mi pueblo dirigidos por
+mi hijo Moroni.
+13. Y, he aquí, que los diez mil de Gidgiddónah habían caído
+y él mismo en medio de ellos.
+14. Y había caído Lámah con sus diez mil; y había caído
+Gilgal con sus diez mil; y Límhah había caído con sus diez mil;
+y había caído Jonéam con sus diez mil; y habían caído Cameníhah,
+y Moroníhah, y Antiónum, y Shiblom, y Shem, y Josh,
+cada uno con sus diez mil.
+15. Y sucedió, que hubo diez más que cayeron por la espada,
+con sus diez mil cada uno; sí, todo mi pueblo, á excepción de
+aquellos [4164]veinticuatro que estaban conmigo, y de unos
+
+6c, 4154: 74 años de edad, IV Nefi 1:48; Mormón 1:2.
+6d, 4155: Véase 2f, IV Nefi 1.
+6e, 4156: Véase a, Mormón 1.
+6f, 4157: Véase f, I Nefi 1.
+6g, 4158: Véase g, Mormón 5.
+6h, 4159: Véase a.
+6i, 4160: Véase 2f, IV Nefi 1.
+6j, 4161: Véase a, Mormón 1.
+6k, 4162: Véase 2p, Alma 43.
+6l, 4163: Véase a.
+6m, 4164: Versículo 11.
+
+Corrections:
+Page-boundary word split (rule 10): resolved on this page's side too
+(see page_565.txt's own Corrections entry) -- "Mor-" + "món," rejoins
+as "Mormón," and stays at the end of page 565's last line (61 chars,
+under the 73-char cap), so this page's body text begins with the
+following word, "[4154]empezaba," per rule 10.
+Rule-31 space-before-punctuation instances found in the original print
+and normalized (8): v.6 "envejecer ; y" -> "envejecer; y"; "destruirían
+;)" -> "destruirían;)"; v.7 "ellos ;" -> "ellos;"; v.11 "Moroni ; y" ->
+"Moroni; y", "todos ;" -> "todos;"; v.14 "mil ; y" -> "mil; y" (twice),
+"mil ;" (end of the Gilgal/Límhah line) -> "mil;"; v.15 "cada uno ; sí"
+-> "cada uno; sí".
+Rule-6 justification-narrowed gaps (not zero-width merges -- both
+pairs are unambiguous separate function words) normalized to single
+spaces without individual flagging, per the blanket instruction: v.6
+"permitiera que los" (tight gaps on both sides of "que"); v.7 "con sus"
+and "mujeres y" (tight gaps around "y").
+Rule-7 hyphenated line-break splits rejoined (2): "compila-/ción" ->
+"compilación"; "Camení-/hah" -> "Cameníhah". "Cameníhah," (comma
+attached) fits at the end of its first line at 64 chars, so it stayed
+there per rule 7. "compilación" would have made its first line 74
+chars (over the 73-char cap even before any marker-driven rule-8
+rebalancing on that same line), so the whole word moved to the start
+of the next line instead.
+Rule-8 rebalancing cascaded across three lines once the [4157]/[4158]/
+[4159]/[4160] markers were inserted into the "planchas de Nefi ...
+escondí ... cerro de Cumórah ... todos los recuerdos ... habían sido"
+stretch: "en el" was pushed off the "compilación...escondí" line, then
+"sido" was pushed off the following "en el cerro...habían" line in
+turn, landing at the start of the "confiados..." line instead.
+Suspected misprint, preserved as printed (rule 32): v.7 "ricibirles"
+(expected "recibirles" -- "to receive them," matching 1879's "to
+receive them"). Zoomed and confirmed the image clearly reads an "i"
+where "e" is expected. Flagged for Session E's mandatory 1886 check.
+Print anomaly, normalized: Block 1 entry 6f, 4157 prints "I Nefi.1."
+in the original -- a period directly after "Nefi" with no space
+before the trailing "1.", unlike every other bare chapter citation in
+this same footnote block ("Mormón 1.", "Mormón 5.", "Alma 43.", all
+with a normal space). Zoomed to high magnification to rule out a
+narrow/merged space; the period glyph is clearly printed. Initially
+transcribed literally, but this broke generate_block2.py's cross-
+reference resolution (its book/chapter regex requires whitespace
+before the trailing chapter digits, so "Nefi.1" parsed as an
+unresolvable book name) -- reconsidered per rules 16-25, which already
+normalize Block 1's reference punctuation for consistency regardless
+of the original print (e.g. rule 23-25's comma-to-hyphen verse-range
+reformatting) rather than transcribing it character-for-character like
+body text (rule 32). Normalized to "I Nefi 1." to match the document's
+established citation format; not logged in `errors in 1920.txt` since
+this is reference-formatting normalization, not a body-text misprint.
+Mandatory Section 8 check (letters i and l in this page's own
+lettering, c-m): both confirmed via the 1879 cross-check below --
+neither needed independent resolution since 1879 itself spelled out
+each target explicitly.
+1879 cross-check (pages 559-561, file pages 567-569) performed for
+every Block 1 entry on this page, not just i/l, since several targets
+use the swash "2" digit that resembles other glyphs in this font:
+"d, see 2f, IV. Nep. 1." and "i, see 2f, IV. Nep. 1." (identical
+targets, both confirmed -- the swash mark before "f" in the 1920 image
+is the digit "2", not a stray accent or the letter "s"); "k, see 2p,
+Alma 43." (same "2" digit before "p", confirmed); "l, see a."
+(confirmed, self-reference within chapter 6, no book/chapter needed);
+"m, ver. 11." confirms 1920's "Versículo II." is the digit sequence
+"11" in this font's small swash numerals (which resemble Roman "II"
+at this size), not an actual Roman numeral -- transcribed as
+"Versículo 11."
+No footnote letters beyond i/l required the mandatory check, but per
+Section 8's standing discretion to extend the same procedure, all
+eleven entries (c-m) were verified against 1879 content, not only the
+two mandatory ones.
+Google cross-check (check_google_crosscheck.py): 2 candidates surfaced
+beyond the auto-dismissed footnote-marker noise, both expected and not
+transcription errors. (1) Google's page-literal OCR reads "món,
+empezaba" at the start, since the physical page 588 image itself
+prints "món," there -- this transcription deliberately begins with
+"empezaba" instead per the rule-10 resolution above, moving "Mormón,"
+onto page 565's last line. (2) v.14 "habían caído" -- Google dropped
+the standard í accent on "caído" (OCR'd as "caido") while correctly
+reading several other "caído"/"caída" instances on the same page; a
+direct zoom of this exact spot (done for the adjacent "Lámah" check)
+already confirmed the image prints the accent normally. Not an
+unusual accent per rule 36 (í is this word's ordinary, expected
+spelling throughout the document), just isolated OCR noise.
+Session D: `generate_block2.py 566` resolved 10 of 11 Block 1 entries
+automatically; 6f/4157 ("Véase f, I Nefi 1.") stayed unresolved because
+the Block 2 entry already appended to librodm.txt still carried the
+original "I Nefi.1." period text, which the resolver's book/chapter
+regex can't parse. Fixed manually: librodm_foot.txt's own 1f (I Nefi
+chapter 1, letter f) is sequential number 6, so librodm.txt's "4157:"
+line was hand-edited from "Véase f, I Nefi.1." to "Véase 6." No other
+unresolved targets.
+Session B: independently re-verified all 11 Block 1 entries and all 11
+[N] body markers against a fresh process_page.py crop (page label
+566b, not reused from Session A) -- exact match throughout, including
+marker placement, footnote text, and the "2f"/"2p" swash-digit
+readings. The Section 8 mandatory check for letters i and l relies on
+Session A's 1879 cross-check (full page images, file pages 567-569,
+not a same-image re-read), which independently confirmed both targets
+match 1879's own explicit "see 2f"/"see a" wording -- no further 1879
+lookup needed here since that check already used the independent
+source required by this step. No additional corrections needed.
+Session E: mandatory Corrections-log sweep ran the "ricibirles"
+suspected-misprint note (v.7) through the full 1886/RAE/corpus check.
+1886 (pages_1886/page_0580.png, book page 562/file 580) prints the
+identical misspelling, hyphenated at the line break as "ricibir-les"
+-- a shared error between both editions, not a 1920-only deviation.
+Per the `seperado`/`marvillosas` precedent, 1886 agreement alone
+doesn't settle legitimacy: RAE DLE has no entry for "ricibir" (only
+"recibir"), and none of the three reference corpora contain it either
+(recibir: 9 hits Quijote+RV-NT, 113 RV full Bible OCR); the modern
+Spanish edition uses "recibir"/"recibiros" in this same chapter. Added
+to `errors in 1920.txt` as Mormón 6:7 (shared error, both editions).
+Not added to `permitted words.txt`: confirmed via a fresh full-document
+pptext/WSL run (`workspace/report_wsl_20260802c.html`) that "ricibirles"
+isn't flagged anywhere in the report at all -- same gap pattern as the
+"Poi"/"dsesaría"/"aninciado" precedent (pages 469-470), so no
+suppression-list entry would do anything.
+Also independently researched (not itself a Corrections-log item, but
+close enough in kind to check): "tallaron"/"tallados" (v.10/v.11,
+double-l spelling of what might look like it should be "talaron"/
+"talados," from "talar," rather than "tallar"). 1886 (same crop) prints
+the identical double-l spelling, and this exact word (in this same
+"cut off" sense) already appears ~15 times earlier in `librodm.txt`
+without ever needing a `permitted words.txt` entry -- aspell already
+accepts "tallar" conjugations as valid Spanish on their own. Not a new
+finding, not flagged by pptext, no action needed.
+Full pptext/WSL report regenerated fresh this session (not reused) and
+walked for every line-number citation falling in this page's own
+`librodm.txt` ranges (body 25240-25282, Block 2 29736-29746): only new
+Spellcheck Suspect Words hits were 4 proper names -- Cameníhah, Jonéam,
+Límhah, Shiblom -- added to `permitted words.txt`. Every other citation
+in those ranges belongs to already-established clean categories (short
+lines check, special-situations "standalone 1" against `IV Nefi 1:48`-
+style citations) per the walkthrough progress tracker, not re-verified
+line by line. Three other page-566 proper names with irregular
+diacritics (Lámah, Gidgiddónah, Antiónum) are NOT flagged by this
+report despite not being in `permitted words.txt` either -- confirmed
+via direct substring search returning zero hits anywhere in the report
+-- so per the no-op precedent, nothing was added for them.
+Whole-document mechanical sweeps re-run clean: `check_spaced_
+punctuation.py librodm.txt`, `check_footnote_punctuation.py
+librodm_foot.txt`, and `check_verse_indent.py librodm.txt` all clean;
+zero curly quotes in either master file; zero new letter-hyphen-letter
+compounds introduced by this page; footnote-number sweep confirms max
+=4164, zero duplicates, only the pre-existing footnote-812 gap remains
+missing (nothing new from this page).
+No narrow-space-vs-merge editor flags to batch from this page: the two
+rule-6 tight-gap normalizations noted in Session A ("permitiera que
+los", "con sus"/"mujeres y") were ordinary justification spacing
+between unambiguous separate words, never true merge candidates, so
+none needed the `feedback_narrow_space_vs_merge` two-word-default
+treatment or an editor pointer.

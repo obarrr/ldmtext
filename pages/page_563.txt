@@ -1,0 +1,96 @@
+Página 563
+
+CAPÍTULO 5.
+
+1. Y aconteció, que me fuí entre los Nefitas, y me arrepentí
+del [4131]juramento que había hecho de que no les volvería á asistir
+más, y otra vez me dieron el mando de sus ejércitos, considerándome
+como si yo sólo pudiera librarles de sus aflicciones.
+2. Pero, he aquí, que yo estaba sin esperanza, porque sabía
+los juicios del Señor, que habrían de venir sobre ellos, puesto que
+no se arrepintieron de sus iniquidades, pero se esforzaban á salvar
+sus vidas, sin recurrir á Aquél que les había creado.
+3. Y sucedió, que vinieron los Lamanitas á atacarnos en la
+ciudad de Jordón, á donde nos habíamos refugiado; pero, he
+aquí, que fueron rechazados, de modo que no tomaron la ciudad
+en aquella ocasión.
+4. Y aconteció, que volvieron otra vez contra nosotros, pero
+conservamos la ciudad. Y habían otras ciudades también que
+estaban defendidas por los Nefitas, cuyas plazas fuertes impedían
+al enemigo el avanzar por el país para destruir á los habitantes
+de nuestra tierra.
+5. Empero ocurrió que todas las tierras por las que habíamos
+pasado, cuyos habitantes no se hallaban reunidos, fueron arruinadas
+por los Lamanitas; y sus pueblos, aldeas y ciudades
+fueron destruidos con fuego; y así se pasaron trescientos setenta
+y nueve años.
+6. Y sucedió, que en el año trescientos ochenta, volvieron los
+Lamanitas á atacarnos otra vez, pero les recibimos atrevidamente;
+aunque todo fué en vano, porque era tan grande su número que
+pisotearon al pueblo de los Nefitas.
+7. Y ocurrió, que buscamos entonces nuestra salvación en la
+fuga, escapándose de la muerte aquéllos cuya celeridad era
+mayor que la de los Lamanitas; y los que fueron alcanzados,
+fueron barridos y destruidos.
+8. Y ahora, he aquí, que yo, Mormón, no quiero afligir las almas
+de los hombres, pintándoles las terribles escenas de sangre y
+destrucción tales como presenciaron mis ojos, aunque sepa yo
+no obstante, que [4132]estas cosas han de llegar á ser sabidas, y que
+todo lo que está oculto ha de [4133]ser revelado desde los tejados de
+las casas.
+9. Y también, que el conocimiento de estas cosas ha de venir
+al resto de este pueblo, lo mismo que á los Gentiles, de quiénes
+el Señor ha dicho que [4134]dispersarían á este pueblo, y que este
+
+5a, 4131: Mormón 3:11,16.
+5b, 4132: Versículos 9-15.
+5c, 4133: Véase c, II Nefi 27.
+5d, 4134: Versículos 19-20; I Nefi 13:14, 22:7; II Nefi 1:11-12;
+10:18; 26:19; III Nefi 16:8-9; 20:27-28.
+
+Corrections:
+Rule-31 space-before-semicolon instances found in the original print
+and normalized (5): v.3 "refugiado ; pero" -> "refugiado; pero";
+v.5 "Lamanitas ; y sus" -> "Lamanitas; y sus"; v.5 "fuego ; y así" ->
+"fuego; y así"; v.6 "atrevidamente ;" -> "atrevidamente;"; v.7
+"Lamanitas ; y los" -> "Lamanitas; y los".
+Rule-7 hyphenated line-break rejoins (2): v.1 "considerán-/dome" ->
+"considerándome" (69 chars, no rebalancing needed); v.5 "ar-/ruinadas"
+-> "arruinadas" (69 chars, no rebalancing needed).
+Footnote 5d citation: the original prints "III Nefi 16:8  9;" with no
+comma or other mark between the two verse numbers, just an unusually
+wide gap (confirmed via high-zoom crop) -- unlike this same entry's
+other bare-verse-list citations, which do print a comma ("Versículos
+19, 20"; "II Nefi 1:11, 12"; "20:27, 28."). Since verses 8 and 9 are
+consecutive either way, rule 23 already normalizes this to a hyphenated
+range ("16:8-9") regardless of the source punctuation, so this is not
+logged as an error -- noted here only because the missing mark itself
+was an observation worth recording.
+Footnote 5d also has one justification-widened gap (between "12;" and
+"10:18") normalized to a single space per rule 6's unconditional
+inter-word-spacing rule.
+No i/l/1 letters appear on this page (footnote letters run a-d only,
+and cross-reference target letter "c" is not in the mandatory set), so
+the Section 8 1879 cross-check does not apply here.
+`check_line_wrap.py`/`check_google_crosscheck.py` both reported 0 body
+lines for this page -- the known, previously-documented tool
+limitation where their shared body-extraction helper stops at the
+first blank line after "Página N", which here is the blank line
+before the chapter heading itself (same root cause as pages 536, 559,
+etc.). Manually confirmed instead: `check_line_wrap.py`'s own OCR
+estimate (39 lines) is within 1 of the real body line count (40, hand-
+counted against the image crops), consistent with no reflow; and a
+full manual read of `google_text_1920/page_0585.txt` against this
+page's body text and footnote block found an exact match throughout,
+including the footnote-d citation's own unusual "16: 8 9" gap (Google
+independently reads the same missing punctuation) -- no further
+corrections needed. Google's OCR does drop one letter elsewhere ("no
+quero" for "no quiero," v.8) -- confirmed via direct zoom that the
+image plainly prints "quiero" in full; a known OCR weak spot, not a
+transcription error.
+Session B: independently re-verified all 4 Block 1 entries and all 4
+`[N]` body markers against a fresh `process_page.py` crop (page label
+563b, not reused from Session A) -- exact match, no corrections
+needed. No i/l/1 letters present on this page (letters run a-d only,
+cross-reference target letter is "c"), so the mandatory 1879
+cross-check does not apply.

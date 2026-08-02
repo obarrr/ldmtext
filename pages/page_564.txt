@@ -1,0 +1,167 @@
+Página 564
+pueblo se contraría como nada entre ellos. Por lo que escribo
+un [4135]pequeño extracto, no atreviéndome á dar cuenta completa
+de estas cosas, que he presenciado, á causa del mandamiento
+que he recibido; como también para que no tengáis demasiado
+pesar por la iniquidad de este pueblo.
+10. Y ahora, he aquí, anuncio esto á [4136]su posteridad y también
+á los Gentiles, que se interesan por la casa de Israel, los que
+realizan y saben de donde les vienen sus bendiciones.
+11. Porque sé que los tales lamentarán las calamidades de la
+casa de Israel; sí, lamentarán la destrucción de este pueblo;
+y lamentarán que este pueblo no se haya arrepentido, para que
+les hubiese recibido Cristo en sus brazos.
+12. Así pues, estas cosas se escriben para el resto de la casa
+de Jacob; y son escritas así, porque Dios sabe que la perversidad
+no se las ha de llevar; sino que quedarán [4137]ocultas para el Señor,
+para que aparezcan á su debido tiempo.
+13. Y este es el mandamiento que he recibido; y, he aquí, que
+[4138]aparecerán según los mandamientos del Señor, cuando Él en
+su sabiduría lo considere conveniente.
+14. Y, he aquí, que irán á los incrédulos de los Judíos; é irán
+con esta idea, para que se [4139]convenzan de que Jesús es Cristo,
+el Hijo del Dios vivo; para que el Padre cumpla, por medio de
+su muy amado Hijo, sus grandes y eternos designios, [4140]restaurando
+á los Judíos, ó á toda la casa de Israel, el país de su herencia,
+país que el Señor, su Dios, les ha dado en cumplimiento de su
+alianza,
+15. Y también, para que pueda la [4141]posteridad de este pueblo
+creer más completamente en su [4142]evangelio, que les será llevado
+por los Gentiles; porque, este pueblo será [4143]dispersado, y
+[4144]será un pueblo de color obscuro, inmundo y repugnante, más que
+cuanto hayamos visto entre nosotros; sí, aun más de lo que se
+haya visto de los Lamanitas, y esto á causa de su incredulidad
+é [4145]idola tría.
+16. Porque, he aquí, que el Espíritu del Señor ha dejado de
+contender con sus padres, y están sin Cristo y sin Dios en el
+mundo, y son arrojados de un lado para otro como rastojo que
+lleva el viento.
+17. Una vez este fué un pueblo gracioso que tenía á Cristo por
+su pastor; sí, Dios, el Padre, les guiaba.
+18. Pero ahora, he aquí, que satán se les lleva como tamo por
+el viento, ó como barco sacudido por las olas, sin ancla, ni velas,
+ni nada que lo pueda dirigir; sí, lo mismo como él, este pueblo es.
+19. Pero, he aquí, que el Señor ha reservado sus bendiciones,
+
+5e, 4135: Véase a; Mormón 1.
+5f, 4136: Los Lamanitas.
+5g, 4137: Mormón 8:4,13-14; Moroni 10:2.
+5h, 4138: Véase c, II Nefi 27.
+5i, 4139: Véase f, II Nefi 25.
+5j, 4140: Véase e, I Nefi 15.
+5k, 4141: Los Indios.
+5l, 4142: I Nefi 13:20-29,38-41; Mormón 7:8-9.
+5m, 4143: Véase d.
+5n, 4144: Véase d, I Nefi 2.
+5o, 4145: Véase j; Mormón 4.
+
+Corrections:
+Rule-31 space-before-semicolon instances found in the original print and
+normalized (12): v.9 "recibido ; como" -> "recibido; como"; v.11 "Israel ;
+sí" -> "Israel; sí"; v.11 "pueblo ; y lamentarán" -> "pueblo; y
+lamentarán"; v.12 "Jacob ; y son" -> "Jacob; y son"; v.12 "llevar ; sino"
+-> "llevar; sino"; v.13 "recibido ; y, he aquí" -> "recibido; y, he
+aquí"; v.14 "vivo ; para" -> "vivo; para"; v.14 "Judíos ; é irán" ->
+"Judíos; é irán"; v.15 "Gentiles ; porque" -> "Gentiles; porque"; v.15
+"nosotros ;  sí" -> "nosotros; sí" (also had a widened gap after the
+semicolon, normalized per rule 6); v.17 "pastor ; sí" -> "pastor; sí";
+v.18 "dirigir ; sí" -> "dirigir; sí".
+Several narrow-but-real inter-word gaps (justification-compressed, not
+merges) normalized to a single space per rule 6, unremarkable since
+grammar/dictionary make the two-word reading unambiguous in every case:
+v.13 "que he recibido" (both gaps visibly narrower than surrounding
+word-spacing at zoom, but "que", "he", "recibido" are all real,
+grammatically required separate words); v.18 "he aquí" (same pattern).
+Footnote target-letter ambiguity (mandatory 1879 cross-check, Section 8):
+entry 5o's cross-reference target letter was first read as "i" from the
+1920 fn_zoom overview ("Véase i; Mormón 4"), matching this page's own
+"i" glyph shape closely at a glance. The 1879 page (chapter_map file
+page 567, bottom footnote block) reads this entry as "o, see j, Mor.
+4." -- letter j, not i. Re-zoomed the 1920 glyph at high magnification
+(several crops, isolating just this character) and compared directly
+against same-page specimens of both letters (entry 5i's own "i", a
+plain stroke + separate dot with no tail, vs. entry 5j's own "j", a
+stroke with a distinct hook curling left below the baseline): the
+disputed glyph's stroke has the same below-baseline curl as the "j"
+specimen, not the straight stroke of the "i" specimen. Corrected to
+"Véase j; Mormón 4." per rule 32/Section 8 -- the initial "i" reading
+was the exact failure mode the mandatory i/l/1 check exists to catch.
+Entries 5i and 5l (this page's own footnote letters i and l) were also
+verified against 1879 as part of the same mandatory check: both, and
+all of entries 5e-5n's content, match 1879 (chapter_map file page
+566-567) letter-for-letter and word-for-word in the same order
+(confirmed via matching body-text superscript placement on both pages'
+verses 9-15), so no other corrections needed there.
+V.15 "idolatría": the 1920 print shows a genuine internal gap splitting
+the word as "idola tría" (confirmed via high-zoom crop; both halves sit
+on the same printed line, so this is not a rule-7 line-break hyphen
+case). 1886 (file page 579) prints "idolatría" as one word with no
+gap, confirming this is a 1920-only typesetting defect. Preserved as
+printed per rule 32; likely needs an `errors in 1920.txt` entry
+(Session E to confirm/add). Note: Google's OCR text
+(`google_text_1920/page_0586.txt`) reads this as one fused word
+"idolatría" with no gap -- not treated as counter-evidence, since
+`check_google_crosscheck.py` strips all whitespace from both sides by
+design before comparing (documented tool limitation, see the
+`extract_google_text.py`/`check_google_crosscheck.py` entries in
+CLAUDE.md), so it could never register a mid-word gap like this either
+way; the direct high-zoom read of the source image is the actual
+evidence here, corroborated by 1886's unsplit "idolatría".
+Session B: independently re-verified all 11 Block 1 entries and all 11
+`[N]` body markers against a fresh `process_page.py` crop (page label
+564b, not reused from Session A) -- exact match throughout, including
+the "idola tría" gap and the resolved 5o target letter "j". No
+additional corrections needed.
+Session C: the page's own opening `Página 564` header line (rule 1) was
+omitted from the original Session A draft -- this page continues verse
+9 mid-sentence from page 563, and the missing header wasn't noticed
+until `insert_body_text.py`'s insertion into librodm.txt left a bare
+blank line where the header belongs. Added to both `pages/page_564.txt`
+and the already-inserted copy in `librodm.txt` (blank line, then
+`Página 564`, then the continuing text with no blank line after the
+header, matching the page 560 precedent for a mid-verse continuation).
+Session D: `generate_block2.py` left entries 4135 ("Véase a; Mormón 1.")
+and 4145 ("Véase j; Mormón 4.") unresolved because its cross-reference
+parser splits on a comma between the letter and the Book/Chapter clause
+(e.g. "Véase c, II Nefi 27."), not a semicolon -- these two entries
+print a semicolon in the 1920 original instead (confirmed via 1879's
+comma-form "e, see a, Mor. 1." and "o, see j, Mor. 4.", which are the
+same underlying references, so the 1920 semicolon here is a printer
+punctuation choice, not a second/separate citation). Resolved by hand
+against librodm_foot.txt's own book-aware index: Mormón 1a = 4062
+("Consistiendo de nueve capítulos..."), Mormón 4j = 4125 ("Versículos
+15, 21."). Fixed directly in librodm.txt's Notas section: `4135: Véase
+a; Mormón 1.` -> `4135: Véase 4062.`; `4145: Véase j; Mormón 4.` ->
+`4145: Véase 4125.`. Pre-existing librodm_foot.txt entries 29c/740,
+5g/861, and 22-2r/2244 show this same semicolon pattern and were
+apparently hand-resolved the same way previously -- this is not a new
+gap, just an already-known script limitation, not fixed here per scope.
+Session E: fresh pptext regeneration (`report_wsl_20260802.html`, live
+WSL run). Only one word from this page appears in Spellcheck Suspect
+Words -- "idola" (the "idola tría" gap already logged above) -- added
+to `permitted words.txt` since it's a genuine documented 1920 error
+being preserved as printed, not a live transcription issue. Independent
+research (mandatory per Session E, regardless of the clean 1886 match)
+found a second, pptext-silent error on this page: v.16 "rastojo" is
+missing its first "r" (should be "rastrojo," confirmed against 1886's
+correct "rastrojo" at the same spot, RAE DLE having no entry at all for
+"rastojo," and zero corpus hits for "rastojo" vs. 2 for "rastrojo" in
+Quijote) -- not flagged by pptext this run, matching the known
+"full pptext report is not proof a rare misprint won't be flagged"
+gap (precedent: Poi/dsesaría/aninciado, pages 469-470). Both "idola
+tría" and "rastojo" added to `errors in 1920.txt` (Mormón 5:15, 5:16)
+and "idola"/"rastojo" added to `permitted words.txt`. Whole-document
+mechanical sweeps this session, all clean: `check_spaced_punctuation.py
+librodm.txt`, `check_footnote_punctuation.py librodm_foot.txt`,
+`check_verse_indent.py librodm.txt`, a curly-quote character scan of
+both master files, and a footnote-anchor continuity scan of the whole
+body (4144 anchors 1-4145, zero duplicates, zero out-of-range, only the
+pre-existing footnote-812 gap remains missing). No new hyphen compounds
+or adjacent-dash instances on this page for the dash-check bucket. The
+page's narrow-but-real inter-word gaps noted above (v.13 "que he
+recibido," v.18 "he aquí") are NOT escalated to the editor as
+narrow-space-vs-merge questions -- both are unambiguous multi-word
+phrases with no plausible single-word reading, unlike the "quefueron"-
+style cases that rule 6 asks Session E to flag.
+No line-break hyphens (rule 7) on this page -- every line read from the
+image ends on a complete word.

@@ -1,0 +1,125 @@
+Página 565
+las que ellos podrían haber recibido en el país, para los Gentiles
+[4146]que poseyeren el país.
+20. Porque, he aquí, sucederá que serán perseguidos y [4147]esparcidos
+por los Gentiles, y después que hayan sido perseguidos y
+esparcidos por los Gentiles, he aquí, [4148]que el Señor recordará la
+alianza, que hizo con Abraham para toda la casa de Israel.
+21. Y también recordará el Señor las [4149]oraciones de los justos,
+que le han sido dirigidas para ellos.
+22. Y entonces ¡oh vosotros Gentiles, cómo podréis sosteneros
+ante Dios, si no os arrepintiereis, y os tornareis de vuestros
+malos caminos!
+23. ¿No sabéis acaso que estáis en las manos de Dios? ¿No
+sabéis que Él tiene todo el poder, y que á su gran mandato la
+[4150]tierra se envolverá como un rollo?
+24. Por tanto, arrepentíos, y humilláos ante Él, no sea que
+se levante en justicia en contra vuestra; ó no sea que un [4151]resto
+de la simiente de Jacob caiga sobre vosotros como león, y os
+haga pedazos, sin que nadie os pueda librar.
+
+CAPÍTULO 6.
+
+1. Y ahora, concluyo mi relato sobre la destrucción de mi
+pueblo, los Nefitas. Y sucedió, que marchamos delante de los
+Lamanitas.
+2. Y yo, Mormón, escribí una epístola al rey de los Lamanitas,
+y deseaba de él que nos permitiera reconcentrarnos con todo
+nuestro pueblo en el [4152]país de Cumórah, y en las inmediaciones
+de un cerro llamado Cumórah, y allí les daríamos la batalla.
+3. Y sucedió, que el rey de los Lamanitas nos concedió lo que
+deseábamos.
+4. Y ocurrió, que nos pusimos en marcha hacia el país de
+Cumórah, plantando nuestras tiendas al rededor del cerro de
+Cumórah, que estaba en un país de muchas aguas, ríos y fuentes;
+donde teníamos esperanza de ganar alguna ventaja sobre los
+Lamanitas.
+5. Y después del tránsito de [4153]trescientos ochenta y cuatro años,
+habíamos ya recogido á todo el resto de nuestro pueblo en el país
+de Cumórah.
+6. Y ocurrió que cuando hubimos recogido y unido á todo
+nuestro pueblo para el país de Cumórah, he aquí, que yo, Mormón,
+
+5p, 4146: I Nefi 13:12-19; II Nefi 1:11; 10:10-14,18-19; 26:19-20;
+30:3.
+5q, 4147: Véase d.
+5r, 4148: III Nefi 16:8-12; 21:1-11.
+5s, 4149: Enos 1:12-18; Mormón 8:24-26; 9:36-37.
+5t, 4150: Véase c, III Nefi 26.
+5u, 4151: Véase o, III Nefi 20.
+6a, 4152: Versículos 4-6,11; Mormón 8:2; El cerro de Cumórah está
+en Manchester, condado de Ontario, nueva York, E. U. A.
+6b, 4153: III Nefi 2:7-8.
+
+Corrections:
+Rule-31 space-before-punctuation instances found in the original print
+and normalized (3): v.22 "caminos !" -> "caminos!"; v.24 "vuestra ; ó"
+-> "vuestra; ó"; v.4 (cap. 6) "fuentes ;" -> "fuentes;".
+Rule-6 widened-gap normalization: v.23 "Dios?  ¿No" (visibly wider
+gap between the two sentences) -> "Dios? ¿No", single space.
+Rule-23/24/25 verse-range reformatting in Block 1 (original prints
+commas where this project requires hyphens for consecutive verses):
+5p "10:10-14, 18, 19" -> "10:10-14,18-19" (18-19 consecutive);
+"26:19, 20" -> "26:19-20"; 5s "9:36, 37" -> "9:36-37"; 6a
+"Versículos 4-6, 11" -> "4-6,11" (11 not consecutive to 4-6, comma
+no space); 6b "III Nefi 2:7, 8" -> "2:7-8" (consecutive).
+Stray printing specks: several small isolated dots appear off-baseline
+near line ends throughout this page (e.g. after "Gentiles" in the
+first body line, after "Israel.", near "país." in the footnote area) --
+inspected at zoom, none are attached to or shaped like a letter/
+footnote-marker glyph; treated as scan/print dust, not transcribed.
+One such dot sits directly after "los" in v.20's second "esparcidos"
+line ("por los Gentiles") -- specifically checked against the
+possibility of being a 7th footnote letter, since it falls between
+the "q" and "r" markers, but the Block 1 footnote list for this
+section contains exactly six entries (p-u) matching the six
+superscripts already identified in the body (p, q, r, s, t, u) with no
+seventh entry -- confirms this is not a footnote marker.
+Page-boundary word split (rule 10): the page's last word "Mor-" was a
+hyphenated line-break split of "Mormón," continuing onto page 566.
+Resolved 2026-08-02 during page 566's Session A: appending the
+completed word "Mormón," to this page's last line keeps it at 61
+chars (well under 73), so the whole word was placed here and page
+566's body text begins with the following word, "empezaba," instead.
+6a "nueva York" prints with a lowercase "n" despite being a proper
+place name; preserved as printed per rule 32. Session E confirmed this
+as a genuine 1920 error and added it to `errors in 1920.txt`: 1886 has
+no footnotes to compare, but 1879's matching footnote prints "N. York"
+capitalized, and this same document already uses "Nueva York" correctly
+elsewhere (footnote 699).
+No footnote letters in this page's set (p,q,r,s,t,u,a,b) are i, l, or 1,
+so the mandatory Section 8 cross-check does not apply to letter
+identity; however, target letters in two cross-references ("Véase d.",
+"Véase c, III Nefi 26.", "Véase o, III Nefi 20.") were also checked --
+none are i, l, or 1 either.
+No line-break hyphens (rule 7) requiring rejoin on this page except the
+page-boundary case above -- the "espar-cidos" split at v.20 was
+rejoined onto its first line (70 chars, under the 73-char cap) since no
+punctuation follows immediately after the rejoined word on the same
+line as printed.
+check_line_wrap.py flags this page (18 txt lines vs. 37 OCR lines) --
+expected false positive, not a reflow defect: the script's
+txt_body_lines() stops at the first blank line, which this page hits
+early (the blank line before "CAPÍTULO 6."), so it only counts the
+chapter 5 tail (18 lines) while Tesseract OCRs the whole page body
+(all ~38 non-blank lines, minus 1 for the "CAPÍTULO 6." line its own
+header regex filters out = 37, matching). Every line on this page was
+read and confirmed directly against the image per rules 5/6 regardless.
+No rule 8 rebalancing was needed on this page: every line, even after
+footnote-marker insertion, stayed under the 72-char cap when matched
+exactly to its own image line ending (e.g. v.5's "...cuatro años," line
+is 70 chars with its [4153] marker, so it keeps the full image line
+intact rather than moving "años," down -- an earlier draft of this
+page incorrectly split that line early before this was checked
+against the image; fixed before finalizing). Block 1 entries 5p and 6a
+wrapped for length (rule 18, 79-char cap), preferring the comma/
+semicolon break per that rule's guidance.
+Session B: independently re-verified all 8 Block 1 entries and all 8
+`[N]` body markers against a fresh `process_page.py` crop (page label
+565b, not reused from Session A) -- exact match throughout, including
+marker placement, footnote text, and the "Mor-" page-boundary hyphen.
+No additional corrections needed.
+Session D: `generate_block2.py 565` resolved all 8 Block 1 entries
+automatically (including the two cross-references with no explicit
+Book/Chapter, "5q Véase d." -> 4134, both within chapter 5's own
+lettering) -- no manual intervention needed, no unresolved targets.
