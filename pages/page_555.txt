@@ -1,0 +1,177 @@
+Página 555
+Jacobitas, Josefitas y Zoramitas; contra los Lamanitas, que eran
+llamados Lamanitas, Lemuelitas é Ismaelitas.
+9. Ahora, los Lamanitas, Lemuelitas é Ismaelitas eran llamados
+Lamanitas, y los dos partidos eran llamados Nefitas y Lamanitas.
+10. Y vino á suceder, que empezó la guerra entre ellos en los
+confines del país de Zarahemla, cerca de las [4072]aguas del río Sidón.
+11. Y sucedió, que los Nefitas reunieron á un ejército muy
+grande, que pasaba de treinta mil hombres. Y en este mismo
+año tuvieron algunas batallas, en las cuales los Nefitas batieron
+á los Lamanitas, matándoles mucha gente.
+12. Y sucedió, que los Lamanitas cambiaron su propósito, y
+hubo paz en el país, la que duró por el espacio de cuatro años, en
+los cuales no hubo más derrame de sangre.
+13. Pero la maldad prevaleció sobre toda la faz del país, de
+tal modo que el Señor sacó de entre ellos á sus [4073]amados discípulos,
+y cesaron los milagros y curaciones, á causa de la iniquidad del
+pueblo.
+14. Sin que hubiera más dones del Señor, y el Espíritu Santo
+no vino sobre ninguno, á causa de su maldad é incredulidad.
+15. Y llegando yo entonces á la edad de quince años, y siendo
+de un carácter algo serio, por lo tante me vistó el Señor, y probé
+y conocí la bondad de Jesús.
+16. Y entonces procuré predicar á este pueblo, pero se cerró
+mi boca, y se me prohibió que lo hiciera; porque, he aquí, que
+[4074]voluntariamente se habían rebelado contra su Dios; y los
+[4075]amados discípulos habían sido sacados del país, á causa de la
+iniquidad del pueblo.
+17. Pero aunque yo permanecí entre ellos, me fué prohibido
+que les predicara, á causa de la dureza de sus corazones; y por
+causa de la dureza de sus corazones el país fué [4076]maldecido para
+ellos.
+18. Y estos [4077]ladrones de Gadianton, que se hallaban entre
+los Lamanitas, infestaron el país, de tal manera que los habitantes
+de él empezaron á ocultar sus tesoros en la tierra; los que se
+hicieron tan resbaladizos á causa de la [4078]maldición que el Señor
+había hecho sobre el terreno; que no los pudieron sostener, ni
+pudieron obtenerlos otra vez.
+19. Y ocurrió, que apareciendo entonces encantos, maleficios,
+y sortilegios; y el poder del demonio se extendió sobre todo el
+país, hasta que se cumplieron todas las [4079]palabras de Abínadi y
+también de Samuel, el Lamanita.
+
+1k, 4072: Véase o, Alma 2.
+1l, 4073: Los tres que no habían de gustar la muerte; Véase d, III Nefi 28.
+1m, 4074: Véase 2a, IV Nefi 1.
+1n, 4075: Véase l.
+1o, 4076: Véase d, II Nefi 1.
+1p, 4077: Véase 2c, IV Nefi 1.
+1q, 4078: Véase d, II Nefi 1.
+1r, 4079: Helamán 13:18-23,30-37; Mormón 2:10-15.
+
+Corrections:
+Page continues mid-verse 8 (from page 554) at the very top with no
+blank line after "Página 555" -- matches established convention for a
+page opening mid-sentence.
+Rule-31 space-before-punctuation instances found in the original print
+and normalized: v.8(cont.) "Zoramitas ; contra" -> "Zoramitas; contra";
+v.16 "hiciera ; porque" -> "hiciera; porque"; v.16 "Dios ; y los" ->
+"Dios; y los"; v.17 "corazones ; y por" -> "corazones; y por"; v.18
+"tierra ; los que se" -> "tierra; los que se"; v.18 "terreno ; que no"
+-> "terreno; que no"; v.19 "sortilegios ; y el poder" -> "sortilegios;
+y el poder".
+No rule-7 hyphenated line-break splits on this page -- every line
+ending was a genuine word boundary in the source image.
+No rule-8 rebalancing needed -- every line with an inserted footnote
+marker still measured under 73 characters (longest, v.13's "...á sus
+[4073]amados discípulos," at exactly 72).
+Narrow-space-vs-merge default (v.13, footnote 1l's own citation text):
+the fn_zoom crop shows "queno" as a true zero-width merge at high zoom
+(no gap at all between the letters, confirmed via a dedicated tight
+crop), but grammar requires two words here ("que no habían de gustar
+la muerte" -- "who were not to taste of death", matching 1879's
+phrasing exactly) -- per the standing rule, transcribed as "que no"
+without stopping to raise it as a standalone question; noted here for
+the editor's convenience per that rule's collection instruction.
+Two justification-tight-but-real word gaps double-checked at high zoom
+and confirmed as ordinary (if narrow) spaces, not merges -- normalized
+to a single space as usual, no Corrections-log flag needed beyond this
+note: v.12 "la que duró" (three short function words crowded together
+by justification) and v.19 "Y ocurrió" (space present, just tight).
+Also double-checked v.12's "paz" -- the mark that looked like a stray
+accent after the word at low zoom is just this font's serif "z"
+glyph, confirmed at high zoom; not a misprint, nothing to log.
+Suspected misprints -- preserved as printed per rule 32, to verify
+against 1886/RAE in Session E: v.15 "tante" (expected "tanto", "o"
+apparently misprinted as "e"; confirmed at high zoom) and v.15 "vistó"
+(expected "visitó", missing "i"; confirmed at high zoom) -- both in
+the same sentence, "por lo tante me vistó el Señor."
+Mandatory i/l/1 check (Section 8): this page's footnote block
+introduces two further instances of this chapter's own letter "l"
+(entry 1l's definition text, and entry 1n's cross-reference "Véase
+l" pointing back to it), plus the body-text superscript itself (v.13,
+before "amados"). Confirmed via a fresh 1879 crop (pages_1879/
+page_0557.png, bottom footnote block, book page 550/file 557,
+independent of the crop already used for page 554's session):
+"l, the three, who were not to taste of death. See d, III. Nep. 28."
+-- a clear italic "l" (continuous unbroken curve), unambiguously
+distinct from the "i" two entries earlier in the same block ("i,
+South America"). Body-text placement also matches: English v.13 "the
+Lord did take away his 'beloved disciples" (superscript l before
+"beloved") lines up with Spanish "sus [l]amados discípulos" (before
+"amados").
+Full 1879 cross-check (Section 8): entries 1k-1p confirmed via
+pages_1879/page_0557.png (bottom footnote block): "k, see g, Alma 2.
+l, the three, who were not to taste of death. See d, III. Nep. 28.
+m, see 2a, IV. Nep. 1. n, see l. o, see d, II. Nep. 1. p, see 2c,
+IV. Nep. 1." -- exact match on all citation content (1920's entry 1k
+cites "Véase o, Alma 2" vs. 1879's "see g, Alma 2" -- a different
+target LETTER within Alma 2's own lettering, not a different target
+chapter; this is a translation-artifact letter mismatch per rule 26,
+not an error). Entries 1q-1r confirmed via pages_1879/page_0558.png
+(footnote block partway down the page, after verse 8): "q, see d,
+II. Nep. 1. r, Hela. 13:18-23, 30-37. Mor. 2:10-15." -- exact match
+(1920 adds a semicolon between the two Helamán/Mormón citations where
+1879 uses a period; rendered per this document's own rule-21
+convention regardless).
+Content-fit sanity check: entry k (Véase o, Alma 2) annotates "aguas"
+(v.10, waters of Sidón) -- Alma 2 is the account of the war at the
+waters of Sidon, exact match. Entry l (the three who would not taste
+death; III Nefi 28) annotates "amados discípulos" (v.13) -- the three
+Nephite disciples, called in III Nefi 28, exact match. Entry m (Véase
+2a, IV Nefi 1) annotates "voluntariamente" (v.16, willful rebellion)
+-- IV Nefi 1's own second "a" entry concerns the people's willful
+apostasy, a thematic fit. Entry n (Véase l) annotates "amados" (v.16,
+second occurrence) -- self-referentially points back to the same
+three disciples already identified at entry l, consistent, since both
+verses describe the beloved disciples being withdrawn. Entry o (Véase
+d, II Nefi 1) annotates "maldecido" (v.17, the land cursed) -- II
+Nefi 1 is Lehi's own extended prophecy of a curse upon the land for
+wickedness, exact thematic fit. Entry p (Véase 2c, IV Nefi 1)
+annotates "ladrones" (v.18, Gadianton robbers) -- IV Nefi 1's second
+"c" entry concerns the reappearance of the Gadianton robbers there,
+exact match. Entry q (Véase d, II Nefi 1) annotates "maldición" (v.18)
+-- same curse theme as entry o, consistent reuse of the same target.
+Entry r (Helamán 13:18-23,30-37; Mormón 2:10-15) annotates "palabras
+de Abínadi... de Samuel" (v.19) -- Helamán 13 is Samuel the Lamanite's
+own prophecy of sorceries and witchcraft overtaking the land, with
+Mormón 2:10-15 (the very next chapter) as its fulfillment -- exact,
+well-matched prophecy/fulfillment pair.
+Session B: independently re-verified all 8 Block 1 entries and all 8
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. The mandatory i/l/1 check (this chapter's letter
+"l", both its own definition and entry n's cross-reference to it) was
+independently re-confirmed via a second fresh crop of
+pages_1879/page_0557.png (bottom band): same reading as Session A,
+"l, the three, who were not to taste of death" -- a clear continuous
+curve, unambiguously distinct from "i". No corrections needed from
+Session B.
+Google cross-check (`check_google_crosscheck.py 555`, run in Session
+A): zero candidates.
+Session E: fresh pptext regeneration (`report_wsl_20260731c.html`,
+built via a live WSL run, not reused). Both suspected misprints
+flagged at Session A transcription time were confirmed as genuine,
+isolated 1920-only errors via 1886 (pages_1886/page_0570.png, book
+page 552/file 570) plus RAE (no entry for either "tante" or "vistó")
+plus the modern LDS Spanish edition (Mormón 1:15 reads "por tanto, me
+visitó el Señor") plus the three local reference corpora (zero
+standalone hits for "tante" in any of them; "vistó" likewise zero):
+added to `errors in 1920.txt` (Mormón 1:15 "tante"; Mormón 1:15
+"vistó"). "vistó" was already present in `permitted words.txt` from an
+earlier page; "tante" was not, and has now been added. Spellcheck
+Suspect Words and Edit Distance sections: zero hits from this page's
+line range (24754-24796) in either section. Full report walkthrough
+beyond spellcheck: zero new dash, footnote-anchor, scanno, curly-quote,
+repeated-word, long-line, duplicate-line, or special-situations hits
+for this page's range -- the citations that do fall in this page's
+range (and in the new Block 2 entries, 4072-4079) are all
+short-lines-check noise (ordinary short verse-final/footnote-entry
+lines), the same established non-issue category as every prior page.
+Footnote scan (whole document): only pre-existing gap is footnote 812
+(already-documented Jacob 2:15 print defect); footnotes 4072-4079 are
+contiguous, gap-free, and duplicate-free. Whole-document mechanical
+sweeps (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both
+master files. No curly quotes found in either master file.

@@ -1,0 +1,235 @@
+Página 548
+
+CAPÍTULO 29.
+
+1. Ahora, he aquí, os digo que cuando el Señor en su sabiduría
+juzgue conveniente que [4012]lleguen estas palabras á los Gentiles
+según su promesa, entonces conoceréis que la [4013]alianza del Padre
+con los hijos de Israel relativamente á su restauración á los
+países de su herencia ya empieza á realizarse.
+2. Y entonces, veréis, como se cumplen las palabras que el
+Señor ha anunciado por sus santos profetas, y no tendréis necesidad
+de decir que el Senor demora su venida á los hijos de Israel;
+3. Y no debeís suponer en vuestros corazones que las
+palabras anunciadas han sido habladas vanamente, porque, he
+aquí, que el Señor se acordará de la alianza que ha hecho con su
+pueblo de la casa de Israel.
+4. Y [4014]cuando veáis que estas palabras aparecen entre vosotros,
+entonces no debéis menospreciar por más tiempo los actos del
+Señor, porque la espada de su justicia se halla en su mano derecha,
+y, he aquí, si en aquel día despreciareis sus actos, Él hará que
+[4015]ella pronto os vencerá.
+5. ¡Ay del que menosprecia los actos del Señor; sí, ay del
+que niegue á Cristo y sus obras.
+6. Sí, [4016]¡ay del que niegue las revelaciones del Señor, y del
+que diga, que el Señor ya no obra más por revelación, ni por
+profecía, ni por los dones, ni por lenguas, ni por curaciones, ni
+por el poder del Espíritu Santo!
+7. Sí, ¡ay de aquél que diga en ese día, para su propio interés,
+que Jesu Cristo no puede hacer ningún milagro! Porque él
+que diga esto, vendrá á ser como el [4017]hijo de perdición, para
+quién no hubo misericordia, según las palabras de Cristo.
+8. Sí, y vosotros no tenéis por más tiempo necesidad de
+ridiculizar, ni insultar, ni burlaros de los Judíos, ni de nadie del
+resto de la casa de Israel; porque, he aquí, que el Señor recuerda
+su [4018]alianza para con ellos, y hará con ellos según lo que ha
+jurado; 9. Por lo tanto, no tenéis que suponer que podáis cambiar
+la mano derecha del Señor á la izquierda, para que no [4019]ejecute
+su juicio hasta el cumplimiento de la [4020]alianza que ha hecho con
+la casa de Israel.
+
+29a, 4012: Véase c, II Nefi 27.
+29b, 4013: Véase 2j, III Nefi 15.
+29c, 4014: Véase j, III Nefi 15.
+29d, 4015: Véase 2b, III Nefi 21.
+29e, 4016: Mormón 9:7-11,15-26; Moroni 7:35-38; 10:19-29.
+29f, 4017: III Nefi 27:32.
+29g, 4018: Véase j, III Nefi 15.
+29h, 4019: Véase 2b, III Nefi 21.
+29i, 4020: Véase j, III Nefi 15.
+
+Corrections:
+Page opens a new chapter (III Nefi, CAPÍTULO 29, v.1-9) after page 547
+ended chapter 28 cleanly at v.40 with no hyphenated word split across the
+page boundary; blank line before and after "CAPÍTULO 29." per rule 3, no
+subtitle line present under this heading.
+Rule-7 hyphenated line-break rejoin: "necesi-"/"dad" -> "necesidad" (v.2,
+rejoined line lands at 67 chars including the [4013]-adjacent text, under
+the 73-char cap, so kept on the first line; the following line begins
+with "de decir..." instead of "dad de decir...").
+Rule-8 rebalance: the [4018] marker inserted on v.8's "alianza" line
+pushed "su [4018]alianza para con ellos, y hará con ellos según lo que ha
+jurado;" to exactly 73 characters (the rule-9 cap requires strictly under
+73), so the last word "jurado;" was moved to the start of the following
+line per rule 8. That next line already began with "9. Por lo tanto..."
+(a new verse starting immediately after the prior verse's closing
+semicolon, not indented per rule 1), so the rebalanced pair reads
+"...según lo que ha" (65 chars) / "jurado; 9. Por lo tanto..." (65
+chars).
+Rule-31 space-before-punctuation cleanup throughout (this page's print
+sets a space before several semicolons and once before an exclamation
+mark; removed throughout, no exceptions per the standing rule): "Israel ;"
+(v.2), "Señor ;" (v.5), "milagro !" (v.7), "Israel ;" (v.8), "jurado ;"
+(v.8/9 boundary). Also one space-before-comma instance, same rule:
+"veréis ," (v.2) -> "veréis,"; confirmed via zoom (crop at 12x) that the
+mark itself is a genuine comma (small mark at baseline with a short
+descender tail), not a period — 1920 simply sets it with a preceding
+space like the semicolons/exclamation elsewhere on this page.
+Rule-6 wide justification-gap normalization (reduced to a single space,
+not logged as an error per the standing rule): "del  Padre" (v.1).
+Google cross-check caught two genuine letter-level issues the initial
+Session-A read missed (the automated `check_google_crosscheck.py` script
+could not run mechanically on this page — see note below — so the
+comparison was done by hand against the already-extracted
+`google_text_1920/page_0570.txt`):
+(1) v.2 "el Senor demora su venida" — 1920 prints "Senor" with NO tilde
+over the "n" (confirmed at 24x zoom, and unlike every other "Señor" on
+this page, e.g. the clearly-tilded "Señor ha anunciado" two lines above);
+Google's OCR independently reads the same missing tilde. Preserved as
+printed per rule 32; a genuine 1920-only misprint, not a modernization
+call — to be logged in `errors in 1920.txt` in Session E pending the
+1886 comparison.
+(2) v.3 "debeís" — re-zoomed at 24x after an initial lower-zoom read
+wrongly reported no accent at all; the accent mark is genuinely present
+but sits over the "í" rather than the "e" (grammar calls for "debéis").
+This is the same accent-placement pattern already documented for page
+504's "habeís" (also accent shifted onto í instead of the expected e).
+Transcribed exactly as printed; Session E will determine the
+`permitted words.txt`/`errors in 1920.txt` disposition.
+Note on tooling: both `check_line_wrap.py` and `check_google_crosscheck.py`
+report zero/empty body text for this page because their shared
+`body_lines()` helper stops at the first blank line after `Página N` —
+which, for a page opening on a chapter heading (rule 1's mandated blank
+line before `CAPÍTULO 29.`), is immediately after the `Página 548` line,
+before any body text is reached. This is a tooling gap specific to
+chapter-opening pages, not a transcription defect; the Google comparison
+above was performed manually instead.
+Footnote-letter resolution (Section 8, extended discretionary check;
+mandatory i/l/1 check also independently satisfied for this page's own
+final body letter "i" — see below): entries c, g, and i all
+cross-reference "III Nefi 15" with a swash-italic target letter that
+reads, on careful zoom (crop at 20x with room below the baseline), as
+"j" (short stroke, separated dot above, and a curling descender tail
+below the baseline) rather than "i" (which has no descender). The
+initial Session-A read and the Google OCR text layer
+(`google_text_1920/page_0570.txt`) both independently misread all three
+instances as plain "i" — a known weakness of this font's swash j/i
+distinction at low zoom, corrected here by re-zooming with enough
+vertical margin to see the descender. 1879 (pages_1879/page_0550.png)
+confirms entry c unambiguously in clear serif type: "c, see j, III. Nep.
+15." Content-fit is decisive for the group (including entry b, printed
+differently — see below): chapter 15's own footnote
+3702 ("15j": "III Nefi 5:24-26; 16:5; Véase e, I Nefi 15.") is a
+covenant/restoration citation, and every one of this page's four
+"alianza" (covenant) mentions — v.1 "alianza del Padre" (b), v.4 opening
+"cuando veáis" (c), v.8 "su alianza para con ellos" (g), v.9 "la alianza
+que ha hecho" (i) — fits that single footnote's subject; chapter 16's
+own already-transcribed footnote 16h ("Véase j, III Nefi 15") also
+independently cites this same letter as a valid, existing target.
+Entry b is a genuine cross-reference error, confirmed with the editor and
+preserved as printed per rule 32 (not silently resolved to the
+content-correct letter): 1920 itself prints "2j" (matching 1879's own
+"b, see 2j, III. Nep. 15.", confirmed via a dedicated zoom crop of
+pages_1879/page_0550.png) — but no "2j" target exists in either edition's
+own chapter-15 footnote lettering. 1920's own already-completed
+transcription of III Nefi chapter 15's footnote block (librodm_foot.txt
+lines 3973-3995) ends at letter "v" (footnote 3714), with chapter 16
+beginning immediately at 3715, leaving no room for a second alphabet
+cycle; the correct target, per content-fit, is plain "j" (III Nefi 15's
+footnote 3702), exactly like sibling entries c/g/i, all four of which
+share the same "alianza" (covenant) theme, and exactly like chapter 16's
+own already-transcribed cross-reference ("16h, Véase j, III Nefi 15").
+Since 1879 shares the identical "2j" reading, this is an error inherited
+from the 1879 English edition into the 1920 Spanish translation, not a
+1920-only misprint — logged in `errors in 1920.txt` accordingly (noting
+the shared 1879 error) rather than as a typical 1920-only entry.
+Entries d and h: cross-reference target letter reads "2b, III Nefi 21,"
+confirmed via 1879 ("d, see 2b, III. Nep. 21.") and independently via
+strong content-fit: footnote 21-2b (3873) reads "Versículos 11,20-21;
+III Nefi 29:4,9;30; Mormón 8:21,41" — explicitly citing III Nefi 29:4
+and 29:9, the exact two verses carrying footnotes d and h on this very
+page.
+Mandatory i/l/1 check (Section 8): this page's own final body/Block-1
+letter, "i" (v.9, second "alianza"), was independently confirmed via
+zoom as a genuine "i" — a short stroke with a clearly separated dot
+above, no descender and no unbroken tall stroke — ruling out both "l"
+and "1" shapes. No other i/l/1 letters appear in this page's own
+lettering (a-i) or elsewhere as a cross-reference target letter (the
+only other targets are "c," "j," and "2b," none of which are i/l/1).
+No narrow-space-vs-merge candidates found on this page.
+Session B: independently re-verified all 9 Block 1 entries and all 9
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text and marker placements confirmed
+matching exactly, including the "Senor" (no tilde) and "debeís"
+(accent on í) readings from Session A.
+Mandatory i/l/1 check completed independently via 1879 (Session B step
+5 — a fresh source, not a re-read of the same 1920 crop): chapter 29's
+g/h/i entries are NOT on file page 550 with a-f (1879's own pagination
+lags 1920's here, per the standing note in Section 8) but on the
+following file page 551, printed in clear (non-swash) serif type:
+"g, see j, III. Nep. 15.   h, see 2b, III. Nep. 21.   i, see j, III.
+Nep. 15." This independently confirms, from an unambiguous typeface,
+every letter resolution already reached in Session A: this page's own
+final letter "i" is genuinely "i" (ruling out l/1), and targets "j"
+(g, i) and "2b" (h) are exactly as transcribed — with entry b's "2j"
+misprint (see errors log) the sole exception, addressed separately.
+No corrections needed from Session B.
+Session C (`insert_body_text.py 548`): body text and 9 Block 1 entries
+inserted cleanly before `Notas` / at the end of `librodm_foot.txt`
+respectively; chapter 28->29 boundary is same-book, so no blank line
+per rule 20. `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean against both master files after
+insertion.
+Session D (`generate_block2.py 548`): 8 of 9 entries resolved cleanly
+to sequential numbers; entry 4013 ("Véase 2j, III Nefi 15") stayed
+unresolved by design, since no "2j" target exists — this is the
+expected, correct behavior given the editor-confirmed error verdict
+(preserve as printed, not silently resolved). Content-fit (Section 8,
+item 8) confirmed for the resolved targets: 4012 -> 682 (I Nefi 13/
+II Nefi 3 covenant-restoration chain, fits v.1's "alianza del Padre");
+4014/4018/4020 -> 3702 (III Nefi 15's own covenant footnote, fits all
+three remaining "alianza" mentions); 4015/4019 -> 3873 (fits d/h's
+context, explicitly citing "III Nefi 29:4,9" — this page's own verses).
+Session E: fresh pptext regeneration (`report_wsl_20260730.html`).
+Spellcheck Suspect Words: zero hits from this page — "Senor" and
+"debeís" are both already suppressed via `permitted words.txt` (added
+this session, see below); no other word on this page was flagged.
+Per this session's mandatory sweep of the page's own Corrections log,
+all three suspected-error items noted during Sessions A/B were
+independently researched and resolved, with the editor's agreement on
+the footnote-letter case:
+(1) Footnote 4013 ("2j, III Nefi 15", v.1/entry b): confirmed genuine
+error, inherited from 1879 (which shares the identical "2j" reading);
+no such target exists in either edition's own chapter-15 lettering.
+Logged in `errors in 1920.txt`; preserved as printed in both Block 1
+and Block 2 per rule 32 (not silently resolved to "j").
+(2) v.2 "Senor" (missing tilde): 1886 comparison
+(pages_1886/page_0562.png, book page 544/file 562) shows 1886 prints
+the identical "Senor" (no tilde) at the equivalent spot ("que el Senor
+demora su venida á los hijos de Israel") — a shared 1886/1920 error,
+not 1920-only. Logged in `errors in 1920.txt`; already present in
+`permitted words.txt` from an earlier page's identical instance.
+(3) v.3 "debeís" (accent on í instead of é): 1886 uses a different verb
+construction at this spot ("no supondréis en vuestro corazon") so
+offers no direct comparison word, but RAE and all three local
+reference corpora confirm "debéis" is the only attested form (10
+combined hits vs. zero for "debeís") — the identical misplaced-accent
+pattern already documented for III Nefi 9:13 "habeís". Logged in
+`errors in 1920.txt`; added to `permitted words.txt`.
+Footnote check: whole-document `\[(\d+)\]` scan confirms zero
+duplicates, last number 4020 (matching this page's final marker), only
+gap remains the long-documented footnote 812. Dash check: this page
+introduced zero hyphens (confirmed via direct grep of the page's new
+`librodm.txt` lines, both body and Block 2). Curly-quote scan: zero
+instances in either master file. Special-situations "mixed letters and
+numbers in word" correctly flagged Block 2's new "2j" entry — expected,
+matches the already-logged, intentionally-preserved error, no further
+action. Short-lines hits touching this page's range (body
+24463-24486, Block 2 28795-28802) all matched established
+false-positive categories (verse-end short lines; Block 2's own short
+`N: text` entries). No long lines found anywhere in the document.
+Whole-document mechanical sweeps —
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`
+(both master files), `check_verse_indent.py` (librodm.txt) — all clean.
+No narrow-space-vs-merge candidates to batch into this summary for the
+editor (none were found on this page during Session A).

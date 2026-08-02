@@ -1,0 +1,201 @@
+Página 560
+13. Y [4104]tres veces les libré de las manos de sus enemigos, y no
+se han arrepentido de sus pecados.
+14. Así fué que, cuando [4105]juraron por todo lo que les había sido
+prohibido por nuestro Señor y Salvador Jesu Cristo, diciendo que
+irían á pelear contra sus enemigos para vengar por. sí mismos la
+sangre de sus hermanos, he aquí, que vino á mí la voz del Señor,
+diciendo:
+15. Mía es la venganza, y yo pagaré, y puesto que este pueblo
+no se arrepiente, después que le he librado de sus enemigos,
+he aquí, que será [4106]cortado de sobre la faz de la tierra.
+16. Y sucedió, que rehusé determinadamente el marchar
+contra mis enemigos; haciendo conforme á lo que el Señor me
+había mandado; permaneciendo como indiferente testigo para
+postrar al mundo las cosas que había visto y oído, según las
+manifestaciones del Espíritu que había dado testimonio de las
+cosas venideras.
+17. Por lo tanto [4107]escribo para vosotros los Gentiles, y también
+para vosotros, los de la casa de Israel, para que sepáis que cuando
+[4108]comience esta obra, os hallaréis á punto de prepararos para
+volver al país de vuestra herencia;
+18. Sí, he aquí, escribo para todos los extremos de la tierra;
+sí, para vosotros, las doce tribus de Israel, que seréis juzgados
+según vuestras obras, [4109]por los Doce que Jesús escogió, para que
+fueren sus discípulos en el país de Jerusalem.
+19. É igualmente escribo, al resto de este pueblo, que ha de
+ser juzgado [4110]por los Doce que Jesús escogió en este país; y
+ellos [4111]serán juzgados por los otros Doce que Jesús escogió en el
+país de Jerusalem.
+20. Y el Espíritu es él que me manifestó estas cosas; por cuyo
+motivo os las escribo para todos. Lo que hago, para que sepáis
+que es necesario que [4112]aparezcáis ante el tribunal de Cristo; sí,
+dónde aparecerá toda alma que pertenezca á la familia de Adam
+dónde tenéis que aparecer para ser juzgados según vuestras obras,
+sean buenas ó malas;
+21. Y también para que creáis en el evangelio de Jesu Cristo,
+que [4113]tendréis entre vosotros; como así mimo, para que los
+Judíos, el pueblo de la alianza del Señor, tengan [4114]otro testigo
+más, de aquéllos que vieron y oyeron, de que Jesús, al que ellos
+crucificaron, fué el verdadero Cristo y el [4115]verdadero Dios:
+22. Y quisiera poder persuadir á todos los extremos de la
+tierra, á que se arrepintieren, y á que se preparasen para aparecer
+ante el tribunal de Cristo.
+
+3g, 4104: Versículos 7-8; Mormón 2:27-29.
+3h, 4105: Versículos 9-10.
+3i, 4106: Mormón 6.
+3j, 4107: Véase c, II Nefi 27.
+3k, 4108: Véase e, I Nefi 15.
+3l, 4109: I Nefi 12:9.
+3m, 4110: I Nefi 12:10; III Nefi 27:27.
+3n, 4111: I Nefi 12:9.
+3o, 4112: Véase d, III Nefi 26.
+3p, 4113: I Nefi 13:20-29,41-42.
+3q, 4114: Véase k, II Nefi 25.
+3r, 4115: II Nefi 26:12; Véase b, Mosiah 3.
+
+Corrections:
+Rule-7 hyphenated line-break rejoin (1): v.21 "cruci-/ficaron" ->
+"crucificaron" (rejoined onto the first line would have been 73
+chars, at the rule-9 cap, so rule 8 rebalancing applied: the whole
+word "crucificaron," moved to start the next line instead, matching
+page 559's "abomina-/ciones" precedent).
+Rule-31 space-before-punctuation instances found in the original
+print and normalized (11): v.16 "enemigos ; haciendo" -> "enemigos;
+haciendo"; v.16 "mandado ; permaneciendo" -> "mandado;
+permaneciendo"; v.17 "herencia ;" -> "herencia;"; v.18 "la tierra ;"
+-> "la tierra;"; v.19 "este país ; y" -> "este país; y"; v.20 "estas
+cosas ; por cuyo" -> "estas cosas; por cuyo"; v.20 "de Cristo ; sí,"
+-> "de Cristo; sí,"; v.20 "buenas ó malas ;" -> "buenas ó malas;";
+v.21 "vosotros ; como" -> "vosotros; como"; v.21 "verdadero Dios :"
+-> "verdadero Dios:"; v.14 "diciendo :" -> "diciendo:".
+Suspected misprints preserved as printed, checked against 1886 this
+session (pages_1886/page_0574.png, book page 556, and
+page_0575.png, book page 557) rather than deferred to Session E,
+since the 1886 lookup was already open for the mandatory-adjacent
+work on this page:
+- v.14 "vengar por. sí mismos" — a genuine printed period between
+  "por" and "sí" confirmed at 20x zoom (not a scan speck; a solid
+  round dot at baseline). 1886 reads "vengar por sí mismos" with no
+  period. No plausible reading makes the mid-sentence period
+  grammatical. Preserved as printed ("por. sí"); added to `errors in
+  1920.txt` (extraneous period).
+- v.16 "el Señor" — a second, much smaller stray mark after "el",
+  initially transcribed as a period ("el. Señor") and flagged
+  ambiguous rather than logged, unlike v.14's clean round period.
+  Editor review (a physical-page snip, `el-dot-Senor.png`) confirmed
+  it is a tiny scan speck, not real print — consistent with Google's
+  OCR being silent on it too (per rule 36's "Google's silence is real
+  evidence, not noise to explain away" precedent, and matching the two
+  prior 2026-07-26 corrections of the same failure mode). Corrected to
+  the plain reading "el Señor" (no period) in both `pages/page_560.txt`
+  and `librodm.txt`; not logged in `errors in 1920.txt` (not a 1920
+  print defect, and not a transcription error at initial read either —
+  a genuinely tiny mark that needed the editor's own look to resolve).
+- v.16 "postrar al mundo" — 1886 reads "mostrar al mundo" ("to show
+  the world the things I had seen and heard" fits the sentence;
+  "postrar," to prostrate, does not). Confirmed via zoom this is a
+  clear printed "p", not a misread "m". Preserved as printed
+  ("postrar"); added to `errors in 1920.txt`.
+- v.20 "familia de Adam" with no punctuation before "dónde tenéis"
+  — 1886 reads "familia de Adan; donde teneis" (semicolon present).
+  Confirmed via zoom that 1920 prints no mark at all at the line
+  break. Preserved as printed (no semicolon added); added to
+  `errors in 1920.txt`.
+- v.21 "como así mimo" — 1886 reads "como así mismo". Confirmed via
+  zoom this is a clear printed "mimo" (missing "s"), not a
+  transcription misread. Preserved as printed ("mimo"); added to
+  `errors in 1920.txt`.
+(Four of the five — "por. sí", "postrar", the missing semicolon
+after "Adam", and "mimo" — added to `errors in 1920.txt` at
+transcription time rather than held for Session E, since the 1886
+comparison was already done here; the fifth ("el. Señor") was
+resolved by the editor as a scan speck, not print, and corrected to
+"el Señor" — see the update above. See the Orthography Check section
+below for the four confirmed entries.)
+Mandatory i/l/1 check: this page continues chapter 3's own lettering
+from page 559's final letter "f" (per rule 13, sequential, no gaps),
+starting at "g" here. Two of this page's own footnote letters are in
+the mandatory set: "i" (entry 3i, Mormón 6) and "l" (entry 3l, I Nefi
+12:9). Both confirmed via 1879 (pages_1879/page_0562.png, book page
+554, footnote block: "i, Mor. 6." and "l, I. Nep. 12:9.") — exact
+letter-for-letter and content match, no ambiguity in 1879's clearer
+serif font.
+Full 1879 cross-check: all 12 Block 1 entries (3g-3r) confirmed
+reference-for-reference against pages_1879/page_0562.png (book page
+554, entries g-o) and pages_1879/page_0563.png (book page 555,
+entries p-r, printed just above that page's own Chapter 4 footnote
+block) — entry-for-entry exact match, including the "g" first-letter
+identification itself (1879's clearer type unambiguously reads "g"
+before "thrice", confirming the alphabetical-continuation inference
+before it was even needed). No translation-artifact letter
+mismatches this page. Body-marker placement cross-checked too: every
+one of the 12 markers lands on the same annotated word/concept in
+both editions (g/tres/thrice, h/juraron/sworn, i/cortado/cut off,
+j/escribo/write, k/comience/commence, l/por los Doce/by the Twelve,
+m/por los Doce.../judged by the Twelve, n/serán/shall be judged,
+o/aparezcáis/appear, p/tendréis/shall have, q/otro/other,
+r/verdadero/very).
+Content-fit sanity check: entry g (Versículos 7-8; Mormón 2:27-29)
+annotates "tres veces les libré" (v.13, thrice delivered) — Mormón
+2:27-29 covers an earlier deliverance from the Lamanites, a direct
+thematic match. Entry j (Véase c, II Nefi 27) and entry o (Véase d,
+III Nefi 26) both annotate prophetic-writing verses (v.17 "escribo",
+v.20 "aparezcáis ante el tribunal") — II Nefi 27 and III Nefi 26 are
+both major latter-day/judgment prophecy chapters, a plausible fit.
+Entry r (II Nefi 26:12; Véase b, Mosiah 3) annotates "verdadero
+Dios" (v.21, very God) — II Nefi 26:12 and Mosíah 3 are both
+Christ-testimony chapters, an exact thematic match.
+Rule 23 formatting: entry g's "Versículos 7, 8" and entry h's
+"Versículos 9, 10" (consecutive verse pairs) normalized to "7-8" and
+"9-10" per the established document convention (e.g. librodm_foot.txt
+17b/144 "Versículos 9-10"); entry p's "41, 42" (consecutive, trailing
+the already-ranged "20-29") normalized to "41-42" per the same rule,
+matching existing precedent elsewhere in the document (30-2f, 2420:
+"Versículos 41-42").
+"Jesu Cristo" (v.14, v.21) transcribed unhyphenated per the
+established precedent (this edition's legitimate archaic form; see
+prior pages' Corrections logs), even though 1886 prints it hyphenated
+"Jesu-Cristo" at the parallel v.14 spot — not logged as an error.
+Session B: independently re-verified all 12 Block 1 entries and all
+12 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A), and re-ran the mandatory 1879 check on
+letters i and l from a fresh crop of pages_1879/page_0562.png (book
+page 554). All reference text and marker placements confirmed
+matching exactly, no corrections needed.
+Session E: fresh pptext regeneration (`report_wsl_20260801d.html`,
+live WSL run). Spellcheck Suspect Words: one hit from this page's
+range, "determinadamente" (v.16) — confirmed against 1886
+(pages_1886/page_0574.png, book page 556) which prints the identical
+word at the parallel spot, and attested in RAE's Tesoro de los
+diccionarios históricos (dle.rae.es/tdhle); a legitimate, if
+uncommon, standardly-formed -mente adverb, not in aspell's Spanish
+dictionary. Added to `permitted words.txt`, no `errors in 1920.txt`
+entry. Edit Distance Checks: zero hits from this page's range.
+Footnote scan (whole document, computed directly from `[N]` markers
+in librodm.txt rather than pptext's raw bucket listings): footnotes
+4104-4115 contiguous, gap-free, duplicate-free, in-range; only
+pre-existing gap remains the long-documented footnote 812. Full
+report walkthrough beyond spellcheck: all other hits in this page's
+line ranges fell into the already-established "short/long lines
+check" non-issue category (ordinary per-line inventory, not a flag).
+Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both
+master files. An independent curly-quote character scan of both
+master files also found zero curly quotes.
+Corrections-log sweep (mandatory per-page check) and errors log: the
+four confirmed misprints already investigated against 1886 at
+transcription time this session (v.14 "por. sí", v.16 "postrar", v.20
+missing semicolon after "Adam", v.21 "mimo") were added to `errors in
+1920.txt` (inserted in book/chapter/verse order after the existing
+Mormón 3:1 entry, not appended to the end of the file). The fifth
+item (v.16 "el. Señor") was resolved by the editor's own direct look
+at the page (a snip, `el-dot-Senor.png`) as a tiny scan speck, not
+real print — corrected to "el Señor" in both `pages/page_560.txt` and
+`librodm.txt` (see the updated note above); not logged in `errors in
+1920.txt`.
+No narrow-space-vs-merge defaults were applied on this page (no tight
+word-pairs required the two-word default), so nothing to batch as an
+editor pointer this session.

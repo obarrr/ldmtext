@@ -1,0 +1,149 @@
+Página 552
+26. Sino que empezaron á dividirse y subdividirse en clases,
+y á levantar iglesias por sí mismos para obrener riquezas, negando
+la verdadera Iglesia de Cristo.
+27. Y sucedió que cuando hubieron transcurrido doscientos
+y diez años, ya había en el país un gran número de iglesias;
+sí, iglesias que profesaban de conocer á Cristo, negando, no
+obstante, la mayor parte de su evangelio; de tal modo que consentían
+á toda clase de iniquidades, administrando lo que era
+sagrado á los que les [4049]estaba prohibido por no ser dignos.
+28. Y se multiplicó excesivamente esta iglesia á causa de
+iniquidad, y por el poder de satán que se había apoderado de
+sus corazones.
+29. Y había también otra iglesia que negaba á Cristo, la que
+perseguía á la verdadera Iglesia de Cristo, á causa de su humildad,
+y de su creencia en Jesu Cristo; también la despreciaba á causa
+de los numerosos milagros que se verificaban en medio de ellos;
+30. Y así ejercían poder y autoridad sobre los [4050]discípulos
+de Jesús que habían quedado con ellos; á los que pusieron en
+prisión; pero por el poder de la palabra de Dios, que estaba en
+ellos, rompieron las [4051]prisiones, y salieron de ellas haciendo
+muchos milagros.
+31. Y no obstante, y á pesar de todos estos milagros, el pueblo
+siguió endureciendo sus corazones, tratando de matarles, del
+mismo modo que los Judíos de Jerusalem trataron de matar
+á Jesús, según sus palabras;
+32. Y les arrojaron en [4052]hornos encendidos, de los que salieron
+sin recibir ningún daño;
+33. Y les pusieron en [4053]fosos de animales feroces, y jugaron
+con los animales feroces del mismo modo, que un niño juega
+con un cordero; saliendo de ellos sin recibir ningún mal.
+34. No obstante, los hombres seguían endureciendo sus
+corazones, porque fueron guiados por muchos sacerdotes y falsos
+profetas, á edificar muchas iglesias y á entregarse á toda clase de
+iniquidades. Hiriendo al pueblo de Jesús; pero el pueblo de
+Jesús no les devolvía el mal. Viviendo así de esta manera en
+la incredulidad y en la maldad de año en año, hasta que pasaron
+doscientos treinta años.
+35. Y sucedió, en este año, sí, en el año descientos treinta y
+uno, que apareció una gran división entre el pueblo.
+36. Y sucedió, que en este mismo año se levantó un pueblo,
+llamado los Nefitas, que eran verdaderos creyentes en Cristo;
+y se hallaban entre ellos aquéllos, á quiénes los Lamanitas
+llamaban Jacobitas, Josefitas y Zoramítas.
+
+1u, 4049: III Nefi 18:28,29.
+1v, 4050: Los tres; Véase d, III Nefi 28.
+1w, 4051: Versículo 5; III Nefi 28:19.
+1x, 4052: III Nefi 28:21.
+1y, 4053: III Nefi 28:22.
+
+Corrections:
+No book/chapter boundary on this page (continues IV Nefi chapter 1);
+page begins with a fresh verse number (26.), no blank line after
+"Página 552" per established convention for a page opening on a new
+verse (matches page 500/505/509/etc. precedent).
+No rule-7 hyphenated line-break rejoins on this page (checked all
+lines; none of the printed line breaks split a word with a hyphen).
+No rule-31 space-before-punctuation instances found in the original
+print on this page.
+Mandatory i/l/1 check (Section 8): none of this chapter's five
+footnote letters on this page (u, v, w, x, y) are themselves i/l/1,
+and none of the cross-reference target letters are i/l/1 either (the
+one cross-reference, entry v's "Véase d, III Nefi 28," targets letter
+"d," not in the mandatory set).
+Swash-font letter ambiguity (Section 8, provisional
+alphabetical-sequence inference, same technique validated on page
+451): this page's five footnote markers print in the same heavily
+stylized cursive font seen on earlier pages. At high zoom, the 1st
+and 3rd markers (u, w) share an identical double-peak glyph shape,
+and the 2nd and 5th markers (v, y) share an identical single-hook/
+checkmark glyph shape, with the 4th marker (x) a distinct zigzag
+shape -- shape alone does not disambiguate u/w or v/y. Resolved via
+strict alphabetical position (5 markers in body text order = 5 Block
+1 entries in printed order, continuing directly from page 551's
+final letter "t", so u,v,w,x,y is the only possible assignment) and
+independently CONFIRMED via 1879 (pages_1879/page_0554.png, book
+page 546, bottom footnote block): "t, see y, III. Nep. 26. u, III.
+Nep. 18:28,29. v, the three. See d, III. Nep. 28. w, ver. 5. III.
+Nep. 28:19. x, III. Nep. 28:21. y, III. Nep. 28:22." -- an exact
+letter-for-letter and content match to all five 1920 entries on this
+page, confirming both the letter assignments and the reference
+text. The 1879 page itself was located by content match (verses
+24-35, the same span as this page's verses 26-36) rather than by
+chapter_map.csv's listed chapter-start file_page (551), since
+chapter_map only records the chapter's first page, not every page
+within it.
+Content-fit sanity check: entry u ("III Nefi 18:28,29") annotates
+"estaba prohibido" (v.27, forbidden to administer sacred things to
+the unworthy) -- III Nefi 18:28-29 is Jesus's teaching on not giving
+the sacrament to the unworthy, an exact thematic match. Entry v ("Los
+tres; Véase d, III Nefi 28") annotates "discípulos" (v.30) -- "the
+three" refers to the three Nephite disciples first named in III Nefi
+28, matching both the 1879 wording ("the three. See d") and the body
+context (disciples persecuted/imprisoned). Entries w/x/y (Versículo
+5/III Nefi 28:19; III Nefi 28:21; III Nefi 28:22) annotate
+"prisiones"/"hornos"/"fosos" (v.30, 32, 33) -- III Nefi 28:19-22 is
+the passage describing the three disciples' imprisonments, furnaces,
+and dens of wild beasts, an exact match verse-by-verse. All five
+plausible, no red flags.
+No narrow-space-vs-merge candidates found on this page.
+Verse 35 "descientos treinta y uno" (for "doscientos") -- inconsistent
+with this same page's own v.27/v.34 "doscientos" (correct). Session E:
+confirmed genuine 1920-only misprint via 1886 (page_0567.png, prints
+"doscientos"), RAE (no entry for "descientos"), and reference corpora
+(0 hits for "descientos" vs. 43 for "doscientos"). Added to `errors in
+1920.txt` and `permitted words.txt`.
+Google cross-check (`check_google_crosscheck.py`): 1 candidate beyond
+the 5 auto-dismissed (4 footnote-marker glue, 1 trailing/footnote-
+block content) -- "discípulos" (v.30) vs. Google's accent-less
+"discipulos". Zoomed confirmation (20x) shows the 1920 print clearly
+carries the accent on í; Google simply dropped it (a known OCR
+weak spot for this diacritic, not a transcription issue). No
+correction needed.
+Page ends at the close of verse 36 (chapter continues on page 553).
+Session B: independently re-verified all 5 Block 1 entries and all 5
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. The swash-letter u/v/w/x/y assignment was
+independently re-checked via a fresh crop of pages_1879/page_0554.png
+(bot band, showing the full footnote line "t, see y, III. Nep. 26.
+u, III. Nep. 18:28,29. v, the three. See d, III. Nep. 28. w, ver. 5.
+III. Nep. 28:19. x, III. Nep. 28:21. y, III. Nep. 28:22.") -- confirms
+Session A's reading exactly, letter-for-letter and reference-for-
+reference. No corrections needed from Session B.
+Session E: fresh pptext regeneration (`report_wsl_20260730f.html`).
+Two additional genuine 1920-only errors were caught this session that
+Session A did not flag at transcription time (found by direct reading
+of the page text against 1886, not via a pptext spellcheck hit -- both
+words happen to be real/plausible-looking enough that aspell would not
+necessarily catch them): v.26 "obrener" (1920 misprint for "obtener",
+confirmed via 1886 page_0566.png "obtener", RAE has no entry for
+"obrener", modern edition rewords the verse with "lucrar" but does not
+use "obrener" either); v.36 "Zoramítas" (1920 prints a superfluous
+accent on a word that takes none by regular Spanish stress rules --
+llana, ends in "s" -- confirmed via 1886 page_0567.png "Zoramitas" no
+accent, the modern edition "zoramitas" no accent, and this document's
+own consistent unaccented "Zoramitas" spelling everywhere else
+[e.g. Alma 31 onward]; Google's own OCR of this page also reads
+"Zoramítas" with the accent, confirming the mark is genuinely printed
+and not a stray speck, per rule 36's check). Both added to `errors in
+1920.txt` and `permitted words.txt`. Full pptext report walkthrough
+beyond spellcheck: no new dash, footnote-anchor, curly-quote, or
+special-situations hits for this page's line range. Footnote scan:
+zero duplicates, max 4053, only the long-documented 812 gap remains.
+Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both
+master files.

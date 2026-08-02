@@ -1,0 +1,219 @@
+Página 547
+31. Por lo tanto, obras [4003]grandes y maravillosas serán realizadas
+por ellos, antes de que llegue aquel gran día en que todo
+el pueblo tiene que aparacer ante el tribunal de Cristo;
+32. Sí, aun entre los mismo Gentiles se ejecutará una obra
+grande y maravillosa que será realizada por ellos, antes de que
+llegue el día del juico.
+33. Y si tuvierais [4004]todas las escrituras que explican todas las
+obras maravillosas de Cristo, sabríais según las palabras de Cristo
+que seguramente han de suceder estas cosas.
+34. Y ¡ay de aquél que [4005]no escuche las palabras de Jesús,
+ni las palabras de aquéllos que Él ha escogido y enviado entre
+los hombres! Porque quienquiera que no reciba las palabras
+de Jesús, ni las de los que Él ha enviado, no le recibe á Él
+mismo; por cuyo motivo, Él tampoco le recibirá en el postrer día.
+35. Y mejor le hubiera sido él no haber nacido. Porque ¿lo
+consideráis vosotros posible que el hombre pueda escapar de la
+justicia de un Dios ofendido, que ha sido pisoteado por los pies
+de los hombres, para que venga por esto la salvación?
+36. Y ahora, he aquí, que en cuanto á lo que he dicho relativamente
+á los que el Señor escogió, sí, de los tres que fueron
+[4006]transportados á los cielos, de que no sabía, [4007]si habían sido
+purificados de la mortalidad pasando á la inmortalidad,
+37. Pero, he aquí, después que escribí, me he informado del
+Señor, y Él me ha manifestado, que fué necesario que se verificase
+un cambio en sus cuerpos, [4008]sin el cual hubieran tenido que
+sufrir los dolores de la muerte.
+38. Por lo tanto, para que no probaran la muerte, tuvo lugar
+un cambio en sus cuerpos, para que [4009]no sufrieren los dolores,
+ni penas, como no fueren las que padezcan por los pecados del
+mundo.
+39. Ahora, este cambio no era de ningún modo igual al que
+se verificará en el postrer día; sino que fué solo un cambio
+ejecutado en ellos, para que satán no tenga más poder sobre ellos,
+para que no pudiera tentarles; quedando así santificados en la
+carne; de modo que fueron santos, y para que los [4010]poderes de la
+tierra no tuvieran ningún efecto sobre ellos;
+40. Y en este estado tenían que permanecer hasta el día del
+jucio de Cristo; y entonces pasarían por un cambio [4011]más
+completo, y serían recibidos en el reino del Padre, de dónde no
+saldrán más, sino que vivirán eternamente con Dios en los cielos.
+
+28x, 4003: Véase w.
+28y, 4004: III Nefi 26:6-12.
+28z, 4005: Éther 4:8-12.
+28-2a, 4006: Versículos 13-16.
+28-2b, 4007: Versículo 17.
+28-2c, 4008: Véase d.
+28-2d, 4009: Versículo 9.
+28-2e, 4010: Versículo 20.
+28-2f, 4011: Versículo 8.
+
+Corrections:
+Page continues Chapter 28 (v.31-40) from page 546, which ended mid-verse
+at v.30 ("...según consideren conveniente;"); v.31 begins this page's
+first line ("31. Por lo tanto...") per rule 1 convention for a page
+opening on a new verse number (no blank line after `Página 547`,
+matching the same convention confirmed for mid-verse continuations and
+for prior new-verse-start pages — see pages 530/535/542/546 precedent).
+Rule-7 hyphenated line-break rejoins: "rea-"/"lizadas" -> "realizadas"
+(v.31, rejoined line lands at 69 chars with the [4003] marker, under
+the 73-char cap, so kept on the first line); "relativa-"/"mente" ->
+"relativamente" (v.36, rejoined line lands at 67 chars, kept on the
+first line); "2atrans-"/"portados" -> rejoined to "[4006]transportados"
+(v.36) but this one did NOT fit on the first line even before the
+rejoin (74 chars with the marker), so per rule 7 the whole rejoined
+word moved to the start of the next line instead, which then required
+a rule-8 rebalance of its own: the resulting line ("[4006]transportados
+á los cielos, de que no sabía, [4007]si habían sido purificados") was
+83 chars, so "purificados" was moved down to the following line,
+landing the rebalanced line at 71 chars.
+Rule-31 space-before-punctuation cleanup throughout (this page's print
+consistently sets a space before semicolons, and once before a
+question mark; removed throughout, no exceptions per the standing
+rule): "Cristo ;" (v.31), "mismo ;" (v.34), "hombres !" (v.34),
+"salvación ?" (v.35), "día ;" (v.39), "tentarles ;" (v.39), "carne ;"
+(v.39), "ellos ;" (v.39), "Cristo ;" (v.40).
+Rule-6 wide justification-gap normalizations (all reduced to a single
+space, none logged as errors per the standing rule): "Porque  ¿lo"
+(v.35), "Porque  quienquiera" (v.34), "no le recibe á  Él" (v.34).
+Footnote-letter ambiguity (discretionary check, not a mandatory i/l/1
+case): the second footnote letter on this page (marker before "todas",
+v.33; Block 1 "y, III Nefi 26:6-12") is printed in the same swash
+italic font used elsewhere in this document for footnote letters, and
+at a glance resembles "v" more than "y" (no obvious descender at
+normal zoom). Per Section 8's discretionary-extension clause, checked
+against 1879 (pages_1879/page_0549.png, book p.541 of that edition):
+1879 prints this same cross-reference chain in clear serif italic as
+"x, see w. y, III. Nep. 26:6-12. z, Ether 4:8-12." — unambiguously "y",
+and consistent with strict alphabetical sequencing (rule 13: x, y, z,
+2a...) which a "v" reading would have broken. Both the 1920 body
+superscript (before "todas") and the Block 1 letter are transcribed as
+"y" on this basis; a fresh high-zoom crop of the 1920 glyph also shows
+a faint descending tail consistent with "y" once compared side-by-side
+with 1879's clearer rendering, corroborating rather than contradicting
+the 1879 finding.
+Three suspected genuine 1920-only misprints found, preserved as printed
+per rule 32, not yet verified against 1886 (flagged for Session E):
+(1) v.31 "el pueblo tiene que aparacer ante el tribunal" — 1920 clearly
+prints "aparacer" where "aparecer" (to appear) is required; caught by
+the Google cross-check (`check_google_crosscheck.py 547`, which
+independently reads "aparacer" too) and confirmed at 12x zoom:
+a-p-a-r-a-c-e-r. (2) v.32 "llegue el día del juico." — 1920 clearly
+prints "juico" (confirmed at 12x zoom: j-u-i-c-o, missing the second
+"i" of "juicio" — judgment; also independently read as "juico" by the
+Google OCR text layer). (3) v.40 "jucio de Cristo" — 1920 clearly
+prints "jucio" (confirmed at zoom: j-u-c-i-o, transposed letters, also
+for "juicio"; likewise independently read as "jucio" by Google OCR).
+Findings (2) and (3) refer to the same underlying word ("judgment day"
+/ "día del juicio") within nine lines of each other, printed two
+different ways, neither of which is "juicio" itself — strongly
+suggestive of genuine, independent typesetting errors rather than an
+intentional archaic spelling.
+Google cross-check false-alarm, investigated and resolved (not an
+error): v.35 "él no haber nacido." initially appeared at 20x zoom to
+have a period-like mark between "haber" and "nacido" (isolated round
+dot in the gap). The Google OCR text layer read this same span with NO
+period ("nohabernacido"), which prompted a re-zoom at 30-40x directly
+on the gap: at that resolution the "dot" resolves clearly as the round
+ball-terminal serif on the arm of the bold-face "r" ending "haber", not
+a separate mark — there is no punctuation in the actual word gap.
+Transcribed as "no haber nacido." with no stray period; not logged as
+an error. This is a good example of the crosscheck script's intended
+use (per its skill-step docstring): Google's silence on a mark was
+real evidence, not noise, exactly as documented for the grave-accent
+false alarms in rule 36.
+Google cross-check also flagged a stray apostrophe-like mark at the
+very start of the line beginning "ni las palabras de aquéllos" (v.34):
+confirmed present in the 1920 print at zoom (a small comma- or
+apostrophe-shaped mark before the "n" of "ni", not attached to any
+letter), and
+independently corroborated by Google's OCR inserting a stray "'" at
+the same position — so this is genuine printed ink, not a rendering
+artifact. However it serves no grammatical function at this position
+(mid-sentence, no quotation in progress) and most likely a stray fleck
+of type/ink rather than intentional punctuation, consistent with this
+page's other unexplained isolated dots (before "35.", and the two
+small dots above the footnote-block divider). Not transcribed, not
+logged as an error, per the established convention of treating
+isolated non-functional specks as print debris.
+No i/l/1 letters appear in this page's own chapter-28 lettering (x, y,
+z, 2a-2f) or in any cross-reference target letter cited here (w, d) —
+mandatory 1879 check (Section 8) does not independently apply beyond
+the discretionary y/v check already performed above, which happened to
+also settle any doubt for this page's only visually-ambiguous letter.
+Content-fit sanity check (Section 8, item 8): 2a ("Versículos 13-16")
+and 2b ("Versículo 17") both point backward to this same chapter's
+earlier verses describing the three Nephites being caught up into
+heaven and not knowing whether they were mortal or immortal — a strong
+fit for v.36's "de los tres que fueron transportados... de que no
+sabía[n] si habían sido purificados". 2c ("Véase d") and 2d
+("Versículo 9") fit v.37-38's discussion of the bodily change avoiding
+pain, consistent with earlier chapter-28 cross-references already
+established on prior pages. 2e ("Versículo 20") and 2f ("Versículo 8")
+are plain same-chapter verse citations with no ambiguity.
+Two remaining Google-crosscheck candidates were dismissed without
+action: Google read "jay" for "¡ay" (v.34, the standard OCR confusion
+of an inverted exclamation mark for "j") and "el" for "él" (v.35,
+Google's routine accent-dropping) — both expected OCR behavior, not
+evidence of anything printed differently.
+Session E: fresh pptext regeneration (`report_wsl_20260729h.html`).
+Spellcheck Suspect Words flagged "aparacer", "juico", and "jucio" (all
+three already caught during Session A via zoom/Google crosscheck).
+Independent research per Session E requirements, for all three: 1886
+comparison (pages_1886/page_0561.png book p.543 for v.31/32,
+page_0562.png book p.544 for v.40) confirms the correct forms
+("aparecer", "juicio" x2) at each exact spot -- all three are 1920-only
+deviations, not shared with 1886; RAE DLE has no entry for any of the
+three misspellings (WebSearch); local reference corpora show 0 hits for
+all three misspellings versus 5 ("aparecer") and 310 combined
+("juicio") for the correct forms; the Edit Distance Checks section of
+the pptext report independently corroborates each as an edit-distance-1
+typo of the correct word, which itself appears elsewhere in this same
+document 6 and 37 times respectively. One nuance recorded in the
+errors-log entry: RAE's Diccionario Panhispánico del Español Jurídico
+does have a narrow historical entry for "jucio" as a medieval Castilian
+legal-register spelling (12th-13th century fueros) -- an unrelated
+register with no plausible bearing on an 1830s Book of Mormon
+translation, and not reproduced by 1886 at this spot either, so this
+does not change the error verdict. All three added to `permitted
+words.txt` per rule 10. Edit Distance Checks: no new information beyond
+what's already summarized above. Footnote check: whole-document
+`\[(\d+)\]` scan confirms zero duplicates, last number 4011 (matching
+this page's final marker), only gap remains the long-documented
+footnote 812. Dash check: this page introduced zero hyphens (all rule-7
+rejoins resolved cleanly), confirmed via direct grep of the page's new
+`librodm.txt` lines. Short-lines/standalone-1/paragraph-level hits
+touching this page's line range (body 24405-24460, Block 2 28740-28753)
+all matched established false-positive categories (verse-end short
+lines; Block 2's own short `N: text` entries; the "standalone 1"
+special-situations check firing on `N:`-format citations and
+`chapter:verse` colons in Block 2 text, e.g. "3997: IV Nefi
+1:5,30-33..."; legitimate hyphenated verse ranges in Block 2, e.g.
+"26:6-12"/"13-16"). No long lines found anywhere in the document.
+Whole-document mechanical sweeps -- `check_spaced_punctuation.py`
+(librodm.txt + librodm_foot.txt), `check_footnote_punctuation.py`
+(librodm_foot.txt), `check_verse_indent.py` (librodm.txt) -- all clean;
+zero curly quotes in either master file (direct character search).
+Smart Quote Scan, book level checks, and Jeebies Report also read clean
+in the fresh report. No narrow-space-vs-merge candidates were flagged
+on this page during Session A, so there is nothing to batch into this
+summary for the editor per that standing convention.
+No narrow-space-vs-merge candidates found on this page.
+Session B: independently re-verified all 9 Block 1 entries and all 9
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text and marker placements confirmed
+matching exactly. No i/l/1 letters appear anywhere on this page, either
+in the chapter's own lettering (x, y, z, 2a-2f) or in the two
+cross-reference target letters (w, d) — mandatory 1879 check does not
+apply beyond the discretionary y/v check already performed in Session A.
+Session D (`generate_block2.py 547`): all 9 entries resolved cleanly (no
+unresolved cross-references). The two cross-reference entries both
+checked out on content-fit (Section 8, item 8): 28x "Véase w" -> 4002
+("Versículos 30-33", this chapter's own great-and-marvellous-works
+verses) fits v.31's "obras grandes y maravillosas"; 28-2c "Véase d" ->
+3983 ("Versículos 8-9,19-22,25,37-40; IV Nefi 1:14,37; Mormón 8:10-12;
+Ether 12:17", this chapter's recurring three-Nephites citation chain)
+fits v.37's "un cambio en sus cuerpos, sin el cual hubieran tenido que
+sufrir los dolores de la muerte."

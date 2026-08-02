@@ -1,0 +1,211 @@
+Página 551
+Y [4045]otros discípulos fueron ordenados en su lugar; y también
+muchos de aquella generación habían pasado ya.
+15. Y ocurrió, que no habían contenciones en el país, porque
+el amor de Dios moraba en los corazones del pueblo.
+16. Y no habían envidias, ni contiendas, ni tumultos, ni mentiras,
+ni fornicaciones, ni asesinatos, ni ninguna especie de
+lascivias; y seguramente no había pueblo más dichoso entre
+todos los creados por la mano de Dios;
+17. Y no habían entre ellos ni ladrones, ni asesinos, ni existían
+tampoco más Lamanitas, ni ninguna especie de itas, sino que
+habían formado un solo cuerpo como hijos todos de Cristo y
+herederos del reino de Dios.
+18. Y cuán grandes no fueron los favores que recibieron.
+Sí, porque el Señor les benijo en todas sus obras, y prosperaron
+de este modo hasta que transcurrieron, ciento y diez años. Y
+la primera generación desde Jesu-Cristo había pasado sin que
+hubiese habido ningún disturbio en todo el país.
+19. Y sucedió, entonces que murió [4046]Nefi, él que llevaba estos
+últimos anales sobre las [4047]planchas de Nefi, y su hijo Amos los
+tomó, para continuarlos en su lugar; lo que hizo sobre las planchas
+de Nefi.
+20. Y los tuvo por ochenta y cuatro años en los que no cesó de
+reinar la paz en el país, á excepción de una pequeña parte del
+pueblo, los que tomando el nombre de Lamanitas, se rebelaron
+en contra de la iglesia; por to tanto, empezó otra vez, á haber
+Lamanitas en el país.
+21. Y ocurrió, que murió también Amos (lo que sucedió ciento
+noventa y cuatro años desde la venida de Jesu Cristo,) y su
+hijo, Amos, llevó los anales en su lugar, los que fueron también
+escritos en las planchas de Nefi, y también en el libro de Nefi,
+que es este libro.
+22. Y sucedió que pasaron doscientos años; y con ellos pasó
+todo la segunda generación á excepción de unos cuantos.
+23. Y, ahora, yo, Mormón, quiero que sepáis que el pueblo
+se había multiplicado de tal manera que ocupaba toda la extensión
+del país, y que había adquirido inmensas riquezas á causa
+de su prosperidad en Cristo.
+24. Pero en estos doscientos y un años empezóse á ver á
+algunos que se elevaron en su orgullo, tal como el vestirse con
+costosos trajes y con toda clase de perlas finas, y de las cosas
+delicadas del mundo.
+25. Y desde entonces ya [4048]no tuvieron sus bienes y sus riquezas
+más en común.
+
+1q, 4045: Nueve otros como sucesores.
+1r, 4046: El padre de Nefi fué uno de los doce.
+1s, 4047: Véase f, I Nefi 1:17.
+1t, 4048: Véase v, III Nefi 26.
+
+Corrections:
+Page continues IV Nefi chapter 1 from page 550 (verse 14 continuation
+at the top, no verse number, no blank line before the text per the
+mid-verse rule); no book/chapter boundary on this page.
+Rule-7 hyphenated line-break rejoins: "men-"/"tiras" -> "mentiras"
+(verse 16; rejoined line lands at 66 chars, under the 73-char cap,
+kept on the first line); "exten-"/"sión" -> "extensión" (verse 23;
+rejoined line lands at 65 chars, kept on the first line).
+Rule-31 space-before-punctuation cleanup (all mechanical, this page's
+print consistently sets a space before semicolons): "lugar ; y
+también" -> "lugar; y también" (verse 14 continuation, line 1);
+"lascivias ; y seguramente" -> "lascivias; y seguramente" (verse 16);
+"Dios ;" -> "Dios;" (verse 17); "lugar ; lo que hizo" -> "lugar; lo
+que hizo" (verse 19); "iglesia ; por lo tanto" -> "iglesia; por lo
+tanto" (verse 20); "años ; y con ellos" -> "años; y con ellos" (verse
+22).
+Mandatory i/l/1 check (Section 8): none of this chapter's own four
+footnote letters on this page (q, r, s, t) are themselves i/l/1.
+However, entry s's cross-reference target letter ("Véase [?], I Nefi
+1:17") fell in the mandatory i/l/1 set by first appearance -- the
+1920 glyph is a single unbroken diagonal stroke with no separated dot
+and no visible crossbar, genuinely ambiguous among i/l/f at this
+size. Resolved via content-fit + back-reference (Section 8 steps 7-8)
+rather than glyph shape alone: 1920's own I Nefi chapter 1 Block 1
+entry "1f, 6: I Nefi 6:1; 9:2-5; 10:1; 19:1-6; II Nefi 5:29-33; Jacob
+1:1-4; 3:13-14; 4:1-2; 7:26-27; Enos 1:13,15-18; Jarom 1:14-15;
+Palabras de Mormón 1:1-11." (librodm_foot.txt lines 8-10) is an exact
+content match for the "abridgment of my father's record" note at I
+Nefi 1:17 (compared directly against the image at
+pages_1920/page_0025.png, 12-15% band: the "f" marker there,
+annotating "un [f]compendio de los anales de mi padre," is the
+identical glyph shape to this page's ambiguous mark -- confirming
+this typeface's "f" superscript prints as a plain diagonal stroke
+with no crossbar). Independently cross-checked against 1879
+(pages_1879/page_0011.png, ~24% band): entry "f, I. Nep. 6:1. 9:2-5.
+10:1. 19:1-6. II Nep. 5:29-33. Jacob 1:1-4. 3:13,14. 4:1,2. 7:26,27.
+Enos 1:13,15-18. Jarom 1:14,15. Words of Mor. 1:1-11." (page
+0011.png bottom footnote block) is the same citation list attached
+to the same "abridgment" annotation at the same verse, also under
+letter "f" -- two independent confirmations. Resolved to "f".
+Session E: fresh pptext regeneration (`report_wsl_20260730d.html`).
+Spellcheck Suspect Words flagged three of this page's own words:
+"benijo" (v.18), "empezóse" (v.24), and "to" (v.20, "por to tanto").
+All three checked against 1886 (pages_1886/page_0565.png for v.15-19,
+book page 547/file 565; page_0566.png for v.20-25, book page 548/file
+566), RAE DLE (WebSearch), and the three local reference corpora:
+"benijo" -> 1886 prints "bendijo" correctly; RAE has no entry for
+"benijo"; 0 corpus hits vs. 41 combined for "bendijo". Genuine
+1920-only error. Added to `errors in 1920.txt` and `permitted
+words.txt`. "to" -> 1886 prints "por lo tanto" correctly at the same
+verse; "to" is not a Spanish word on its own. Genuine 1920-only
+error (also independently caught by the Google cross-check in
+Session A). Added to `errors in 1920.txt` and `permitted words.txt`.
+"empezóse" -> 1886 uses the identical enclitic construction
+("empezóse á ver á algunos") at the same verse -- a legitimate
+archaic reflexive form, matching the "multiplicóse" precedent from
+page 550; RAE confirms the root verb "empezar" exists, no entry for
+the archaic enclitic form itself (expected, same gap as
+"multiplicóse"). Added to `permitted words.txt` only. Edit Distance
+section: "benijo" already paired against "bendijo" (11 correct
+instances elsewhere); nothing new for this page beyond the
+already-logged items.
+**User correction (2026-07-30):** the "Jesu Cristo" (v.21, no hyphen)
+item was initially logged in `errors in 1920.txt` as a 1920-only
+inconsistency against this page's own v.18 "Jesu-Cristo" and against
+1886. The editor corrected this: "Jesu Cristo" without a hyphen is an
+archaic form used extensively throughout this edition, not an error.
+Removed from `errors in 1920.txt`; see the revised "Checked and NOT an
+error" note above.
+Full pptext report walkthrough for this page's new line range beyond
+the spellcheck section: no new hits for this page in the dash check
+(this page's only hyphen, "Jesu-Cristo" v.18, is a legitimate
+letter-hyphen-letter compound, and its v.21 non-hyphenated
+counterpart is logged above as an error, not a dash-check finding),
+footnote check, curly-quote scan, or special situations checks.
+Footnote-anchor whole-document scan (Python, not just the pptext
+report): max 4048 (matches this page's final marker), zero
+duplicates, only the long-documented footnote 812 gap remains.
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py` all clean against both whole
+master files. Re-ran pptext once more after the `permitted words.txt`
+additions (`report_wsl_20260730e.html`) to confirm "benijo,"
+"empezóse," and "to" all suppress cleanly; remaining Spellcheck
+Suspect Words are all from earlier, already-processed pages, out of
+scope for this session.
+Content-fit sanity check for the remaining letters: q -> "Nueve otros
+como sucesores" fits "otros discípulos fueron ordenados en su lugar"
+(nine others ordained as successors) exactly; r -> "El padre de Nefi
+fué uno de los doce" fits identifying which Nefi just died (his
+father was one of the twelve disciples), distinguishing him from the
+original Nephi; t -> v, III Nefi 26 (general chapter reference) is a
+plausible comparison point for "ya no tuvieron sus bienes ... más en
+común" (loss of the earlier community-of-goods practice). All
+plausible, no red flags.
+Suspected misprints (preserved as printed per rule 32, to be verified
+against 1886/RAE in Session E):
+(1) Verse 18 "el Señor les benijo" -- confirmed via zoom that the
+word is printed "benijo," missing the "d" (should be "bendijo").
+1886 (pages_1886/page_0565.png, bottom band) prints "bendijo"
+correctly at the same verse.
+(2) Verse 20 "por to tanto, empezó otra vez" -- Google cross-check
+(check_google_crosscheck.py) flagged this spot as a candidate
+("...por‹l›otanto..." mine vs "...por‹t›otanto..." google); a fresh
+15-20x zoom of the 1920 image confirmed Google was right and the
+original transcription was wrong: the word is clearly printed "to"
+(with a crossbar, not the plain unbroken stroke of "l"), not "lo".
+1886 (pages_1886/page_0566.png, top band) prints "por lo tanto"
+correctly at the same verse. Corrected in the transcription to match
+what is actually printed ("to tanto"), preserved as a genuine
+1920-only misprint per rule 32, not silently fixed to the expected
+reading.
+Checked and NOT an error: verse 17 "ninguna especie de itas" (no
+missing letters -- 1886 prints the identical "ninguna especie de
+itas" at the same verse, pages_1886/page_0565.png mid band; this
+appears to be a deliberate period translation choice mirroring the
+English source's generic "-ites" suffix, not a misprint). Verse 21
+"desde la venida de Jesu Cristo,)" (no hyphen) -- user correction: not
+an error. "Jesu Cristo" without a hyphen is an archaic form used
+extensively throughout this edition (unlike this same page's own verse
+18 "Jesu-Cristo," which is hyphenated -- both forms are legitimate
+period variants coexisting in this edition, not an inconsistency to
+flag). No `errors in 1920.txt` entry (the earlier entry logged during
+Session E was removed per this correction). Verse 18
+"transcurrieron, ciento y diez años" has a comma 1886 lacks at the
+same spot (pages_1886/page_0565.png) -- a minor punctuation deviation
+noted for the editor's awareness but not logged as an error (does not
+match the established period-for-comma misprint pattern from prior
+pages). Verse 24 "doscientos y un años" checked against 1886
+(pages_1886/page_0566.png, mid band) -- identical wording, not an
+error, just period phrasing.
+No narrow-space-vs-merge candidates found on this page.
+Google cross-check (`check_google_crosscheck.py`): 4 candidates, 3
+auto-dismissed (2 footnote-marker glue, 1 trailing/footnote-block
+content). The 1 remaining candidate ("por lo/to tanto," verse 20) is
+suspected misprint (2) above -- a genuine catch, transcription
+corrected accordingly.
+Page ends mid-verse (IV Nefi 1:25, "...más en común."); verse 26
+begins on page 552.
+Session B: independently re-verified all 4 Block 1 entries and all 4
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly, including the "benijo," "Jesu Cristo" (no hyphen),
+and "por to tanto" readings from Session A. The mandatory i/l/1 check
+for entry s's cross-reference target letter was re-done independently
+via a fresh crop of pages_1879/page_0011.png (bottom band, not the
+range used in Session A): re-confirms "f, I. Nep. 6:1. 9:2-5. 10:1.
+19:1-6. II Nep. 5:29-33. Jacob 1:1-4. 3:13,14. 4:1,2. 7:26,27. Enos
+1:13,15-18. Jarom 1:14,15. Words of Mor. 1:1-11." at the same position
+identified in Session A, matching 1920's own "1f, 6" entry. No
+corrections needed from Session B.
+Session D (`generate_block2.py 551`): all 4 entries resolved cleanly
+on the first pass (4045, 4046: plain text, unchanged; 4047: "Véase f,
+I Nefi 1:17" -> "Véase 6." matching I Nefi's own "1f, 6" entry; 4048:
+"Véase v, III Nefi 26" -> "Véase 3947."). Strong independent
+confirmation of entry t's resolution: III Nefi's own "26v, 3947"
+entry (librodm_foot.txt line 4234) reads "IV Nefi 1:1; Véase u, II
+Nefi 9." -- an explicit back-reference to IV Nefi 1:1 (the original
+"all things common" description), which is exactly what this page's
+verse 25 ("ya no tuvieron sus bienes ... más en común") is contrasting
+against. A good demonstration of Section 8's content-fit check being
+confirmed after the fact by the target's own back-reference.

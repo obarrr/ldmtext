@@ -85,65 +85,94 @@ NNN often doesn't repeat "page NNN" in its own header. If a page has
 more than one matching entry, the latest date is the current, correct
 state — earlier entries may have been reversed.
 
-- **2026-07-29**: Sessions A–E run for page 546 (III Nefi 28:18-30,
-  continuing chapter 28 from page 545 which ended mid-verse at v.17;
-  footnotes 3995-4002, eight footnote letters p through w, continuing
-  chapter 28's lettering from page 545 which ended at "o"; page opens
-  with the start of a new verse number, v.18 "18. Solo sé...", not a
-  chapter heading or mid-verse continuation — confirmed via precedent
-  (pages 530/535/542) that this also gets no blank line after `Página
-  N`, same as a mid-verse continuation). Session A: two rule-7 hyphen
-  rejoins ("minis-"/"trado" -> "ministrado", v.26, landing at exactly
-  72 chars with the [4000] marker and attached semicolon; "Gen-"/
-  "tiles" -> "Gentiles", v.27); four rule-6 wide-gap normalizations;
-  rule-31 space-before-punctuation cleanup throughout (semicolons and
-  one colon); one rule-8 rebalance after the [4001]/[4002] marker
-  insertions pushed a line to 73 chars (v.29, moved "halla" to the
-  next line). Three genuine 1920-only misprints found, all confirmed
-  against 1886 (pages_1886/page_0560.png book p.541, page_0561.png
-  book p.543) and logged in `errors in 1920.txt`: (1) v.25 "hombres"
-  printed where "nombres" (names) is required by grammar and 1886 —
-  Mormón was going to write the *names* of those who would never
-  taste death, corroborated by this verse's own footnote t (III Nefi
-  19:4, the chapter naming the twelve disciples); (2) v.30 "cualqiuer"
-  (i/u transposed) for "cualquier", confirmed via 1886 and zero
-  attestation in the reference corpora versus 226+69+9 hits for the
-  correct spelling; (3) v.28 "concerán" missing the "o" of
-  "conocerán", confirmed via 1886, this page's own correctly-spelled
-  "conocerán" two lines earlier in v.27, and the Google OCR
-  cross-check independently reading the word the same abbreviated way.
-  A fourth discrepancy (second "Judios" missing its accent, v.28) was
-  noted but not logged as an error per rule 11's missing-accent
-  carve-out. No i/l/1 letters anywhere on the page. Session B:
-  independently re-verified all 8 Block 1 entries and all 8 `[N]` body
-  markers from a fresh crop. Session C (`insert_body_text.py 546`):
-  body text and 8 Block 1 entries inserted cleanly. Session D
-  (`generate_block2.py 546`): all 8 entries resolved cleanly, but
-  spot-checking the resolved targets surfaced a fourth genuine error:
-  entry 28q ("Véase v, III Nefi 9") resolves to a weak content-fit
-  target (the "other sheep" passage) for what it annotates
-  ("recibieron [Espíritu Santo]", v.18) — the same v/y cross-reference
-  letter ambiguity pattern already documented for footnote 27n on an
-  earlier page. Confirmed via 1879 (pages_1879/page_0548.png): 1879
-  explicitly prints "q, see y, III. Nep. 9." (not "v"), and III Nefi
-  9's own letter y is a Holy-Ghost/baptism-themed citation chain, a
-  strong content-fit vs. 9v's weak one. The 1920 glyph itself is
-  unambiguously "v" at zoom, so this is a genuine cross-reference-
-  letter misprint, not a transcription misread; preserved as printed
-  ("v") in Block 1 per rule 32, logged in `errors in 1920.txt`.
-  Session E: fresh pptext regeneration (`report_wsl_20260729g.html`).
-  Spellcheck flagged "concerán"/"cualqiuer" (both already-confirmed
-  errors above) and "Judios" (missing-accent variant, not an error) —
-  all three added to `permitted words.txt` per rule 10. Footnote
-  check: whole-document scan confirms zero duplicates, last number
-  4002, only gap remains the long-documented footnote 812. Short-
-  lines/dash-check/special-situations hits in this page's range all
-  matched established false-positive categories. Whole-document
-  sweeps clean: `check_spaced_punctuation.py`/
-  `check_footnote_punctuation.py`/`check_verse_indent.py`, zero curly
-  quotes. No narrow-space-vs-merge candidates on this page.
-- **Next page**: 547, full A–E cycle, first footnote 4003.
-- **Completed pages**: 437–546, Sessions A–E fully done through page 546.
+- **2026-08-01**: Sessions A–E run for page 562 (Mormón 4:11-23, a
+  continuation page, no chapter heading — begins directly with "11.",
+  no blank line after `Página 562` per the established convention for
+  non-chapter-opening pages; 8 entries; footnotes 4123-4130). Session
+  A: 4 rule-31 space-before-semicolon instances normalized (v.15, 18,
+  20, 21). 4 rule-7 hyphen rejoins (v.11 continua-/mente, v.14
+  Teán-/cum, v.15 sacri-/ficado, v.18 desa-/parecer), none requiring
+  rule-8 rebalancing (v.15's rejoined line landed at exactly 72
+  chars, right at the cap but not over it). This page's own footnote
+  block print quality was unusually poor: entries i and l's own
+  target-reference glyphs were essentially blank/unprinted even at
+  40x zoom (both confirmed via the mandatory 1879 check, since both
+  targets are letters in the i/l/1 set — pages_1879/page_0564.png,
+  book page 556: "i, see c." / "l, see 2l, Alma 22." — plus a
+  content-fit check matching page 561's established pattern for Alma
+  22 geography references). Entry m was initially misread as "Véase
+  i." — a first-pass crop was too short vertically and cut off the
+  glyph's descender, and the page's own Google-OCR text layer made
+  the same truncated-shape misread, so the wrong "i" reading looked
+  doubly confirmed. The editor caught it from a user-supplied
+  reference crop showing the glyph's tail clearly hooking below the
+  baseline — a "j", matching 1879 ("m, see j.") and the content-fit
+  reasoning already noted in Session A (page 561's own entry j
+  self-references v.21, the very verse m annotates) all along. Fixed
+  to "Véase j." in Block 1/Block 2 in all three files; the
+  once-planned `errors in 1920.txt` entry for this was removed since
+  it was never a misprint. Lesson logged in the page's Corrections
+  log: crop tall enough to include the full descender zone before
+  judging a stem-with-dot glyph "i" vs. "j", and don't let Google-OCR
+  agreement substitute for that check. Entry n's "Mormón 1:3" was
+  checked against 1879's "Mor. 1:8" and found NOT to be an error —
+  1920's own Mormón 1:3 (page_0576.png, book page 554) explicitly
+  reads "una colina que será llamada Shim," an exact content match to
+  what entry n annotates, confirming the two editions simply use
+  different internal verse-numbering for Mormón 1 rather than either
+  one being wrong. Entry o's ambiguous swash letter resolved via 1879
+  as "2f" (discretionary extension of the check, not i/l/1 itself).
+  One genuine 1920-only misprint found and logged in `errors in
+  1920.txt`: v.11 "corazón.se" (a stray period with no space,
+  confirmed real printed ink via both a high-zoom crop and the page's
+  Google-OCR text layer, and confirmed absent from 1886, which prints
+  plain "corazón se" with no mark). Google-OCR crosscheck
+  (`check_google_crosscheck.py`) caught one genuine transcription
+  miss before Session B even started: v.20 "no pudieron" was missing
+  its printed trailing comma, re-zoomed and confirmed, fixed
+  immediately. The other candidate it raised (v.14 "siguieron" vs.
+  Google's letter-dropped "sigu[]eron") was confirmed correct as
+  transcribed — Google's own OCR miss, not ours. Mandatory i/l/1
+  check, body markers: v.14's marker ("i", dot separated from a short
+  stroke) and v.19's marker ("l", continuous stroke, no dot) both
+  confirmed via high-zoom crops, consistent with 1879's placement of
+  "i" on "city Teancum" and "l" on "city Desolation" at the same
+  verses. Session B: independently re-verified all 8 Block 1 entries
+  against a fresh `process_page.py` crop (562b, not reused from
+  Session A) — exact match. Re-ran the mandatory 1879 check from
+  fresh crops of both pages_1879/page_0564.png (book page 556,
+  entries g-l) and page_0565.png (book page 557, entries m-o) — both
+  fully reproduced Session A's readings, including the m/n
+  discrepancies already resolved above. Re-verified both mandatory
+  i/l/1 body markers from fresh crops — matching. All 8 `[N]` markers
+  confirmed correctly placed. Session C (`insert_body_text.py 562`):
+  no book boundary (still within Mormón), handled body text and all 8
+  Block 1 entries with no manual intervention. Session D
+  (`generate_block2.py 562`): all 8 entries resolved cleanly — both
+  "2l, Alma 22" cross-references resolved to Alma 22's own sequential
+  number 2238 (matching page 561's g entry's target, sanity-checked
+  directly); entry k's "Véase i" resolved to this page's own entry i
+  (4124); entry m's "Véase j" resolved to this page's own entry j
+  (4125, corrected post-session, see below); entry o's "Véase 2f, IV
+  Nefi 1" resolved to 4060 (sanity-checked directly against
+  `librodm_foot.txt`'s existing "1-2f, 4060" entry). Session E: fresh pptext regeneration
+  (`report_wsl_20260801f.html`, live WSL run). Spellcheck Suspect
+  Words: one hit from this page's range, "Bóaz" (v.20, a Book of
+  Mormon place name) — added to `permitted words.txt`, no error
+  logged (proper noun, per rule 11). Edit Distance Checks: zero hits
+  from this page's range. Footnote scan (whole document, computed
+  directly from `[N]` markers): footnotes 4123-4130 contiguous,
+  gap-free, duplicate-free, in-range; only pre-existing gap remains
+  the long-documented footnote 812. Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`) all clean against both master files; an
+  independent curly-quote character scan of both master files also
+  found zero curly quotes. One new `errors in 1920.txt` entry this
+  page (Mormón 4:11 corazón.se); one new `permitted words.txt` entry
+  (Bóaz). Post-session correction (same day, user-caught): entry m's
+  target letter fixed from "i" to "j" — see above.
+- **Next page**: 563, full A–E cycle, first footnote 4131.
+- **Completed pages**: 437–562, Sessions A–E fully done through page 562.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

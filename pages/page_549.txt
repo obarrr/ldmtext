@@ -1,0 +1,261 @@
+Página 549
+
+CAPÍTULO 30.
+
+1. ¡Oid, oh vosotros Gentiles, y escuchad las palabras de
+Jesu Cristo, el Hijo de Dios vivo, Quién [4021]me ha mandado que
+hable de vosotros! Porque, he aquí, que Él me manda que yo
+escriba, diciendo:
+2. ¡Tornáos, todos vosotros Gentiles, de las vías de maldad,
+y arrepentíos de vuestras malas obras, de vuestros [4022]embustes y
+engaños, y de vuestras [4023]fornicaciones, y de vuestras [4024]secretas
+abominaciones, idolatrías, asesinatos, [4025]supercherías, envidias,
+y de vuestras contiendas, y de todas vuestras iniquidades y
+abomínaciones, y venid á mí, y sed [4026]bautizados en mi nombre,
+para que así recibáis la remisióm de vuestros pecados, y seáis
+[4027]llenos del Espíritu Santo, y así seáis [4028]contados entre los de
+mi pueblo, que son de la casa de Israel.
+
+IV NEFI.
+
+LIBRO DE NEFI,
+
+QUIÉN ES HIJO DE NEFI, UNO DE LOS DISCÍPULOS DE
+JESU CRISTO.
+
+CAPÍTULO 1.
+
+Relación del pueblo de Nefi, según sus anales.
+
+1. Y aconteció, que se pasó el año [4029]treinta y cuatro, y también
+el año trienta y cinco, y, he aquí, que los [4030]discípulos de Jesús
+habían establecido una iglesia de Cristo en todos los países al
+rededor. Y cuantos vinieron á ellos y se arrepintieron verdaderamente
+de sus pecados, fueron [4031]bautizados en el nombre de Jesús;
+y [4032]recibieron también el Espíritu Santo.
+2. Y ocurrio en el año treinta y seis, que se convirtieron al
+Señor todos los del pueblo, sobre toda la faz de la tierra, tanto
+
+30a, 4021: Mormón.
+30b, 4022: III Nefi 21:19-21.
+30c, 4023: Véase v, II Nefi 9.
+30d, 4024: Véase i, II Nefi 10.
+30e, 4025: Véase z, II Nefi 26.
+30f, 4026: Véase u, II Nefi 9.
+30g, 4027: Véase v, III Nefi 9.
+30h, 4028: Véase z, III Nefi 16.
+1a, 4029: III Nefi 2:6-8.
+1b, 4030: Véase c, III Nefi 12.
+1c, 4031: Véase u, II Nefi 9.
+1d, 4032: Véase v, III Nefi 9.
+
+Corrections:
+Book/chapter transition: III Nefi closes at chapter 30 (v.1-2 only,
+this page) and IV Nefi opens mid-page with the full book-heading block
+per Section 1's subtitle rule: "IV NEFI." / "LIBRO DE NEFI," / two-line
+subtitle "QUIÉN ES HIJO DE NEFI, UNO DE LOS DISCÍPULOS DE JESU CRISTO."
+/ "CAPÍTULO 1." / italic argument "Relación del pueblo de Nefi, según
+sus anales." — all transcribed exactly as printed, each on its own
+line with blank-line separators. Confirmed structurally and
+content-wise against 1879 (pages_1879/page_0551.png): "IV. NEPHI." /
+"THE BOOK OF NEPHI." / "WHO IS THE SON OF NEPHI, ONE OF THE DISCIPLES
+OF JESUS CHRIST." / "CHAPTER 1." / "An account of the people of Nephi,
+according to his record." — same structure and content, confirming
+nothing was mis-ordered or omitted. Per Section 4 rule 19 precedent
+(the "III NEFI" header already used at the II Nefi -> III Nefi
+transition, matching the automated extract_book_header() logic which
+walks up through the consecutive all-caps block and picks the
+topmost line, "IV NEFI." with the period stripped, not "LIBRO DE
+NEFI,"), the Block 1 header used below is "IV NEFI".
+Rule-7 hyphenated line-break rejoin: "verdadera-"/"mente" ->
+"verdaderamente" (IV Nefi 1:1; rejoined line lands at 69 chars, under
+the 73-char cap, so kept on the first line; the following line begins
+with "de sus pecados..." instead of "mente de sus pecados...").
+Rule-8 rebalance: the [4027]/[4028] markers on III Nefi 30:8's
+"llenos...contados entre los de mi" line pushed it to 75 characters
+(over the 72-char cap once both 6-char markers were added), so the
+last word "mi" was moved to the start of the following line per rule
+8. The rebalanced pair reads "...contados entre los de" (72 chars) /
+"mi pueblo, que son de la casa de Israel." (40 chars).
+Rule-31 space-before-punctuation cleanup: "Jesús ;" (IV Nefi 1:1) ->
+"Jesús;" — no other spaced-punctuation instances found on this page.
+Narrow-space default-to-two-words (2026-07-22 editor guidance, not
+zoomed/pixel-measured per the standing rule): IV Nefi 1:1 "que
+sepasó el año" -> transcribed as "se pasó" (two words); grammar
+requires the reflexive "se" + verb "pasó," and no one-word reading
+makes sense. Flagged here for the editor's Session E summary batch,
+not raised as a standalone question during Sessions A-D per the rule.
+"al rededor" (IV Nefi 1:1, "en todos los países al" / "rededor. Y
+cuantos..."): confirmed via zoom that this line break carries NO
+hyphen — genuinely two separate printed words (the period after
+"rededor." and the following capital "Y" confirm it's not a
+continuation), not a rule-7 hyphenated split. Transcribed as printed,
+two words.
+Suspected misprint (preserved as printed per rule 32, to be verified
+against 1886/RAE in Session E):
+(1) III Nefi 30:2 "recibáis la remisióm de vuestros pecados" —
+confirmed via 24x zoom that the word ends in "m," not "n" (should be
+"remisión"); the "m" shape is unambiguous in the print, not a reading
+artifact.
+(2) IV Nefi 1:1 "el año trienta y cinco" — spelled "trienta" here,
+unlike "treinta" earlier in the very same verse ("el año treinta y
+cuatro") and elsewhere on the page ("el año treinta y seis," IV Nefi
+1:2). Preserved as printed.
+(3) IV Nefi 1:2 "Y ocurrio en el año treinta y seis" — missing the
+accent on the final "o" (grammar wants "ocurrió"). Preserved as
+printed.
+Mandatory i/l/1 check (Section 8): III Nefi 30's own footnote entry
+"d" cross-references "Véase i, II Nefi 10" — the letter after "Véase"
+is a mandatory-check case. Confirmed genuine "i" via 1879
+(pages_1879/page_0551.png), which independently prints the identical
+target letter for this exact reference ("d, see i, II. Nep. 10."),
+matching 1920's own reading exactly — not merely a same-image
+re-read. No other i/l/1 letters appear in this page's own lettering
+(III Nefi 30's a-h or IV Nefi 1's a-d) or as any other cross-reference
+target letter on this page (the only other targets are v, z, c, u —
+none of which are i/l/1).
+Content-fit / cross-edition sanity check (Section 8, item 8; not
+mandatory since none of these letters are i/l/1, done as routine
+diligence given how many cross-references cluster on this page): all
+eight III Nefi 30 entries (a-h) and all four IV Nefi 1 entries (a-d)
+were read directly against 1879 (pages_1879/page_0551.png), which was
+already open for the mandatory check above and happened to show both
+footnote blocks in full. Every reference (book/chapter, and "III Nefi
+21:19-21" / "III Nefi 2:6-8" as direct citations) matches 1879's
+corresponding entry by content; only the target letter itself
+sometimes differs between editions (e.g. 1920's "v"/"z" versus 1879's
+"y"/"x" for the same II Nefi 9 / II Nefi 26 / III Nefi 9 / III Nefi 16
+targets), which is expected per rule 26 (each edition's own
+independent lettering) and not a discrepancy.
+No other narrow-space-vs-merge candidates found on this page.
+Google cross-check: `check_google_crosscheck.py` reports 0 chars on
+"mine" side (the same chapter-opening tooling gap documented on page
+548 — body_lines() stops at the first blank line after `Página 549`,
+which for this page is immediately before `CAPÍTULO 30.`). Compared
+manually instead against `google_text_1920/page_0571.txt`: independently
+confirms all three suspected misprints noted above ("remisióm" with
+"m", "trienta" for "treinta", "ocurrio" missing its accent) and the
+"verdadera-"/"mente" hyphen split at the same word. No new candidates
+surfaced beyond what was already caught during transcription.
+Session B: independently re-verified all 12 Block 1 entries (30a-h,
+1a-d) and all 12 `[N]` body markers against a fresh `process_page.py`
+crop (not reused from Session A) — all reference text and marker
+placements confirmed matching exactly, including the "remisióm,"
+"trienta," and "ocurrio" readings from Session A. Mandatory i/l/1
+check re-done independently via a fresh crop of the same 1879 page
+(pages_1879/page_0551.png, not a re-read of the 1920 image): entry
+30d's cross-reference letter is unambiguously "i" (short stroke,
+clearly separated dot above, no descender) — "d, see i, II. Nep. 10."
+— confirming Session A's finding. No corrections needed from Session B.
+Session C (`insert_body_text.py 549`): body text inserted cleanly
+(fn_idx-based extraction is unaffected by blank lines inside Block 1,
+so the full body — both chapters, IV Nefi header block included — went
+in correctly in one pass). Block 1 append hit a genuine tooling gap:
+this page's own Block 1 section originally included a manually-typed
+blank/"IV NEFI"/blank header (mirroring the final librodm_foot.txt
+output) between the 30h and 1a entries, but `split_page()` locates
+`block1_end` as the FIRST blank line after the block starts — so it
+silently truncated the page's Block 1 to just the 8 chapter-30
+entries, and `append_block1()` never saw the 4 IV Nefi entries at all
+(confirmed: script reported "Appended 8 Block 1 entries," and the
+book-boundary auto-insertion logic — which correctly handles a
+boundary starting fresh on a NEW page, per page 481's precedent —
+never got a chance to fire here because the entries needing it were
+already cut from its input). This is a different failure mode from
+page 481's (that one was a header-text-selection ambiguity across a
+page boundary; this one is a page-internal book boundary tripping the
+Block 1 line-range parser, not yet exercised against real data before
+now). Resolved by hand: appended the missing `1a`-`1d` entries to
+`librodm_foot.txt` directly, with the blank/"IV NEFI"/blank header in
+the exact form `append_block1()` would have produced (confirmed
+`extract_book_header()` returns "IV NEFI" for this page, matching
+Session A's analysis), and removed the manual header from this page
+file's own Block 1 section to match the established convention (seen
+in page 481) that book headers are never hand-typed in a page's own
+Block 1 — only `librodm_foot.txt`/`librodm.txt` carry them, inserted
+by the script. `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py` all clean
+against both master files after insertion; `librodm_foot.txt` line
+count and entry sequence (4300-4320,
+30a-h then IV NEFI header then 1a-d) manually verified correct.
+Session D (`generate_block2.py 549`): all 12 entries resolved cleanly to
+sequential numbers on the first pass — none stayed unresolved, and the
+"IV NEFI" book header was correctly auto-inserted into librodm.txt's
+Notas section this time (Block 1 in librodm_foot.txt now has the
+correct continuous-entries-plus-auto-header structure after the
+Session C fix, so this step's own book-boundary logic — which page
+481's Corrections log confirmed already works correctly across a page
+boundary — had no page-internal blank line left to trip on). Content-fit
+spot-checked for the mandatory-check entry's target (4024 -> 379 ->
+265, a broad Atonement/redemption master-reference chain — a
+reasonable if generic fit for v.2's "secretas abominaciones" repentance
+context) and several others (4026 -> 679, II Nefi 9 baptism verses,
+fits "bautizados"; 4031 -> 378, classic baptism proof-texts Acts
+2:38/Mark 1:4/Matt 3:5-6/Luke 3:3/John 3:5, fits "bautizados" exactly;
+4030 -> 3664 -> 1350, III Nefi 12's own disciples-teaching citation,
+fits "discípulos"); all plausible, no red flags.
+Session E: fresh pptext regeneration (`report_wsl_20260730b.html`).
+Spellcheck Suspect Words flagged three words from this page:
+"abomínaciones" (III Nefi 30:2, accented — NOT the same instance as
+the correctly-unaccented "abominaciones" nine words earlier in the
+same sentence), "remisióm" (III Nefi 30:2), and "trienta" (IV Nefi
+1:1). A fourth suspected misprint from this page, "ocurrio" (IV Nefi
+1:2, missing its accent), was NOT flagged by aspell — a known gap (see
+`libro_de_mormon_rules.md`'s pages-469-470 note) that does not clear a
+word, so it was researched anyway per the mandatory-check procedure.
+All four were checked against 1886 (pages_1886/page_0563.png for III
+Nefi 30, book page 545/file 563; pages_1886/page_0564.png for IV Nefi
+1, book page 546/file 564), the modern LDS Spanish edition
+(churchofjesuschrist.org, III Nefi 30 and IV Nefi 1), RAE DLE
+(WebSearch), and the three local reference corpora:
+- "abomínaciones" -> 1886 prints "abominaciones" (no accent, both
+  occurrences in the sentence); modern edition likewise unaccented in
+  both; RAE has no entry for the accented form; zero corpus hits.
+  Genuine 1920-only error, not shared with 1886. Added to `errors in
+  1920.txt` and `permitted words.txt`.
+- "remisióm" -> 1886 prints "remision" (ends in "n"); modern edition
+  "remisión"; RAE has no entry for "remisióm"; zero corpus hits.
+  Genuine 1920-only error. Added to `errors in 1920.txt` and
+  `permitted words.txt`.
+- "trienta" -> 1886 prints "tréinta" (accented, but no extra "i") at
+  all four instances of the word in this passage; modern edition
+  "treinta"; RAE has no entry for "trienta"; the only two corpus hits
+  are OCR noise in the archive.org Reina-Valera scan (same line also
+  contains obvious scannos "pagar4," "seflo"), not an attested form.
+  Genuine 1920-only error, distinct from 1886's own accent-placement
+  convention. Added to `errors in 1920.txt` and `permitted words.txt`.
+- "ocurrio" -> 1886 prints "ocurrió" (accented); modern edition
+  likewise "ocurrió"; grammar requires the accent (preterite,
+  stress on final vowel); "ocurrió" does not appear anywhere else in
+  the ~1.4MB document transcribed so far, only this one unaccented
+  instance. Genuine 1920-only error. Added to `errors in 1920.txt`
+  only — not flagged by pptext, so a `permitted words.txt` entry would
+  be a no-op per the established "Jesu Cristo" precedent.
+Full pptext report walkthrough for this page's new line range
+(librodm.txt 24495-24537 body/header, 28841-28856 Block 2) beyond the
+spellcheck section: Edit Distance (abomínaciones/remisióm/trienta
+above, plus an incidental "QUIÉN" vs. the unrelated pre-existing
+suspect "qulén" — not an issue, different word); Dash check
+(hyphen-minus bucket: 4022 "III Nefi 21:19-21" and 4029 "III Nefi
+2:6-8," both legitimate verse ranges, hyphens flanked by digits on
+both sides); Special situations "mixed letters and numbers in word"
+(only the already-known, already-logged "2j" from page 548's Block 2
+appears near this range — nothing new from page 549); "paragraph ends
+in comma" (line 24515 "LIBRO DE NEFI," — matches the established
+book-header-before-blank-line false-positive pattern exactly: next
+line blank, line after is the all-caps subtitle); short-lines hits
+throughout this page's range all matched the established verse-end/
+header/Block-2-entry false-positive categories. Footnote-anchor
+whole-document scan: max 4032 (matches this page's final marker), zero
+duplicates, only the long-documented 812 gap remains missing.
+Curly-quote scan: zero instances in either master file (re-verified
+with `Select-String`, not the unreliable `-split ''` character-count
+method that initially over-reported). `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py`/`check_lines.py`
+all clean against both whole master files after Session D.
+Narrow-space-vs-merge note for the editor (per the standing rule,
+surfaced here rather than mid-pipeline): IV Nefi 1:1 "que sepasó el
+año" was transcribed as "se pasó" (two words) by default, since
+grammar requires it and no one-word reading makes sense — worth a
+glance at pages_1920/page_0571.png (top of the IV Nefi 1 body, first
+line) whenever convenient, but not blocking anything.

@@ -1,0 +1,220 @@
+Página 556
+
+CAPÍTULO 2.
+
+1. Y sucedió, que en aquel [4080]mismo año se declaró de nuevo
+la guerra entre los Nefitas y Lamanitas. Y á pesar de mi
+juventud, era de una gran estatura, por tanto fuí nominado por
+los Nefitas, para que fuere su jefe, ó el jefe de sus ejércitos.
+2. Por lo tanto, aconteció que en el año diez y séis de mi
+edad me fuí á la cabeza de un ejército de Nefitas contra los
+Lamanitas; [4081]habiendo transcurrido trescientos veintiséis años.
+3. Y sucedió en el año trescientos veintisiete, que los Lamanitas
+vinieron sobre nosotros con tan gran fuerza que llenaron
+de espanto á mis ejércitos; por lo tanto no quisieron pelear, sino
+emprendieron la retirada hacia los países del [4082]Norte.
+4. Y sucedió, que llegamos á la ciudad de Angola, y tomamos
+posesión de ella, preparándonos para la defensa contra los
+Lamanitas. Y aconteció, que [4083]fortificamos la ciudad con todo
+nuestro poder. Pero á pesar de todas nuestras fortificaciones los
+Lamanitas cayeron sobre nosotros, y fuimos echados de la ciudad.
+5. Y nos echaron también del país de David.
+6. Y saliendo, nos fuímos al país de Josué, que estaba situado
+en las costas de la mar al Oeste.
+7. Y ocurrió, que reunimos á todo nuestro pueblo tan pronto
+como nos fué posible, para formar un solo cuerpo.
+8. Pero, he aquí, que se hallaba el país lleno de [4084]ladrones y de
+Lamanitas; y á pesar de la gran destrucción que le amenazaban,
+continuaba mi pueblo sin arrepentirse de sus maldades; por lo
+que la carnicería y el derrame de sangre cubrió todo el país,
+tanto de parte de los Nefitas como de la de los Lamanitas,
+hallándose el país por todas partes en una perpetua revolución.
+9. Y ahora, los Lamanitas tenían un rey que se llamaba [4085]Aarón;
+él que vino sobre nosotros á la cabeza de cuarenta y cuatro mil
+hombres. Y, he aquí, yo le salí al encuentro con cuarenta y dos
+mil hombres, y batiéndole con mi ejército, le hice emprender
+la fuga. Y, he aquí, que todo esto fué hecho, y se habían pasado
+trescientos trienta años.
+10. Y ocurrió, que entonces fué, cuando los Nefitas empezaron
+á arrepentirse de sus iniquidades, y á clamar al Señor tal como
+lo había predicho el profeta [4086]Samuel; porque, he aquí, que nadie
+podía conservar lo que era suyo, á causa de los ladrones, de los
+bandidos, de los asesinos, de los hechiceros, y de las artes de
+magia, y de los sortilegios que estaban en el país.
+
+2a, 4080: Mormón 1:12,15.
+2b, 4081: III Nefi 2:7-8.
+2c, 4082: Hacia Norte América.
+2d, 4083: Véase c, Alma 48.
+2e, 4084: Véase; 2c, IV Nefi 1.
+2f, 4085: Moroni 9:17.
+2g, 4086: Véase r, Mormón 1.
+
+Corrections:
+New chapter opens this page (CAPÍTULO 2.) with no subtitle line present
+in the image (checked the actual page per the standing rule -- some
+chapters have one, some don't; this one doesn't). Book itself does not
+change (still Mormón), so no book-name header/blank line in Block 1
+per rule 20 -- only the letter reset (1x -> 2a) signals the chapter
+boundary.
+Rule-31 space-before-punctuation instances found in the original print
+and normalized: v.2 "Lamanitas ; bhabiendo" ->
+"Lamanitas; [4081]habiendo"; v.3(cont.) "ejércitos ; por" ->
+"ejércitos; por"; v.8 "Lamanitas ; y" -> "Lamanitas; y"; v.8(cont.)
+"maldades ; por" -> "maldades; por"; v.9 "Aarón ;" -> "Aarón;"; v.10
+"Samuel ; porque" -> "Samuel; porque".
+Rule-7 hyphenated line-break rejoin: v.3 "Lamani-/tas" -> "Lamanitas",
+rejoined onto the first line (67 chars after rejoin, well under the
+73-char cap, so no rule-8 rebalancing needed). No other hyphenated
+line-break splits on this page.
+Rule 23/24 verse-citation formatting applied to Block 1 (per the
+document standard, not the printed original): entry 2a's "Mormón
+1:12, 15" (non-consecutive verses) -> "1:12,15"; entry 2b's "III Nefi
+2:7, 8" (consecutive verses) -> "2:7-8".
+Letter-to-verse mapping required active disambiguation, resolved via
+1879 (chapter_map.csv Mormón 2 row: 1879 file page 558/559, book page
+550/551): a 1920 image mark that looked like a genuine raised
+superscript appears in v.6 immediately before "fuímos" ("nos
+[mark]fuímos al país de Josué"), which would have made 8 body-text
+marks against only 7 lettered entries (a-g) in this page's own
+footnote block. Cross-checked against 1879 (pages_1879/page_0558.png,
+top crop): 1879 v.6 ("And we marched forth and came to the land of
+Joshua...") has NO footnote at all in the corresponding position --
+confirming the 1920 mark is stray print noise (a fleck/defect), not a
+genuine footnote letter, and it is NOT transcribed as a `[N]` marker.
+This also resolved which verse each of entries e/f/g actually
+annotates: 1879 shows letter "e" attached to "robbers" (v.8 "país
+lleno de ladrones"), matching entry e's target IV Nefi 1's own "2c"
+(the Gadianton robbers' reappearance there -- exact thematic fit,
+confirmed via pages_1879/page_0558.png bottom footnote block: "e, see
+2c, IV. Nep. 1."); letter "f" attached to "Aaron" (v.9, "was fAaron"),
+matching entry f "Moroni 9:17" (pages_1879/page_0559.png top, "9. And
+now the Lamanites had a king, and his name was fAaron"); and letter
+"g" attached to "Samuel" (v.10, "prophesied by gSamuel the prophet"),
+matching entry g "Véase r, Mormón 1" -- self-referencing back to the
+previous chapter's own entry r (Helamán 13/Mormón 2:10-15, the
+sorceries/witchcraft prophecy-fulfillment pair already logged on page
+555), an exact thematic fit for "tal como lo había predicho el
+profeta Samuel."
+Content-fit sanity check, remaining entries: entry a (Mormón 1:12,15)
+annotates "mismo año" (v.1, the same year fighting resumed) --
+Mormón 1:12 covers the same period the narrator is a youth appointed
+leader, consistent. Entry b (III Nefi 2:7-8) annotates "habiendo
+transcurrido trescientos veintiséis años" (v.2, the year count) --
+III Nefi 2:7-8 is itself a year-count/chronology passage, consistent.
+Entry c (Hacia Norte América) annotates "países del Norte" (v.3,
+retreat toward the north countries) -- a direct geographic gloss, not
+a cross-reference, exact fit. Entry d (Véase c, Alma 48) annotates
+"fortificamos" (v.4, fortifying the city) -- Alma 48 is Moroni's own
+account of fortifying Nephite cities, exact thematic fit.
+Suspected misprint -- preserved as printed per rule 32, to verify
+against 1886/RAE in Session E: v.9(cont.) "trescientos trienta años"
+(expected "treinta", thirty; confirmed at high zoom, reads clearly as
+"trienta" not "treinta" -- an apparent metathesis of "ei"/"ie").
+Suspected misprint/anomaly -- preserved as printed per rule 32, to
+verify against 1886 in Session E: Block 1 entry 2e prints as "Véase;
+2c, IV. Nefi 1." with a semicolon directly after "Véase" (confirmed at
+high zoom: a genuine semicolon glyph, matching the shape of other
+confirmed semicolons on this page, not a comma or stray speck).
+1879's corresponding entry reads simply "e, see 2c, IV. Nep. 1." with
+no equivalent punctuation, so this semicolon appears to be a 1920-only
+print anomaly; kept as printed (space before it removed per the
+standing rule-31 normalization) rather than silently dropped.
+Mandatory i/l/1 check (Section 8): not triggered -- none of this
+page's own letters (a-g) or cross-reference target letters (c, d's
+target c in Alma 48, e's target 2c in IV Nefi 1, g's target r in
+Mormón 1) are i, l, or 1. The 1879 cross-checking done above was for
+letter-to-verse mapping/content-fit purposes (see above), not this
+mandatory check.
+Google cross-check: this page opens with a chapter heading
+(`CAPÍTULO 2.`), so the blank line required after `Página 556` (rule 1)
+means `check_google_crosscheck.py`/`check_line_wrap.py`'s "stop at the
+first blank line" body-extraction convention reads zero body lines --
+a known blind spot (see page 505's 2026-07-25a session entry) --
+`check_google_crosscheck.py 556` accordingly reported 0 chars on my
+side and 0 candidates, which is not meaningful here. Did the manual
+equivalent instead: read `google_text_1920/page_0578.txt` in full
+against this transcription. Exact word-for-word match throughout,
+including confirming "trienta" (Google's OCR, trained on real type,
+also reads "trienta" rather than "treinta" -- corroborating evidence
+that this genuinely is what the print shows, strengthening the
+suspected-misprint finding above) and confirming no letter/word is
+present at the v.6 "fuímos" position (consistent with the stray-mark
+finding above -- neither 1879 nor Google's independent OCR pass sees
+anything there). Google's own footnote-block OCR (line 41) reads
+entry e's cross-reference target as bare "c" rather than "2c" and
+drops the semicolon-vs-comma distinction -- expected unreliability for
+small superscript/digit combinations in the citation block, not
+treated as evidence against the direct zoomed pixel reading of "2c"
+recorded above.
+Session B: independently re-verified all 7 Block 1 entries and all 7
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly, including the stray unlettered mark before v.6
+"fuímos" (still visible in the fresh crop, still not transcribed, per
+Session A's finding). No letters on this page are i, l, or 1, so the
+mandatory 1879 check does not apply. No corrections needed from
+Session B.
+Session C (`insert_body_text.py 556`): body text inserted before
+`Notas` and all 7 Block 1 entries appended to librodm_foot.txt cleanly,
+no blank line (same book, chapter boundary only -- rule 20), no manual
+intervention needed.
+Session D (`generate_block2.py 556`): 6 of 7 entries resolved cleanly,
+including two cross-references (Véase c, Alma 48 -> 2823, a
+fortification-themed target consistent with entry d's content-fit
+note above; Véase r, Mormón 1 -> 4079, matching page 555's own entry
+1r as expected). Entry 2e (Véase; 2c, IV Nefi 1) stayed unresolved, as
+expected -- IV Nefi comes before Mormón in canonical book order but
+hasn't been transcribed by this project yet (Book of Mormon pages are
+being transcribed out of canonical order at this point in the
+project); will resolve automatically via a future
+`generate_block2.py --fix-unresolved` run once IV Nefi 1 is done.
+Session E: fresh pptext regeneration (`report_wsl_20260731d.html`,
+live WSL run). Both suspected misprints confirmed and resolved:
+"trienta" turned out to already be a documented recurring 1920 error
+pattern (three prior instances already logged at IV Nefi 1:1,1:4,1:6,
+transcribed earlier in this project despite coming first in canonical
+order) -- 1886 (pages_1886/page_0571.png, book page 553/file 571)
+confirms "tréinta" (accented, no extra "i") at this exact spot, and
+the modern LDS Spanish edition (churchofjesuschrist.org, Mormón 2:9)
+uses "treinta"; added as a new instance of the same pattern at Mormón
+2:9 in `errors in 1920.txt` (already covered in `permitted words.txt`
+via the earlier IV Nefi entries, so no new permitted-words addition
+needed for this word). The Block 1 entry 2e semicolon anomaly was also
+confirmed via 1879 (no equivalent punctuation in the parallel English
+entry) and added to `errors in 1920.txt` as a Footnote-style entry
+(1886 has no footnote apparatus to compare against); preserved as
+printed in Block 1/Block 2 per rule 32. Spellcheck Suspect Words
+section: two hits from this page's range, both reviewed and added to
+`permitted words.txt` -- "Angola" (Book of Mormon place name, v.4, no
+error) and "séis" (archaic accented form of "seis," matches 1886's own
+accented "séis" at this exact spot, consistent with this document's
+established "veintiséis" pattern used unflagged elsewhere). Edit
+Distance Checks: "séis" also paired against "seis"/"dais"/"sois"/
+"usáis"/"veis," consistent with the same archaic-accent explanation,
+no further action. "trienta" itself was NOT flagged by pptext's
+spellcheck section -- expected, both because of the known aspell gap
+for rare single-occurrence misprints (see the pages 469-470 precedent)
+and because the word is already suppressed via `permitted words.txt`
+from the earlier IV Nefi entries; its absence from the spellcheck
+section is not evidence it's fine, per that same precedent, and it was
+logged in `errors in 1920.txt` on the strength of the 1886/modern-
+edition comparison regardless. Full report walkthrough beyond
+spellcheck (filtered to this page's line ranges, librodm.txt
+24797-24840 body / 29217-29223 Block 2): all remaining hits fell into
+already-established non-issue categories -- short lines check (ordinary
+short verse-final/Block 2 lines), dash check (the legitimate verse-
+range hyphen in "III Nefi 2:7-8"), and special situations' "mixed
+letters and numbers in word" (the footnote cross-reference forms "2c"/
+"2j," already-established non-issue) and "standalone 1" (the
+`chapter:verse` citation "Mormón 1:12,15," already-established
+non-issue). Footnote-number sweep (whole document): footnotes
+4080-4086 are contiguous, gap-free, and duplicate-free; only
+pre-existing gap in the whole document remains the long-documented
+footnote 812 (Jacob 2:15). Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both
+master files (the two pre-existing `librodm_foot.txt` lines over 79
+chars, at lines 541 and 664, are unrelated to this page and predate
+it). An independent curly-quote character scan of both master files
+also found zero curly quotes.

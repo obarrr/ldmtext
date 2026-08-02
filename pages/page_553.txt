@@ -1,0 +1,175 @@
+Página 553
+37. Así que los verdaderos creyentes del Cristo y los verdaderos
+adoradores del Cristo, entre los cuales se hallaban los
+[4054]tres discípulos de Jesús, que tenían que quedar, eran llamados
+Nefitas. Jacobitas, Josefitas y Zoramitas.
+38. Y ocurrió, que los que desechaban el evangelio, eran
+llamados Lamanitas, Lemuelitas é Ismaelitas; los que si bien
+no habían caído en la incredulidad, se rebelaban [4055]abiertamente
+contra el evangelio de Cristo; enseñando á sus hijos á que no
+creyeran, como lo habían hecho sus padres desde el princiopio;
+39. Lo que sucedió á causa de la maldad y abominaciones de
+sus padres, lo mismo como fué en el principio, enseñándoles á
+despreciar á los hijos de Dios del mismo modo, como los Lamanitas
+habían enseñado á sus hijos, á que [4056]despreciaran y odiaran
+á los hijos de los Nefitas, desde el principio.
+40. Y occurrió, que ya se habían transcurrido doscientos cuarenta
+y cuatro años, y así se hallaban los negocios del pueblo. Y la
+parte más mala había aumentado extraordinariamente, habiéndose
+hecho más numerosa que el pueblo de Dios.
+41. Y continuaron todavía levantando iglesias por sí mismos,
+y adonándolas con toda clase de objetos preciosos. Y así se
+pasaron doscientos cincuenta años, y también doscientos sesenta
+años.
+42. Y sucedió, entonces que la parte más mala del pueblo
+empezó otra vez á organizarse con aquellos [4057]secretos juramentos
+y combinaciones de Gadianton.
+43. Y también el pueblo que era llamado el pueblo de Nefi,
+empezó á llenarse de orgullo en sus corazones, á causa de sus
+excesivas riquezas, envaneciéndose lo mismo que sus hermanos,
+los Lamanitas.
+44. Desde esta época empezaron á afligirse los [4058]discípulos
+por los pecados del mundo.
+45. Y ocurrió que, después que pasaron trescientos años, los
+Nefitas lo mismo que los Lamanitas, se habían convertido en
+un pueblo excesivamente corrompido, tanto unos como otros.
+46. Sucediendo que los [4059]ladrones de Gadianton se habían
+repartido por toda la extensión del país, sin que hubiera más
+hombres justos que los discípulos de Jesús. Y oro y plata
+acumulaban ellos en abundancia, y se entregaban á toda clase
+de tráficos.
+47. Y sucedió, que al concluir el año trescientos cinco, murió
+Amos, (y el pueblo continuó en su perversidad); y su hermano
+Ammarón se encargó de los anales en su lugar.
+48. Y sucedió, que después de haberse transcurrido trescientos
+
+1z, 4054: Véase d, III Nefi 28.
+1-2a, 4055: III Nefi 27:32; Mormón 1:16.
+1-2b, 4056: Véase n, Jacob 7.
+1-2c, 4057: Véase i, II Nefi 10; Helamán 2:3-14.
+1-2d, 4058: III Nefi 28:9.
+1-2e, 4059: Véase 2c.
+
+Corrections:
+No book/chapter boundary on this page (continues IV Nefi chapter 1);
+page begins with a fresh verse number (37.), no blank line after
+"Página 553" per established convention for a page opening on a new
+verse (matches page 500/505/509/552/etc. precedent).
+Rule-7 hyphenated line-break rejoins (4 instances, all under the
+72-char cap after rejoining, no rule-8 rebalancing needed): "verda-
+/deros" -> "verdaderos"; "Laman-/itas" -> "Lamanitas"; "cuaren-/ta"
+-> "cuarenta"; "habién-/dose" -> "habiéndose".
+Rule-31 space-before-punctuation instances found in the original
+print and normalized: v.38 "Ismaelitas ;" -> "Ismaelitas;"; v.38
+"Cristo ;" -> "Cristo;"; v.38 "princiopio ;" -> "princiopio;"; v.47
+"perversidad) ;" -> "perversidad);".
+Rule-6 justification-widened gap normalized to a single space (v.38
+opening, "los  que" -> "los que"); no flag needed per the standing
+rule.
+Marker before "Josefitas" (v.37, "Jacobitas, [mark]Josefitas y
+Zoramitas") is a print smudge/ink blot, not a genuine footnote
+superscript -- confirmed via Google OCR
+(`google_text_1920/page_0575.txt` line 4 reads "Jacobitas, Josefitas
+y Zoramitas." with no glued character at all, unlike the genuine
+"tres" marker two lines above which Google's OCR misread as a
+stray quote mark, a known artifact of a real superscript in this
+font) and via content implausibility (no plausible footnote citation
+would attach to a bare tribe-name list item; 1879
+(pages_1879/page_0555.png, book page 547) confirms no footnote mark
+on "Josephites" at the
+parallel spot in either its v.36 or v.37 tribe-name lists). Not
+logged as an error since it is a scan/print speck, not a defect
+meaningful to a reader.
+Suspected misprints -- preserved as printed per rule 32, to verify
+against 1886/RAE in Session E: v.38 "princiopio" (extra "o"; expected
+"principio"); v.40 "occurrió" (double c; this same page's own v.38/
+v.45 both correctly print single-c "ocurrió", making v.40's doubled
+form look like an isolated misprint rather than a page-wide variant
+spelling); v.41 "adonándolas" (missing "r"; expected "adornándolas",
+"adorning them" per 1879 "adorn them").
+Mandatory i/l/1 check (Section 8): of this page's six footnote
+letters (z, 2a, 2b, 2c, 2d, 2e), none is itself i/l/1. One
+cross-reference target letter, entry 1-2c's "Véase i, II Nefi 10,"
+IS in the mandatory set. Independently CONFIRMED via 1879
+(pages_1879/page_0555.png, book page 547, bottom footnote block):
+"2c, see i, II. Nep. 10. Hela. 2:3-14." -- a clear italic "i" with a
+separated dot, unambiguously distinct from "l."
+Full 1879 cross-check (Section 8): all six Block 1 entries
+independently confirmed letter-for-letter and reference-for-reference
+against pages_1879/page_0555.png (book page 547, bottom footnote
+block): "z, see d, III. Nep. 28. 2a, III. Nep. 27:32. Mor. 1:16. 2b,
+see n, Jacob 7. 2c, see i, II. Nep. 10. Hela. 2:3-14. 2d, III. Nep.
+28:9. 2e, see 2c." -- an exact match to all six 1920 entries, letter
+sequence continuing correctly from page 552's final letter "y."
+Content-fit sanity check: entry z ("Véase d, III Nefi 28") annotates
+"tres discípulos de Jesús" (v.37) -- the same three-disciples
+cross-reference already established on page 552, exact match. Entry
+2a ("III Nefi 27:32; Mormón 1:16") annotates "abiertamente" (v.38,
+open rebellion against the gospel) -- thematically consistent, and
+independently confirmed via the 1879 letter-for-letter match above.
+Entry 2b ("Véase n, Jacob 7") annotates "despreciaran y odiaran"
+(v.39) -- Jacob 7 (Sherem's anti-Christ contention) fits a
+despising/hating theme. Entry 2c ("Véase i, II Nefi 10; Helamán
+2:3-14") annotates "secretos juramentos" (v.42, Gadianton's secret
+oaths) -- Helamán 2:3-14 is the actual introduction of Gadianton's
+secret combinations, an exact thematic match. Entry 2d ("III Nefi
+28:9") annotates "discípulos" (v.44, the disciples sorrowing for the
+sins of the world) -- III Nefi 28:9 covers the three disciples'
+desire/sorrow, a good match. Entry 2e ("Véase 2c") annotates
+"ladrones" (v.46, robbers of Gadianton) -- a same-page self-reference
+back to entry 2c's Gadianton citation, an exact fit. All six
+plausible, no red flags.
+Google cross-check (`check_google_crosscheck.py`, to be run in
+Session A step 10): the only body-text discrepancy versus
+`google_text_1920/page_0575.txt` beyond the already-addressed
+Josefitas smudge is the expected footnote-marker glue/misread noise
+at known marker positions (e.g. Google's dropped/garbled digits in
+its own OCR of the footnote block, and reading the "tres" marker as
+a stray quote mark) -- nothing else survived as a candidate.
+Page ends mid-verse 48 (continues on page 554); "trescientos" is not
+hyphenated at the page break in the source, so no rule-10 word-split
+handling applies here.
+Session B: independently re-verified all 6 Block 1 entries and all 6
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) -- all reference text and marker placements confirmed
+matching exactly. The mandatory i/l/1 check (entry 1-2c's "Véase i")
+was independently re-confirmed via a fresh crop of
+pages_1879/page_0555.png (bot band): "z, see d, III. Nep. 28. ...
+n, Jacob 7. 2c, see i, II [Nep. 10] ... 2e, see 2c." -- a clear
+italic "i" with a separated dot, unambiguously distinct from "l,"
+matching Session A's reading exactly. No corrections needed from
+Session B.
+Session E: fresh pptext regeneration (`report_wsl_20260731.html`,
+built from a fresh WSL run, not reused from any prior date). All
+three suspected misprints flagged at transcription time were resolved
+as genuine, isolated 1920-only errors and added to `errors in
+1920.txt` and `permitted words.txt`: v.38 "princiopio" (1886,
+pages_1886/page_0567.png book page 549/file 567, prints "principio"
+correctly; RAE has no entry for "princiopio"; zero hits in all three
+reference corpora); v.40 "occurrió" (same 1886 page prints "ocurrió"
+correctly; this is the same recurring double-c error pattern already
+documented at 1 Nefi 13:20 and Alma 55:4, and the word form is
+already in `permitted words.txt` from those entries); v.41
+"adonándolas" (same 1886 page prints "adornándolas" complete; the
+document itself uses "adornar"/"adornado"/"adornan" with "r"
+elsewhere with no other "adonar" instance; although "adonar" is a
+genuine archaic RAE-attested variant of "adornar" dating to the 14th
+century, it has zero hits in all three reference corpora including
+the classical-register Quijote, so combined with the exact 1886
+mismatch and the document's own internal "adornar" consistency this
+is judged a typo, not a deliberate archaic form). The "Josefitas"
+smudge (v.37) was independently re-confirmed as a print speck, not
+a footnote, via the same Google OCR evidence noted in Session A.
+Full pptext report walkthrough beyond spellcheck: no new dash,
+footnote-anchor, scanno, curly-quote, or special-situations hits for
+this page's line range; edit-distance section only reconfirmed the
+already-handled princiopio/principio pair. Footnote scan (whole
+document): zero duplicates, max 4059, only the long-documented 812
+gap remains. Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both
+master files -- the only `check_lines.py` "trailing hyphen" hits
+document-wide are the three already-established legitimate Spanish
+compound-word hyphens (`sexagésimo-quinto`, `sexagésimo-octavo`,
+`sumo-sacerdote`), none related to this page. Independent curly-quote
+character scan of both master files: zero curly quotes found.

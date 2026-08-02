@@ -1,0 +1,160 @@
+Página 559
+díle: Arrepentíos, y venid á mí; [4098]bautizáos, y restableced mi
+iglesia, y seréis conservados.
+3. Y yo clamé á este pueblo, pero fué en vano; y no podían
+comprender como el Señor les había perdonado, y les había
+proporcionado una oportunidad, para que se arrepintieren. Y
+así endurecían sus corazones contra el Señor, su Dios.
+4. Y aconteció, que después que se hubieron pasado estos
+diez años, haciendo entre todos, trescientos sesenta años desde
+la venida del Cristo, el rey de los Lamanitas mandó una epístola
+en la que daba conocimiento de que se estaban preparando para
+venir otra vez á pelear contra nosotros.
+5. Y ocurrió, que hice que mi pueblo se reconcentrase en el
+[4099]país de Desolación, en una ciudad que se hallaba en los confines
+de este país, no lejos del [4100]estrecho pasaje, que conduce á la
+[4101]región del Sud.
+6. Y allí situamos á nuestros ejércitos con el objeto de detener
+á los ejércitos de los Lamanitas, y de impedirles que no se apoderaran
+de ninguna de nuestras posesiones; por lo tanto, nos
+[4102]fortificámos allí contra ellos con todas nuestra fuerzas.
+7. Y aconteció, en el año siguiente que vinieron los Lamanitas
+contra nosotros á la [4103]ciudad de Desolación á darnos la batalla;
+pero sucedió, en aquel año que les derrotamos de tal
+manera, que se volvieron á su propio país.
+8. Y en el año trescientos sesenta y dos volvieron otra vez
+al combate; y por segunda vez los derrotamos también, matándoles
+mucha gente, cuyos cuerpos fueron arrojados al mar.
+9. Y entonces, animados los Nefitas con el gran suceso que
+obtuvieron sus armas, empezaron á enorgullecerse en sus propias
+fuerzas, y empezaron á jurar delante de los cielos, que tomarían
+venganza de la sangre de sus hermanos, que habían sido matados
+por sus enemigos.
+10. Jurando por el cielo y también por el trono de Dios que
+irían á combatir á sus enemigos, y que les cortarían de sobre
+la faz de la tierra.
+11. Y ocurrió, que á partir de este momento yo, Mormón,
+me rehusé completamente de continuar más como comandante
+y director de este pueblo, á causa de sus maldades y abominaciones.
+12. He aquí, que á pesar de sus iniquidades, yo les había
+conducido muchas veces al combate; y les había amado con
+todo mi corazón según el amor de Dios que estaba en mí; y había
+exaltado mi alma á Dios, durante todo el día por ellos; no
+obstante, que no tenía fe á causa del endurecimiento de sus
+corazones.
+
+3a, 4098: Véase u, II Nefi 9.
+3b, 4099: Véase 2l, Alma 22.
+3c, 4100: Véase 2v, Alma 22.
+3d, 4101: Sur América.
+3e, 4102: Véase c, Alma 48.
+3f, 4103: Véase 2l, Alma 22.
+
+Corrections:
+Rule-7 hyphenated line-break rejoins (4): v.6 "apo-/deraran" ->
+"apoderaran" (70 chars after rejoin, under the 73-char cap); v.7
+"ba-/talla" -> "batalla" (68 chars); v.8 "matán-/doles" ->
+"matándoles" (64 chars); v.11 "abomina-/ciones" -> "abominaciones"
+(the whole word migrated to the first line since the second line
+contained nothing else, so that raw line disappears entirely, 67
+chars after rejoin). No rule-8 rebalancing needed for any of the
+four.
+Rule-31 space-before-punctuation instances found in the original
+print and normalized (9): v.2 "díle : Arrepentíos" -> "díle:
+Arrepentíos"; v.2 "mí ; bautizáos" -> "mí; bautizáos"; v.3 "vano ; y
+no podían" -> "vano; y no podían"; v.6 "posesiones ; por lo tanto" ->
+"posesiones; por lo tanto"; v.7 "batalla ; pero sucedió" -> "batalla;
+pero sucedió"; v.8 "combate ; y por segunda" -> "combate; y por
+segunda"; v.12 "combate ; y les había" -> "combate; y les había";
+v.12 "mí ; y había" -> "mí; y había"; v.12 "ellos ; no" -> "ellos;
+no".
+Justification-widened double-spaces normalized to single spaces per
+the standing rule (not logged as errors): v.3 "arrepintieren.  Y" ->
+"arrepintieren. Y"; v.5 "pasaje,  que conduce" -> "pasaje, que
+conduce"; v.10 "les  cortarían" -> "les cortarían".
+Suspected misprint investigated and resolved as normal print, not a
+misprint: v.12 "corazón" -- at the standard crop zoom the acute
+accent on the "o" appeared to merge with the letter, giving a
+"corazbn"-like impression (same visual phenomenon as page 558's
+"vimos"/"vimbs" case). A high-zoom crop (30x, isolated to just that
+letter) showed a normal acute accent mark positioned above-right of
+an ordinary round "o" bowl, consistent with this font's other "ó"
+instances -- not a genuine ascender/blob. Transcribed as "corazón,"
+not logged as an error.
+Mandatory i/l/1 check: this page's own chapter-3 lettering (a-f)
+contains no i/l/1 letters directly, but two cross-reference target
+codes (entries 3b and 3f) are hard-to-read two-character swash codes
+in the 1920 font, both reading "2l" (Alma 22's own footnote sequence
+past z). Confirmed via 1879 (pages_1879/page_0561.png, book page 553,
+footnote block below v.9: "b, see 2 l, Alma 22." and "f, see 2 l,
+Alma 22.") -- both editions read identically, letter-for-letter
+matching the resolved 1920 codes, and 1879's clearer serif font
+leaves no ambiguity between "l" and "i"/"1" for either instance.
+Full 1879 cross-check: all 6 Block 1 entries (3a-3f) confirmed
+reference-for-reference against pages_1879/page_0561.png (book page
+553); entry-for-entry exact match, no translation-artifact letter
+mismatches this page.
+Google-text cross-check (`check_google_crosscheck.py 559`): 2
+candidates beyond the auto-dismissed footnote-marker-glue noise.
+Near v.2: google's OCR read "...mí;aba..." where mine has
+"...mí;[4098]bautizáos..." -- google glued the superscript "a" onto
+the following word ("abautizáos"), the same known OCR weak spot at a
+footnote-marker position, just landing on the far side of the strip
+threshold instead of being auto-dismissed; the marker position and
+"a" letter were already independently confirmed directly from the
+image at transcription time. Near v.10/11 boundary: google inserted
+an extra stray dot-like character between "tierra." and "11." not
+present in the source at that position -- consistent with the small
+printer's-ornament dots scattered elsewhere on this page's images
+(visible near the footnote block), not real text. Both resolved as
+OCR noise, no correction needed.
+Session E: fresh pptext regeneration (`report_wsl_20260801c.html`, live
+WSL run). Spellcheck Suspect Words: zero hits from this page's range
+(checked against the full section listing, not just a line-number
+filter). Edit Distance Checks: zero hits from this page's range.
+Footnote scan (whole document): footnotes 4098-4103 contiguous,
+gap-free, duplicate-free, in-range; only pre-existing gap remains the
+long-documented footnote 812. Full report walkthrough beyond
+spellcheck: all hits in this page's line ranges (body 24928-24980,
+Block 2 29365-29374) fell into the already-established "short lines
+check" non-issue category (ordinary short verse-final/Block 2 lines).
+Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both master
+files (the two pre-existing `check_lines.py` hyphen-rejoin advisories
+are on unrelated earlier pages, not this page). An independent
+curly-quote character scan of both master files also found zero curly
+quotes.
+Suspected-misprint Corrections-log sweep (mandatory per-page check):
+the one flagged item from this page (v.12 "corazón") was already
+resolved as normal print (not a misprint) during Session A via a
+high-zoom crop; additionally checked here against 1886
+(pages_1886/page_0574.png, book page 556, v.12: "todo mi corazon
+segun el amor de Dios") -- 1886 reads the same word (unaccented, as
+1886 often is), corroborating this is simply "corazón" with no
+misprint of any kind. No `errors in 1920.txt` entry needed.
+No narrow-space-vs-merge defaults were applied on this page (no tight
+word-pairs required the two-word default), so nothing to batch as an
+editor pointer this session.
+Session B: independently re-verified all 6 Block 1 entries and all 6
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A), and re-ran the mandatory 1879 check on entries 3b/3f
+from a fresh crop of pages_1879/page_0561.png. All reference text and
+marker placements confirmed matching exactly, no corrections needed.
+Content-fit sanity check: entry a (Véase u, II Nefi 9) annotates
+"bautizáos" (v.2, be baptized) -- II Nefi 9 is a major doctrinal
+chapter on repentance, baptism, and the Atonement, a thematically
+plausible fit. Entry b (Véase 2l, Alma 22) annotates "país de
+Desolación" (v.5) and entry f (Véase 2l, Alma 22) annotates "ciudad
+de Desolación" (v.7) -- Alma 22 is the chapter that names and
+describes the land of Desolation as part of its Nephite/Lamanite
+land-geography discourse, an exact thematic match for both. Entry c
+(Véase 2v, Alma 22) annotates "estrecho pasaje" (v.5, narrow passage)
+-- Alma 22 also describes the narrow strip of land/narrow passage
+between the lands, an exact match. Entry e (Véase c, Alma 48)
+annotates "fortificámos" (v.6, fortified) -- Alma 48 is Moroni's own
+fortification chapter, an exact match (same target as page 558's
+entry n for the same word "fortificamos"). Entry d (Sur América)
+annotates "región del Sud" (v.5) and is a self-explanatory place-name
+gloss, not a cross-reference, so no further content-fit check applies
+to it.

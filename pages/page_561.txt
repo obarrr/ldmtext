@@ -1,0 +1,152 @@
+Página 561
+
+CAPÍTULO 4.
+
+1. Y ahora, aconteció, que en el año trescientos sesenta y tres,
+los Nefitas fueron del [4116]país de Desolación, para ir con sus
+ejércitos á combatir con los Lamanitas.
+2. Y ocurrió, que los ejércitos de los Nefitas fueron rechazados
+y obligados á volver otra vez al país de Desolación, sucediendo
+después que, cuando se hallaban cansados, cayó sobre ellos un
+cuerpo nuevo de Lamanitas, y tuvieron una gran pelea, de tal
+manera que los Lamanitas tomaron posesión de la [4117]ciudad de
+Desolación, matando á muchos de los Nefitas, y cogiendo á
+muchos prisioneros;
+3. Y el resto de ellos escapó á refugiarse en la [4118]ciudad de
+Teáncum, dónde se unieron con sus habitantes. La ciudad de
+Teáncum está situada en las costas del mar, cerca de la [4119]ciudad
+de Desolación.
+4. Y fué á causa de haber ido los ejércitos de los Nefitas en
+contra de los Lamanitas, que empezaron á decaer; porque á no
+haber sido por eso, los Lamanitas no hubieran tenido poder
+sobre ellos.
+5. Pero, he aquí, que los juicios de Dios alcanzarán á los malos;
+y es por los malos, por quiénes los malos son castigados; porque
+ellos son los que excitan los corazones de los hombres al derrame
+de sangre.
+6. Y sucedió que los Lamanitas empezaron á hacer preparativos
+para caer sobre la ciudad de Teáncum.
+7. Y ocurrió en el año trescientos sesenta y cuatro, vinieron
+los Lamanitas sobre la [4120]ciudad de Teáncum, con objeto de tomar
+posesión de ella.
+8. Pero sucedió que fueron rechazados por los Nefitas, que les
+obligaron á retirarse. Y cuando los Nefitas vieron que habían
+obligado á los Lamanitas á retirarse, se jactaron [4121]otra vez de
+su propia fuerza; y fiados en ella, cayeron sobre la [4122]ciudad de
+Desolación, y tomaron posesión de ella.
+9. Y en estos acontecimientos perecieron muchos miles de
+hombres, tanto de parte de los Nefitas como de los Lamanitas.
+10. Y sucedió, que se había ya pasado el año trescientos sesenta
+y seis, y volvieron otra vez los Lamanitas á pelear contra los
+Nefitas; y sin embargo, los Nefitas no se arrepentían de los
+pecados que habían cometido, sino que persistieron continuamente
+en su maldad.
+
+4a, 4116: Véase 2l, Alma 22.
+4b, 4117: Véase 2l, Alma 22.
+4c, 4118: Versículos 6-7,14.
+4d, 4119: Véase 2l, Alma 22.
+4e, 4120: Véase c.
+4f, 4121: Mormón 3:9.
+4g, 4122: Véase 2l, Alma 22.
+
+Corrections:
+Rule-8 rebalancing (1): v.1 inserting footnote marker [4116]
+pushed "los Nefitas fueron del [4116]país de Desolación, para ir
+con sus ejércitos" to 74 characters, at/over the rule-9 cap, so
+"ejércitos" was moved to start the next line instead, per rule 8.
+Rule-31 space-before-punctuation instances found in the original
+print and normalized (6): v.2 "prisioneros ;" -> "prisioneros;";
+v.4 "decaer ; porque" -> "decaer; porque"; v.5 "malos ;" ->
+"malos;"; v.5 "castigados ; porque" -> "castigados; porque"; v.8
+"fuerza ; y" -> "fuerza; y"; v.10 "Nefitas ; y" -> "Nefitas; y".
+Rule-7 hyphenated line-break rejoin (1): v.10 "continua-/mente" ->
+"continuamente" (rejoined onto the first line: 64 chars, well
+under the rule-9 cap, so no rule-8 rebalancing needed).
+Justification-spacing normalization, double space to single (rule
+6, no errors-log entry needed): v.3 "habitantes.  La ciudad" ->
+"habitantes. La ciudad"; v.8 "retirarse.  Y cuando" -> "retirarse.
+Y cuando".
+Mandatory i/l/1 check: this chapter's own lettering (a-g) contains
+no i/l/1, but four "Véase" cross-references (entries a, b, d, g)
+target letter "l" in the two-letter form "2l" (Alma 22's
+second-round-of-the-alphabet lettering per rule 16's "2a, 2b..."
+convention), which falls within the mandatory set. Confirmed via
+1879: pages_1879/page_0563.png (book page 555, entries a-f: "a,
+see 2l, Alma 22." / "b, see 2l, Alma 22." / "d, see 2l, Alma 22.")
+and pages_1879/page_0564.png (book page 556, entry g: "g, see 2l,
+Alma 22.") — exact match for all four instances, resolving the
+1920 swash-font ambiguity between "l" and "2l" unambiguously.
+Content-fit sanity check: entries a, b, d, g (Véase 2l, Alma 22)
+all annotate "país/ciudad de Desolación" (v.1, 2, 3, 8) — Alma 22
+is the Nephite geography chapter, a direct thematic match. Entry c
+(Versículos 6-7,14, a self-reference within this chapter) and
+entry e (Véase c) both annotate "ciudad de Teáncum" (v.3, 7) —
+internally consistent, same target concept. Entry f (Mormón 3:9)
+annotates "se jactaron otra vez" (v.8, boasted again) — Mormón 3
+contains an earlier boasting passage, a thematic match.
+Narrow-space-vs-merge default applied (1, editor pointer per the
+rule 6 note — not raised as a standalone question during Sessions
+A-D, surfaced here for Session E's summary): v.10 "que se había" —
+the 1920 print shows "que" and "se" essentially touching, tighter
+than the surrounding word spacing on the same line, but grammar
+requires two words ("que" + reflexive "se había pasado", "that had
+passed"). Transcribed as two words per the established default.
+Verified, not a misprint: v.1 "que en el año" — zoomed and
+confirmed genuine (if narrow, justification-tightened) spaces
+between all three words; not a repeat of the page 442 "en al año"
+precedent.
+Preserved as printed, not flagged as a misprint: v.5 "por quiénes
+los malos son castigados" — accented relative "quiénes" mirrors
+this edition's established pattern of accenting relative/
+interrogative-form pronouns (cf. "dónde" used as a relative in
+v.3 here, and in prior pages' Corrections logs).
+No chapter/book subtitle line present between "CAPÍTULO 4." and
+v.1 (checked the image directly); this chapter opens with no
+subtitle, unlike Helamán 7/13.
+check_line_wrap.py / check_google_crosscheck.py both report 0
+body-text lines for this page (not a real defect): both scripts'
+body_lines() heuristic stops at the first blank line after
+"Página N", which here is the blank line before "CAPÍTULO 4." per
+rule 1's page-opens-with-chapter-heading format — a pre-existing
+tool limitation, not specific to this page (page 556, an earlier
+accepted page with the identical opens-with-chapter-heading
+structure, shows the same 0-line result under check_line_wrap.py).
+The per-line image read required by rules 5/6 was still done
+directly against the top/mid/bot crops for every body line.
+Session B: independently re-verified all 7 Block 1 entries and all
+7 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A), and re-ran the mandatory 1879 check on the
+four "2l" cross-references from a fresh crop of
+pages_1879/page_0563.png (book page 555, entries a-f) plus the
+earlier full-page read of pages_1879/page_0564.png (book page 556,
+entry g). All reference text and marker placements confirmed
+matching exactly, no corrections needed.
+Session E: fresh pptext regeneration (`report_wsl_20260801e.html`,
+live WSL run). Spellcheck Suspect Words: zero hits from this page's
+range. Edit Distance Checks: zero hits from this page's range.
+Footnote scan (whole document, computed directly from `[N]` markers
+in librodm.txt): footnotes 4116-4122 contiguous, gap-free,
+duplicate-free, in-range; only pre-existing gap remains footnote
+812. Full report walkthrough beyond spellcheck: special situations
+and paragraph-level checks (including "full stop followed by
+unexpected sequence") produced zero hits from this page's content.
+Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`) all clean against both master files. An
+independent curly-quote character scan of both master files also
+found zero curly quotes.
+Corrections-log sweep (mandatory per-page check): the two
+preserved-as-printed notes from this page ("que en el año" and
+"por quiénes ... quiénes") were checked against 1886
+(pages_1886/page_0575.png, book page 557, and page_0576.png, book
+page 558). v.5 "por quiénes" — 1886 reads unaccented "por quienes",
+confirming the 1920 accent is the same house-style addition already
+seen with "dónde" (v.3 here and prior pages), not a substantive
+error; not added to `errors in 1920.txt` (accent-only variance, and
+"quiénes" is already a standard Spanish word so no `permitted
+words.txt` entry is needed either). The narrow-space-vs-merge
+default (v.10 "que se había") is additionally corroborated by 1886,
+which also prints normal, unmerged spacing at the parallel spot.
+No new `errors in 1920.txt` or `permitted words.txt` entries
+resulted from this page.

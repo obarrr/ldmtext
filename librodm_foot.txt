@@ -4288,3 +4288,138 @@ IV Nefi 1:14,37; Mormón 8:10-12; Ether 12:17.
 28u, 4000: Mormón 8:11.
 28v, 4001: Versículo 9.
 28w, 4002: Versículos 30-33.
+28x, 4003: Véase w.
+28y, 4004: III Nefi 26:6-12.
+28z, 4005: Éther 4:8-12.
+28-2a, 4006: Versículos 13-16.
+28-2b, 4007: Versículo 17.
+28-2c, 4008: Véase d.
+28-2d, 4009: Versículo 9.
+28-2e, 4010: Versículo 20.
+28-2f, 4011: Versículo 8.
+29a, 4012: Véase c, II Nefi 27.
+29b, 4013: Véase 2j, III Nefi 15.
+29c, 4014: Véase j, III Nefi 15.
+29d, 4015: Véase 2b, III Nefi 21.
+29e, 4016: Mormón 9:7-11,15-26; Moroni 7:35-38; 10:19-29.
+29f, 4017: III Nefi 27:32.
+29g, 4018: Véase j, III Nefi 15.
+29h, 4019: Véase 2b, III Nefi 21.
+29i, 4020: Véase j, III Nefi 15.
+30a, 4021: Mormón.
+30b, 4022: III Nefi 21:19-21.
+30c, 4023: Véase v, II Nefi 9.
+30d, 4024: Véase i, II Nefi 10.
+30e, 4025: Véase z, II Nefi 26.
+30f, 4026: Véase u, II Nefi 9.
+30g, 4027: Véase v, III Nefi 9.
+30h, 4028: Véase z, III Nefi 16.
+
+IV NEFI
+
+1a, 4029: III Nefi 2:6-8.
+1b, 4030: Véase c, III Nefi 12.
+1c, 4031: Véase u, II Nefi 9.
+1d, 4032: Véase v, III Nefi 9.
+1e, 4033: Véase v, III Nefi 26.
+1f, 4034: Véase v, III Nefi 9.
+1g, 4035: Véase r, III Nefi 28.
+1h, 4036: Véase h, Omni 1; III Nefi 8:8,24;9:3.
+1i, 4037: III Nefi 8:9;9:4,7.
+1j, 4038: Véase o, II Nefi 25; III Nefi 9:19;15:2-8.
+1k, 4039: Véase t, Mosíah 27.
+1l, 4040: III Nefi 24:16.
+1m, 4041: Véase e, II Nefi 32.
+1n, 4042: Véase r, III Nefi 28.
+1o, 4043: Véase l, II Nefi 9.
+1p, 4044: Véase d, III Nefi 28.
+1q, 4045: Nueve otros como sucesores.
+1r, 4046: El padre de Nefi fué uno de los doce.
+1s, 4047: Véase f, I Nefi 1:17.
+1t, 4048: Véase v, III Nefi 26.
+1u, 4049: III Nefi 18:28,29.
+1v, 4050: Los tres; Véase d, III Nefi 28.
+1w, 4051: Versículo 5; III Nefi 28:19.
+1x, 4052: III Nefi 28:21.
+1y, 4053: III Nefi 28:22.
+1z, 4054: Véase d, III Nefi 28.
+1-2a, 4055: III Nefi 27:32; Mormón 1:16.
+1-2b, 4056: Véase n, Jacob 7.
+1-2c, 4057: Véase i, II Nefi 10; Helamán 2:3-14.
+1-2d, 4058: III Nefi 28:9.
+1-2e, 4059: Véase 2c.
+1-2f, 4060: Alma 37; Helamán 3:13,15-16.
+1-2g, 4061: En los últimos días.
+
+LIBRO DE MORMÓN
+
+1a, 4062: Consistiendo de nueve capítulos en su forma abreviada. Mormón
+2:17-18; 5:9.
+1b, 4063: IV Nefi 1:47-49.
+1c, 4064: Mormón 2:17.
+1d, 4065: Mormón 4:23; Éther 9:3.
+1e, 4066: IV Nefi 1:48.
+1f, 4067: Véase f, I Nefi 1.
+1g, 4068: Mormón 2:18.
+1h, 4069: III Nefi 5:12,20; Véase b, Mosíah 18.
+1i, 4070: Sur América.
+1j, 4071: Véase h, Omni 1.
+1k, 4072: Véase o, Alma 2.
+1l, 4073: Los tres que no habían de gustar la muerte; Véase d, III Nefi 28.
+1m, 4074: Véase 2a, IV Nefi 1.
+1n, 4075: Véase l.
+1o, 4076: Véase d, II Nefi 1.
+1p, 4077: Véase 2c, IV Nefi 1.
+1q, 4078: Véase d, II Nefi 1.
+1r, 4079: Helamán 13:18-23,30-37; Mormón 2:10-15.
+2a, 4080: Mormón 1:12,15.
+2b, 4081: III Nefi 2:7-8.
+2c, 4082: Hacia Norte América.
+2d, 4083: Véase c, Alma 48.
+2e, 4084: Véase; 2c, IV Nefi 1.
+2f, 4085: Moroni 9:17.
+2g, 4086: Véase r, Mormón 1.
+2h, 4087: Mormón 1:3; 4:23.
+2i, 4088: IV Nefi 1:48-49.
+2j, 4089: Mormón 1:4; Véase I Nefi 1.
+2k, 4090: Mormón 1:4.
+2l, 4091: Véase o, III Nefi 5.
+2m, 4092: Véase p, Mosíah 23.
+2n, 4093: Véase c, Alma 48.
+2o, 4094: Véase 2c, IV Nefi 1.
+2p, 4095: Norte América.
+2q, 4096: Véase 2v, Alma 22.
+2r, 4097: Sur América.
+3a, 4098: Véase u, II Nefi 9.
+3b, 4099: Véase 2l, Alma 22.
+3c, 4100: Véase 2v, Alma 22.
+3d, 4101: Sur América.
+3e, 4102: Véase c, Alma 48.
+3f, 4103: Véase 2l, Alma 22.
+3g, 4104: Versículos 7-8; Mormón 2:27-29.
+3h, 4105: Versículos 9-10.
+3i, 4106: Mormón 6.
+3j, 4107: Véase c, II Nefi 27.
+3k, 4108: Véase e, I Nefi 15.
+3l, 4109: I Nefi 12:9.
+3m, 4110: I Nefi 12:10; III Nefi 27:27.
+3n, 4111: I Nefi 12:9.
+3o, 4112: Véase d, III Nefi 26.
+3p, 4113: I Nefi 13:20-29,41-42.
+3q, 4114: Véase k, II Nefi 25.
+3r, 4115: II Nefi 26:12; Véase b, Mosiah 3.
+4a, 4116: Véase 2l, Alma 22.
+4b, 4117: Véase 2l, Alma 22.
+4c, 4118: Versículos 6-7,14.
+4d, 4119: Véase 2l, Alma 22.
+4e, 4120: Véase c.
+4f, 4121: Mormón 3:9.
+4g, 4122: Véase 2l, Alma 22.
+4h, 4123: Véase 2l, Alma 22.
+4i, 4124: Véase c.
+4j, 4125: Versículos 15, 21.
+4k, 4126: Véase i.
+4l, 4127: Véase 2l, Alma 22.
+4m, 4128: Véase j.
+4n, 4129: Mormón 1:3; Ether 9:3.
+4o, 4130: Véase 2f, IV Nefi 1.

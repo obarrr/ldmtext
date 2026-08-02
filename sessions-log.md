@@ -3707,3 +3707,1243 @@ instead:
   `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
   `check_verse_indent.py`, zero curly quotes. No narrow-space-vs-merge
   candidates on this page.
+- **2026-07-29**: Sessions A-E run for page 547 (III Nefi 28:31-40,
+  continuing chapter 28 from page 546 which ended mid-verse at v.30;
+  footnotes 4003-4011, nine footnote letters x, y, z, 2a-2f, continuing
+  chapter 28's lettering from page 546 which ended at "w"; page opens
+  with the start of a new verse number (v.31, "31. Por lo tanto..."),
+  not a chapter heading or mid-verse continuation -- confirmed via
+  precedent (pages 530/535/542/546) that this convention also gets no
+  blank line after the `Página N` line). Session A: two rule-7 hyphen
+  rejoins ("rea-"/"lizadas" -> "realizadas", v.31, landing at 69 chars
+  with the [4003] marker; "relativa-"/"mente" -> "relativamente", v.36,
+  67 chars) plus one hyphen rejoin ("2atrans-"/"portados") that did NOT
+  fit on its original line even before rejoining (74 chars with the
+  [4006] marker), so the whole rejoined word moved to the start of the
+  next line per rule 7, which then needed its own rule-8 rebalance (83
+  chars once the second half's text was appended, "purificados" moved
+  down again, landing at 71 chars); rule-31 space-before-punctuation
+  cleanup throughout (semicolons and one question mark). A discretionary
+  (non-mandatory, not i/l/1) footnote-letter check: the second footnote
+  letter (v.33, "y, III Nefi 26:6-12") looked more like "v" than "y" in
+  the swash font at normal zoom; confirmed as "y" via 1879
+  (pages_1879/page_0549.png, "y, III. Nep. 26:6-12", unambiguous serif
+  italic) and by strict alphabetical sequencing (x, y, z, 2a...), which
+  a "v" reading would have broken. Three genuine 1920-only misprints
+  found, all confirmed against 1886 (pages_1886/page_0561.png book
+  p.543 for v.31-35, page_0562.png book p.544 for v.36-40) and logged
+  in `errors in 1920.txt`: (1) v.31 "aparacer" for "aparecer" (a/e
+  swap); (2) v.32 "juico" for "juicio" (missing second "i"); (3) v.40
+  "jucio" for "juicio" (i/c transposed) -- the same underlying word
+  misprinted two different wrong ways nine lines apart on the same
+  page, ruling out a shared deliberate spelling. All three were also
+  independently caught by the Google OCR cross-check
+  (`check_google_crosscheck.py 547`), which read the same three
+  misspellings from the PDF's own text layer. A fourth Google-crosscheck
+  candidate (v.35, an apparent period between "haber" and "nacido" at
+  20x zoom) was investigated and resolved as a false alarm: a 30-40x
+  re-zoom showed the "dot" is the ball-terminal serif on the arm of the
+  bold-face "r" ending "haber", not a separate mark -- Google's silent
+  "nohabernacido" reading (no period) was the correct signal, matching
+  1886's own "no haber nacido" with no stray punctuation. A fifth
+  candidate (a stray comma/apostrophe-shaped mark at the very start of
+  the "ni las palabras" line, v.34) was confirmed present in the print
+  and corroborated by Google's OCR, but serves no grammatical function
+  and was treated as print debris, not transcribed, consistent with
+  this page's other unexplained isolated dots. Session B: independently
+  re-verified all 9 Block 1 entries and all 9 `[N]` body markers from a
+  fresh crop. Session C (`insert_body_text.py 547`): body text and 9
+  Block 1 entries inserted cleanly. Session D (`generate_block2.py
+  547`): all 9 entries resolved cleanly; content-fit check passed for
+  both cross-references (28x "Véase w" -> 4002, this chapter's own
+  great-and-marvellous-works verses, fits v.31; 28-2c "Véase d" -> 3983,
+  this chapter's recurring three-Nephites citation chain, fits v.37's
+  bodily-change-avoiding-death-pains theme). Session E: fresh pptext
+  regeneration (`report_wsl_20260729h.html`). Spellcheck flagged
+  "aparacer"/"juico"/"jucio" (all three already-confirmed genuine 1920
+  errors, logged above and in `errors in 1920.txt`; independent research
+  per Session E requirements -- 1886 comparison, RAE DLE (no entry for
+  any of the three), and zero hits for all three across all three local
+  reference corpora versus 5 ("aparecer") and 310 combined ("juicio")
+  for the correctly-spelled forms, plus the pptext Edit Distance Checks
+  section's own internal corroboration (6 and 37 correct-form hits
+  elsewhere in this document) -- corroborating all three as typos, not
+  period variants; one nuance noted: RAE's Diccionario Panhispánico del
+  Español Jurídico has a narrow, unrelated medieval-Castilian-legal
+  entry for "jucio," which does not change the verdict since 1886
+  doesn't reproduce it here either). All three added to
+  `permitted words.txt` per rule 10. Footnote check: whole-document
+  scan confirms zero duplicates, last number 4011, and the only gap
+  remains the long-documented footnote 812. Dash check: this page
+  introduced zero hyphens (all rule-7 rejoins resolved). Short-lines/
+  standalone-1/paragraph-level hits in this page's range all matched
+  established false-positive categories. Whole-document sweeps clean:
+  `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`, zero curly quotes. No narrow-space-vs-merge
+  candidates on this page.
+- **2026-07-30**: Sessions A-E run for page 548 (III Nefi 29:1-9, a new
+  chapter opening — CAPÍTULO 29, no subtitle line — immediately after
+  page 547 closed chapter 28 cleanly at v.40 with no cross-page word
+  split; footnotes 4012-4020, nine footnote letters a-i, restarting at
+  "a" per rule 13). Session A: one rule-7 hyphen rejoin ("necesi-"/
+  "dad" -> "necesidad", v.2, 67 chars, kept on the first line) and one
+  rule-8 rebalance (the [4018] marker pushed v.8's "alianza" line to
+  exactly 73 chars, so "jurado;" moved to the start of the next line,
+  which already began with "9. Por lo tanto..."); rule-31
+  space-before-punctuation cleanup throughout (four semicolons, one
+  exclamation mark, one comma); one rule-6 wide-gap normalization
+  ("del  Padre", v.1). A significant footnote-letter investigation:
+  entries b, c, g, i's cross-reference target (Véase [x], III Nefi 15)
+  was initially misread as "i" by both the transcriber and the Google
+  OCR text layer, but a dedicated high-zoom re-read (with enough room
+  below the baseline to see the descender) showed the swash glyph is
+  actually "j" — confirmed via a same-page comparison, 1879
+  (pages_1879/page_0550.png, unambiguous serif italic: "c, see j, III.
+  Nep. 15."), and decisive content-fit (chapter 15's own footnote 3702
+  is a covenant citation matching all four of this page's "alianza"
+  mentions; chapter 16's own already-transcribed "16h" independently
+  cites this same "j" as a valid target). Entry b was a special case:
+  1879 clearly prints "b, see 2j, III. Nep. 15." — but 1920's own
+  already-transcribed chapter-15 footnote block ends at letter "v"
+  (3714), with chapter 16 beginning immediately at 3715, so no "2j"
+  target exists in either edition. Initially resolved editorially to
+  "j" to match content, but the editor caught this and corrected the
+  approach: per rule 32, the actual printed "2j" must be preserved
+  (not silently substituted for the content-correct reading), so the
+  transcription was reverted to "Véase 2j, III Nefi 15." and the
+  finding logged as a genuine error inherited from 1879 into 1920 —
+  see `errors in 1920.txt`. Two independent letter-level misprints were
+  also found via manual comparison against `google_text_1920/
+  page_0570.txt` (the automated `check_google_crosscheck.py`/
+  `check_line_wrap.py` scripts both return empty/zero for this page —
+  a tooling gap specific to chapter-opening pages, since their shared
+  body-extraction helper stops at the blank line rule 1 mandates before
+  a chapter heading, immediately after `Página N`): v.2 "Senor" prints
+  with no tilde (unlike every other "Señor" on the page), and v.3
+  "debeís" carries its accent on the í rather than the é (grammar wants
+  "debéis") — the same accent-shift pattern already documented for
+  page 504's "habeís". Mandatory i/l/1 check: this page's own final
+  letter "i" (v.9) confirmed as a genuine short-stroke-plus-dot "i", no
+  descender, ruling out l/1. Session B: independently re-verified all 9
+  Block 1 entries and all 9 `[N]` body markers against a fresh
+  `process_page.py` crop; the mandatory i/l/1 check was independently
+  re-confirmed via a genuinely separate 1879 source — chapter 29's own
+  g/h/i entries turned out to be on the *following* 1879 file page (551,
+  not 550), since 1879's pagination lags 1920's here — printed in clear
+  serif type matching every letter already resolved in Session A.
+  Session C (`insert_body_text.py 548`): body text and 9 Block 1 entries
+  inserted cleanly; chapter 28->29 boundary is same-book, no blank line
+  per rule 20. Session D (`generate_block2.py 548`): 8 of 9 entries
+  resolved cleanly; footnote 4013 ("Véase 2j, III Nefi 15") stayed
+  correctly unresolved, matching the editor-confirmed error verdict.
+  Content-fit confirmed for all resolved targets, including 4015/4019
+  -> 3873, which explicitly cites "III Nefi 29:4,9" — this page's own
+  verses. Session E: fresh pptext regeneration
+  (`report_wsl_20260730.html`); zero new Spellcheck Suspect Words (both
+  "Senor" and "debeís" pre-suppressed via `permitted words.txt`, the
+  latter added this session). Per the mandatory Corrections-log sweep,
+  all three suspected-error items from Sessions A/B were resolved and
+  logged in `errors in 1920.txt`: the "2j" cross-reference (shared with
+  1879, per the editor's guidance above); "Senor" (confirmed shared
+  with 1886 too, at the identical spot on book page 544/file 562 --
+  not a 1920-only error); and "debeís" (1886 uses a different verb
+  construction here so offers no direct word-for-word comparison, but
+  RAE and all three local reference corpora confirm "debéis" is the
+  only attested form, zero hits for "debeís"). Footnote check:
+  whole-document `\[(\d+)\]` scan confirms zero duplicates, last number
+  4020, only gap remains the long-documented footnote 812. Dash check:
+  zero hyphens introduced by this page. Curly-quote scan: zero
+  instances in either master file. Special-situations "mixed letters
+  and numbers in word" correctly (and expectedly) flagged the new "2j"
+  Block 2 entry -- no further action, matches the already-logged error.
+  Short-lines hits in this page's range all matched established
+  false-positive categories. No long lines found anywhere in the
+  document. Whole-document mechanical sweeps --
+  `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py` all clean. No narrow-space-vs-merge candidates
+  on this page.
+- **2026-07-30b**: Sessions A-E run for page 549 (end of III Nefi 30,
+  v.1-2, immediately followed mid-page by the book boundary into IV
+  Nefi -- book header "IV NEFI." / "LIBRO DE NEFI," / two-line subtitle
+  "QUIEN ES HIJO DE NEFI, UNO DE LOS DISCIPULOS DE JESU CRISTO." /
+  "CAPITULO 1." / italic argument "Relacion del pueblo de Nefi, segun
+  sus anales.", then IV Nefi 1:1-2; footnotes 4021-4032, twelve letters
+  across two chapters, both restarting at "a" per rule 13). Session A:
+  one rule-7 hyphen rejoin ("verdadera-"/"mente" -> "verdaderamente,"
+  IV Nefi 1:1); one rule-8 rebalance (the [4027]/[4028] markers pushed
+  III Nefi 30:8's line to 75 chars, so "mi" moved to the start of the
+  next line); rule-31 space-before-punctuation cleanup ("Jesús ;" ->
+  "Jesús;"); the narrow-space default-to-two-words rule applied to
+  "sepasó" -> "se pasó" (IV Nefi 1:1, flagged for the editor's Session E
+  summary per the standing rule, not raised mid-pipeline); confirmed via
+  zoom that "al rededor" (IV Nefi 1:1) carries no hyphen at its line
+  break, genuinely two printed words. Three suspected misprints were
+  preserved as printed and flagged: III Nefi 30:2 "remisióm" (ends in
+  "m" not "n"), IV Nefi 1:1 "trienta" (extra "i," unlike "treinta"
+  spelled correctly three other times on the same page), and IV Nefi
+  1:2 "ocurrio" (missing its accent). A fourth, "abomínaciones" (III
+  Nefi 30:2, accented, unlike the correctly-unaccented "abominaciones"
+  earlier in the same sentence), was transcribed correctly per rule 32
+  but not separately flagged in Corrections -- caught instead by
+  Session E's spellcheck pass, exactly the kind of gap that step exists
+  to catch. Mandatory i/l/1 check: entry 30d's cross-reference letter
+  ("Véase i, II Nefi 10") confirmed as genuine "i" via 1879
+  (pages_1879/page_0551.png, unambiguous serif type, "d, see i, II.
+  Nep. 10." -- matching 1920's own reading exactly). Session B:
+  independently re-verified all 12 Block 1 entries and all 12 `[N]`
+  body markers from a fresh crop; the mandatory i/l/1 check was
+  independently re-confirmed via a fresh crop of the same 1879 page
+  (not a same-image re-read). No corrections needed. Session C
+  (`insert_body_text.py 549`): body text inserted cleanly in one pass
+  (unaffected by Block 1 structure), but Block 1 append hit a genuine,
+  previously-unexercised tooling gap: `split_page()` in
+  `insert_body_text.py` locates the end of a page's Block 1 section at
+  the FIRST blank line, so this page's page-internal book boundary
+  (originally hand-formatted with a blank/"IV NEFI"/blank header
+  between the chapter-30 and IV-Nefi-1 entries, mirroring the final
+  `librodm_foot.txt` output) caused the script to silently truncate
+  Block 1 to just the first 8 entries -- confirmed by the script's own
+  "Appended 8 Block 1 entries" report. This is a different failure mode
+  from page 481's (a header-text-selection ambiguity across a page
+  boundary, which the script already handles correctly); this one is a
+  page-internal boundary tripping the line-range parser. Resolved by
+  hand: appended the missing `1a`-`1d` entries to `librodm_foot.txt`
+  directly in the exact form `append_block1()` would have produced
+  (blank line, "IV NEFI" header, blank line, then the four entries),
+  and removed the manual header from `page_549.txt`'s own Block 1
+  section to match the established convention (per page 481's
+  precedent) that book headers are never hand-typed in a page's own
+  Block 1 file -- only the master files carry them, inserted by the
+  script. Session D (`generate_block2.py 549`): all 12 entries resolved
+  cleanly to sequential numbers on the first pass; the "IV NEFI" header
+  was correctly auto-inserted into `librodm.txt`'s Notas section this
+  time, since Block 1 no longer had a page-internal blank line to trip
+  on after the Session C fix. Content-fit spot-checked for several
+  entries including the mandatory-check target (4024 -> 379 -> 265, a
+  broad Atonement/redemption reference chain) and multiple baptism-verse
+  citations matching their annotated words exactly. Session E: fresh
+  pptext regeneration (`report_wsl_20260730b.html`). Spellcheck flagged
+  three of this page's words directly ("abomínaciones," "remisióm,"
+  "trienta"); the fourth ("ocurrio") was not flagged by aspell, a known
+  gap, so it was researched anyway per the mandatory-check procedure.
+  All four were checked against 1886 (pages_1886/page_0563.png and
+  page_0564.png, book pages 545-546/file 563-564), the modern LDS
+  Spanish edition (churchofjesuschrist.org, III Nefi 30 and IV Nefi 1),
+  RAE DLE, and the three local reference corpora -- all four confirmed
+  as genuine 1920-only errors, none shared with 1886 (1886 has
+  "abominaciones," "remision," "tréinta," and "ocurrió" respectively at
+  the equivalent spots). All four logged in `errors in 1920.txt`; the
+  three aspell-flagged words also added to `permitted words.txt`
+  ("ocurrio" was not, per the established "Jesu Cristo" no-op
+  precedent, since it isn't actually pptext-flagged). Full report
+  walkthrough for this page's new line range found nothing further:
+  Edit Distance, Dash check (hyphen-minus bucket: two legitimate verse
+  ranges), Special situations (only the already-known page-548 "2j"
+  entry appears nearby), "paragraph ends in comma" (the "LIBRO DE
+  NEFI," book-header line matches the established false-positive
+  pattern exactly), and short-lines hits all clean or already-explained.
+  Footnote check: whole-document scan confirms zero duplicates, last
+  number 4032 (matching this page's final marker), only gap remains the
+  long-documented footnote 812. Curly-quote scan: zero instances in
+  either master file (re-verified with a reliable method after an
+  initial unreliable character-count approach over-reported). Dash
+  check: this page introduced zero new hyphens. Whole-document
+  mechanical sweeps -- `check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`/
+  `check_lines.py` all clean. One narrow-space-vs-merge note surfaced
+  for the editor's own convenience: IV Nefi 1:1 "se pasó" (see Session A
+  above).
+- **2026-07-30c**: Sessions A-E run for page 550 (IV Nefi 1:2-14
+  continuation, no book/chapter boundary; footnotes 4033-4044, letters
+  1e-1p, continuing the single chapter-1 lettering sequence from page
+  549 with no restart). Session A: three rule-7 hyphen rejoins
+  ("con-"/"tiendas" -> "contiendas," carried over from page 549's final
+  sentence; "levanta-"/"ban" -> "levantaban," v.5; "hun-"/"dido" ->
+  "hundido," v.9); one rule-8 rebalance (the [4040]/[4041] markers on
+  v.12's "reunirse...orar...escuchar" line pushed it to 73 chars, so
+  "escuchar" moved to the start of the next line); extensive rule-31
+  space-before-semicolon cleanup (this page's print consistently sets a
+  space before every semicolon, ~9 instances, all mechanical). Five
+  suspected misprints preserved as printed and flagged: v.3 "escavos"
+  (missing "l"), v.4 and v.6 "trienta" (same letter-transposition
+  pattern already logged for v.1 on page 549), v.12 "Sénor" (acute
+  accent instead of tilde) and "ordenzas" (missing "an"), v.14
+  "unicamente" (missing accent), plus two suspected period-for-comma
+  punctuation slips (v.2 "disputas. y obraron"; v.14 "pasado ya.
+  cuando"). Google cross-check flagged three candidates: "cojos" vs.
+  Google's "cojcs" dismissed as OCR noise (not a word); the two
+  period/comma spots were re-zoomed at 15-20x and confirmed as genuine
+  periods in the 1920 print (Google misread both as commas) — the
+  transcription was correct as originally read, not changed at the
+  time. Mandatory i/l/1 check: this chapter's own letters i ("habían
+  hundido," v.9) and l ("reunirse," v.12) confirmed via strict
+  alphabetical sequence plus exact 1879 content match. Two cross-
+  reference TARGET letters also fell in the mandatory set and proved
+  genuinely hard to distinguish by glyph shape alone in this page's
+  font even after repeated 25-40x zoom crops — resolved instead via a
+  same-target-chapter back-reference method (Section 8 procedure step
+  7): entry k ("Véase [?], Mosiah 27," annotating "ayunos") resolved to
+  "t" because 1920's own Mosiah 27 footnote block explicitly
+  cross-references this exact verse (IV Nefi 1:12); entry o ("Véase
+  [?], II Nefi 9," annotating "paraíso") resolved to "l" because
+  1920's own II Nefi 9 footnote block explicitly cross-references IV
+  Nefi 1:14. Both independently cross-checked against 1879. Session B:
+  independently re-verified all 12 Block 1 entries and all 12 `[N]`
+  body markers against a fresh crop; independently re-ran the mandatory
+  i/l/1 check via fresh 1879 crops (different crop ranges than Session
+  A) — all confirmed, no corrections needed. Session C
+  (`insert_body_text.py 550`): clean single-pass insertion, no
+  book-boundary complications (chapter continues). Session D
+  (`generate_block2.py 550`): 9 of 12 entries resolved cleanly; 2 (4036
+  "Omni 1; III Nefi 8:8,24;9:3", 4038 "II Nefi 25; III Nefi
+  9:19;15:2-8") stayed unresolved as a script parsing limitation with
+  compound (semicolon-separated) references — target letters confirmed
+  valid, left in letter form for a later `--fix-unresolved` pass. The
+  third (4041, "Véase o, II Nefi 32") was a genuine transcription
+  error, not a script limitation: II Nefi 32's own footnote block only
+  runs letters a-e, so "o" was an impossible target. Re-investigated
+  and corrected to "e" -- II Nefi 32's own letter e is directly
+  attached to the word "orar" in its own body text, Alma 25's footnote
+  block independently cross-references the same "e, II Nefi 32"
+  target, and 1879's parallel entry also reads "e." Fixed in
+  page_550.txt, librodm_foot.txt, and librodm.txt's Block 2 (now
+  "4041: Véase 783."). A good demonstration of Session D's resolution
+  step catching a letter-level misread outside the mandatory i/l/1
+  set. Session E: fresh pptext regeneration (`report_wsl_20260730c.html`).
+  Spellcheck flagged "escavos," "unicamente" (already known), plus two
+  new catches: "éntre" (v.5, edit-distance-matched to an existing
+  correct "Entre" elsewhere in the document) and "multiplicóse" (v.10,
+  no edit-distance match). All suspected words checked against 1886,
+  the modern LDS edition, RAE, and the three reference corpora:
+  "escavos," "éntre," "Sénor," and "ordenzas" all confirmed genuine
+  1920-only errors (1886 and the modern edition both have the correct
+  form; RAE has no entry for the 1920 spelling; near-zero corpus hits)
+  and added to `errors in 1920.txt` (escavos/éntre/Sénor also to
+  `permitted words.txt`; ordenzas is not aspell-flagged, so no
+  permitted-words entry, matching the "Jesu Cristo" no-op precedent).
+  "multiplicóse" confirmed as a legitimate archaic reflexive
+  construction shared verbatim with 1886 -- added to `permitted
+  words.txt` only. "unicamente" confirmed shared with 1886 (missing
+  accent both editions) -- permitted-words only, no errors-log entry
+  per rule 11. The two period-for-comma punctuation items were
+  re-confirmed against 1886 (which has a comma at both spots) and
+  logged in `errors in 1920.txt`, matching the established "full stop
+  followed by unexpected sequence" pattern from prior sweeps. While
+  researching "Sénor," the identical accent-instead-of-tilde error was
+  found already present and previously undetected at Alma 13:16
+  (librodm.txt line 12582) -- confirmed against 1886 and added to
+  `errors in 1920.txt` at its correct earlier position in the file, a
+  good example of Session E's investigation surfacing an old,
+  unrelated defect. Full report walkthrough beyond spellcheck: Edit
+  Distance (above), Dash check (only this page's own legitimate
+  "15:2-8" verse range in the hyphen-minus bucket, zero new hyphens),
+  "full stop followed by unexpected sequence" (confirmed only this
+  page's two already-logged instances belong to this page; many other,
+  unrelated instances exist elsewhere in the document from earlier
+  pages -- out of scope for this session, noted for the editor), "mixed
+  letters and numbers in word" (routine footnote-citation false
+  positive, nothing new). Footnote-anchor whole-document scan: zero
+  duplicates, max 4044 (matches this page's final marker), only the
+  long-documented footnote 812 gap remains. Curly-quote scan: zero
+  instances in either master file. Whole-document mechanical sweeps --
+  `check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py` all clean.
+
+- **2026-07-30c**: Sessions A–E run for page 550 (IV Nefi 1:2-14
+  continuation, no book/chapter boundary; footnotes 4033-4044, letters
+  1e-1p, continuing the single chapter-1 lettering sequence from page
+  549 with no restart). Session A: three rule-7 hyphen rejoins; one
+  rule-8 rebalance (v.12); extensive rule-31 space-before-semicolon
+  cleanup (~9 instances, this page's print consistently sets a space
+  before every semicolon). Five suspected misprints preserved as
+  printed and flagged: v.3 "escavos," v.4/v.6 "trienta" (same pattern
+  already logged for page 549's v.1), v.12 "Sénor"/"ordenzas," v.14
+  "unicamente," plus two suspected period-for-comma slips (v.2
+  "disputas. y obraron"; v.14 "pasado ya. cuando"). Google cross-check:
+  "cojos" vs. Google's "cojcs" dismissed as OCR noise; the two
+  period/comma spots were re-zoomed at 15-20x and confirmed genuine
+  periods in the 1920 print (Google misread both as commas). Mandatory
+  i/l/1 check: this chapter's own letters i/l confirmed via sequence +
+  1879. Two cross-reference TARGET letters (entries k and o) proved
+  genuinely hard to distinguish by glyph shape even at 25-40x zoom —
+  resolved via same-target-chapter back-references instead: entry k
+  ("Véase [?], Mosiah 27") resolved to "t" (1920's own Mosiah 27
+  footnote block explicitly cross-references IV Nefi 1:12); entry o
+  ("Véase [?], II Nefi 9") resolved to "l" (1920's own II Nefi 9
+  footnote block explicitly cross-references IV Nefi 1:14). Both
+  cross-checked against 1879. Session B: independently re-verified all
+  12 Block 1 entries/markers and the mandatory i/l/1 check via fresh
+  crops — all confirmed, no corrections needed. Session C: clean
+  single-pass insertion, no book-boundary complications. Session D: 9
+  of 12 Block 2 entries resolved cleanly; 2 stayed unresolved as a
+  script parsing limitation with compound (semicolon-separated)
+  references (target letters confirmed valid, left for a later
+  `--fix-unresolved` pass); the third (4041, entry m) was a genuine
+  transcription error, not a script limitation — II Nefi 32 only has
+  letters a-e, so "Véase o, II Nefi 32" was an impossible target.
+  Corrected to "e" (II Nefi 32's own letter e is attached to the word
+  "orar" in its own body text; Alma 25 independently cross-references
+  the same "e, II Nefi 32"; 1879's parallel entry also reads "e"),
+  fixed in all three files. A good demonstration of Session D catching
+  a letter-level misread outside the mandatory i/l/1 set. Session E:
+  fresh pptext regeneration (`report_wsl_20260730c.html`). Spellcheck
+  flagged "escavos," "unicamente" (already known), plus two new
+  catches: "éntre" (v.5, edit-distance-matched to an existing correct
+  "Entre" elsewhere) and "multiplicóse" (v.10). All suspected words
+  checked against 1886, the modern LDS edition, RAE, and the reference
+  corpora: "escavos," "éntre," "Sénor," and "ordenzas" confirmed
+  genuine 1920-only errors, added to `errors in 1920.txt`
+  (escavos/éntre/Sénor also to `permitted words.txt`; ordenzas isn't
+  aspell-flagged, so no permitted-words entry). "multiplicóse"
+  confirmed a legitimate archaic reflexive form shared verbatim with
+  1886 — permitted-words only. "unicamente" confirmed shared with 1886
+  (missing accent both editions) — permitted-words only, no
+  errors-log entry per rule 11. The two period-for-comma items
+  re-confirmed against 1886 (comma at both spots) and logged in
+  `errors in 1920.txt`. While researching "Sénor," the identical
+  accent-instead-of-tilde error was found already present and
+  previously undetected at Alma 13:16 (librodm.txt line 12582) —
+  confirmed against 1886 and added to `errors in 1920.txt` at its
+  correct earlier position, a good example of Session E surfacing an
+  old, unrelated defect from a much earlier page. Full report
+  walkthrough beyond spellcheck: Dash check (only this page's own
+  legitimate "15:2-8" verse range, zero new hyphens), "full stop
+  followed by unexpected sequence" (confirmed only this page's two
+  already-logged instances belong to this page — many other, unrelated
+  instances exist elsewhere in the document from earlier pages, out of
+  scope for this session, noted for the editor), "mixed letters and
+  numbers in word" (routine false positive, nothing new). Footnote
+  scan: zero duplicates, max 4044, only the long-documented 812 gap
+  remains. Curly-quote scan: zero instances. Whole-document mechanical
+  sweeps all clean.
+- **2026-07-30d**: Sessions A–E run for page 551 (IV Nefi 1:15-25, no
+  book/chapter boundary; footnotes 4045-4048, letters 1q-1t,
+  continuing the single chapter-1 lettering sequence from page 550
+  with no restart). Session A: two rule-7 hyphen rejoins (v.16
+  "men-"/"tiras", v.23 "exten-"/"sión", both well under the 73-char
+  cap, no rule-8 rebalance needed); six rule-31 space-before-semicolon
+  fixes. Mandatory i/l/1 check: none of this page's own four letters
+  (q,r,s,t) are themselves i/l/1, but entry s's cross-reference target
+  letter ("Véase [?], I Nefi 1:17") was genuinely ambiguous by glyph
+  shape (single unbroken diagonal stroke, no dot, no visible
+  crossbar) — resolved to "f" via content-fit + back-reference rather
+  than shape alone: 1920's own I Nefi chapter 1 "1f, 6" entry is an
+  exact citation-list match for the "abridgment of my father's
+  record" annotation, independently confirmed against 1879's parallel
+  "f" entry, and against a direct glyph comparison to 1920's own "f"
+  marker elsewhere in I Nefi 1 (page_0025.png) — same shape. One
+  suspected misprint preserved as printed and flagged: v.18 "benijo"
+  (missing "d," should be "bendijo"). Google cross-check caught a
+  second, more subtle one Session A's own reading missed on the first
+  pass: v.20 "por to tanto" — the transcription initially read "lo,"
+  but Google's OCR read "t," and a 15-20x re-zoom confirmed Google was
+  right (the glyph has a crossbar, unlike "l"); corrected in the page
+  file before integration. Checked and confirmed NOT an error: v.17
+  "ninguna especie de itas" (matches 1886 identically — a deliberate
+  period translation of the English source's generic "-ites" suffix,
+  not a misprint); v.21 "Jesu Cristo" (no hyphen, unlike this same
+  page's own v.18 "Jesu-Cristo") was initially logged as a 1920-only
+  inconsistency but corrected by the editor — this unhyphenated form
+  is an archaic spelling used extensively throughout this edition, not
+  an error; both hyphenated and unhyphenated forms are legitimate and
+  coexist in this edition, see `feedback_jesu_cristo_hyphen` memory.
+  Session B:
+  independently re-verified all 4 Block 1 entries/markers and the
+  mandatory i/l/1 check via fresh crops (including a fresh 1879 crop
+  for entry s) — all confirmed, no corrections needed. Session C:
+  clean single-pass insertion, no book-boundary complications. Session
+  D: all 4 Block 2 entries resolved cleanly on the first pass; strong
+  independent confirmation for entry t ("Véase v, III Nefi 26" ->
+  3947): III Nefi's own "26v, 3947" entry explicitly back-references
+  "IV Nefi 1:1," the exact "all things common" description this
+  page's v.25 is contrasting against. Session E: fresh pptext
+  regeneration (`report_wsl_20260730d.html`, re-confirmed after
+  `permitted words.txt` updates via `report_wsl_20260730e.html`).
+  Spellcheck flagged "benijo," "to" (both already caught above), plus
+  "empezóse" (v.24) — confirmed a legitimate archaic enclitic
+  reflexive form matching page 550's "multiplicóse" precedent exactly
+  (1886 uses the identical construction at the same verse). All
+  checked against 1886, RAE, and the reference corpora: "benijo" and
+  "to" confirmed genuine 1920-only errors, added to `errors in
+  1920.txt` and `permitted words.txt`; "empezóse" added to `permitted
+  words.txt` only. Full report walkthrough beyond spellcheck: zero new dash,
+  footnote-check, curly-quote, or special-situations hits for this
+  page's line range. Footnote scan: zero duplicates, max 4048, only
+  the long-documented 812 gap remains. Whole-document mechanical
+  sweeps (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean.
+- **2026-07-30e**: Sessions A–E run for page 552 (IV Nefi 1:26-36, no
+  book/chapter boundary; footnotes 4049-4053, letters 1u-1y,
+  continuing the single chapter-1 lettering sequence from page 551
+  with no restart). Page opens with a fresh verse number (26.) rather
+  than mid-verse, so no blank line follows "Página 552" (matches
+  page 500/505/509/etc. precedent). Session A: no rule-7 hyphen
+  rejoins or rule-31 space-before-punctuation instances on this page.
+  Mandatory i/l/1 check: none of this page's five letters (u,v,w,x,y)
+  or the one cross-reference target letter (entry v's "Véase d, III
+  Nefi 28") are i/l/1. Swash-font letter ambiguity (same technique as
+  page 451): the 1st/3rd markers (u,w) and 2nd/5th markers (v,y) each
+  share an identical glyph shape in this stylized font, undistinguishable
+  by shape alone; resolved via strict alphabetical position (5 markers
+  = 5 Block 1 entries, continuing from page 551's final letter "t")
+  and independently CONFIRMED via 1879 (pages_1879/page_0554.png,
+  book page 546): "t, see y, III. Nep. 26. u, III. Nep. 18:28,29. v,
+  the three. See d, III. Nep. 28. w, ver. 5. III. Nep. 28:19. x, III.
+  Nep. 28:21. y, III. Nep. 28:22." — an exact letter-for-letter and
+  content match to all five 1920 entries. Content-fit: entries
+  annotate the passage about the three Nephite disciples' persecution/
+  imprisonment (III Nefi 28:19-22), an exact thematic match verse-by-
+  verse. Google cross-check: one candidate ("discípulos" vs. Google's
+  accent-less OCR) confirmed via 20x zoom to be a genuine printed
+  accent that Google simply dropped — no correction needed. Session
+  B: independently re-verified all 5 Block 1 entries and body markers
+  against a fresh crop, plus a fresh independent 1879 crop — all
+  confirmed, no corrections needed. Session C: clean single-pass
+  insertion, no book-boundary complications. Session D
+  (`generate_block2.py 552`): all 5 entries resolved cleanly; entry
+  v's cross-reference ("Véase d, III Nefi 28" -> "Véase 3983") strongly
+  confirmed by III Nefi's own "28d, 3983" entry, whose citation list
+  explicitly back-references "IV Nefi 1:14,37" — directly tying to
+  this chapter's three-disciples narrative. Session E: fresh pptext
+  regeneration (`report_wsl_20260730f.html`). Caught two genuine
+  1920-only errors that Session A did not flag at transcription time
+  (found by direct reading against 1886, not via a pptext spellcheck
+  hit): v.26 "obrener" (misprint for "obtener," confirmed via 1886
+  "obtener," RAE has no entry for "obrener"); v.36 "Zoramítas" (a
+  superfluous accent on a word that takes none by regular Spanish
+  stress rules — confirmed via 1886 "Zoramitas" no accent, the modern
+  LDS Spanish edition "zoramitas" no accent, and this document's own
+  consistent unaccented spelling everywhere else since Alma 31; same
+  error pattern as the existing Alma 31:7 "Zoranitas" entry). Also
+  resolved the page's own flagged inconsistency: v.35 "descientos"
+  (missing "o," should be "doscientos," inconsistent with this same
+  page's correct "doscientos" at v.27/v.34) — confirmed via 1886, RAE
+  (no entry), and reference corpora (0 hits for "descientos" vs. 43
+  for "doscientos"). All three added to `errors in 1920.txt` and
+  `permitted words.txt`. Full report walkthrough beyond spellcheck:
+  zero new dash, footnote-check, curly-quote, or special-situations
+  hits for this page's line range (footnote-check re-verified via a
+  direct Python whole-document scan rather than the pptext report's
+  line-number-range display, which is line-based rather than
+  footnote-number-based and not useful for this purpose). Footnote
+  scan: zero duplicates, max 4053, only the long-documented 812 gap
+  remains. Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean.
+- **2026-07-31**: Sessions A–E run for page 553 (IV Nefi 1:37-48, no
+  book/chapter boundary; footnotes 4054-4059, letters z/2a-2e,
+  continuing the single chapter-1 lettering sequence from page 552's
+  final letter "y" with no restart, wrapping past z into two-letter
+  form per rule 16). Page opens with a fresh verse number (37.), no
+  blank line after "Página 553" (matches page 500/505/509/552/etc.
+  precedent). Session A: 4 rule-7 hyphen rejoins (verda-/deros,
+  Laman-/itas, cuaren-/ta, habién-/dose), all well under the 72-char
+  cap after rejoining; a handful of rule-31 space-before-punctuation
+  and one justification-widened gap normalized per the standing rules.
+  A print smudge before "Josefitas" (v.37) was identified as NOT a
+  genuine footnote superscript (unlike the real "z" marker on "tres"
+  two lines above) — confirmed via `check_google_crosscheck.py`
+  (Google's OCR reads "Jacobitas, Josefitas y Zoramitas." with no
+  glued character there at all, while it does misread the genuine "z"
+  marker as a stray quote mark) and via 1879 showing no mark at the
+  parallel tribe-name-list spot either. Mandatory i/l/1 check: only
+  entry 1-2c's cross-reference target letter "i" ("Véase i, II Nefi
+  10") falls in the mandatory set; independently CONFIRMED via 1879
+  (pages_1879/page_0555.png, book page 547) both in Session A and
+  again from a fresh crop in Session B: "2c, see i, II. Nep. 10" —
+  clear italic "i" with a separated dot, unambiguously distinct from
+  "l." Full 1879 cross-check: all six Block 1 entries confirmed
+  letter-for-letter and reference-for-reference against the same 1879
+  page's footnote block ("z, see d, III. Nep. 28. 2a, III. Nep. 27:32.
+  Mor. 1:16. 2b, see n, Jacob 7. 2c, see i, II. Nep. 10. Hela. 2:3-14.
+  2d, III. Nep. 28:9. 2e, see 2c."), an exact match, including entry
+  2e's same-chapter self-reference to 2c (no book/chapter needed since
+  both live in this same chapter) — Session D's `generate_block2.py`
+  correctly resolved this to "Véase 4057," matching entry 1-2c's own
+  sequential number exactly. Content-fit sanity check: all six
+  plausible (entry z/tres-discípulos repeats page 552's established
+  three-disciples cross-reference; entry 2c/secretos-juramentos cites
+  Helamán 2:3-14, the literal introduction of Gadianton's secret
+  combinations — an exact thematic match). Session B: independently
+  re-verified all 6 Block 1 entries, all 6 body markers, and the
+  mandatory i/l/1 letter against fresh crops of both the 1920 and 1879
+  images (not reused from Session A) — all confirmed, no corrections
+  needed. Session C: clean single-pass insertion, no book-boundary
+  complications. Session D (`generate_block2.py 553`): all 6 entries
+  resolved cleanly, including the same-chapter self-reference noted
+  above. Session E: fresh pptext regeneration
+  (`report_wsl_20260731.html`, built via a live WSL run, not reused).
+  Three suspected misprints flagged at Session A transcription time
+  were all confirmed as genuine, isolated 1920-only errors: v.38
+  "princiopio" (extra "o"; 1886 prints "principio," RAE has no entry,
+  zero corpus hits); v.40 "occurrió" (double c; 1886 prints "ocurrió,"
+  same recurring error pattern already documented at 1 Nefi 13:20 and
+  Alma 55:4); v.41 "adonándolas" (missing "r"; 1886 prints
+  "adornándolas" complete, and although "adonar" is a genuine RAE-
+  attested 14th-century archaic variant of "adornar," it has zero
+  hits in all three reference corpora — combined with the exact 1886
+  mismatch and this document's own consistent "adornar" spelling
+  elsewhere, judged a typo rather than a deliberate archaic form). All
+  three added to `errors in 1920.txt` and `permitted words.txt`. Full
+  report walkthrough beyond spellcheck: zero new dash, footnote-check,
+  scanno, curly-quote, or special-situations hits for this page's line
+  range; edit-distance section only reconfirmed the already-handled
+  princiopio/principio pair. Footnote scan: zero duplicates, max 4059,
+  only the long-documented 812 gap remains. Whole-document mechanical
+  sweeps (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean against both
+  master files; an independent curly-quote character scan of both
+  master files also found zero curly quotes.
+
+- **2026-07-31**: Sessions A–E run for page 554 (IV Nefi 1:48-49,
+  concluding IV Nefi, then a book boundary into Mormón — "LIBRO DE
+  MORMÓN" — CAPÍTULO 1:1-8, continuing to page 555; footnotes
+  4060-4071, continuing the IV Nefi chapter-1 "2f/2g" two-letter
+  lettering from page 553, then restarting fresh at "a" for Mormón 1
+  per rule 13). Session A: 3 rule-7 hyphen rejoins (tres-/cientos,
+  guar-/darlas, Mor-/món), one separate rule-8 rebalance (v.3's
+  "...depositado para" line hit 73 chars once both footnote markers
+  were inserted; "para" moved to the next line). A genuine zero-width
+  merge in the print, "dondese hallan" (v.4), was transcribed as two
+  words ("donde se hallan") per the standing narrow-space-vs-merge
+  default (grammar requires two words), not raised mid-pipeline.
+  Two suspected misprints were preserved as printed pending Session E:
+  v.48(cont.) "viente" (transposed for "veinte" — same paragraph
+  correctly prints "veinte" three lines later) and v.5 "recodré"
+  (missing "r" for "recordé"). The book-title heading itself prints as
+  "LIBRO DF MORMON." (D-F typo, no accent) immediately before
+  "CAPÍTULO 1." — preserved as printed in the body text per rule 32,
+  but the Block 1 book-name header (rule 19) uses the corrected form
+  "LIBRO DE MORMÓN" instead, since that header is a structural
+  navigation label (matching the index and this page's own running
+  header), not verbatim body text — a judgment call with no prior
+  precedent, flagged explicitly in the page's Corrections log.
+  Mandatory i/l/1 check: Mormón chapter 1's own new letter "i" (Sur
+  América, v.6) is in the mandatory set; confirmed via 1879
+  (pages_1879/page_0557.png, book page 549) in both Session A and
+  again from a fresh crop in Session B: "i, South America... l, the
+  three, who were not to taste of death" — a clear italic "i" with a
+  separated dot, unambiguously distinct from "l." Full 1879
+  cross-check: all 12 Block 1 entries (1-2f/1-2g plus 1a-1j) confirmed
+  letter-for-letter and reference-for-reference against
+  pages_1879/page_0556.png and page_0557.png, an exact match. Session
+  B: independently re-verified all 12 entries/markers against a fresh
+  crop, no corrections needed. Session C
+  (`insert_body_text.py 554`): body text inserted correctly, but the
+  script's own book-boundary detection ("chapter < last_chapter")
+  never fires here, since IV Nefi's only chapter and Mormón's first
+  chapter are both numbered "1" — it silently appended only 2 of the
+  12 Block 1 entries (the script's own `split_page()` mistook this
+  page's internal blank-line/header/blank-line for a book boundary as
+  the end of the whole Block 1 section). The book-name header and the
+  10 missing entries (1a-1j) were appended to `librodm_foot.txt` by
+  hand instead, verified against the page's own Block 1 listing;
+  flagged in the page's Corrections log as the first page to exercise
+  a same-chapter-number book boundary, for future multi-page runs.
+  Session D (`generate_block2.py 554`): all 12 entries resolved
+  cleanly, including three cross-references (Véase f, I Nefi 1 → 6;
+  Véase b, Mosíah 18 → 1337; Véase h, Omni 1 → 1003), all
+  thematically consistent on inspection. Entry 4062 wrapped across
+  three lines rather than two due to its first semicolon-delimited
+  segment alone exceeding 72 characters — valid mechanical output,
+  not a defect. Session E: fresh pptext regeneration
+  (`report_wsl_20260731b.html`, live WSL run). All three suspected
+  misprints confirmed as genuine, isolated 1920-only errors via 1886
+  (pages_1886/page_0568.png and page_0569.png) plus RAE and, for
+  "recodré," the modern LDS Spanish edition (Mormón 1:5 "recordé");
+  added to `errors in 1920.txt` (IV Nefi 1:48 "viente"; a new "Mormón
+  (encabezado del libro)" entry for the title misprint; Mormón 1:5
+  "recodré") and to `permitted words.txt` ("recodré" — "viente" was
+  already present, but with no matching errors-log entry, an
+  undetected gap since some earlier session). While researching, found
+  this same "vient-" typo family (already documented at III Nefi
+  5:7/6:9/6:10) also appears, undocumented, at Omni 1:5's identical
+  phrase "trescientos viente" — retroactively added in correct book
+  order. Spellcheck flagged three words from this page ("Antum",
+  "DF", "cuerdo" — the last a common, correctly-spelled word matching
+  1886 exactly, apparently just outside aspell's base dictionary); all
+  three added to `permitted words.txt`, none logged as errors. The
+  edit-distance check paired this page's "cuerdo" with an unrelated
+  pre-existing word, "cuermo" (III Nefi 20:19) — already a genuine,
+  documented `errors in 1920.txt` entry from an earlier session that
+  had never been mirrored into `permitted words.txt`; added now,
+  closing that gap (same class of oversight as the already-documented
+  Helamán 5:35 "seperado" gap). Full report walkthrough beyond
+  spellcheck: zero new dash, footnote-anchor, scanno, curly-quote,
+  repeated-word, long-line, duplicate-line, or special-situations hits
+  for this page's range. Footnote scan: footnotes 4055-4071 form one
+  contiguous, gap-free, duplicate-free range. Whole-document mechanical
+  sweeps (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean against both
+  master files.
+
+- **2026-07-31**: Sessions A–E run for page 555 (Mormón 1:8(cont.)-19,
+  continuing the same chapter opened on page 554, no book/chapter
+  boundary on this page; footnotes 4072-4079, continuing chapter 1's
+  own letter sequence from page 554's "j" with "k" through "r"). Session
+  A: no rule-7 hyphen rejoins (every line ending was a genuine word
+  boundary) and no rule-8 rebalancing needed (every marker-lengthened
+  line stayed at or under 72 chars, longest exactly 72). A genuine
+  zero-width merge in the print, footnote 1l's own citation text
+  "queno" (for "que no habían de gustar la muerte"), was transcribed as
+  two words per the standing narrow-space-vs-merge default (grammar and
+  1879's "who were not to taste of death" both require "no"), not
+  raised mid-pipeline. Two justification-tight-but-real gaps (v.12 "la
+  que duró", v.19 "Y ocurrió") were double-checked at high zoom and
+  confirmed as ordinary narrow spaces, not merges. A false alarm (v.12
+  "paz" looked like it had a stray mark after it at low zoom) resolved
+  at high zoom as just this font's serif "z" glyph, nothing to log.
+  Two suspected misprints were preserved as printed pending Session E,
+  both in the same v.15 sentence: "tante" (expected "tanto") and
+  "vistó" (expected "visitó", missing "i"). Mandatory i/l/1 check:
+  this chapter's own letter "l" recurs three times on this page (its
+  own definition, entry n's "Véase l" cross-reference back to it, and
+  the body-text superscript itself before "amados," v.13); confirmed
+  via 1879 (pages_1879/page_0557.png, book page 550) in both Session A
+  and again from a fresh crop in Session B: "l, the three, who were not
+  to taste of death" — a clear continuous curve, unambiguously distinct
+  from "i." Full 1879 cross-check: all 8 Block 1 entries (1k-1r)
+  confirmed reference-for-reference against pages_1879/page_0557.png
+  and page_0558.png, an exact content match (entry 1k's target LETTER
+  differs, "o" vs. 1879's "g" within Alma 2's own lettering — a
+  translation-artifact letter mismatch per rule 26, not an error).
+  Session B: independently re-verified all 8 entries/markers against a
+  fresh crop, no corrections needed. Session C (`insert_body_text.py
+  555`): no book/chapter boundary on this page, so the script's normal
+  path handled both body text and all 8 Block 1 entries correctly with
+  no manual intervention needed (unlike page 554's same-chapter-number
+  boundary case). Session D (`generate_block2.py 555`): all 8 entries
+  resolved cleanly, including four cross-references (Véase o, Alma 2 →
+  1656; Véase d, III Nefi 28 → 3983; Véase 2a, IV Nefi 1 → 4055; Véase
+  d, II Nefi 1 → 249, cited twice by entries o and q), all thematically
+  consistent on inspection — notably entry o/q's target (II Nefi 1d)
+  itself cites "Mormón 1:17," this very page's own verse. Session E:
+  fresh pptext regeneration (`report_wsl_20260731c.html`, live WSL
+  run). Both suspected misprints confirmed as genuine, isolated
+  1920-only errors via 1886 (pages_1886/page_0570.png, book page 552)
+  plus RAE (no entry for either "tante" or "vistó") plus the modern LDS
+  Spanish edition (Mormón 1:15 "por tanto, me visitó el Señor") plus
+  zero standalone hits in all three reference corpora: added to `errors
+  in 1920.txt` (Mormón 1:15 "tante"; Mormón 1:15 "vistó") and
+  `permitted words.txt` ("tante" — "vistó" was already present from an
+  earlier page). Spellcheck Suspect Words and Edit Distance sections:
+  zero hits from this page's range. Full report walkthrough beyond
+  spellcheck: zero new dash, footnote-anchor, scanno, curly-quote,
+  repeated-word, long-line, duplicate-line, or special-situations hits
+  for this page's range. Footnote scan: footnotes 4072-4079 form one
+  contiguous, gap-free, duplicate-free range (only pre-existing gap in
+  the whole document remains the long-documented footnote 812). Whole-
+  document mechanical sweeps (`check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`/
+  `check_lines.py`) all clean against both master files; an independent
+  curly-quote character scan of both master files also found zero
+  curly quotes.
+
+- **2026-07-31d**: Sessions A–E run for page 556 (Mormón 2:1-10, opening
+  a new chapter — CAPÍTULO 2, no subtitle line present in the image, no
+  book-name header needed since the book itself doesn't change (rule
+  20); footnotes 4080-4086, letters restart fresh at "2a" through "2g"
+  per rule 13). Session A: one rule-7 hyphen rejoin (Lamani-/tas,
+  rejoined onto the first line at 67 chars, no rule-8 rebalancing
+  needed). Six rule-31 space-before-punctuation instances found in the
+  original print and normalized (v.2 "Lamanitas ; bhabiendo", v.3(cont.)
+  "ejércitos ; por", v.8 "Lamanitas ; y", v.8(cont.) "maldades ; por",
+  v.9 "Aarón ;", v.10 "Samuel ; porque"). Rule 23/24 verse-citation
+  formatting applied to Block 1 (not the printed original): entry 2a's
+  "1:12, 15" → "1:12,15" (non-consecutive), entry 2b's "2:7, 8" →
+  "2:7-8" (consecutive). Letter-to-verse mapping required active
+  disambiguation: a 1920 image mark that looked like a genuine raised
+  superscript appeared in v.6 before "fuímos," which would have made 8
+  body-text marks against only 7 lettered entries (a-g); cross-checked
+  against 1879 (pages_1879/page_0558.png, top crop) which shows no
+  footnote at all in the corresponding position, confirming the 1920
+  mark is stray print noise, not a genuine footnote letter, and it was
+  not transcribed. This also resolved which verse entries e/f/g
+  annotate: e → "robbers" (v.8, thematically fits its IV Nefi 1 "2c"
+  Gadianton-robbers target), f → "Aaron" (v.9, matches its own "Moroni
+  9:17" content), g → "Samuel" (v.10, matches its "Véase r, Mormón 1"
+  self-reference back to page 555's own prophecy-fulfillment entry 1r).
+  Content-fit sanity check on entries a-d also confirmed consistent
+  (mismo año/Mormón 1:12,15; year-count/III Nefi 2:7-8; países del
+  Norte/direct geographic gloss; fortificamos/Alma 48's own
+  city-fortification account). Two suspected misprints/anomalies were
+  preserved as printed pending Session E: v.9(cont.) "trescientos
+  trienta años" (expected "treinta," an apparent metathesis) and Block
+  1 entry 2e's "Véase; 2c, IV. Nefi 1." with a semicolon directly after
+  "Véase" (confirmed at high zoom as a genuine semicolon glyph, with no
+  equivalent punctuation in 1879's parallel entry). Mandatory i/l/1
+  check: not triggered — none of this page's own letters (a-g) or
+  cross-reference target letters are i, l, or 1. Google cross-check:
+  this page opens with a chapter heading, so the required blank line
+  after "Página 556" means the automated script's "stop at first blank
+  line" body-extraction convention reads zero body lines (a known blind
+  spot, see page 505); did the manual equivalent instead, reading
+  google_text_1920/page_0578.txt in full — exact word-for-word match,
+  including corroborating "trienta" (not "treinta") and confirming no
+  letter/word at the v.6 "fuímos" stray-mark position. Session B:
+  independently re-verified all 7 Block 1 entries and all 7 `[N]` body
+  markers against a fresh crop, no corrections needed. Session C
+  (`insert_body_text.py 556`): body text and all 7 Block 1 entries
+  appended cleanly, no blank line (same book, chapter boundary only per
+  rule 20), no manual intervention needed. Session D
+  (`generate_block2.py 556`): 6 of 7 entries resolved cleanly, including
+  two cross-references (Véase c, Alma 48 → 2823; Véase r, Mormón 1 →
+  4079, matching page 555's own entry 1r as expected). Entry 2e (Véase
+  2c, IV Nefi 1) stayed unresolved, as expected — IV Nefi comes before
+  Mormón in canonical order but hasn't been transcribed yet at this
+  point in the project (pages being done out of canonical order); will
+  resolve via a future `generate_block2.py --fix-unresolved` run once
+  IV Nefi 1 is done. Session E: fresh pptext regeneration
+  (`report_wsl_20260731d.html`, live WSL run). Both suspected misprints
+  confirmed: "trienta" is already a documented recurring 1920 error
+  pattern (prior instances at IV Nefi 1:1,1:4,1:6 and Omni 1:5) — 1886
+  (pages_1886/page_0571.png, book page 553) confirms "tréinta" and the
+  modern LDS Spanish edition uses "treinta"; added as a new instance at
+  Mormón 2:9 in `errors in 1920.txt` (already covered in `permitted
+  words.txt` via the earlier entries, no new addition needed). The
+  Block 1 entry 2e semicolon anomaly was also confirmed via 1879 (no
+  equivalent punctuation) and added to `errors in 1920.txt` as a
+  Footnote-style entry; preserved as printed. Spellcheck Suspect Words:
+  two hits, both reviewed and added to `permitted words.txt` — "Angola"
+  (Book of Mormon place name, no error) and "séis" (archaic accented
+  form matching 1886 exactly, consistent with this document's
+  established "veintiséis" pattern). Edit Distance Checks: "séis" also
+  paired against seis/dais/sois/usáis/veis, same explanation, no
+  further action. "trienta" itself was not flagged by pptext's
+  spellcheck section (expected — already suppressed via `permitted
+  words.txt` from the earlier entries), logged regardless on the
+  strength of the 1886/modern-edition comparison. Full report
+  walkthrough beyond spellcheck: all remaining hits fell into
+  already-established non-issue categories (short lines, the legitimate
+  verse-range hyphen in "2:7-8," mixed letters/numbers in "2c"/"2j," and
+  the standalone "Mormón 1:12,15" citation). Footnote scan: footnotes
+  4080-4086 form one contiguous, gap-free, duplicate-free range, only
+  pre-existing gap remains the long-documented footnote 812.
+  Whole-document mechanical sweeps (`check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`/
+  `check_lines.py`) all clean against both master files (two
+  pre-existing `librodm_foot.txt` lines over 79 chars, at lines 541 and
+  664, are unrelated to this page and predate it). An independent
+  curly-quote character scan of both master files also found zero
+  curly quotes.
+
+- **2026-08-01**: Sessions A-E run for page 557 (Mormón 2:11-20,
+  continuing the same chapter opened on page 556, no book/chapter
+  boundary on this page; footnotes 4087-4092, continuing chapter 2's
+  own letter sequence from page 556's "g" with "h" through "m").
+  Session A: 3 rule-7 hyphen rejoins (lamenta-/ción, perse-/guido,
+  abomina-/ciones), none needing rule-8 rebalancing. Six rule-31
+  space-before-punctuation instances normalized. A genuine zero-width
+  merge in the print, v.20 "quellegamos," was transcribed as two words
+  ("que llegamos") per the standing narrow-space-vs-merge default, not
+  raised mid-pipeline; batched into this session's summary as an
+  editor pointer per that rule's usual practice. Google cross-check
+  (`check_google_crosscheck.py 557`) caught one genuine transcription
+  slip missed on the first pass: v.16 "perseguieron" had been silently
+  "corrected" to the grammatically-expected "persiguieron" from memory
+  rather than transcribed as printed; a fresh zoomed re-read confirmed
+  the image genuinely shows "perseguieron," and the text was fixed to
+  match. Mandatory i/l/1 check: this chapter's own letters "i" (2i,
+  "depositado") and "l" (2l, "estas") both appear on this page;
+  confirmed via same-page glyph comparison and via 1879
+  (pages_1879/page_0559.png, book page 551, entries h/i/j;
+  pages_1879/page_0560.png, book page 552, entries k/l/m) in both
+  Session A and again independently in Session B from a fresh crop —
+  exact letter-for-letter and content match in both editions. Full
+  1879 cross-check: all 6 Block 1 entries (2h-2m) confirmed
+  reference-for-reference; entry 2l's target letter differs ("o" vs.
+  1879's "g" within III Nefi 5's own lettering) — a translation-
+  artifact letter mismatch per rule 26, the same phenomenon already
+  logged on page 555 for a different target chapter. Block 1
+  formatting normalized per this document's own conventions: entry
+  2h's printed "Mormón 1:3. 4:23." → "Mormón 1:3; 4:23."; entry 2i's
+  "IV Nefi 1:48, 49" (consecutive) → "48-49"; entry 2j's printed
+  "Mormón 1:4. Véase I Nefi 1," (period between references, trailing
+  comma instead of a period) → "Mormón 1:4; Véase I Nefi 1." — the
+  1920 print itself gives no cross-reference letter before "I Nefi 1"
+  there (1879's parallel entry cites letter "f"), matching this
+  document's existing precedent for a letter-less book/chapter
+  reference elsewhere, not treated as an error. Session B:
+  independently re-verified all 6 entries/markers against a fresh
+  crop, no corrections needed. Session C (`insert_body_text.py 557`):
+  no book/chapter boundary on this page, so the script's normal path
+  handled both body text and all 6 Block 1 entries correctly with no
+  manual intervention. Session D (`generate_block2.py 557`): 5 of 6
+  entries resolved cleanly to bare sequential numbers (including a
+  multi-step chained resolution for entry 2l, III Nefi 5's own "o" →
+  I Nefi 15's own "e" → 128, a scattering/gathering-of-Israel
+  citation, consistent with I Nefi 15's own content); entry 2j (Véase
+  I Nefi 1, no specific letter) stayed in letter-less book/chapter
+  form as expected, not an unresolved-cross-reference case. Session E:
+  fresh pptext regeneration (`report_wsl_20260801.html`, live WSL
+  run). All three suspected misprints from Session A turned out to be
+  genuine non-issues rather than 1920-only errors: v.15 "aflijí," v.16
+  "perseguieron," and v.18 "reflección" are all confirmed via 1886
+  (pages_1886/page_0571.png, book page 553; pages_1886/page_0572.png,
+  book page 554) as exact matches to the 1920 reading — added to
+  `permitted words.txt` ("aflijí," "reflección" — "perseguieron" was
+  already present from an earlier page). Independent research
+  corroborated all three beyond the 1886 match alone: RAE's Tesoro de
+  los diccionarios históricos has a period entry for "aflijo" (the
+  same j-spelling family); "perseguieron" (vs. modern "persiguieron")
+  is a documented historical vowel-alternation variant predating the
+  e→i stem-change regularization; "reflección" has no RAE DLE entry
+  and zero hits in the local reference corpora, but the exact 1886
+  same-lineage match is decisive regardless per the standing
+  convention. The modern LDS Spanish edition (Mormón 2:15-16) wasn't
+  directly comparable for any of the three, since its wording is
+  independently reworded at all three spots. Spellcheck Suspect Words:
+  two hits, both Book of Mormon place names ("Jashón," "Shem," v.16-
+  20), added to `permitted words.txt`, no errors logged. Edit Distance
+  Checks: zero hits from this page's range. Footnote scan (whole
+  document): footnotes 4087-4092 contiguous, gap-free, duplicate-free,
+  in-range; only pre-existing gap remains the long-documented footnote
+  812. Full report walkthrough beyond spellcheck: all remaining hits
+  fell into already-established non-issue categories (short lines);
+  the "full stop followed by unexpected sequence" paragraph-level
+  check specifically returned zero hits from this page's text (checked
+  by phrase search since that subsection doesn't cite line numbers).
+  Whole-document mechanical sweeps (`check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`/
+  `check_lines.py`) all clean against both master files; an independent
+  curly-quote character scan of both master files also found zero
+  curly quotes. Also backfilled this session: `sessions-log.md` was
+  missing entries for both page 555 (existed only in CLAUDE.md's
+  Current Progress snapshot, never appended here) and page 556 (fully
+  completed A-E per the master files' own content, but never logged
+  anywhere at all) — both were reconstructed from the master files and
+  page_556.txt's own Corrections log and inserted immediately before
+  this entry, in chronological order.
+- **2026-08-01**: Sessions A–E run for page 557 (Mormón 2:11-20,
+  continuing the same chapter opened on page 556, no book/chapter
+  boundary on this page; footnotes 4087-4092, continuing chapter 2's
+  own letter sequence from page 556's "g" with "h" through "m").
+  Session A: 3 rule-7 hyphen rejoins (lamenta-/ción, perse-/guido,
+  abomina-/ciones), none needing rule-8 rebalancing. Six rule-31
+  space-before-punctuation instances normalized. A genuine zero-width
+  merge in the print, v.20 "quellegamos," was transcribed as two words
+  ("que llegamos") per the standing narrow-space-vs-merge default, not
+  raised mid-pipeline; batched into this session's summary as an
+  editor pointer per that rule's usual practice. Google cross-check
+  (`check_google_crosscheck.py 557`) caught one genuine transcription
+  slip missed on the first pass: v.16 "perseguieron" had been silently
+  "corrected" to the grammatically-expected "persiguieron" from memory
+  rather than transcribed as printed; a fresh zoomed re-read confirmed
+  the image genuinely shows "perseguieron," and the text was fixed to
+  match. Mandatory i/l/1 check: this chapter's own letters "i" (2i,
+  "depositado") and "l" (2l, "estas") both appear on this page;
+  confirmed via same-page glyph comparison and via 1879
+  (pages_1879/page_0559.png, book page 551, entries h/i/j;
+  pages_1879/page_0560.png, book page 552, entries k/l/m) in both
+  Session A and again independently in Session B from a fresh crop —
+  exact letter-for-letter and content match in both editions. Full
+  1879 cross-check: all 6 Block 1 entries (2h-2m) confirmed
+  reference-for-reference; entry 2l's target letter differs ("o" vs.
+  1879's "g" within III Nefi 5's own lettering) — a translation-
+  artifact letter mismatch per rule 26, the same phenomenon already
+  logged on page 555 for a different target chapter. Block 1
+  formatting normalized per this document's own conventions: entry
+  2h's printed "Mormón 1:3. 4:23." → "Mormón 1:3; 4:23."; entry 2i's
+  "IV Nefi 1:48, 49" (consecutive) → "48-49"; entry 2j's printed
+  "Mormón 1:4. Véase I Nefi 1," (period between references, trailing
+  comma instead of a period) → "Mormón 1:4; Véase I Nefi 1." — the
+  1920 print itself gives no cross-reference letter before "I Nefi 1"
+  there (1879's parallel entry cites letter "f"), matching this
+  document's existing precedent for a letter-less book/chapter
+  reference elsewhere, not treated as an error. Session B:
+  independently re-verified all 6 entries/markers against a fresh
+  crop, no corrections needed. Session C (`insert_body_text.py 557`):
+  no book/chapter boundary on this page, so the script's normal path
+  handled both body text and all 6 Block 1 entries correctly with no
+  manual intervention. Session D (`generate_block2.py 557`): 5 of 6
+  entries resolved cleanly to bare sequential numbers (including a
+  multi-step chained resolution for entry 2l, III Nefi 5's own "o" →
+  I Nefi 15's own "e" → 128, a scattering/gathering-of-Israel
+  citation, consistent with I Nefi 15's own content); entry 2j (Véase
+  I Nefi 1, no specific letter) stayed in letter-less book/chapter
+  form as expected, not an unresolved-cross-reference case. Session E:
+  fresh pptext regeneration (`report_wsl_20260801.html`, live WSL
+  run). All three suspected misprints from Session A turned out to be
+  genuine non-issues rather than 1920-only errors: v.15 "aflijí," v.16
+  "perseguieron," and v.18 "reflección" are all confirmed via 1886
+  (pages_1886/page_0571.png, book page 553; pages_1886/page_0572.png,
+  book page 554) as exact matches to the 1920 reading — added to
+  `permitted words.txt` ("aflijí," "reflección" — "perseguieron" was
+  already present from an earlier page). Independent research
+  corroborated all three beyond the 1886 match alone: RAE's Tesoro de
+  los diccionarios históricos has a period entry for "aflijo" (the
+  same j-spelling family); "perseguieron" (vs. modern "persiguieron")
+  is a documented historical vowel-alternation variant predating the
+  e→i stem-change regularization; "reflección" has no RAE DLE entry
+  and zero hits in the local reference corpora, but the exact 1886
+  same-lineage match is decisive regardless per the standing
+  convention. The modern LDS Spanish edition (Mormón 2:15-16) wasn't
+  directly comparable for any of the three, since its wording is
+  independently reworded at all three spots. Spellcheck Suspect Words:
+  two hits, both Book of Mormon place names ("Jashón," "Shem," v.16-
+  20), added to `permitted words.txt`, no errors logged. Edit Distance
+  Checks: zero hits from this page's range. Footnote scan (whole
+  document): footnotes 4087-4092 contiguous, gap-free, duplicate-free,
+  in-range; only pre-existing gap remains the long-documented footnote
+  812. Full report walkthrough beyond spellcheck: all remaining hits
+  fell into already-established non-issue categories (short lines);
+  the "full stop followed by unexpected sequence" paragraph-level
+  check specifically returned zero hits from this page's text (checked
+  by phrase search since that subsection doesn't cite line numbers).
+  Whole-document mechanical sweeps (`check_spaced_punctuation.py`/
+  `check_footnote_punctuation.py`/`check_verse_indent.py`/
+  `check_lines.py`) all clean against both master files; an independent
+  curly-quote character scan of both master files also found zero
+  curly quotes.
+
+- **2026-08-01**: Sessions A–E run for page 558 (Mormón 2:21-29, closing
+  the chapter opened on page 556, then CAPÍTULO 3 opens mid-page with
+  vv.1-2, cut off mid-verse; footnotes 4093-4097, chapter 2's own
+  letter sequence continuing from page 557's "m" with "n" through "r";
+  no footnotes yet in chapter 3's own opening verses on this page).
+  Session A: 1 rule-7 hyphen rejoin (exhor-/tándoles), well under the
+  73-char cap, no rule-8 rebalancing needed. Seven rule-31
+  space-before-punctuation instances normalized, plus four
+  justification-widened double-spaces. Two narrow-space-vs-merge
+  defaults applied per the standing rule (v.21 "ciudad de Shem," v.26
+  "por lo tanto"), batched into this session's summary as editor
+  pointers rather than raised mid-pipeline. Two suspected misprints
+  investigated at transcription time: CAP.3 v.1 "sus tierras armas"
+  shows a distinctly wide gap with no connecting word present, zoom-
+  confirmed; both 1886 (pages_1886/page_0573.png, book page 555) and
+  1879 (pages_1879/page_0561.png, book page 553) confirm a missing "y,"
+  so this was promoted to `errors in 1920.txt` in Session E. v.26's
+  "vimos" initially looked like it might read "vimbs" at moderate zoom;
+  a very high zoom crop showed the extra mark is an ink blob on an
+  ordinary "o" bowl rather than a genuine ascender, and this was
+  independently corroborated by both the Google OCR cross-check
+  (`check_google_crosscheck.py 558`, which read "vimos" at that exact
+  position) and 1886 (same page, "vímos") — resolved as print damage,
+  not a misprint, no `errors in 1920.txt` entry. Mandatory i/l/1 check:
+  this page's own chapter-2 letters (n-r) contain no i/l/1, but two
+  cross-reference target codes (2o, 2q) are hard-to-read two-character
+  swash forms ("2c," "2v"); confirmed via 1879 (pages_1879/page_0560.png,
+  book page 552, entry o; pages_1879/page_0561.png, book page 553,
+  footnote line below v.9, entry q) in both Session A and again
+  independently in Session B from a fresh crop — exact match in both.
+  Full 1879 cross-check: all 5 Block 1 entries (2n-2r) confirmed
+  reference-for-reference, no translation-artifact letter mismatches
+  this page. Session B: independently re-verified all 5 entries/markers
+  against a fresh crop, no corrections needed. Session C
+  (`insert_body_text.py 558`): no book/chapter boundary within Mormón,
+  so the script's normal path handled both body text and all 5 Block 1
+  entries correctly with no manual intervention. Session D
+  (`generate_block2.py 558`): all 5 entries resolved cleanly to bare
+  sequential numbers, including entry 2q's resolution to 2248 (Alma
+  22's own "2v" entry), whose own reference text already cited forward
+  to "Mormón 2:29" from whenever Alma 22 was originally transcribed —
+  confirmed as a pre-existing forward citation, not a new circular
+  reference. Session E: fresh pptext regeneration
+  (`report_wsl_20260801b.html`, live WSL run). Spellcheck Suspect
+  Words: one hit, "energicamente" (v.23) — confirmed via 1886
+  (pages_1886/page_0572.png, book page 554) as an exact match to the
+  1920 reading (same unaccented spelling), added to `permitted
+  words.txt`, no error logged. RAE DLE has no entry for the unaccented
+  form and all three local reference corpora returned zero hits for
+  it, consistent with a simple missing-accent case (1886 omits it too)
+  rather than a genuine misspelling. Edit Distance Checks: zero hits
+  from this page's range. Footnote scan (whole document): footnotes
+  4093-4097 contiguous, gap-free, duplicate-free, in-range (footnote
+  4094's separate listing in the report is a line-start bucketing
+  quirk, not a defect); only pre-existing gap remains the long-
+  documented footnote 812. Full report walkthrough beyond spellcheck:
+  all remaining hits fell into already-established non-issue
+  categories (short lines). Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean against both
+  master files; an independent curly-quote character scan of both
+  master files also found zero curly quotes. `check_line_wrap.py`'s
+  advisory OCR line-count cross-check flagged this page (33 vs. 38);
+  re-verified by recounting the raw print lines directly against the
+  image crops (39 total content lines, matching this file exactly) —
+  treated as the tool's own quirk around the chapter-heading boundary,
+  not a transcription defect.
+- **2026-08-01**: Sessions A–E run for page 559 (Mormón 3:2-12, all
+  within chapter 3, opened mid-page on 558; footnotes 4098-4103,
+  chapter 3's own letter sequence starting fresh at "a" through "f"
+  since chapter 3 had no footnotes yet on page 558). Session A: 4
+  rule-7 hyphen rejoins (apo-/deraran, ba-/talla, matán-/doles,
+  abomina-/ciones — the last fully consumed its raw second line since
+  nothing but the hyphen remainder was on it), all well under the
+  73-char cap, no rule-8 rebalancing needed. Nine rule-31
+  space-before-punctuation instances normalized, plus three
+  justification-widened double-spaces. No narrow-space-vs-merge
+  defaults needed this page. One suspected misprint investigated at
+  transcription time and resolved as normal print, not a misprint:
+  v.12 "corazón" looked at standard zoom like the accent might be a
+  fused "b" (same visual phenomenon as page 558's "vimos"/"vimbs"
+  case); a 30x crop isolated to just that letter showed an ordinary
+  acute accent above a normal "o" bowl, later corroborated against
+  1886 (pages_1886/page_0574.png, book page 556, same word, unaccented
+  "corazon") in Session E — no `errors in 1920.txt` entry. Google-text
+  cross-check (`check_google_crosscheck.py 559`) surfaced 2 candidates
+  beyond the auto-dismissed footnote-marker-glue noise, both resolved
+  as OCR noise (a superscript-letter glue variant just past the
+  auto-dismiss threshold near v.2, and a stray printer's-ornament dot
+  google inserted near the v.10/11 boundary) — no corrections needed.
+  Mandatory i/l/1 check: this page's own chapter-3 lettering (a-f) has
+  no i/l/1 directly, but two cross-reference target codes (3b, 3f)
+  are hard-to-read swash "2l" forms; confirmed via 1879
+  (pages_1879/page_0561.png, book page 553) in both Session A and
+  independently again in Session B from a fresh crop — exact match
+  both times, 1879's clearer serif font leaving no ambiguity. Full
+  1879 cross-check: all 6 Block 1 entries (3a-3f) confirmed
+  reference-for-reference, no translation-artifact letter mismatches
+  this page. Session B: independently re-verified all 6 entries/markers
+  against a fresh crop, no corrections needed. Session C
+  (`insert_body_text.py 559`): no book/chapter boundary within Mormón,
+  handled body text and all 6 Block 1 entries correctly with no manual
+  intervention. Session D (`generate_block2.py 559`): all 6 entries
+  resolved cleanly to bare sequential numbers, including both 3b and
+  3f resolving to the same target (2248, Alma 22's own "2v" entry) and
+  3e/page 558's 2n both resolving to 2823 (Alma 48's own "c" entry) —
+  consistent cross-page resolution, not a new circular reference.
+  Session E: fresh pptext regeneration (`report_wsl_20260801c.html`,
+  live WSL run). Spellcheck Suspect Words: zero hits from this page's
+  range. Edit Distance Checks: zero hits from this page's range.
+  Footnote scan (whole document): footnotes 4098-4103 contiguous,
+  gap-free, duplicate-free, in-range; only pre-existing gap remains
+  the long-documented footnote 812. Full report walkthrough beyond
+  spellcheck: all hits in this page's line ranges fell into the
+  already-established "short lines check" non-issue category.
+  Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean against both
+  master files (two pre-existing `check_lines.py` hyphen-rejoin
+  advisories are on unrelated earlier pages); an independent
+  curly-quote character scan of both master files also found zero
+  curly quotes. `check_line_wrap.py` advisory OCR cross-check: no red
+  flag (42 OCR-estimated vs. 43 transcribed, well within the tool's
+  own advisory tolerance).
+
+- **2026-08-01**: Sessions A–E run for page 560 (Mormón 3:13-22, all
+  within chapter 3, continuing page 559's letter sequence at "g"
+  through "r", 12 entries; footnotes 4104-4115). Session A: 1 rule-7
+  hyphen rejoin (cruci-/ficaron -> crucificaron) that hit exactly 73
+  chars after a naive rejoin, so rule 8 rebalancing moved the whole
+  word to start the next line instead (matching page 559's
+  "abomina-/ciones" precedent). Eleven rule-31 space-before-punctuation
+  instances normalized. Five suspected misprints investigated
+  immediately against 1886 (not deferred to Session E, since the 1886
+  lookup was already open for other work this page): v.14 "por. sí"
+  (genuine extraneous period, confirmed absent in 1886) and v.16
+  "postrar" (1886/modern-edition both read "mostrar" — "to show," the
+  only grammatical fit) and v.20's missing semicolon after "Adam"
+  (1886 has one) and v.21 "mimo" (1886 reads "mismo") all confirmed as
+  genuine 1920-only errors and logged in `errors in 1920.txt`; a fifth,
+  v.16's smaller mark after "el," was initially transcribed as a
+  period ("el. Señor") and flagged rather than logged, since it read
+  differently from v.14's clean period — the editor's own look at the
+  page (a snip, `el-dot-Senor.png`) confirmed it's a tiny scan speck,
+  not print, so it was corrected to plain "el Señor" in both
+  `pages/page_560.txt` and `librodm.txt`, not logged as an error. Mandatory i/l/1 check: this page's own
+  lettering includes both "i" (Mormón 6) and "l" (I Nefi 12:9);
+  confirmed via 1879 (pages_1879/page_0562.png, book page 554) in both
+  Session A and independently again in Session B from a fresh crop —
+  exact match both times. Full 1879 cross-check: all 12 Block 1
+  entries (3g-3r) confirmed reference-for-reference against
+  pages_1879/page_0562.png (entries g-o) and page_0563.png (entries
+  p-r, book page 555), including the "g" first-letter identification
+  itself (alphabetical continuation from page 559's final "f",
+  independently corroborated by 1879's own clearer type). Rule 23
+  formatting applied to entry g ("Versículos 7,8" -> "7-8"), h ("9,10"
+  -> "9-10"), and p ("41,42" trailing an existing range -> "41-42"),
+  matching established document convention. Session B: independently
+  re-verified all 12 entries/markers against a fresh crop, no
+  corrections needed. Session C (`insert_body_text.py 560`): no book/
+  chapter boundary within Mormón, handled body text and all 12 Block 1
+  entries correctly with no manual intervention. Session D
+  (`generate_block2.py 560`): all 12 entries resolved cleanly to bare
+  sequential numbers (targets in already-transcribed I/II/III Nefi),
+  none left as unresolved letter forms. Session E: fresh pptext
+  regeneration (`report_wsl_20260801d.html`, live WSL run). Spellcheck
+  Suspect Words: one hit from this page's range, "determinadamente"
+  (v.16) — confirmed via 1886 (identical word at the parallel spot)
+  and RAE's Tesoro de los diccionarios históricos (a legitimate,
+  standardly-formed -mente adverb simply absent from aspell's Spanish
+  dictionary); added to `permitted words.txt`, no error logged. Edit
+  Distance Checks: zero hits from this page's range. Footnote scan
+  (whole document, computed directly from `[N]` markers): footnotes
+  4104-4115 contiguous, gap-free, duplicate-free, in-range; only
+  pre-existing gap remains the long-documented footnote 812. Full
+  report walkthrough beyond spellcheck: all remaining hits in this
+  page's line ranges fell into the already-established "short/long
+  lines check" non-issue category. Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`/`check_lines.py`) all clean against both
+  master files; an independent curly-quote character scan of both
+  master files also found zero curly quotes. `check_line_wrap.py`
+  advisory OCR cross-check: no red flag (42 OCR-estimated vs. 42
+  transcribed, exact match).
+- **2026-08-01**: Sessions A–E run for page 561 (Mormón 4:1-10, a new
+  chapter opening — CAPÍTULO 4 begins right at the top of the page
+  with no subtitle, letters restart at "a", 7 entries; footnotes
+  4116-4122). Session A: 1 rule-8 rebalancing (v.1's inserted
+  `[4116]` marker pushed the line to 74 chars, so "ejércitos" moved
+  to start the next line) and 1 rule-7 hyphen rejoin (v.10
+  "continua-/mente" -> "continuamente", well under the cap, no
+  further rebalancing needed). Six rule-31 space-before-punctuation
+  instances normalized. Two double-space justification artifacts
+  normalized to single spaces (v.3, v.8). Mandatory i/l/1 check: this
+  chapter's own lettering (a-g) has no i/l/1 directly, but four
+  "Véase" cross-references (entries a, b, d, g) target Alma 22's own
+  two-letter "2l" code, which falls in the mandatory set — confirmed
+  via 1879 (pages_1879/page_0563.png, book page 555, entries a-f, and
+  page_0564.png, book page 556, entry g) in both Session A and
+  independently again in Session B from a fresh crop — exact match
+  both times, resolving a swash-font ambiguity between "l" and "2l"
+  that the 1920 image alone couldn't settle. Full 1879 cross-check:
+  all 7 Block 1 entries (4a-4g) confirmed reference-for-reference,
+  including body-marker placement and a content-fit check (a/b/d/g
+  all annotate "país/ciudad de Desolación", matching Alma 22's
+  geography content; c/e both annotate "ciudad de Teáncum"; f's
+  "Mormón 3:9" matches the chapter 3 boasting precedent for v.8's
+  "se jactaron otra vez"). One narrow-space-vs-merge default applied
+  per the established editor-guidance rule (v.10 "que se había",
+  1920 print shows the words essentially touching but grammar
+  requires two words) — not raised as a standalone question, batched
+  into this session's summary and additionally corroborated by 1886
+  printing normal unmerged spacing at the parallel spot. One
+  preserved-as-printed accent note (v.5 "por quiénes") checked
+  against 1886 in Session E rather than flagged as an error — 1886
+  reads unaccented "por quienes", confirming the 1920 accent is the
+  same house-style addition already established for "dónde" (v.3
+  here and prior pages' Corrections logs), not a substantive error;
+  no `errors in 1920.txt` or `permitted words.txt` entry needed.
+  `check_line_wrap.py`/`check_google_crosscheck.py` both reported 0
+  body lines for this page — a pre-existing tool limitation (their
+  shared body-extraction heuristic stops at the first blank line
+  after "Página N", which here is the blank line before the chapter
+  heading itself), confirmed not page-specific by reproducing the
+  identical 0-line result on page 556 (an earlier accepted page with
+  the same opens-with-chapter-heading structure); the actual rule 5/6
+  per-line image read was still done directly against the crops.
+  Session B: independently re-verified all 7 Block 1 entries and all
+  7 `[N]` body markers against a fresh `process_page.py` crop, no
+  corrections needed. Session C (`insert_body_text.py 561`): no book
+  boundary (still within Mormón), handled body text and all 7 Block 1
+  entries correctly with no manual intervention. Session D
+  (`generate_block2.py 561`): all 7 entries resolved cleanly — the
+  four "2l" cross-references all resolved to Alma 22's own sequential
+  number 2238, and entry e's "Véase c" resolved to this page's own
+  entry c (4118). Session E: fresh pptext regeneration
+  (`report_wsl_20260801e.html`, live WSL run). Spellcheck Suspect
+  Words: zero hits from this page's range. Edit Distance Checks: zero
+  hits from this page's range. Footnote scan (whole document,
+  computed directly from `[N]` markers): footnotes 4116-4122
+  contiguous, gap-free, duplicate-free, in-range; only pre-existing
+  gap remains the long-documented footnote 812. Full report
+  walkthrough beyond spellcheck: special situations and
+  paragraph-level checks (including "full stop followed by
+  unexpected sequence") produced zero hits from this page's content.
+  Whole-document mechanical sweeps
+  (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+  `check_verse_indent.py`) all clean against both master files; an
+  independent curly-quote character scan of both master files also
+  found zero curly quotes. No new `permitted words.txt` or `errors in
+  1920.txt` entries resulted from this page.

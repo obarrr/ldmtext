@@ -1,0 +1,244 @@
+Página 554
+viente años, Ammarón, movido por el Espíritu Santo, ocultó
+los anales que fueron sagrados; sí, ocultó [4060]todos los anales,
+sagrados, que se le habían sido transmitidos de generación en
+generación, los cuales estaban sagrados aún hasta el año trescientos
+veinte desde la venida de Jesu Cristo.
+49. Y los ocultó para el Señor, con el objeto de que volvieran
+otra vez [4061]al resto de la casa de Jacob, según las profecías y las
+promesas del Señor. Y así concluyen los anales de Ammarón.
+
+LIBRO DF MORMON.
+
+CAPÍTULO 1.
+
+1. Ahora yo, Mormón, voy á escribir la relación de las cosas
+que he visto y oído, á las que doy el nombre del [4062]Libro de Mormón.
+2. En la época en que [4063]Ammarón ocultó los anales para el
+Señor, se llegó á mí (cuando yo tenía diez años; y empezaba á
+adquirir alguna instrucción en la ciencia de mi pueblo,) y me dijo:
+Veo que eres un muchacho cuerdo, y de buen entendimiento;
+3. Por lo tanto, cuando llegues á la edad de veinticuatro
+años, quiero que recuerdes las cosas que hayas observado en
+este pueblo; y cuando llegues á esa edad, vé al país de [4064]Antum
+á una colina que será llamada [4065]Shim, y allí he [4066]depositado
+para el Señor todos los sagrados grabados que pertenecen á este
+pueblo.
+4. Y, he aquí, que cogerás las [4067]planchas de Nefi para guardarlas,
+y lo restante lo dejarás en el lugar donde se hallan; y
+en las planchas de Nefi grabarás [4068]todas las cosas que observes
+acerca de este pueblo.
+5. Y yo, Mormón, siendo descendiente de [4069]Nefi, (y Mormón
+era el nombre de mi padre,) recodré lo que me había sido
+mandado por Ammarón.
+6. Y sucedió, que á la edad de once años, me llevó mi padre
+al [4070]Sud, aún hasta el [4071]país de Zarahemla;
+7. Toda la superficie del país habiendo sido cubierta con
+edificios, y sus habitantes eran casi tan numerosos como las
+arenas del mar.
+8. Y sucedió que en este mismo año se declaró una guerra
+entre los Nefitas, que era el pueblo compuesto de Nefitas y
+
+1-2f, 4060: Alma 37; Helamán 3:13,15-16.
+1-2g, 4061: En los últimos días.
+
+LIBRO DE MORMÓN
+
+1a, 4062: Consistiendo de nueve capítulos en su forma abreviada. Mormón
+2:17-18; 5:9.
+1b, 4063: IV Nefi 1:47-49.
+1c, 4064: Mormón 2:17.
+1d, 4065: Mormón 4:23; Éther 9:3.
+1e, 4066: IV Nefi 1:48.
+1f, 4067: Véase f, I Nefi 1.
+1g, 4068: Mormón 2:18.
+1h, 4069: III Nefi 5:12,20; Véase b, Mosíah 18.
+1i, 4070: Sur América.
+1j, 4071: Véase h, Omni 1.
+
+Corrections:
+Page continues mid-verse 48 (finishing IV Nefi chapter 1) at the very
+top with no blank line after "Página 554" -- matches established
+convention for a page opening mid-sentence.
+Rule-7 hyphenated line-break rejoins (3 instances, all under the
+72-char cap after rejoining, no rule-8 rebalancing needed): "tres-
+/cientos" -> "trescientos" (v.48 continuation); "guar-/darlas" ->
+"guardarlas" (v.4); "Mor-/món" -> "Mormón" (v.5, "y Mormón era el
+nombre de mi padre"). Separately (v.3), the unrelated line "á una
+colina que será llamada [4065]Shim, y allí he [4066]depositado para"
+hit 73 characters once both footnote markers were inserted and needed
+rule-8 rebalancing: "para" moved to the start of the next line.
+Rule-31 space-before-punctuation instances found in the original
+print and normalized: v.48(cont.) "sagrados ; sí" -> "sagrados; sí";
+v.2 "años ; y" -> "años; y"; v.2 "dijo :" -> "dijo:"; v.2
+"entendimiento ;" -> "entendimiento;"; v.3 "pueblo ; y" -> "pueblo; y";
+v.4 "hallan ; y" -> "hallan; y"; v.6 "Zarahemla ;" -> "Zarahemla;".
+Rule-6 justification-widened gaps normalized to a single space: v.2
+"la  época" -> "la época"; v.3 "tanto,  cuando" -> "tanto, cuando";
+v.49(cont.) "Señor.   Y así" -> "Señor. Y así".
+Narrow-space-vs-merge default (v.4): the print shows "dondese hallan"
+with what reads as a true zero-width merge at high zoom, but grammar
+requires two words here ("donde se hallan," relative adverb + reflexive
+pronoun + verb) -- per the standing rule, transcribed as "donde se
+hallan" without stopping to raise it as a standalone question; noted
+here for the editor's convenience per that rule's collection
+instruction.
+Suspected misprints -- preserved as printed per rule 32, to verify
+against 1886/RAE in Session E: v.48(cont.) "viente" (letters
+transposed; expected "veinte" -- the same paragraph correctly prints
+"veinte" three lines later in "el año trescientos veinte", making this
+instance look like an isolated misprint rather than a page-wide
+variant spelling); v.5 "recodré" (missing "r"; expected "recordé", "I
+remembered").
+Book-title heading misprint (preserved as printed, flagged for
+editor): the body text prints the new book's title heading as "LIBRO
+DF MORMON." immediately before "CAPÍTULO 1." -- both a "D-F" typo for
+"DE" and a missing accent on "MORMÓN" (compare this same page's own
+running header, "554  LIBRO DE MORMÓN.  (CAP. I", which prints
+correctly). Preserved exactly as printed in the body text per rule 32.
+However, the Block 1 book-name header (rule 19) uses the standard
+corrected form "LIBRO DE MORMÓN" instead of copying the misprint,
+since that header is a structural navigation label (not verbatim body
+text) and every other such header already in librodm_foot.txt reflects
+the correct book name; this also matches the document's own index
+("LIBRO DE MORMÓN 554", librodm.txt line 544) and this page's running
+header. No prior page has had a misprinted title-heading source line,
+so this judgment call is flagged here explicitly rather than applied
+silently.
+Mandatory i/l/1 check (Section 8): this page's new chapter (Mormón 1)
+introduces its own footnote letter "i" (Sur América, v.6), which is in
+the mandatory set. Confirmed via 1879 (pages_1879/page_0557.png, book
+page 549, bottom footnote block): "i, South America. j, see h, Omni 1.
+k, see g, Alma 2. l, the three, who were not to taste of death." -- a
+clear italic "i" unambiguously distinct from the "l" appearing two
+entries later in the same block.
+Full 1879 cross-check (Section 8): entries 1-2f/1-2g confirmed via
+pages_1879/page_0556.png (book page 548, bottom footnote block): "2f,
+Alma 37. Hela. 3:13,15,16. 2g, in the latter days." -- exact match.
+Entries 1a-1h confirmed via the same page's footnote block: "a,
+consisting of nine chapters in its abridged form. Mor. 2:17,18. 5:9.
+b, IV Nep. 1:47-49. c, Mor. 2:17. d, Mor. 4:23. Ether 9:3. e, IV Nep.
+1:48. f, see f, I Nep. 1. g, Mor. 2:18. h, III Nep. 5:12,20. See b,
+Mos. 18." -- exact match (1879 prints entry a's "17,18" with a comma;
+rendered here as "17-18" per rule 23 for consecutive verses, the same
+normalization already applied throughout this document). Entries
+1i/1j confirmed via pages_1879/page_0557.png as noted above.
+Content-fit sanity check: entry a (nine chapters, abridged form)
+annotates "Libro de Mormón" (v.1, the book's own self-referential
+title) -- exact match. Entry b (IV Nefi 1:47-49) annotates "Ammarón"
+(v.2) -- the same Ammarón episode concluding IV Nefi, exact match.
+Entry c (Mormón 2:17) annotates "Antum" (v.3). Entry d (Mormón 4:23;
+Éther 9:3) annotates "Shim" (v.3) -- the hill where the records were
+hidden; Éther 9:3 also references the hill Shim, a good match. Entry e
+(IV Nefi 1:48) annotates "depositado" (v.3) -- matches the deposit
+described at the very end of IV Nefi. Entry f (Véase f, I Nefi 1)
+annotates "planchas" (v.4) -- the plates of Nephi, first introduced in
+I Nefi 1, exact match. Entry g (Mormón 2:18) annotates "todas" (v.4).
+Entry h (III Nefi 5:12,20; Véase b, Mosíah 18) annotates "Nefi" (v.5)
+-- Mormón's descent from Nephi, with a cross-reference to the naming
+of the church in Mosíah 18, thematically consistent. Entry i (Sur
+América) annotates "Sud" (v.6) -- "South" glossed as South America,
+exact fit. Entry j (Véase h, Omni 1) annotates "país" (v.6) -- the
+land of Zarahemla, previously described in Omni 1, exact match. All
+ten plausible, no red flags.
+Page ends mid-verse 8 (continues on page 555); the line-final "y" is
+not hyphenated at the page break, so no rule-10 word-split handling
+applies here.
+Session B: independently re-verified all 12 Block 1 entries and all
+12 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A) -- all reference text and marker placements
+confirmed matching exactly. The mandatory i/l/1 check (chapter 1's own
+letter "i", Sur América) was independently re-confirmed via a fresh
+crop of pages_1879/page_0557.png (bot band): "i, South America. j, see
+h, Omni 1. k, see g, Alma 2. l, the three, who were not to taste of
+death." -- a clear italic "i" with a separated dot, unambiguously
+distinct from "l," matching Session A's reading exactly. No
+corrections needed from Session B.
+Session C: `insert_body_text.py 554` correctly inserted the full body
+text but only appended 2 of this page's 12 Block 1 entries ("1-2f,
+4060" and "1-2g, 4061") -- confirmed by its own reported count,
+"Appended 2 Block 1 entries." Root cause: `split_page()` locates the
+end of a page's Block 1 section by scanning for the first blank line
+after the first footnote-format line, but this page's own Block 1
+contains an internal blank-line/header/blank-line for the IV
+Nefi->Mormón book boundary (matching the final librodm_foot.txt
+convention), which `split_page()` mistook for the end of the whole
+Block 1 section -- everything from the "LIBRO DE MORMÓN" header
+onward (entries 1a-1j) was silently dropped from processing (though
+harmlessly, since it was never touched by either output function).
+Separately, `append_block1()`'s own book-boundary auto-detection
+("chapter < last_chapter") could not have caught this boundary anyway,
+since IV Nefi's only chapter and Mormón's first chapter are both
+numbered "1" -- the chapter number does not decrease across this
+particular boundary, unlike every other book transition processed so
+far. Both the book-name header line and entries 1a-1j were appended to
+librodm_foot.txt by hand instead, verified against this page's own
+Block 1 listing above and re-checked clean with
+check_footnote_punctuation.py. Body text insertion via the script was
+unaffected and confirmed correct. Flagged here since this is the first
+page to exercise a same-chapter-number book boundary; a future
+multi-page `insert_body_text.py` run spanning a similar boundary should
+not assume the script's automatic header insertion will fire.
+Session D: `generate_block2.py 554` resolved all 12 entries cleanly,
+including all three cross-references: "Véase f, I Nefi 1" -> 6 (I
+Nefi 1f, "I Nefi 6:1; 9:2-5;..."); "Véase b, Mosíah 18" -> 1337
+(Mosíah 18b, "Versiculos 5,8,16,30; III Nefi 5:12; Mormón 1:5." --
+which itself cites III Nefi 5:12, matching this page's own entry 1h's
+citation, a nice mutual cross-reference); "Véase h, Omni 1" -> 1003
+(Omni 1h, concerning the land of Zarahemla -- an exact thematic match
+for v.6's "país de Zarahemla"). Entry 4062 wrapped across three lines
+rather than two ("...abreviada. Mormón" / "2:17-18;" / "5:9.") because
+its first semicolon-delimited segment alone exceeds 72 characters and
+the script's word-wrap fallback then isolates the trailing "2:17-18;"
+onto its own line -- every line is still under the 72-char cap and no
+single reference is split apart, so this is accepted as valid
+mechanical output rather than a defect to fix by hand.
+Session E: fresh pptext regeneration (`report_wsl_20260731b.html`,
+built via a live WSL run, not reused). Three suspected misprints
+flagged at Session A transcription time were all confirmed as genuine,
+isolated 1920-only errors via 1886 comparison (pages_1886/page_0568.png
+book page 550/file 568 for v.48's "viente"/"LIBRO DF MORMON", and
+pages_1886/page_0569.png book page 551/file 569 for v.5's "recodré")
+plus RAE (no entry for "viente" or "recodré") and, for "recodré", the
+modern LDS Spanish edition (Mormón 1:5 reads "recordé"): added to
+`errors in 1920.txt` (IV Nefi 1:48 "viente"; the "LIBRO DF MORMON"
+title misprint, logged under a new "Mormón (encabezado del libro)"
+entry; Mormón 1:5 "recodré") and to `permitted words.txt` ("recodré";
+"viente" was already present). The "viente" finding also matches an
+already-documented recurring 1920 typo family ("vient-" for "veinti-",
+per III Nefi 5:7/6:9/6:10) -- while investigating, found this same
+exact "trescientos viente" phrase, undocumented, at Omni 1:5
+(librodm.txt line 7390); retroactively added an `errors in 1920.txt`
+entry there too (in correct book order, before the existing Omni 1:12
+entry), closing a gap that had sat undetected since some earlier
+session (the word was already in `permitted words.txt` with no
+matching errors-log entry). Session E's Spellcheck Suspect Words
+section flagged three words from this page: "Antum" (proper noun),
+"DF" (part of the title misprint), and "cuerdo" (v.2, a common,
+correctly-spelled Spanish word -- 1886 prints it identically at the
+parallel spot, pages_1886/page_0569.png -- apparently just outside
+aspell's base Spanish dictionary); all three added to `permitted
+words.txt`, none logged as errors. The Edit Distance check paired this
+page's "cuerdo" with an unrelated existing word elsewhere in the
+document, "cuermo" (librodm.txt line 23700, III Nefi 20:19) -- turned
+out to already have a genuine `errors in 1920.txt` entry from a prior
+session ("cuermo"/"cuerno", confirmed against 1886) that had never
+been mirrored into `permitted words.txt`; added now, closing that gap
+(same class of oversight as the already-documented Helamán 5:35
+"seperado" gap). Full report walkthrough beyond spellcheck: zero new
+dash, footnote-anchor, scanno, curly-quote, repeated-word, long-line,
+duplicate-line, or special-situations hits for this page's line range
+(the "standalone 1" hits for entries 4063/4066, "IV Nefi 1:47-49"/"IV
+Nefi 1:48", both match the established `\d+:\d+` safe pattern). Google
+cross-check (`check_google_crosscheck.py 554`, run in Session A):
+zero candidates. Footnote scan (whole document): footnotes 4055-4071
+form one contiguous, gap-free, duplicate-free range. Whole-document
+mechanical sweeps (`check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py`) all clean
+against both master files.
+Editor note (narrow-space-vs-merge, per the standing collection rule):
+v.4's "donde se hallan" -- see this page's earlier Corrections entry.
+Worth a look since 1886 prints the identical merge at the parallel
+spot ("lugar dondese hallan"), which is mildly interesting corroborating
+context even though the standing rule already settled the
+transcription as two words regardless.

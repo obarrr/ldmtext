@@ -1,0 +1,298 @@
+Página 550
+Nefitas como Lamanitas; sin que hubiera entre ellos más contiendas,
+ni disputas. y obraron con rectitud unos con otros;
+3. Y lo tenían [4033]todo en común entre ellos; por lo tanto, no
+habían ricos y pobres, escavos y libres, sino que todos se veían
+libres y participantes del don [4034]celestial.
+4. Y sucedió, que en el año trienta y siete, reinó también la
+paz en el país.
+5. Y grandes y maravillosas obras fueron [4035]ejecutadas por los
+discípulos de Jesús, de tal modo que curaban enfermos, levantaban
+los muertos hacían andar á cojos, daban vista á ciegos, y
+á sordos; y en el nombre de Jesús hicieron toda clase de milagros
+éntre los hijos de los hombres; y no hicieron milagros más que
+en el nombre de Jesús.
+6. Y así pasaron los años trienta y ocho, treinta y nueve,
+cuarenta, cuarenta y uno, y cuarenta y dos; sí, hasta el año
+cuarenta y nueve, y cincuenta, cincuenta y uno, y cincuenta y
+dos; sí, hasta que pasó el año cincuenta y nueve;
+7. Y el Señor les hizo excesivamente prósperos en la tierra;
+sí, tanto, que ellos repoblaron otra vez las ciudades que antes
+habían sido destruidas por el fuego;
+8. Sí, y reconstruyeron la gran [4036]ciudad de Zarahemla.
+9. Pero hubieron muchas de las ciudades que se [4037]habían hundido
+y quedado cubiertas por las aguas; por lo que no pudieron
+ser renovadas.
+10. Y aconteció que el pueblo de Nefi creció y multiplicóse
+con una extrema rapidez, convirtiéndose en un pueblo hermoso
+y agradable en extremo.
+11. Casándose y dándose en matrimonio, recibiendo así las
+bendiciones según las muchas promesas que el Señor les había
+hecho.
+12. Y no siguieron practicando más las ceremonias y ordenzas
+de la [4038]ley de Moisés, sino que observaron los mandamientos
+que habían recibido del Sénor, su Dios, perseverando en [4039]ayunos
+y oraciones, y en [4040]reunirse á menudo para [4041]orar y para
+escuchar la palabra del Señor.
+13. Y sucedió que no hubo más contiendas entre los habitantes
+de todo el país, sino que los discípulos de Jesús hicieron [4042]grandes
+y maravillosos milagros.
+14. Y ocurrió que así pasó el año setenta y uno, y el año
+setenta y dos; sí, y hasta setenta y nueve años, sí, y hasta cien
+años habían pasado ya. cuando los discípulos de Jesús, todos
+los que Él había escogido, habían ido ya al [4043]paraíso de Dios
+exceptuando unicamente los [4044]tres que debían permanecer
+
+1e, 4033: Véase v, III Nefi 26.
+1f, 4034: Véase v, III Nefi 9.
+1g, 4035: Véase r, III Nefi 28.
+1h, 4036: Véase h, Omni 1; III Nefi 8:8,24;9:3.
+1i, 4037: III Nefi 8:9;9:4,7.
+1j, 4038: Véase o, II Nefi 25; III Nefi 9:19;15:2-8.
+1k, 4039: Véase t, Mosíah 27.
+1l, 4040: III Nefi 24:16.
+1m, 4041: Véase e, II Nefi 32.
+1n, 4042: Véase r, III Nefi 28.
+1o, 4043: Véase l, II Nefi 9.
+1p, 4044: Véase d, III Nefi 28.
+
+Corrections:
+Page continues IV Nefi chapter 1 from page 549 (verse 2 continuation
+at the top, no verse number, no blank line before the text per the
+mid-verse rule); no book/chapter boundary on this page.
+Rule-7 hyphenated line-break rejoins: "con-"/"tiendas" -> "contiendas"
+(verse 2, carried over from the previous page's final sentence);
+"levanta-"/"ban" -> "levantaban" (verse 5; rejoined line lands at 65
+chars, under the 73-char cap, so kept on the first line); "hun-"/
+"dido" -> "hundido" (verse 9; rejoined line with the [4037] marker
+lands at 67 chars, kept on the first line).
+Rule-8 rebalance: the [4040]/[4041] markers on verse 12's "y
+oraciones, y en reunirse á menudo para orar y para escuchar" line
+pushed it to 73 characters (at the cap once both 6-char markers were
+added), so the last word "escuchar" was moved to the start of the
+following line per rule 8. The rebalanced pair reads "...para" (64
+chars) / "escuchar la palabra del Señor." (30 chars).
+Rule-31 space-before-punctuation cleanup (numerous instances, all
+mechanical, this page's print consistently sets a space before
+semicolons): "Lamanitas ;" -> "Lamanitas;" (verse 2); "ellos ;" ->
+"ellos;" (verse 3); "sordos ;" -> "sordos;" and "hombres ;" ->
+"hombres;" (verse 5); "dos ;" -> "dos;" (twice, verse 6, both
+instances); "tierra ;" -> "tierra;" and "fuego ;" -> "fuego;" (verse
+7); "aguas ;por" -> "aguas; por" (verse 9, also added the missing
+space after the semicolon); "dos ;" -> "dos;" (verse 14).
+Mandatory i/l/1 check (Section 8): this chapter's own footnote
+letters i (5th, "habían hundido," verse 9) and l (8th, "reunirse,"
+verse 12) are fixed by alphabetical sequence (rule 13, no gaps) and
+independently confirmed via exact content match against 1879
+(pages_1879/page_0552.png: "i, III. Nep. 8:9. 9:4,7." and "l, III.
+Nep. 24:16." — same citations, same position). Two cross-reference
+TARGET letters also fell in the mandatory i/l/1 set and proved
+genuinely ambiguous by glyph shape alone even after repeated high-zoom
+crops (25-40x) directly comparing them against this same page's own
+confirmed i and l labels — the font's small superscript strokes for
+i/l/t are very hard to distinguish at this size, consistent with the
+swash-font precedent already documented in the rules. Both were
+instead resolved via the Section 8 back-reference procedure (step 7):
+- Entry k ("Véase [?], Mosiah 27", annotating "ayunos" in verse 12):
+  1920's own Mosiah 27 footnote block (librodm_foot.txt line 1768,
+  "27t, 1559: Versículo 23; Alma 5:46; 6:6; 8:26; 10:7; 17:3,9; 28:6;
+  30:2; Helamán 3:35; III Nefi 13:16-18; 27:1; IV Nefi 1:12; Moroni
+  6:5.") explicitly cross-references this exact verse (IV Nefi 1:12),
+  confirming the target letter is "t". Cross-checked against 1879
+  (pages_1879/page_0552.png "k, see t, Mos. 27." and
+  pages_1879/page_0233.png, Mosiah 27's own footnote "t, ver. 23. ...
+  IV. Nep. 1:12. Moro. 6:5.") — same target chapter and the same
+  circular self-reference, independently confirming "t".
+- Entry o ("Véase [?], II Nefi 9", annotating "paraíso" in verse 14):
+  1920's own II Nefi 9 footnote block (librodm_foot.txt line 437,
+  "9l, 369: Alma 40:12,14; IV Nefi 1:14; Moroni 10:34.") explicitly
+  cross-references this exact verse (IV Nefi 1:14), confirming the
+  target letter is "l". 1879's parallel entry (pages_1879/page_0553.png,
+  "o, see l, II. Nep. 9.") uses a different letter for its own
+  independent lettering per rule 26, but confirms the same target
+  book/chapter.
+Content-fit sanity check (Section 8, item 8) for the remaining,
+non-mandatory letters: h -> Omni 1 (Zarahemla) + III Nefi 8:8,24;9:3
+(earthquake destruction) fits "gran ciudad de Zarahemla" being
+rebuilt; j -> II Nefi 25 (law of Moses) + III Nefi 9:19;15:2-8 (law
+fulfilled in Christ) fits "ley de Moisés"; m -> II Nefi 32 (Nephi's
+teaching on prayer) fits "orar" exactly; n -> III Nefi 28 (the three
+Nephites' miracles) fits "hicieron grandes...milagros"; p -> III Nefi
+28 (the three Nephites themselves) fits "los tres que debían
+permanecer" exactly. All plausible, no red flags.
+Suspected misprints (preserved as printed per rule 32, to be verified
+against 1886/RAE in Session E):
+(1) Verse 3 "escavos y libres" — confirmed via zoom that the word is
+printed "escavos," missing the "l" (should be "esclavos").
+(2) Verse 4 "el año trienta y siete" and verse 6 "los años trienta y
+ocho" — both confirmed via zoom as "trienta," while "treinta" is
+spelled correctly twice elsewhere on this same page (verse 6 "treinta
+y nueve," verse 14 "setenta y nueve" not applicable but "treinta"
+pattern matches page 549's identical, already-logged error).
+(3) Verse 12 "que habían recibido del Sénor" — confirmed via zoom:
+printed with an acute accent on "e" and no tilde on "n," unlike
+"Señor" (correctly spelled with tilde) later in the very same verse
+("la palabra del Señor.") and elsewhere on the page (verse 7 "Y el
+Señor les hizo").
+(4) Verse 12 "las ceremonias y ordenzas" — confirmed via zoom that the
+word is printed "ordenzas," missing "an" (should be "ordenanzas").
+(5) Verse 14 "exceptuando unicamente los tres" — confirmed via zoom:
+printed without the accent (should be "únicamente").
+(6) Verse 2 "ni disputas. y obraron" — period followed by lowercase
+"y" continuing the same sentence; grammar suggests this should be a
+comma, not a period. Preserved as printed.
+(7) Verse 14 "habían pasado ya. cuando los discípulos" — period
+followed by lowercase "c" continuing the same sentence; same pattern
+as (6), grammar suggests a comma. Preserved as printed.
+No narrow-space-vs-merge candidates found on this page.
+Page ends mid-verse (IV Nefi 1:14, "...que debían permanecer");
+continues on page 551 with no hyphen at the break (verse continues to
+a new clause, not a split word).
+Google cross-check (`check_google_crosscheck.py`): 3 candidates, 5
+auto-dismissed (4 footnote-marker glue, 1 trailing/footnote-block
+content). "cojos" (verse 5) vs. Google's "cojcs" — Google OCR noise
+("cojcs" is not a word); dismissed without a re-zoom. The other two
+candidates were the same period-vs-comma question already logged
+above as suspected misprints (6) and (7) — Google read both as
+commas. Re-zoomed both at 15-20x (well above the 400dpi crop): both
+marks sit on the baseline with no descending tail, unambiguously
+periods, not commas. Google misread both; the original transcription
+("disputas. y obraron," verse 2; "pasado ya. cuando," verse 14) is
+confirmed correct and unchanged — items (6) and (7) above stay logged
+as suspected 1920 misprints (period where grammar wants a comma), not
+transcription errors.
+Session D (`generate_block2.py 550`): 9 of 12 entries resolved cleanly
+on the first pass; 3 stayed unresolved (4036 "Véase h, Omni 1; III
+Nefi 8:8,24;9:3.", 4038 "Véase o, II Nefi 25; III Nefi 9:19;15:2-8.",
+4041 "Véase o, II Nefi 32."). Checked each: 4036 and 4038 are a script
+parsing limitation with compound (semicolon-separated) references, not
+transcription errors — the target letters are confirmed valid (Omni's
+own "1h, 1003" and II Nefi 25's own "25o, 653" both exist in
+librodm_foot.txt); left unresolved in letter form for a later
+`--fix-unresolved` pass, per the skill's own guidance. Entry 4041,
+however, was a genuine transcription error: II Nefi 32's own footnote
+block (librodm_foot.txt lines 890-895) only runs letters a-e — there is
+no letter "o" — so "Véase o, II Nefi 32" was an impossible reference,
+not just an unresolved one. Re-investigated: II Nefi 32's own letter e
+(sequential 783) is directly attached to the word "orar" in its own
+body text (librodm.txt line 6172, "enseña á los hombres á
+[783]orar, supierais que deberíais orar") — an exact thematic match
+for this page's own "orar" annotation (verse 12) — and Alma 25's own
+footnote block independently cross-references the identical target
+("25u, 2310: Véase e, II Nefi 32." in librodm_foot.txt), giving two
+independent confirmations that "e" is correct. 1879's own parallel
+entry (pages_1879/page_0552.png, "m, see e, II. Nep. 32.") also
+explicitly reads "e", not "o". A close re-zoom of the 1920 glyph
+itself (30x) still looked like a closed loop closer to "o" than to
+the open-countered "e" seen elsewhere on the same line — almost
+certainly a heavily-inked/filled small swash "e" rather than a true
+"o", given the alternative is a structurally impossible citation.
+Corrected to "Véase e, II Nefi 32." in this file, `librodm_foot.txt`,
+and `librodm.txt`'s Block 2 entry (now "4041: Véase 783."). This is a
+good demonstration of Session D's resolution step catching a
+letter-level misread that fell outside the mandatory i/l/1 check
+(o/e was never flagged as ambiguous in Sessions A/B) — worth keeping
+in mind for future pages: an "unresolved" Block 2 target is not
+always a script limitation and is always worth checking against the
+target chapter's actual letter range before accepting it.
+Session B: independently re-verified all 12 Block 1 entries and all
+12 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A) — all reference text and marker placements
+confirmed matching exactly, including the "escavos," "trienta"
+(twice), "Sénor," "ordenzas," and "unicamente" readings from Session
+A. Mandatory i/l/1 check re-done independently via fresh crops of the
+1879 pages (not a re-read of the 1920 image, and not the same crop
+paths used in Session A): pages_1879/page_0552.png (whole-page read)
+re-confirms "i, III. Nep. 8:9. 9:4,7." and "l, III. Nep. 24:16." at
+the same position as this chapter's own i/l letters, and re-confirms
+"k, see t, Mos. 27." — matching Session A's back-reference-derived
+target letter "t" for entry k. A fresh crop of pages_1879/page_0553.png
+(84-90% band, not the range used in Session A) re-confirms "o, see l,
+II. Nep. 9." — matching Session A's back-reference-derived target
+letter "l" for entry o. Useful side observation: 1879's own font
+clearly distinguishes dotted "i" from undotted "l" in this footnote
+block, unlike 1920's font where the two were visually near-identical
+even at 25-40x zoom — confirming the back-reference method (rather
+than glyph comparison) was the right tool for resolving entries k and
+o in 1920's own text. No corrections needed from Session B.
+Session E: fresh pptext regeneration (`report_wsl_20260730c.html`).
+Spellcheck Suspect Words flagged three of this page's words directly:
+"escavos" (v.3), "unicamente" (v.14, already discussed above as
+shared with 1886 — not an error), and two more caught only now:
+"éntre" (v.5) and "multiplicóse" (v.10). The Edit Distance section
+paired "éntre" directly against an existing correct "Entre" elsewhere
+in the document and found no candidate for "multiplicóse". "Sénor"
+(v.12) and "ordenzas" (v.12) were also flagged/checked even though
+neither showed up in this page's own spellcheck-suspect listing —
+"Sénor" turned out to already be flagged in the report, just at a
+different, much earlier location (Alma 13:16, previously undetected —
+see below); "ordenzas" was not flagged anywhere in the report at all,
+a known aspell gap (per the pages-469-470 precedent), researched
+anyway per the mandatory-check procedure. All six words plus the two
+already-logged punctuation items (verse 2 and verse 14 periods) were
+checked against 1886 (pages_1886/page_0564.png for v.1-11, book page
+546/file 564; page_0565.png for v.12-14, book page 547/file 565), the
+modern LDS Spanish edition (churchofjesuschrist.org, IV Nefi 1), RAE
+DLE (WebSearch), and the three local reference corpora:
+- "escavos" -> 1886 and the modern edition both print "esclavos"; RAE
+  has no entry; 0 corpus hits vs. 3 for "esclavos". Genuine 1920-only
+  error. Added to `errors in 1920.txt` and `permitted words.txt`.
+- "éntre" -> 1886 prints "entre" (no accent, "entre" is a preposition
+  and never takes one); pptext's own edit-distance check already
+  matches it to a correct "Entre" elsewhere in the document; 1 corpus
+  hit (noise) vs. 1360 for "entre". Genuine 1920-only error. Added to
+  `errors in 1920.txt` and `permitted words.txt`.
+- "multiplicóse" -> 1886 uses the identical enclitic construction
+  ("creció y multiplicóse con una extrema rapidez") at the same verse
+  — a legitimate archaic reflexive form (verb + enclitic "-se"), not
+  an error; aspell simply doesn't have this construction in its
+  dictionary. Added to `permitted words.txt` only.
+- "ordenzas" -> 1886 and the modern edition both print "ordenanzas"
+  in full; RAE has no entry; 0 corpus hits vs. 33 for "ordenanzas".
+  Genuine 1920-only error. Added to `errors in 1920.txt` only — not
+  aspell-flagged, so a `permitted words.txt` entry would be a no-op
+  per the established "Jesu Cristo" precedent.
+- "Sénor" -> 1886 and the modern edition both print "Señor" correctly;
+  0 corpus hits vs. 1933 for "señor"/"Señor" combined. Genuine
+  1920-only error (accent-instead-of-tilde, a distinct misprint from
+  the already-logged tilde-omitted "Senor" pattern seen on earlier
+  pages). Added to `errors in 1920.txt` and `permitted words.txt`.
+  While researching this, the identical error was found already
+  present and previously undetected at Alma 13:16 (librodm.txt line
+  12582, "entrar en el descanso del Sénor") — confirmed against 1886
+  (pages_1886/page_0291.png, book page 273/file 291: "Señor"
+  correctly). Added to `errors in 1920.txt` at its correct earlier
+  position in the file, per the book/chapter/verse ordering rule.
+- "unicamente" -> 1886 also prints it unaccented at the same verse;
+  missing-accent-shared-with-1886 is the standard non-error case (rule
+  11). Added to `permitted words.txt` only, no `errors in 1920.txt`
+  entry.
+- The two already-logged period/comma items (v.2 "disputas. y
+  obraron", v.14 "pasado ya. cuando") were re-confirmed against 1886,
+  independent of the earlier Google-OCR-based re-zoom: 1886 has a
+  comma at both spots ("ni disputas, y obráron"; "pasado ya, cuando
+  los discipulos de Jesus"). This matches the established "full stop
+  followed by unexpected sequence" pattern from prior sweeps (Alma
+  43:9 etc.) exactly. Both added to `errors in 1920.txt` as
+  punctuation errors.
+Full pptext report walkthrough for this page's new line range beyond
+the spellcheck section: Edit Distance (éntre/multiplicóse above, no
+other page-550 hits); Dash check (hyphen-minus bucket: only this
+page's Block 2 entry 4038's "15:2-8" verse range, correctly recognized
+as legitimate, digit-flanked on both sides — no new hyphens
+introduced by this page's body text, confirming Session A's finding);
+"full stop followed by unexpected sequence" special situations check:
+confirmed only this page's two already-logged instances appear for
+this page (many other, unrelated instances exist elsewhere in the
+document from earlier pages/sweeps — out of scope for this page's
+session, noted for the editor's awareness rather than acted on here);
+"mixed letters and numbers in word" (only this page's own Block 2
+entry 4036 citation appears, a routine false positive matching every
+other footnote-citation hit in the same list). Footnote-anchor
+whole-document scan (Python, not just the pptext report): max 4044
+(matches this page's final marker), zero duplicates, only the
+long-documented footnote 812 gap remains missing. Curly-quote scan:
+zero instances in either master file (direct character count, all
+four smart-quote characters). `check_spaced_punctuation.py`/
+`check_footnote_punctuation.py`/`check_verse_indent.py`/
+`check_lines.py` all clean against both whole master files.

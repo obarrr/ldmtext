@@ -1,0 +1,169 @@
+Página 558
+21. Y ocurrió, que [4093]fortificamos la ciudad de Shem, recogiendo
+á cuantos nos fué posible de nuestro pueblo para librarles de la
+destrucción, si nos fuere posible.
+22. Y aconteció, que en el año trescientos cuarenta y seis los
+Lamanitas volvieron otra vez contra nosotros.
+23. Y transcurrió, que entonces hablé á mi pueblo, exhortándoles
+energicamente á que se mantuvieran firmes delante de
+sus enemigos, y á que combatieran por sus mujeres, hijos, casas
+y hogares.
+24. Y animados algún tanto con mis palabras, no huyeron
+esta vez delante de los Lamanitas, sino que se presentaron
+atrevidamente en contra de ellos.
+25. Y ocurrió, que con treinta mil hombres combatimos contra
+un ejército de cincuenta mil; y sucedió que desplegamos tal
+firmeza que tuvieron que emprender la fuga.
+26. Y ocurrió, que entonces cuando se hubieron huido, les
+perseguimos con nuestros ejércitos, y les encontramos otra vez,
+y les batimos. No obstante, la fuerza del Señor no estaba con
+nosotros; sí, nos vimos abandonados; porque el Espíritu del
+Señor no residía en nosotros; por lo tanto, nos sentimos débiles
+lo mismo que nuestros hermanos.
+27. Por lo que se afligió mi corazón, al ver la gran calamidad
+de mi pueblo; á causa de sus maldades y abominaciones. No
+obstante, volvimos otra vez sobre los Lamanitas, y sobre los
+[4094]ladrones de Gadianton, hasta que hubimos reconquistado
+nuestras posesiones y el país de nuestra herencia.
+28. Y trescientos cuarenta y nueve años se habían pasado, y
+en el año trescientos cincuenta concluimos un tratado con los
+Lamanitas y con los ladrones de Gadianton, por el cual quedaron
+divididas las tierras de nuestra herencia.
+29. Y nos cedieron los Lamanitas la [4095]región del Norte, sí,
+hasta el pasaje [4096]estrecho que conducía á la [4097]región del
+Sud; y nosotros concedimos á los Lamanitas todo el país de Sud.
+
+CAPÍTULO 3.
+
+1. Y sucedió, que los Lamanitas no volvieron á combatirnos
+por espacio de diez años. Y, he aquí, que había empleado á mi
+pueblo, los Nefitas, á preparar sus tierras armas para el día
+de la batalla.
+2. Y ocurrió, que me dijo el Señor: Clama á este pueblo y
+
+2n, 4093: Véase c, Alma 48.
+2o, 4094: Véase 2c, IV Nefi 1.
+2p, 4095: Norte América.
+2q, 4096: Véase 2v, Alma 22.
+2r, 4097: Sur América.
+
+Corrections:
+Rule-7 hyphenated line-break rejoin (1): v.23 "exhor-/tándoles" ->
+"exhortándoles" (64 chars after rejoin, well under the 73-char cap,
+no rule-8 rebalancing needed).
+Rule-31 space-before-punctuation instances found in the original
+print and normalized: v.25 "mil ; y" -> "mil; y"; v.26 "nosotros ;
+sí" -> "nosotros; sí"; v.26 "abandonados ; porque" -> "abandonados;
+porque"; v.26 "nosotros ; por lo" -> "nosotros; por lo"; v.27
+"pueblo ; á" -> "pueblo; á"; v.29 "Sud ; y" -> "Sud; y"; CAP.3 v.2
+"Señor : Clama" -> "Señor: Clama".
+Justification-widened double-spaces normalized to single spaces per
+the standing rule (not logged as errors): v.26 "batimos.  No" ->
+"batimos. No"; v.27 "abominaciones.  No" -> "abominaciones. No";
+v.28 "concluimos  un tratado" -> "concluimos un tratado"; CAP.3 v.1
+"años.  Y, he aquí" -> "años. Y, he aquí".
+Narrow-space-vs-merge default applied per the standing rule (batched
+here per that rule's usual practice, not raised mid-pipeline): v.21
+"ciudadde Shem" (the 1920 print shows these tight enough to look like
+a possible merge) transcribed as two words "ciudad de Shem" (grammar
+requires it); v.26 "porlo tanto" transcribed as two words "por lo
+tanto" (same reasoning).
+Suspected misprint preserved as printed, pending Session E: CAP.3 v.1
+"sus tierras armas" -- the 1920 image shows a distinctly wide gap
+between "tierras" and "armas" with no word present in the gap (zoom-
+confirmed, not a narrow-space case). 1886 (pages_1886/page_0573.png,
+book page 555) reads "sus tierras y sus armas" and 1879 reads "their
+lands and their arms" -- both confirm a connecting word is expected
+there. Transcribed as printed (space normalized to one per rule 6,
+no word inserted); likely a genuine dropped-word 1920 error, to be
+finalized against 1886/1879 evidence already gathered above.
+Suspected misprint investigated and resolved as print damage, not a
+misprint: v.26 "vimos" initially looked at moderate zoom like it might
+read "vimbs" (an extra stroke near the "o"). A very high zoom crop
+(1470px+ width on just that letter) showed the mark is an ink blob
+attached to the top-left of an otherwise normal round "o" bowl, not a
+clean full-height ascender stroke as a genuine "b" would have. The
+Google OCR cross-check (`check_google_crosscheck.py 558`) independently
+read this same position as "vimos" (not "vimbs"), and 1886
+(pages_1886/page_0573.png, book page 555) confirms "vímos" is the
+expected reading. All three lines of evidence agree: transcribed as
+"vimos," not logged as an error.
+Mandatory i/l/1 check: this page's own chapter-2 lettering (n-r)
+contains no i/l/1 letters, but two cross-reference target codes
+(entries 2o and 2q) are genuinely hard-to-read two-character swash
+codes in the 1920 font ("2c" and "2v"). Confirmed via 1879
+(pages_1879/page_0560.png, book page 552, entry o: "o, see 2c, IV.
+Nep. 1."; pages_1879/page_0561.png, book page 553, footnote line
+below v.9, entry q: "q, see 2v, Alma 22.") -- both editions read
+identically, letter-for-letter matching the resolved 1920 codes.
+Full 1879 cross-check: all 5 Block 1 entries (2n-2r) confirmed
+reference-for-reference against pages_1879/page_0560.png and
+page_0561.png; entry-for-entry exact match, no translation-artifact
+letter mismatches this page (unlike several recent pages).
+check_line_wrap.py's advisory OCR line-count cross-check flagged this
+page (33 lines transcribed in the chapter-2 section vs. 38 OCR-
+estimated for the whole page). Re-verified by recounting the raw print
+lines directly against the top/mid/bot image crops (16 in top's own
+range, 17 new in mid's range, 6 new in bot's range -- 1 chapter
+heading plus 5 body lines for Capítulo 3 vv.1-2 -- 39 total content
+lines), matching this file exactly (33 chapter-2 lines + 1 heading + 5
+chapter-3 lines = 39). Treated as the tool's own scope/counting
+quirk around the chapter-heading boundary (it does not appear to
+count past "CAPÍTULO 3." into the new chapter's body), not a
+transcription defect.
+Session B: independently re-verified all 5 Block 1 entries and all 5
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A), and re-ran the extended ambiguity check on entries
+2o/2q from fresh page reads of pages_1879/page_0560.png and
+page_0561.png. All reference text and marker placements confirmed
+matching exactly, no corrections needed.
+Session E: fresh pptext regeneration (`report_wsl_20260801b.html`, live
+WSL run). Spellcheck Suspect Words: one hit from this page's range,
+"energicamente" (v.23). 1886 (pages_1886/page_0572.png, book page 554)
+was checked and confirms the identical unaccented spelling ("hablé á
+mi pueblo, exhortándoles energicamente"), an exact match to 1920, not
+a 1920-only deviation. RAE DLE (via WebSearch) has no entry for
+"energicamente," only the accented modern "enérgicamente"; all three
+local reference corpora returned zero hits for the unaccented form
+(sanity check word "señor" returned normal counts, confirming the
+search itself worked). The modern LDS Spanish edition (Mormón 2:23) is
+independently reworded ("los exhorté con mucha energía") and not
+directly comparable in form. Added to `permitted words.txt` only (no
+`errors in 1920.txt` entry -- a missing accent alone, matching 1886,
+per the standing "not an error" category). Edit Distance Checks: zero
+hits from this page's range. Footnote check (whole document): the
+anchor ranges 4076-4093 and 4095-4097, plus 4094 separately (a
+line-start coincidence, not a defect -- see the skill's standing note
+on this bucketing quirk), are contiguous with no gaps or duplicates;
+only pre-existing gap in the whole document remains the long-
+documented footnote 812. Full report walkthrough beyond spellcheck
+(filtered to this page's line ranges, librodm.txt 24888-24929 body /
+29320-29323 Block 2): all remaining hits fell into the already-
+established "short lines check" non-issue category (ordinary short
+verse-final/Block 2 lines). Repeated-word and duplicate-line checks:
+zero hits from this page's range. Whole-document mechanical sweeps
+(`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py`/`check_lines.py`) all clean against both master
+files. An independent curly-quote character scan of both master files
+also found zero curly quotes.
+Suspected-misprint Corrections-log sweep (mandatory per-page check):
+both flagged items from this page (CAP.3 v.1 "tierras armas" and v.26
+"vimos") were already run through the full 1886/1879/Google-OCR
+evidence chain during Session A and resolved above -- "tierras armas"
+promoted to `errors in 1920.txt` (Mormón 3:1, missing connective word,
+confirmed against both 1886 and 1879), "vimos" confirmed as print
+damage, not a genuine misprint (no entry needed).
+Editor pointers (narrow-space-vs-merge, batched per the standing rule
+rather than raised earlier): v.21 "ciudad de Shem" and v.26 "por lo
+tanto" (both transcribed as two words per the standing default; the
+1920 print shows each pair tight enough to look like a possible merge
+at a glance).
+Content-fit sanity check: entry n (Véase c, Alma 48) annotates
+"fortificamos" (v.21, fortifying the city of Shem) -- Alma 48 is
+Moroni's own fortification chapter, an exact thematic match. Entry o
+(Véase 2c, IV Nefi 1) annotates "ladrones de Gadianton" (v.27) -- IV
+Nefi 1 records the reemergence of the Gadianton robbers, an exact
+match. Entries p/q/r (Norte América / estrecho / Sur América)
+annotate the v.29 land-division geography and are self-explanatory
+place-name glosses, not cross-references, so no further content-fit
+check applies to them.
