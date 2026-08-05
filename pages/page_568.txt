@@ -1,0 +1,181 @@
+Página 568
+4. Sabed que es necesario que arrojéis al suelo las armas de
+guerra, y que no os deleitéis más en el derrame de sangre, y que
+no toméis las armas jamás, excepto que Dios os lo mandare.
+5. Sabed que es necesario que vengáis al [4169]conocimiento de
+vuestros padres, y que os arrepintáis de todos vuestros pecados
+é iniquidades, y que creáis en Jesu Cristo, que es el Hijo de Dios,
+Él que fué sacrificado por los Judíos y que resucitó otra vez por
+el poder del Padre, por lo que obtuvo la [4170]victoria sobre la
+sepultura; y también en Él se absorbió el [4171]aguijón de la muerte.
+6. Y trajo á efecto la [4172]resurrección de los muertos, por lo que
+el hombre debe resucitar para aparecer ante el tribunal del juicio;
+7. Realizando así Él la redención del mundo; por cuyo medio
+él que sea hallado inocente en su presencia en el día del juicio,
+le será concedido habitar con Él en la presencia de Dios en su
+reino, en un estado de felicidad sin fin, para cantar alabanzas
+eternas, con los [4173]coros celestes, al Padre, al Hijo y al Espíritu
+Santo, que constituyen á [4174]un solo Dios.
+8. Por tanto, arrepentíos y [4175]bautizáos en el nombre de Jesús,
+y recibid el evangelio de Cristo, que os será dado no solamente
+en [4176]estos anales, sino que también en los anales que vendrán
+[4177]de los Judíos á los Gentiles, los cuáles vendrán á vosotros de los
+Gentiles.
+9. Porque, he aquí, que [4178]ésto ha sido escrito, para que creyerais
+en [4179]aquéllo, y si creyeseis en aquéllo, creereis también en ésto; y
+si creéis ésto, [4180]sabréis cuanto concierne á vuestros padres, lo
+mismo que las obras maravillosas que se han verificado entre
+ellos por el poder de Dios;
+10. Y conoceréis también así que sois un resto de la simiente
+de Jacob; por lo tanto, estáis contados entre los del pueblo de
+la primera alianza; y si sucediere que creyereis en Cristo, y
+fuereis [4181]bautizados, primero con agua, y después [4182]con fuego y
+con el Espíritu Santo, siguiendo el ejemplo de nuestro Salvador,
+según lo que Él nos ha mandado, entonces estará todo bien con
+vosotros en el día del juicio. Amén.
+
+CAPÍTULO 8.
+
+1. Y, he aquí, yo, [4183]Moroni, voy á concluir los anales de mi
+padre Mormón. He aquí, que solo tengo que escribir unas
+cuantas cosas que me padre me mandó.
+
+7b, 4169: Véase g, II Nefi 3.
+7c, 4170: Véase h, Mosíah 16.
+7d, 4171: Véase i, Mosíah 16.
+7e, 4172: Véase d, II Nefi 2.
+7f, 4173: Mosíah 11:28.
+7g, 4174: Véase k, II Nefi 31.
+7h, 4175: Véase u, II Nefi 9.
+7i, 4176: Véase a, Mormón 1.
+7j, 4177: Véase l, Mormón 5.
+7k, 4178: Véase a, Mormón 1.
+7l, 4179: Véase l, Mormón 5.
+7m, 4180: Véase g, II Nefi 3.
+7n, 4181: Véase u, II Nefi 9.
+7o, 4182: Véase y, III Nefi 9.
+8a, 4183: Mormón 6:6; Moroni 9:24.
+
+Corrections:
+Rule-7 hyphen rejoin: v.5-6(cont.) "se-" / "pultura" (split across the
+image's two lines) -> rejoined to "sepultura", kept on the first line
+(under 73 chars after rejoin).
+Rule-31 space-before-punctuation instances found in the original print
+and normalized (7): v.5-6(cont.) "sepultura ; y" -> "sepultura; y";
+v.6 "juicio ;" -> "juicio;"; v.7 "mundo ; por" -> "mundo; por"; v.9
+"ésto ; y" -> "ésto; y", "Dios ;" -> "Dios;"; v.10 "Jacob ; por" ->
+"Jacob; por", "alianza ; y" -> "alianza; y".
+Justification-widened double space normalized to a single space per
+rule 6: v.7 "eternas,  con los" -> "eternas, con los".
+Suspected misprint, preserved as printed (rule 32): Cap. 8 v.1
+"cuantas cosas que me padre me mandó" -- grammar expects the
+possessive "mi padre" ("that my father commanded me"), not "me
+padre". Zoomed at high magnification; the image unambiguously prints
+"me", not "mi" or a narrow/merged variant. Preserved as printed;
+flagged for Session E's mandatory 1886 check.
+Mandatory Section 8 check (i/l/1): triggered. This page's own
+footnote lettering includes i (verse 8, "estos anales") and l (verse
+9, "aquéllo"); cross-reference target letters also include i (7d,
+"Véase i, Mosíah 16"), l (7j, "Véase l, Mormón 5"), and l again (7l's
+own target, "Véase l, Mormón 5"). Each was independently confirmed
+two ways: (1) dedicated high-zoom crops of the 1920 image itself show
+an unambiguous short stroke with a separated dot for every "i" versus
+a tall unbroken stroke for every "l"; (2) cross-checked against BOM
+1879 Pratt (pages_1879/page_0570.png, book page 562 -- matches this
+page's content and footnote sequence exactly, chapter_map.csv
+Mormon/8 -> file 571 landed one page late, the correct page is 570):
+1879 reads "d, see i, Mos. 16.", "j, see l, Mor. 5.", "l, see l, Mor.
+5.", confirming all target letters, plus i's and l's own letters by
+position/content match.
+Beyond the mandatory i/l/1 set, discretion (Section 8) extended the
+same 1879 cross-check to every other cross-reference target letter on
+this page, since the swash/serif print made several hard to read at a
+glance. This caught three real misreads from a first, lower-zoom
+pass: 7h and 7n's targets (both "II Nefi 9") are "u", not "m" as
+first read -- a dedicated high-zoom crop at both locations shows a
+plain two-stroke u-shape (no third downstroke, no dot), matching 1879's
+"h, see u, II. Nep. 9." / "n, see u, II. Nep. 9." exactly, and matching
+each other (7h/"bautizáos" and 7n/"bautizados" both concern baptism --
+Section 8 step 8 content-fit). 7m's target ("II Nefi 3") is "g", not
+"o" as first read -- the glyph's descender is faint in this print
+instance but visible under a taller crop, and 1879's "m, see g, II.
+Nep. 3." matches 7b's already-confirmed "g" target for the identical
+II Nefi 3 citation (7b/"conocimiento...de vuestros padres" and
+7m/"sabréis cuanto concierne á vuestros padres" -- same content-fit).
+7o's target ("III Nefi 9") is "y", not "v" as first read -- a taller
+crop shows a short descender consistent with "y", matching 1879's "o,
+see y, III. Nep. 9.".
+No subtitle line present at the Chapter 8 opening (checked the image
+directly per rule 1's standing requirement -- "CAPÍTULO 8." is
+followed immediately by verse 1, no descriptive line).
+Chapter boundary mid-page (Mormón 7 -> Mormón 8): no blank line in
+Block 1 per rule 20; footnote letters reset to 'a' for chapter 8.
+Rule 8: v.8's line "en [4176]estos anales, sino que también en los
+anales que vendrán [4177]de" ran 74 chars with the footnote marker
+added; moved "[4177]de" to the start of the next line per rule 8.
+`check_line_wrap.py`'s advisory count came back 34 (txt) vs 37 (OCR),
+flagged >1 diff -- same known non-issue as page 567: this page also
+has a chapter break (blank line before "CAPÍTULO 8."), and the
+script's `txt_body_lines()` stops at the FIRST blank line, so it only
+counted the Mormón 7 remainder (34 lines, confirmed correct by the
+per-line image read) and never saw "CAPÍTULO 8." plus its 3-line
+Mormón 8 v.1 paragraph. 34+4=38 is consistent with Tesseract's 37
+(off by one, ordinary OCR line-merge noise). Every line on this page
+was read directly from the top/mid/bot image crops per rules 5/6, not
+reflowed.
+Google cross-check (check_google_crosscheck.py): 2 candidates beyond
+the auto-dismissed footnote-marker/trailing-content noise -- v.5 "Él"
+(capital É) and v.5 "Judíos" (í), both read by Google's OCR without
+their accents. Zoomed both directly: the image unambiguously prints
+the acute accent in both cases. Not unusual accents per rule 36
+(ordinary acute accents, this document's standard convention) --
+confirmed as OCR noise on accented letters (same pattern as page
+567's "Él que obra"), not transcription errors.
+Session D: `generate_block2.py 568` resolved all 15 Block 1 entries
+automatically; no unresolved cross-references. Content-fit sanity
+check (Section 8 step 8) on the corrected u/g/y target letters: 4175/
+4181 (7h/7n, "u") resolved to footnote 378, whose citation list is
+Acts 2:38, Mark 1:4, Matt. 3:5-6, Luke 3:3, John 3:5 -- all classic
+baptism proof-texts, strongly confirming both footnotes annotate
+baptism ("bautizáos"/"bautizados") and that "u" (not the first-pass
+"m") is correct. 4177/4179 (7j/7l, "l") resolved to footnote 4142,
+which cites "Mormón 7:8-9" directly -- this page's own verses 8-9,
+confirming the target. 4169/4180 (7b/7m, "g") resolved to footnote
+278, which cites "Mormón 7:5,10" -- again this page's own verses,
+confirming "g" (not the first-pass "o") is correct.
+Session E: fresh pptext/WSL regeneration (`report_wsl_20260802e.html`).
+Spellcheck Suspect Words: zero hits from this page (the section's only
+7 words are all earlier-line, pre-existing: carbunclo, limpiáos,
+peofeta, Pobrecita, Profecia, qulén, rependeré). Targeted phrase
+search confirmed none of this page's distinctive text (e.g. "arrojéis
+al suelo", "cuantas cosas que me padre", "creereis también", "estos
+anales, sino") appears anywhere in the report -- this page triggers no
+pptext section at all. Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either; footnote-number sweep confirms max=4183, zero
+duplicates, only the pre-existing footnote-812 gap remains.
+Mandatory Corrections-log sweep (this page's own log, checked against
+1886 per the standing Session E requirement):
+- Cap. 8 v.1 "me padre": 1886 (pages_1886/page_0583.png, book page
+  565/file 583) prints "cuantas cosas que mi padre me mandó" with the
+  correct possessive; the modern Spanish edition
+  (churchofjesuschrist.org, Mormón 8:1) also reads "mi padre". Added
+  to `errors in 1920.txt` as Mormón 8:1 (1920-only error, not shared
+  with 1886).
+- v.9 "creereis" (missing accent, should be "creeréis"): 1886 prints
+  it accented ("creéreis"), but this page's fresh pptext run doesn't
+  flag "creereis" at all (not present anywhere in the report), so no
+  `permitted words.txt` suppression is needed; per rule 11, a bare
+  missing accent isn't logged in `errors in 1920.txt` on its own.
+- 1886 comparison of the rest of this page's verses (4-10, Cap. 8 v.1)
+  found no other substantive discrepancies -- word-order differences
+  in v.7 ("en un estado de felicidad sin fin" placed mid-sentence in
+  1920 vs. end-of-sentence in 1886) are a translation/edition wording
+  artifact (rule 26), not an error, and not logged. 1886's "aguijon"/
+  "réino"/"análes" (unaccented/differently-accented vs. this page's
+  "aguijón"/"reino"/"anales") are 1886-side accent inconsistencies,
+  not 1920 errors -- this page's forms already match standard Spanish
+  stress rules and the modern edition, so no log entry either way.
+No narrow-space-vs-merge instances on this page (no tight word-pairs
+encountered) -- nothing to batch for the editor.

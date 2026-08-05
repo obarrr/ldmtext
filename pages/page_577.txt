@@ -1,0 +1,165 @@
+Página 577
+
+EL LIBRO DE ETHER.
+
+CAPÍTULO 1.
+
+1. Y ahora, yo, Moroni, voy á dar la relación de esos antíguos
+habitantes que fueron destruidos por la mano del Señor en este
+país del [4273]Norte.
+2. Y tomo mi relación de las [4274]veinticuatro planchas que
+fueron halladas por el pueblo de Limhi, y que son llamadas el
+Libro de Éther.
+3. Y como supongo que la primer parte de estos anales, que
+hablan [4275]de la creación del mundo, y también de Adam, y que
+son una historia desde esta época aún hasta la de la [4276]gran torre,
+y cuanto ha pasado entre los hijos de los hombres hasta aquel
+tiempo, se halla entre los Judios;
+4. Por lo tanto, no escribo estas cosas que han transcurrido
+desde Adam hasta aquella época; pero se hallan sobre las planchas,
+y él que las encuentre, tendrá poder para obtener la historia
+completa.
+5. Porque, he aquí, que yo no doy la [4277]completa relación de estos
+acontecimientos, sino parte de la historia desde la [4278]torre hasta
+la época en que aquella gente fué destruida.
+6. Y de esta manera doy la relación: Él que escribió estos
+anales, fué Éther, que era descendiente de Coriántor.
+7. Coriántor era hijo de Morón;
+8. Y Morón era hijo de Éthem;
+9. Éthem era hijo de Ahah;
+10. Y Ahah era hijo de Seth;
+11. Y Seth era hijo de Shiblón;
+12. Y Shiblón era hijo de Com;
+13. Y Com era hijo de Coriántum;
+14. Y Coriántum era hijo de Amnigáddah;
+15. Y Amnigáddah era hijo de Aarón;
+16. Y Aarón era descendiente de Heth, que era hijo de
+Heárthom;
+17. Y Heárthom era hijo de Lib;
+18. Y Lib era hijo de Kish;
+19. Y Kish era hijo de Corum;
+20. Y Corum era hijo de Leví;
+
+1a, 4273: Norte América.
+1b, 4274: Véase k, Mosíah 8.
+1c, 4275: Mosíah 28:17.
+1d, 4276: Versículos 5,33; Omni 1:20-22; Mosíah 28:17.
+1e, 4277: Éther 3:17; 15:33.
+1f, 4278: Véase d.
+
+Corrections:
+[book boundary] This page opens a new book, EL LIBRO DE ETHER (LIBRO DE
+MORMÓN and chapter 9 ended cleanly at v.37 "Amén." on page 576, per the
+prior session's log). The print shows only ONE all-caps title line
+before "CAPÍTULO 1." — "EL LIBRO DE ETHER." (no separate ordinal
+marker or subtitle line, unlike III/IV Nefi's multi-line title
+blocks) — confirmed at 4x zoom, page begins with a blank-line-separated
+heading per Section 1 rule 1. No chapter/book subtitle paragraph
+follows (checked the full top crop; verse 1 begins immediately after
+"CAPÍTULO 1.").
+[book header spelling flag, for Session C] Per established convention
+(page 481/549 Corrections logs), the book-name header is NOT hand-typed
+in this page's own Block 1 — it is auto-inserted by insert_body_text.py
+from the body text's own title line. Flagging here because this
+page's title line is unusual in two ways that will affect the
+script's automatic output: (1) it includes "EL" ("EL LIBRO DE ETHER."),
+unlike every other book-opening title in this document so far (LIBRO
+DE ALMA, LIBRO DE HELAMÁN, LIBRO DE MORMÓN — all bare, no "EL"); (2)
+it prints "ETHER" with NO accent, while this same page's own running
+header (discarded per rule 2) reads "LIBRO DE ÉTHER." WITH an accent,
+and every body-text occurrence of the name on this page ("Libro de
+Éther" v.2, "fué Éther" v.6, "Éther 3:17" footnote e) also carries the
+accent. extract_book_header() will mechanically produce "EL LIBRO DE
+ETHER" (strips only trailing ".,", not the leading "EL" or missing
+accent) — this would break the document's established bare-name/
+accented convention on both counts. Recommend the editor manually set
+the librodm_foot.txt/librodm.txt header to "LIBRO DE ÉTHER" (bare,
+accented) to match every other book-boundary header and this page's
+own dominant spelling, rather than accepting the script's literal
+output — analogous to the page 481 "III NEFI" vs "LIBRO DE NEFI"
+judgment call, but resolved the other direction since there is no
+ambiguity to preserve here (only one book named Éther).
+Suspected misprint (preserved as printed per rule 32, to verify against
+1886/RAE in Session E): the body-text title itself, "EL LIBRO DE
+ETHER." — missing the accent on the E that every other instance of
+this name on the page (running header, body text, footnote e) carries.
+Rule-31 space-before-semicolon cleanup (space before ";" in the
+original print, removed throughout per the standing rule): v.3 "Judios ;"
+-> "Judios;"; v.4 "época ;" -> "época;"; v.7 "Morón ;" -> "Morón;"; v.8
+"Éthem ;" -> "Éthem;"; v.9 "Ahah ;" -> "Ahah;"; v.10 "Seth ;" ->
+"Seth;"; v.11 "Shiblón ;" -> "Shiblón;"; v.12 "Com ;" -> "Com;"; v.13
+"Coriántum ;" -> "Coriántum;"; v.14 "Amnigáddah ;" -> "Amnigáddah;";
+v.15 "Aarón ;" -> "Aarón;"; v.16 "Heárthom ;" -> "Heárthom;"; v.17
+"Lib ;" -> "Lib;"; v.18 "Kish ;" -> "Kish;"; v.19 "Corum ;" ->
+"Corum;"; v.20 "Leví ;" -> "Leví;".
+Rule-6 justification-widened gap normalized to a single space: v.3
+"primer  parte" -> "primer parte".
+Rule-7 hyphenated line-break rejoin: "plan-" / "chas," -> "planchas,"
+(v.4; rejoined line lands at 65 characters, under the 73-char cap, so
+kept on the first line — no rule-8 rebalancing needed).
+Narrow-space default-to-two-words (per the standing rule, not
+zoomed/pixel-measured as the deciding factor — flagged here for the
+editor's Session E summary batch, not raised as a standalone question):
+v.1 "voy á dar" — grammar requires two words (verb + the archaic
+"voy á" construction, matching this document's established "voy á"
+usage elsewhere, e.g. page 554's "voy á escribir"); v.4 "que han
+transcurrido" — relative pronoun + verb, no one-word reading possible;
+v.5 "que yo no doy" — the whole phrase is tightly kerned at zoom (looks
+like line-wide tight justification rather than one isolated merge
+candidate), but "que yo" specifically requires two words grammatically
+(relative pronoun + subject pronoun). All three show a visibly
+reduced-but-present gap at zoom, not a true zero-width merge.
+Suspected misprints/archaic spellings (preserved as printed per rule
+32, to verify against 1886/RAE/modern edition in Session E): v.1
+"antíguos" (accent on the í; modern/expected form is unaccented
+"antiguos"); v.3 "Judios" (no accent; modern/expected form is
+"Judíos"); v.3 "la primer parte" ("primer" apocopated before the
+feminine noun "parte" — grammatically "primera" is expected; verify
+whether this is a legitimate period/archaic usage or a genuine error).
+Mandatory i/l/1 check (Section 8): this page's own footnote letters
+(a-f) and the one cross-reference target letter ("Véase k, Mosíah 8")
+were all confirmed at zoom — none is i, l, or 1, so no mandatory 1879
+check applies.
+Content-fit sanity check: entry a (Norte América) annotates "Norte"
+(v.1) — direct gloss, exact match. Entry b (Véase k, Mosíah 8) annotates
+"veinticuatro planchas" (v.2) — the twenty-four plates found by the
+people of Limhi, first described in Mosíah 8, exact match. Entry c
+(Mosíah 28:17) annotates "de la creación" (v.3) — Mosíah 28 describes
+the interpreters/record used to translate these same plates, a
+reasonable fit. Entry d (Versículos 5,33; Omni 1:20-22; Mosíah 28:17)
+annotates "gran torre" (v.3) — the Tower of Babel narrative, cross-
+referencing this same chapter's own later verses plus the Jaredite
+summary in Omni, a strong fit. Entry e (Éther 3:17; 15:33, self-book
+forward references) annotates "completa" (v.5) — plausible as pointers
+to the fuller Ether narrative. Entry f (Véase d) annotates "torre"
+(v.5) — same Tower of Babel reference as entry d, exact match. All six
+plausible, no red flags.
+Tooling note: `check_line_wrap.py`/`check_google_crosscheck.py` both
+report 0 "mine"-side body lines for this page — the same chapter-
+opening tooling gap already documented on page 549 (body_lines() stops
+at the first blank line after "Página 577", which for this page is
+immediately before the book-title heading). Compared manually instead
+against `google_text_1920/page_0599.txt`: matches this page's
+transcription throughout (including "Judios ;", "Morón ;", etc. with
+the original pre-rule-31 spacing, and footnote d's "5, 33" exactly as
+transcribed). Google's OCR drops the accent on "antíguos" (reads
+"antiguos") and the whole short line "Libro de Éther." between v.2 and
+v.3 — both known OCR weaknesses (dropped diacritics, dropped short
+lines), not evidence against the transcription; the "antíguos" accent
+was independently confirmed by a direct high-zoom pixel check (a clear
+diacritical stroke over the í), and "Libro de Éther." is unambiguously
+present in the top/mid image crops. No new candidates surfaced beyond
+what was already caught during transcription.
+Session B: independently re-verified all 6 Block 1 entries and all 6
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text ("a, Norte América."; "b, Véase
+k, Mosíah 8."; "c, Mosíah 28:17."; "d, Versículos 5,33; Omni 1:20-22;
+Mosíah 28:17."; "e, Éther 3:17; 15:33."; "f, Véase d.") and marker
+placements (before "Norte" v.1, "veinticuatro" v.2, "de" v.3, "gran"
+v.3, "completa" v.5, "torre" v.5) confirmed matching exactly. Full body
+text (v.1-20) re-read against fresh top/mid/bot crops, confirmed
+matching page_577.txt word-for-word, including all previously-noted
+tight-spacing and suspected-misprint spots. No letters on this page
+are i, l, or 1 (own lettering a-f, cross-reference target k), so the
+mandatory 1879 check does not apply — confirmed independently, matching
+Session A's finding. No corrections needed from Session B.

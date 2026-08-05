@@ -1,0 +1,134 @@
+Página 573
+41. Hé aquí, que la [4235]espada de la justicia está suspendida sobre
+vosotros; y se acerca el día en que Él vengará sobre vosotros la
+[4236]sangre de los santos, porque no consentirá, que clamen por
+más tiempo.
+
+CAPÍTULO 9.
+
+1. Y ahora, hablo también respecto á aquéllos que no crean
+en Cristo.
+2. He aquí, ¿creeréis vosotros en el día de vuestra visitación,
+cuando aparezca el Señor; sí, en aquel gran día en que la [4237]tierra
+se plegará como un rollo, y en él que los elementos se derretirán
+con ardiente calor; sí, en aquel gran día en que seréis traídos á
+pararos ante la presencia del Cordero de Dios, diréis entonces
+que no hay Dios?
+3. ¿Entonces negaréis por más tiempo á Cristo, ó podréis mirar
+entonces al Cordero de Dios? ¿Supondréis que habéis de vivir
+con Él con la presión mental de vuestra culpa? ¿Suponéis que
+podréis ser felices, viviendo con aquel santo Ser, cuando vuestras
+almas se hallen atormentadas con el remordimiento de la culpa
+de haber abusado siempre de sus leyes?
+4. He aquí, os digo, que seréis más miserables, viviendo en la
+presencia de un Dios santo y justo, bajo el remordimiento de
+vuestra impureza delante de Él, que lo seréis, viviendo en los
+infiernos con las almas condenadas.
+5. Porque, he aquí, que cuando vengáis á ver vuestra desnudez
+ante la presencia de Dios y también contempléis la gloria de
+Dios, y la santitad de Jesu Cristo, esto os encenderá con un
+fuego que no se podrá apagar.
+6. Entonces, oh vosotros incrédulos, volved al Señor; clamad
+al Padre en el nombre de Jesús, para ver si en aquel día podréis
+aparecer quizás en su presencia sin mancha, puros, hermosos,
+y blancos, porque habréis sido limpiados por la [4238]sangre del
+Cordero, en aquel grande y postrer día.
+7. Y otra vez, hablo á vosotros, los que negáis las revelaciones
+de Dios, y decís que ya han cesado, y que no [4239]hay más
+revelaciones, ni profecías, ni dones, ni curaciones, ni hablar en
+lenguas, ni interpretación de lenguas.
+8. He aquí, os digo, que quienquiera que negare estas cosas,
+no conoce el evangelio de Cristo; sí, ni ha leído las escrituras;
+y si las ha leído, no las comprende.
+
+8-3a, 4235: Véase k, I Nefi 14.
+8-3b, 4236: Véase f, II Nefi 28.
+9a, 4237: Véase c, III Nefi 26.
+9b, 4238: Véase f, II Nefi 2.
+9c, 4239: Véase e, III Nefi 29; Véase 2f, Mormón 8.
+
+Corrections:
+No new chapter/subtitle beyond "CAPÍTULO 9." itself, which prints with
+no separate subtitle line (checked the image directly at the chapter
+opening -- unlike Helamán 7/13, this chapter has none). Chapter 8's
+two-letter lettering rolls over from page 572's "2z" to "3a"/"3b" per
+rule 16's rollover convention, closing that chapter; chapter 9 then
+opens its own lettering fresh at "a" per rule 13. Both rollover-glyph
+readings ("3a"/"3b" vs. a same-font "2") and the ambiguous cross-
+reference target in entry 9c were resolved via direct comparison and
+BOM 1879 Pratt (pages_1879/page_0575.png, book page 567, via
+chapter_map.csv's Mormon,9 row): this page's own swash "3" glyph
+(closing chapter 8) has a distinct two-stacked-round-bump shape with
+no diagonal descender, while the "2" in entry 9c's "Véase 2f, Mormón 8"
+cross-reference has a clear diagonal stroke from upper-right to
+lower-left -- confirmed as genuinely different glyphs at high zoom, not
+the same digit misread twice. 1879 independently corroborates both
+readings by content match (not letter/position, per rule 26): "a, see
+c, III. Nep. 26. b, see f, II. Nep. 2. c, see e, III. Nep. 29. See 2f,
+Mor. 8." -- an exact match for all three of this page's new chapter-9
+letters (a, b, c) and confirms entry c's first target glyph is lowercase
+"e" (also independently confirmed by direct zoom, a rounded "e" shape
+distinct from the digit-3 shape) and its second target is digit "2"
+(not "3"), i.e. a cross-reference to chapter 8's own footnote 2f
+(page 571, within that page's 2a-2o range). None of this page's own
+letters or cross-reference targets (k, f, c, f, e, 2f) are i, l, or 1,
+so the mandatory Section 8 check does not apply here; the 1879 check
+above was a discretionary extension for the ambiguous swash glyphs,
+consistent with the provisional-alphabetical-sequence/swash-font
+guidance in Section 8 (validated page 451 precedent).
+Suspected genuine 1920 misprint, preserved as printed per rule 32: v.5
+"la santitad de Jesu Cristo" -- surfaced by `check_google_crosscheck.py`
+style comparison (the page's own Google/embedded OCR text,
+`google_text_1920/page_0595.txt`, already reads "santitad" rather than
+the expected "santidad"). Zoomed the 1920 image directly at 12x:
+confirmed the print genuinely reads "santitad" (a "t" where "santidad"
+would have a "d"), not a transcription misread. Checked against 1886
+(pages_1886/page_0588.png, book page 570/file 588) for corroboration:
+1886 prints the correct "santidad" (hyphenated "Jesu-Cristo" there, but
+per `feedback_jesu_cristo_hyphen` this document's own unhyphenated "Jesu
+Cristo" is a legitimate standing archaic form, not itself an error) --
+confirming a 1920-only misprint. Logged in `errors in 1920.txt`.
+Suspected extraneous printer's mark, not logged as an error, treated
+like the "Digitized by Google" watermark per rule 33 (matching the
+page 570/571 stray-mark precedent): a small solid dot/fleck appears
+floating above and slightly left of verse 7's "7.", with a visible gap
+to the numeral and no letter beneath it to accent. This page's own
+Google/embedded OCR text layer (`google_text_1920/page_0595.txt`) reads
+straight through as plain "7." with nothing there, corroborating it
+isn't real content; 1886 (pages_1886/page_0588.png) independently shows
+a similar stray dot elsewhere on its own corresponding page (between
+"presencia" and "de" in v.5), suggesting this class of press artifact
+recurs across editions/printings rather than being unique 1920 content.
+No rule-7 hyphen rejoins required a rebalance beyond straightforward
+same-line placement: v.5 "des-"/"nudez" -> "desnudez" (fits on the first
+line, 61 chars); v.7 "revela-"/"ciones" -> "revelaciones" (72 chars
+after rejoin on the first line -- right at the rule-9 cap -- kept there;
+`check_lines.py` will confirm). Google cross-check
+(`check_google_crosscheck.py 573`): beyond the "santitad" defect above
+(already resolved), no other candidates surfaced.
+Session B: independent fresh re-read of fn_zoom against the finished
+page_573.txt -- all 5 Block 1 entries (8-3a, 8-3b, 9a, 9b, 9c) confirmed
+verbatim, and both "sangre" markers ([4236] v.41 "sangre de los santos"
+vs. [4238] v.6 "sangre del Cordero") independently re-checked against
+their respective body positions to rule out a swap. No discrepancies
+found; no changes made.
+Session D: `generate_block2.py 573` resolved 4 of this page's 5 entries
+automatically; entry 9c/4239 (two "Véase" clauses joined by a semicolon
+in one Block 1 entry) hit a known script limitation -- the VEASE_CLAUSE
+regex greedily spans both clauses when no literal period separates them,
+so it can't be split and resolved automatically (same limitation as
+pre-existing entries 995, 2050, 2060, 2257, 3290, 661, all previously
+fixed by hand, confirmed by testing the unchanged current script against
+entry 995's original text). Resolved manually: "Véase e, III Nefi 29" ->
+4016 (III Nefi's own chapter 29 letter e -- NOT the first same-pattern
+hit found by a naive document-wide search, which landed in II Nefi's
+chapter 29 letter e, sequential 742, a different book entirely; caught
+by checking the book-section header boundaries in librodm_foot.txt
+before trusting the match) and "Véase 2f, Mormón 8" -> 4214 (Mormón's
+own chapter 8, page 571's range, confirmed against the book-section
+boundaries the same way, distinguishing it from an unrelated III Nefi
+8-2f entry earlier in the file). Content-fit sanity check: both targets
+fit well -- 4016 (Mormón 9:7-11,15-26) points forward to this same
+chapter's own continuation of the "revelations have ceased" argument;
+4214 covers the same theme from Mormón 8:28's "obtain gain" passage.
+Edited directly into librodm.txt's Block 2 section.

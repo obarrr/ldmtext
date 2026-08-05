@@ -1,0 +1,104 @@
+Página 578
+21. Y Leví era hijo de Kim;
+22. Y Kim era hijo de Moriánton;
+23. Y Moriánton era descendiente de Riplákish;
+24. Y Riplákish era hijo de Shez;
+25. Y Shez era hijo de Heth;
+26. Y Heth era hijo de Com;
+27. Y Com era hijo de Coriántum;
+28. Y Coriántum era hijo de Émer;
+29. Y Émer era hijo de Omer;
+30. Y Omer era hijo de Shule;
+31. Y Shule era hijo de Kib;
+32. Y Kib era hijo de Oríhah, que era hijo de Jared;
+33. Y el dicho Jared vino con su hermano y sus familias, y
+con algunos otros y sus familias, de la [4279]gran torre, en la época
+en que el Señor [4280]confundió la lengua del pueblo, jurando en su
+cólera que [4281]serían dispersados sobre toda la superficie de la
+tierra; y conforme á la palabra del Señor, los pueblos fueron
+dispersados. 34. Y el hermano de Jared era hombre de gran estatura y
+poderoso, y era altamente favorecido del Señor; y Jared le dijo:
+Clama al Señor, que [4282]no nos confunda, de modo que no podamos
+entender nuestras palabras.
+35. Y sucedió, que el hermano de Jared clamó al Señor, que
+tuviera compasión de Jared; y el Señor no confundió su lengua,
+ni la de su hermano; y Jared y su hermano no fueron confundidos.
+36. Entonces Jared dijo á su hermano: Clama otra vez al
+Señor, para que cambie su cólera de los que son nuestros amigos,
+y que no confunda su lengua.
+37. Y ocurrió, que el hermano de Jared se lo pidió al Señor,
+y el Señor fué misericordioso con sus amigos y con las familias
+de sus amigos tambíen, y [4283]no les confundió.
+38. Y aconteció, que Jared dijo otra vez á su hermano: Vé
+inquiere del Señor, si nos [4284]echará del país; y si nos quiere echar
+de este país, pídele que te diga á donde debemos ir. Y quien
+sabe, si el Señor nos llevará á un país que será escogido sobre los
+de toda la tierra, y si así fuere, permanezcamos fieles al Señor,
+para que lo recibamos por nuestra herencia.
+39. Y sucedió, que el hermano de Jared clamó al Señor según
+lo que había sido dicho por boca de Jared.
+40. Y ocurrió que el Señor escuchó al hermano de Jared, y
+teniendo compasión de él, le dijo:
+41. Vé, reune tus rebaños, hembra y macho de cada especie;
+y semillas de la tierra de todas clases, y [4285]tus familias; y también
+
+1g, 4279: Véase d.
+1h, 4280: Versículos 34-37; Génesis 11:7,9; Omni 1:22; Mosíah 28:17.
+1i, 4281: Versículos 38-43; Omni 1:22; Mosíah 28:17; Génesis 11:8,9.
+1j, 4282: Véase h.
+1k, 4283: Véase h.
+1l, 4284: Véase i.
+1m, 4285: De este versículo se ve que el hermano de Jared tuvo una pluralidad
+de familias; Éther 6:20.
+
+Corrections
+v.23 "Riplákish;" — a faint stray dot appears in the print just after
+the semicolon (matching a similar isolated speck near the page-number
+"578" at the top of the page); treated as scan/print noise, not a
+character, and not transcribed — no errors in 1920.txt entry needed.
+Block 1 entry j (v.34 marker, third body footnote on this page) — the
+1920 swash-adjacent italic glyph is visually near-identical to "i" in
+this font; confirmed as "j" via the strict alphabetical sequence
+(g-h-i-j-k-l-m, no gaps/repeats possible) and independently verified
+against 1879 (pages_1879/page_0580.png fn block: "j, see h. k, see h.
+l, see i."), which matches exactly. Not one of the mandatory i/l/1
+letters, but the visual ambiguity to "i" warranted the same check
+(Section 8 discretionary-extension clause).
+Mandatory Section 8 1879 check performed for this page's own letters i
+and l (both in the mandatory i/l/1 set): 1879 pages_1879/page_0579.png
+(letters g,h,i) and pages_1879/page_0580.png (letters j,k,l,m) both
+confirmed exact content match to the 1920 reading — no discrepancies.
+v.33 line "cólera que [4281]serían...tierra;" — inserting marker 4281
+pushed the line to 74 chars; rule 8 cascade applied across two lines in
+sequence (first pass still 74 chars after moving "tierra;" over, so
+"dispersados." was moved a second time), landing "dispersados." before
+"34." on the same output line — mechanical rule-8 consequence of the
+marker length, not a content change.
+v.37 "tambíen" (preserved as printed; verify against 1886) — the Google
+OCR cross-check flagged this word (google read "tambien", no accent;
+mine originally had "también"); a high-zoom look at the print
+(pages_1920/page_0600.png) shows the acute accent clearly sits over the
+"i", not the "e" — genuinely printed "tambíen", not "también". This
+page's other instance of the word, v.41's line-ending "y también"
+(the very last word on the page), is correctly accented in the same
+print, so this is an isolated misprint, not a page-wide pattern.
+Transcribed exactly as printed per rule 32; errors in 1920.txt
+determination deferred to Session E.
+Session B: independently re-verified all 7 Block 1 entries and all 7
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text ("g, Véase d."; "h, Versículos
+34-37; Génesis 11:7,9; Omni 1:22; Mosíah 28:17."; "i, Versículos
+38-43; Omni 1:22; Mosíah 28:17; Génesis 11:8,9."; "j, Véase h."; "k,
+Véase h."; "l, Véase i."; "m, De este versículo se ve que el hermano
+de Jared tuvo una pluralidad de familias; Éther 6:20.") and marker
+placements (before "gran" v.33, "confundió" v.33, "serían" v.33, "no"
+v.34, "no" v.37, "echará" v.38, "tus" v.41) confirmed matching exactly.
+Full body text (v.21-41) re-read against fresh top/mid/bot crops,
+confirmed matching page_578.txt word-for-word, including the v.37
+"tambíen" misprint (re-confirmed at zoom: accent sits over the "i").
+Mandatory Section 8 1879 check for this page's own letters i and l
+independently redone with fresh crops (not reused from Session A) of
+pages_1879/page_0579.png (g,h,i) and pages_1879/page_0580.png
+(j,k,l,m) — both confirm the 1920 reading exactly, including letter j
+(the glyph easily misread as "i"). No discrepancies found; no
+corrections needed from Session B.

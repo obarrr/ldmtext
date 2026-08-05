@@ -1,0 +1,104 @@
+Página 574
+9. Porque, ¿no leemos que Dios es el [4240]mismo ayer, hoy y
+para siempre; y que en Él no hay ninguna variación, ni siquiera
+la sombra de cambio?
+10. Y ahora, si os habéis imaginado á un dios variable, y que
+hay en él alguna sombra de cambio, entonces os habéis imaginado
+á un dios que no es un Dios de milagros.
+11. Pero, he aquí, que yo os mostraré á un Dios de los milagros,
+aún al Dios de Abraham, y al Dios de Isaac, y al Dios de Jacob;
+que es el mismo Dios que creó los cielos y la tierra, y todas las
+cosas que hay en ellos.
+12. Porque, he aquí, que Él es Quién [4241]creó á Adam, y por
+[4242]Adam vino la caída del hombre. Y á causa de la caída del
+hombre, vino Jesu Cristo aún el [4243]Padre y el [4244]Hijo; y por
+causa de Jesu Cristo vino la redención del hombre.
+13. Y á causa de la redención del hombre, que vino por Jesu
+Cristo, vuelven á ser traídos otra vez á la presencia del Señor;
+sí, esto es lo que trae la redención á [4245]todos los hombres, á
+causa de la muerte de Jesu Cristo, la que produce la
+[4246]resurrección, que trae una redención de [4247]eterno sueño,
+del cual todos los hombres se despertarán por medio del poder
+de Dios, cuando suene la trompeta; y se adelantarán, ambos
+grandes y pequeños, y se pararán ante su tribunal, habiendo
+sido redimidos y desatados de las eternas cadenas de la muerte,
+que es una muerte temporal;
+14. Entonces vendrá el juicio del Muy Santo sobre ellos, y
+entonces viene la época en que los [4248]impuros continuarán en
+su impureza; y los justos continuarán en su justicia; que el
+feliz permanecerá feliz; y él que sea desgraciado, continuará en
+su miseria.
+15. Y ahora, os pregunto á todos vosotros, los que os habéis
+imaginado á un dios que [4249]no puede hacer milagros; quisiera
+preguntaros, ¿han pasado ya todas estas cosas de que os acabo
+de hablar? ¿Ha llegado ya el fin? He aquí, os digo que no;
+y que Dios no ha cesado de ser un Dios de milagros.
+16. He aquí, ¿no son maravillosas á vuestros ojos las cosas
+que Dios ha hecho? Sí, ¿y quién es él que puede comprender
+las obras maravillosas de Dios?
+17. ¿Quién será él que diga que no era milagro, que por su
+palabra sea el cielo y la tierra; que por el poder de su palabra
+fué creado el hombre del [4250]polvo de la tierra; y que por el
+poder de su palabra se han verificado los milagros?
+18. ¿Y quién dirá que Jesu Cristo no realizó grandes milagros?
+Y hubo también muchos grandes milagros que fueron hechos
+por manos de sus apóstoles.
+
+9d, 4240: Versículos 10,19; I Nefi 10:18-19; Alma 7:20; Moroni 8:18.
+9e, 4241: Véase m, Mosíah 2.
+9f, 4242: II Nefi 2:18-19,21; 9:6-9; Mosiah 3:26; 16:3-5; Alma 12:22,26;
+Helamán 14:16; Ether 3:13; Moroni 8:8.
+9g, 4243: Véase c, Mosiah 15.
+9h, 4244: Véase b, Mosiah 3.
+9i, 4245: Véase i, II Nefi 9.
+9j, 4246: Véase d, II Nefi 2.
+9k, 4247: Véase f, II Nefi 9.
+9l, 4248: Véase o, II Nefi 9.
+9m, 4249: Véase c.
+9n, 4250: Véase m, Mosíah 2.
+
+Corrections:
+Mid-chapter continuation of CAPÍTULO 9 (opened page 573); no new
+chapter/subtitle on this page. Letters run d-n (11 letters, 4240-4250),
+continuing chapter 9's own lettering from page 573's a-c.
+Mandatory Section 8 check (letters i and l): this page's own footnote
+letters i (4245, v.13 "todos") and l (4248, v.14 "impuros") were checked
+against BOM 1879 Pratt (pages_1879/page_0576.png, book page 568, via
+chapter_map.csv's Mormon,9 row -- file_page 575 listed but the matching
+content for these verses lands one page later, at file 576). Same-page
+comparison first: this page's own swash "i" glyphs (body v.13 and the
+cross-reference target in entry i) show a short stroke with a clearly
+separated dot, distinct from "l"'s continuous unbroken curve (entry l's
+source letter and its own cross-reference target "o" is a plain round
+letter, not ambiguous) -- confirmed at high zoom. 1879 corroborates by
+content match (rule 26 -- letter identity across editions is not
+expected to match when translation word order differs, only the
+target book/chapter): entry i's cross-reference target book/chapter
+(II Nefi 9) matches 1879's own "i, see j, II. Nep. 9" -- same chapter,
+different target letter (j vs i), consistent with expected translation
+divergence. Entry l matches 1879's "l, see o, II. Nep. 9" exactly,
+including the target letter itself. The remaining entries on this page
+(e, f, g, h, j, m, n) all matched 1879 exactly, letter-for-letter and
+content-for-content ("e, see m, Mos. 2." / "f, II. Nep. 2:18,19,21. 9:
+6-9. Mos. 3:26. 16:3-5. Alma 12:22,26. Hela. 14:16. Ether 3:13. Moro.
+8:8." / "g, see c, Mos. 15." / "h, see b, Mos. 3." / "j, see d, II. Nep.
+2." / "m, see c." / "n, see m, Mos. 2." -- all identical in content to
+this page's own entries), giving strong overall corroboration that this
+page's full letter sequence and all its cross-reference targets were
+read correctly.
+No rule-7 hyphenated line-break splits appear on this page.
+No suspected misprints noticed on this page; a small stray mark beyond
+the text column's right edge near the top-of-page header row (similar
+to prior pages' stray-fleck precedent) was checked and is not part of
+any letter or word -- not logged.
+Session B: independent fresh re-read of fn_zoom against the finished
+page_574.txt -- all 11 Block 1 entries (9d-9n) confirmed verbatim
+against the image. All 11 [N] marker placements re-checked against
+their body-text positions (v.9 mismo; v.12 creó, Adam, Padre, Hijo;
+v.13 todos, resurrección, eterno; v.14 impuros; v.15 no puede; v.17
+polvo) -- correct letter-to-word mapping, no swaps. The mandatory
+Section 8 check for letters i/l was independently re-run: re-cropped
+BOM 1879 Pratt page_0576.png fresh (same file used in Session A) and
+re-read its footnote block at high zoom -- reproduces the identical
+findings reported above (entry i's target book/chapter matches, entry
+l matches letter-for-letter). No discrepancies found; no changes made.

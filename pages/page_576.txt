@@ -1,0 +1,209 @@
+Página 576
+no sucumbáis á ninguna tentación, sino para que podáis servir al
+verdadero Dios viviente.
+29. Tened ciudado de que no seáis [4260]bautizados indignamente;
+procurad de no participar del sacramento de Cristo [4261]indignamente;
+sino que habéis de procurar hacerlo todo dignamente,
+haciéndolo en el nombre de Jesu Cristo, el Hijo del Dios viviente;
+si así lo hacéis, y os [4262]sostenéis hasta el fin, de ninguna manera
+seréis desechados.
+30. He aquí, que os hablo como si lo hiciera [4263]de entre los
+muertos; porque sé que oiréis mis palabras.
+31. No me condenéis á causa de mi imperfección, ni á mi
+padre, á causa de la suya, ni á aquéllos que han escrito antes
+que él, sino que dad gracias á Dios, porque os ha dado á conocer
+[4264]nuestras imperfecciones, para que podáis aprender á ser más
+sabios de lo que nosotros hemos sido.
+32. Y ahora, he aquí, que hemos escrito estos anales según
+el conocimiento que tenemos de los carácteres, que son llamados
+entre nosotros el [4265]reformado Egipcio, los que nos han sido
+transmitidos, y que hemos alterado según nuestra manera de
+hablar.
+33. Y si [4266]nuestras planchas hubiesen sido de una extensión
+suficiente, hubiéramos escrito en Hebreo; pero el Hebreo ha
+sido también [4267]alterado por nosotros; y si hubiésemos podido
+escribir en Hebreo, he aquí, que [4268]no hubiera habido imperfección
+en nuestros anales.
+34. Pero el Señor sabe las cosas que hemos escrito, y también
+que ningún otro pueblo tiene conocimiento de nuestra lengua,
+por lo tanto, Él ha preparado los [4269]medios para su interpretación.
+35. Y estas cosas son escritas, para que nuestros vestidos
+permanezcan limpios de la sangre de nuestros hermanos, que
+han [4270]caído en la incredulidad.
+36. Y, he aquí, lo que nosotros hemos deseado relativamente á
+nuestros hermanos, sí, que sean restaurados al conocimiento de
+Cristo, es lo [4271]mismo que han pedido en sus oraciones todos los
+santos que han habitado en el país.
+37. Y que el Señor Jesu Cristo les conceda que sus oraciones
+sean correspondidas según su fe; y que Dios, el Padre, se acuerde
+de la [4272]alianza que ha hecho con la casa de Israel; y que les
+bendiga para siempre, por su fe en el nombre de Jesu Cristo.
+Amén.
+
+9-x, 4260: Véase u, II Nefi 9.
+9-y, 4261: Véase t, III Nefi 18.
+9-z, 4262: Véase h, II Nefi 31.
+9-2a, 4263: Mormón 8.
+9-2b, 4264: Véase w, Mormón 8.
+9-2c, 4265: Véase a, I Nefi 1.
+9-2d, 4266: Véase a, Mormón 1; Véase g, Mormón 8.
+9-2e, 4267: 1000 años hace grandes cambios en idiomas que no son
+escritos ó preservados en libros.
+9-2f, 4268: Véase w, Mormón 8.
+9-2g, 4269: Mosíah 8:13-18; Éther 3:23,28; Doctrinas y Convenios
+17:1.
+9-2h, 4270: Véase d, I Nefi 2.
+9-2i, 4271: Véase s, Mormón 5.
+9-2j, 4272: Véase j, III Nefi 15.
+
+Corrections:
+Mid-chapter continuation of CAPÍTULO 9 (opened page 573); chapter 9
+(and the whole book LIBRO DE MORMÓN) ends this page at v.37 "Amén."
+No new chapter/book heading appears on this page itself -- the
+footnote block ends the page (Digitized-by-Google watermark follows
+immediately), so LIBRO DE ÉTER's own heading will begin on page 577.
+Letters continue x,y,z (24th-26th, completing the single-letter
+alphabet begun at page 573's "a" through page 575's "w"), then wrap
+per rule 16 into two-letter codes 2a-2j (9-2a through 9-2j), joined
+to the chapter number with a hyphen in Block 1 per that rule.
+1879 cross-check (mandatory, Section 8): this page's own letter "2i"
+and the cross-reference target letter in entry 2j both contain the
+component "i", triggering the mandatory check. Fetched 1879 pages
+576-578 (file pages; book pages 568-570) via chapter_map.csv's
+Mormon,9 row (1879 file page 575) plus adjacent pages, since chapter
+9's own pagination runs a few pages past the row's listed starting
+file page. 1879's parallel footnote block (book page 569-570) reads,
+letter-for-letter: "x, see u, II. Nep. 9. y, see t, III. Nep. 18.
+z, see h, II. Nep. 31. 2a, see 2g, Mor. 8. 2b, see w, Mor. 8. 2c, see
+a, I. Nep. 1. 2d, see a, Mor. 1. See g, Mor. 8. 2e, 1000 years make
+great changes in language not printed or preserved by books. 2f, see
+w, Mor. 8. 2g, Mos. 8:13-18. Ether 3:23,28. Doc. and Cov. 17:1. 2h,
+see d, I. Nep. 2. 2i, see s, Mor. 5. 2j, see j, III. Nep. 15." This
+confirmed every one of this page's own entries letter-for-letter
+against 1920, EXCEPT two initial misreadings caught by this check
+before finalizing the page:
+- Entry 2i's target was first misread as "Véase e, Mormón 5" (the
+  swash/italic target glyph is small and blob-like). 1879 shows "s".
+  Content-fit confirms "s": Mormón 5's own letter s = footnote 4149,
+  "Enos 1:12-18; Mormón 8:24-26; 9:36-37," annotating librodm.txt line
+  25205's "Y también recordará el Señor las [4149]oraciones de los
+  justos" -- a direct match to this page's v.36 "es lo mismo que han
+  pedido en sus oraciones todos los santos." Mormón 5's letter e
+  (4135, "Véase a; Mormón 1") annotates unrelated "un pequeño extracto"
+  (line 25155) -- no thematic fit at all. Corrected to "s".
+- Entry 2j's target was first misread as "Véase i, III Nefi 15"
+  (italic i/j are easily confused at this size/font, and this is
+  exactly the ambiguity Section 8 exists to catch). 1879 shows "j".
+  Content-fit confirms "j": III Nefi 15's own letter j = footnote
+  3702 ("III Nefi 5:24-26; 16:5; Véase e, I Nefi 15"), which the
+  project's own already-integrated librodm.txt (line 23156) shows
+  annotating "no se ha cumplido enteramente la [3702]alianza que hice
+  con mi pueblo" (III Nefi 15:8) -- a near-verbatim match to this
+  page's v.37 "la alianza que ha hecho con la casa de Israel." III
+  Nefi 15's letter i (3701, "III Nefi 12:46-47") has no such
+  connection. Corrected to "j".
+Entry 2a's bare "Mormón 8." citation (no "Véase" and no target
+letter) was double-checked at high zoom against 1879's fuller "2a,
+see 2g, Mor. 8." -- confirmed 1920 genuinely omits the target letter
+here (a real simplification vs. 1879, not a missed reading); this
+page already has two other bare, no-"Véase" citations (2e, 2g), so
+the pattern is established and unremarkable.
+Same-page swash-letter comparison (Section 8 step 1) was also used to
+settle the "2a" vs. a superficially "g"-like descender shape on this
+same source glyph: compared side by side against this page's plain
+italic target-letter "a" (in "Véase a, Mormón 1") and confirmed they
+are simply two different type styles (swash source-letter font vs.
+plain italic target-letter font used in "Véase X" citations) rather
+than two different letters -- the swash "a" on this page carries a
+descending tail the plain italic "a" does not. The strict alphabetical
+count already confirmed above (a-w used across pages 573-575, so the
+first two-letter code after z must be 2a) settles this independent
+of the glyph-shape question.
+Suspected misprint (rule 32): v.29 prints "Tened ciudado de que"
+(zoomed and confirmed at high magnification) where every other
+instance of this word in the document reads "cuidado" (e.g. line
+8217's near-identical phrase "tened cuidado que no fuere"). Preserved
+exactly as printed per rule 32; not silently corrected.
+Session E: resolved. 1886 (pages_1886/page_0590.png, book page 572)
+prints the identical "Tened ciudado de que no seáis bautizados" --
+shared with 1920, same pattern as this document's existing
+"ricibirles"/"seperado" precedents where 1886 agreement does NOT
+clear a word (only "cuidado" has any RAE DLE entry; "ciudado" has
+none, only "ciudad"/"ciudadano"/"ciudadela"; zero hits for "ciudado"
+across all three reference corpora vs. 68 for "cuidado" in Quijote;
+the modern Spanish edition, Mormón 9:29, uses "Cuidaos" from the same
+"cuidar" root). Added to `errors in 1920.txt` (shared-with-1886 error)
+and to `permitted words.txt`.
+Rule 7: one hyphenated line-break split rejoined -- v.29's second
+"indignamente" ("Cristo indigna-" / "mente; sino"), rejoined onto the
+first line (fits under 73 chars with the attached semicolon).
+Rule 31: multiple original-print instances of a space before a
+semicolon normalized (removed), per the standing rule -- not logged
+as errors: "indignamente ;", "viviente ;" (x2), "muertos ;", "Hebreo ;",
+"nosotros ;", "fe ;", "Israel ;".
+No other suspected misprints found on this page.
+Google cross-check (check_google_crosscheck.py 576): zero candidates
+after dismissing 6 footnote-marker-glue hits and 1 trailing
+footnote-block hit.
+Session B: independent fresh re-read of fn_zoom against the finished
+page_576.txt -- all 13 Block 1 entries (9-x through 9-2j) confirmed
+verbatim against the image, including the 2i/2j corrections already
+made in Session A (both re-confirmed still correct on this fresh
+pass). All 13 [N] marker placements re-checked against their
+body-text positions (v.29 bautizados, indignamente, sostenéis; v.30
+de entre; v.31 nuestras imperfecciones; v.32 reformado; v.33 nuestras
+planchas, alterado, no hubiera habido; v.34 medios; v.35 caído; v.36
+mismo; v.37 alianza) -- correct letter-to-word mapping, no swaps. The
+mandatory Section 8 1879 check (letters "2i" and cross-reference
+target "2j") stands: both were resolved via the independent 1879
+source (not a same-image re-read) in Session A and are re-confirmed
+here -- no changes made.
+Session D: generate_block2.py left 4266 unresolved because the entry
+packs two "Véase <letter>, <Book> <Chapter>" clauses (a, Mormón 1;
+g, Mormón 8) joined by a semicolon inside one period-terminated
+sentence -- same double-clause parsing limitation already documented
+on page 575 (entries 4253/4258). Resolved by hand: Mormón 1's own 1a
+= 4062 ("Consistiendo de nueve capítulos..."); Mormón 8's own 8g =
+4189 ("Las pocas planchas de Mormón, hechas de las planchas de...")
+-- both confirmed via librodm_foot.txt's LIBRO DE MORMÓN section, and
+both are a strong content fit for v.33's "nuestras planchas" (our
+plates). Final Block 2 text: "4266: Véase 4062; Véase 4189." --
+manually edited into librodm.txt after generate_block2.py's automated
+run. The script's other two Véase-only resolutions for this page's
+"2i"/"2j" entries (4271 -> 4149, 4272 -> 3702) independently matched
+the exact footnote numbers already found by hand in Session A's 1879
+cross-check, corroborating those letter corrections a third time.
+Session E: whole-document check_spaced_punctuation.py/
+check_footnote_punctuation.py/check_verse_indent.py all clean on
+librodm.txt and librodm_foot.txt. Fresh WSL pptext regeneration
+(report_wsl_20260803c.html): "ciudado" (v.29) resolved as a genuine
+1920 error shared with 1886 -- see below -- and is the only new
+Spellcheck Suspect Word from this page's vocabulary (now suppressed
+via `permitted words.txt`); "carácteres" (v.32) was already in
+`permitted words.txt` from an earlier page, no new entry needed.
+Direct footnote-number sweep of librodm.txt (all [N] body anchors vs.
+all Notas-section "N:" definitions): this page's own range 4260-4272
+fully contiguous in both anchors and definitions, zero duplicates,
+zero out-of-range values (whole-document duplicates: zero; the
+document's pre-existing, already-documented "missing anchor 812" /
+"missing defs 365,530,805,909,1724,1725" gaps are untouched historical
+findings from earlier pages, not new). Scanno check, curly-quote
+check, and Jeebies all clean document-wide. Dash/special-situations/
+paragraph-level/book-level sections: nothing from this page's line
+range (25676-25717 body, 30287-30300 Block 2) appears in any finding;
+the "full stop followed by unexpected sequence" and "paragraph ends in
+comma" categories (the two that require real per-hit verification per
+the orthography-check skill) list only pre-existing hits from earlier
+books. No narrow-space-vs-merge notes on this page to batch into this
+summary.
+Suspected misprint resolved: v.29 "ciudado" (cuidado) -- 1886
+(pages_1886/page_0590.png, book page 572) prints the identical
+"Tened ciudado de que no seáis bautizados", so this is a shared
+1886/1920 error, not 1920-exclusive (same pattern as this document's
+existing "ricibirles"/"seperado" precedents, where 1886 agreement
+does NOT clear a word). RAE DLE has no entry for "ciudado" (only
+"ciudad"/"ciudadano"/"ciudadela"); zero hits for "ciudado" across all
+three local reference corpora vs. 68 for "cuidado" in Quijote; the
+modern Spanish Book of Mormon (churchofjesuschrist.org, Mormón 9:29)
+uses "Cuidaos" from the same "cuidar" root. Added to `errors in
+1920.txt` and `permitted words.txt`.

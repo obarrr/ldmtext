@@ -85,69 +85,51 @@ NNN often doesn't repeat "page NNN" in its own header. If a page has
 more than one matching entry, the latest date is the current, correct
 state — earlier entries may have been reversed.
 
-- **2026-08-02**: Sessions A–E run for page 566 (Mormón 6, verses
-  6(cont.)-15(partial); footnotes 4154-4164, letters c-m). Session A:
-  resolved page 565's trailing "Mor-" page-boundary split (rule 10) —
-  appending "Mormón," to page 565's last line kept it at 61 chars, so
-  the whole word moved there and page 566 begins with "empezaba"
-  instead; revised `pages/page_565.txt` and its already-integrated copy
-  in `librodm.txt` to match. Letters i and l both present in this
-  page's own lettering (mandatory Section 8 check): resolved via a full
-  1879 page-image read (file pages 567-569, not a same-crop re-read) —
-  both d and i cross-reference the swash-digit target "2f, IV Nefi 1"
-  (confirmed via 1879's "see 2f, IV. Nep. 1", twice), k targets "2p,
-  Alma 43", l targets bare "a", and m's "Versículo II" is confirmed to
-  be the digits "11" (this font's small swash numerals resembling Roman
-  "II" at a glance), not an actual Roman numeral, via 1879's "m, ver.
-  11." All 11 entries (not just the mandatory two) cross-checked
-  against 1879 given the font's frequent 2/s ambiguity. Rule-8
-  rebalancing cascaded across three consecutive lines once footnote
-  markers were inserted into a dense stretch ("planchas de Nefi ...
-  escondí ... cerro de Cumórah ... habían sido"). Session D: a
-  Block-1-to-Block-2 resolution failure was traced to the page's own
-  Block 1 print anomaly — footnote 6f/4157 originally transcribed
-  literally as "I Nefi.1." (a period where every sibling entry in the
-  same footnote block has a space) broke `generate_block2.py`'s
-  book/chapter regex; reconsidered under rules 16-25 (which already
-  normalize Block 1 reference punctuation regardless of print, e.g. the
-  comma-to-hyphen verse-range rule) rather than rule 32's body-text
-  verbatim standard, and normalized to "I Nefi 1." in both
-  `pages/page_566.txt` and `librodm_foot.txt`; the already-appended
-  Block 2 line was hand-resolved to "Véase 6." (I Nefi ch. 1 letter f).
-  Session E: fresh pptext/WSL regeneration
-  (`report_wsl_20260802c.html`, following on from 565's
-  `...802b.html` — renamed from a bare `...802.html` after publishing
-  to avoid clobbering that same-day file). Only 4 new Spellcheck
-  Suspect Words hits, all proper names (Cameníhah, Jonéam, Límhah,
-  Shiblom), added to `permitted words.txt`; three other page-566 names
-  with irregular diacritics (Lámah, Gidgiddónah, Antiónum) are not
-  flagged by the actual report despite absence from that list, so
-  nothing was added for them (no-op precedent, pages 469-470). The
-  page's own suspected-misprint note ("ricibirles" for "recibirles",
-  v.7) was run through the full mandatory check: 1886 (book page
-  562/file 580) prints the identical misspelling, hyphenated
-  "ricibir-les" — a shared-edition error, not 1920-only — but RAE DLE
-  has no entry for "ricibir" and none of the three reference corpora
-  contain it either, so per the `seperado`/`marvillosas` precedent
-  (1886 agreement alone doesn't establish legitimacy) it was added to
-  `errors in 1920.txt` as Mormón 6:7; not added to `permitted words.txt`
-  since the fresh pptext report doesn't flag it at all (same
-  unexplained-gap pattern as "Poi"/"dsesaría"/"aninciado", pages
-  469-470). Independently verified "tallaron"/"tallados" (v.10-11,
-  double-l) is not a new error — matches 1886 exactly and is already
-  established document-wide vocabulary (~15 prior instances, never
-  needing a `permitted words.txt` entry since aspell already accepts
-  "tallar" conjugations). Whole-document mechanical sweeps all clean —
-  max footnote 4164, zero duplicates/out-of-range, only the
-  pre-existing footnote-812 gap remains; zero curly quotes; no new
-  hyphen compounds.
-- **Next page**: 567, full A–E cycle, first footnote 4165. Note: page
-  566 ends mid-verse (Mormón 6:15, "...y de unos") with v.15 continuing
-  onto page 567 — 1879's parallel text (file page 569) shows the
-  continuation covers a "few who had escaped" (footnote n) and "a few
-  who had dissented" (footnote o) before the verse ends, so page 567's
-  Session A should expect footnote letters n/o early on.
-- **Completed pages**: 437–566, Sessions A–E fully done through page 566.
+- **2026-08-04**: Sessions A–E run for page 581 (Éther 2:16-25,
+  continuing chapter 2, ending mid-verse-25), footnotes 4302-4306,
+  letters n-r (continuing chapter 2's alphabet from page 580's j-m).
+  None of this page's five superscripts (n, o, p, q, r) are i/l/1, so
+  the mandatory Section 8 1879 check did not apply to any of them;
+  confirmed via direct zoom of each. Three hyphenated line-break splits
+  rejoined per rule 7 (v.18 "dici-/endo" and "con-/struido", v.22
+  "¿con-/sentirás"), none needing a rule 8 cascade. Footnote q (v.20
+  marker "fondo") is an unusually long entry — a multi-sentence
+  explanatory footnote (not just a bare citation) describing how the
+  barges' two air-holes worked, ending in an "Éther 6:6,7,10." cross-
+  reference; confirmed against 1879 (pages_1879/page_0583.png, same q
+  footnote, English "Both of these air-holes...") to have the same
+  structure and content. Two genuine 1920-only errors found within
+  that footnote q text, both confirmed via 1879 since this edition of
+  1886 carries no footnotes at all: "volteados." printed with a period
+  where the sense continues as one clause (1879's "turned bottom
+  upwards" is a single continuous clause, matching the pattern already
+  logged for page 580 v.10 "posea."; also independently caught by
+  pptext's "full stop followed by unexpected sequence" check) and
+  "superficia" printed for "superficie" (1879's "surface" confirms;
+  also independently flagged by pptext's spellcheck/edit-distance
+  check, 1 occurrence vs. 69 elsewhere in the document). Both logged in
+  `errors in 1920.txt` as "Éther 2:24 (nota q) volteados. (volteados,)"
+  and "Éther 2:24 (nota q) superficia (superficie)"; `superficia` added
+  to `permitted words.txt` per rule 10. V.24's "Puesque" (one word) was
+  also flagged for review but turned out to need no action — already
+  used 12+ times earlier in the document and already present in
+  `permitted words.txt`, and 1886 (book page 577/file 595) prints the
+  identical form, confirming it's a legitimate archaic spelling shared
+  with 1886. Session B independently re-verified all 5 Block 1 entries
+  and all 5 `[N]` body markers against fresh crops (not reused from
+  Session A) — no discrepancies. `check_google_crosscheck.py` flagged
+  two spots, both resolved as OCR noise after zooming (a dropped colon
+  after "diciendo," and a stray inserted apostrophe at a line-wrap
+  boundary, neither present in the actual print). Whole-document
+  footnote-anchor/Block-2-definition cross-check re-run clean: zero
+  duplicate definitions, zero anchored-but-undefined numbers beyond the
+  already-documented Jacob 2:15/812 print-original gap; footnote-number
+  range check (1-4306) also clean, zero duplicates, zero missing beyond
+  812. Whole-document `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, and `check_verse_indent.py` all
+  clean on both master files.
+- **Next page**: 582, full A–E cycle, first footnote 4307.
+- **Completed pages**: 437–581, Sessions A–E fully done through page 581.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

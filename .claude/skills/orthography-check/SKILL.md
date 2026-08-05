@@ -454,6 +454,95 @@ matter). Genuine print defects go to `errors in 1920.txt` with no
 text change; transcription typos get fixed directly in `librodm.txt`
 with no `errors in 1920.txt` entry.
 
+### Footnote anchor ↔ Block 2 definition cross-check (whole document, every run)
+
+**pptext's own footnote check (above) has a blind spot it will never
+close**: it only inventories `[N]` body anchors against each other
+(duplicates, out-of-range) — it never looks at whether a matching
+`N: ` definition actually exists in `librodm.txt`'s Notas section.
+An anchor can be perfectly well-formed, in-range, and non-duplicate,
+while its own Block 2 definition is silently missing, wrong, or
+mislabeled, and nothing above this section will ever catch it.
+
+**Confirmed real, found 2026-08-03**, prompted by a user question
+during page 577's Session E, not by any routine check: a full
+anchors-vs-definitions sweep turned up 6 numbers with a body `[N]`
+anchor but no matching Block 2 `N: ` line anywhere — 365, 530, 805,
+909, 1724, 1725, all pre-dating page 437 (before individual
+`pages/page_NNN.txt` files and the current per-page workflow existed).
+Every one had turned invisible for a different reason, which is the
+real lesson — don't assume one fix pattern covers the next occurrence:
+- **365**: not actually absent from Block 1 — `librodm_foot.txt` had
+  "9h, 365, Véase f, II Nefi 2." with a **comma typo in place of the
+  colon** after the number, invisible to any colon-anchored search.
+  The citation letter itself was ALSO wrong ("f" instead of the
+  correct "i" — confirmed via the mandatory Section 8 1879 check,
+  which had simply never been run on this entry before); Block 2 had
+  a matching "365, Véase 268." line with the same comma typo, whose
+  target (268) already happened to be correct — evidence a past
+  session once worked out the right answer but never fixed the
+  punctuation or propagated the letter fix back to Block 1.
+- **530, 909**: the correct reference text was present in Notas, just
+  missing its own leading "NNN: " label entirely — an orphaned line
+  that silently read as normal wrapped continuation text.
+- **805, 1724, 1725**: genuinely never written at all, a clean jump
+  from N-1 straight to N+1 with zero trace.
+Each was resolved from Block 1's own (already-correct) chapter+letter
+entry — no page-image work needed except for 365's letter correction,
+since these are Block-1-to-Block-2 transcription gaps, not reading
+questions. One (1725) was a double-clause "Véase X; También Y" cross-
+reference; its resolution was independently corroborated by finding an
+*already-correctly-resolved* twin entry elsewhere in the document
+(footnote 1324) citing the identical Block 1 target text.
+
+**Going forward, run this sweep every Session E, across the whole
+document** (not scoped to the current page — same rationale as the
+spaced-punctuation/verse-indent whole-document sweeps above). It is
+cheap: a handful of regex lines, no OCR/image work unless a gap is
+found.
+
+```python
+import re, io
+body = io.open('librodm.txt', encoding='utf-8').read()
+anchors = set(int(n) for n in re.findall(r'\[(\d+)\]', body))
+notas = body[body.rfind('Notas'):]
+def_nums = [int(n) for n in re.findall(r'^(\d+): ', notas, re.MULTILINE)]
+dupes = [n for n in set(def_nums) if def_nums.count(n) > 1]
+print('duplicate Block2 defs:', dupes)
+print('defined but no body anchor:', sorted(set(def_nums) - anchors))
+print('anchored but no Block2 def:', sorted(anchors - set(def_nums)))
+```
+
+Interpreting the results:
+- **"anchored but no Block2 def"** is the class of defect above —
+  investigate each number: first check Block 1 for a hidden
+  punctuation typo (search for both `NNN: ` and `NNN,` /`NNN\b` near
+  the expected chapter+letter, don't rely on a single anchored
+  regex), then check Notas for an orphaned/unlabeled line sitting
+  where the entry should be, and only conclude "genuinely never
+  written" once both come up empty. Resolve from Block 1's own entry
+  text (research/1879-check only if the Block 1 entry itself looks
+  wrong, as with 365's letter).
+- **"defined but no body anchor"** — this is the OTHER direction
+  (a Block 2 definition exists with no corresponding `[N]` in the
+  body) and has one long-standing legitimate cause already on file:
+  footnote 812 (Jacob 2:15), a genuine 1920 print-original omission
+  already documented in `errors in 1920.txt` (see the Footnote check
+  section above, "Genuine 1920 print defect"). Any NEW number
+  appearing in this list needs the same treatment as a fresh footnote-
+  check finding — don't assume it's automatically another instance of
+  the already-known 812 pattern.
+- **"duplicate Block2 defs"** — same response as pptext's own
+  duplicate-anchor finding (see Footnote check above): check both
+  locations against Block 1, don't assume either is the intruder.
+
+This class of gap (isolated single-entry defects in the pre-437
+portion of the book) may still have undiscovered instances beyond the
+6 found 2026-08-03 — that was a fix of the specific numbers found by
+one sweep, not proof the pre-437 section is now exhaustively clean.
+Re-running this exact sweep costs nothing, so just run it every time
+rather than trying to reason about whether it's "probably still clean."
+
 ### Scanno check
 
 pptext flags any occurrence of a word from DP's *English* stealth-
@@ -672,6 +761,9 @@ order (see `workspace/report_wsl_*.html`):
 - Text Analysis Report: ellipsis check
 - Text Analysis Report: dash check
 - Footnote check
+- Footnote anchor ↔ Block 2 definition cross-check (added 2026-08-03 —
+  a separate, whole-document check that pptext's own footnote check
+  cannot perform; see the dedicated subsection above)
 - Scanno check
 - Curly quote check
 - Spaced punctuation check (added to this tracker 2026-07-24 — was

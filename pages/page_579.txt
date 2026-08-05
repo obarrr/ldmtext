@@ -1,0 +1,147 @@
+Página 579
+á Jared, tu hermano, con su familia; y también á [4286]tus amigos
+con sus familias, y á los amigos de Jared con sus familias.
+42. Y cuando hayas hecho esto, bajarás á la cabeza de ellos,
+al valle que está al Norte. Y allí te encontraré, é iré contigo,
+y yo iré delante de ti [4287]á un país escogido sobre todos los demás
+países de la tierra.
+43. Y allí te bendeciré á ti, y á tu simiente, y á la simiente de
+tu hermano; y de tu simiente y de la de tu hermano, me levantaré
+yo una gran nación. Y no habrá nación más [4288]grande sobre toda
+la superficie de la tierra que la que yo me levantaré de tu posteridad.
+Y obraré así contigo, porque has clamado á mí todo
+este tiempo.
+
+CAPÍTULO 2.
+
+1. Y sucedió, que Jared, con su hermano y sus familias, y
+con su amigos, y los de su hermano con sus familias, se trasladaron
+al valle que se [4289]hallaba al Norte, (cuyo nombre era Nimrod, así
+llamado del gran cazador,) con sus ganados que habían reunido,
+macho y hembra de [4290]todas clases.
+2. Y poniendo lazos, cogieron aves; y prepararon un barco
+en él que condujeron el pescado de las aguas;
+3. Y condujeron también con ellos Deseret, que interpretado
+significa abeja de miel; llevando de este modo consigo enjambres
+de abejas, y [4291]semillas de todas clases de todo cuanto había en el
+país.
+4. Y sucedió, que cuando llegaron al [4292]valle de Nimrod,
+[4293]descendió el Señor y habló con el hermano de Jared, apareciendo en
+una [4294]nube, de modo que el hermano de Jared no le podía ver.
+5. Y ocurrió, que le mandó el Señor que salieran para el desierto;
+sí, hacia aquella parte en que aun no había entrado el
+hombre. Y sucedió que iba el Señor [4295]delante de ellos, y les
+habló desde una nube, diciéndoles, por donde habían de caminar.
+6. Y aconteció, que viajaron así por el desierto y construyeron
+barcas, con las cuales atravesaron [4296]muchas aguas, yendo siempre
+dirigidos por la mano del Señor.
+7. Y no consintió el Señor que se detuvieran al otro lado de
+la mar en el desierto, sino que quiso que salieran hasta llegar
+al [4297]país de promisión, que era un país escogido sobre todos los
+países, que el Señor Dios había guardado para un pueblo justo;
+
+1n, 4286: Éther 6:16.
+1o, 4287: El Señor les condujo á la costa Oeste de Norte América.
+1p, 4288: Éther 15:2.
+2a, 4289: Éther 1:42.
+2b, 4290: Éther 1:41; 6:4; 9:18-19.
+2c, 4291: Éther 1:41.
+2d, 4292: Versículo 1.
+2e, 4293: Éther 1:42.
+2f, 4294: Versículos 5,14.
+2g, 4295: Éther 1:42.
+2h, 4296: Las mares interiores del Asia.
+2i, 4297: Versículos 8,12-15; Véase o, Éther 1; también véase d, II Nefi 1.
+
+Corrections
+Block 1 entry 1p (v.43 marker, third body footnote carried over from
+chapter 1) — the superscript "p" that should precede "Éther 15:2." in
+the footnote block is not visibly printed in the 1920 scan at all
+(checked at high zoom, multiple crop attempts, genuinely blank ink
+where the glyph should be — a print/inking defect, not a narrow-space-
+vs-merge or i/l/1 ambiguity). Resolved via: (1) alphabetical sequence
+(chapter 1 letters ran a-m on page 578, so n/o/p follow in order on
+this page); (2) the body text's own "p" marker before "grande" (v.43)
+is clearly and fully printed, confirming the letter; (3) mandatory-
+adjacent 1879 cross-check (pages_1879/page_0580.png) confirms three
+separate entries "n, Ether 6:16. o, The Lord brought them upon the
+western coast of North America. p, Ether 15:2." matching exactly.
+Session E: on review, logged in errors in 1920.txt as "Footnote
+Éther 1p faltando la letra p en el bloque de notas" — matches the
+existing "Footnote Alma 9g faltando la g." precedent for a missing
+footnote-key letter (as opposed to "not an error" originally reasoned
+in Session A).
+Mandatory Section 8 1879 check performed for this page's own letter i
+(v.7 marker, "país de promisión"): confirmed via
+pages_1879/page_0581.png fn block ("i, vers. 8:12-15. See o, Ether 1.
+Also see d, II. Nep. 1."),
+matching the 1920 reading exactly, including the "Véase o" and "también
+véase d" cross-references.
+v.42 "Y no habrá nación más [4288]grande" — the same 1879 check also
+confirmed the Section 8 discretionary-extension letters n and o (not
+mandatory but re-verified alongside the i/p work above for efficiency):
+both match exactly.
+v.4 line "que cuando llegaron al [4292]valle de Nimrod, [4293]descen-" —
+rejoining the hyphenated "descen-dió" per rule 7 pushed the line to 76
+chars with both markers; rule 8 cascade applied — the rejoined word
+"descendió" (with its [4293] marker) moved to start the next line
+instead.
+v.5 "Y ocurrió, que le mandó el Señor que salieran para el de-" —
+straightforward rule 7 rejoin ("desierto;", with the following
+semicolon traveling with it per rule 7); resulting line stayed under 72
+chars, no cascade needed.
+v.43 "la superficie de la tierra que la que yo me levantaré de tu pos-
+teridad." — straightforward rule 7 rejoin ("posteridad."); resulting
+line stayed under 72 chars, no cascade needed.
+v.7 "al [4297]país de promisión, que era un país escogido sobre todos
+los" — inserting marker 4297 pushed the line to 77 chars; rule 8
+cascade applied, moving "todos los" to the start of the next line.
+Ch.2 v.1-7 body text cross-checked word-for-word against 1879
+(pages_1879/page_0580.png and page_0581.png body text) for general
+sense/content-fit while doing the footnote checks above — no
+discrepancies noted.
+check_line_wrap.py's advisory count (12 lines) only reflects
+lines up to the mid-page blank line before CAPÍTULO 2 — its
+body-line detector stops at the first blank line, which this page
+hits early because of the chapter break, not because of a reflow
+problem. The full page's 40 body lines were each confirmed directly
+against the top/mid/bot image crops per rules 5/6; the OCR's own
+independent full-page estimate (39) is within 1 of that true count.
+Session B: independently re-verified all 12 Block 1 entries and all
+12 [N] body markers against a fresh process_page.py crop (not reused
+from Session A) — all reference text and marker placements (before
+"tus" v.41, "á" v.42, "grande" v.43, "hallaba" v.1, "todas" v.1,
+"semillas" v.3, "valle" v.4, "descendió" v.4, "nube" v.4, "delante"
+v.5, "muchas" v.6, "país" v.7) confirmed matching exactly. Full body
+text (v.41-43, CAPÍTULO 2 v.1-7) re-read against fresh top/mid/bot
+crops, confirmed matching page_579.txt word-for-word. Mandatory
+Section 8 1879 check for letter i, plus the discretionary re-check of
+n/o/p, independently redone with fresh crops (not reused from Session
+A) of pages_1879/page_0580.png and page_0581.png — both confirm the
+1920 reading exactly, including entry p's unprinted-but-inferable
+superscript. No discrepancies found; no corrections needed from
+Session B.
+Session E: new proper nouns (Nimrod, Deseret) already present in
+`permitted words.txt`; no other new-page words flagged by a freshly
+regenerated pptext report (`report_wsl_20260804.html`) in any
+section — Spellcheck Suspect Words, Edit Distance, hyphenation/
+spaced-pair, character checks, footnote check (all 12 new anchors
+4286-4297 present exactly once across the two anchor buckets, 4293
+landing in the "footnote" bucket only because the rule-8 cascade put
+it at the start of its line), scanno, curly quote, special situations
+(the four "standalone 1" hits on this page's Block 2 entries are the
+same long-established `Book Chapter:Verse` false-positive category,
+not a real finding), book level, and paragraph level all clean for
+this page's line range. Whole-document footnote-anchor/Block2-
+definition cross-check re-run clean: zero duplicate definitions, zero
+anchored-but-undefined numbers beyond the one already-documented
+Jacob 2:15/812 print-original gap. Whole-document
+`check_spaced_punctuation.py`, `check_footnote_punctuation.py`, and
+`check_verse_indent.py` all clean on `librodm.txt`/`librodm_foot.txt`.
+No narrow-space-vs-merge calls were made on this page (nothing to
+batch for the editor). One finding promoted to `errors in 1920.txt`
+on review: Block 1 entry 1p's missing footnote-key letter (see above)
+— added as "Footnote Éther 1p faltando la letra p en el bloque de
+notas", matching the existing "Footnote Alma 9g faltando la g."
+precedent.
+

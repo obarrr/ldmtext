@@ -1,0 +1,178 @@
+Página 567
+[4165]cuantos que escaparon á los países del Sud; y de otros pocos
+que se [4166]pasaron á los Lamanitas, todos cayeron, y su carne, sus
+huesos y su sangre yace sobre la faz de la tierra, dejados por
+mano de los que les mataron, para descomponerse sobre la
+superficie del país, y volver al seno de su madre tierra.
+16. Y mi alma se partió de angustia, á causa de los muertos de
+mi pueblo, y exclamé:
+17. ¡Oh vosotros de hermoso rostro, cómo os separasteis de
+las vías del Señor! ¡Oh vosotros de hermoso rostro, cómo
+pudisteis rechazar á aquel Jesús que estaba con los brazos
+abiertos para recibiros!
+18. He aquí, que si no hubieseis hecho esto, no habríais caído.
+Pero, he aquí, que habéis caído, y yo lloro vuestra pérdida.
+19. Vosotros, oh bellos hijos é hijas, vosotros padres y madres,
+vosotros maridos y esposas, vosotros bellos seres, ¿Cómo es que
+pudisteis caer?
+20. Pero, he aquí, que habéis desaparecido, y mi dolor no puede
+hacer que volváis á aparecer;
+21. Pronto llegará el día en él que vuestra mortalidad tiene
+que revestirse de la inmortalidad, y en él que estos cuerpos,
+que ahora yacen [4167]decayendo en la corrupción, vendrán á ser
+incorruptibles; entonces apareceréis ante el tribunal de Cristo,
+para que seáis juzgados según vuestras obras; y si habéis sido
+justos, seréis bendecidos en unión de vuestros padres que os
+han precedido.
+22. ¡Oh, que no os hubieseis arrepentido antes que cayera
+sobre vosotros esta horrorosa destrucción! He aquí, que os
+habéis desaparecido, y sólo el Padre, el Eterno Padre del cielo,
+sabe vuestro estado, Él que obra con vosotros según su justicia
+y su misericordia.
+
+CAPÍTULO 7.
+
+1. Ahora, he aquí, voy á decir algunas cosas al [4168]resto de este
+pueblo que ha sido conservado, á fin de que, si Dios les concede
+que lleguen á ellos mis palabras, puedan conocer las cosas de
+sus padres; sí, con vosotros hablo, restos de la casa de Israel,
+y estas son las palabras que os digo;
+2. Sabed que pertenecéis á la casa de Israel.
+3. Sabed que es necesario que os arrepintáis, ó de otro modo
+no os podéis salvar.
+
+6n, 4165: Mormón 8:2.
+6o, 4166: Véase h, Alma 45.
+6p, 4167: Véase d, II Nfie 2.
+7a, 4168: Los Lamanitas ó Indios.
+
+Corrections:
+Page-boundary continuation: page 567 begins mid-verse (Mormón 6:15,
+continuing "...aquellos veinticuatro que estaban conmigo, y de unos"
+from page 566's last line), so no blank line follows "Página 567"
+per rule 1.
+Rule-31 space-before-punctuation instances found in the original print
+and normalized (9): v.15(cont.) "Sud ; y" -> "Sud; y"; v.16 "exclamé :"
+-> "exclamé:"; v.17 "Señor !" -> "Señor!", "recibiros !" ->
+"recibiros!"; v.20 "aparecer ;" -> "aparecer;"; v.21
+"incorruptibles ;" -> "incorruptibles;", "obras ;" -> "obras;";
+v.22 "destrucción !" -> "destrucción!"; cap.7 v.1 "padres ;" ->
+"padres;", "digo ;" -> "digo;".
+Also a justification-widened double space after "destrucción !" (v.22)
+normalized to a single space per rule 6.
+Rule-6 narrow-space-vs-merge instances, defaulted to two words per
+grammar (not raised as a standalone question during Sessions A-D; see
+`feedback_narrow_space_vs_merge` and the rule 6 "default to two words"
+guidance -- batched here for Session E's summary to the editor):
+v.15(cont.) "álos" (zero/near-zero gap in the image) -> "á los"
+(preposition + article, grammatically two words, "se pasaron á los
+Lamanitas" = "went over to the Lamanites"); v.18 "sino" (very tight gap)
+-> "si no" (grammar requires the conditional negation "si no
+hubieseis hecho esto" = "if you had not done this," not the adversative
+conjunction "sino").
+Suspected misprint, preserved as printed (rule 32): v.21 "en él que"
+(×2: "el día en él que vuestra mortalidad tiene que revestirse..." and
+"y en él que estos cuerpos..."). Grammar expects the unaccented
+relative "el que" ("the day in which..."/"and in which..."), not the
+accented personal pronoun "él" ("in him that"). Zoomed both instances
+independently at high magnification; the image clearly prints the
+acute accent both times. Flagged for Session E's mandatory 1886 check.
+Suspected misprint, preserved as printed (rule 32): Block 1 entry
+6p/4167 prints "II Nfie 2" -- the letters "e" and "i" are transposed
+("Nfie" for "Nefi"). Zoomed at high magnification; the image
+unambiguously reads "Nfie", not "Nefi" or a narrow/merged variant.
+Preserved as printed; flagged for Session E's mandatory 1886/1879
+check. Note for Session D: `generate_block2.py`'s book/chapter regex
+will very likely fail to resolve this cross-reference (it expects a
+recognized book name), so this entry should be expected to come back
+unresolved and need manual resolution to the correct sequential
+number for II Nefi 2's letter d, the same way page 566's 6f/4157 was
+hand-fixed -- but unlike that case, the "Nfie" spelling itself stays
+as printed in `librodm_foot.txt` (a genuine content misprint under
+rule 32, not a reference-formatting normalization under rules 16-25).
+Session D: `generate_block2.py 567` resolved 3 of 4 Block 1 entries
+automatically; 6p/4167 ("Véase d, II Nfie 2.") stayed unresolved as
+predicted, since the resolver's book-name matching can't recognize
+the misspelled "Nfie". Fixed manually: `librodm_foot.txt`'s own
+"LIBRO SEGUNDO DE NEFI" section (II Nefi) has entry "2d, 263:
+II Nefi 9:4,6-19,22; ..." -- chapter 2, letter d -- so
+`librodm.txt`'s "4167:" line was hand-edited from "Véase d, II Nfie 2."
+to "Véase 263." No other unresolved targets.
+Chapter boundary mid-page (Mormón 6 -> Mormón 7): no blank line in
+Block 1 per rule 20; footnote letters reset to 'a' for chapter 7.
+Initial low-zoom read of the chapter 7 letter mistook the swash "a"
+for "q"; a dedicated high-zoom crop confirmed it is "a", consistent
+with rule 13's restart-at-chapter-start rule and with the body-text
+marker's own letter.
+No subtitle line present at the Chapter 7 opening (checked the image
+directly per rule 1's standing requirement at every new chapter --
+"CAPÍTULO 7." is followed immediately by verse 1, no descriptive line).
+Mandatory Section 8 check (i/l/1): not triggered -- this page's own
+footnote lettering is n, o, p, a; none is i, l, or 1.
+`check_line_wrap.py`'s advisory count came back 30 (txt) vs 37 (OCR),
+flagged >1 diff -- not a real reflow issue: this page has a chapter
+break (blank line before "CAPÍTULO 7."), and the script's
+`txt_body_lines()` stops at the FIRST blank line, so it only counted
+this page's Mormón 6 remainder (30 lines, which the per-line image
+read confirms is correct) and never saw the 8-line Mormón 7 v.1-3
+block at all. Tesseract's whole-page OCR count of 37 is consistent
+with 30+8=38 (off by one, ordinary OCR line-merge noise). Every line
+on this page was read directly from the top/mid/bot image crops per
+rules 5/6, not reflowed.
+Google cross-check (check_google_crosscheck.py): 1 candidate beyond
+the auto-dismissed footnote-marker/trailing-content noise -- v.22
+"Él que obra" transcribed with an accent, Google's OCR read "El"
+(no accent). Zoomed directly on this exact spot: the image
+unambiguously prints the acute accent on the capital É. Not an
+unusual accent per rule 36 (ordinary acute accent, this document's
+standard convention) -- confirmed as OCR noise on a capital
+accented letter, not a transcription error.
+Session B: independently re-verified all 4 Block 1 entries and all 4
+[N] body markers against a fresh process_page.py crop (page label
+567b, not reused from Session A) -- exact match throughout, including
+marker placement, footnote text, and the "II Nfie 2" misprint. No
+i/l/1 letters present in this page's own lettering (n, o, p, a), so
+the mandatory Section 8 1879 cross-check is not triggered. No
+additional corrections needed.
+Session E: fresh pptext/WSL regeneration (`report_wsl_20260802d.html`).
+Spellcheck Suspect Words: zero new hits from this page (all existing
+flagged words are earlier-line, pre-existing). Short/long lines,
+hyphenation, spaced punctuation, footnote-anchor, scanno, curly-quote,
+and special-situations sections: this page's line-number citations
+(body 25283-25322, Block 2 29790-29792) all fall in the already
+established "short lines check" category (short Block 2 entries and
+verse-end lines), not a new pattern -- no other section cited any line
+in this page's range. Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either; footnote-number sweep confirms max=4168, zero
+duplicates, only the pre-existing footnote-812 gap remains.
+Mandatory Corrections-log sweep (this page's own log, checked against
+1886/1879 per the standing Session E requirement):
+- v.21 "en él que" (×2): 1886 (pages_1886/page_0581.png, book page
+  564/file 581) prints the unaccented relative "el que" both times,
+  grammatically the only reading that fits ("the day in which"/"and
+  in which"); the modern Spanish edition's independent translation of
+  the same verse ("el día en que") also never uses the accented
+  pronoun in this construction. Added to `errors in 1920.txt` as
+  Mormón 6:21 (1920-only error, not shared with 1886). Not added to
+  `permitted words.txt`: "el"/"él" are far too common to be flagged
+  by aspell regardless of accent placement -- this is a grammar/
+  accent-placement question, not a spelling-suspect one.
+- Block 1 6p/4167 "II Nfie 2": BOM 1879 Pratt (pages_1879/page_0569.png,
+  same footnote numbering as this page) prints the equivalent entry
+  with the correct book name, "p, see d, II. Nep. 2." -- independently
+  confirms the intended target is II Nefi (and confirms the Session D
+  manual resolution to sequential number 263 was correct). Added to
+  `errors in 1920.txt` as a Footnote entry (Mormón 6p, 4167), matching
+  the existing "Footnote Mormón 2e, 4084" precedent's format. Not
+  added to `permitted words.txt`: confirmed "Nfie" (capital, exact
+  form) does not appear anywhere in the fresh pptext report at all --
+  same gap pattern as the "ricibirles"/"Poi"/"dsesaría" precedent, so
+  no suppression-list entry would do anything.
+Narrow-space-vs-merge flags to batch for the editor's own-schedule
+review (per `feedback_narrow_space_vs_merge` -- transcription already
+committed to two words per grammar, this is a pointer, not a pending
+decision): v.15(cont.) "álos" -> "á los" (Mormón 6, "se pasaron á los
+Lamanitas"); v.18 "sino" -> "si no" (Mormón 6, "que si no hubieseis
+hecho esto").

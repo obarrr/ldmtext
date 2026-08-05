@@ -1,0 +1,178 @@
+Página 569
+2. Y ahora, sucedió, después de la [4184]grande y terrible batalla
+de [4185]Cumórah, he aquí, que los Nefitas que [4186]escaparon hacia el
+país del Sud, fueron perseguidos por los Lamanitas, hasta que
+fueron todos destruidos;
+3. Y mi padre murió también á manos de ellos, y yo quedé
+solo para escribir el triste relato de la destrucción de mi pueblo.
+Porque, he aquí, que han desaparecido, y yo tengo que cumplir
+el mandamiento de mi padre. Y no sé, si me matarán ó no.
+4. Por lo tanto, después que haya escrito estos anales, los
+[4187]ocultaré en la tierra, y nada importa después lo que suceda de mí.
+5. He aquí, que mi padre ha [4188]hecho estos anales, y ha escrito
+el objeto de ellos. Y, he aquí, yo también lo escribiría, si tuviera
+espacio sobre las [4189]planchas; pero no lo tengo, ni tengo metal
+tampoco, porque me hallo solo; mi padre ha [4190]perecido en la
+batalla, y todos mis parientes; encontrándome así sin amigos,
+y sin saber donde ir; y [4191]cuanto tiempo el Señor me permitirá
+vivir, no lo sé.
+6. He aquí, que se han pasado cuatrocientos años desde la
+venida de nuestro Señor y Salvador.
+7. Y, he aquí, que los Lamanitas han perseguido á mi pueblo,
+los, Nefitas, de ciudad en ciudad, de lugar en lugar, hasta que
+[4192]no quedó ninguno; y grande fué su caída; sí, grande y
+maravillosa fué la destrucción de mi pueblo, los Nefitas.
+8. Y, he aquí, que fué la mano del Señor la que lo hizo. Porque
+he aquí, también los Lamanitas están ahora en guerras unos
+contra otros; no presentando el país en toda su extensión más
+que una escena continua de muertes y derrame de sangre; y el
+[4193]fin de la guerra nadie lo sabe.
+9. Y ahora, he aquí, no digo más de ellos, porque ya no hay
+nadie más que Lamanitas y [4194]ladrones sobre la superficie del país;
+10. Y ahora, no queda nadie que conozca al verdadero Dios,
+más que los [4195]discípulos de Jesús, los que permanecieron en el
+país hasta que aumentaron tanto las iniquidades del pueblo
+que el Señor no les consintió que [4196]permanecieran más entre
+ellos; sin que nadie sepa si están ó no todavía sobre la superficie
+del país.
+11. Empero, he aquí, que mi [4197]padre y yo les hemos visto, y
+ellos nos han ministrado.
+12. Y aquéllos que reciban [4198]estos anales, y no los condenen
+por motivo de las imperfecciones que contienen, á éstos les será
+
+8b, 4184: Mormón 6:8-15.
+8c, 4185: Véase a, Mormón 6.
+8d, 4186: Mormón 6:15.
+8e, 4187: Véase g, Mormón 5.
+8f, 4188: Véase a, Mormón 1.
+8g, 4189: Las pocas planchas de Mormón, hechas de las planchas de
+Nefi; Mormón 6:6.
+8h, 4190: Versículo 3.
+8i, 4191: Moroni 1; 10:1-2.
+8j, 4192: Véase d, I Nefi 12.
+8k, 4193: I Nefi 12:20-23.
+8l, 4194: Véase 2c, IV Nefi 1.
+8m, 4195: Los tres que habían de quedar; Véase d, III Nefi 28.
+8n, 4196: Mormón 1:16.
+8o, 4197: III Nefi 28:26.
+8p, 4198: III Nefi 5:8-11,13-18; Véase a, Mormón 1.
+
+Corrections:
+Rule-7 hyphen rejoin: v.7 "mara-" / "villosa" (split across the image's
+two lines) -> rejoined to "maravillosa"; kept on the second line since
+appending it to the first line would have pushed that line to 73+
+chars (moved per rule 8 balancing).
+Rule-31 space-before-punctuation instances found in the original print
+and normalized: v.2 "destruidos ;" -> "destruidos;"; v.5 "planchas ;
+pero" -> "planchas; pero", "solo ; mi padre" -> "solo; mi padre",
+"parientes ; encontrándome" -> "parientes; encontrándome", "ir ; y
+cuanto" -> "ir; y cuanto"; v.7 "ninguno ; y" -> "ninguno; y", "caída ;
+sí" -> "caída; sí"; v.8 "otros ; no" -> "otros; no", "sangre ; y" ->
+"sangre; y"; v.9 "país ;" -> "país;"; v.10 "ellos ; sin" ->
+"ellos; sin".
+Justification-widened double spaces normalized to a single space per
+rule 6: v.3 "padre.   Y no sé" -> "padre. Y no sé"; v.5 "ellos.   Y,
+he aquí" -> "ellos. Y, he aquí"; v.8 "hizo.   Porque" -> "hizo.
+Porque".
+Narrow-space-vs-merge (grammar requires two words; per standing rule,
+not raised as a standalone question -- surfaced here for Session E):
+v.7 "quelos" -> "que los" (que + los, no single-word reading possible);
+v.8 "quefué" -> "que fué" and "manodel" -> "mano del" (same reasoning).
+Suspected misprint, preserved as printed (rule 32): v.7 "mi pueblo,
+los, Nefitas, de ciudad" -- the image unambiguously shows a comma
+between "los" and "Nefitas" (in addition to the commas surrounding the
+whole "los Nefitas" appositive, which are grammatically expected).
+That extra internal comma is not something a two-word appositive like
+"los Nefitas" would normally carry. Preserved exactly as printed;
+flagged for Session E's mandatory 1886 check.
+Footnote g's printed citation shows "Mormón 6; 6." (a semicolon, not a
+colon, between the chapter and verse numbers) -- confirmed at high
+zoom, not a narrow-colon misread. Block 1/Block 2 citations are
+always normalized to our own colon-based chapter:verse format
+regardless of the original's punctuation there (rule 22), so this is
+transcribed as "Mormón 6:6" with no errors-log entry; also confirmed
+via BOM 1879 Pratt, which prints the equivalent citation as "Mor.
+6:6." (pages_1879/page_0571.png, book page 563).
+Footnote i: original prints "10:1, 2" (two consecutive verse numbers);
+formatted per rule 23 as the range "10:1-2".
+Mandatory Section 8 check (i/l/1): triggered. This page's own
+footnote lettering includes i (v.5, "cuanto") and l (v.9,
+"ladrones"). Same-page comparison (Section 8 step 1): the v.5
+superscript shows a short stroke with a clearly separated dot above
+(matching the body-text lowercase "i" shape, e.g. in "ir" on the same
+line), while the v.9 superscript shows a single continuous unbroken
+curved stroke with no separated dot (matching "l"'s shape) -- the two
+are visibly distinct glyphs on this page. Cross-checked against BOM
+1879 Pratt (pages_1879/page_0571.png, book page 563 -- matches this
+page's content and footnote sequence, chapter_map.csv's listed 1879
+file 571 for Mormón 8 lands on this page directly this time, unlike
+page 568's one-page-late offset): 1879 confirms both letters by
+content-fit/position (i = "how long the Lord will suffer that I may
+live" matching "cuanto tiempo el Señor me permitirá vivir"; l = "the
+Lamanites and robbers" matching "Lamanitas y ladrones", and 1879's own
+glyph at that spot is the same continuous-curve shape). Target letters
+for the page's cross-references were also checked, though neither
+happens to be i/l/1 itself: 8e's target "g" (Véase g, Mormón 5) and
+8l's target "2c" (Véase 2c, IV Nefi 1, a two-letter code per rule 16 --
+the small superscript glyph there is unambiguously a numeral "2"
+followed by a cursive "c", not a single letter) both confirmed against
+1879's "e,
+see g, Mor. 5." and "l, see 2c, IV. Nep. 1.".
+No subtitle line present (chapter 8 opened on page 568 with no
+subtitle; this page is a plain continuation, no new chapter heading).
+Session D: `generate_block2.py 569` resolved all 15 Block 1 entries
+automatically; no unresolved cross-references. Content-fit sanity
+check (Section 8 step 8) on the two mandatory i/l/1-adjacent
+resolutions: 8e (target g, Mormón 5) resolved to footnote 4137, whose
+own citation is "Mormón 8:4,13-14; Moroni 10:2." -- directly citing
+this page's own v.4 ("ocultaré," hiding the records), strong
+confirmation. 8l (target 2c, IV Nefi 1) resolved to footnote 4057,
+whose Block 1 source text (librodm_foot.txt line "1-2c, 4057: Véase i,
+II Nefi 10; Helamán 2:3-14.") includes a direct "Helamán 2:3-14"
+citation -- the Gadianton-robbers chapter -- matching "ladrones"
+exactly. However, footnote 4057's own Block 2 entry in librodm.txt
+reads only "4057: Véase 268." -- the direct "Helamán 2:3-14" half of
+its Block 1 source was dropped during whatever earlier session first
+resolved it (pre-existing, not from this page's work; footnote 4057
+belongs to IV Nefi 1, transcribed well before page 569). Flagged here
+for the editor since this session's content-fit check surfaced it, but
+left unfixed as out of scope for page 569 -- fixing it would mean
+editing `generate_block2.py`'s handling of a multi-reference Block 1
+line at a footnote this page didn't itself produce.
+Session E: fresh pptext/WSL regeneration (`report_wsl_20260802f.html`).
+Spellcheck Suspect Words: zero new hits from this page -- the section's
+only 7 words are all earlier-line, pre-existing (carbunclo, creereis,
+limpiáos, peofeta, Pobrecita, Profecia, qulén, rependeré), the same set
+as page 568's run. Targeted phrase search confirmed none of this
+page's distinctive text (e.g. "grande y terrible batalla", "mano del
+Señor", "maravillosa fué la destrucción", "ladrones sobre la
+superficie", "aquéllos que reciban") triggers any pptext section
+beyond the short-lines check, which is this project's known structural
+false-positive category (short line before the next verse number) and
+was spot-checked, not a real defect. Footnote check: no duplicate or
+missing numbers reported anywhere near this page's range. Hyphenation/
+spaced-pair check: no new hits from this page (no compound words
+introduced). Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either; footnote-number sweep confirms max=4198, zero
+duplicates, only the pre-existing footnote-812 gap remains.
+Mandatory Corrections-log sweep (this page's own log, checked against
+1886 per the standing Session E requirement):
+- v.7 "los, Nefitas," (extra comma): 1886 (pages_1886/page_0583.png,
+  book page 565/file 583) prints "pueblo, los Nefitas, de ciudad en
+  ciudad" with no comma between "los" and "Nefitas". Confirmed a
+  1920-only error; added to `errors in 1920.txt` as Mormón 8:7.
+- v.7/v.8 narrow-space-vs-merge defaults ("que los", "que fué", "mano
+  del"): 1886 (pages_1886/page_0583.png, same page) prints all three
+  as ordinary two-word spacing at the corresponding spots, confirming
+  the two-word default applied in Session A was correct.
+- Footnote g's "Mormón 6; 6." semicolon and footnote i's "10:1, 2."
+  consecutive-verse formatting were already resolved in Session A/D
+  via 1879 comparison; no further action.
+- No other substantive 1886 discrepancies found across this page's
+  verses 2-12.
+Narrow-space-vs-merge instances for the editor's own convenience (per
+the standing batching convention, already independently confirmed via
+1886 above): v.7 "que los" (Lamanitas), v.8 "que fué" (la mano) and
+"mano del" (Señor).

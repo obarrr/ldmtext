@@ -1,0 +1,213 @@
+Página 572
+32. Sí, porque llegará el día en que se habrán establecidas
+iglesias que dirán: Venid á mí, que por vuestro dinero os perdonaré
+vuestros pecados.
+33. Ay de vosotros, pueblo perverso, obstinado y malvado,
+¿[4224]porqué habéis construido iglesias para vosotros mismos para
+obtener ganacias? ¿Porqué habéis [4225]desfigurado la santa palabra
+de Dios, para traer la condenación sobre vuestras almas?
+He aquí, examinad las [4226]revelaciones de Dios. Porque, he aquí
+que el tiempo se acerca en aquel día, cuando deben ser cumplidas
+todas estas cosas.
+34. Porque, he aquí, que el Señor me ha mostrado cosas
+[4227]grandes y maravillosas, sobre lo que ha de venir á verificarse
+pronto en aquel día en que aparezcan estas cosas entre vosotros.
+35. He aquí, que os hablo, como si os hallaseis presentes, y
+sin embargo no lo estáis. Pero, he aquí, que Jesu Cristo me os
+ha mostrado, y yo conozco vuestras acciones.
+36. Y sé que camináis en el [4228]orgullo de vuestros corazones,
+sin que haya entre vosotros más que un [4229]pequeño número, que
+no se levanten en el orgullo de sus corazones, vistiéndose con
+trajes suntuosos, entregándose á la envidia, á la malicia, á las
+disputas, á las persecuciones, y á toda clase de iniquidades. Y
+vuestras iglesias, sí, cada una de ellas, han venido á contaminarse,
+á causa del orgullo de vuestros corazones.
+37. Porque, he aquí, que amáis el dinero, y vuestros bienes,
+y vuestros costosos trajes, y el adorno de vuestras iglesias, más
+de lo que [4230]amáis á los pobres y á los necesitados, á los enfermos
+y á los afligidos.
+38. Oh, vosotros corrompidos, hipócritas, vosotros masetros
+que os vendéis á vosotros mismos por lo que se gangrena. ¿Porqué
+habéis corrompido la Santa Iglesia de Dios? ¿Porqué tenéis
+vergüenza de tomar el [4231]nombre de Cristo? ¿Porqué no
+consideráis que la eterna felicidad es de un precio mucho mayor
+que aquella miseria que nunca muere, á causa de las alabanzas
+del mundo?
+39. ¿Porqué os adornáis con lo que no tiene vida, mientras
+que [4232]permitís al mismo tiempo que los desnudos, necesitados,
+enfermos y afligidos pasen por vuestro lado, sin que les hagáis
+caso?
+40. Sí, ¿porqué preparáis vuestras [4233]secretas abominaciones
+para obtener ganancias, y dais lugar á que las viudas y los
+huérfanos se lamenten ante el Señor, y que la [4234]sangre de sus
+¿padres y de sus maridos clame desde la tierra al Señor, para que
+mande la venganza sobre vuestras cabezas?
+
+8-2p, 4224: Véase 2k.
+8-2q, 4225: I Nefi 13:20-29,32,34,35,40,41.
+8-2r, 4226: I Nefi 14:18-7;27; Éther 4:16.
+8-2s, 4227: Véase i, II Nefi 25.
+8-2t, 4228: II Nefi 28; III Nefi 16:10.
+8-2u, 4229: II Nefi 28:14.
+8-2v, 4230: Véase l, Mosíah 4.
+8-2w, 4231: Véase e, Mosíah 5.
+8-2x, 4232: Véase l, Mosíah 4.
+8-2y, 4233: Véase i, II Nefi 10.
+8-2z, 4234: Véase f, II Nefi 28.
+
+Corrections:
+Mandatory Section 8 check (i/l/1): this page's cross-reference target
+letters include i (8-2s: Véase i, II Nefi 25; 8-2y: Véase i, II Nefi 10)
+and l (8-2v: Véase l, Mosíah 4; 8-2x: Véase l, Mosíah 4), so all four
+fall under the mandatory check (none of this page's own footnote
+letters, p-z, are themselves i/l/1). Verified via BOM 1879 Pratt
+(pages_1879/page_0574.png, book page 566 -- confirmed matching this
+page's content via chapter_map.csv's Mormon,8 row, page_1879=571,
+landing three pages later, consistent with page 571's own 1879 page
+573/book 565 precedent). 1879's own marker sequence (2p through 3b)
+lands on the exact same annotated words in the exact same verse-by-verse
+order as this page's 1920 sequence (a letter-for-letter 1:1 match,
+confirmed by comparing both editions' placement against verses 32-40),
+so 1879's target letters were used directly, matching page 571's same
+precedent: 2s, see i, II. Nep. 25; 2v, see l, Mos. 4; 2x, see l, Mos. 4;
+2y, see i, II. Nep. 10 -- all four confirm the 1920 reading with no
+discrepancy. Content-fit sanity check: 2v/2x (Mosíah 4, caring for the
+poor) both fit v.37 "amáis á los pobres" and v.39 "permitís... que los
+desnudos, necesitados... pasen"; 2s (II Nefi 25) and 2y (II Nefi 10)
+both plausible for their annotated words ("grandes y maravillosas" /
+"secretas abominaciones" is 2y's neighbor 2z, not 2y itself -- 2y
+itself annotates v.40's "secretas abominaciones" opening word, fitting
+II Nefi 10's Christ/latter-day-restoration content loosely as a
+cross-reference chain rather than a direct thematic match, same as
+several of page 571's "Véase" chain entries).
+Additional target letter found via the same 1879 comparison, not itself
+i/l/1 but resolved by the identical procedure since it was visually
+ambiguous in the 1920 swash-adjacent print: 8-2z's target glyph was
+provisionally read as "l" at first pass (easy confusion with the two
+neighboring "l" targets at 2v/2x) but 1879 reads "2 z, see f, II. Nep.
+28." -- confirmed "f" is correct; II Nefi 28 fits v.40's "sangre de sus
+padres" (blood/vengeance theme running through that whole chapter,
+already cited directly, unresolved-by-letter, at 2t/2u earlier on this
+same page). Not logged in `errors in 1920.txt` since this was this
+session's own read correction (via 1879), not a genuine 1920 print
+defect -- same treatment as page 571's 8-2a/8-2c "b"->"s" correction.
+Suspected genuine 1920 misprint, preserved as printed per rule 32: 8-2r's
+citation prints "I Nefi 14:18-7;27" where 1879 Pratt (same page/position)
+reads "I. Nep. 14:18-27" -- a clean, unambiguous hyphenated range with no
+stray digit or semicolon. Zoomed the 1920 glyphs repeatedly at up to 20x;
+the "7" between the hyphen and the semicolon is unambiguously a "7" (same
+glyph shape as the "7" in "27" immediately following, confirmed by direct
+comparison), not a misread "9" or "2" that could rescue a sensible range.
+No plausible non-error reading of "18-7;27" exists (verses running
+backward from 18 to 7 makes no sense for a citation, and 1879's content
+at the same position is straightforwardly "18-27"). Transcribed exactly
+as printed per rule 32; logged in `errors in 1920.txt` (see below) since
+this is a genuine citation-content error, not merely a punctuation/
+formatting-convention difference from 1879 (unlike the semicolon this
+session added between "27" and "Éther" per rule 21's standing
+multiple-references convention, which is a normalization applied
+uniformly to all Block 1 entries regardless of source spacing, not a
+content preservation question).
+Suspected genuine 1920 misprint, preserved as printed per rule 32: v.40's
+"la sangre de sus" is followed by a genuine printed inverted question
+mark "¿" directly before "padres", mid-sentence, where the sentence
+already opened its question with "¿porqué" at the start of v.40 and does
+not need or make sense with a second one here. Zoomed at 8x; confirmed a
+real printed "¿" glyph (not a stray speck -- full inverted-question-mark
+shape, matching the same glyph used correctly elsewhere on this page),
+positioned at the very start of its printed line. Checked against 1886
+(pages_1886/page_0587.png, book page 569) for corroboration since 1879
+is English and would not preserve Spanish punctuation marks: 1886 prints
+this same spot as plain "de sus padres" with no inverted question mark at
+all, confirming the 1920 mark is extraneous, not a legitimate stylistic
+choice. Transcribed exactly as printed (the "¿" kept, attached to
+"padres" with no space, matching how it's set in the image); logged in
+`errors in 1920.txt`.
+Repeated masetros/maestros misprint (second instance, same pattern as
+page 571 v.28): v.38 "vosotros masetros" -- checked against 1886 (same
+page as the "¿padres" check above, pages_1886/page_0587.png, book page
+569), which prints "vosotros maestros" at the same spot. Confirmed at
+10x zoom that 1920 genuinely prints "masetros" (a/e transposed) here
+too, not a transcription misread. Preserved as printed; logged in
+`errors in 1920.txt`. "masetros" is already in `permitted words.txt`
+from page 571, so no new addition needed there.
+Google cross-check (`check_google_crosscheck.py 572`): 1 candidate
+surfaced after the automatic dismissal filters -- a 1-character deletion
+near v.33's "obtener ganancias?", google reading "ganacias" (one "n")
+against this session's initial "ganancias" (two "n"s, standard
+spelling). Zoomed the 1920 image directly at 12x rather than assuming
+the standard OCR-drops-a-thin-stroke explanation: the print genuinely
+reads "ganacias" -- only one "n" -- confirming Google's OCR was right
+and the initial transcription (typed from the standard modern spelling
+by reflex, not actually re-checked letter-by-letter against the image
+at that moment) was wrong. Checked against 1886 (pages_1886/page_0586.png,
+book page 568/file 586) for corroboration: 1886 prints "ganancias" with
+the correct standard spelling at the same spot, confirming this is a
+1920-only misprint (a dropped "n"), not a legitimate archaic variant.
+Corrected to "ganacias" (as printed) before this file was finalized;
+logged in `errors in 1920.txt`.
+Rule-7 hyphen rejoins: v.33 "pala-" / "bra" (split across the image's
+two lines) -> rejoined to "palabra", kept on the first line (68 chars
+after rejoin, under 72). v.2 (page-internal, "per-" / "donaré") ->
+rejoined to "perdonaré", kept on the first line (67 chars). v.36
+"contami-" / "narse" -> rejoined to "contaminarse", kept on the first
+line (67 chars). None triggered rule 8 rebalancing.
+No new chapter or subtitle on this page -- continues directly from
+page 571's Mormón chapter 8, verse 32 (fresh verse, not mid-word) through
+verse 40's closing clause. Footnote lettering continues the two-letter
+"2p"-"2z" codes (page 571 reached "2o"); still chapter 8 throughout, so
+no book-name header or letter-reset applies in Block 1. Chapter 8's
+lettering reaches "z" on this page; the next page is expected to roll
+over to "3a" per the three-letter/second-rollover convention already
+seen in 1879's own "3 a, see k, I. Nep. 14" entry immediately following
+this page's last entry.
+Session B: independent re-read of fn_zoom against the finished
+page_572.txt -- all 11 body-text [N] markers (2p-2z) confirmed in the
+correct word position, and all 11 Block 1 entries confirmed against the
+fn_zoom image, including the preserved 8-2r misprint and the mandatory
+i/l 1879 cross-check (2s, 2v, 2x, 2y and their targets), all already
+resolved in Session A. Also independently re-verified v.40's own
+separate "ganancias" (correctly spelled, both n's present in the image)
+is NOT the same defect as v.33's "ganacias" -- the two instances differ,
+confirmed by a fresh zoom of the v.40 spot specifically so the Session A
+fix wasn't mistakenly over-applied to the wrong occurrence. No
+discrepancies found; no changes made.
+Session E: fresh WSL/pptext regeneration (`report_wsl_20260802i.html`).
+Spellcheck Suspect Words: zero new hits from this page -- both of this
+page's own preserved-as-printed errors ("ganacias", already added to
+`permitted words.txt` this session; "masetros", already suppressed since
+page 571) are correctly suppressed, and the fresh spellcheck section's 8
+total flagged words are all pre-existing, from earlier pages. Mandatory
+Corrections-log sweep: every suspected-error note this page's own
+Sessions A/B left behind (8-2r's "18-7;27" citation, v.40's extraneous
+"¿padres", v.38's repeated "masetros", v.33's "ganacias") was already
+checked against 1886/1879 and promoted to `errors in 1920.txt` at
+transcription time, per rule 32 -- none left unresolved. Footnote-number
+sweep: max=4234 (this page's own 8-2z), this page's own range 4224-4234
+confirmed exactly one body anchor and one Block 2 note each, no
+duplicates or gaps introduced by this page; the same long-documented
+pre-existing gaps as every prior session remain unchanged (anchors 365,
+530, 805, 909, 1724, 1725 with no note; note 812 with no anchor) --
+unrelated to this page. Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either (`“”‘’` all count 0). Dash check: this
+page's "8-2r, 4226" misprint ("18-7;27") lives only in
+`librodm_foot.txt`, which pptext's dash check does not scan (Block 1 is
+never scanned by pptext, per rule 18's note -- only Block 2, already
+appended, contains the equivalent "Véase 4219"-style resolved entries
+without the raw citation digits), so this defect is invisible to pptext
+by construction and was already fully handled via the direct 1879
+comparison in Session A/`errors in 1920.txt`; zero new hyphenated
+compounds introduced by this page's own body text (checked "ganacias",
+"masetros", "¿padres", "18-7" directly against the fresh report -- zero
+hits for any, confirming no check flagged them, consistent with them
+already being resolved outside pptext's scope). Scanno check,
+curly-quote check, special-situations checks: this page's own
+distinctive text (searched for "desfigurado", "revelaciones",
+"contaminarse", "secretas abominaciones", "masetros", "ganacias", etc.)
+produced no hits outside the established benign short-lines-check
+category (verse/paragraph-boundary short lines and short Block 2
+entries, the same structural false positive documented on every prior
+page). No narrow-space-vs-merge flags collected on this page (none
+arose during Sessions A/B).

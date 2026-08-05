@@ -1,0 +1,255 @@
+Página 570
+dado á conocer cosas más [4199]grandes que estas. He aquí, yo soy
+Moroni, y si fuere posible, os daría á conocer todas las cosas.
+13. Y, he aquí, con esto ceso de hablar de este pueblo. Yo
+soy el hijo de Mormón, y mi padre era [4200]descendiente de Nefi;
+14. Y yo soy el mismo que [4201]escondo estos anales para el Señor;
+las planchas no son de ningún valor á causa de los mandamientos
+del Señor. Porque Él dice en verdad, que nadie las obtendrá
+para ganancia; pero lo contenido en ellas es de gran valor; y el
+Señor bendecirá á [4202]quienquiera, por quién vengan á luz.
+15. Porque nadie puede tener poder para darlas á luz, como
+no le sea dado de Dios; porque Dios quiere que esto se realize
+con ojo sincero para su gloria, ó para el bienestar del antiguo
+pueblo de la alianza del Señor, que está por tanto tiempo disperso.
+16. Y bendito será [4203]aquél que dé estas cosas á luz; porque
+las sacará de la obscuridad á la luz, según la palabra de Dios;
+sí, porque [4204]saldrán de la tierra, y brillarán fuera de la
+obscuridad, viniendo al conocimiento del pueblo; y será hecho por el
+poder de Dios;
+17. Y si hubiese faltas en ellas, estas son las [4205]faltas del hombre.
+Empero, he aquí, no conocemos ninguna falta. No obstante,
+Dios sabe todas las cosas; por lo tanto quienquiera que las
+[4206]condene, que tenga cuidado; no sea que se ponga en peligro del
+fuego del infierno.
+18. Y quienquiera que diga: Enséñamelas, ó serás herido;
+que tenga cuidado, no sea que mande él hacer lo que está [4207]prohibido
+por el Señor.
+19. Porque, he aquí, que él que violentamente juzgare, con
+violencia será juzgado, pues que según sean sus obras, será su
+paga; por lo tanto, quienquiera que hiere, será herido otra vez
+del Señor.
+20. He aquí, lo que dicen las escrituras: El hombre no herirá,
+ni juzgará; porque el juicio es mío, dice el Señor; y la venganza
+es mía también, dice el Señor; y yo repagaré;
+21. Y quienquiera que respire ira, y contienda contra la obra
+del Señor, y contra el pueblo de la alianza del Señor, que es la
+casa de Israel, y que diga: Nosotros destruirémos la obra del
+Señor, y el Señor no se acordará de la alianza que ha hecho con
+la casa de Israel, éste está en peligro de ser [4208]cortado y arrojado
+al fuego;
+22. Porque los eternos designios del Señor han de seguir
+adelante, hasta que sean cumplidas todas sus promesas.
+23. Escudriñad las profecías de Isaías. He aquí, que no la
+
+8q, 4199: III Nefi 26:6-11; Ether 4:8,13.
+8r, 4200: III Nefi 5:20.
+8s, 4201: Véase s, I Nefi 13; Moroni 10:1-2.
+8t, 4202: Véase e, II Nefi 3.
+8u, 4203: Véase e, II Nefi 3.
+8v, 4204: Vease c, II Nefi 27.
+8w, 4205: Véase página titular; Mormón 9:31,33; Ether 12:22-28,35.
+8x, 4206: Véase página titular; Versículos 19,21; II Nefi 28:29-30;
+III Nefi 29; Éther 4:8-10.
+8y, 4207: Versículos 19-20.
+8z, 4208: Véase x.
+
+Corrections:
+Rule-31 space-before-punctuation instances found in the original print
+and normalized: v.13 "Nefi ;" -> "Nefi;"; v.14 "Señor ;" -> "Señor;";
+v.14/15 boundary "ganancia ; pero" -> "ganancia; pero", "valor ; y" ->
+"valor; y"; v.15 "Dios ; porque" -> "Dios; porque"; v.16 "luz ; porque"
+-> "luz; porque", "Dios ;" -> "Dios;"; v.16/17 "pueblo ; y" -> "pueblo;
+y", "Dios ;" (before v.17) -> "Dios;"; v.17 "cosas ; por" -> "cosas;
+por", "cuidado ; no" -> "cuidado; no"; v.18 "diga :" -> "diga:", "herido
+;" -> "herido;"; v.19 "paga ; por" -> "paga; por"; v.20 "escrituras :"
+-> "escrituras:", "juzgará ; porque" -> "juzgará; porque", "Señor ; y
+la" -> "Señor; y la", "Señor ; y yo" -> "Señor; y yo", "repagaré ;" ->
+"repagaré;"; v.21 "diga :" -> "diga:", "fuego ;" -> "fuego;".
+Justification-widened double spaces normalized to a single space per
+rule 6: v.13 "pueblo.  Yo" -> "pueblo. Yo"; v.17 "falta.  No obstante"
+-> "falta. No obstante"; v.18 "diga:  Enséñamelas" -> "diga:
+Enséñamelas" (after the rule-31 colon fix collapsed the original
+"diga :  Enséñamelas" spacing down to a single space); v.20
+"escrituras:  El hombre" -> "escrituras: El hombre" (same colon-fix
+pattern); v.21 "diga:  Nosotros" -> "diga: Nosotros" (same pattern);
+v.23 "Isaías.  He aquí" -> "Isaías. He aquí".
+Rule-8 cascading rebalance: v.16 "sí, porque [4204]saldrán de la
+tierra, y brillarán fuera de la obscuridad," originally ran to the end
+of the image line with "viniendo al conocimiento del pueblo ; y será
+hecho por el poder" following and "de Dios ;" alone on the next -- once
+the marker number and the rule-31 semicolon fixes were applied, the
+first line hit 74 chars, so "obscuridad," moved down (rule 8), which
+then pushed that second line to 74 chars in turn, so "poder" moved
+down again to start the third line ("poder de Dios;"). Applied as one
+cascading pass per rule 8's "repeat until under 73" instruction, not
+three independent decisions.
+Rule-7 hyphen rejoins: v.17 "con-" / "dene" (split across the image's
+two lines, marker [4206] on "con") -> rejoined to "[4206]condene,";
+kept on the first line at exactly 72 chars was not possible (rejoining
+in place would have hit 75), so per rule 8 the whole marked word moved
+to start of the second line instead. v.18 "'pro-" / "hibido" (marker
+[4207] on "pro") -> rejoined to "[4207]prohibido"; kept on the first
+line, landing at exactly 72 chars (the rule 9 limit, not exceeding it).
+Narrow-space-vs-merge, footnote citation only (not raised as a
+standalone question -- surfaced here for Session E): Block 1 entry 8x's
+"II Nefi 28:29,30 ; IIINefi 29" prints "III" and "Nefi" with no space
+at all between them ("IIINefi", confirmed at high zoom -- not a narrow
+gap, a true zero-width run-together), while every other "III Nefi"
+citation on this page and throughout the document uses a normal space.
+Per the standing default (grammar/document-wide convention requires
+two words), normalized to "III Nefi 29" with a single space; not
+logged in `errors in 1920.txt` since this is a spacing normalization
+in a footnote citation, not a wording error.
+Suspected extraneous printer's mark, excluded from the transcription
+(not logged in `errors in 1920.txt` -- treated like the "Digitized by
+Google" watermark per rule 33, not as page content): footnote entry
+8s's line ends "...I Nefi 13;" followed immediately by a bold,
+full-cap-height "8" glyph, right before the line wraps to "Moroni
+10:1, 2." on the next line. Zoomed repeatedly at up to 16x -- this is
+unambiguously a semicolon followed by a separate bold "8", not part of
+any digit sequence (the citation "13" is already complete before the
+semicolon) and not a superscript footnote letter (wrong size/weight,
+and entry 8s's own citation is already grammatically complete without
+it: "Véase s, I Nefi 13; Moroni 10:1-2."). The extraction of this
+page's own Google/embedded OCR text layer independently produced the
+same stray "8" in the same position ("Véases, I Nefi 13;8"),
+corroborating that something is really printed there rather than it
+being a misread on this session's part -- most likely a printer's
+signature/gathering mark bleeding into the footnote line at the
+column's right margin, unrelated to the citation content.
+Mandatory Section 8 check (i/l/1): this page's own chapter-8 footnote
+lettering (q through z) contains no i, l, or 1, so the mandatory case
+does not apply. Discretionary extension used anyway for two spots
+where the 1920 glyph was genuinely hard to read even at high zoom:
+entry 8v's target letter (looked like it could be "e" at first pass,
+matching the "e" used by entries 8t/8u right next to it) and the final
+entry's marker/target pair (both glyphs shaped alike, raising a
+same-page question of whether it was really referencing itself, "z,
+Véase z."). Both resolved via BOM 1879 Pratt (pages_1879/page_0572.png,
+book page 564 -- lands exactly on this page's content): 1879's
+parallel footnote block reads "...v, see c, II. Nep. 27. w, see
+Title-page. ... z, see x." -- confirming entry 8v's target is "c" (not
+"e"), and the final entry is "z, Véase x." (entry z cross-referencing
+entry x, not itself), matching this page's own strict alphabetical
+q-through-z sequence (10 letters, 10 body-text markers, z last).
+Vease/Véase accent inconsistency, preserved as printed (matches
+existing precedent already in `librodm_foot.txt`, where 47 unaccented
+"Vease" instances already stand alongside the accented form): this
+page prints "Véase" (accented) for entries 8s, 8t, 8u, 8w, 8x, 8z, but
+"Vease" (no accent) for entry 8v -- confirmed at high zoom, not a
+rendering artifact.
+Ether/Éther accent inconsistency, preserved as printed: entries 8q and
+8w print "Ether" with no accent, while entry 8x prints "Éther" with a
+clear accent -- both confirmed at high zoom. Not logged in `errors in
+1920.txt` per the standing "missing accent alone is not an error"
+guidance (1886 frequently omits accents too).
+v.15 "que esto se realize": printed with a "z" where modern/standard
+Spanish "realice" (subjunctive of realizar) would have a "c" --
+confirmed at normal reading resolution and independently corroborated
+by this page's own Google/embedded OCR text layer, which also reads
+"realize". Preserved as printed per rule 32; flagged for Session E's
+archaic-spelling review (not resolved here).
+No new chapter or subtitle on this page -- continues directly from
+page 569's Mormón chapter 8, verse 12 completing mid-sentence at the
+very first word, through verse 23's opening clause.
+Session B: independent re-read of fn_zoom and top/mid/bot against the
+finished page_570.txt -- all 10 body-text [N] markers (q-z) confirmed
+in the correct word position, and all 10 Block 1 entries confirmed
+against both the fn_zoom image and the 1879 parallel text pulled
+during Session A. No discrepancies found; no changes made.
+Session D: `generate_block2.py 570` left three of this page's own
+entries unresolved, for two distinct reasons -- both investigated and
+two fixed by hand directly in librodm.txt (not a script edit):
+- 4201 ("Véase s, I Nefi 13; Moroni 10:1-2.") and 4204 ("Vease c, II
+  Nefi 27.") both have real, already-transcribed targets (13s=102 in
+  PRIMER LIBRO DE NEFI; 27c=682 in LIBRO SEGUNDO DE NEFI, both
+  confirmed by direct line lookup in librodm_foot.txt) -- the script
+  simply failed to resolve them due to two separate parsing gaps: its
+  VEASE_CLAUSE regex only matches the literal accented "Véase", so
+  entry 4204's unaccented "Vease" (preserved as printed per rule
+  32/existing precedent) never even entered the resolver; and its
+  comma-splitting logic for the letters-vs-book/chapter boundary can't
+  handle a Véase-clause with a second citation tacked on after a
+  semicolon before the final period (4201's "Véase s, I Nefi 13;
+  Moroni 10:1-2." -- the trailing "; Moroni 10:1-2" breaks the
+  "candidate_tail" regex match). Corrected by hand: 4201 -> "Véase
+  102; Moroni 10:1-2."; 4204 -> "Vease 682." (kept unaccented per the
+  existing precedent that Block 2 preserves whatever Block 1 already
+  had, e.g. the 45 pre-existing unaccented "Vease" instances already in
+  librodm.txt's Notas section).
+- 4205/4206 ("Véase página titular; ...") remain unresolved and are
+  expected to stay that way -- "página titular" (title page) has no
+  chapter/verse structure and no lettered footnote section of its own
+  anywhere in the document (confirmed: this page is the first place
+  "página titular" appears as a cross-reference target at all), so
+  there is no sequential number for the script (or a human) to resolve
+  it to. Left in letter form, not a defect.
+Flagged for the editor, not fixed here (a script change, out of scope
+for a single page's session): the unaccented-"Vease" parsing gap is
+likely systemic -- `librodm.txt` already has 45 pre-existing "Vease"
+Block 2 entries carried over from Block 1, any of which would hit the
+same VEASE_CLAUSE regex miss if they contain a resolvable cross-
+reference target. Worth a dedicated sweep (extend the regex to match both
+"Véase" and "Vease", then re-run `--fix-unresolved`) at some point,
+similar in spirit to the pre-existing footnote-4057 gap flagged on
+page 569.
+Session E: fresh WSL/pptext regeneration (`report_wsl_20260802g.html`).
+Spellcheck Suspect Words: two NEW hits from this page --
+"destruirémos" (v.21) and "realize" (v.15) -- both researched per the
+mandatory three-step check and judged legitimate archaic/period forms,
+added to `permitted words.txt`, NOT added to `errors in 1920.txt`:
+- "realize" (que esto se realize, v.15): 1886
+  (pages_1886/page_0584.png, book page 566/file 584) prints the
+  identical "se realize" at the same spot, word-for-word -- strong
+  same-lineage period evidence, not a one-off 1920 misprint. WebSearch
+  of RAE DLE confirms modern standard Spanish only recognizes
+  "realizar"/"realice" (a "realice o realize" mix-up page even exists
+  warning against "realize" as an anglicism), but RAE's *current*
+  dictionary speaks to today's usage, not 1880s-1920s typesetting, and
+  the two-edition match is the more direct evidence for this specific
+  translation's own period spelling. The modern LDS Spanish edition
+  rewords this verse entirely (no comparable word survives there) and
+  the "realiz-" stem has zero hits in all three reference corpora
+  (Quijote, Reina-Valera NT 1909, full Reina-Valera Bible) -- both
+  checked but uninformative either way, since "realizar" in this sense
+  is a later verb not really attested in those older, 17th-century
+  register texts regardless of spelling.
+- "destruirémos" (diga: Nosotros destruirémos la obra, v.21): WebSearch
+  research confirms this accented form is the pre-1999 RAE orthography
+  reform convention -- before that reform, the "ui" sequence in verb
+  forms like this one was NOT treated as an automatic diphthong, so the
+  final-syllable stress took a written accent; the reform later
+  reclassified "ui" as a diphthong, which is specifically why modern
+  "destruiremos" takes no accent. Since 1920 predates 1999 by decades,
+  the accented form is simply period-correct orthography, not an
+  error. Corroborated by the modern LDS Spanish edition, which renders
+  the same clause as "Destruiremos la obra del Señor" (same word, same
+  stem, unaccented per the post-reform rule) -- a direct match once the
+  orthography-era difference is accounted for.
+Footnote check: whole-document mechanical sweep (`[N]` anchors in
+`librodm.txt`'s body vs. `N:` entries in its Notas section) confirms
+max=4208 (this page's own 8z), zero duplicate anchors, zero duplicate
+notes. The only body-anchor-without-a-note gap is the pre-existing,
+already-documented footnote-812 case (Jacob 2:15). Six PRE-EXISTING
+Notas-entries-without-a-body-anchor gaps were surfaced by this sweep,
+all far outside this page's own range and untouched by any of this
+page's edits: 365, 530, 805, 909, 1724, 1725. Flagged for the editor,
+not investigated or fixed here (out of scope for page 570's session,
+same treatment as the footnote-4057 citation gap flagged on page 569)
+-- worth a dedicated sweep of its own at some point.
+Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either. Hyphenation/spaced-pair check: no new hits from this
+page (this page introduced no hyphenated compounds beyond the two rule-7
+line-break rejoins, which aren't real hyphenated words). Dash check,
+scanno check, curly-quote check, special-situations checks (abbreviation
+&c, ampersand, punctuation error, paragraph-ends-in-comma, standalone 1,
+mixed letters/numbers): searched the fresh report for this page's own
+distinctive text (e.g. "grandes que estas", "escondo estos anales",
+"cortado y arrojado", "página titular", "III Nefi 29") -- the only hits
+were this page's own short Block 2 entries landing in the established,
+benign short-lines-check category (consecutive-line context pairs, a
+known structural false positive for this project's short footnote-entry
+format, same as page 569's run), not a real defect.

@@ -1,0 +1,132 @@
+Página 575
+19. Y si entonces se hicieron milagros, ¿Porqué ha dejado
+Dios de ser un Dios de milagros, siendo siempre un ser inmutable?
+He aquí, os digo, que Él no [4251]cambia jamás; porque si cambiara
+[4252]dejaría de ser Dios; y Él no cesa nunca de ser Dios, y es siempre
+un Dios de milagros.
+20. Y el motivo por el cual cesa de hacer milagros entre los
+hijos de los hombres, es [4253]á causa de que decaen en incredulidad,
+y se han salido de las rectas vías y no conocen al Dios, en Quién
+debían haber puesto su confianza.
+21. He aquí, os digo, que quienquiera que crea en Jesu Cristo,
+sin dudar en nada, [4254]cuanto pida al Padre en el nombre de Cristo,
+le será concedido; y esa promesa ha sido hecha para todos, hasta
+los extremos de la tierra.
+22. Porque, he aquí, que así ha dicho Jesu Cristo, el Hijo de
+Dios, á sus discípulos [4255]que debían quedarse, sí, y también a
+[4256]todos sus discípulos, á oídos de la multitud: Id á todo el mundo,
+y predicad el evangelio á toda criatura,
+23. Y él que crea y se [4257]bautize, se salvará; pero él que no
+crea, sea condenado.
+24. Y [4258]estas señales seguirán á los que crean; en mi nombre
+echarán fuera á los demonios, hablarán con nuevas lenguas;
+cogerán las serpientes; si bebiesen alguna cosa mortífera, no
+les dañará; y ellos pondrán las manos sobre los enfermos, y les
+sanarán.
+25. Y quienquiera que crea en mi nombre, sin dudar en nada,
+á él le confirmaré yo todas mis palabras, aún hasta los extremos
+de la tierra.
+26. Y ahora, he aquí, que, ¿quién es él que puede pararse en
+contra de las obras del Señor? ¿Quién es él que puede negar
+sus palabras? ¿Quién es él que puede levantarse contra las
+todopoderosas fuerzas del Señor? ¿Quién despreciará las obras
+del Señor? ¿Quién despreciará á los hijos de Cristo? Mirad
+vosotros todos los que despreciáis las obras del Señor, porque
+os [4259]asombraréis y pereceréis.
+27. Así pues, no despreciéis, y no os asombréis, sino oid las
+palabras del Señor, y pedid al Padre en el nombre de Jesús por
+cuantas cosas necesitéis. No dudéis, sino creed, y empezad
+como en los tiempos de la antigüedad, viniendo al Señor con todo
+vuestro corazón, trabajando vuestra propia salvación con temor
+y temblor ante Él.
+28. Sed sabios en los dias de vuestra probación; despojáos de
+toda impureza; no pidáis lo que habéis de consumir en vuestra
+codicia, sino que pedid con inquebrantable resolución, para que
+
+9o, 4251: Véase d.
+9p, 4252: Véase f, II Nefi 11.
+9q, 4253: Véase d, III Nefi 17; Véase c.
+9r, 4254: III Nefi 18:20.
+9s, 4255: Los tres; Véase d, III Nefi 28.
+9t, 4256: Los doce; Véase c, III Nefi 12.
+9u, 4257: Véase u, II Nefi 9.
+9v, 4258: Véase c; también Marcos 16:17-18.
+9w, 4259: Versículo 27.
+
+Corrections:
+Mid-chapter continuation of CAPÍTULO 9 (opened page 573); no new
+chapter/subtitle on this page. Letters run o-w (9 letters, 4251-4259),
+continuing chapter 9's own lettering from page 574's d-n. None of this
+page's own letters or cross-reference target letters are i/l/1, so the
+mandatory Section 8 check does not apply to any entry on this page.
+Two letters were hard to read at normal zoom due to print/font
+degradation (s, before v.22 "que debían"; the footnote-block "s" itself
+before "Los tres") -- resolved via the alphabetical-sequence plus
+content-fit technique (Section 8): the sequence position (immediately
+after r, before t) and the content fit (v.22's "que debían quedarse" /
+"también a todos sus discípulos" pairs naturally with footnote entries
+about "the three" [Nephite disciples who would tarry] and "the twelve"
+disciples, footnotes s and t respectively) both corroborate "s"; the
+body "t" before "todos" was clearer and matches. Entry o ("Véase d.",
+annotating v.19 "no cambia jamás") also content-fits page 574's entry
+9d (immutability of God), corroborating the reading.
+A small irregular ink blot (not a clean letter shape, unlike this
+page's genuine swash letters) appears directly before "empezad" in
+v.27; the footnote block ends cleanly at w (Versículo 27) with no
+w+1/x entry and no truncation (Digitized-by-Google watermark follows
+immediately), so this is a stray print mark, not a missing footnote
+letter -- transcribed with no marker, not logged as an error, per the
+page 574/prior-pages stray-mark precedent.
+"oid" (v.27, no accent) transcribed exactly as printed; archaic-spelling
+verification deferred to Session E per usual practice.
+No rule-7 hyphenated line-break splits appear on this page.
+No other suspected misprints found on this page.
+Session B: independent fresh re-read of fn_zoom against the finished
+page_575.txt -- all 9 Block 1 entries (9o-9w) confirmed verbatim
+against the image. All 9 [N] marker placements re-checked against
+their body-text positions (v.19 cambia, dejaría; v.20 á causa; v.21
+cuanto; v.22 que debían, todos; v.23 bautize; v.24 estas; v.26
+asombraréis) -- correct letter-to-word mapping, no swaps. Re-confirmed
+none of this page's own letters or cross-reference target letters are
+i/l/1 (o,p,q,r,s,t,u,v,w source; d,f,d,c,d,c,u,c targets), so the
+mandatory Section 8 1879 check does not apply here -- no changes made.
+Session D: generate_block2.py left 4253 and 4258 unresolved because
+both entries pack a second "Véase <letter>" clause (with no book, i.e.
+a same-chapter reference) after a semicolon inside the same
+period-terminated sentence -- the script's VEASE_CLAUSE regex matches
+greedily from the first "Véase" to the final period, so it swallows
+the whole two-clause span as one unparseable unit rather than
+resolving each clause separately. Resolved by hand instead of leaving
+in letter form, since both targets were already available: 4253's
+"Véase d, III Nefi 17" -> III Nefi's own 17d = 3744 (confirmed via
+librodm_foot.txt's III NEFI section); both entries' bare "Véase c"
+resolves to this chapter's own 9c = 4239 (confirmed via
+librodm_foot.txt's LIBRO DE MORMÓN section, page 573's entry). Final
+Block 2 text: "4253: Véase 3744; Véase 4239." and "4258: Véase 4239;
+también Marcos 16:17-18." -- manually edited into librodm.txt after
+generate_block2.py's automated run.
+Session E: whole-document check_spaced_punctuation.py/
+check_footnote_punctuation.py/check_verse_indent.py all clean on
+librodm.txt and librodm_foot.txt; zero curly quotes anywhere in either
+master file. Fresh WSL pptext regeneration
+(report_wsl_20260803b.html): whole-document footnote-number sweep
+(merged inline-anchor buckets) confirms 4237-4259 fully contiguous,
+zero duplicates, zero out-of-range values -- this page's own
+4251-4259 range clean. Three new Spellcheck Suspect Words from this
+page's vocabulary -- "bautize" (v.23), "dias" (v.28, this document's
+only unaccented instance vs. 154 accented "días" elsewhere), and
+"despojáos" (v.28) -- all three checked directly against BOM 1886
+(pages_1886/page_0589.png-page_0590.png, book pages 571-572, since
+chapter_map.csv's Mormon,9 row lists file_page 587 but chapter 9's
+own pagination runs a few pages further by the time it reaches v.19-28):
+1886 reads "se bautize" (v.23), "los dias" (v.28, unaccented, matching
+this page exactly), and "despojáos" (v.28, identical) at the same
+verses -- all three are genuine shared 1920/1886 period forms, not
+1920-only errors; added to `permitted words.txt`, no `errors in
+1920.txt` entries needed. Same 1886 pages also independently
+corroborate this page's own transcription overall (matching body text
+verse-for-verse through v.19-28) and confirm plain "y empezad" with no
+special mark at that position, reinforcing the stray-ink-blot call
+above. No narrow-space-vs-merge notes on this page to batch into this
+summary. No other pptext section (dash/hyphenation/special-situations)
+surfaced anything new from this page's line range.

@@ -1,0 +1,209 @@
+Página 571
+puedo escribir; sí, he aquí, os digo, que aquellos santos que han
+poseído este país, y han ido antes que yo, clamarán; sí, aun
+desde el [4209]polvo clamarán al Señor, y como el Señor vive, que
+Él recordará la alianza que ha hecho con ellos.
+24. Y Él conoce sus oraciones que eran en beneficio de sus
+hermanos. Y Él conoce su fe, porque en [4210]su nombre pudieron
+remover los montes; y en su nombre podían hacer temblar la
+tierra, y por el poder de su palabra hicieron que se derribaran
+las prisiones; sí, ni aun el horno ardiente pudo dañarles, ni los
+animales feroces, ni tampoco las serpientes venenosas, á causa del
+poder de su palabra.
+25. Y, he aquí, que [4211]sus oraciones han sido también en beneficio
+de [4212]aquél á quién el Señor había de conceder que diera á
+luz estas cosas.
+26. Y nadie tiene que decir que no vendrán, pues que seguramente
+vendrán, porque el Señor lo ha dicho; sí, [4213]saldrán de la
+tierra por mano de Él, sin que nadie pueda impedirlo; lo que
+sucederá en una época en que se dirá que han desaparecido los
+[4214]milagros, y aparecerá como si [4215]alguien hablase como desde
+entre los muertos.
+27. Y esto ocurrirá en una época en que la [4216]sangre de los
+santos clamará al Señor, á causa de las combinaciones [4217]secretas
+y de las obras de obscuridad;
+28. Sí, esto ocurrirá en un día en que será [4218]negado el poder
+de Dios, en él que se [4219]hayan corrompida las iglesias, y sus
+miembros se hallen exaltados en el orgullo de sus corazones;
+sí, aun en un día en él que los guías de las iglesias, y sus masetros
+se enorgullecerán en sus corazones, hasta el extremo de envidiar
+á los mismos que pertenecen á sus iglesias;
+29. Sí, esto vendrá á suceder en un día [4220]en que se oirá hablar
+de fuegos, tempestades y vapores de humo, en países extranjeros;
+30. En él que se [4221]oirá hablar también de guerras, rumores
+de guerras, y [4222]terremotos en diversos lugares;
+31. Sí, vendrá á suceder en un día en que habrán grandes
+corrupciones sobre la superficie de la tierra; en él que [4223]habrán
+asesinatos, robos, falsedades, engaños, fornicaciones y toda
+clase de abominaciones; en una época en que habrán muchos
+que dirán, haz esto, ó haz aquello, que poco importa; porque
+el Señor les sostendrá en el postrer día. Pero ay de los tales,
+porque se hallan en la hiel de amargura, y en las cadenas de la
+iniquidad.
+
+8-2a, 4209: Véase s, Mormón 5.
+8-2b, 4210: Véase c, Jacob 4.
+8-2c, 4211: Véase s, Mormón 5.
+8-2d, 4212: Véase e, II Nefi 3.
+8-2e, 4213: Véase c, II Nefi 27.
+8-2f, 4214: II Nefi 28:4-6; III Nefi 29:7;
+Mormón 8:28; 9:15-26; Véase r, II Nefi 26.
+8-2g, 4215: II Nefi 26:15,16; 33:13; Mormón 9:30; Moroni 10:27.
+8-2h, 4216: Véase f, II Nefi 28.
+8-2i, 4217: Véase i, II Nefi 10.
+8-2j, 4218: Véase 2f.
+8-2k, 4219: Versículos 32-38; Véase q, II Nefi 26.
+8-2l, 4220: I Nefi 22:18; II Nefi 27:1-3.
+8-2m, 4221: I Nefi 14:15-17; 22:13-15; Isaías 66:15,16.
+8-2n, 4222: II Nefi 27:2.
+8-2o, 4223: III Nefi 16:10; 21:19; 30.
+
+Corrections:
+Mandatory Section 8 check (i/l/1): this page's own chapter-8 second-
+alphabet lettering runs 2a-2o, so 2i (own letter) and 2l (own letter)
+and 2i's cross-reference target letter "i" (Véase i, II Nefi 10) all
+fall under the mandatory check. Verified via BOM 1879 Pratt
+(pages_1879/page_0573.png, book page 565 -- confirmed matching this
+page's content via chapter_map.csv's Mormon,8 row, page_1879=571,
+landing one page later at file 573/book 565). 1879's own marker
+sequence (2a through 2o) lands on the exact same annotated words in
+the exact same verse-by-verse order as this page's 1920 sequence (a
+letter-for-letter 1:1 match, confirmed by comparing both editions'
+placement against verses 23-31), which is strong corroborating
+evidence the two editions' letter *order* was not shuffled by
+translation word-order here (unlike the general case rule 26 warns
+about) -- so 1879's target letters were used directly: 2i, see i, II.
+Nep. 10 confirms both the marker "i" and the target "i"; 2l, I. Nep.
+22:18 confirms marker "l". No discrepancy found for these three i/l
+instances.
+Discretionary extension used for two more spots, not required by rule
+but flagged by the same 1879 comparison: entries 2a and 2c both cite
+"Véase [letter], Mormón 5" -- the 1920 target glyph was read at first
+pass as "b" (matching entry 2b's own letter, an easy visual
+anchor-bias trap since 2b is right next to 2a) but 1879 reads "2a, see
+s, Mor. 5" and "2c, see s, Mor. 5" for both. Re-zoomed the 1920 glyphs
+at 20x for both entries independently (not from memory) -- both show a
+small cursive "s" shape (a curved stroke, not the two-loop "b" shape
+used elsewhere on this page, e.g. "2b, Véase c, Jacob 4"'s own visible
+letter shapes for comparison) -- confirms 1879's reading. Corrected
+from an initial "b" misread to "s" for both 8-2a and 8-2c before this
+file was finalized; not logged in `errors in 1920.txt` since this was
+this session's own read correction, not a genuine 1920 print defect.
+Suspected extraneous printer's mark, excluded from the transcription
+(not logged in `errors in 1920.txt` -- treated like the "Digitized by
+Google" watermark per rule 33, not as page content, matching page
+570's precedent for its stray bold "8" glyph): v.23's "...y como el
+Señor vive," is followed by a short diagonal stroke positioned above
+the line, directly before "que" -- zoomed repeatedly at up to 20x; it
+reads as a stray diagonal fleck (angled top-left to bottom-right,
+sitting above and slightly left of the "q"), not a hyphen (no
+mid-line horizontal placement) and not an accent (no letter under it
+to accent -- "que" starts with an unaccented "q"). This page's own
+Google/embedded OCR text layer (google_text_1920/page_0593.txt, line
+3) reads straight through as "...vive, que" with nothing between the
+comma and "que", corroborating that whatever mark is really printed
+there isn't a real character -- consistent with rule 36's "if
+Google's OCR doesn't transcribe the mark either, treat it as a stray
+speck" guidance (that rule is written for accent marks specifically,
+but the same underlying logic -- Google's OCR is trained on real type
+and reliably drops marks that aren't actually printed -- applies
+here).
+Narrow-space-vs-merge (not raised as a standalone question -- surfaced
+here for Session E per rule 6): v.23 "os digo" prints with a genuine
+zero-width merge ("osdigo", confirmed at 10x zoom -- the "s" of "os"
+and "d" of "digo" are directly touching, not just a narrow gap, unlike
+the neighboring "aquí, os" spacing on the same line which shows normal
+letter spacing). Per the standing default (grammar requires two words
+-- "os digo" is a complete, common two-word phrase, object pronoun +
+verb), transcribed as "os digo" with a normal single space; not logged
+in `errors in 1920.txt` per the same rule.
+Rule-7 hyphen rejoins: v.25 "bene-" / "ficio" (split across the
+image's two lines) -> rejoined to "beneficio", kept on the first line
+(under 72 chars after the rejoin). v.26 "segura-" / "mente" -> rejoined
+to "seguramente", kept on the first line (under 72 chars after the
+rejoin). Neither rejoin triggered rule 8 rebalancing.
+No new chapter or subtitle on this page -- continues directly from
+page 570's Mormón chapter 8, verse 23 (mid-verse, first word of the
+page) through verse 31's closing clause. Footnote lettering continues
+past "z" (reached on page 570) into the two-letter "2a"-style codes
+per rule 16; still chapter 8 throughout, so no book-name header or
+letter-reset applies in Block 1.
+Block 1 formatting note: per rule 16's two-letter-code example
+("3-2a, 3185: Véase u, Alma 16"), all 15 of this page's entries use
+the "8-2[letter]" hyphenated form. Entry 8-2f's citation (87 chars
+unwrapped) exceeds the 79-char Block 1 cap (rule 18) and was wrapped
+at the semicolon after "III Nefi 29:7;" per the stated preference for
+breaking between whole references rather than splitting one apart.
+Google cross-check (`check_google_crosscheck.py 571`): 2 candidates
+surfaced, both the same known pattern -- Google's OCR reading capital
+"Él" as unaccented "El" (v.23's "Él recordará" and v.24's "Y Él
+conoce"), confirmed correct as transcribed by direct zoom of both
+spots; a capital-É-vs-E OCR miss, not a transcription issue. Zero
+other candidates survived the dismissal filters.
+Session B: independent re-read of fn_zoom against the finished
+page_571.txt -- all 15 body-text [N] markers (2a-2o) confirmed in the
+correct word position, and all 15 Block 1 entries confirmed against
+the fn_zoom image, including the corrected 8-2a/8-2c "s" target letter
+and the mandatory i/l 1879 cross-check (2i, 2l, and 2i's "i" target),
+both already resolved in Session A. No discrepancies found; no changes
+made.
+Session D: `generate_block2.py 571` resolved all 15 of this page's
+Block 1 cross-references to sequential numbers on the first pass, no
+unresolved entries -- notably 8-2a and 8-2c (both "Véase s, Mormón 5")
+resolved to the identical target (4149: Enos 1:12-18; Mormón 8:24-26;
+9:36-37), which content-fits both v.23's "aun desde el polvo clamarán
+al Señor" and v.25's "sus oraciones han sido también en beneficio de
+aquél", corroborating the Session A "b"->"s" correction independently
+of the 1879 cross-check.
+Session E: fresh WSL/pptext regeneration (`report_wsl_20260802h.html`).
+Spellcheck Suspect Words: one NEW hit from this page -- "masetros"
+(v.28, "y sus masetros se enorgullecerán en sus corazones") -- checked
+against 1886 (pages_1886/page_0586.png, book page 568/file 586), which
+prints the correctly-spelled "y sus maestros se enorgullecerán en sus
+corazones" at the same spot; confirmed at 12x zoom that 1920 genuinely
+prints "masetros" (letters "a"/"e" transposed), not a transcription
+misread. "masetros" has no RAE DLE entry and zero hits in all three
+reference corpora; the modern LDS Spanish edition (Mormón 8:28) uses
+"maestros". No archaic-legitimacy evidence found -- added to both
+`permitted words.txt` and `errors in 1920.txt` (Mormón 8:28 masetros
+(maestros)), inserted after the existing Mormón 8:7 entry (this file's
+existing Mormón 8 entries already run through 8:7; 8:28 is the next in
+verse order and also the last, so this was a plain append that happens
+to already be correctly sorted, not an out-of-order insertion).
+Narrow-space-vs-merge flag for the editor (not a pending decision, per
+the standing rule -- surfacing only): v.23 "os digo" was transcribed as
+two words per the standing default (a zero-width "osdigo" merge in the
+1920 print, but "os digo" is a complete, ordinary two-word phrase) --
+see this file's own Session A Corrections entry above for the full
+zoom/reasoning; noted here again per the Session E collection step.
+Whole-document footnote-number sweep: max=4223 (this page's own 8-2o),
+zero duplicate anchors; one pre-existing duplicate NOTE found
+(3185, appearing both at its correct original position within LIBRO DE
+HELAMÁN's own footnote range and again, spuriously, at the very end of
+`librodm.txt` after a misplaced second "LIBRO DE HELAMÁN" header
+following this page's own "LIBRO DE MORMÓN" section) -- confirmed via
+`git show HEAD:librodm.txt` that the file ended at footnote 4164 as of
+the last commit, well before this duplicate, so it was introduced
+during one of the earlier uncommitted pages' sessions (567-570), not
+by this page. Flagged for the editor, not fixed here (out of scope for
+page 571's own session, same treatment as the pre-existing footnote-gap
+and unaccented-"Vease" findings flagged on pages 569/570) -- the fix
+itself is simple (delete the trailing blank line + "LIBRO DE HELAMÁN"
+header + duplicate "3185: Véase 2046." line, four lines total at the
+very end of the file) but touches content this page's session didn't
+introduce. The only anchor-without-note/note-without-anchor gaps
+remain the same long-documented pre-existing set as every prior
+session (anchors 365, 530, 805, 909, 1724, 1725 with no note; note 812
+with no anchor) -- unrelated to this page, unchanged by it.
+Whole-document mechanical sweeps re-run clean:
+`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
+`check_verse_indent.py` all clean on both master files; zero curly
+quotes in either. Dash check: no new hyphenated compounds introduced by
+this page (zero letter-hyphen-letter tokens in this page's own body
+text). Scanno check, curly-quote check, special-situations checks: this
+page's own distinctive text (searched for "polvo clamarán", "beneficio
+de", "seguramente vendrán", "combinaciones", "diversos lugares",
+"masetros", etc.) produced no hits outside the established benign
+short-lines-check category (verse/paragraph-boundary short lines and
+short Block 2 entries, the same structural false positive documented
+on every prior page).

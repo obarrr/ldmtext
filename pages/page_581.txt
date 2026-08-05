@@ -1,0 +1,109 @@
+Página 581
+16. Y dijo el Señor: Id y construid barcos á la manera de
+los que [4302]habéis hecho. Y sucedió que el hermano de Jared se
+puso á trabajar, y sus hermanos también, y construyeron barcos
+según antes los habían hecho, siguiendo las instrucciones del
+Señor. Y eran pequeños y ligeros sobre las aguas, como la
+ligereza de un ave sobre el mar.
+17. Siendo construidas de una manera sumamente sólida y
+extremadamente [4303]ajustada, de modo que podían contener agua
+lo mismo que un vaso, y el fondo de las barcas ajustaba como
+un vaso, y los costados estaban tan ajustados como un vaso;
+terminando en punta los extremos; y su [4304]longitud era la de un
+árbol; y la puerta, cuando se cerraba, estaba tan ajustada como
+un vaso.
+18. Y sucedió, que el hermano de Jared clamó al Señor, diciendo:
+Oh Señor, he hecho lo que me has mandado, y he construido
+los barcos, según me has dirigido.
+19. Pero, he aquí, oh Señor, que no hay ninguna luz en ellos.
+¿A dónde nos hemos de dirigir? Y también pereceremos,
+porque no podemos respirar, como no sea el aire que contienen;
+por lo tanto, tenemos que perecer.
+20. Y el Señor le dijo al hermano de Jared: He aquí, que harás
+un agujero en lo alto de la cubierta, y también otro en el [4305]fondo;
+y cuando tengas necesidad de aire, destaparás el agujero superior,
+y lo recibirás, y si entre agua, lo cerrarás, para que no perezcáis
+en el mar.
+21. Y ocurrió, que hizo el hermano de Jared, como el Señor
+le había mandado.
+22. Y clamó de nuevo á Él, diciendo: He aquí, que he obrado
+según me has mandado, y he preparado los barcos para mi
+pueblo; pero, he aquí, que no hay luz en ellos, oh Señor, ¿consentirás
+que crucemos las aguas en la obscuridad?
+23. Y contestó el Señor al hermano de Jared: ¿Qué es lo
+que quieres que yo haga para proporcionaros la luz en vuestros
+barcos? Porque, he aquí, no podéis tener ventanas, que serían
+hechas pedazos. Ni encenderéis fuego en ellos, porque no
+habéis de ir con la luz del fuego;
+24. Puesque, he aquí, que seréis como una ballena [4306]en medio
+de la mar, contra la que se estrellan las tempestuosas olas de ella.
+No obstante, yo os sacaré otra vez de las profundidades de
+abismo; porque los vientos han salido de mi boca, y á las lluvias
+y á los diluvios mando yo.
+25. Pero, he aquí, yo os prepararé en contra de todas estas
+cosas. Porque ¿cómo habríais de atravesar vosotros ese grande
+
+2n, 4302: Versículo 6.
+2o, 4303: Éther 6:7.
+2p, 4304: Isaías 65:22.
+2q, 4305: Versículos 24-25. Ambos agujeros cuando fueron cerrados eran
+impermeables. A veces los barcos estuvieron debajo del agua;
+y pudiera haber sido que á veces fueron volteados. fondo arriba.
+Cuando navegaban sobre la superficia del agua, el agujero superior
+pudiera á veces haber sido abierto con seguridad; Éther 6:6-7,10.
+2r, 4306: Versículo 25: Éther 6:6-7,10.
+
+Corrections
+v.24 (footnote q text) "fueron volteados. fondo arriba." — the 1920
+print genuinely shows a period after "volteados", not a comma
+(confirmed at high zoom — plain round dot on the baseline, no
+descender/tail), even though the sentence grammatically continues
+("fondo arriba" is not a new sentence). Preserved as printed per rule
+32; matches the identical pattern already documented on page 580 v.10
+("posea." for "posea,"). This edition of 1886 has no footnotes, so
+Session E cross-checked 1879 instead (pages_1879/page_0583.png, same
+q footnote): "sometimes they may have turned bottom upwards" — one
+continuous English clause, confirming "volteados, fondo arriba" is a
+single clause and the 1920 period is a genuine misprint. Also
+independently caught by pptext's "full stop followed by unexpected
+sequence" paragraph check. Logged in `errors in 1920.txt`: "Éther 2:24
+(nota q) volteados. (volteados,)".
+v.24 (footnote q text) "superficia del agua" — printed with "ia" where
+"superficie" (with "ie") would be the standard spelling; confirmed at
+high zoom, not a stray speck. Preserved as printed per rule 32 (never
+silently substitute the expected reading). Flagged by pptext's
+spellcheck/edit-distance check ("superficia" 1 occurrence vs.
+"superficie" 69 elsewhere in the document). 1886 has no footnotes, so
+cross-checked 1879 (pages_1879/page_0583.png, same q footnote): "when
+riding upon the surface" confirms "superficie" is intended, not a
+legitimate variant. Logged in `errors in 1920.txt`: "Éther 2:24 (nota
+q) superficia (superficie)"; added to `permitted words.txt` per rule
+10 (preserved-as-printed word, suppress future flags).
+v.24 "Puesque" — printed as one word (not "Pues que"); unusual but
+preserved as printed. Already used 12+ times earlier in this same
+document and already present in `permitted words.txt` (both
+capitalized and lowercase forms) — no new action needed. 1886 (book
+page 577/file 595) prints the identical "Puesque" — confirms this is a
+legitimate archaic form shared with 1886, not a 1920-only error.
+No i/l/1 superscript letters on this page (n, o, p, q, r all confirmed
+via direct zoom of each fn_zoom marker and its body-text position — see
+individual crops), so the mandatory Section 8 1879 cross-check does not
+apply to any of this page's footnotes.
+`check_google_crosscheck.py` flagged two spots, both resolved as OCR
+noise after zooming: a dropped colon after "diciendo" (v.18, Google
+routinely misses colons) and a stray inserted apostrophe at the
+"harás"/"un agujero" line-wrap boundary (v.20-21) not present in a
+direct zoom of that junction — no text change needed either way.
+Session B: independently re-verified all 5 Block 1 entries and all 5
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text (letters n through r, citations,
+and the extended q footnote's full explanatory text including the
+"volteados." period and "superficia" spelling) and marker placements
+(before "habéis" v.16, "ajustada"/"longitud" v.17, "fondo" v.20, "en
+medio" v.24) confirmed matching exactly. Full body text (v.16-25)
+re-read against fresh top/mid/bot crops, confirmed matching
+page_581.txt word-for-word. No letters on this page are i/l/1, so the
+mandatory Section 8 1879 check does not apply; independently
+reconfirmed this by re-reading each of the five superscripts (n, o, p,
+q, r) directly. No discrepancies found; no corrections needed from
+Session B.
