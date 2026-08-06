@@ -1,0 +1,206 @@
+Página 585
+
+CAPÍTULO 4.
+
+1. Y mandó el Señor al hermano de Jared que descendiera
+del [4338]monte de su presencia, y que escribiera las cosas que había
+visto; lo que le fué [4339]prohibido que viniera á los hijos de los
+hombres, hasta tanto que Él fuese levantado sobre la cruz; por
+esta causa las guardó el rey [4340]Mosíah, para que no viniesen al
+mundo, hasta después que Cristo se hubiere mostrado á su
+pueblo.
+2. Y después que Cristo se hubo mostrado verdaderamente
+á su pueblo, dispuso que fuesen dadas á conocer.
+3. Y ahora, después que todos los descendientes de su pueblo
+han caído en la incredulidad, y que no queda ninguno, á excepción
+de los Lamanitas, y ellos han desechado el evangelio de
+Cristo; por lo tanto, me ha sido ordenado que las [4341]oculte otra
+vez en la tierra.
+4. Y, he aquí, yo he escrito sobre estas planchas las [4342]mismas
+cosas que vió el hermano de Jared, sin que hayan sido mostradas
+nunca cosas tan grandes como las que lo fueron al hermano de
+Jared.
+5. Por cuyo motivo, el Señor me ha mandado que las escriba,
+y así lo he hecho. Y Él me ha mandado que las selle; y me ha
+mandado también que selle su interpretación; por lo tanto, he
+sellado los [4343]interpretes según los mandamientos del Señor.
+6. Porque el Señor me ha dicho que estas cosas no serán
+manifestadas á los Gentiles [4344]hasta que se arrepientan de sus
+iniquidades, y aparezcan puros en la presencia del Señor.
+7. Y en aquel día que ejerzen fe en mí, dice el Señor, [4345]aun
+así como lo hizo el hermano de Jared, para que pueden santificarse
+en mi, entonces les manifestare las cosas que vió el hermano
+de Jared, aún hasta descubrirles todas mis revelaciones, dice
+Jesu Cristo, el Hijo de Dios, el [4346]Padre de los cielos, y de la
+tierra, y todas las cosas que en ellos hay.
+8. Y él que luche contra la palabra del Señor, que [4347]sea maldito;
+y él que niegue estas cosas, que sea maldito; porque á ellos,
+dice Jesu Cristo, [4348]no les mostraré cosas mayores; porque soy
+yo, Él que lo dice;
+9. Y á mi mandato se abren y cierran los cielos, y á mi palabra
+temblará [4349]la tierra, y á mi mandato pasarán sus habitantes, aún
+como si fuera [4350]por el fuego,
+10. Porque él que no cree en mis palabras, no cree en mis
+
+4a, 4338: Éther 3:1.
+4b, 4339: Éther 3:21.
+4c, 4340: Mosíah 28:11-20.
+4d, 4341: Véase s, I Nefi 13; Mormón 8:14; Moroni 10:1-2.
+4e, 4342: Versículos 5-7,13-16; II Nefi 27:6-11,15,17,21-22; Éther 5:1.
+4f, 4343: Véase n, Mosíah 8.
+4g, 4344: Versículos 7-16; II Nefi 27:7-8,11,21.
+4h, 4345: Ether 3.
+4i, 4346: Véase a, Mosiah 3; Mosiah 3:8; 4:2; 7:27; Helamán 16:18.
+4j, 4347: II Nefi 27:14; 28:29-30; 33:11-15.
+4k, 4348: Versículos 13-16; III Nefi 26:6-12.
+4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23, 9:2.
+4m, 4350: Véase a, III Nefi 25.
+
+Corrections
+Rule 7 hyphen rejoins (2): v.3's line-break split "excep-"/"ción"
+rejoined to "excepción" (combined line 65 chars, under cap, no rule-8
+cascade needed); v.7's line-break split "santifi-"/"carse" rejoined
+to "santificarse" (combined line 66 chars, under cap, no rule-8
+cascade needed).
+Rule 8 rebalance: v.7's line "Jesu Cristo, el Hijo de Dios, el
+[4346]Padre de los cielos, y de la tierra," measured 75 chars with
+the marker inserted; moved "tierra," to the start of the next line
+("tierra, y todas las cosas que en ellos hay.") per rule 8.
+Rule 23/24 range normalization in Block 1: footnote d's "Moroni
+10:1, 2" (consecutive verses) -> "10:1-2"; footnote e's "21, 22"
+(consecutive) -> "21-22"; footnote g's "7, 8" (consecutive) ->
+"7-8"; footnote j's "29, 30" (consecutive) -> "28:29-30". Footnote
+l's "Mormón 5:23, 9:2" kept with a space after the comma (two
+distinct chapter:verse pairs of the same book, not a same-chapter
+verse list — matches existing librodm_foot.txt precedent, e.g.
+"I Nefi 1:4, 2:4" at line 1332).
+Suspected 1920 misprint, v.7 "que ejerzen fe en mí" — grammatically
+"que" + this clause calls for subjunctive "ejerzan"; preserved as
+printed per rule 32. Checked against 1886 (page_0599.png, same
+verse): 1886 reads "en que ejerzan fé en mí", confirming 1920's
+"ejerzen" is a genuine misprint. Session E: also confirmed via
+RAE DLE (present subjunctive of "ejercer" is "ejerza/.../ejerzan";
+"ejerzen" is not a valid form in any mood) and the modern Spanish
+LDS edition (churchofjesuschrist.org, Éter 4:7: "ejerzan"). Logged
+in `errors in 1920.txt` (Éther 4:7) and added to `permitted
+words.txt` (confirmed genuinely flagged by pptext's spellcheck
+section, line 26092 of this run).
+Suspected 1920 misprint, v.7 "para que pueden santificarse" —
+grammatically "para que" calls for subjunctive "puedan"; preserved
+as printed per rule 32. 1886's corresponding verse (page_0599.png)
+does not contain this clause at all — 1920 adds a whole phrase ("aun
+así como lo hizo el hermano de Jared, para que pueden santificarse
+en mi") absent from 1886 but present in 1879 English ("even as the
+brother of Jared did, that they may become sanctified in me"), so
+1886 offers no direct textual comparison here; flagged for Session
+E on internal-grammar grounds alone (no "para que" + indicative
+construction is standard Spanish). Session E: confirmed via a
+whole-document grep of every other "para que pued-" instance in
+librodm.txt (15+ hits, e.g. "para que pueda romper estas cadenas",
+"para que puedan ser vistos de los hombres", "para que puedas verte
+lleno de amor") — this page's "para que pueden" is the sole
+exception to an otherwise 100% consistent subjunctive pattern
+throughout this translation. Also confirmed via RAE DLE (subjunctive
+of "poder" is "pueda/.../puedan") and the modern Spanish LDS edition
+(churchofjesuschrist.org, Éter 4:7, which rewords the clause
+reflexively but keeps it subjunctive: "para que se santifiquen en
+mí"). Logged in `errors in 1920.txt` (Éther 4:7). Not added to
+`permitted words.txt` — "pueden" is an ordinary, correctly-spelled
+Spanish word and pptext's spellcheck section does not flag it
+anywhere near this page (confirmed by direct search of this run's
+report); this is a grammar/mood error, not a spelling one, so no
+suppression entry is needed (same non-op precedent as "Jesu
+Cristo").
+Accent inconsistency (preserved as printed, not treated as an
+error — missing accents are common per the project's established
+pattern, e.g. page 584's "hé aquí"/"he aquí"): footnote c and f both
+print "Mosíah" (accented) while footnote i prints "Mosiah"
+(unaccented) twice; footnotes a, b, and e's "Éther" citations are
+accented while footnote h's "Ether 3." is not. Both confirmed via
+tight zoom crops, not misreads.
+Rule 6 double-space normalization: v.5 "y así lo he hecho.  Y Él me
+ha mandado" printed with a visibly wider gap after the period;
+normalized to a single space per the blanket justification-gap rule.
+No i/l/1 mandatory 1879 cross-check letters found necessary to skip:
+this page's own footnote lettering includes both i (9th letter,
+"Padre de los cielos") and l (12th letter, "la tierra"), so the
+Section 8 check was run. 1879 (pages_1879/page_0587.png, chapter_map
+Éther 4 = file page 586/587) independently confirms both: i lands on
+"the Father of the heavens" (matching "Padre de los cielos") and l
+lands on "the earth shall shake" (matching "la tierra"), with every
+other letter (a-h, j, k, m) and their citation content matching
+1920 exactly, including footnote d's cross-reference target letter
+"s" (I. Nep. 13) and footnote f/i/m's target letter "n"/"a"/"a".
+Same-page glyph comparison also done first: the i glyph is a short
+stroke with a separated dot above it, the l glyph a single tall
+continuous curved stroke with no separated dot — clearly distinct
+shapes, consistent with the 1879 confirmation.
+Google cross-check: this page opens with a chapter heading right at
+the very top (`Página 585` / blank / `CAPÍTULO 4.` / blank / v.1), so
+`check_google_crosscheck.py`'s body_lines() helper (which stops at
+the first blank line) found 0 chars of "mine" text and ran no actual
+comparison — the known blind spot documented at page 505's session
+(2026-07-25a). Compensated with a manual line-by-line read of the
+full `google_text_1920/page_0607.txt` against this page: confirms
+"ejerzen" (not "ejerzan"), "pueden" (not "puedan"), both hyphen
+rejoins, and unaccented "Ether 3." (h). One point of disagreement:
+Google's OCR reads "Mosíah" (accented) for both of footnote i's
+citation instances, contradicting my direct high-zoom read (flat,
+undotted "i", no accent stroke) — re-zoomed even tighter on both
+instances specifically because of this conflict and confirmed no
+accent glyph is actually printed; treated as Google over-reading
+(hallucinating its strong prior for the usual accented spelling),
+not as evidence of a transcription mistake, and kept as "Mosiah"
+per the direct image read. All other differences were the usual
+glued footnote-letter noise (Google's "haun" for "aun", "doculte"
+for "oculte", spaced semicolons) or footnote-block OCR garbling
+(letters f/g misread as "1"/"9"), none of it body-text-relevant.
+Session B: independently re-verified all 13 Block 1 entries and all
+13 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A) of the 1920 page. All reference text (letters
+a through m, citations) and marker placements (before "monte" v.1,
+"prohibido" v.1, "Mosíah" v.1, "oculte" v.3, "mismas" v.4,
+"interpretes" v.5, "hasta" v.6, "aun" v.7, "Padre" v.7, "sea" v.8,
+"no" v.8, "la" v.9, "por" v.9) confirmed matching exactly, including
+the two accent-inconsistency spots (h's unaccented "Ether 3.", i's
+unaccented "Mosiah" twice) and both grammar-anomaly words
+("ejerzen", "pueden"). Full body text (v.1-10) re-read against fresh
+top/mid/bot crops, confirmed matching page_585.txt exactly, including
+both hyphen rejoins and the rule-8 "tierra," rebalance. The mandatory
+i/l 1879 check performed in Session A (letter i -> "the Father of the
+heavens", letter l -> "the earth shall shake", via
+pages_1879/page_0587.png) was reviewed again independently and
+confirmed sound: both target words match the annotated Spanish
+phrases exactly, and no other letter or cross-reference target on
+this page (a-h, j, k, m; targets s, n, a, a) falls in the i/l/1 set.
+No discrepancies found; no corrections needed from Session B.
+Session D: `generate_block2.py 585` mis-resolved footnote i (4346,
+"Véase a, Mosiah 3; Mosiah 3:8; 4:2; 7:27; Helamán 16:18.") to the
+wrong number and silently dropped the trailing literal citations,
+producing "4346: Véase 1311." in librodm.txt. Root cause: the
+script's VEASE_CLAUSE regex matches from "Véase " to the entry's
+FIRST period, which for this entry is the very last character, so
+the whole span (cross-reference plus the three trailing bare
+citations) was fed to the single-clause resolver as if it were one
+"Véase <letters>, <Book> <Chapter>" reference; its comma-based
+book/chapter split then mis-parsed "Mosiah 3:8; 4:2; 7:27; Helamán"
+as a book name and "16" as a chapter, and FootIndex.find_book_id()'s
+fuzzy subset-match fallback let the garbled multi-word "book name"
+match against the real, short "MOSIAH" book-header token set purely
+because "MOSIAH" appears as one token inside the garbage — landing
+on Mosíah chapter 16 letter a (1311, unrelated content) instead of
+the intended Mosíah chapter 3 letter a. Manually corrected in
+librodm.txt to "4346: Véase 1096; Mosiah 3:8; 4:2; 7:27; Helamán
+16:18." (1096 confirmed as Mosíah 3a via librodm_foot.txt line 1268,
+inside the LIBRO DE MOSIAH section spanning lines 1221-1835).
+Footnote 4341 (d, "Véase s, I Nefi 13; Mormón 8:14; Moroni 10:1-2.")
+hit the same mis-parse path (garbled "book name" fuzzy-matched I
+Nefi, chapter mis-parsed as 10) but happened to stay correctly
+unresolved only because I Nefi chapter 10 has no letter s in
+librodm_foot.txt — not a safe outcome to rely on for a future page,
+just lucky here. This script bug is not specific to this page (any
+Block 1 entry combining a "Véase <letter>[, Book Chapter]" clause
+with additional trailing bare citations, all under one un-terminated
+sentence, is at risk) and should be fixed in generate_block2.py
+itself rather than re-caught by hand on a future page; flagging for
+the editor's attention rather than patching the script now.

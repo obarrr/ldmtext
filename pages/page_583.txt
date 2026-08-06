@@ -1,0 +1,170 @@
+Página 583
+Señor, que era como el dedo del hombre, como de carne y sangre; y el
+hermano de Jared cayó delante del Señor, herido de temor.
+7. Y el Señor vió que el hermano de Jared había caído al suelo,
+y le dijo: Levántate, ¿porqué has caído?
+8. Y le dijo al Señor: Porque vi el dedo del Señor, y tuve
+miedo, no sea que me hiriere; porque yo no sabía que el Señor
+tuviera carne y sangre.
+9. Entonces le dijo el Señor: Á causa de tu fe has visto que
+tomaré carne y sangre; porque nunca ningún hombre apareció
+en mí presencia con una fe tan grande como la tuya, sin la cual
+no hubieras podido ver mi dedo, ¿Has visto algo más que esto?
+10. Y él contestó: No, Señor, muéstrate á mí.
+11. Y le dijo el Señor: ¿Crees tú en las palabras que yo te
+anunciaré?
+12. Y él le respondió: Sí, Señor, yo sé que Tú dirás la verdad,
+porque Tú eres el Dios de la verdad, y no puedes mentir.
+13. Y cuando hubo pronunciado estas palabras, he aquí, que
+el Señor se mostró á él, y le dijo: Porque sabes estas cosas, tú
+quedas redimido [4314]de la caída; por lo que has vuelto á mi
+presencia, por lo tanto me manifesté á ti.
+14. He aquí, que yo soy Él que ha sido preparado [4315]desde el
+principio del mundo para redimir á mi pueblo; he aquí, que yo soy
+Jesu Cristo; yo soy el [4316]Padre y el [4317]Hijo. En mí tendrán luz
+todas las generaciones que crean en mi nombre, y esto eternamente
+; y se convertirán en mis hijos y en mis hijas.
+15. Y [4318]nunca me he mostrado á ningún hombre de los que yo
+he creado, porque nunca ninguno ha creído en mí como tú lo
+has hecho. ¿Ves tú como habéis sido creado según mi propia
+imagen? Sí, [4319]todos los hombres en el principio fueron creados
+á mi propia imagen.
+16. Porque, he aquí, que este cuerpo que tú ves ahora, es el
+[4320]cuerpo de mi Espíritu; y yo he creado al [4321]hombre según el
+cuerpo de mi Espíritu; y del mismo modo que yo aparezco ante
+ti en el Espíritu; del mismo modo apareceré ante mi pueblo en la
+carne.
+17. Y ahora, como yo, Moroni, había dicho que [4322]no podía
+dar una relación completa de estas cosas que han sido escritas;
+por lo tanto, básteme decir que Jesús se mostró á sí mismo á este
+hombre en el Espíritu, bajo el mismo [4323]aspecto y semejanza que
+se mostró á los Nefitas;
+
+3h, 4314: Éther 12:19,21.
+3i, 4315: Véase d, Mosíah 4.
+3j, 4316: Véase c, Mosíah 15.
+3k, 4317: Véase b, Mosíah 3.
+3l, 4318: Cuando el Señor apareció á Adam y á los justos, y á Enoch y el
+pueblo de la antigua Sión, fué probablemente en visión, y no por una
+manifestación completa de su personaje, como apareció al hermano de
+Jared; Véase Doctrinas y Convenios 107:54.
+3m, 4319: Versículo 16; Mosíah 7:27; Alma 18:34.
+3n, 4320: I Nefi 11:11; El hermano de Jared vió el espíritu preexistente
+de Cristo que después fué envuelto en un tabernáculo de carne y huesos.
+3o, 4321: Véase m.
+3p, 4322: Véase e, Éther 1.
+3q, 4323: Siendo el cuerpo espiritual á la semejanza del cuerpo temporal.
+
+Corrections
+Page-boundary word displaced from page 582: per that page's Corrections
+log, marker overflow pushed "Señor," off the end of page 582's last
+line (76 chars with both [4312]/[4313] markers inserted, no following
+image line on that page to absorb it). The actual 1920 print line
+itself (with slim superscript letters, not bracketed numbers) fits
+"...vió el dedo del Señor," in full on page 582's last line before the
+footnote divider (confirmed via direct crop of pages_1920/page_0604.png
+85-95%) — the split is purely an artifact of this transcription's
+bracketed-number footnote markers taking more width than the original
+superscript letters, not a real word-split in the source. Per rule
+8/10's page-boundary mechanism, "Señor," is prepended to this page's
+actual first printed line ("que era como el dedo del hombre..."),
+giving "Señor, que era como el dedo del hombre, como de carne y sangre;
+y el" (69 chars) as this page's first output line.
+Marker overflow on this page's own v.13 line: "quedas redimido
+[4314]de la caída; por lo que has vuelto á mi presencia," reached 73
+characters once the bracketed marker was inserted (over the 72-char
+cap). Per rule 8, the last word "presencia," was moved to the start of
+the next line: "quedas redimido [4314]de la caída; por lo que has
+vuelto á mi" (62 chars) / "presencia, por lo tanto me manifesté á ti."
+(42 chars).
+v.14 line-break hyphen split "eterna-" / "mente" (rule 7) rejoined to
+"eternamente"; combined length (67 chars) stayed under the cap, so no
+further rule-8 cascade was needed.
+Footnote p: the cross-reference target letter after "Véase" was
+initially misread as "o" from a medium-zoom crop (round glyph,
+ambiguous at that resolution); a tighter zoom crop showed a script "e"
+(small counter/opening, distinct from a full "o"), and an 1879
+cross-check (extended beyond the mandatory i/l/1 set, per Section 8's
+discretion to widen the check to any uncertain letter) confirms this
+directly: 1879 page (file_page 585, book page 577) reads "p, see e,
+Ether 1." — matching content and letter. Transcribed as "Véase e,
+Éther 1."
+Footnote n citation punctuation: the printed mark between the two "11"s
+in "I Nefi 11 11" reads, at high zoom, as a comma-with-tail (not a
+colon) — likely a font/print quirk at this glyph size, not a real
+comma-separated list (which would be nonsensical: "verse 11, 11").
+Content (I Nefi 11:11, the brother of Jared seeing the premortal
+spirit of Christ) and the 1879 cross-check (file_page 585, "n, I. Nep.
+11: 11.") both confirm this is the standard chapter:verse citation;
+per rules 22-23 Block 1 output always normalizes to a colon regardless
+of the source mark, so no special preservation was needed here beyond
+the routine reformatting.
+Google cross-check candidate v.9 "Á causa de tu fe" — Google's OCR read
+plain "A" (no accent); a high-zoom crop of this line shows a clear,
+unambiguous acute accent on the capital "Á" (not a speck or scan
+artifact). Since capital "Á" beginning a sentence is this document's
+routine, established usage (not an unusual mark under rule 36), this is
+an ordinary Google OCR miss on an accented capital, not a genuine
+ambiguity — kept as printed, no further action needed.
+Mandatory Section 8 1879 cross-check performed for this page's two i/l
+letters (superscripts i and l are both present in this chapter's
+lettering): both confirmed via direct zoom (i = short stroke with
+separated dot; l = continuous unbroken stroke, no dot) and via the 1879
+page (file_page 585, book page 577) — "i, see d, Mos. 4." and "l, When
+the Lord appeared unto Adam..." match the 1920 readings exactly, letter
+for letter and content for content.
+Session B: independently re-verified all 10 Block 1 entries and all 10
+`[N]` body markers against fresh `process_page.py` crops (not reused
+from Session A) of both the 1920 page and the 1879 page (file_page
+585) — all reference text (letters h through q, citations) and marker
+placements (before "de" v.13, "desde" v.14, "Padre"/"Hijo" v.14,
+"nunca" v.15, "todos" v.15, "cuerpo"/"hombre" v.16, "no" v.17,
+"aspecto" v.17) confirmed matching exactly, including the corrected
+"Véase e, Éther 1." reading for footnote p. The mandatory 1879 check
+for superscripts i and l was independently re-run (fresh crops, not
+Session A's): both glyphs (i = short stroke, separated dot; l =
+continuous unbroken stroke) and their 1879 counterparts ("i, see d,
+Mos. 4."; "l, When the Lord appeared unto Adam...") again confirmed
+matching. Full body text (v.6 continuation, v.7-17) re-read against
+fresh top/mid/bot crops, confirmed matching page_583.txt word-for-word.
+No discrepancies found; no corrections needed from Session B.
+Session E: regenerated `workspace/report_wsl_20260805b.html` from
+scratch (WSL pptext run) and used the line-range technique to isolate
+every citation touching this page's body (lines 25979-26020) and Block
+2 entries (30658-30673) in `librodm.txt`. One genuine new spellcheck
+flag: "Enoch" (proper name, footnote 4318's text) — added to
+`permitted words.txt`, no `errors in 1920.txt` entry (BoM/Biblical
+proper noun, matches both 1920 and 1879 spelling exactly). One
+structural false positive: the "line starts with suspect punctuation"
+check flagged line 26004 ("; y se convertirán en mis hijos y en mis
+hijas.") — this is a direct, unavoidable mechanical consequence of the
+v.14 "eterna-"/"mente" hyphen rejoin (rule 7) landing "eternamente" at
+the end of the prior line and pushing the following semicolon (already
+space-stripped per rule 31) to the start of the next; not a
+transcription defect. No other new hits in range from edit-distance,
+dash, footnote, scanno, curly-quote, spaced-punctuation, verse-indent,
+special-situations, or "full stop followed by unexpected sequence"
+checks. Whole-document `check_spaced_punctuation.py` (librodm.txt +
+librodm_foot.txt), `check_footnote_punctuation.py`, and
+`check_verse_indent.py` all re-run clean. Whole-document footnote
+anchor/Block-2-definition cross-check re-run clean: zero duplicate
+definitions, zero anchored-but-undefined numbers beyond the
+already-documented Jacob 2:15/812 print-original gap; anchor range
+1-4323 fully accounted for with no gaps/duplicates. Direct
+whole-document curly-quote character scan (“”‘’) also re-run clean.
+This page's own Corrections log entries above were swept against the
+mandatory 1886-comparison check: none describe a suspected 1920 print
+misprint (the footnote p/n items are transcription-reading/formatting
+corrections, already resolved via 1879 and rules 22/23, not 1920-print
+anomalies), so no new `errors in 1920.txt` entries result from this
+page. No narrow-space-vs-merge notes to batch for the editor from this
+page.
+1879/1920 pagination note: chapter_map.csv's Ether/3 row lists 1879
+file_page 583, but that page (book page 575, still 1879's own longer
+"Chapter III") contains earlier, unrelated verses (barge-door
+construction) — 1879's chapter divisions are longer than 1920's and
+don't track page-for-page here. The actual matching content (1920
+Éther 3:1-9) is on 1879 file_page 584 (book 576), and this page's
+target verses (13-17) are on 1879 file_page 585 (book 577) — both
+located by paging forward and confirmed by matching footnote-block
+content, not from the chapter_map page number directly.

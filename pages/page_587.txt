@@ -1,0 +1,162 @@
+Página 587
+ha sido preparado para él [4365]desde la fundación del mundo. He
+aquí, que soy yo Quién lo ha dicho. Amén.
+
+CAPÍTULO 5.
+
+1. Y ahora, yo, Moroni, he escrito las palabras que me han
+sido mandadas escribir, según mi memoria; y [4366]os he hablado
+las cosas que he [4367]sellado; por lo tanto, no las toquéis, para que
+las [4368]traduzcáis; porque os está prohibido, excepto que en lo
+futuro lo dispusiere el Señor en su sabiduría.
+2. Y, he aquí, que tendréis el privilegio de mostrar las planchas
+á [4369]aquéllos que os ayuden á hacer esta obra;
+3. Y serán mostradas á [4370]tres por el poder de Dios; los que
+sabrán con certeza que estas cosas son verdaderas.
+4. Y en la boca de [4371]tres testigos se establecerán estas cosas;
+y el testimonio de tres, y esta obra, en la que será demostrado
+el [4372]poder de Dios, como también su palabra testificada [4373]por el
+Padre, el Hijo y el Espíritu Santo; y esto todo aparecerá como
+testimonio contra el mundo en el postrer día.
+5. Y si sucediere que se arrepintieren y vinieren al Padre
+en el nombre de Jesús, serán recibidos en el reino de Dios.
+6. Y ahora, si tengo ó no autoridad para estas cosas, juzgad
+vosotros; porque sabréis que tengo autoridad, [4374]cuando me veáis
+en el postrer día, en que aparezcamos ante la presencia de Dios.
+Amén.
+
+CAPÍTULO 6.
+
+1. Y ahora, yo, Moroni, continuo dando la historia de Jared
+y de su hermano.
+2. Porque sucedió que después que el Señor hubo preparado
+[4375]las piedras que el hermano de Jared había llevado consigo al
+monte, el hermano de Jared descendió de él, y colocó estas piedras
+en los [4376]barcos que tenían preparados, una en cada uno de los
+extremos; y, he aquí, que dieron luz que iluminó los barcos.
+3. Así fué como el Señor hizo que lucieran las [4377]piedras en las
+tinieblas, para dar luz á los hombres, mujeres y niños, de modo
+que no atravesasen las grandes aguas en obscuridad.
+
+4-2b, 4365: Véase d, Mosíah 4.
+5a, 4366: José Smith, hijo.
+5b, 4367: Véase e, Éther 4.
+5c, 4368: José Smith, hijo.
+5d, 4369: Véase el testimonio de los ocho testigos que siguen a la
+página titular; Véase d, II Nefi 11.
+5e, 4370: Versículo 4; Véase c, II Nefi 11.
+5f, 4371: Véase e.
+5g, 4372: Véase t, I Nefi 13; Véase e, III Nefi 29; Véase 2f, Mormón 8.
+5h, 4373: III Nefi 11:32-36.
+5i, 4374: Véase g, II Nefi 33.
+6a, 4375: Véase d, Éther 3.
+6b, 4376: Éther 3:1.
+6c, 4377: Véase d, Éther 3.
+
+Corrections
+Ambiguous letter resolved via 1879 (footnote 5b target): the 1920
+image zoom read the cross-reference target letter as "c" ("Véase c,
+Éther 4"), but 1879 (pages_1879/page_0589.png, chapter_map Éther 5 =
+file page 609, matching content on 1879 book-page 581) reads "b, see
+e, Ether 4" — target letter "e", not "c". Content-fit sanity check
+strongly supports "e": Éther chapter 4's own footnote e
+(librodm_foot.txt line 4659, sequential 4342) explicitly cites "Éther
+5:1" among its own targets, forming a natural mutual back-reference
+with this page's
+chapter 5 opening verse. Resolved as "e" (Éther 4's footnote e, 4342).
+Mandatory i/l/1 check, footnote 5g's cross-reference target letter:
+the glyph looked close to "i" at zoom; the mandatory 1879 check (same
+page as above) reads "g, see t, I. Nep. 13" — target letter is "t",
+not "i". Resolved as "t" (I Nefi 13's own footnote t). This is exactly
+the kind of case Section 8's mandatory check exists for.
+Footnote 5g's second cross-reference mark, before "Mormón 8", initially
+looked like "gf" at zoom (an unfamiliar swash ligature); 1879 confirms
+"See 2f, Mor. 8" — resolved as "2f", matching the identical "2f,
+Mormón 8" pattern already seen on page 586's footnote z (Éther chapter
+2's own footnote f).
+Mandatory i/l/1 check, chapter 5's own footnote letter i (marking
+"cuando" in v.6): 1879 independently confirms "i, see g, II. Nep. 33"
+exactly matching the 1920 reading — no change needed.
+Resolved page 586's flagged "2b" mystery: page 586's Corrections log
+noted that 1879 page 580's footnote block includes "2b, see d, Mos. 4"
+with no corresponding 1920 marker found anywhere on 1920 page 586.
+That marker is on this page instead, at the very top, marking "desde"
+in the v.19 continuation ("preparado para él [4365]desde la fundación
+del mundo"). 1879's "2b, see d, Mos. 4" matches the 1920 reading
+"Véase d, Mosíah 4" exactly.
+Rule 31 space-before-semicolon cleanup: removed a printed space before
+the semicolon in nine instances (v.1 "memoria ;", "sellado ;",
+"traduzcáis ;"; v.2 "obra ;"; v.3 "Dios ;"; v.4 "cosas ;", "Santo ;";
+v.6 "vosotros ;"; ch.6 v.2 "extremos ;").
+Rule 6 double-space normalization: v.19 continuation "del mundo.  He"
+printed with a visibly wider gap after the period; normalized to a
+single space per the blanket justification-gap rule.
+Google cross-check: `check_google_crosscheck.py 587` only compared
+this page's first 2 lines against the full-page OCR (same "stops at
+the first blank line" body-extraction limitation already documented
+for `check_line_wrap.py` on pages 585/586 — this page has an early
+chapter-heading blank line after just 2 lines, before 30 more body
+lines across two further chapters), reporting 0 candidates without
+having actually scanned the rest of the page. As a manual substitute,
+`google_text_1920/page_0609.txt` was read directly in full: every word
+of this page's transcribed body and Block 1 text is corroborated,
+including the three ambiguous-letter resolutions above (Google's noisy
+OCR still shows "t, I Nefi 13" and a stray "f, Mormón 8" — consistent
+fragments of the resolved "t" and "2f" readings, not "i"/"gf").
+No narrow-space-vs-merge flags were logged on this page (no candidates
+of that type arose).
+Session B: independently re-verified all 13 Block 1 entries and all 13
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) of the 1920 page. All reference text and marker
+placements (2b before "desde" v.19; a "os" v.1, b "sellado" v.1, c
+"traduzcáis" v.1, d "aquéllos" v.2, e "tres" v.3, f "tres" v.4, g
+"poder" v.4, h "por" v.4, i "cuando" v.6; chapter 6's a "las" v.2, b
+"barcos" v.2, c "piedras" v.3) confirmed matching page_587.txt exactly.
+The mandatory i/l/1 checks performed in Session A (footnote 5g's
+target letter t, chapter 5's own letter i) were independently re-run
+via a fresh `process_page.py` crop of pages_1879/page_0589.png (not
+reused from Session A), along with the discretionary checks on
+footnote 5b's target (e) and 5g's second target mark (2f); all four
+readings confirmed sound: "b, see e, Ether 4.", "g, see t, I. Nep.
+13.", "See 2f, Mor. 8.", "i, see g, II. Nep. 33." — exact matches. No
+discrepancies found; no corrections needed from Session B.
+Session D: `generate_block2.py 587` resolved 11 of 13 entries
+automatically; two (4369, 4372) hit the same known VEASE_CLAUSE-regex
+bug documented on pages 585/586 (multiple "Véase" clauses in one
+entry). Manually resolved: 4369's "Véase d, II Nefi 11" -> 410 (II
+Nefi 11's own d); 4372's three clauses "Véase t, I Nefi 13", "Véase e,
+III Nefi 29", "Véase 2f, Mormón 8" -> 103, 4016, 4214 respectively
+(each clause carried its own explicit book+chapter, so — unlike page
+586's z entry — all three resolved cleanly to bare numbers with no
+leftover literal book/chapter text). Content-fit sanity check passed
+emphatically for all 13 entries; three targets directly cite this very
+page back: 410 ("II Nefi 27:12; Éther 5:3-4; ...") for the footnote
+marking v.3's "tres" testigos; 790 ("Éther 4:8-10; 5:4-6; ...") for the
+footnote marking v.6's "cuando"; and 4310 ("Versículos 1,4,6; Éther
+6:2-3,10.") for both of chapter 6's cross-references back to Éther 3.
+Session E: fresh pptext regeneration
+(`workspace/report_wsl_20260805f.html`) found no new Spellcheck Suspect
+Words or Edit Distance flags attributable to this page — none of this
+page's distinctive vocabulary (sabiduría,
+tendréis, aquéllos, testificada, arrepintieren, obscuridad, tinieblas,
+lucieran, atravesasen) appears in either section's flagged-word lists.
+Line-number citations within this page's librodm.txt ranges (26151-26189
+body, 30884-30897 Block 2) all trace to the short/long-lines checks'
+routine verse-wrap boundaries, an already-established non-issue category
+for this project's line-length format — no genuine finding among them.
+Whole-document `check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, and `check_verse_indent.py` all re-run
+clean against `librodm.txt`/`librodm_foot.txt`. The footnote
+anchor<->Block 2 definition cross-check (whole document) came back
+clean: zero duplicate Block 2 numbers, zero
+anchored-but-undefined numbers, only the already-documented 812 (Jacob
+2:15) defined-but-not-anchored gap. A direct range scan of 1..4377 found
+zero missing numbers (besides 812), zero duplicate body anchors, zero
+out-of-range anchors — footnote range 4365-4377 fully accounted for.
+Direct curly-quote character scan of both master files came back clean
+(zero instances). Swept this page's own Corrections log per the
+mandatory-check requirement: no "suspected misprint, preserved as
+printed" items were logged on this page (unlike page 586's "ne"
+misprint), so nothing to promote to `errors in 1920.txt`. No
+narrow-space-vs-merge flags arose to batch for the editor. No
+`permitted words.txt` additions from this page.

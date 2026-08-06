@@ -6364,3 +6364,351 @@ instead:
   812. Whole-document `check_spaced_punctuation.py`,
   `check_footnote_punctuation.py`, and `check_verse_indent.py` all
   clean on both master files.
+- **2026-08-05**: Sessions A–E run for page 582 (Éther 2:25, finishing
+  chapter 2 mid-sentence, then CAPÍTULO 3 opens and runs 1-6, ending
+  mid-verse-6), footnotes 4307-4313, letters a-g (chapter 3's own
+  alphabet restart). None of this page's seven superscripts (a-g) are
+  i/l/1, so the mandatory Section 8 1879 check did not apply to any of
+  them; confirmed via direct zoom of each. One hyphenated line-break
+  split rejoined per rule 7 (v.25 continuation "sum-/mergidos"), one
+  more within CAPÍTULO 3 (v.6 "pro-/nunciado"); neither needed a rule 8
+  cascade, but a footnote-marker-caused overflow on the page's own last
+  line did — with both [4312]/[4313] markers inserted, "...vió el dedo
+  del Señor," reached 76 characters with no following image line on the
+  page to absorb the overflow, so "Señor," was displaced to the start
+  of page 583 per the same page-boundary logic as rule 10 (there for a
+  split word, here for marker overflow); page 582 itself ends "...vió
+  el dedo del".
+  Three genuine 1920-only findings this page, two resolved as NOT
+  errors and one confirmed as a real error: (1) v.25 "veáis
+  summergidos" — genuine double-m in print, confirmed archaic and
+  shared with 1886 (pages_1886/page_0596.png, book page 578), added to
+  `permitted words.txt`, no errors-log entry. (2) v.3 "estos años" — an
+  initial medium-zoom crop looked like it showed an accent on the "a"
+  (flagged per rule 36), but Google's OCR read plain "años" and a
+  follow-up 20x-zoom crop confirmed no diacritic at all — the apparent
+  mark was a scan artifact, not real type; matches the 2026-07-26
+  "trust Google's silence" precedent exactly. (3) v.2 "la caída."
+  (footnote c marker on "la") — the 1920 print genuinely shows a period
+  where the sentence continues ("nuestra naturaleza ha venido..." stays
+  lowercase), caught by the Google cross-check after an initial raw
+  read had silently smoothed it to a comma; confirmed via 1886
+  (pages_1886/page_0596.png, book page 578): a comma. This is now the
+  *third* instance of this exact 1920 misprint pattern in this same
+  neighborhood (after page 580 v.10 "posea." and page 581 footnote q
+  "volteados."); logged in `errors in 1920.txt` as "Éther 3:2 caída.
+  (caída,)", inserted in book/chapter/verse order after the existing
+  Éther 2:24 "superficia" entry. v.1 "subío" (non-standard í-accent)
+  also flagged but confirmed matching 1886 exactly — legitimate archaic
+  form, added to `permitted words.txt` alongside the new place name
+  "Shelem" (chapter 3's mountain, first occurrence in the document).
+  Session B independently re-verified all 7 Block 1 entries and all 7
+  `[N]` body markers against fresh crops (not reused from Session A) —
+  no discrepancies. Both `check_google_crosscheck.py` and
+  `check_line_wrap.py` turned out to only inspect this page's first 5
+  lines (their shared line-reading helper stops at the first blank line
+  after `Página N`, and this page's rule-3 blank line before `CAPÍTULO
+  3.` was mistaken for end-of-body) — noted as a tool limitation in the
+  page's Corrections log; the rest of the page was cross-checked
+  manually against `google_text_1920/page_0604.txt` directly, which is
+  in fact how the "la caída."/"años" findings above were caught.
+  Session E regenerated a fresh pptext report via WSL
+  (`workspace/report_wsl_20260805.html`) and used the line-range
+  technique to isolate this page's citations; besides the three
+  spellcheck words above, every other citation in range was the
+  already-documented "paragraph starts with upper-case word"/
+  standalone-number false-positive category. Whole-document
+  `check_spaced_punctuation.py`, `check_footnote_punctuation.py`, and
+  `check_verse_indent.py` all clean on both master files; whole-document
+  footnote-anchor/Block-2-definition cross-check re-run clean (zero
+  duplicate definitions, zero anchored-but-undefined numbers beyond the
+  already-documented Jacob 2:15/812 gap; footnote-number range 1-4313
+  fully accounted for, zero duplicates, zero missing beyond 812).
+- **2026-08-05**: Sessions A–E run for page 583 (Éther 3:6-17, the tail
+  of the "vió el dedo del Señor" theophany through Christ's declaration
+  "Yo soy Jesu Cristo... el Padre y el Hijo" and Moroni's closing note
+  that Jesus showed himself to this man as he did to the Nephites),
+  footnotes 4314-4323, letters h-q (continuing chapter 3's own a-g
+  alphabet from page 582). Two of this page's ten superscripts (i, l)
+  are on the mandatory Section 8 1879-check list; both confirmed via
+  fresh zoom (i = short stroke, separated dot; l = continuous unbroken
+  stroke) and independently against 1879 (file_page 585, book page
+  577, reached by paging forward from chapter_map.csv's listed 1879
+  page 583 — that page turned out to still be 1879's own longer,
+  differently-divided "Chapter III," containing unrelated earlier
+  verses; 1879's chapter divisions don't track 1920's page-for-page
+  here even within the same nominal chapter number). The discretionary
+  extension of that same 1879 check to a non-i/l/1 letter caught a
+  real letter misread: footnote p's cross-reference target, initially
+  read "Véase o, Éther 1." from a medium-zoom crop, was corrected to
+  "Véase e, Éther 1." after a tighter zoom crop and the 1879 page
+  ("p, see e, Ether 1.") both confirmed a script "e", not "o". A page-
+  boundary case new to this project's precedent: page 582's Corrections
+  log (previous session) had displaced the word "Señor," off its own
+  last line, reasoning that marker overflow ([4312]/[4313] brackets)
+  pushed the transcribed line past 72 chars with no following image
+  line on that page to absorb it. Direct inspection of the actual 1920
+  print this session showed the source line itself (with slim
+  superscript letters, not bracketed numbers) fits "...vió el dedo del
+  Señor," in full — the apparent word-split was purely an artifact of
+  this project's own bracketed footnote-marker notation, not a real
+  print-level word break. Per rule 8/10's page-boundary mechanism, this
+  page's transcription still begins with "Señor," prepended to the
+  actual first printed line, exactly as the prior session's Corrections
+  note anticipated. A second, ordinary rule-8 overflow (v.13's
+  redimido-marker line hitting 73 chars) needed one word moved to the
+  next line, no further cascade. A Google-crosscheck candidate (v.9 "Á
+  causa" — Google read plain "A") was confirmed via high-zoom crop to
+  be a genuine, clearly-printed accent and an ordinary OCR miss on an
+  accented capital, not a real ambiguity — no action taken. Session B
+  independently re-verified all 10 Block 1 entries and all 10 `[N]`
+  body markers against fresh crops of both the 1920 and 1879 pages (not
+  reused from Session A) — all reference text and marker placements
+  confirmed matching, including the corrected footnote-p reading; no
+  discrepancies. Session E regenerated a fresh pptext report via WSL
+  (`workspace/report_wsl_20260805b.html`) and used the line-range
+  technique to isolate this page's citations. One genuine new
+  spellcheck flag, "Enoch" (BoM/Biblical proper name in footnote
+  4318's text, matches 1920/1879 spelling exactly) — added to
+  `permitted words.txt`, no errors-log entry. One structural false
+  positive: "line starts with suspect punctuation" flagged the line
+  beginning "; y se convertirán..." — a direct, unavoidable consequence
+  of the v.14 "eterna-"/"mente" hyphen rejoin (rule 7) pushing the
+  following (already space-stripped, rule 31) semicolon to the start of
+  the next line, not a transcription defect. This page's own
+  Corrections log was swept against the mandatory 1886-comparison
+  check; none of its entries describe a suspected 1920 print misprint,
+  so no new `errors in 1920.txt` entries resulted. Whole-document
+  `check_spaced_punctuation.py`, `check_footnote_punctuation.py`, and
+  `check_verse_indent.py` all re-run clean on both master files;
+  whole-document footnote-anchor/Block-2-definition cross-check re-run
+  clean (zero duplicate definitions, zero anchored-but-undefined
+  numbers beyond the already-documented Jacob 2:15/812 gap;
+  footnote-number range 1-4323 fully accounted for, zero duplicates,
+  zero missing beyond 812); direct curly-quote character scan also
+  clean.
+- **2026-08-05**: Sessions A–E run for page 584 (Éther 3:18-28, the
+  brother of Jared's certain knowledge from having seen the Lord's
+  finger, through the Lord's instructions to write, seal, and later
+  reveal the sealed record and the two interpreter-stones), footnotes
+  4324-4337, letters r-2e (continuing chapter 3's own alphabet from
+  page 583, running past z into the two-letter 2a-2e forms). None of
+  this page's footnote letters or cross-reference target letters (r,
+  s, t, u, v, w, x, y, z, 2a-2e; targets f, e, n, h) fell in the
+  mandatory i/l/1 set, so no Section 8 1879 cross-check was
+  triggered — confirmed independently on both Session A's and
+  Session B's fresh crops. A real rule 7 hyphen-rejoin was caught in
+  the raw line-by-line pass: v.25's "le 2cmos-"/"tró al hermano"
+  split across the line break, rejoined to "mostró". Three Google
+  cross-check candidates were investigated and all resolved in favor
+  of the existing transcription: v.19 "sabía" (an apparent second
+  accent mark on the "a" was confirmed a stray speck via Google's
+  plain, ordinarily-accented OCR reading, per rule 36); v.25
+  "mostró" (Google misread a letterpress-damaged "ó" glyph as "í";
+  kept as "mostró" both on strong thematic grounds — the whole
+  passage repeats "mostrar" in v.18/25/26/27 — and the damaged
+  glyph's own faint accent-stroke remnant); and v.26 "cosas—le" (an
+  ordinary Google omission of a genuine em-dash, not a real
+  ambiguity). A genuine, if inconsistent, printed spelling was noted
+  and preserved: v.24 "hé aquí" carries an acute accent (confirmed by
+  tight zoom and independently corroborated by Google's OCR), while
+  v.23's "he aquí" earlier on the same page does not — both
+  transcribed exactly as printed, no misprint question since this
+  uses the document's normal acute accent, not an unusual mark under
+  rule 36. Session B independently re-verified all 14 Block 1
+  entries/markers against a fresh crop — no discrepancies. Session D
+  content-fit sanity check passed cleanly for every cross-reference,
+  including two book cross-references confirmed by direct lookup:
+  "z, Véase h, Éther 1" resolved to Éther 1h (the Tower-of-Babel
+  language-confounding footnote, matching "confundido" in v.24) and
+  "y/2b/2e, Véase n, Mosiah 8" all resolved to Mosíah 8n (the
+  interpreter-stones footnote, matching the "dos piedras" theme
+  running through v.23-28). Session E's pptext sweep found zero new
+  spellcheck or edit-distance flags from this page's vocabulary — no
+  `permitted words.txt` additions this session. No suspected 1920
+  misprints on this page, so no new `errors in 1920.txt` entries.
+  Whole-document `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, `check_verse_indent.py`, and the
+  footnote-anchor/Block-2-definition cross-check all re-run clean
+  (footnote range 1-4337 fully accounted for, zero duplicates, zero
+  missing beyond the already-documented Jacob 2:15/812 gap); direct
+  curly-quote character scan also clean.
+- **2026-08-05b**: Sessions A–E run for page 585 (Éther 4:1-10, the
+  start of a new chapter: Moroni's editorial explanation of why the
+  brother of Jared's sealed vision was hidden by King Mosíah and will
+  stay hidden until the Gentiles repent, plus the Lord's own words on
+  faith, sanctification, and the coming forth of these things),
+  footnotes 4338-4350, letters a-m (chapter 4's own alphabet, restarting
+  at `a`). This page's own lettering includes both i (9th letter, on
+  "Padre de los cielos" v.7) and l (12th letter, on "la tierra" v.9),
+  so the Section 8 mandatory 1879 check was triggered and run twice
+  (Sessions A and B, independently): pages_1879/page_0587.png confirms
+  i lands on "the Father of the heavens" and l on "the earth shall
+  shake," matching exactly, with every other letter/target (a-h, j, k,
+  m; targets s, n, a, a) also confirmed against the same 1879 page.
+  Two rule 7 hyphen rejoins ("excep-"/"ción" -> "excepción",
+  "santifi-"/"carse" -> "santificarse") and one rule 8 rebalance
+  (v.7's marker-lengthened "...de la tierra," line, 75 chars, moved
+  "tierra," to the next line) were caught in the mechanical pass.
+  Block 1 required several rule 23/24 range normalizations (consecutive
+  verse pairs printed with a comma in the original — "1, 2", "21, 22",
+  "7, 8", "29, 30" — hyphenated per rule 23). A genuine, if
+  inconsistent, printed accent variation was found and preserved:
+  footnotes c/f print "Mosíah" (accented) while footnote i prints
+  "Mosiah" (unaccented) twice, and footnotes a/b/e's "Éther" citations
+  are accented while footnote h's "Ether 3." is not — both confirmed
+  via tight zoom crops (including a Google-OCR conflict on the "Mosiah"
+  case: Google read it accented, but an extreme close-up crop showed no
+  diacritic glyph at all, so Google was judged to be over-reading its
+  own prior rather than evidence of a missed mark); treated as an
+  established non-error missing-accent pattern, not logged in `errors
+  in 1920.txt`. This page opens with a chapter heading right at the
+  very top (`Página 585` / blank / `CAPÍTULO 4.` / blank / v.1), which
+  is the known blind spot (first documented at page 505) that makes
+  `check_google_crosscheck.py`'s body_lines() helper find 0 chars and
+  skip the actual diff entirely; compensated with a manual line-by-line
+  read of `google_text_1920/page_0607.txt` against the transcription,
+  which confirmed everything including both of this page's suspected
+  misprints below.
+  Two genuine 1920-only grammar errors were found and logged in
+  `errors in 1920.txt` (Éther 4:7): "ejerzen" for "ejerzan" (1886,
+  RAE DLE, and the modern Spanish LDS edition all confirm "ejerzan";
+  "ejerzen" is not a valid form of "ejercer" in any mood at all, and
+  pptext's spellcheck section genuinely flags it, so it was also added
+  to `permitted words.txt`) and "pueden" for "puedan" (1886 doesn't
+  contain the corresponding clause at all — 1920 adds a phrase absent
+  from 1886 but present in 1879 English — so this was settled instead
+  by a whole-document grep showing this is the *only* exception among
+  15+ other "para que pued-" instances in `librodm.txt`, all
+  correctly subjunctive, plus RAE DLE and the modern edition's
+  reflexive rewording, which is also subjunctive; "pueden" is a
+  correctly-spelled ordinary word so no `permitted words.txt` entry
+  was needed).
+  Session D's `generate_block2.py 585` run mis-resolved footnote i
+  (4346) to the wrong number and silently dropped its three trailing
+  bare citations, producing "4346: Véase 1311." instead of the correct
+  "4346: Véase 1096; Mosiah 3:8; 4:2; 7:27; Helamán 16:18." Root cause:
+  the script's regex for a "Véase" clause runs to the entry's first
+  period (the very end for an entry combining a cross-reference with
+  trailing bare citations under one unterminated sentence), so the
+  whole span got fed to the single-clause resolver; its comma-based
+  book/chapter split then misparsed the trailing citation text as a
+  garbled "book name," and `FootIndex.find_book_id()`'s fuzzy
+  subset-match fallback let that garbage match the real "MOSIAH" book
+  section purely because the token "MOSIAH" happened to appear inside
+  it — landing on the wrong chapter (16 instead of 3). Manually
+  corrected in `librodm.txt`; footnote d (4341, "Véase s, I Nefi 13;
+  Mormón 8:14; Moroni 10:1-2.") hit the identical mis-parse path but
+  happened to stay safely unresolved only because I Nefi chapter 10 has
+  no letter s in `librodm_foot.txt` — not something to rely on for a
+  future page. This is a general `generate_block2.py` bug (any Block 1
+  entry mixing a "Véase" cross-reference with trailing bare citations
+  under one sentence is at risk), documented in the page's Corrections
+  log and flagged for the editor rather than patched this session.
+  Session E's pptext sweep (fresh WSL regeneration,
+  `report_wsl_20260805d.html`) found exactly one new spellcheck flag
+  from this page's vocabulary ("ejerzen," handled above); no edit-
+  distance match, no hyphenation/dash findings, no short/long-line
+  issues beyond the established benign verse-boundary/short-Block2-
+  entry pattern. Whole-document `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, `check_verse_indent.py`, and the
+  footnote-anchor/Block-2-definition cross-check all re-run clean
+  (footnote range 1-4350 fully accounted for, zero duplicates, zero
+  missing beyond the already-documented Jacob 2:15/812 gap); direct
+  curly-quote character scan also clean.
+- **2026-08-05c**: Sessions A–E run for page 586 (Éther 4:10-19, the
+  continuation of chapter 4 — the Lord's promises of manifestations,
+  greater things, and revelation to those who believe, closing with
+  the call to repent, be baptized, and the promise given to Moroni's
+  own generation), footnotes 4351-4364, letters n-z plus the two-letter
+  code 2a (chapter 4's own alphabet, continuing from page 585's `m`).
+  The page begins mid-verse (v.10 continuation) with no chapter
+  heading, so no blank line follows `Página 586` per rule 1 — this was
+  initially transcribed with a stray blank line by mistake and caught
+  by `check_line_wrap.py`'s 0-body-lines blind spot (the same one
+  documented at page 585, but this time a real bug rather than a
+  legitimate chapter-heading case), then fixed. Four rule 7 hyphen
+  rejoins and one rule 8 rebalance were caught mechanically. Two stray
+  ink specks (extra marks after "el" in "hacer el bien" and after the
+  comma in "estos anales,") were confirmed via 1886 comparison to be
+  printing debris rather than real punctuation, and not transcribed as
+  such — one of these was independently corroborated by Google's OCR
+  also picking up a stray period at the same spot. This page's own
+  footnote lettering contains no i or l itself, but cross-reference
+  target letter "i" (footnote t, "Véase i, II Nefi 25") triggered the
+  mandatory Section 8 check; the same 1879 comparison
+  (pages_1879/page_0588.png) also caught and corrected an independent
+  misread of footnote z's target letter, initially read from the 1920
+  image alone as "r" but confirmed by 1879 ("z, see e, III Nep. 29")
+  to be "e" instead — a swash-font shape-confusion case, not an i/l/1
+  ambiguity, resolved by the same cross-check procedure. One genuine
+  1920-only misprint was found and logged in `errors in 1920.txt`
+  (Éther 4:18): "ne" for "en" in "los que crean ne mi nombre" (a
+  letter transposition, confirmed via 1886 and the modern edition;
+  not flagged by pptext's spellcheck since "ne" is a novel one-off
+  non-word, so no `permitted words.txt` entry needed, per the "Jesu
+  Cristo" precedent). Session D's `generate_block2.py 586` run hit the
+  same known VEASE_CLAUSE-regex bug documented on page 585 (footnote z,
+  4363, a "Véase" clause followed by trailing content under one
+  un-terminated sentence); manually resolved both references ("e" to
+  this chapter's own footnote e, 4342; "2f, Mormón 8" to 4214, after
+  distinguishing it from an identically-numbered "8-2f" entry that
+  belongs to III Nefi's chapter 8 elsewhere in `librodm_foot.txt`).
+  Session E's fresh pptext regeneration (`report_wsl_20260805e.html`)
+  found no new spellcheck or edit-distance flags from this page's
+  vocabulary. Whole-document `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, `check_verse_indent.py`, and the
+  footnote-anchor/Block-2-definition cross-check all re-run clean
+  (footnote range 1-4364 fully accounted for, zero duplicates, zero
+  missing beyond the already-documented Jacob 2:15/812 gap); direct
+  curly-quote character scan also clean.
+- **2026-08-05d**: Sessions A–E run for page 587 (Éther 4:19's closing
+  two lines, then all of chapter 5 in full, then chapter 6 opening
+  verses 1-3 — Moroni's closing testimony of Éther, then the sealed-
+  plates/three-witnesses chapter, then the start of the account of the
+  shining stones), footnotes 4365-4377: chapter 4's continuing letter
+  2b (resolving the "2b, see d, Mos. 4" cross-reference that page 586's
+  Corrections log had flagged as present in 1879 but with no matching
+  1920 marker found on page 586 itself — the marker turned out to be
+  on this page instead, on "desde" in the v.19 continuation), chapter
+  5's full alphabet a-i (9 footnotes), and chapter 6's opening a-c (3
+  footnotes). No rule 7 hyphen rejoins were needed (no line-break
+  hyphens on this page). Three ambiguous-letter cases were resolved via
+  the mandatory/discretionary 1879 check (pages_1879/page_0589.png,
+  independently re-cropped fresh for Session B): footnote 5b's
+  cross-reference target letter, read as "c" from the 1920 image alone,
+  was corrected to "e" (Éther 4's own footnote e, 4342) — strongly
+  corroborated by content-fit, since 4342 itself cites "Éther 5:1"
+  directly, a natural mutual back-reference; footnote 5g's first target
+  letter, which looked close to "i" at zoom, was corrected to "t" (I
+  Nefi 13's own footnote t) via the mandatory i/l/1 check; and 5g's
+  second target mark, which looked like "gf", was corrected to "2f"
+  (Mormón 8's own footnote 2f), matching the identical pattern already
+  seen on page 586's footnote z. Chapter 5's own letter i (marking
+  "cuando" in v.6) was independently confirmed via the same mandatory
+  check with no change needed. `check_line_wrap.py` and
+  `check_google_crosscheck.py` both flagged false positives from the
+  same underlying limitation (their body-text extraction stops at the
+  page's FIRST blank line) — this page has an early chapter-heading
+  blank line after just 2 lines, before 30 more body lines across two
+  further chapters — so both were worked around manually: careful
+  direct per-line image reads for the line-wrap check, and a full
+  manual read of `google_text_1920/page_0609.txt` for the Google
+  cross-check, which corroborated every word of the transcription
+  including all three resolved ambiguous letters. Session D's
+  `generate_block2.py 587` hit the same known VEASE_CLAUSE-regex bug
+  documented on pages 585-586 (multi-clause "Véase" entries) for two
+  entries (4369, 4372); manually resolved to 410, and to 103/4016/4214
+  respectively — content-fit sanity check passed emphatically, with
+  three of the resolved targets (410, 790, 4310) directly citing this
+  very page's own verses back (Éther 5:3-4, 5:4-6, and 6:2-3,10). No
+  suspected 1920 misprints were found on this page (unlike page 586's
+  "ne" error), so no new `errors in 1920.txt` entries. Session E's
+  fresh pptext regeneration (`report_wsl_20260805f.html`) found no new
+  spellcheck or edit-distance flags from this page's vocabulary.
+  Whole-document `check_spaced_punctuation.py`,
+  `check_footnote_punctuation.py`, `check_verse_indent.py`, and the
+  footnote-anchor/Block-2-definition cross-check all re-run clean
+  (footnote range 1-4377 fully accounted for, zero duplicates, zero
+  missing beyond the already-documented Jacob 2:15/812 gap); direct
+  curly-quote character scan also clean.

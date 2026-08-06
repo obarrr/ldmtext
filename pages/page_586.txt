@@ -1,0 +1,197 @@
+Página 586
+discípulos, y si fuere que yo no hablare, juzgad, porque en el
+postrer día sabréis que yo soy Él que habla.
+11. Pero, á quienquiera que crea estas cosas que os anuncio,
+yo le visitaré con las [4351]manifestaciones de mi Espíritu; que poseerá
+y dará testimonio de ellas. Porque por mi Espíritu él sabrá que
+estas cosas son verdaderas; porque persuadirán á los hombres
+á hacer el bien.
+12. Porque todo lo que [4352]persuada á los hombres á hacer el
+bien es de mí, porque el bien no viene de nadie mas que de mí.
+Y yo soy Él que lleva á los hombres á hacer el bien. Quienquiera
+que [4353]no crea en mis palabras, no cree tampoco que yo
+soy; y él que no crea en mí, no creerá en el Padre que me envió.
+Porque, he aquí, que yo soy [4354]el Padre, y [4355]la luz, y la vida, y
+la verdad de mundo.
+13. Venid á mí, oh Gentiles; y os descubriré las cosas más
+[4356]grandes, cuyo conocimiento ha sido escondido á causa de la
+incredulidad.
+14. Venid á mí, oh vosotros casa de Israel, y se os será manifestado
+cuan grandes cosas el Padre ha reservado para vosotros
+desde la fundación del mundo; cosas que no han venido á vosotros,
+á causa de la incredulidad.
+15. He aquí, que cuando desgarraréis ese velo de incredulidad,
+que os retiene en vuestro afrentoso estado de perversidad, de
+dureza de corazón, y de ceguedad de entendimiento, entonces os
+serán descubiertas las [4357]grandes y maravillosas cosas que han estado
+ocultas de vosotros desde el [4358]principio del mundo; sí, cuando
+clamaréis al Padre en mi nombre, con un corazón quebrantado
+y un espíritu contrito, entonces sabréis que el Padre se ha acordado
+de la [4359]alianza que hizo con vuestros padres, oh casa de Israel;
+16. Y entonces serán mis revelaciones, las que yo he hecho
+escribir por mi siervo [4360]Juan, descubiertas á los ojos de todo
+el pueblo. Acordáos, cuando veáis estas cosas, sabréis que el
+tiempo está cerca, en él que serán manifestadas con toda realidad;
+17. Por lo cual sabréis, [4361]cuando recibiréis estos anales, que
+la obra del Padre ha empezado sobre toda la superficie del país.
+18. Por lo tanto, arrepentíos vosotros, todos los extremos
+de la tierra, y venid á mí, y creed en mi evangelio, y [4362]bautizáos
+en mi nombre; porque él que crea, y sea bautizado, se salvará;
+pero él que no crea, se condenará. Y [4363]señales acompañarán
+á los que crean ne mi nombre.
+19. Y bendito es él que sea hallado fiel á mi nombre en el
+postrer día, porque será [4364]levantado para habitar el reino que
+
+4n, 4351: Éther 5:4; Moroni 10:4-5.
+4o, 4352: Moroni 7:5-22; 10:6-7.
+4p, 4353: Versículo 10; III Nefi 28:34-35.
+4q, 4354: Véase c, Mosíah 15.
+4r, 4355: Véase m, Mosíah 16.
+4s, 4356: Véase k.
+4t, 4357: Véase i, II Nefi 25.
+4u, 4358: Véase d, Mosíah 4.
+4v, 4359: Véase j, III Nefi 15.
+4w, 4360: I Nefi 14:18-28.
+4x, 4361: III Nefi 21:1-11,26-29.
+4y, 4362: Véase u, II Nefi 9.
+4z, 4363: Véase e, III Nefi 29; Véase 2f, Mormón 8.
+4-2a, 4364: Véase p, Mosíah 23.
+
+Corrections
+Rule 7 hyphen rejoins (4): v.14's line-break split "mani-"/"festado"
+rejoined to "manifestado" (combined line 68 chars, under cap, no
+rule-8 cascade needed); v.14's line-break split "voso-"/"tros,"
+rejoined to "vosotros," (combined line 65 chars, no cascade); v.12's
+line-break split "Quien-"/"quiera" rejoined to "Quienquiera" (combined
+line 64 chars, no cascade); v.15's line-break split "acorda-"/"do"
+rejoined to "acordado" (combined line 68 chars, no cascade).
+Rule 8 rebalance: v.12's line "Porque, he aquí, que yo soy
+[4354]el Padre, y [4355]la luz, y la vida, y la" measured 75 chars
+with both markers inserted; moved "la" to the start of the next line
+("la verdad de mundo.") per rule 8.
+Rule 6 double-space normalization: v.15 "con un corazón  quebrantado"
+and "el Padre se  ha acordado" both printed with visibly wider gaps
+after "corazón" and "se"; normalized to a single space per the
+blanket justification-gap rule.
+Rule 31 space-before-semicolon cleanup: removed a printed space before
+the semicolon in nine instances across this page (v.11 "Espíritu ;",
+"verdaderas ;"; v.12 "soy ;"; v.13 "Gentiles ;"; v.14 "mundo ;"; v.15
+"Israel ;"; v.16 "realidad ;"; v.18 "nombre ;", "salvará ;").
+Stray ink specks, not reproduced as punctuation: v.11 "hacer el bien."
+shows a small mark immediately after "el" (before "bien") at high
+zoom that does not read as any plausible punctuation there; confirmed
+via 1886 (page_0600.png, same verse) reading plain "hacer el bien."
+with no mark. v.17 "estos anales, que" shows a second, fainter dot
+immediately after the comma, distinct from the comma itself; also
+confirmed via 1886 (page_0600.png) reading a single plain comma only,
+"estos anales, que". Both treated as printing debris, not transcribed
+as a second/different punctuation mark.
+Suspected 1920 misprint, v.18 "los que crean ne mi nombre" — preserved
+as printed per rule 32. Checked against 1886 (page_0600.png, same
+verse): 1886 reads "los que crean en mi nombre," confirming 1920's
+"ne" is a genuine transposition misprint for "en". Flagged for
+`errors in 1920.txt` (Éther 4:18); Session E to confirm via RAE/modern
+edition and add the permitted-words/errors entries as warranted (this
+is a real, correctly-spelled word "ne" is not — likely a straightforward
+typo track, not an archaic-spelling question).
+No i/l/1 mandatory 1879 cross-check letters found necessary to skip:
+this page's own footnote lettering (n through z, then 2a) contains no
+i or l itself, but footnote t's cross-reference target letter is "i"
+("Véase i, II Nefi 25"), so the Section 8 check was run. 1879
+(pages_1879/page_0588.png, chapter_map Éther 4 = file page 586,
+matching content landing on 1879 book-page 580) independently confirms
+"t, see i, II Nep. 25." exactly, along with every other letter and
+target on this page (n-z, 2a) matching 1920's citations exactly. This
+same 1879 comparison also caught and corrected an initial misread:
+footnote z's cross-reference target letter was first read from the
+1920 image alone as "r" ("Véase r, III Nefi 29"), but 1879's "z, see
+e, III Nep. 29" identified it as "e" instead; a same-page glyph
+re-comparison confirmed the swash font renders this superscript "e"
+with a shape close enough to the page's "r"/"z" strokes to explain the
+initial misreading, and the corrected "e" reading was used in Block 1
+above (target: this chapter's own footnote e, 4342, "Versículos
+5-7,13-16; II Nefi 27:6-11,15,17,21-22; Éther 5:1" — the entry cites
+both that cross-reference and a direct "III Nefi 29" citation,
+matching rule 25's mixed-citation format via a semicolon-joined
+second "Véase" clause).
+Google cross-check: `check_google_crosscheck.py 586` reported 3
+candidates beyond the usual dismissed footnote-marker-glue noise. Two
+are ordinary OCR accent noise, not transcription issues: "Él" read as
+"E" (dropped accent on a capital letter) and "Acordáos" read with a
+garbled "ã" in place of "á" (nonsense OCR character, not evidence of
+anything printed). The third is a genuine corroboration, not a new
+finding: Google's OCR independently picked up a period character
+right after "anales," at the exact spot already investigated above as
+a stray ink speck (not reproduced as punctuation, per the 1886
+comparison) — consistent with real ink being present there, but not
+changing the printing-debris conclusion already reached.
+Note for a future page (not a page 586 defect): 1879 page 580's
+footnote block includes one further entry, "2b, see d, Mos. 4.",
+immediately after 2a — with no corresponding 2b marker or entry found
+anywhere on 1920 page 586 (full page image checked; body text ends
+mid-verse 19 right where the footnote block begins). Either 1920's 2b
+falls on the next page (587) or this translation omits/relocates that
+particular cross-reference; worth a quick check when page 587 is
+transcribed, not treated as an error here.
+Session B: independently re-verified all 14 Block 1 entries and all 14
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) of the 1920 page. All reference text (letters n
+through z, then 2a, citations) and marker placements (before
+"manifestaciones" v.11, "persuada" v.12, "no crea" v.12, "el Padre"
+v.12, "la luz" v.12, "grandes" v.13, "grandes" v.15, "principio" v.15,
+"alianza" v.15, "Juan" v.16, "cuando" v.17, "bautizáos" v.18,
+"señales" v.18, "levantado" v.19) confirmed matching exactly. Full
+body text (v.10 continuation-19) re-read against fresh top/mid/bot
+crops, confirmed matching page_586.txt exactly, including all four
+hyphen rejoins, the rule-8 "la" rebalance, both stray-speck spots, and
+the "ne mi nombre" misprint. The mandatory i 1879 check performed in
+Session A (footnote t's target letter i -> "II. Nep. 25", via
+pages_1879/page_0588.png) was reviewed again independently and
+confirmed sound, along with every other letter/target on this page
+(n-z, 2a) matching 1920 exactly, including the corrected z target
+letter "e" ("e, III. Nep. 29"). No discrepancies found; no corrections
+needed from Session B.
+Session D: `generate_block2.py 586` left footnote z (4363, "Véase e,
+III Nefi 29; Véase 2f, Mormón 8.") unresolved — the same known
+VEASE_CLAUSE-regex bug documented on page 585 (a "Véase" clause
+followed by additional trailing content under one un-terminated
+sentence). Manually resolved: "e" -> 4342 (this chapter's own footnote
+e, confirmed via librodm_foot.txt line 4659); "2f, Mormón 8" -> 4214
+(confirmed by locating the correct "8-2f" entry — this exact
+chapter+letter combination appears twice in librodm_foot.txt, once
+under III NEFI at line 3820 and once under LIBRO DE MORMÓN at line
+4514; the book-boundary scan confirmed 4514 is the one inside the
+LIBRO DE MORMÓN section, matching the "Mormón 8" citation). Written to
+librodm.txt as "4363: Véase 4342; III Nefi 29; Véase 4214." following
+the existing multi-Véase convention seen elsewhere in the file (e.g.
+"995: Véase 29; Véase 6."). Content-fit sanity check passed for all 14
+of this page's resolved entries.
+Session E: whole-document `check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, and `check_verse_indent.py` all re-run
+clean against `librodm.txt`/`librodm_foot.txt`. The footnote
+anchor<->Block 2 definition cross-check (whole document) came back
+clean: zero duplicate Block 2 numbers, zero anchored-but-undefined
+numbers, only the already-documented 812 (Jacob 2:15) defined-but-not-
+anchored gap. A direct range scan of 1..4364 found zero missing
+numbers (besides 812), zero duplicate body anchors, zero out-of-range
+anchors — footnote range 4351-4364 fully accounted for. Direct
+curly-quote character scan of both master files came back clean (zero
+instances). Fresh `pptext` run (`workspace/report_wsl_20260805e.html`)
+found no new Spellcheck Suspect Words or Edit Distance flags
+attributable to this page — none of this page's distinctive vocabulary
+(manifestaciones, Quienquiera, desgarraréis, ceguedad, afrentoso,
+quebrantado, contrito, anales, bautizáos, acordado) appears in either
+section's flagged-word lists. Notably, "ne" (the v.18 misprint) is
+NOT flagged by pptext's spellcheck either — consistent with the
+project's documented caveat that a full-document aspell run can miss
+a brand-new, single-occurrence non-word; this does not weaken the
+`errors in 1920.txt` entry (already independently confirmed via 1886
+and the modern edition), and per the "Jesu Cristo" precedent, an
+unflagged word needs no `permitted words.txt` suppression entry.
+Swept this page's Corrections log per the mandatory-check requirement:
+the v.18 "ne mi nombre" misprint was the only suspected-error item
+logged, and it has now been added to `errors in 1920.txt` (Éther
+4:18, inserted after the existing Éther 4:7 entries, in book order).
+No narrow-space-vs-merge flags were logged on this page (no candidates
+of that type arose), so nothing to batch into this summary for the
+editor on that front. No permitted-words.txt additions from this page.

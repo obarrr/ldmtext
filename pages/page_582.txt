@@ -1,0 +1,156 @@
+Página 582
+abismo, excepto que yo os preparase en contra de las olas de la
+mar y de los vientos que han salido, y de los diluvios que han
+de venir? Por lo tanto, ¿qué es lo que queréis que yo prepare
+para vosotros, para que podáis tener luz, cuando os veáis summergidos
+en medio de las profundidades del mar?
+
+CAPÍTULO 3.
+
+1. Y sucedió, que el hermano de Jared, (ahora eran ocho los
+barcos que habían sido preparados,) subío al monte que llamaban
+el monte de Shelem, á causa de su extremada altura, y fundió
+de una roca diez y seis pequeñas piedras, blancas y [4307]transparentes
+como el cristal. Y llevándolas en su mano á la cima del monte,
+clamó allí al Señor, diciendo:
+2. Oh Señor, Tú has dicho [4308]que hemos de estar rodeados por
+las olas. Ahora, te suplico, oh Señor, que no mires mal á tu
+siervo por causa de su debilidad delante de Ti; porque sabemos
+que Tú eres santo, y que habitas los cielos, y que somos indignos
+delante de Ti; porque, á causa de [4309]la caída. nuestra naturaleza ha
+venido á ser mala continuamente; no obstante, oh Señor, Tú
+nos has dado el mandamiento de que clamemos á Ti, para que
+recibamos según nuestros deseos.
+3. He aquí, oh Señor, que Tú nos has castigado á causa de
+nuestras iniquidades; y nos has echado, y nos has hecho caminar
+por el desierto estos años; no obstante, Tú has sido misericordioso
+con nosotros. Oh Señor, ten piedad de mí, y retira tu cólera de
+este tu pueblo, y no permitas que atravesemos ese furioso abismo
+en la obscuridad; sino que mira estas [4310]cosas que he fundido de
+la roca.
+4. Porque yo sé, oh Señor, que Tú tienes todo poder, y que
+Tú puedes hacer cuanto quieras por el bien del hombre. Por lo
+tanto toca estas piedras, oh Señor, con [4311]tu dedo, y haz de manera
+que brillen en la obscuridad, para que brillen dentro de los barcos
+que hemos preparado, de modo que tengamos luz, mientras que
+atravesemos el mar.
+5. He aquí, oh Señor, Tú puedes hacer todo esto. Nosotros
+sabemos que Tú puedes mostrar gran poder, que parece pequeño
+al entendimiento de los hombres.
+6. Y sucedió, que cuando el hermano de Jared hubo pronunciado
+estas palabras, he aquí, que el Señor extendió su mano
+y tocó las piedras, una por una, con su dedo; y desapareciendo
+el [4312]velo de los ojos del hermano de Jared, [4313]vió el dedo del
+
+3a, 4307: De esto se ve que el arte de fabricar vidrio fué conocido aún en
+esa edad primitiva.
+3b, 4308: Éther 2:24-25.
+3c, 4309: Véase f, Mormón 9.
+3d, 4310: Versículos 1,4,6; Éther 6:2-3,10.
+3e, 4311: Versículos 6-9,19; Éther 12:19-21.
+3f, 4312: Versículos 19-20; Éther 12:19,21.
+3g, 4313: Véase e.
+
+Corrections
+v.25 (continuing from p.581) "veáis summergidos" — printed with a
+genuine double "m" (line breaks as "sum-" / "mergidos", both m's
+actually printed, not an artifact of rejoining). Confirmed via 1886
+(pages_1886/page_0596.png, book page 578, same verse): "cuando os
+veáis summergidos" — identical double-m spelling. Legitimate archaic
+form shared with 1886, not a 1920-only error; no `errors in 1920.txt`
+entry needed. Added to `permitted words.txt` (will fail spellcheck
+otherwise).
+v.3 "estos años" — an initial medium-zoom crop appeared to show an
+accent mark on the "a", flagged as a possible unusual-accent case per
+rule 36. Per that rule's mandatory check, cross-referenced against
+Google's OCR text (`google_text_1920/page_0604.txt`), which reads
+plain "años" with no accent; a follow-up crop at much higher zoom
+(20x, narrow band) then showed clearly that the "a" has no diacritic
+at all — the apparent mark in the first crop was a scan/rendering
+artifact, not real type. Confirmed no-accent also matches 1886
+(pages_1886/page_0596.png, book page 578, same verse: "estos años").
+Transcribed as plain "años"; no `errors in 1920.txt` entry (see the
+rule 36 note on the 2026-07-26 precedent for this exact failure
+pattern — trust Google's silence over an initial zoom impression).
+v.1 "subío" — non-standard accent placement (í not ó) but confirmed
+matching 1886 (pages_1886/page_0596.png, book page 578, same verse):
+"subío al monte que" — identical spelling. Legitimate archaic form
+shared with 1886, not an error.
+v.2 "la caída. nuestra naturaleza ha" — the 1920 print genuinely shows
+a period after "caída", not a comma (confirmed at high zoom: plain
+round dot on the baseline; "nuestra" also prints lowercase right after
+it), even though the sentence grammatically continues. Preserved as
+printed per rule 32; matches the identical pattern already documented
+on pages 580 (v.10 "posea.") and 581 (footnote q "volteados."). This
+was caught by the Google cross-check (`google_text_1920/page_0604.txt`
+line 16 reads "...causa de lacaída. nuestra...") after an initial raw
+transcription had silently smoothed it to a comma — confirmed via 1886
+(pages_1886/page_0596.png, book page 578, same verse): "de la caida,
+nuestra naturaleza ha venido" — a comma, confirming the 1920 period is
+a genuine misprint. Flagged for `errors in 1920.txt`: "Éther 3:2
+caída. (caída,)".
+v.2 "delante deTi" (first instance) — printed with little/no gap
+between "de" and "Ti"; per the editor's 2026-07-22 default-to-two-words
+guidance (grammar requires "de Ti" as two words, and the second
+instance of the same phrase two lines later prints a normal gap),
+transcribed as "de Ti" with a normal single space, not raised as a
+standalone question.
+End-of-page word displaced to page 583: the last printed line ends
+"...hermano de Jared, [4313]vió el dedo del Señor," but with both
+footnote markers inserted this line reaches 76 characters (over the
+72-char cap). Since this is the page's last line (no following image
+line on this page to absorb the overflow per rule 8's normal
+mechanism), "Señor," was moved off the end — page 582 ends "...vió el
+dedo del" and page 583's transcription should begin with "Señor,"
+continuing v.6, per the same displaced-word logic as rule 10's
+page-boundary word-split case (here triggered by marker overflow
+rather than a hyphenated word).
+Both `check_google_crosscheck.py` and `check_line_wrap.py` only
+inspected the first 5 lines of this page (their shared `body_lines()`
+helper stops at the first blank line after `Página N`, and this page's
+blank line before `CAPÍTULO 3.` — a legitimate rule-3 chapter-heading
+separator — is mistaken for end-of-body). `check_line_wrap.py`'s
+resulting "34-line" OCR mismatch and low-short-line-count flags are
+false positives from that truncation, not a real reflow signal; the
+full page was still read and verified line-by-line against the
+top/mid/bot image crops per rules 5/6 as usual.
+`check_google_crosscheck.py`'s 5 real lines came back clean (0
+candidates); the rest of the page was cross-checked manually against
+`google_text_1920/page_0604.txt` directly, which is how the "la
+caída."/"años" findings above were actually caught.
+No i/l/1 superscript letters on this page (a-g all confirmed via
+direct zoom of fn_zoom and body-text positions), so the mandatory
+Section 8 1879 cross-check does not apply to any of this page's
+footnotes.
+Session E: regenerated `workspace/report_wsl_20260805.html` from scratch
+(WSL pptext run) and used the line-range technique to isolate every
+citation touching this page's body (lines 25935-25978) and Block 2
+entries (30608-30615) in `librodm.txt`. Three genuine spellcheck flags
+confirmed: "Shelem" (BoM place name, first occurrence), "subío", and
+"summergidos" (both already confirmed archaic/matching-1886 in Session
+A) — all three added to `permitted words.txt`. Every other citation in
+range was the already-documented "paragraph starts with upper-case
+word"/standalone-number false-positive category (verse numbers opening
+a sentence, `N:` footnote citations) — spot-checked, no new issues.
+Whole-document `check_spaced_punctuation.py` (librodm.txt +
+librodm_foot.txt), `check_footnote_punctuation.py`, and
+`check_verse_indent.py` all re-run clean. Whole-document footnote
+anchor/Block-2-definition cross-check re-run clean: zero duplicate
+definitions, zero anchored-but-undefined numbers beyond the
+already-documented Jacob 2:15/812 print-original gap; anchor range
+1-4313 fully accounted for with no gaps/duplicates. "Éther 3:2 caída."
+finding (see above) added to `errors in 1920.txt`, inserted in
+book/chapter/verse order immediately after the existing Éther 2:24
+"superficia" entry.
+Session B: independently re-verified all 7 Block 1 entries and all 7
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) — all reference text (letters a through g, citations)
+and marker placements (before "transparentes" v.1, "que" v.2, "la
+caída" v.2, "cosas" v.3, "tu dedo" v.4, "velo" v.6, "vió" v.6) confirmed
+matching exactly. Full body text (v.25 continuation, CAPÍTULO 3, v.1-6)
+re-read against fresh top/mid/bot crops, confirmed matching
+page_582.txt word-for-word, including "summergidos", plain "años", and
+"la caída." with a period. No letters on this page are i/l/1, so the
+mandatory Section 8 1879 check does not apply; independently
+reconfirmed this by re-reading each of the seven superscripts (a-g)
+directly. No discrepancies found; no corrections needed from Session B.

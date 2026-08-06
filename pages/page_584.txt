@@ -1,0 +1,147 @@
+Página 584
+18. Y le ministró, como ministró á los Nefitas; y todo esto
+para que este hombre conociera que era Dios, á causa de las
+grandes obras que el Señor le mostró,
+19. Y por tanto, á causa del conocimiento de este hombre,
+no pudo impedirle que viera [4324]adentro del velo; y [4325]vió el dedo
+de Jesús, y viéndolo [4326]cayó lleno de temor; porque sabía que era
+el dedo del Señor. Y no fué fe por más tiempo, porque lo supo
+sin ninguna duda.
+20. Por lo tanto, teniendo este perfecto conocimiento del
+Señor, fué imposible el impedirle que le viera [4327]dentro del velo;
+por lo que vió á Jesús que le [4328]ministró.
+21. Y sucedió, entonces, que el Señor dijo al hermano de Jared:
+He aquí, que tú no permitirás que vayan al mundo estas cosas
+que has visto y oído, hasta el [4329]tiempo en que yo glorifique mi
+nombre en la carne; por lo que atesorarás en tu corazón estas
+cosas que has visto y oído, y no las mostrarás á ningún hombre.
+22. Pero, he aquí, que cuando tú vengas á mí, las [4330]escribirás,
+y las sellarás, para que nadie pueda interpretarlas; para lo que
+las escribirás en una lengua que no pueda ser leída.
+23. Y, he aquí, que daré estas [4331]dos piedras que sellarás también
+con las cosas que escribas.
+24. Porque, hé aquí, que he [4332]confundido la [4333]lengua en la que
+tú escribas, por lo tanto, á mí propio tiempo haré que estas
+piedras [4334]manifiesten á los hombres las cosas que tú escribieres.
+25. Y cuando el Señor hubo pronunciado estas cosas, le [4335]mostró
+al hermano de Jared todos los habitantes que habían en la
+tierra, y todos los que habían de haber; sin ocultarles de su vista,
+aún hasta el fin del mundo;
+26. Porque Él le había dicho en otro tiempo: Que si creyere
+en Él, que Él tenía poder para mostrarle todas las cosas—le
+serían manifestadas; por lo tanto, el Señor no pudo rehusarle
+ninguna cosa, porque él sabía que el Señor podía mostrarle todas
+las cosas.
+27. Y el Señor le dijo: Escribe estas cosas, y [4336]séllalas, y yo
+las mostraré á los hijos de los hombres en mi propio y debido
+tiempo.
+28. Y sucedió, que mandó el Señor que [4337]sellara las dos piedras
+que había recibido, y que no se las mostrara á nadie hasta el
+tiempo en que el Señor dispusiera que aparecieran á los hijos de
+los hombres.
+
+3r, 4324: Véase f.
+3s, 4325: Véase e.
+3t, 4326: Versículo 6.
+3u, 4327: Véase f.
+3v, 4328: Versículo 18.
+3w, 4329: Éther 4:1-2.
+3x, 4330: Versículo 27.
+3y, 4331: Véase n, Mosiah 8.
+3z, 4332: Véase h, Éther 1.
+3-2a, 4333: Versículo 22.
+3-2b, 4334: Véase n, Mosiah 8.
+3-2c, 4335: Versículo 26; Éther 4:4.
+3-2d, 4336: II Nefi 27:6-23; Mosiah 28:11-20; Alma 37:21-31.
+3-2e, 4337: Véase n, Mosiah 8.
+
+Corrections
+Rule 7 hyphen rejoin: v.25's line-break split "mos-" / "tró" (marker
+2c immediately before "mos-" in the original) rejoined to "mostró";
+combined line length (67 chars) stayed under the cap, no rule-8
+cascade needed.
+Rule 23 range formatting: footnote w's citation "Éther 4:1, 2" (two
+consecutive verses) normalized to "Éther 4:1-2" per rule 23.
+Google cross-check candidate v.19 "porque sabía que era" — a
+high-zoom crop of "sabía" showed what first looked like a second,
+grave-shaped accent mark over the "a" in addition to the normal
+acute on "í". Per rule 36, checked against Google's OCR
+(`google_text_1920/page_0606.txt`), which reads the plain, ordinarily
+accented "sabía" with no second mark — so the apparent extra mark is
+a stray speck/scan artifact, not a real accent; transcribed as
+ordinary "sabía".
+v.24 "hé aquí" — this instance is printed with an acute accent on
+"hé" (verb "haber"), while v.23's "he aquí" earlier on the same page
+is unaccented. Confirmed via tight zoom (clear, unambiguous acute
+mark) and independently corroborated by Google's OCR
+(`google_text_1920/page_0606.txt` line 22, which also reads "hé
+aquí"), so this is a genuine, if inconsistent, printed spelling
+within the page — not a misread. Since it uses the document's normal
+acute accent (not an unusual mark under rule 36), no further check
+was needed; transcribed exactly as printed on each occurrence.
+Google cross-check candidate v.25 "le mostró al hermano" — Google's OCR
+read "mostrí" instead of "mostró". A tight zoom of that glyph shows a
+damaged/partially-inked circle (left side missing, consistent with
+letterpress ink starvation) with a faint diagonal accent stroke at
+upper right, not a clean "í". Given the verb "mostrar" (to show) is
+the dominant theme of this whole passage (repeated as "mostró"/
+"mostrarle"/"mostraré" in v.18, 25, 26, 27), "mostró" is essentially
+certain; kept as transcribed, treating the glyph as print-damaged
+rather than a genuine "í" misprint.
+Google cross-check candidate v.26 "cosas—le" — Google's OCR dropped
+the em-dash entirely (mine: "cosas—le", google: "cosasle"); the image
+clearly shows an em-dash at that position, not a line-break hyphen or
+missing punctuation — an ordinary Google OCR omission, no action
+needed.
+No suspected 1920 misprints found on this page. All footnote letters
+and cross-reference target letters on this page (r, s, t, u, v, w, x,
+y, z, 2a-2e; targets f, e, n, h) fall outside the mandatory i/l/1
+set, so no Section 8 1879 cross-check was triggered.
+Session B: independently re-verified all 14 Block 1 entries and all
+14 `[N]` body markers against a fresh `process_page.py` crop (not
+reused from Session A) of the 1920 page. All reference text (letters
+r through 2e, citations) and marker placements (before "adentro"/
+"vió" v.19, "cayó" v.19, "dentro" v.20, "ministró" v.20, "tiempo"
+v.21, "escribirás" v.22, "dos" v.23, "confundido"/"lengua" v.24,
+"manifiesten" v.24, "mostró" v.25, "séllalas" v.27, "sellara" v.28)
+confirmed matching exactly. Full body text (v.18-28) re-read against
+fresh top/mid/bot crops, confirmed matching page_584.txt exactly,
+including the "mos-"/"tró" rejoin and the "hé aquí"/"he aquí" accent
+distinction. No i/l/1 letters present anywhere on this page
+(letters or targets), confirmed again on this independent read. No
+discrepancies found; no corrections needed from Session B.
+Session E: regenerated `workspace/report_wsl_20260805c.html` from
+scratch (WSL pptext run) and used the line-range technique to isolate
+every citation touching this page's body (lines 26021-26061) and
+Block 2 entries (30716-30729) in `librodm.txt`. No new spellcheck or
+edit-distance flags from this page's vocabulary (none of its words
+appear in either section of the report at all). The only report
+section touching this page's line range was the "short lines check"
+(structural, already an established false-positive category for this
+project's multi-line verse wrapping — every hit is an ordinary
+verse-boundary short line, not a real defect). Dash check's
+hyphen-minus bucket picked up this page's two legitimate ranges
+("Éther 4:1-2" line 30721, the II Nefi/Mosiah/Alma ranges line
+30728) — both ordinary verse-range hyphens, no em-dash/genuine-dash
+issue. Footnote check's merged anchor+footnote-bucket range confirms
+1-4337 fully accounted for with no gaps or duplicates (the two
+apparent gaps at 4301/4320 are both present in the "found footnotes"
+start-of-line bucket, not real omissions, and both predate this
+page). Whole-document footnote anchor <-> Block 2 definition
+cross-check re-run clean: zero duplicate definitions, zero
+anchored-but-undefined numbers, only the already-documented Jacob
+2:15/812 defined-but-unanchored gap. Whole-document
+`check_spaced_punctuation.py` (librodm.txt + librodm_foot.txt),
+`check_footnote_punctuation.py`, and `check_verse_indent.py` all
+re-run clean. Direct whole-document curly-quote character scan
+(""'') also re-run clean. This page's own Corrections log entries
+above were swept against the mandatory 1886-comparison check: none
+describe a suspected 1920 print misprint (the mos-/tró and Éther
+4:1,2 items are mechanical rule 7/23 applications; the "sabía" and
+"cosas—le" items are resolved Google cross-check candidates that
+confirmed the existing transcription; the "hé aquí" item is a
+genuine but ordinary spelling-consistency note, not a misprint
+question; the "mostró" item is a print-damage identification, not a
+1920-vs-1886 divergence), so no new `errors in 1920.txt` entries
+result from this page. No narrow-space-vs-merge notes to batch for
+the editor from this page.

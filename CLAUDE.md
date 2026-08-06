@@ -85,51 +85,46 @@ NNN often doesn't repeat "page NNN" in its own header. If a page has
 more than one matching entry, the latest date is the current, correct
 state — earlier entries may have been reversed.
 
-- **2026-08-04**: Sessions A–E run for page 581 (Éther 2:16-25,
-  continuing chapter 2, ending mid-verse-25), footnotes 4302-4306,
-  letters n-r (continuing chapter 2's alphabet from page 580's j-m).
-  None of this page's five superscripts (n, o, p, q, r) are i/l/1, so
-  the mandatory Section 8 1879 check did not apply to any of them;
-  confirmed via direct zoom of each. Three hyphenated line-break splits
-  rejoined per rule 7 (v.18 "dici-/endo" and "con-/struido", v.22
-  "¿con-/sentirás"), none needing a rule 8 cascade. Footnote q (v.20
-  marker "fondo") is an unusually long entry — a multi-sentence
-  explanatory footnote (not just a bare citation) describing how the
-  barges' two air-holes worked, ending in an "Éther 6:6,7,10." cross-
-  reference; confirmed against 1879 (pages_1879/page_0583.png, same q
-  footnote, English "Both of these air-holes...") to have the same
-  structure and content. Two genuine 1920-only errors found within
-  that footnote q text, both confirmed via 1879 since this edition of
-  1886 carries no footnotes at all: "volteados." printed with a period
-  where the sense continues as one clause (1879's "turned bottom
-  upwards" is a single continuous clause, matching the pattern already
-  logged for page 580 v.10 "posea."; also independently caught by
-  pptext's "full stop followed by unexpected sequence" check) and
-  "superficia" printed for "superficie" (1879's "surface" confirms;
-  also independently flagged by pptext's spellcheck/edit-distance
-  check, 1 occurrence vs. 69 elsewhere in the document). Both logged in
-  `errors in 1920.txt` as "Éther 2:24 (nota q) volteados. (volteados,)"
-  and "Éther 2:24 (nota q) superficia (superficie)"; `superficia` added
-  to `permitted words.txt` per rule 10. V.24's "Puesque" (one word) was
-  also flagged for review but turned out to need no action — already
-  used 12+ times earlier in the document and already present in
-  `permitted words.txt`, and 1886 (book page 577/file 595) prints the
-  identical form, confirming it's a legitimate archaic spelling shared
-  with 1886. Session B independently re-verified all 5 Block 1 entries
-  and all 5 `[N]` body markers against fresh crops (not reused from
-  Session A) — no discrepancies. `check_google_crosscheck.py` flagged
-  two spots, both resolved as OCR noise after zooming (a dropped colon
-  after "diciendo," and a stray inserted apostrophe at a line-wrap
-  boundary, neither present in the actual print). Whole-document
-  footnote-anchor/Block-2-definition cross-check re-run clean: zero
-  duplicate definitions, zero anchored-but-undefined numbers beyond the
-  already-documented Jacob 2:15/812 print-original gap; footnote-number
-  range check (1-4306) also clean, zero duplicates, zero missing beyond
-  812. Whole-document `check_spaced_punctuation.py`,
-  `check_footnote_punctuation.py`, and `check_verse_indent.py` all
-  clean on both master files.
-- **Next page**: 582, full A–E cycle, first footnote 4307.
-- **Completed pages**: 437–581, Sessions A–E fully done through page 581.
+- **2026-08-05d**: Sessions A–E run for page 587 (Éther 4:19's closing
+  two lines, then all of chapter 5 in full, then chapter 6 opening
+  verses 1-3), footnotes 4365-4377: chapter 4's continuing letter 2b
+  (resolving the "2b, see d, Mos. 4" cross-reference page 586's
+  Corrections log had flagged as present in 1879 with no matching 1920
+  marker found on page 586 — the marker was on this page instead, on
+  "desde" in the v.19 continuation), chapter 5's full alphabet a-i, and
+  chapter 6's opening a-c. No rule 7 hyphen rejoins were needed. Three
+  ambiguous-letter cases were resolved via the mandatory/discretionary
+  1879 check (pages_1879/page_0589.png): footnote 5b's target letter,
+  read as "c" from the 1920 image alone, corrected to "e" (Éther 4's
+  own footnote e, 4342 — corroborated by content-fit, since 4342 cites
+  "Éther 5:1" directly); footnote 5g's first target letter, which
+  looked close to "i", corrected to "t" (I Nefi 13's own footnote t)
+  via the mandatory i/l/1 check; and 5g's second target mark, which
+  looked like "gf", corrected to "2f" (Mormón 8's own footnote 2f),
+  matching page 586's footnote z pattern. Chapter 5's own letter i
+  (marking "cuando" v.6) was independently confirmed with no change.
+  `check_line_wrap.py` and `check_google_crosscheck.py` both hit the
+  same limitation (body-text extraction stops at the page's FIRST
+  blank line, which lands after just 2 lines on this page, before 30
+  more body lines across two further chapters) and were worked around
+  manually — a full read of `google_text_1920/page_0609.txt`
+  corroborated every word of the transcription including all three
+  resolved letters. Session D's `generate_block2.py 587` hit the same
+  known VEASE_CLAUSE-regex bug documented on pages 585-586 for two
+  multi-clause entries (4369, 4372); manually resolved to 410, and to
+  103/4016/4214 — content-fit passed emphatically, with three resolved
+  targets (410, 790, 4310) directly citing this page's own verses back
+  (Éther 5:3-4, 5:4-6, 6:2-3,10). No suspected 1920 misprints were
+  found on this page, so no new `errors in 1920.txt` entries. Session
+  E's fresh pptext regeneration (`report_wsl_20260805f.html`) found no
+  new spellcheck or edit-distance flags. Whole-document
+  `check_spaced_punctuation.py`, `check_footnote_punctuation.py`,
+  `check_verse_indent.py`, and the footnote-anchor/Block-2-definition
+  cross-check all re-run clean (footnote range 1-4377 fully accounted
+  for, zero duplicates, zero missing beyond the already-documented
+  Jacob 2:15/812 gap); direct curly-quote character scan also clean.
+- **Next page**: 588, full A–E cycle, first footnote 4378.
+- **Completed pages**: 437–587, Sessions A–E fully done through page 587.
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom
