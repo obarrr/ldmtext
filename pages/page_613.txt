@@ -1,0 +1,322 @@
+Página 613
+emprender la retirada; lo que hicieron hacia el [4522]Sud, plantando
+sus tiendas en el lugar llamado Ogath.
+11. Y ocurrió, que el ejército de Coriántumr plantó sus tiendas
+junto al [4523]cerro de Rámah; que era el mismo cerro, donde mi
+padre Mormón [4524]ocultó los sagrados anales para el Señor.
+12. Y sucedió, que recogieron á todos los habitantes del país
+que no habían perecido, á excepción de Éther;
+13. Y sucedió, que Éther [4525]presenció todos los hechos de este
+pueblo; y vió como el pueblo que estaba por Coriántumr, se
+agregaba al ejército de Coriántumr; y el pueblo que estaba por
+Shiz, se reunía al ejército de Shiz;
+14. Por lo tanto, estuvieron uno y otro recogiendo al pueblo por
+espacio de cuatro años, por toda la superficie del país, con objeto
+de aumentar sus fuerzas tanto como les fuere posible.
+15. Y vino á suceder, que cuando les hubieron reunido todos,
+cada uno al ejército al que pertenecía, con sus mujeres ó hijos,
+les [4526]armaron todos, tanto hombres como mujeres y niños, con
+las armas de guerra, cubriéndose con escudos, corazas y cascos,
+y vestidos al estilo de la guerra; y marcharon á encontrarse unos
+contra otros para dar la batalla; y pelearon todo aquel día, sin
+que se decidiera la victoria.
+16. Y vino á suceder, que al llegar la noche se retiraron á sus
+respectivos campos, rendidos de cansancio; y después que se
+hubieron retirado á sus campos, [4527]empezaron á ahullar y lamentar
+por los que habían muerto de su pueblo; y tan grandes eran sus
+lamentos, aullidos y gritos, que partían el aire.
+17. Y acaeció, que volvieron segunda vez á la batalla en la
+mañana siguiente, y grande y terrible fué aquel día; no se declaró
+la victoria por ninguna parte, y cuando llegó la noche [4528]llenaron
+otra vez el aire con sus lamentos, sus gritos y sus gemidos por la
+pérdida de sus muertos.
+18. Y sucedió, que Coriántumr escribió [4529]otra vez á Shiz,
+deseando, que no volviera más á batallar, dándole el reino, si
+conservaba la vida al pueblo.
+19. Pero, he aquí, que el Espíritu del Señor había dejado de
+contender con ellos, y satán se había apoderado completamente
+de sus corazones, y ellos se dieron á la dureza más grande de sus
+corazones, y á la ceguedad de sus mentes, para que fuesen
+destruidos; por lo tanto, volvieron otra vez á la batalla;
+20. Y ocurrió, que duró todo el día, y cuando llegó la noche,
+durmieron sobre sus espadas;
+21. Y en la mañana siguiente pelearon otra vez hasta que
+llegó la noche;
+
+15d, 4522: Yendose hacia el Sud les llevó a la región, cerca del cerro
+llamado por los Nefitas, Cumorah.
+15e, 4523: Rámah fué el cerro de Cumorah.
+15f, 4524: Mormón 6:6.
+15g, 4525: Éther 13:14.
+15h, 4526: Éther 10:27.
+15i, 4527: Versículo 17.
+15j, 4528: Versículo 16.
+15k, 4529: Versículo 4.
+
+Corrections
+Page structure — page 613 opens MID-verse Éther 15:10, continuing from
+page 612 (page 612 ended "...que les batieron, obligándoles á", last
+word "á" NOT hyphenated, so no page-boundary word-split; the first body
+line here begins with the next word "emprender", continuing v.10). Per
+the carried-over-chapter convention the first body line follows
+"Página 613" with NO blank line. The whole page is Éther 15:10-21, one
+chapter (Éther 15, opened on page 612). Page ends MID-chapter at v.21
+("...pelearon otra vez hasta que llegó la noche;" — ends with a
+semicolon); last word "noche" NOT hyphenated, so no page-boundary
+word-split — page 614 continues with v.22.
+
+Raw line count: 43 image print lines read line-by-line from the
+top/mid/bot crops. NO end-of-line hyphen splits on this page (rule 7
+not triggered), so raw count = final body line count = 43.
+check_lines.py clean (all < 73); longest line is v.16's
+"hubieron retirado á sus campos, [4527]empezaron á ahullar y lamentar"
+at 71 chars.
+
+Rule 31 — space before punctuation removed (the 1920 print sets a space
+before the semicolon throughout this page): "retirada ;" (v.10),
+"Rámah ;" (v.11), "Éther ;" (v.12), "pueblo ;" / "Coriántumr ;" /
+"Shiz ;" (v.13), "guerra ;" / "batalla ;" (v.15), "cansancio ;" /
+"pueblo ;" (v.16), "día ;" (v.17), "destruidos ;" / "batalla ;" (v.19),
+"espadas ;" (v.20), "noche ;" (v.21). Footnote block rule 22 — colon
+spaces removed: "Mormón 6 : 6." -> "Mormón 6:6." (15f),
+"Éther 13 : 14." -> "Éther 13:14." (15g), "Éther 10 : 27." ->
+"Éther 10:27." (15h).
+
+Rule 6 — inter-word spacing normalized to one space throughout; no gaps
+markedly wider than the line's justified spacing were found (this page's
+column is set fairly evenly).
+
+Footnote markers — 8 on this page, all in Éther 15 (chapter opened on
+page 612 with 15a-15c; letters continue d..k here, global number
+continues from page 612's 4521):
+ - 15d = [4522] before "Sud" (v.10) — annotates "hicieron hacia el Sud".
+   Block 1: an explanatory note "Yendose hacia el Sud les llevó a la
+   región, cerca del cerro llamado por los Nefitas, Cumorah." (printed
+   "Yendose" without the accent and "llevó a la" with unaccented "a" —
+   both preserved as printed, rule 32; missing accents, Session E).
+ - 15e = [4523] before "cerro" (v.11) — annotates "cerro de Rámah".
+   Block 1: "Rámah fué el cerro de Cumorah."
+ - 15f = [4524] before "ocultó" (v.11) — annotates "Mormón ocultó los
+   sagrados anales". Block 1: "Mormón 6:6."
+ - 15g = [4525] before "presenció" (v.13) — annotates "Éther presenció
+   todos los hechos". Block 1: "Éther 13:14."
+ - 15h = [4526] before "armaron" (v.15) — annotates "les armaron todos".
+   Block 1: "Éther 10:27."
+ - 15i = [4527] before "empezaron" (v.16) — annotates "empezaron á
+   ahullar y lamentar". Block 1: "Versículo 17."
+ - 15j = [4528] before "llenaron" (v.17) — annotates "llenaron otra vez
+   el aire". Block 1: "Versículo 16."
+ - 15k = [4529] before "otra" (v.18) — annotates "escribió otra vez á
+   Shiz". Block 1: "Versículo 4."
+Footnote-entry letter 15i is an "i" -> MANDATORY 1879 check (Section 8)
+performed now at transcription. chapter_map lists Éther 15 = 1879 file
+page 613, but 1879's pagination runs behind: 15a is on 1879 p.613, d-g
+on 1879 p.614, and h-k on 1879 p.615. 1879 p.615 footnote block prints,
+in a clean italic typeface: "h, Ether 10 : 27.   i, ver. 17.
+j, ver. 16.   k, ver. 4." — the "i" and "j" are unambiguous (dotted i;
+j with dot + descender). 1879 body p.615 places its markers: v.15
+"being ^h armed with weapons of war" (= 1920 [h] before "armaron"),
+v.16 "they ^i took up a howling and a lamentation" (= 1920 [i] before
+"empezaron á ahullar y lamentar"), v.17 "they did ^j rend the air with
+their cries" (= 1920 [j] before "llenaron otra vez el aire"), v.18
+"Coriantumr wrote ^k again an epistle unto Shiz" (= 1920 [k] before
+"otra vez á Shiz"). 1879 p.614 body: v.10 "flee ^d southward" (= [d]
+before "Sud"), v.11 "by the ^e hill Ramah" (= [e] before "cerro"),
+v.11 "my father Mormon did ^f hide up the records" (= [f] before
+"ocultó"), v.13 "Ether ^g did behold all the doings" (= [g] before
+"presenció"). All eight letters and marker positions CONFIRMED against
+1879; 15i/15j content ("Versículo 17" / "Versículo 16") matches 1879's
+"ver. 17" / "ver. 16" exactly. 1879 p.614 fn also independently
+corroborates 15d ("d, southward, brought them into the region, near the
+hill, called by the Nephites, Cumorah.") and 15e ("e, Ramah was the
+hill Cumorah.").
+
+Google-text cross-check (extract_google_text / google_text_1920/
+page_0635.txt): the automated body extractor works line-by-line here
+(no early blank line); after ignoring word-fusion and dropped/glued
+superscript letters, Google's OCR matches this transcription
+letter-for-letter EXCEPT at three spots, all re-zoomed and resolved:
+ - v.16 "con sus mujeres ó hijos" — Google reads "é hijos"; a 12x zoom
+   shows a clean "o" loop with an acute (no e-crossbar) -> the 1920
+   print is "ó", NOT "é". Transcribed "ó" as printed (rule 32) and
+   flagged for Session E (grammar/1879 "and" would call for "é").
+ - v.17 "Y acaeció" — Google reads "Y acaeció" with no mark; there is a
+   faint speck between "Y" and "acaeció" in the 1920 scan. Per rule 36,
+   Google's silence on the mark = stray speck; transcribed with a plain
+   single space, not logged.
+ - v.20 "duró todo el día, y cuando llegó" — Google drops the "y"
+   ("día, cuando"); a 9x zoom clearly shows "día, y cuando" in the 1920
+   print. Kept "y cuando".
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - v.16 "con sus mujeres ó hijos" — "ó" (or) where "é" (and) is
+   expected before "hijos"; 1879 reads "with their wives and their
+   children". Session E to check 1886 and decide whether to log.
+ - Block 1 fn 15d "Yendose" — missing acute on the first "e"
+   (expected "Yéndose"); Google OCR also reads "Yendose". Session E:
+   missing-accent, likely permitted-words only.
+ - Block 1 fn 15d "llevó a la región" — unaccented "a" where the body
+   text uses "á"; Google OCR also reads "a". Session E: missing-accent.
+ - v.16 "empezaron á ahullar" — "ahullar" for "aullar" (h intrusion);
+   Google OCR also reads "ahullar". Session E to check 1886/RAE.
+ - v.19 "y satán se había apoderado" — "satán" (lowercase, acute)
+   for "Satanás"; recurring 1920 form. Session E.
+ - Archaic accented preterites/forms kept per rule 32: "ocurrió"
+   (vv.11,20), "sucedió" (vv.12,13,18), "vió" (v.13), "vino" (vv.15,16),
+   "acaeció" (v.17), "declaró" (v.17), "llegó" (vv.17,20,21),
+   "escribió" (v.18), "duró" (v.20), "fué" (vv.11 fn 15e, 17),
+   "á"/"ó" (archaic accented "to"/"or"), "país" (vv.12,14),
+   "aquí" (v.19), "Espíritu" (v.19).
+
+Narrow-space word-pairs (rule 6 / feedback_narrow_space_vs_merge /
+editor guidance — this page's print sets a few word boundaries with a
+reduced-width space, tighter than normal word spacing on the line but
+NOT a true zero-width merge on zoom; all committed now as two words
+with a single normal space, since grammar and 1886 both require two
+words. Surfaced here for Session E's editor double-check against the
+image, NOT raised as a blocking question):
+ - v.15 "vino á suceder" — reduced gap after "á" (recurring phrase);
+   Google spaced.
+ - v.16 "vino á suceder" — reduced gap after "á"; Google spaced.
+ - v.12 "sucedió, que" / v.13 "sucedió, que" — reduced gap after the
+   comma; Google spaced.
+ - v.18 "escribió [4529]otra" — reduced gap at the marker; Google fused
+   ("kotra").
+
+Proper names on this page: "Coriántumr" (vv.11,13,18 — every occurrence
+accented on the "a", consistent), "Rámah" (vv.11, fn 15e — the hill;
+Jaredite/Nephite place name), "Shiz" (vv.13,18), "Éther" (vv.12,13),
+"Ogath" (v.10, first appearance — Session E to add to permitted
+words.txt), "Cumorah" (fn 15d, 15e), "Mormón" (v.11), "satán" (v.19).
+
+Session B — footnote verification (independent re-check, 2026-08-29).
+Fresh 1920 fn-block crop (5x, full width) re-read: all eight entries
+15d-15k confirmed unchanged — "15d, 4522: Yendose hacia el Sud les
+llevó a la región, cerca del cerro llamado por los Nefitas, Cumorah." /
+"15e, 4523: Rámah fué el cerro de Cumorah." / "15f, 4524: Mormón 6:6." /
+"15g, 4525: Éther 13:14." / "15h, 4526: Éther 10:27." /
+"15i, 4527: Versículo 17." / "15j, 4528: Versículo 16." /
+"15k, 4529: Versículo 4." The 1920 fn prints "Mormón 6 : 6.",
+"Éther 13 : 14.", "Éther 10 : 27." with spaced colons (rule 22 removes
+the spaces). Superscript entry-letters d..k run in clean sequence;
+15i is a dotted "i" and 15j a "j" (dot + descender).
+MANDATORY i/l/1 check (15i is an "i") — re-done independently against
+1879: process_page.py on pages_1879/page_0615.png, fn_zoom read fresh
+— "h, Ether 10 : 27.   i, ver. 17.   j, ver. 16.   k, ver. 4." in a
+clean italic typeface, "i"/"j" unambiguous, content ("ver. 17" /
+"ver. 16") matching 1920's "Versículo 17" / "Versículo 16". 1879 body
+p.615 marker placements re-confirmed: v.16 "they ^i took up a howling
+and a lamentation" = 1920 [4527] before "empezaron"; v.17 "they did ^j
+rend the air with their cries" = 1920 [4528] before "llenaron". Body
+markers [4527]/[4528] re-cropped at 9x — [4527] sits immediately before
+"empezaron" (v.16), [4528] immediately before "llenaron" (v.17). No
+changes to page_613.txt body or Block 1 from Session B.
+
+Session C — body text (43 lines + 1 blank separator) inserted before
+"Notas"; librodm.txt 32164 -> 32209. Block 1 entries 15d-15k appended
+to librodm_foot.txt (4851 -> 4860, +9 lines: 15d wraps to two lines,
+15e-15k one line each); no book/chapter blank line (same book, Éther 15
+throughout, rule 20). Page-boundary continuation with page 612 is clean
+(612 ends "...obligándoles á", 613 begins "emprender la retirada;...",
+no word-split — v.10 continues). (git diff on the master files still
+looks large only because pages 588-612's integration is in the working
+tree but uncommitted, HEAD at page 587 — same situation noted in the
+page 611/612 logs.)
+
+Session D — Block 1 entries 15d-15k are all direct references (no
+"Véase" cross-refs), resolved to 4522-4529 and appended to librodm.txt's
+Notas block verbatim. NOTE: generate_block2.py again mishandled the
+wrapped 15d entry (it spans two lines in librodm_foot.txt) — it
+re-emitted spurious duplicate lines "4523 / 4525 / 4527 / 4529" AFTER
+the real 4529 line (same wrapped-Block-1-entry bug seen on pages
+611/612). The 4 stray duplicate lines were removed by hand; librodm.txt
+now ends correctly at 4529 (32218 lines). Anchor<->def cross-check
+after the fix: max anchor 4529 = max def 4529, no dup defs, no
+anchored-without-def, no gaps in the 1..4529 def range.
+
+Session E — orthography check (2026-08-29). Fresh pptext report
+workspace/report_wsl_20260829c.html generated and walked;
+report_wsl_20260829d.html regenerated after the permitted-words
+additions to confirm suppression ("Ogath" and "Yendose" no longer in
+Spellcheck Suspect Words). Whole-document sweeps all clean:
+check_spaced_punctuation.py librodm.txt (32218),
+check_footnote_punctuation.py librodm_foot.txt (4860),
+check_verse_indent.py librodm.txt, curly-quote scan of both master
+files (zero), footnote-anchor <-> Block-2 cross-check (max anchor 4529
+= max def 4529; no dupes; no anchored-without-def; only the documented
+Jacob 2:15 / 812 defined-without-anchor gap remains; no gaps in the
+1..4529 def range).
+
+Page-613 pptext flags (report_wsl_20260829c): Spellcheck Suspect Words
+= "Ogath" (v.10) + "Yendose" (Block 2 fn 4522). No Edit Distance,
+Dash, Footnote, Scanno, Curly-quote, Special-situations, or
+paragraph-level ("full stop / unexpected sequence", "paragraph ends in
+comma") hits for page 613's line range — all other report hits are the
+structural "short lines check" flood (verse-wrapped lines + the short
+Block 2 "NNNN: ..." entries). "ahullar" (v.16) and "satán" (v.19) not
+flagged by aspell (both established, occur 5+ times / already in
+permitted words).
+
+Flagged-item decisions (each researched: 1886 image [Éther 15 = 1886
+file pp.626-627, book pp.608-609] + 1879 [file pp.613-615] + modern
+Spanish BoM + reference corpora):
+ - "Ogath" (v.10, Jaredite place name, first appearance) — NOT an
+   error. 1886 p.626 "en el lugar, llamado Ogath" — identical spelling;
+   modern BoM Éter 15:10 uses "Ogat" (an independent modern
+   transliteration, not evidence against the 1886/1920 lineage form).
+   permitted words only.
+ - "Yendose" (Block 1/2 fn 15d = [4522]) — GENUINE 1920 error for
+   "Yéndose" (initially called permitted-words-only as "just a missing
+   accent"; corrected on the editor's challenge 2026-08-29). "yendo"
+   (gerund of "ir") is llano and correctly unaccented, but adding the
+   enclitic "se" makes "yéndose" esdrújula, which ALWAYS takes a
+   written accent (RAE-confirmed); "yendose" is not a valid or archaic
+   form (0 hits for "yéndose" in Quijote / RV-1909-NT; the single
+   "yendose" in the full RV Bible corpus is OCR text that drops accents
+   wholesale, no probative value). The rule-11 "missing accents aren't
+   errors" shortcut rests on 1886 sharing the pattern — but 1886 has no
+   footnotes to compare, AND 1920's own typesetting accents gerund +
+   enclitic esdrújulas with total regularity everywhere else in the
+   document (volviéndose, diciéndole, dándoles, regocijándose, ... —
+   hundreds, all accented), making "Yendose" a lone deviation, exactly
+   parallel to Éther 8:15 "administro" (logged). Google OCR also reads
+   "Yendose"; pptext flagged it. -> permitted words + errors log
+   ("Éther 15:10 (nota d)"). Preserved as printed (rule 32).
+ - Éther 15:15 "mujeres ó hijos" — GENUINE 1920 error for "mujeres é
+   hijos": 1920 prints the disjunctive "ó" (or) where the copulative
+   "é" (and) is required; 1886 p.627 "con sus mugeres é hijos", 1879
+   "with their wives and their children", modern BoM "con sus esposas
+   y sus hijos" — all copulative. Letter/conjunction-choice question,
+   1886 comparison suffices. NOT flagged by pptext (aspell accepts
+   both "ó" and "é") -> errors log only, NOT added to permitted words
+   (no-op, same as page 611 "Coríantumr" / page 612 "él" precedent).
+   Preserved as printed (rule 32).
+ - fn 15d "llevó a la región" (unaccented "a" where the body uses "á")
+   — NOT an error, missing accent in footnote text; not flagged by
+   pptext (aspell accepts "a") -> no-op, no permitted-words entry.
+ - "ahullar" (v.16, older spelling of "aullar") — NOT a new finding:
+   already in `permitted words.txt` (line 1038, from Mormón 8:22);
+   1886 p.627 also prints "ahullar" (shared, not 1920-only); no errors
+   entry (prior-session decision stands).
+ - "satán" (v.19, lowercase, for "Satanás") — NOT an error: the 1920
+   translation's consistent form, ~25 occurrences across librodm.txt,
+   aspell auto-accepts (5+ occurrences). No entry.
+
+Narrow-space word-pairs surfaced for the editor (rule 6 /
+feedback_narrow_space_vs_merge; all committed as two words, editor to
+double-check the image at leisure — NOT blocking questions). 1886
+(file pp.626-627) prints every one of these as two separate words:
+ - Éther 15:15 "vino á suceder" (1920 image reduced gap after "á",
+   recurring phrase; 1886 "vino á suceder que").
+ - Éther 15:16 "vino á suceder" (reduced gap after "á"; 1886 "vino á
+   suceder que").
+ - Éther 15:12 / 15:13 "sucedió, que" (reduced gap after the comma;
+   1886 "sucedió que").
+ - Éther 15:18 "escribió [4529]otra" (reduced gap at the marker,
+   Google fused "kotra"; 1886 "escribió otra vez á Shiz").
+
+`permitted words.txt`: added "Ogath", "Yendose" (1274 -> 1276).
+`errors in 1920.txt`: added Éther 15:10 (nota d) "Yendose" and
+Éther 15:15 "mujeres ó hijos", inserted in book/chapter/verse order
+after the Éther 15:2 (nota b) entry.

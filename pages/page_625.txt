@@ -1,0 +1,311 @@
+Página 625
+poder de la redención alcanza también á todos aquéllos á quiénes
+no les ha sido dada la ley. Porque él que no ha sido condenado,
+él que no se halle bajo la condenación, no puede arrepentirse;
+y para el tal el bautismo no es ningún efecto.
+23. Empero es [4617]burlarse ante Dios, el negar las [4618]misericordias
+de Cristo, y el poder de su Espíritu Santo, poniendo confianza
+en obras muertas.
+24. He aquí, hijo mío, que esto no debe ser así, porque el
+arrepentimiento es para aquéllos que se hallan bajo la condenación,
+y bajo la maldición de una ley violada.
+25. Y el primer fruto del arrepentimiento es el bautismo;
+y el bautismo viene por la fe, para que se cumplan los mandamientos;
+y el [4619]cumplimiento de los mandamientos trae la remisión
+de los pecados;
+26. Y la remisión de los pecados produce la humildad y mansedumbre
+de corazón. Y á causa de la humildad y mansedumbre
+de corazón, viene la [4620]visitación del Espíritu Santo, el Consolador,
+que nos llena [4621]de esperanza y de perfecto amor, amor que
+se conserva por la constancia en la [4622]oración; hasta que venga el
+fin, cuando todos los santos habitarán con Dios.
+27. He aquí, hijo mío, que te escribiré otra vez, si no tuviere
+que salir pronto en contra de los Lamanitas. He aquí, que el
+orgullo de esta nación, ó del pueblo de los Nefitas, será la causa
+de su destrucción, excepto que se arrepintieren.
+28. Ruega por ellos, hijo mío, á fin de que consigan el arrepentimiento.
+Porque, he aquí, temo que el Espíritu haya dejado
+de esforzarse para ellos, porque en esta parte del país solo tratan
+de destruir todo poder y autoridad que viene de Dios; [4623]negando
+también al Espíritu Santo.
+29. Y después de haber desechado tan grandes conocimientos,
+hijo mío, es necesario que perezcan pronto, y se cumplan las
+profecías que han sido [4624]dadas por los profetas, así como las
+palabras de nuestro mismo Salvador.
+30. Adiós, hijo mío, hasta que te escriba, ó te encuentre otra
+vez. Amén.
+
+8t, 4617: Véase f.
+8u, 4618: Versículos 19-20,23.
+8v, 4619: Véase g.
+8w, 4620: Véase y, III Nefi 9.
+8x, 4621: Véase a, Moroni 7.
+8y, 4622: Véase e, II Nefi 32.
+8z, 4623: Alma 39:5-6.
+8-2a, 4624: Véase d, I Nefi 12.
+
+Corrections
+
+Page structure — page 625 CONTINUES the Book of Moroni and Moroni
+chapter 8, opening mid-verse. Page 624 ended mid-verse 22 ("...como
+todos aquéllos que no tienen la ley. Porque el"), so page 625's body
+text begins immediately with "poder de la redención alcanza también..."
+on the first line, no blank line after "Página 625" and no chapter
+heading (rule 1). NO book header, NO chapter subtitle (chapter 8 opened
+on page 623). Running header "CAP. VIII.)  LIBRO DE MORONI.  625"
+discarded (rule 2). Page 624 ended with the complete word "el" — no
+word split across the page boundary (rule 10 N/A). Page 625 ENDS the
+chapter: Moroni 8:30 ("...hasta que te escriba, ó te encuentre otra
+vez. Amén.") is the last verse. Moroni chapter 9 begins on page 626.
+
+Body: 35 print lines, matching each crop's line count.
+
+Rule 7 (hyphen-split rejoin), 6 total:
+ - v.24 "condena-/ción," -> "condenación,". Rejoined onto line 9
+   ("arrepentimiento es para aquéllos que se hallan bajo la
+   condenación,") = 67 chars < 73 — kept at end of line.
+ - v.25 "manda-/mientos ;" -> "mandamientos;". Rejoined onto line 12
+   ("y el bautismo viene por la fe, para que se cumplan los
+   mandamientos;") = 68 chars < 73 — kept at end of line.
+ - v.25 "re-/misión" -> "remisión". Rejoined onto line 13
+   ("y el [4619]cumplimiento de los mandamientos trae la remisión")
+   = 59 chars < 73 — kept at end of line.
+ - v.26 "manse-/dumbre" -> "mansedumbre". Rejoined onto line 15
+   ("26. Y la remisión de los pecados produce la humildad y
+   mansedumbre") = 66 chars < 73 — kept at end of line.
+ - v.26 "Consola-/dor," -> "Consolador,". Rejoined onto line 17
+   ("de corazón, viene la [4620]visitación del Espíritu Santo, el
+   Consolador,") = 72 chars < 73 — kept at end of line.
+ - v.28 "arre-/pentimiento." -> "arrepentimiento.". Rejoined onto
+   line 25 ("28. Ruega por ellos, hijo mío, á fin de que consigan el
+   arrepentimiento.") = 71 chars < 73 — kept at end of line.
+Rule 8: no further rebalancing (longest resulting line = 72 chars,
+line 17).
+
+Rule 31 (space before punctuation removed) — the 1920 print sets a
+space before ";" throughout this page:
+ v.22 "arrepentirse ;" -> "arrepentirse;"; v.25 "bautismo ;" ->
+ "bautismo;", "manda-/mientos ;" -> "mandamientos;", "pecados ;" ->
+ "pecados;"; v.26 "oración ;" -> "oración;"; v.28 "Dios ;" -> "Dios;".
+
+Rule 6 (sentence double-spacing collapsed to a single space) — v.22
+"ley.  Porque él"; v.26 "corazón.  Y á causa"; v.27 "Lamanitas.  He
+aquí"; v.28 "arrepentimiento.  Porque"; v.30 "vez.  Amén." No true
+zero-width merges on this page.
+
+Rule 23/24 (verse ranges/lists) — Block 1:
+ 8u "Versículos 19, 20, 23." -> "Versículos 19-20,23." (19 and 20
+ consecutive -> hyphenated range; 23 non-consecutive -> comma, no
+ space). 1879 file p.625 also "u, vers. 19, 20, 23."
+ 8z "Alma 39 : 5, 6." -> "Alma 39:5-6." (verses 5 and 6 consecutive
+ -> hyphenated range; colon de-spaced, rule 22). 1879 file p.626 also
+ "z, Alma 39 : 5, 6."
+
+Footnote markers [4617]-[4624] = Moroni 8 letters t-z, 2a (8 markers =
+8 Block 1 entries):
+ 8t=[4617] "burlarse" (8:23, "Empero es burlarse ante Dios"; 1879 "But
+ it is (t)mockery before God"); 8u=[4618] "misericordias" (8:23, "el
+ negar las misericordias de Cristo"; 1879 "denying the (u)mercies of
+ Christ"); 8v=[4619] "cumplimiento" (8:25, "y el cumplimiento de los
+ mandamientos trae la remisión"; 1879 "and the (v)fulfilling the
+ commandments bringeth remission"); 8w=[4620] "visitación" (8:26,
+ "viene la visitación del Espíritu Santo"; 1879 "cometh the
+ (w)visitation of the Holy Ghost"); 8x=[4621] "de" (8:26, "que nos
+ llena de esperanza y de perfecto amor"; 1879 "Comforter filleth
+ (x)with hope and perfect love"); 8y=[4622] "oración" (8:26, "por la
+ constancia en la oración"; 1879 "endureth by diligence unto
+ (y)prayer"); 8z=[4623] "negando" (8:28, "que viene de Dios; negando
+ también al Espíritu Santo"; 1879 "which cometh from God; and they are
+ (z)denying the Holy Ghost"); 8-2a=[4624] "dadas" (8:29, "las
+ profecías que han sido dadas por los profetas"; 1879 "the prophecies
+ which were (2a)spoken by the prophets").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — NOT triggered by
+letter identity: entry letters t,u,v,w,x,y,z,2a and cross-reference
+target letters f,g,v,a,e,d contain no i, l, or 1. A discretionary 1879
+cross-check WAS run on the 8t/8v target letters (both over-inked
+italic glyphs with descenders, f-vs-g ambiguous on the 1920 scan):
+ - 8t target: 1920 shows a slender tall italic "f" (curved top, short
+   left-hooking descender); 1879 file p.625 prints "t, see f." —
+   resolved "Véase f." (Moroni 8f = #4603 "Versículos 14,23; Véase
+   b.").
+ - 8v target: the 1920 glyph is a rounder, bulbous italic letter with
+   a left descender (distinct from the slender 8t "f" on the same
+   line), matching a "g". 1879 file p.626 prints "v, see g."
+   Content-fit: Moroni 8g (#4604 "III Nefi 12:2; 30:2." — Christ gives
+   the law / call to repent) suits a marker on "el cumplimiento de los
+   mandamientos" better than Moroni 8f (baptism). Resolved "Véase g."
+ - 8w target: initially read "v" in Session A off the 1920 fn-block
+   crop; CORRECTED to "y" in Session B (see Session B note below) — the
+   1920 italic glyph carries a left-hooking descender (y, not the
+   descender-less v), 1879 file p.626 prints "w, see y, III. Nep. 9.",
+   and content-fit is decisive: III Nefi 9y (#3585 "I Nefi 10:17,19,22;
+   ... II Nefi 31:11-14,17,18; 32:2-5; ...") is the doctrine-of-Christ /
+   Holy-Ghost footnote, a strong match for a marker on "la visitación
+   del Espíritu Santo"; III Nefi 9v (#3582 "III Nefi 15:2-8.", law of
+   Moses) does not fit.
+ - Other targets read off the 1920 fn-block crops and confirmed
+   against 1879 file p.626: "x, see a, Moro. 7." / "y, see e, II. Nep.
+   32." / "z, Alma 39 : 5, 6." / "2 a, see d, I. Nep. 12." —
+   letter-for-letter match.
+ - Reciprocal / content confirmations: Moroni 7a (#4561) is the
+   faith-hope-charity footnote (fits nothing here directly, but 8x
+   cites it as 1879 does); II Nefi 32e (#... "II Nefi 32" chapter, the
+   "words of Christ" / Holy Ghost passage) fits 8y on "oración";
+   I Nefi 12d fits 8-2a on prophecy fulfilment.
+
+1879 cross-check (Moroni 8 footnotes span 1879 file p.625 g-u and file
+p.626 v-2a): 1879 file p.625 fn-block tail reads "... s, see j, Mos. 3.
+t, see f.  u, vers. 19, 20, 23."; 1879 file p.626 fn-block reads "v,
+see g.  w, see y, III. Nep. 9.  x, see a, Moro. 7.  y, see e, II. Nep.
+32.  z, Alma 39 : 5, 6.  2 a, see d, I. Nep. 12." — this page's 8
+entries match one-for-one (8v target "g" and 8w target "y" per 1879,
+over the ambiguous 1920 glyphs). 1879 body markers on file p.626
+confirm every placement:
+(v) "fulfilling the commandments" v.25; (w) "visitation of the Holy
+Ghost" v.26; (x) "with hope and perfect love" v.26 (1920 letter on
+"de", rule 26); (y) "unto prayer" v.26; (z) "denying the Holy Ghost"
+v.28; (2a) "spoken by the prophets" v.29. (t) "mockery" and (u)
+"mercies" land in v.23 on 1879 file p.625.
+
+House-style spellings preserved as printed (rule 32), NOT errors:
+ - "á quiénes" (v.22) — accented relative; librodm.txt carries 24
+   instances of "á quiénes". House style.
+ - "él que" ×2 (v.22) — accented relative; ~179 instances in
+   librodm.txt (see feedback_errors_log_diligence mirror case). House
+   style.
+ - "país solo tratan" (v.28) — unaccented adverb "solo"; librodm.txt
+   has 87 "solo" vs 17 "sólo". House style.
+ - v.28 "negando también al Espíritu Santo" — 1879 "denying the Holy
+   Ghost". No opening "¡"/inverted marks issues on this page.
+
+STRAY INK — this page's scan carries scattered raised specks/blobs in
+the wide verse-end margins and between some words (a dot before "re-"
+at the end of v.25 line 13 "trae la .re-", specks after "efecto." v.22,
+"muertas." v.23, in the footnote block). None represent type; none
+transcribed. (The v.25 "re-" dot: Google OCR page 0647 reads plain
+"remisión" — silent on the mark, rule 36 stray speck.)
+
+Google-text cross-check (google_text_1920/page_0647.txt): check_google_
+crosscheck.py 625 reports 0 candidates worth investigating (6 dismissed
+as footnote-marker glue, 1 as footnote-block content). Body text matches
+Google's OCR letter-for-letter. No transcription change from the
+cross-check.
+
+Session B (footnote verification) — independent re-pass:
+ - Fresh 1920 fn-block crops (3 horizontal bands, ~13x, re-read from
+   scratch): all 8 Block 1 entries (8t-8z, 8-2a) re-read. Seven
+   confirmed UNCHANGED. ONE CORRECTION: 8w target letter "v" -> "y".
+ - 8w correction: Session A read the 8w cross-reference target as "v"
+   ("Véase v, III Nefi 9."). A tight 24x crop of the 1920 glyph shows a
+   left-hooking descender dropping below the baseline — an italic "y",
+   not the descender-less italic "v". 1879 file p.626 prints "w, see y,
+   III. Nep. 9." (clear type). Content-fit is decisive: the 8w body
+   marker sits on "la visitación del Espíritu Santo" (v.26); III Nefi
+   9y (#3585) = "I Nefi 10:17,19,22; 13:37; II Nefi 31:11-14,17,18;
+   32:2-5; ..." is the doctrine-of-Christ / gift-of-the-Holy-Ghost
+   footnote — a direct thematic match; III Nefi 9v (#3582) = "III Nefi
+   15:2-8." (the law of Moses fulfilled) does not fit. Corrected to
+   "Véase y, III Nefi 9." in the Block 1 entry above.
+ - Fresh 1920 body-marker read (independent crops of vv.23, 25, 26, 28,
+   29): all 8 markers [4617]-[4624] confirmed immediately before the
+   correct words, UNCHANGED — [4617] "burlarse", [4618] "misericordias"
+   (v.23); [4619] "cumplimiento" (v.25); [4620] "visitación", [4621]
+   "de", [4622] "oración" (v.26); [4623] "negando" (v.28); [4624]
+   "dadas" (v.29).
+ - Independent 1879 cross-check (Moroni 8 footnotes span 1879 file
+   p.625 g-u and file p.626 v-2a): 1879 file p.626 fn-block "v, see g.
+   w, see y, III. Nep. 9.  x, see a, Moro. 7.  y, see e, II. Nep. 32.
+   z, Alma 39 : 5, 6.  2 a, see d, I. Nep. 12." — matches this page's 8
+   entries one-for-one after the 8w "v"->"y" correction (8v target "g"
+   and 8u/8z verse-lists also per 1879). 1879 body markers on file
+   p.626: (v) "fulfilling the commandments" v.25; (w) "visitation of
+   the Holy Ghost" v.26; (x) "with hope and perfect love" v.26 (1920
+   letter on "de", rule 26); (y) "unto prayer" v.26; (z) "denying the
+   Holy Ghost" v.28; (2a) "spoken by the prophets" v.29 — every
+   placement confirmed. (t) "mockery" / (u) "mercies" in v.23 on 1879
+   file p.625.
+ - MANDATORY i/l/1 check: entry letters t,u,v,w,x,y,z,2a and target
+   letters f,g,y,a,e,d contain no i, l, or 1 — not triggered by letter
+   identity. The discretionary f-vs-g (8t/8v) and v-vs-y (8w) glyph
+   ambiguities were all resolved off 1879's clearer type plus
+   content-fit (above).
+ - Rule 23/24 re-checked vs 1879: 8u "19, 20, 23" -> "19-20,23"
+   (19-20 consecutive range, 23 non-consecutive); 8z "39 : 5, 6" ->
+   "39:5-6" (5-6 consecutive range, colon de-spaced). No changes.
+
+Session C: insert_body_text.py 625 — librodm.txt 32772->32809 (+37 = 35
+body lines + "Página 625" + blank separator); librodm_foot.txt
+4951->4959 (8 Block 1 entries appended, NO blank line / NO book header —
+Moroni ch.8 continues within the Book of Moroni, rule 20). Body landed
+before "Notas": page 624 ends "...Porque el", blank line, "Página 625",
+then straight into "poder de la redención..." (mid-verse continuation,
+no blank line, no heading, rule 1); ends "vez. Amén." (end of Moroni 8).
+Página sequence 616..625 contiguous.
+
+Session D: generate_block2.py 625 appended 4617-4624 (librodm.txt
+32809->32817) — no unresolved warnings, no wrapped-Block-1-entry bug
+(all 8 entries one line each; Notas tail ends cleanly at "4624: Véase
+79."). Cross-ref resolutions (book-aware): 8t->4603 (Moroni 8f);
+8v->4604 (Moroni 8g); 8w->3585 (III Nefi 9y, doctrine-of-Christ /
+Holy-Ghost footnote); 8x->4561 (Moroni 7a); 8y->783 (II Nefi 32e, the
+"pray always" passage — fits marker on "oración"); 8-2a->79 (I Nefi
+12d, prophecy of destruction — fits "profecías...dadas por los
+profetas"); 8u/8z direct. Anchor<->Block-2 after append: max anchor
+4624 = max def 4624, contiguous 1..4624, no gaps/dupes; only the
+documented Jacob 2:15/812 def-without-anchor remains.
+
+Session E: fresh full pptext report workspace/report_wsl_20260901c.html
+regenerated and walked end to end. Every page-625 hit is structural —
+the short-lines flood (verse-boundary wrapped body lines + short
+Block-2 "Véase NNNN." entries) plus 2 legitimate verse-range hyphens in
+the dash check (4618 "19-20,23", 4623 "39:5-6", both digit-flanked). NO
+page-625 spellcheck / edit-distance / hyphenation / adjacent-spaces /
+trailing-spaces / character / repeated-word / duplicate-line / ellipsis
+/ footnote-check / scanno / curly-quote / spaced-punctuation /
+special-situations / book-level / paragraph-level ("full stop followed
+by unexpected sequence" has no Moroni 8:22-30 hit) / Jeebies findings.
+Whole-document mechanical sweeps all clean: check_spaced_punctuation
+librodm.txt (32817), check_footnote_punctuation librodm_foot.txt
+(4959), check_verse_indent librodm.txt, anchor<->Block-2 (only [812]),
+curly-quote scan of librodm.txt / librodm_foot.txt / page_625.txt all
+zero.
+
+1886 comparison — Moroni 8:16-26 on 1886 file p.638, 8:27-30 on file
+p.639. ALL of Moroni 8:22-30 compared word-for-word. ONE genuine
+1920-only deviation found and LOGGED:
+ * Moroni 8:22 "el bautismo no es ningún efecto" — 1920 DROPS the
+   preposition "de" from the locution "ser de ningún efecto" (= "to
+   lack validity / consequences"). 1886 file p.638 prints "no es de
+   ningun efecto" WITH "de"; 1879 (Pratt) "baptism availeth nothing";
+   modern Spanish BoM reformulates ("de nada sirve"); Google OCR page
+   0647 also reads "no es ningún efecto" (1920 really omits it).
+   Without "de" the predicate nominal is ungrammatical. Elsewhere 1920
+   uses "ningún efecto" only with "tener" ("no teniendo/tuvieran
+   ningún efecto"), where "de" is not required. Added to errors in
+   1920.txt (verse order, after Moroni 8:9); preserved as printed; not
+   pptext-flagged, no permitted-words entry (no non-dictionary token).
+All other Moroni 8:22-30 differences are routine 1886-archaic vs
+1920-modern house style (1886 unaccented redencion/condenacion/
+remision/corazon/visitacion/oracion/nacion/destruccion/despues/Adios/
+Amen, "fé"/"Hé"/"mio", "el que"/"aquellos" unaccented; 1886 semicolon
+vs 1920 comma before "porque" in v.28; 1886 omits the commas 1920 sets
+around "he aquí"). NOT logged.
+
+Corrections-log sweep — every flagged item run through the 1886 +
+errors-log + independent-research check; all EXCEPT the Moroni 8:22
+finding above resolve as NON-errors, nothing further logged:
+ (1) v.22 "á quiénes" — 1886 file p.638 "á quienes" (unaccented, 1886
+ accent-dropping); librodm.txt carries 24 "á quiénes". House style,
+ NOT logged.
+ (2) v.22 "él que" ×2 — 1886 "el que" (unaccented); librodm.txt ~179
+ accented "él que" (feedback_errors_log_diligence mirror case). House
+ style, NOT logged.
+ (3) v.28 "país solo tratan" — 1886 file p.639 ALSO prints unaccented
+ "pais solo tratan"; shared, NOT a 1920 deviation, NOT logged.
+ (4) v.25 "re-" stray dot (line 13 "trae la .re-") — rule-36 stray
+ speck; Google OCR silent (reads plain "remisión"). NOT logged.
+NO narrow-space/merge items this page (Session A found no tight
+word-pairs). NO new permitted words.txt entries. ONE new errors in
+1920.txt entry (Moroni 8:22). NO text changes to page_625.txt body or
+librodm.txt this session.

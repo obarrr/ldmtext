@@ -1,0 +1,165 @@
+Página 593
+de modo que me deseará por su esposa. Y si él me solicitare
+como su esposa, entonces le diréis: Te la daré sí me trajeres la
+cabeza de mi padre, el rey.
+11. Y ahora Omer era amigo de Akish, de modo que cuando
+Jared mandó por Akish, la hija de Jared danzó delante de él,
+de manera que le agradó, de tal modo que deseó hacerla su
+esposa. Y aconteció que dijo á Jared: Dámela por esposa.
+12. Y Jared le dijo: Yo te la daré, si me traes la cabeza de
+mi padre, el rey.
+13. Y sucedió, que Akish reunió en casa de Jared á toda su
+familia, y les dijo: ¿Me juraréis vosotros, que me seréis fieles
+en lo que deseo de vosotros?
+14. Y sucedió que todos le [4405]juraron por el Dios del cielo, y
+también por los cielos, y también por la tierra, y por sus cabezas,
+que cualquiera que rehusara ayudar á Akish en lo que él deseara,
+que perdería la cabeza; y que cualquiera que divulgare lo que
+Akish les diera á conocer, perdería también la vida.
+15. Y ocurrió, que de esta manera es como se comprometieron
+con Akish. Y Akish les administro los juramentos que les
+habían sido dados por [4406]los antiguos, los que también buscaban
+el poder; juramentos que habían sido transmitidos aún desde Cain
+quién fué un asesino desde el principio.
+16. Y fueron llevados por medio del poder del diablo á administrar
+estos juramentos al pueblo, para conservarle en la obscuridad,
+y para ayudar en obtener el poder á los que lo buscaban,
+para así asesinar y para pillar, y para mentir, y entregarse á
+toda clase de iniquidades y de fornicaciones.
+17. Y fué la hija de Jared, la que lo puso en su corazón el
+resucitar todas estas cosas de los tiempos antiguos. Y Jared
+lo puso en el corazón de Akish; y Akish lo ministró á sus parientes
+y amigos, llevándoles por medio de grandes promesas á que
+hicieran todo lo que él deseaba.
+18. Y aconteció, que formaron así una combinación [4407]secreta,
+aún como las de los tiempos antiguos; combinación que es la
+más perversa y abominable de todas, á los ojos de Dios.
+19. Porque el Señor no obra por medio de secretas combinaciones,
+ni quiera que los hombres viertan sangre, sino que
+lo ha prohibido en todas las cosas, desde el principio del hombre.
+20. Y ahora, yo, Moroni, no escribo la formula de sus juramentos
+y combinaciones, porque me ha sido revelado que existen
+entre todos los pueblos, y que son conocidas de los Lamanitas.
+21. Y que ellas han sido la causa de la destrucción de este
+pueblo de que hablo ahora, lo mismo que lo han sido de la de
+los Neñtas;
+22. Y cualquiera nación que favoreciere tales combinaciones
+
+8c, 4405: Véase i, II Nefi 10.
+8d, 4406: Véase b.
+8e, 4407: Véase i, II Nefi 10.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the colon/semicolon in: v.10 "diréis :"; v.11 "Jared :"; v.12 "dijo :";
+v.13 "dijo :"; v.14 "cabeza ;"; v.15 "poder ;"; v.17 "Akish ;"; v.18
+"antiguos ;"; v.21 "Neñtas ;".
+Rule 6 justification-gap normalization: v.11 "que  deseó" and "hacerla
+ su" (two instances, same line) had a visibly wider printed gap than
+normal inter-word spacing; normalized to one space per rule.
+Rejoined hyphenated line-break splits per rule 7: v.16 "admin-istrar"
+-> "administrar", v.16 "obscu-ridad" -> "obscuridad" (also normalized
+an adjacent justification-widened gap "la  obscu-" to one space), v.19
+"com-binaciones" -> "combinaciones", v.20 "jura-mentos" -> "juramentos".
+v.15 "administro": zoomed to confirm the image clearly prints
+"administro" with no accent (expected preterite "administró").
+Preserved as printed per rule 32; candidate for errors in 1920.txt
+(Session E) pending 1886 check.
+v.10 "sí me trajeres": zoomed to confirm the image prints accented
+"sí" for the conditional "if" -- inconsistent with the identical
+construction two verses later, v.12 "si me traes" (same clause type,
+correctly unaccented, confirmed via a separate zoom). Preserved as
+printed per rule 32; candidate for errors in 1920.txt (Session E)
+pending 1886 check.
+v.21 "Neñtas": zoomed to confirm the image clearly prints "Neñtas"
+(expected "Nefitas" -- the "fi" appears to have been misprinted as
+"ñ"). Preserved as printed per rule 32; candidate for errors in 1920.txt
+(Session E) pending 1886 check.
+Mandatory 1879 check (rule: i/l/1 letters): footnote block's two
+"Véase i, II Nefi 10" targets (8c, 8e) both contain the mandatory-check
+letter "i". Content-matched via pages_1879/page_0595.png (1879's own
+pagination has drifted well past its nominal book_page+8 offset by
+this point -- file_page 601 [nominal] showed unrelated chapter 10
+content, and file_page 600 also mismatched; file_page 595, printed
+page "587", was found to contain the matching Akish-oath content).
+That page's footnote block reads exactly "c, see i, II. Nep. 10.  d,
+see b.  e, see i, II. Nep. 10." -- confirms all three letters (c, d, e)
+and both cross-reference targets (i, b) with no discrepancy from the
+1920 reading.
+Footnote letter sequence: chapter 8 continues from page 592's a
+(4403) and b (4404); this page's three body markers read clearly as
+c (v.14, "juraron"), d (v.15, "los antiguos"), e (v.18, "secreta") --
+all confirmed via direct zoom, no ambiguity beyond the mandatory i/l/1
+check above (the letters c/d/e themselves are not in that set).
+Body text v.22 ends mid-sentence ("...favoreciere tales combinaciones")
+at the bottom of the page with no hyphen -- a normal page-boundary
+break, not a hyphenated word split (rule 10 does not apply); verse 22
+continues on page 594.
+check_google_crosscheck.py flagged v.20 "Moroní" vs Google's "Moroni":
+an initial zoomed read of the image saw a mark above the "i" and
+transcribed it as accented, but Google's OCR (trained on real type)
+read it plain, and a grep of librodm.txt confirms this document's
+established, overwhelming convention spells the name "Moroni" with no
+accent throughout (hundreds of instances). Corrected to "Moroni" per
+rule 36 (an uncertain/unusual mark with no Google support and no
+document-convention support is a stray speck, not a real accent) --
+this is exactly the failure mode the rule targets, and here the
+cross-check script caught it before it went further.
+Session B: independently re-verified all 3 Block 1 entries (8c, 8d, 8e)
+and all 3 [N] body markers against a fresh process_page.py crop (not
+reused from Session A) of the 1920 page -- c "juraron" v.14, d "los
+antiguos" v.15, e "secreta" v.18 all confirmed matching page_593.txt
+exactly. The mandatory i/l/1 cross-reference target "i" (in both 8c
+and 8e's "Véase i, II Nefi 10") was re-checked via a fresh, independent
+process_page.py pass on pages_1879/page_0595.png (not reused from
+Session A) -- reconfirmed the identical reading "c, see i, II. Nep.
+10.  d, see b.  e, see i, II. Nep. 10." No corrections needed from
+Session B.
+Session E: resolved all three Session A candidates against 1886
+(pages_1886/page_0606.png for v.10, pages_1886/page_0607.png for
+v.15/v.21).
+- v.10 "sí me trajeres": CONFIRMED genuine error, added to `errors in
+  1920.txt` (Éther 8:10). 1886 prints the identical accented "sí" at
+  this exact spot ("Te la daría sí me trajeres la cabeza de mi padre,
+  el rey") -- so the error is shared/inherited rather than introduced
+  by 1920 specifically. Per user correction (2026-08-21): a shared
+  1886 reading does not by itself excuse an objective Spanish error
+  from the errors log -- the exclusivity test only matters for
+  distinguishing a genuine error from a legitimate archaic/period
+  spelling variant, and "sí" (yes/emphatic) for the unaccented
+  conditional "si" (if) is not a legitimate variant of anything (this
+  document's own v.12, two verses later, uses the correct unaccented
+  form in the identical construction). Corrected the errors in
+  1920.txt entry's framing accordingly to note it's inherited rather
+  than 1920-exclusive, while still logging it.
+- v.21 "Neñtas": CONFIRMED genuine error, added to `errors in
+  1920.txt` (Éther 8:21), same reasoning as v.10 above. 1886 prints
+  the identical "Neñtas" (confirmed at high zoom, genuine tilde over
+  the n) at the corresponding spot -- again inherited rather than
+  1920-exclusive, but "Nefitas" has no legitimate "ñ" spelling variant
+  anywhere in this document (hundreds of correctly-spelled instances
+  elsewhere), so it's an obvious typographical error either way.
+- v.15 "administro": CONFIRMED genuine 1920-only error, added to
+  `errors in 1920.txt` (Éther 8:15). 1886 uses a different verb
+  entirely at this spot ("ministró" instead of "administró"), so it
+  doesn't offer a direct letter-for-letter comparison -- but the other
+  3 occurrences of this same verb elsewhere in librodm.txt (Alma
+  15:18, III Nefi 7:17, III Nefi 10:19) are all correctly accented
+  "administró"; this page's unaccented "administro" is the sole
+  exception, and grammatically wrong (present tense in a past-tense
+  narrative) rather than just missing a decorative accent.
+Full pptext report regenerated fresh this session
+(workspace/report_wsl_20260820.html); Spellcheck Suspect Words section
+contains none of this page's flagged words at all ("administro",
+"formula", "Neñtas" are all real/acceptable word-forms to aspell, so
+their absence from that section doesn't mean they're error-free --
+per the orthography-check skill's known gap, confirmed here again).
+Whole-document check_spaced_punctuation.py, check_footnote_punctuation.py,
+and check_verse_indent.py all re-run clean against librodm.txt/
+librodm_foot.txt. Footnote anchor <-> Block 2 definition cross-check
+(whole document) found zero new gaps beyond the already-documented
+Jacob 2:15/812 case. No narrow-space-vs-merge defaults were made on
+this page (both tight-looking word pairs on this page, "que habían
+sido" and "los que también", checked at zoom and are ordinary
+justification-narrowed gaps, not merge candidates), so nothing to
+batch into this summary for that category.

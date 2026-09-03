@@ -1,0 +1,162 @@
+Página 589
+14. Y Jared tenía cuatro hijos, que se llamaban Jacom,
+Gílgah, Máhah y Oríhah.
+15. Y el hermano de Jared engendró también hijos é hijas.
+16. Y los amigos de Jared y de su hermano, que eran entre
+todos veintidós almas, engendraron también hijos é hijas,
+antes de llegar á la tierra de promisión; y así empezaron á hacerse
+numerosos.
+17. Y les enseñaron á marchar humildemente delante el Señor,
+siendo también enseñados desde las alturas.
+18. Y ocurrió, que así empezaron á extenderse en el país, y
+á multiplicarse, y á cultivar la tierra, y á aumentarse en el país.
+19. Y el hermano de Jared empezó á envejecer; y viendo
+que pronto tenía que descender á la tumba, dijo á Jared: Reunamos
+á nuestro pueblo, para que podamos contrarle, y para que
+sepamos qué es lo que [4383]desea de nosotros, antes que bajemos
+á la tumba.
+20. Y según sus deseos se reunió el pueblo. Ahora, el número
+de los hijos é hijas del hermano de Jared [4384]era de veintiedós
+almas; y el número de los hijos é hijas de Jared era de doce,
+teniendo él cuatro hijos.
+21. Y aconteció, que contando á su pueblo, les preguntaron
+después, que les dijeran lo que querían de ellos, antes que descendiesen
+á la tumba.
+22. Sucediendo que [4385]desearon de ellos que les ungiera á uno
+de sus hijos por rey sobre ellos.
+23. Y ahora, he aquí, que esto les dió pena. Pero el hermano
+de Jared les dijo: Seguramente esto [4386]lleva á la cautividad.
+24. Pero Jared dijo á su hermano: Permíteles que tengan
+rey. Por lo tanto les dijo: Elegid por vosotros mismos entre
+nuestros hijos al que deseareis que fuese vuestro rey.
+25. Y ocurrió, que haciéndolo así, elegieron por rey aún al
+primer hijo del hermano de Jared, cuyo nombre era Pagag.
+Y aconteció, que este rehusó, no queriendo ser su rey. Y el
+pueblo quería que su padre le obligara á aceptar; pero su padre
+rehusó hacerlo; mandánoles que nunca obligaran á nadie, á
+que fuere su rey.
+26. Sucedió, entonces, que elegieron á todos los hermanos
+de Pagag; pero no quisieron aceptar.
+27. Y ocurrió, que así mismo rehusaron aún todos los hijos
+de Jared, exceptuando á uno; y [4387]Oríhah fué ungido por rey
+sobre el pueblo.
+28. Y empezó á reinar, y el pueblo á prosperar, y á adquirir
+inmensas riquezas.
+29. Y sucedió, [4388]que murió Jared, y también su hermano.
+
+6i, 4383: Versículos 21-22.
+6j, 4384: Éther 1:41: Una pluralidad de familias.
+6k, 4385: Versículos 19,21.
+6l, 4386: Éther 7:5.
+6m, 4387: Versículos 14,30; Éther 1:32; 7:1.
+6n, 4388: Versículo 19.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon/colon in: v.16 "promisión ;"; v.19 "envejecer ;"; v.20
+"almas ;"; v.23 "dijo :"; v.24 "hermano :", "dijo :"; v.25 "aceptar ;",
+"hacerlo ;"; v.26 "Pagag ;"; v.27 "uno ;".
+Rule 6 double-space normalization: v.20 "pueblo.  Ahora" -> "pueblo.
+Ahora" (mid-line gap after period); v.20 "de  veintiedós" -> "de
+veintiedós" (justification-widened inter-word gap); v.24
+"dijo :  Elegid" -> "dijo: Elegid" (widened gap after colon).
+Rule 7 hyphen rejoins: v.19 "Reuna-/mos" -> "Reunamos" (kept at end of
+line, 65 chars); v.21 "des-/cendiesen" -> "descendiesen" (kept at end of
+line, 72 chars).
+v.19 "contrarle": zoomed to confirm the image clearly prints "contrarle"
+(not "contarles", the expected reading given the context "reunamos á
+nuestro pueblo... para que podamos [contarles]" = "so that we may count
+them"). Preserved as printed per rule 32; verify against 1886.
+v.20 "veintiedós": zoomed to confirm the image clearly prints
+"veintiedós" (transposed letters), not "veintidós" (the standard
+spelling, which this same page uses correctly at v.16 "todos veintidós
+almas"). A genuine-looking 1920-only misprint given the inconsistency
+within the same page. Preserved as printed per rule 32; verify against
+1886.
+v.25 "mandánoles": zoomed to confirm the image clearly prints
+"mandánoles" (missing a syllable), not "mandándoles" (the expected
+gerund + clitic form, "commanding them"). Preserved as printed per rule
+32; verify against 1886.
+v.19 "tumba, dijo": at first glance this looked like it could be a
+period before "dijo" (matching the recurring page-588-style
+period-then-lowercase anomaly), but a high-zoom crop confirms a normal
+comma, not a period — transcribed as printed, no misprint, no flag
+needed.
+Mandatory 1879 check (rule: i/l/1 letters): both footnote letters i
+(v.19 "desea") and l (v.23 "lleva") on this page are in the ambiguous
+i/l/1 set, so the 1879 cross-check was performed at Session A per
+Section 8. Loaded pages_1879/page_0589.png, page_0590.png, and
+page_0591.png (chapter_map.csv: Éther 6 -> 1879 file 589; page 591's
+footnote block confirmed the full run "i, vers. 21, 22. j, Ether 1:41.
+A plurality of families. k, vers. 19, 21. l, Ether 7:5. m, ver. 14, 30.
+Ether 1:32. 7:1. n, ver. 19." — content-matches this page's Spanish
+Block 1 entries letter-for-letter and target-for-target. Body-marker
+placement also confirmed: i on "desire"/"desea" (v.19), j on
+"were"/"era" (v.20), k on "desired"/"desearon" (v.22), l on
+"leadeth"/"lleva" (v.23), m on "Orihah"/"Oríhah" (v.27), n on
+"that"/"que" before "died"/"murió" (v.29) — all six letters match
+1920's own reading with no discrepancy; the 1920 glyphs (short
+stroke+dot for i, continuous curve for l) were correctly distinguished
+even before the 1879 check, and 1879 confirms it.
+Session E: fresh pptext regeneration
+(`workspace/report_wsl_20260806b.html`) flagged "contrarle" (v.19) and
+"veintiedós" (v.20) as Spellcheck Suspect Words, plus "veintiedós" again
+in Edit Distance (1 occurrence vs. 3 correctly-spelled "veintidós"
+elsewhere, including this same page's own v.16). Both independently
+confirmed as genuine 1920-only misprints via 1886
+(pages_1886/page_0603.png, book page 585/file 603: "contarle", "véinte y
+dos"), RAE DLE (no entry for either misspelled form), zero corpus hits,
+and the modern edition (Éter 6:19 "para contarlo"); added to `errors in
+1920.txt` and `permitted words.txt`. "mandánoles" (v.25) was NOT flagged
+by the full-document pptext report (a known suppression gap, precedented
+at pages 469-470), but a direct standalone `aspell -a` check confirmed
+it IS flagged in isolation (offers "mandándoles" as top suggestion);
+combined with the 1886 comparison (confirms "mandándoles") and RAE DLE
+silence, added to `errors in 1920.txt` and `permitted words.txt` per the
+"pptext silence isn't proof" precedent. Proper nouns "Jacom", "Gílgah",
+"Máhah", "Pagag" (Spellcheck Suspect Words, unique Book-of-Mormon names)
+added to `permitted words.txt` only, no errors-log entry (rule 11:
+unique proper nouns always flag regardless of correctness) — "Jacom"
+lacks 1886's accent ("Jácom") but this is a bare accent variance on a
+proper name, not logged. Edit Distance also flagged "elegieron" (v.25,
+v.26) against the standard modern conjugation "eligieron" (elegir's
+preterite is technically e→i stem-changing); 1886 (same crop)
+independently uses the identical spelling "elegiéron" at both verses,
+matching the page-588 "puesque" precedent (same-lineage same-spot
+agreement outweighs a zero-hit general corpus search — the three
+reference corpora only attest "eligieron", zero for "elegieron");
+treated as a legitimate archaic/period form specific to this translation
+lineage, added to `permitted words.txt` only. Confirmed "Sucediendo"
+(v.22 opener, gerund instead of the more usual "Y aconteció"/"Sucedió")
+against 1886 — same spot, same gerund construction — a shared
+translation-style choice, not a 1920-only anomaly, no log needed.
+Whole-document `check_spaced_punctuation.py`,
+`check_footnote_punctuation.py`, and `check_verse_indent.py` all re-run
+clean against `librodm.txt`/`librodm_foot.txt`. The footnote anchor <->
+Block 2 definition cross-check (whole document) came back clean: zero
+duplicate Block 2 numbers, zero
+anchored-but-undefined numbers, only the already-documented 812 (Jacob
+2:15) defined-but-not-anchored gap. A direct range scan of 1..4388 found
+zero missing numbers (besides 812), zero duplicate body anchors, zero
+out-of-range anchors -- footnote range 4383-4388 fully accounted for.
+Direct curly-quote character scan of both master files came back clean
+(zero instances). This page introduced no new hyphenated
+letter-hyphen-letter compound tokens, so the periodic dash-check
+compound scan was not re-run. No narrow-space-vs-merge flags arose to
+batch for the editor. One unrelated pre-existing finding noticed
+in-passing (pptext "line starts with suspect punctuation", librodm.txt
+line 26004, "; y se convertirán en mis hijos y en mis hijas.", Éther 3)
+is OUTSIDE this page's scope (predates page 589) and is flagged here for
+a future sweep rather than investigated now.
+No narrow-space-vs-merge candidates arose on this page.
+Session B: independently re-verified all 6 Block 1 entries and all 6 [N]
+body markers against a fresh `process_page.py` crop (not reused from
+Session A) of the 1920 page. All reference text and marker placements (i
+"desea" v.19, j "era" v.20, k "desearon" v.22, l "lleva" v.23, m
+"Oríhah" v.27, n "que" before "murió" v.29) confirmed matching
+page_589.txt exactly. Letters i and l are in the mandatory i/l/1 set;
+the 1879 cross-check performed in Session A (pages_1879/page_0589-591)
+is re-affirmed here as satisfying the mandatory check — 1879's own
+footnote block content ("i, vers. 21, 22. ... l, Ether 7:5. ...")
+matches this page's Spanish entries target-for-target with no
+discrepancy. No corrections needed from Session B.

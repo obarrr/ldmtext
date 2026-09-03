@@ -1,0 +1,215 @@
+Página 606
+mismo que hayan recibido, y se lo darás á los que tengan más
+abundantemente.
+36. Y sucedió, que imploré yo al Señor que diera la gracia á
+los Gentiles, para que tuvieran caridad.
+37. Y ocurrió, que el Señor me dijo: Si no tienen caridad, es
+cosa que á ti no te importa; tú has sido fiel; por lo tanto, tus
+vestidos serán limpiados. Y porque has [4485]visto tu debilidad,
+serás fortificado, aun hasta sentarte en el lugar que he preparado
+en las [4486]mansiones de mi Padre.
+38. Y ahora, yo, Moroni, me despido de los Gentiles, sí, y lo
+mismo que de mis hermanos, á quiénes amo, hasta que nos
+encontremos ante el tribunal de Cristo, en él que todos los
+hombres sabrán que mis vestidos no se han manchado con
+vuestra sangre;
+39. Entonces sabréis que he visto á Jesús, y que Él ha hablado
+conmigo cara á cara; y que me ha hablado con simple sencillez,
+aun como un hombre habla á otro, en mi propia lengua, relativamente
+á estas cosas;
+40. Y no he escrito más que un [4487]poco, á causa de mi debilidad
+en escribir.
+41. Y os exhorto á que busquéis á este Jesús, de Quién han
+escrito los apóstoles y profetas, á fin de que la gracia de Dios, el
+Padre, así como la del Señor Jesu Cristo, y del Espíritu Santo,
+que da [4488]testimonio de ellos, sea con vosotros para siempre
+jamás. Amén.
+
+CAPÍTULO 13.
+
+1. Y ahora, yo, Moroni, voy á concluir mi relación sobre la
+destrucción del pueblo, del cual estaba escribiendo.
+2. Porque, he aquí, que desecharon todas las palabras de Éther;
+porque en verdad les había dicho de todas las cosas desde el
+principio del hombre; y que después que las aguas se retiraron
+de sobre la superficie de este país, vino á convertirse en una tierra
+escogida sobre todas las demás, una tierra escogida del Señor;
+por lo que el Señor desea que todos los hombres que la habiten,
+le sirvan;
+3. Y que era el [4489]lugar de la Nueva Jerusalem, que [4490]descendiere
+del cielo, y del Santo Santuario del Señor.
+4. He aquí, que Éther vió los días de Cristo, y habló de una
+[4491]Nueva Jerusalem en este país.
+
+12x, 4485: Versículos 26-28,35,40.
+12y, 4486: Véase u.
+12z, 4487: Véase e, Éther 1.
+12-2a, 4488: III Nefi 11:32,36.
+13a, 4489: Véase t, III Nefi 20.
+13b, 4490: Versículo 10; Revelaciones 3:12; 21:2.
+13c, 4491: Véase t, III Nefi 20.
+
+Corrections
+Page begins mid-verse — v.35 continues from the foot of page 605
+("...les quitarás su talento, sí, hasta el"). Per rule 1, the first
+body line follows "Página 606" with no blank line (page opens neither
+on a chapter heading nor a fresh verse).
+Éther chapter 12 continues from page 605 (letters a-w, footnotes to
+4484); this page carries letters x, y, z, 2a = footnotes 4485-4488.
+Éther 13 then begins mid-page: letters restart at a (rule 13), global
+number continues — 13a, 13b, 13c = footnotes 4489-4491. Chapter
+boundary within the same book: no blank line / book header in Block 1
+(rule 20).
+Hyphenated line-break split rejoined (rule 7):
+ - v.39 "relativa-" / "mente" → "relativamente" — rejoined onto the
+   first line (67 chars, under 73), so the following line now begins
+   "á estas cosas;". No cascade; output stays 38 body lines.
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized: v.37 "me dijo :" → "me dijo:", "no te
+importa ;" → "importa;", "sido fiel ;" → "fiel;"; v.38 "vuestra
+sangre ;" → "sangre;"; v.39 "cara á cara ;" → "cara;", "estas cosas ;"
+→ "cosas;"; Éther 13:2 "de Éther ;" → "Éther;", "del hombre ;" →
+"hombre;", "escogida del Señor ;" → "Señor;", "le sirvan ;" →
+"sirvan;". Block 1 (13b): "Versículo 10 ;" → "10;", "3 : 12" → "3:12",
+"21 : 2" → "21:2".
+Rule 6 — sentence gaps wider than one space in the print, normalized:
+v.37 "limpiados.  Y porque" → "limpiados. Y porque"; v.41 "jamás.
+Amén." → "jamás. Amén." (wide gap before "Amén").
+Rule 36 — stray mark dropped: a short, faint horizontal dash floats
+after "abundantemente." (v.35), set at mid-x-height rather than on the
+baseline. Google OCR (google_text_1920/page_0628.txt) does not
+transcribe it; 1879 file page 608 has plain "abundantly."; a 6x zoom
+(C:\Users\rober\AppData\Local\Temp\p606_l2.png) shows it thinner and
+lighter than the page's real type and floating off the baseline.
+Transcribed without it; not logged in errors in 1920.txt. Flagged for
+the editor.
+Default-to-two-words (rule 6 editor guidance, surfaced for Session E /
+editor — transcribed as two words immediately, not raised mid-session):
+ - Éther 13:2 — the print sets "desecharontodas" and "laspalabras"
+   tight (Google OCR also fuses them: "desecharontodas laspalabras");
+   grammar requires four words → transcribed "desecharon todas las
+   palabras" with single spaces.
+ - v.41 — the print sets "quela" tight (Google OCR "quela"); grammar
+   requires "que la" → transcribed "de que la gracia".
+Body footnote markers — all seven placements confirmed against 1879
+file page 608 (Éther 12:37-41 and Éther 13:3-4, body text), matched by
+content per rule 26:
+ [4485]/x before "visto" (v.37; 1879 "x" before "seen thy weakness");
+ [4486]/y before "mansiones" (v.37; 1879 "y" before "mansions of my
+ Father"); [4487]/z before "poco" (v.40; 1879 "z" before "few have I
+ written"); [4488]/2a before "testimonio" (v.41; 1879 "2a" before
+ "record of them"); [4489]/a before "lugar" (Éther 13:3; 1879 "a"
+ before "place of the New Jerusalem"); [4490]/b before "descendiere"
+ (Éther 13:3; 1879 "b" before "come down out of heaven"); [4491]/c
+ before "Nueva" (Éther 13:4; 1879 "c" before "New Jerusalem upon this
+ land").
+Mandatory i/l/1 check (Section 8): none of this page's own footnote
+letters (x, y, z, 2a, a, b, c) are i, l or 1; the cross-reference
+target letters are u (12y), e (12z), t (13a) and t (13c) — none are
+i/l/1. The 1920 swash superscript "t" in 13a/13c looked ambiguous
+(l/t/i) so it was checked anyway against 1879 file page 608's clean
+type: "a, see t, iii. Nep. 20." / "c, see t, iii. Nep. 20." — confirmed
+"t". Same 1879 block also confirms the other Block 1 entries:
+"x, vers. 26--28, 35, 40." / "y, see u." / "z, see e, Ether 1." /
+"2a, iii. Nep. 11 : 32, 36." / "b, ver. 10. Rev. 3 : 12. 21 : 2."
+Block 1 verse-range / citation formatting (rules 23-24): 12x
+"Versículos 26-28, 35, 40." → "26-28,35,40" (26-28 range; 35, 40
+non-consecutive, comma no space). 12-2a "III Nefi 11:32, 36." →
+"11:32,36". 13b keeps the two Revelation references joined by the
+semicolon exactly as 1920 prints ("Revelaciones 3:12; 21:2").
+Two-letter footnote code (rule 16): 12-2a joins the chapter number and
+the "2a" code with a hyphen.
+"Jesu Cristo" (v.41, "la del Señor Jesu Cristo") — unhyphenated archaic
+form used throughout this edition, kept as printed.
+"Revelaciones" (13b) — the 1920 edition's name for the book of
+Revelation (1879 abbreviates "Rev."); kept as printed.
+check_google_crosscheck (book page 606): no candidates beyond the
+word-fusion cases noted above (all whitespace stripped before compare,
+so fusion never reaches the diff) and dropped superscript letters at
+known marker positions (auto-dismissed). The stray-dash and "en" specks
+are handled under rule 36 above.
+Raw line count: 38 body lines (Éther 12: 25 lines, Éther 13: 13 lines)
+read directly from the top/mid/bot crops, plus the "CAPÍTULO 13."
+heading, matching the image before any rule 7/8 adjustment.
+(check_line_wrap flags a 25-vs-38 body-line gap: the script stops
+counting at the blank line before "CAPÍTULO 13." so it sees only the
+25 Éther-12 lines, while its OCR estimate of 38 matches the true
+full-page total — false positive from the mid-page chapter break.)
+Session B: independently re-zoomed the 1920 footnote block (high-zoom
+crops p606_fnA-D) and re-read every Block 1 entry. The four Éther-12
+superscript letters are heavily stylized swash italics; resolved as
+x, y, z, 2a by (a) alphabetical continuation after page 605's last
+letter w, (b) body-marker order, (c) content-fit, and (d) an exact
+match, entry for entry, against 1879 file page 608's clean type
+("x, vers. 26--28, 35, 40." / "y, see u." / "z, see e, Ether 1." /
+"2a, iii. Nep. 11 : 32, 36."). Éther 13's a/b/c are clean in the 1920
+type. All seven [N] markers re-confirmed before their words: visto
+(v.37), mansiones (v.37), poco (v.40), testimonio (v.41), lugar
+(13:3), descendiere (13:3), Nueva (13:4). Mandatory i/l/1 check: no
+page letter (x, y, z, 2a, a, b, c) and no cross-reference target
+(u, e, t, t) is i, l or 1 — not triggered; the ambiguous-looking swash
+"t" of 13a/13c was still cross-checked against 1879 ("see t" both) per
+discretion. No changes.
+Session E — 1886 comparison of Éther 12:35-41 and 13:1-4
+(pages_1886/page_0619.png book page 601 tail; pages_1886/page_0620.png
+book page 602). One 1920-only error confirmed and logged in
+errors in 1920.txt:
+ - Éther 12:38 "en él que" — 1920 prints the accented personal
+   pronoun "él" where the relative "el que" ("wherein / in which",
+   referring to "el tribunal de Cristo") is required: "...nos
+   encontremos ante el tribunal de Cristo, en él que todos los
+   hombres sabrán...". 1886 file page 620 has "en el que todos los
+   hombres sabrán" (no accent); 1879 file page 608 "where all men
+   shall know". High-zoom crop (p606_elque.png) shows the acute
+   accent unmistakably, matching the "quiénes"/"á" accents on the
+   adjacent lines; Google OCR (page_0628.txt) also reads "él". Same
+   error class as the documented Mormón 6:21 "en él que" entry.
+   Preserved as printed per rule 32. Not flagged by pptext ("él" and
+   "que" are both valid words) — no permitted words.txt entry, same
+   as the Mormón 6:21 precedent.
+Not errors (checked against 1886, cleared):
+ - Stray dash after "abundantemente." (v.35) — 1886 file page 619 has
+   plain "abundantemente." with no mark; confirms the rule 36 call.
+   Transcribed without it; not logged. (For the editor: worth a
+   glance at the actual page.)
+ - "que la gracia" (v.41) — 1886 file page 620 prints "á fin de que
+   la gracia" as separate words → 1920's tight "quela" transcribed
+   correctly as "que la". For the editor per
+   feedback_narrow_space_vs_merge.
+ - "desecharon todas las palabras" (Éther 13:2) — 1886 prints
+   "desecháron todas las palabras" as separate words → 1920's tight
+   "desecharontodas laspalabras" transcribed correctly as separate
+   words. For the editor.
+ - "Jesu Cristo" (v.41) — 1886 hyphenates ("Jesu-Cristo") but the
+   unhyphenated form is legitimate throughout this edition
+   (feedback_jesu_cristo_hyphen); kept as printed, not an error.
+ - "Revelaciones" (13b) — established convention, 20+ prior instances
+   in librodm_foot.txt; not an error.
+ - 1920's added commas after "sucedió,"/"ocurrió,"/"ahora," and the
+   reverential capital "Quién" / accented relative "quiénes" —
+   consistent house style, not errors.
+pptext report (workspace/report_wsl_20260827c.html) regenerated and
+walked end to end. Zero page-606 findings in Spellcheck Suspect Words
+or Edit Distance (all 13 spellcheck flags are on pages <=605:
+carbunclo, creereis, limpiános, ne, peofeta, Pobrecita, Profecia,
+póspero, qulén, Remuévate, rependeré, Zerín). Short-lines check flags
+only verse-end lines (abundantemente. / caridad. / mansiones de mi
+Padre.) — benign structural. Dash check: page 606's Block 2
+"4485: Versículos 26-28,35,40" hyphens are all digit-flanked verse
+ranges; adjacent-dashes self-suppressed; letter-hyphen-letter
+blind-spot scan 87 tokens, page 606 added none. No repeated-word,
+duplicate-line, ellipsis, scanno, curly-quote, smart-quote,
+special-situations (comma-spacing / line-starts-with-punctuation /
+"full stop followed by unexpected sequence" all fall on earlier
+pages; page 606 body has no period+lowercase), book-level,
+paragraph-level, or Jeebies finding touches page 606. The paragraph-
+level "CAPÍTULO 13. (Véase Isaías 3.)" hit is II Nefi/Isaiah chapter
+13, not Éther 13 (our Éther heading has no parenthetical). Whole-
+document sweeps all clean: check_spaced_punctuation (librodm.txt),
+check_footnote_punctuation (librodm_foot.txt), check_verse_indent
+(librodm.txt), footnote-anchor <-> Block 2 cross-check (max anchor
+4491 = max def 4491, no dupes, no anchored-without-def; only the
+documented 812 / Jacob 2:15 defined-without-anchor gap remains),
+curly-quote character scan of both master files (zero).
+permitted words.txt: no additions. errors in 1920.txt: one addition
+(Éther 12:38 "en él que").

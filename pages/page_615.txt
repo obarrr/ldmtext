@@ -1,0 +1,251 @@
+Página 615
+
+EL LIBRO DE MORONI.
+
+CAPÍTULO 1.
+
+1. Ahora, yo, Moroni, después de haber dado fin al [4534]extracto
+de los anales del pueblo de Jared, pensé que no podría escribir más,
+pero no hé perecido todavía; y no me he dado á conocer á los
+Lamanitas, no fuere que me destruyeren.
+2. Porque, he aquí, que sus guerras son [4535]excesivamente terribles
+entre ellos; y á causa de su odio matan á cuantos Nefitas no
+quieren negar á Cristo.
+3. Y yo, Moroni, no negaré nunca á Cristo; por cuyo motivo
+ando errante por donde pueda para salvar mi vida.
+4. Por lo tanto, escribo unas cuantas cosas más, contrario á
+lo que pensé; porque no pensaba que podría escribir más; pero
+escribo unas cuantas cosas más, por si acaso pueden servir de
+alguna [4536]utilidad para mis hermanos los Lamanitas en el día
+futuro según la voluntad de Dios.
+
+CAPÍTULO 2.
+
+1. Palabras que pronunció Cristo, cuando impuso sus manos
+sobre los doce [4537]discípulos que había escojido;
+2. Y llamándoles por sus nombres les dijo: Pediréis al Padre
+en mi nombre con ardiente oración; y después de que hayáis
+hecho esto [4538]recibiréis el poder de comunicar el Espíritu Santo
+á aquéllos, sobre los cuáles impongáis las manos; lo que haréis
+en mi nombre, porque así lo hacen mis apóstoles.
+3. Ahora, Cristo les habló estas palabras en la época de su
+primera aparición; palabras que no fueron [4539]oídas por la multitud,
+sino por los discípulos; y el Espíritu Santo vino sobre todo aquél
+en quién ellos [4540]impusieron sus manos.
+
+1a, 4534: Véase el Libro de Éther.
+1b, 4535: I Nefi 12:20-23; Mormón 5:15.
+1c, 4536: II Nefi 3:7,11,12,19-21; Véase c, II Nefi 27.
+2a, 4537: Véase c, III Nefi 12:1.
+2b, 4538: Versículo 3; III Nefi 18:37.
+2c, 4539: III Nefi 18:37.
+2d, 4540: Véase b.
+
+Corrections
+
+Page structure — page 615 OPENS the Book of Moroni. Éther ended on page
+614 (15:34). The page begins with the all-caps book-title line
+"EL LIBRO DE MORONI." (transcribed as a body header per the Section 1
+subtitle rule, blank-line separators), followed on the image by a
+centered decorative rule (not transcribed), then "CAPÍTULO 1." There
+is NO book subtitle/argument line — the image shows only the title, the
+rule, and the chapter heading. Per rule 1, "Página 615" is separated
+from the book-title heading by a blank line (page does not open
+mid-verse). Two complete chapters on this page: Moroni 1 (vv.1-4) and
+Moroni 2 (vv.1-3); a second centered decorative rule sits between v.4
+of ch.1 and "CAPÍTULO 2." (not transcribed). Moroni 1's footnote
+letters restart at 1a; the global sequential number continues from
+page 614's 4533, so this page runs 4534-4540.
+
+Raw line count: 28 body print lines read line-by-line from the
+top/mid/bot crops (title line + "CAPÍTULO 1." + 14 verse lines for
+ch.1 + "CAPÍTULO 2." + 11 verse lines for ch.2). No end-of-line hyphen
+splits anywhere on the page (rule 7 N/A). No line reaches 73 chars
+with footnote markers inserted (longest ≈ 70, ch.2 v.3 "primera
+aparición; ... [4539]oídas por la multitud,"), so no rule 8
+rebalancing. check_lines.py clean.
+
+Footnote markers — 7 on this page:
+ - 1a = [4534] before "extracto" (ch.1 v.1) — "dado fin al extracto de
+   los anales del pueblo de Jared". Block 1: "Véase el Libro de Éther."
+ - 1b = [4535] before "excesivamente" (ch.1 v.2) — "sus guerras son
+   excesivamente terribles". Block 1: "I Nefi 12:20-23; Mormón 5:15."
+ - 1c = [4536] before "utilidad" (ch.1 v.4) — "servir de alguna
+   utilidad para mis hermanos los Lamanitas en el día futuro".
+   Block 1: "II Nefi 3:7,11,12,19-21; Véase c, II Nefi 27."
+ - 2a = [4537] before "discípulos" (ch.2 v.1) — "los doce discípulos
+   que había escojido". Block 1: "Véase c, III Nefi 12:1."
+ - 2b = [4538] before "recibiréis" (ch.2 v.2) — "recibiréis el poder de
+   comunicar el Espíritu Santo". Block 1: "Versículo 3; III Nefi 18:37."
+ - 2c = [4539] before "oídas" (ch.2 v.3) — "palabras que no fueron
+   oídas por la multitud". Block 1: "III Nefi 18:37."
+ - 2d = [4540] before "impusieron" (ch.2 v.3) — "en quién ellos
+   impusieron sus manos". Block 1: "Véase b."
+MANDATORY i/l/1 check (Section 8): NOT triggered on this page — every
+Block 1 entry-letter (1a,1b,1c,2a,2b,2c,2d) and every cross-reference
+target letter ("Véase c" ×2, "Véase b") is a, b, c or d; none is i, l
+or 1. ("III Nefi 12:1" in 2a ends in a verse number "1", not a
+cross-reference letter, so it is out of scope for this check.)
+Content-fit sanity check on the three cross-references: 1c "Véase c,
+II Nefi 27" (the sealed book coming forth — fits records/writings for
+the Lamanites in a future day); 2a "Véase c, III Nefi 12:1" (Christ
+speaking to the twelve he had chosen — fits "los doce discípulos que
+había escojido"); 2d "Véase b" (back-ref to 2b, both on giving the
+Holy Ghost by laying on of hands, III Nefi 18:37). All plausible.
+
+Block 1 formatting — 1920 fn block prints spaced colons/semicolons
+throughout ("I Nefi 12 : 20-23 ; Mormón 5 : 15.", "II Nefi 3 : 7, 11,
+12, 19-21 ; Véase c, II Nefi 27.", "III Nefi 12 : 1.", "Versículo 3 ;
+III Nefi 18 : 37.", "III Nefi 18 : 37."); rules 22/24 strip the spaces
+→ "12:20-23", "5:15", "3:7,11,12,19-21", "12:1", "18:37". Rule 23
+verse-range hyphen: "20-23" and "19-21" already hyphenated in the
+original; "7, 11, 12" are non-consecutive → "7,11,12" (comma, no
+space, rule 24). Chapter boundary 1→2 is within the same book (Moroni)
+→ no blank line between 1c and 2a in Block 1 (rule 20).
+
+Rule 31 — space before punctuation removed (the 1920 print sets a
+space before ";" and ":" throughout this page): ch.1 "todavía ;"
+(v.1), "ellos ;" (v.2), "Cristo ;" (v.3), "pensé ;" and "más ;"
+(v.4); ch.2 "escojido ;" (v.1), "dijo :" and "oración ;" and "manos ;"
+(v.2), "aparición ;" and "discípulos ;" (v.3).
+
+Rule 6 — inter-word spacing normalized to one space throughout. The
+1920 print sets several word boundaries on this page with a
+reduced-width space (Google OCR fused them): ch.1 v.1 "de los"
+("delos"), ch.1 v.2 "que sus guerras" ("quesusguerras"). All
+committed now as separate words with a single normal space (grammar
+requires two words); surfaced here for Session E's editor
+double-check, NOT raised as blocking questions.
+
+Google-text cross-check (extract_google_text / google_text_1920/
+page_0637.txt): after ignoring word-fusion and dropped/glued
+superscript letters, Google's OCR matches this transcription
+letter-for-letter, INCLUDING the flagged "hé" (v.1, Google also reads
+"hé" with the acute) and "escojido" (ch.2 v.1). Google word-fusions
+(dropped spaces, not transcription issues): v.1 "delos anales",
+v.2 "quesusguerras". Google's footnote-area OCR is partial/garbled
+(only picks up the tail of the ch.1 block and most of the ch.2 block)
+but what it reads agrees: "3: 7, II, 12, 19-21 ; Véase c, II Nefi 27."
+(the "II" there is Google misreading "11"), "a, Véase c, III Nefi 12 :
+1. b, Versículo 3 ; III Nefi 18:37. c, III Nefi 18 : 37. d, Véase '."
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - ch.1 v.1 "hé" — "pero no hé perecido todavía" prints the auxiliary
+   "he" with an acute accent (grammatically wrong; "hé" is not a form
+   of haber). The SAME verse prints "y no me he dado" correctly
+   unaccented a few words later, so the accented "hé" is inconsistent
+   even within its own sentence. Google OCR also reads "hé". Session E
+   to check 1886 and decide (likely a genuine 1920 misprint).
+ - ch.2 v.1 "escojido" — "los doce discípulos que había escojido"
+   prints "escogido" with a "j" (archaic/variant orthography). Google
+   OCR confirms "escojido". Session E to grep librodm.txt for the
+   document's established habit (j vs g in escoger/escojer forms) and
+   check 1886 before deciding permitted-words vs. errors-log.
+ - Accented relative pronouns / demonstratives kept per rule 32:
+   ch.2 v.2 "los cuáles impongáis" ("cuáles" accented), ch.2 v.3
+   "todo aquél en quién ellos" ("aquél" and "quién" accented), ch.2
+   v.2 "á aquéllos" ("aquéllos" accented). Standard 1920-edition
+   practice throughout the document.
+ - Archaic accented forms kept per rule 32: "después" (ch.1 v.1),
+   "pensé" (ch.1 vv.1,4), "podría" (ch.1 vv.1,4), "aquí" (ch.1 v.2),
+   "á"/"ó" (archaic accented "to"/"or"), "pronunció" (ch.2 v.1),
+   "había" (ch.2 v.1), "dijo", "oración" (ch.2 v.2), "así" (ch.2
+   v.2), "habló" (ch.2 v.3), "aparición" (ch.2 v.3), "época" (ch.2
+   v.3), "Espíritu" (ch.2 vv.2,3), "día" (ch.1 v.4).
+
+Proper names on this page: "Moroni" (title, ch.1 vv.1,3 — printed with
+NO accent, consistent with the running header "LIBRO DE MORONI." and
+the modern Spanish edition), "Jared" (ch.1 v.1), "Éther" (Block 1 1a),
+"Cristo" (ch.1 vv.2,3; ch.2 vv.1,3), "Nefitas" (ch.1 v.2),
+"Lamanitas" (ch.1 vv.1,4), "Espíritu Santo" (ch.2 vv.2,3), "Nefi" /
+"I Nefi" / "II Nefi" / "III Nefi" and "Mormón" (Block 1).
+
+Session B — footnote verification (independent re-check, 2026-08-29).
+Fresh 1920 fn-block crop re-read at zoom: both blocks confirmed
+unchanged.
+ - ch.1: "a, Véase el Libro de Éther.   b, I Nefi 12 : 20-23 ;
+   Mormón 5 : 15.   c, II Nefi 3 : 7, 11, 12, 19-21 ; Véase c, II
+   Nefi 27." — entry-letters a,b,c run in clean sequence; the "Véase
+   c" target in c is a clean lowercase "c" (round open glyph, not
+   "e", not "i").
+ - ch.2: "a, Véase c, III Nefi 12 : 1.   b, Versículo 3 ; III Nefi
+   18 : 37.   c, III Nefi 18 : 37.   d, Véase b." — entry-letters
+   a,b,c,d in clean sequence; "Véase c" target in a is a clean "c";
+   "Véase b" target in d is a clean "b" (closed bowl with ascender).
+MANDATORY i/l/1 check: not triggered (no i/l/1 among any entry-letter
+or cross-reference target — see the transcription note above); the
+1879 cross-check is therefore not required for this page. Body-text
+markers re-cropped fresh: [4534] immediately before "extracto" (ch.1
+v.1), [4535] before "excesivamente" (ch.1 v.2), [4536] before
+"utilidad" (ch.1 v.4), [4537] before "discípulos" (ch.2 v.1), [4538]
+before "recibiréis" (ch.2 v.2), [4539] before "oídas" (ch.2 v.3),
+[4540] before "impusieron" (ch.2 v.3). No changes to page_615.txt body
+or Block 1 from Session B.
+
+Session C — page 615 body inserted into librodm.txt before "Notas"
+(32267→32302, +35: 34 content lines + blank separator); 7 Block 1
+entries appended to librodm_foot.txt (4864→4874) with the book-boundary
+header "EL LIBRO DE MORONI" (chapter 1 < previous page's chapter 15 →
+book boundary detected; header text taken verbatim from this page's
+own title line minus the trailing period, matching the "EL LIBRO DE
+ÉTHER" precedent). Session D — 7 Block 2 entries appended
+(32302→32312). Cross-refs resolved: 4536→682 (II Nefi 27c), 4537→3664
+(III Nefi 12c), 4540→4538 (Moroni 2b). 4534 "Véase el Libro de Éther."
+left as descriptive text (whole-book reference, not a chapter+letter
+cross-ref — correct, matches the 1920 original). No spurious duplicate
+Block 2 lines (the wrapped-Block-1-entry bug did not trigger — no
+Block 1 entry on this page wraps to a second line).
+
+Session E — orthography check (2026-08-29). pptext report
+report_wsl_20260829h.html walked end-to-end: page 615 produced ZERO
+Spellcheck Suspect Words, zero Edit Distance hits, zero
+Footnote/Scanno/Curly-quote/repeated-word/duplicate-line/dash
+findings; the only page-615 lines in any section are the structural
+short-lines flood (verse-final short lines) and the legitimate
+verse-range hyphens "12:20-23"/"19-21" in the dash check. Whole-
+document sweeps all clean: check_spaced_punctuation.py librodm.txt
+(32312), check_footnote_punctuation.py librodm_foot.txt (4874),
+check_verse_indent.py librodm.txt, curly-quote scan of both master
+files (zero), footnote-anchor ↔ Block-2 cross-check (contiguous
+1..4540, no dupes, no anchored-without-def; only the documented
+Jacob 2:15/812 defined-without-anchor gap remains).
+
+Two inherited spelling quirks, both surfaced in Session A's flags,
+resolved as GENUINE 1920 errors shared with 1886 (LOG BOTH, per editor
+decision 2026-08-29):
+ - Moroni 1:1 "no hé perecido" — accented "hé" as perfect auxiliary.
+   1886 file p.629 also prints "no hé perecido todavia"; same verse
+   has correct "me he dado". "hé" is not a valid form of haber; cero
+   corpus attestation of "hé perecido" or accented "hé aquí" (all
+   "he aquí" in Quijote/RV1909/RV-full are unaccented, 22 total);
+   modern BoM "he". Already in permitted words.txt (from the "hé aquí"
+   variant, 5×, also accented in 1886) → no new permitted-words entry.
+   Added to errors in 1920.txt. Body preserved as printed ("hé").
+ - Moroni 2:1 "había escojido" — "j" for "g". 1886 file p.629 also
+   prints "que habia escojido"; 1920 uses "escogido" 60+× elsewhere,
+   "escojido" only here + Alma 46:17 (which IS already logged — direct
+   precedent). RAE: only "escoger"/"escogido" (verbs in -ger/-gir take
+   g). Cero "escojido" in all three corpora (all "escogido"; the
+   escoja/escojo/escojáis j-forms present are the orthographically
+   mandatory ones). Modern BoM "escogido". Already in permitted
+   words.txt (line 952) → no new permitted-words entry. Added to
+   errors in 1920.txt. Body preserved as printed ("escojido").
+errors in 1920.txt: net +2 (Moroni 1:1 "hé", Moroni 2:1 "escojido";
+appended after the Éther 15:32 entry — Moroni is the last book, first
+Moroni entries, so plain append = correct book order). File 888→890.
+permitted words.txt: net no change (1276 — both quirk forms and every
+accented relative/demonstrative on this page were already present).
+
+Accent differences from 1886 that are house style, NOT logged: ch.2
+v.2 1920 "los cuáles impongáis" vs 1886 "los cuales impongais" (1920
+accents relative pronouns throughout the document — established
+practice, hundreds of instances).
+
+Narrow-space word-pairs for the editor's optional double-check against
+the page image (rule 6 / feedback_narrow_space_vs_merge — committed
+now as two words with a single normal space, grammar requires two
+words; NOT blocking questions): Moroni 1:1 "de los" (Google fused
+"delos anales"), Moroni 1:2 "que sus guerras" (Google fused
+"quesusguerras"). The 1920 print sets both boundaries with a
+reduced-width space; 1886 sets both spaced normally.

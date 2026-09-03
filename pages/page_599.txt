@@ -1,0 +1,180 @@
+Página 599
+10. Después de haberse establecido rey, aligeró las cargas
+del pueblo, con lo que se atrajo los favores del pueblo, que le
+ungió por rey.
+11. Y se portó justamente con su pueblo, pero no así consigo
+misno, á causa de sus [4438]muchas fornicaciones; por lo tanto,
+fué cortado de la presencia del Señor.
+12. Y sucedió, que Moriánton hizo construir muchas ciudades,
+y el pueblo bajo su reinado se hizo extremadamente rico, tanto
+en edificios como en [4439]oro, y en plata, y en cosechas de granos,
+y en [4440]ganados, y en rebaños, y en aquellas cosas que se les habían
+sido restauradas.
+13. Y vivió Moriánton hasta una edad muy avanzada, y
+entonces engendró á Kim, y reinó Kim en lugar de su padre;
+y reinó ocho años, y murió su padre. Mas sucedió que Kim no
+reinó en justicia, por lo cual no fué favorecido del Señor.
+14. Y su hermano se sublevó en rebelión contra él, por quién
+fué puesto en cautividad todo el resto de sus días; y engendró
+hijos é hijas en su cautividad, y en su vejez engendró á Leví,
+y murió.
+15. Y ocurrió, que después de la muerte de su padre sirvió
+Leví en cautividad, por espacio de cuarenta y dos años. É hizo
+la guerra al rey del país, por lo que conquistó para sí el reino.
+16. Después de haberse colocado en el trono, hizo lo que era
+justo á los ojos del Señor; y el pueblo prosperó en el país; y vivió
+hasta una edad muy avanzada, y engendró hijos é hijas. Y también
+engendró á Corom, á quién ungió por rey en su lugar.
+17. Y sucedió que Corom hizo toda su vida lo que era justo
+á los ojos del Señor; y engendró muchos hijos é hijas; y después
+de haber visto muchos días, pasó como todo ser creado, y Kish
+reinó en su lugar.
+18. Y ocurrió, que Kish pasó también, y Lib reinó en su lugar.
+19. Y sucedió, que Lib obró también justamente á los ojos del
+Señor. Y en los días de Lib fueron destruidas las serpientes
+[4441]venenosas; por cuyo motivo pudieron pasar al país del [4442]Sud
+para cazar y procurarse alimiento para la gente del país, porque
+esta región se hallaba cubierta con [4443]animales del bosque. Y el
+mismo Lib vino á ser gran czador.
+20. Y construyeron una gran ciudad sobre la estrecha lengua
+de tierra, en el paraje donde el mar divide el país;
+21. Y dejaron reservado el país del [4444]Sud para terrenos de
+caza. Y toda la [4445]región del Norte se hallaba cubierta de
+habitantes;
+
+10d, 4438: Véase c.
+10e, 4439: Véase j, Éther 9.
+10f, 4440: Véase k, Éther 9.
+10g, 4441: Véase r, Éther 9.
+10h, 4442: Sur América.
+10i, 4443: Éther 9:32.
+10j, 4444: Sur América.
+10k, 4445: Norte América.
+
+Corrections
+Space-before-semicolon normalized per rule 31 (mechanical, not logged as
+errors): v.11 "fornicaciones ; por" → "fornicaciones; por"; v.13
+"padre ; y" → "padre; y"; v.14 "días ; y" → "días; y"; v.16 "Señor ; y"
+→ "Señor; y" and "país ; y" → "país; y"; v.17 "Señor ; y" → "Señor; y"
+and "hijas ; y" → "hijas; y"; v.19 "venenosas ; por" → "venenosas; por";
+v.20 "país ;" → "país;"; v.21 "habitantes ;" → "habitantes;".
+Sentence-internal double-space-after-period normalized to one space per
+rule 6 (mid-paragraph sentence breaks — distinct from the verse-number
+convention, which keeps its own two-space format): v.13 "padre.  Mas" →
+"padre. Mas"; v.15 "años.  É hizo" → "años. É hizo"; v.16 "hijas.  Y
+también" → "hijas. Y también"; v.19 "Señor.  Y en" → "Señor. Y en";
+v.21 "caza.  Y toda" → "caza. Y toda".
+Rule 7 hyphen rejoin: v.16 "tam-"/"bién" rejoined as "también" —
+appending it to the prior line ("...hijas. Y también", 64 chars) kept
+that line under 73 chars, so it stays at the end of the line per rule 7.
+v.12 "quese" — printed with little to no visible gap between "que" and
+"se," but grammar requires two words ("...cosas que se les habían
+sido restauradas," relative "que" + reflexive "se"); per the 2026-07-22
+editor guidance this defaults to "que se" as two words without a
+zoom/pixel investigation, flagged here for Session E's summary rather
+than raised standalone during A-D.
+v.19 "gran czador" — printed exactly as shown (missing an "a":
+expected "cazador," hunter); preserved as printed per rule 32, likely
+genuine 1920 misprint — verify against 1886/1946/RAE in Session E.
+Mandatory 1879 check (letters e, i, j — this typeface's swash font
+renders "i" and "j" almost identically, a short stroke with a
+separated dot, so the ambiguity here is treated the same as the
+mandatory i/l/1 set per rule 8's discretionary-extension clause):
+cross-checked against pages_1879/page_0601.png (printed page 593) and
+pages_1879/page_0602.png (printed page 594, continuing the same
+footnote block). 1879 reads "d, see c.  e, see j, Ether 9.  f, see k,
+Ether 9.  g, see r, Ether 9.  h, South America.  i, Ether 9:32." then,
+continuing at the top of the next 1879 page, "j, South America.  k,
+North America." This resolved two glyphs initially misread from the
+1920 image alone: footnote e's cross-reference target letter (first
+read as "i") is actually "j," and footnote i's own definition
+("Éther 9:32") does carry a printed letter after all — at 400dpi zoom
+it first looked like a stray mark rather than a letter. Content-fit
+confirmed for all eight: e/j and f/k and g/r all point to Éther 9's
+gold/flocks/serpents parallels; h and j both "Sur América" match the
+two separate "país del Sud" mentions (v.19, v.21); i "Éther 9:32"
+thematically fits the animals-of-the-forest mention (v.19) via Éther
+9's earlier serpents/game narrative parallel; k "Norte América"
+matches "región del Norte" (v.21).
+No chapter-heading or subtitle text on this page — it continues Éther
+10 verses 10-21 (the chapter opened on page 598). "Página 599" is
+followed directly by verse 10 with no blank line, per rule 1's
+mid-chapter new-verse convention (matching precedent, e.g. page 597,
+which also opens on a fresh verse number rather than mid-verse or a
+chapter heading).
+Google cross-check (step 10) caught two genuine transcription errors
+and flagged a third spot as harmless press debris:
+v.11 "misno," — initially transcribed as "mismo" from a first read of
+the image, but a targeted zoom (20x) confirms the print unambiguously
+shows a single-hump "n," not "m": "pero no así consigo misno, á causa
+de sus muchas fornicaciones." Preserved as printed per rule 32 —
+likely a genuine 1920 misprint of "mismo" (himself); verify against
+1886/1946 in Session E.
+v.16 "quién" — re-zoomed and confirmed accented in print ("á quién
+ungió por rey en su lugar"), matching the same archaic accented-quién
+usage already seen at v.14 ("por quién fué puesto en cautividad").
+Transcribed as printed.
+v.12 stray isolated dot in the right-margin whitespace well past
+"sido restauradas." on its short line (Google's OCR also picked it up,
+rendered as "sido restauradas. ·"): zoomed at high magnification —
+solid, dark, comparable stroke weight to a genuine period, but
+sitting alone in blank space with no adjacent letter or word. This
+does not read as a typographic character (no punctuation belongs
+there) and most likely a press/registration speck; several similar
+isolated margin dots appear elsewhere on this page's short lines
+(e.g. after "que le" and near "así consigo" in the top crop, after
+"país" v.20). Not transcribed as text, not logged in errors in
+1920.txt (not a spelling/content error).
+Session B: independently re-verified all 8 Block 1 entries (10d-10k)
+against a fresh process_page.py crop (not reused from Session A) of
+the 1920 page, and all 8 [N] body markers' placement/word — all
+confirmed matching page_599.txt exactly, including "misno" (not
+"mismo") re-confirmed in this fresh crop. The mandatory 1879 check
+(footnote e's cross-reference target letter j, footnote i's own
+letter/definition, and letters j/k as this page's own lettering — all
+affected by this typeface's near-identical i/j swash glyph) was
+re-verified via fresh, independent high-zoom crops of the same
+pages_1879/page_0601.png and page_0602.png fn_zoom crops, cropped at
+different coordinates/zoom than Session A: reconfirmed the identical
+reading "d, see c.  e, see j, Ether 9.  f, see k, ...  h, South
+America.  i, Ether 9:32." and, continuing on the next page, "j, South
+America.  k, No[rth America]." No corrections needed from Session B.
+Session E: fresh pptext report regenerated
+(`workspace/report_wsl_20260824b.html`) and walked for this page's new
+content. Spellcheck Suspect Words flagged exactly one word from this
+page's vocabulary — "misno" (line ~26683) — paired against "mismo"
+(278 occurrences) in the Edit Distance Checks section; all other
+flagged words on the list are from earlier, already-resolved pages.
+Both suspected misprints from this page's own Corrections log
+("misno" v.11, "czador" v.19) were run through the full mandatory
+research checklist: 1886 comparison (pages_1886/page_0613.png, book
+page 599/file 613 — prints "mismo" and "cazador" correctly at both
+spots), RAE DLE WebSearch (no entry for either "misno" or "czador"),
+local reference-corpora grep (zero hits for either form; sanity check
+confirmed 177 hits for "mismo" in the Quijote corpus), and the modern
+Spanish edition (churchofjesuschrist.org, Éter 10:11 and 10:19 — uses
+"mismo" and "cazador"). Both added to `errors in 1920.txt` (inserted
+at the true end of the file, since Éther 10 verses 11/19 are the
+latest entries in book/chapter/verse order); "misno" also added to
+`permitted words.txt` since it IS pptext-flagged, while "czador" was
+left out per the "Jesu Cristo"/unflagged-word precedent (would be a
+no-op — confirmed it appears nowhere in the fresh report). The
+accented relative-pronoun "quién" (v.16, re-confirmed via the Google
+cross-check alongside "misno") needs no separate research or
+errors-log entry — it matches the same archaic accented usage already
+established elsewhere on this same page (v.14) and is a preserved-as-
+printed spelling convention, not a misprint. Whole-document sweeps all
+re-ran clean: spaced punctuation (`librodm.txt`, `librodm_foot.txt`),
+footnote punctuation (`librodm_foot.txt`), verse indent (`librodm.txt`),
+curly-quote scan (zero hits in either master file), the footnote-anchor/
+Block-2-definition cross-check, and the footnote-number duplicate/
+out-of-range/missing sweep (max anchor now 4445, zero duplicates, only
+the already-documented Jacob 2:15/812 gap missing). This page's own
+body/footnote text has no letter-hyphen-letter compound words and no
+mixed-case-within-word tokens (checked directly via script). For the
+editor: this page's one narrow-space-vs-merge default per the
+2026-07-22 convention was v.12 "que se" (not raised as a standalone
+question during Sessions A-D per that convention — see the note
+earlier in this log); 1886 already confirms "que se" as two words at
+the identical spot, so this one is fully resolved, not actually
+pending.

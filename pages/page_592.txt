@@ -1,0 +1,123 @@
+Página 592
+trayéndoles [4402]através de las profundidades del mar á la tierra
+de la promisión; y así gobernó á su pueblo en justicia durante
+toda su vida.
+
+CAPÍTULO 8.
+
+1. Y sucedió, que engendró á Omer, que reinó en su lugar.
+Y Omer engendró á Jared, y Jared engendró hijos é hijas.
+2. Y habiéndose rebelado Jared contra su padre, salió para
+habitar el país de Heth. Y sucedió, que aduló mucho al pueblo
+con su astuto lenguaje, hasta que consiguió ganar la mitad del
+reino.
+3. Y cuando ganó la mitad del reino, dió la batalla á su padre,
+á quién hizo prisionero, llevándole cautivo, y haciéndole servir
+en cautividad.
+4. Y ahora, Omer pasó la mitad de sus días en cautividad
+durante su propio reinado. Y sucedió, que engendró hijos é
+hijas, entre los cuales se hallaban Esrom y Coriántumr.
+5. Los que irritados excesivamente por los actos de Jared, su
+hermano, levantaron á un ejército, y dieron la batalla á Jared.
+Y aconteció, que le dieron la batalla durante la noche.
+6. Y ocurrió, que después de haber muerto á su ejército, se
+hallaban ya á punto de matarle; y les suplicó que no le mataren,
+prometiéndoles que devolvería el reino á su padre; sucediendo
+que le concedieron la vida.
+7. Y ahora, quedó Jared en extremo apesadumbrado por haber
+perdido el reino, porque había puesto su corazón sobre él, y
+sobre la gloria del mundo.
+8. Entonces la hija de Jared viendo la tristeza de su padre,
+y siendo en extremo hábil, meditó un plan que pudiera volver
+el reino á su padre.
+9. Ahora, la hija de Jared era bella en extremo. Y sucedió
+que se puso á hablar con su padre, diciéndole: ¿Porque, está
+mi padre tan triste? ¿No ha ledío él los [4403]anales que nuestros
+padres han traído através de las aguas del gran abismo? ¿He
+aquí, que no hay en ellos una relación sobre los antiguos, que
+por medio de sus planes [4404]secretos obtenían reinos y gran gloria?
+10. Y ahora, que envíe mi padre por Akish, hijo de Kimnor;
+y, he aquí, que yo soy bella, y danzaré ante él, y le agradaré,
+
+7n, 4402: Éther 6:1-12.
+8a, 4403: Una copia de las escrituras desde la creación hasta la
+Torre de Babel.
+8b, 4404: Versículo 15; Estos secretos planes originaron en los
+días de Cain; Perla de Gran Precio página 11; (Véase traducción
+inspirada de las Escrituras, por José Smith, Capítulos II y III
+de Génesis.) Helamán 6:27; Véase i, II Nefi 10,
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon/colon in: top-of-page "promisión ;"; v.6 "matarle ;" and
+"padre ;" (before "sucediendo"); v.9 "diciéndole :"; v.10 "Kimnor ;".
+v.9 "ledío": zoomed to confirm the image clearly prints "ledío"
+(metathesis of expected "leído"). Preserved as printed per rule 32;
+1886 (pages_1886/page_0606.png) confirms "leido" — genuine 1920-only
+misprint, candidate for errors in 1920.txt (Session E).
+v.9 "¿Porque, está": zoomed to confirm — no accent on the interrogative
+"e" (expected "¿Porqué") and an unexpected comma directly after
+"Porque". 1886 (same page) reads "¿Porqué está" (accented, no comma).
+Preserved as printed per rule 32; flagged for Session E archaic/error
+review.
+"através" (top-of-page, footnote [4402] context, and v.9 "traído
+através de"): both instances on this page print this as one glued
+word, no accent on the "a", zero gap confirmed at high zoom (not a
+narrow-space case). 1886's parallel v.9 text omits the "a" entirely,
+printing only "través" — so 1886 offers no two-word precedent either
+way. Preserved as printed both times per rule 32 (nearest fit: genuine
+merge, no clean two-word rescue available). Flagged for the editor's
+own convenience, not a pending blocking question, consistent with the
+narrow space vs merge default-forward protocol.
+Footnote 8b, 4404: entry as printed ends "...Véase i, II Nefi 10," with
+a comma, not the expected closing period (rule 21). Confirmed via 1879
+(pages_1879/page_0594.png fn block: "...See i, II. Nep. 10." — ends
+with a period). Likely a 1920-only misprint (comma for period);
+preserved as printed per rule 32, candidate for errors in 1920.txt
+(Session E).
+Footnote 7n, 4402: the cross-reference letter read as a heavily-inked,
+hard-to-distinguish glyph in this session's zoomed 1920 crop (same
+difficulty class as page 591's letter k). Cross-checked via
+pages_1879/page_0594.png fn block, which clearly reads "n, Ether
+6:1-12." in plain italic type — matches chapter 7's alphabetical
+sequence (continuing after page 591's k, l, m) and content-fits the
+body text ("bringing them n across the great deep" / "trayéndoles
+[n]através de las profundidades del mar"). No errors in 1920.txt entry
+needed for the letter itself.
+Mandatory 1879 check (rule: i/l/1 letters): footnote 8b's internal
+cross-reference letter "i" (Véase i, II Nefi 10) is in the mandatory
+i/l/1 set. Confirmed via the same pages_1879/page_0594.png fn block:
+"See i, II. Nep. 10." — matches "i" exactly, no discrepancy.
+check_google_crosscheck.py / check_line_wrap.py both only scanned the
+first 3 lines of body text this run: this page's body legitimately
+contains a blank line before "CAPÍTULO 8." (rule 3), and both scripts
+stop at the first blank line by design (same convention as each
+other), so neither tool actually covered verses 1-10. Manually read
+the extracted google_text_1920/page_0614.txt in full instead: it
+matches this page's transcription line-for-line, including both
+suspected-misprint readings ("através" merged/unaccented both times,
+"ledío", "¿Porque, está" unaccented-with-comma) and the two footnote
+markers' target text (8a "Una copia..."; 8b "Versículo 15;..." through
+the extraction's own 2191-char cutoff). No candidates found beyond
+what's already logged above.
+Session B: independently re-verified all 3 Block 1 entries (7n, 8a,
+8b) and all 3 [N] body markers against a fresh process_page.py crop
+(not reused from Session A) of the 1920 page -- n "através" (chapter
+close), a "anales" v.9, b "secretos" v.9 all confirmed matching
+page_592.txt exactly. Footnote 8b's internal cross-reference letter
+"i" is in the mandatory i/l/1 set; ran a fresh independent
+process_page.py pass on pages_1879/page_0594.png (not reused from
+Session A) -- reconfirmed the identical reading "Hela. 6:27. See i,
+II. Nep. 10." (period-terminated, matching Session A's finding that
+1920's trailing comma is a misprint). No corrections needed from
+Session B.
+Session D: generate_block2.py left 4404's "Véase i, II Nefi 10," clause
+unresolved (letter form) because its regex requires a terminating
+period to recognize a "Véase ... ." clause, and this entry ends in the
+preserved-as-printed comma instead (see above) -- a script-matching
+side effect of the rule-32 preservation, not a genuine "target not yet
+transcribed" case. librodm_foot.txt confirms "10i, 398: II Nefi 9:9;
+26:22; 27:27; ..." exists, so manually resolved in librodm.txt's Block
+2 to "Véase 398." (normalized to Block 2's own numeric+period
+convention, since Block 2 is a derived/resolved layer, not a verbatim
+transcription of Block 1's letter-form citation text).

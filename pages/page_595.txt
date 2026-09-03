@@ -1,0 +1,120 @@
+Página 595
+asimismo con aquéllos de sus hijos é hijas que no habían
+buscado su destrucción.
+3. Y el Señor avisó á Omer en un sueño que saliera del país;
+por lo tanto salió de él con su familia, y viajó por espacio de
+muchos días, pasando por el [4416]cerro de Shim, y llegó cerca del
+sitio donde [4417]fueron destruidos los Nefitas; y desde allí se dirigió
+hacia el Este, llegando á un paraje que llamaban [4418]Ablom, á
+las orillas del mar, donde plantó su tienda con sus hijos, hijas y
+toda su familia, excepto Jared y los de su casa.
+4. Y sucedió, y que Jared fué ungido rey sobre el pueblo,
+por mano de maldad; y dió su hija por esposa á Akish.
+5. Y sucedió, que Akish trató de quitar la vida á su padre político,
+para lo cual llamó en su ayuda á aquéllos, á quiénes había jurado
+con el [4419]juramento de los antiguos, y obtuvieron la cabeza de
+su padre político, según estaba sentado en su trono, dando
+audiencia á su pueblo.
+6. Porque tanto se había extendido esta malvada sociedad
+secreta y abominable, que había corrompido los corazones de
+todo el pueblo; por lo tanto, Jared fué asesinado sobre su trono,
+y Akish reinó en su lugar.
+7. Y sucedió, que Akish empezó á tener zelos de su hijo;
+por lo tanto le encerró en una prisión, con poco ó ningún alimento,
+hasta que murió.
+8. Y ahora, el hermano del que sufrió la muerte, (y su nombre
+era Nímrah,) se irritó en extremo contra su padre á causa de lo
+que había hecho con su hermano.
+9. Y aconteció, que Nímrah reunió á un pequeño número de
+hombres, y se huyó del país, y vino á habitar [4420]con Omer,
+10. Y sucedió, que Akish engendró otros hijos, los cuales
+ganaron, los corazones del pueblo, no obstante de haberles ellos
+jurado el hacer toda clase de iniquidades, según su deseo.
+11. Ahora, el pueblo de Akish estaba deseoso de ganancias,
+como Akish lo estaba de poder; por lo tanto, los hijos de Akish
+les ofrecieron dinero, atrayéndose así á su partido la mayor
+parte del pueblo;
+12. Y empezó la guerra entre Akish, y sus hijos, la que duró
+pos espacio de muchos años; sí, aun hasta la destrucción de
+casi todo el pueblo del reino; sí, pereciendo todos, excepto treinta
+almas, y los que se huyeron con la familia de Omer.
+13. Por lo tanto, Omer fué restaurado otra vez al [4421]país de su
+herencia.
+14. Y sucedió, que cuando Omer empezaba á envejecer,
+engendró á un hijo, á quién llamó Émer; y ungió á Émer para
+reinar en su lugar.
+
+9b, 4416: Véase d, Mormón 1.
+9c, 4417: Mormón 6:1-15.
+9d, 4418: Probablemente sobre la costa Noreste de los Estados Unidos.
+9e, 4419: Véase i, II Nefi 10.
+9f, 4420: Versículos 3.
+9g, 4421: Véase e, Éther 7.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon in: v.3 "país ;", v.4 "maldad ;", v.6 "pueblo ;", v.7
+"hijo ;", v.11 "poder ;"/"pueblo ;", v.12 "años ;"/"reino ;".
+Body text opens mid-sentence, continuing v.2 from page 594 ("...tuvo
+misericordia con Omer, como" + "asimismo con aquéllos..."); no hyphen,
+ordinary page-boundary break (rule 10 does not apply).
+v.3 "que saliera.del país": an extreme-zoom crop of the spot between
+"saliera" and "del" showed a small raised dot -- checked per rule 36's
+Google-OCR-first procedure: `google_text_1920/page_0617.txt` (line 3)
+independently reads "que saliera del país ;" with no period at all.
+Weight comparison against a genuine period on the same page ("su
+destrucción.", same zoom/crop settings) confirms the candidate mark is
+visibly lighter/smaller and not baseline-aligned the way real type is --
+a stray ink speck, not print. Transcribed with no period, matching
+Google's reading. No `errors in 1920.txt` entry needed (see the
+identical page-594 precedent for this exact failure mode).
+v.12 "la que duró pos espacio de muchos años": zoomed to confirm the
+image clearly prints "pos" (not "por"). `google_text_1920/page_0617.txt`
+independently agrees ("duró pos espacio de muchos años"). 1886
+(pages_1886/page_0609.png) prints "duró por espacio de muchos años" at
+the corresponding spot -- confirms this is 1920-exclusive. Preserved as
+printed per rule 32; candidate for errors in 1920.txt (Session E).
+Footnote letter sequence: chapter 9 continues from page 594's a (4415)
+with b (v.3, "cerro de Shim"), c (v.3, "fueron destruidos"), d (v.3,
+"Ablom"), e (v.5, "juramento"), f (v.9, "con Omer"), g (v.13, "país") --
+confirmed via direct zoom and content-fit against each resolved target.
+Mandatory 1879 check (rule: i/l/1 letters) -- footnote e's cross-
+reference target letter is "i" ("Véase i, II Nefi 10"), triggering the
+mandatory check. Cross-checked against 1879 (pages_1879/page_0597.png,
+printed page "589" fn block: "b, see d, Mor. 1.  c, Mor. 6:1-15.  d,
+probably on the shore of the New England States.  e, see i, II. Nep.
+10.  f, ver. 3.  g, see e, Ether 7."), which confirms all six
+letters/targets exactly, including the "i" target read unambiguously
+dotted, not "l". Content-fit also checks out for every entry (b/Mormón
+1 land-Shim reference, c/Mormón 6 final-battle-site reference,
+d/geographic conjecture on Ablom, e/secret combinations II Nefi 10
+reference matching the page-594 pattern, f/self reference to v.3's
+already-established Omer location, g/self reference to the earlier
+"land of his inheritance" narrative in Éther 7).
+1879's "f, ver. 3." (singular) vs. 1920's "Versículos 3." (plural) is a
+translation/wording difference, not a superscript ambiguity; both cite
+the same single verse. Not logged as an error.
+`check_line_wrap.py` flagged a +2 body-line-count difference against its
+Tesseract advisory OCR (44 vs. 42) -- checked against
+`google_text_1920/page_0617.txt` (a separate, more reliable extraction
+of the PDF's own embedded text layer, already used for the Session A
+step 10 cross-check above), which independently splits the body text
+into exactly 44 lines matching this page's line breaks one-for-one in
+both count and content. Treated as Tesseract merging two line pairs on
+this specific page's layout, not a real reflow issue.
+check_spaced_punctuation.py/check_footnote_punctuation.py both flagged
+three hits, all inside this Corrections log's own documentation of
+already-fixed spacing (quoting the original "país ;"-style printed
+forms being described, not live text) -- checked and confirmed not live
+defects, consistent with the standing note on both scripts.
+Session B: independently re-verified all 6 Block 1 entries (9b-9g) and
+all 6 [N] body markers against a fresh process_page.py crop (not reused
+from Session A) of the 1920 page -- all markers and words confirmed
+matching page_595.txt exactly, including the "pos espacio" spelling and
+the no-period "saliera del país" reading. The mandatory i cross-
+reference target (footnote e, "Véase i, II Nefi 10") was re-checked via
+a fresh, independent crop_page.py pass on pages_1879/page_0597.png
+(different crop coordinates than Session A) -- reconfirmed the identical
+reading "b, see d, Mor. 1.  c, Mor. 6:1-15.  d, probably on the shore of
+the New England States.  e, see i, II. Nep. 10.  f, ver. 3.  g, see e,
+Ether 7." No corrections needed from Session B.

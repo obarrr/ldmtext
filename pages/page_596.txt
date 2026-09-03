@@ -1,0 +1,91 @@
+Página 596
+15. Y después que hubo ungido á Émer por rey, vió la paz
+en su reino por espacio de dos años, y murió después de haber
+visto un inmenso número de días, que estuvieron llenos de pesares.
+Y reinó Émer en su lugar, marchando por las vías de su padre.
+16. Y el Señor empezó de nuevo á levantar la maldición que
+pesaba sobre el país, y prosperó la casa de Émer excesivamente
+bajo su reinado; y en el espacio de sesenta y dos años, vinieron
+á ser un pueblo muy fuerte, de tal modo que se hicieron sumamente ricos.
+17. Teniendo [4422]toda clase de granos, y de frutas, [4423]y de sedas,
+y de lino fino, [4424]y de oro, y de plata, y de objetos preciosos,
+18. Y también [4425]toda clase de ganados, y de bueyes, y de ovejas,
+y de cerdos, y de cabras, como también otras clases de animales
+que eran útiles para el alimento del hombre;
+19. Y tenían también [4426]caballos, y asnos, y habían elefantes,
+curelomes y cumomes, todos los que eran en extremo útiles
+para los hombres, y más especialmente los elefantes, curelomes
+y cumomes.
+20. De este modo es como derramó el Señor sus bendiciones
+sobre este país, que fué [4427]escogido sobre todos los demás; y Él
+mandó que cualquiera que poseyera el país, debía poseerlo para
+el Señor, ó de otro modo serían [4428]destruidos cuando hubiesen
+madurado en la iniquidad; porque sobre tales, dice el Señor,
+derramaré la plenitud de mi cólera.
+21. Y Émer hizo reinar la justicia por todos los días de su
+vida, engendrando muchos hijos é hijas; y engendró á Coriántum,
+á quién hizo consagrar rey para reinar en su lugar.
+22. Dedpués de haber ungido á Coriántum para que reinara
+en su lugar, vivió cuatro años, viendo el país en la paz; sí, hasta
+vió al Hijo de la Rectitud, y se regocijó, y se glorifició en su día;
+y murió en paz.
+23. Y acaeció, que marchó Coriántum por las vías de su padre
+construyendo muchas grandes ciudades, y ministrando lo que
+era bueno á su pueblo, en todos sus días. Sucediendo que no
+tuvo ningún hijo, hasta que fué de una edad muy avanzada.
+24. Y aconteció, que murió su esposa á la edad de ciento y
+dos años. Y ocurrió, que Coriántum tomó en su vejez por esposa
+á una jóven, y engendró hijos é hijas; viviendo hasta la edad de
+ciento cuarenta y dos años.
+25. Y aconteció, que engendro á Com, él que reinó en su
+lugar; y reinó cuarenta y nueve años, y engendró á Heth; y
+engendró también otros hijos é hijas.
+
+9h, 4422: Éther 1:41.
+9i, 4423: Éther 10:24.
+9j, 4424: Éther 10:12,23.
+9k, 4425: Versículos 31,34; Éther 10:12,19,20,26.
+9l, 4426: Véase m, I Nefi 18.
+9m, 4427: Véase i, Éther 2.
+9n, 4428: Éther 2:8-11.
+
+Corrections
+v.20 "sobre  todos" → "sobre todos" — justification-widened inter-word
+gap in print, normalized to one space per rule 6 (not logged as an
+error; no zoom needed, this is the standard blanket normalization).
+v.22 "Dedpués" — preserved as printed (misprint of "Después", "d" for
+"s"); confirmed via zoom that the letter is genuinely printed as "d",
+not an OCR artifact. Verify against 1886 in Session E.
+v.25 "engendro" (no accent, expected "engendró") — preserved as
+printed; confirmed via zoom no accent mark is present, unlike every
+other instance of "engendró" on this page. Verify against 1886 in
+Session E.
+v.22 "glorifició" (expected "glorificó") — preserved as printed;
+caught by the Google-text cross-check (Session A step 10), which read
+"glorifició" against my initial "glorificó" — a fresh zoom crop
+confirmed the image genuinely prints an extra "i" before "ó". Verify
+against 1886 in Session E.
+v.24 "hijas; viviendo" — Google-text cross-check flagged this as a
+comma in its OCR, but a wide, high-zoom crop confirms both the upper
+dot and the lower comma-tail of a genuine semicolon are present (the
+first, narrower crop had cropped out the lower tail, which was the
+source of Google's misread). Kept as ";", no correction.
+Mandatory 1879 check (letters i, l, and cross-reference target letter
+i in "Véase i, Éther 2"): cross-checked against pages_1879/page_0598.png
+(printed page 590; chapter_map.csv's listed 1879 file_page 596 is the
+chapter 9 *opening* page, not this content — the matching verses for
+this page's footnotes are two 1879 pages later). 1879 reads "h, Ether
+1:41. i, Ether 10:24. j, Ether 10:12,23. k, vers. 31-34. Ether
+10:12,19,20,26. l, see m, I. Nep. 18. m, see i, Ether 2. n, Ether
+2:8-11." — exact letter-for-letter and content match with 1920's
+printed letters h-n; no ambiguity, no correction needed.
+Session B: independently re-verified all 7 Block 1 entries (9h-9n) and
+all 7 [N] body markers against a fresh process_page.py/crop_page.py
+crop (not reused from Session A) of the 1920 page — all markers and
+words confirmed matching page_596.txt exactly. The mandatory i/l check
+(letters i, l, and cross-reference target i) was re-checked via a
+fresh, independent crop_page.py pass on pages_1879/page_0598.png
+(different crop coordinates than Session A) — reconfirmed the
+identical reading "h, Ether 1:41. i, Ether 10:24. j, Ether 10:12,23.
+k, vers. 31-34. Ether 10:12,19,20,26. l, see m, I. Nep. 18. m, see i,
+Ether 2. n, Ether 2:8-11." No corrections needed from Session B.

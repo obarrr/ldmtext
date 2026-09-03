@@ -27,10 +27,10 @@ por un lado y otros por otro, dejando sólo á Nefi, según se hallaba
 en medio de ellos.
 2. Y sucedió, que Nefi siguió su camino hacia su casa, meditando
 sobre las cosas que el Señor le había revelado.
-3. Y aceció, que según se hallaba sumido en su meditación—
+3. Y aceció, que según se hallaba sumido en su meditación--
 siendo extremadamente desanimado por la perversidad de los
 Nefitas, de sus tenebrosas [3308]obras, de sus asesinatos, pillajes y
-toda clase de iniquidades—sucedió que según meditaba todo
+toda clase de iniquidades--sucedió que según meditaba todo
 esto en su corazón, he aquí, que se oyó una voz que decía:
 4. Bendito eres tú, Nefi, por la obra que has hecho; porque
 he visto como has sido infatigable en predicar la palabra que
@@ -62,7 +62,7 @@ for "acaeció" (confirmed via 1886, page 459: "Y acaeció que según se
 hallaba..."; RAE confirms acaecer/acaeció is a legitimate verb meaning
 "suceder"; corpora show it's well-attested independent of "aconteció",
 the word I'd initially guessed at transcription time).
-[v.3, cap.10] Em dashes ("meditación—", "iniquidades—") reproduced as
+[v.3, cap.10] Em dashes ("meditación--", "iniquidades--") reproduced as
 printed (single em dash, no surrounding spaces).
 [fn a, cap.10] Footnote marker "a" (chapter 10's first footnote,
 superscript before "obras") cross-references "i, II Nefi 10" —
@@ -83,3 +83,5 @@ the target letter for chapter 10's first footnote is "i". Block 1
 reference text and both [3307]/[3308] marker placements (before
 "cinco" v.39, and before "obras" ch.10 v.3) match the 1920 image
 exactly.
+
+[2026-09-04 em-dash normalization] The em dash(es) [meditación--, iniquidades--sucedió (Helamán 10:3)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.

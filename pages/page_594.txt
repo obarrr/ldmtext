@@ -1,0 +1,161 @@
+Página 594
+secretas para obtener ganancia y poder, haciendo que se extiendan
+por toda la nación, he aquí, que será destruida. Porque
+el Señor no permitirá que la [4408]sangre de sus santos sea vertida
+por ellos, y clame constantemente hacia Él desde la tierra venganza
+contra ellos, sin concedérsela;
+23. Por lo que, es sabiduría en Dios, oh Gentiles, que os sean
+mostradas estas cosas, para que por medio de ellas os arrepintáis
+de vuestros pecados, y no permitáis que estas combinaciones
+de [4409]muertes y asesinatos lleguen á verificarse entre vosotros
+las que están organizadas con objeto de obtener poder y ganancias
+; y la obra, sí, aun la obra de destrucción no venga sobre
+vosotros, aun la [4410]espada de la justicia del Dios eterno, no caiga
+sobre vosotros para vuestra mayor ruina y completa exterminación
+, si consentís que se verifiquen estas cosas;
+24. Por lo que, el Señor os manda, cuando viereis que estas
+cosas llegaren á vosotros, que dispertéis á un sentimiento de
+vuestra terrible situación, á causa de esta combinación [4411]secreta,
+que existirá entre vosotros, ó, ay de ella, á causa de la [4412]sangre
+de los que hayan sido asesinados; porque claman venganza desde el
+polvo contra ella, y contra los que la hayan construido.
+25. Porque sucederá que cualquiera que la establezca, trate
+de [4413]destruir la ibertad de todos los países, naciones y pueblos.
+Y ella trae tras sí la destrucción de todo el pueblo, porque ella
+ha sido construida por el diablo, que es el padre de todas mentiras,
+sí, que es el mismo engañador que engañó á nuestros primeros
+padres, sí, aun el mismo mentiroso que ha hecho que los hombres
+maten desde el principio; que ha endurecido los corazones de
+los hombres de manera que asesinaran á los profetas, les desecharan
+y les apderearan desde el principio.
+26. Por lo tanto yo, Moroni, he recibido mandamiento de
+escribir estas cosas, para que sea borrado el mal, y pueda llegar
+el tiempo en que [4414]satán no tenga más poder sobre los corazones
+de los hijos de los hombres, sino que puedan persuadirse á hacer
+constantemente el bien, y de que vengan á la fuente de toda justicia
+y que se salven.
+
+CAPÍTULO 9.
+
+1. Y ahora, yo, Moroni, prosigo con mis anales. Por lo tanto,
+he aquí, que sucedió que á causa de las [4415]secretas combinaciones
+de Akish y sus amigos, trastornaron el reino de Omer;
+2. No obstante, el Señor tuvo misericordia con Omer, como
+
+8f, 4408: Véase f, II Nefi 28.
+8g, 4409: Véase i, II Nefi 10.
+8h, 4410: Véase k, I Nefi 14.
+8i, 4411: Véase i, II Nefi 10.
+8j, 4412: Véase f, II Nefi 28.
+8k, 4413: Versículos 21-22.
+8l, 4414: Véase n, II Nefi 30.
+9a, 4415: Véase i, II Nefi 10.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon in: v.22 "concedérsela ;"; v.23 "ganan-cias ;" (space
+consumed when the rejoined-word fragment "cias" was removed, leaving
+the semicolon to open the next line with no leading space); v.23
+"cosas ;"; v.24 "asesinados ;"; v.25/26 "principio ;"; v.1 (ch.9)
+"Omer ;".
+Rule 6 justification-gap normalization: "se  extien-(dan)", "destruida.
+Porque", and "manda,  cuando" each had a visibly wider printed gap than
+normal inter-word spacing; normalized to one space per rule. (Verse-
+number-initial double-space, e.g. "23.  Por lo que", is preserved
+throughout per this document's own established convention -- confirmed
+consistent with page 593 and earlier pages -- and is NOT the same
+phenomenon as a mid-line justification stretch.)
+Rejoined hyphenated line-break splits per rule 7: "extien-dan" ->
+"extiendan", "ven-ganza" -> "venganza", "ganan-cias" -> "ganancias"
+(fits under 73 chars appended to the first line; the following
+semicolon was not directly attached in print -- a decorative space
+intervened -- so it did not travel with the rejoined word and instead
+opens the next line), "extermina-ción" -> "exterminación" (same
+non-attached-semicolon situation applies to the following line),
+"desecha-ran" -> "desecharan", "jus-ticia" -> "justicia".
+Rule 8 line-length overflow: "que existirá entre vosotros, ó, ay de
+ella, á causa de la [4412]sangre de" measured 73 characters with the
+footnote marker inserted -- moved the last word ("de") to the start of
+the next line per rule 8, bringing both lines under 73.
+v.23 "la obra de destrucción": an initial extreme-zoom crop was read as
+a genuine, properly-formed period between "obra" and "de" -- this was
+WRONG, reversed after the editor's own direct look at the scan showed
+the mark's stroke weight is visibly lighter/thinner than an ordinary
+period elsewhere on the page, and `check_google_crosscheck.py`/
+`google_text_1920/page_0616.txt` independently confirm Google's OCR
+(trained on real type) reads this spot with no period at all: "cias ;
+y la obra, sí, aun la obra de destrucción no venga sobre". The mark is
+a stray ink speck, not print -- transcribed with no period, matching
+Google's reading. (Note for future pages: weigh a mark's stroke weight
+against surrounding genuine punctuation, not just its position/shape
+in isolation, before overriding a Google-OCR silence -- rule 36's
+"check Google before logging" logic is not actually limited to accent
+marks the way its literal wording suggests.) No `errors in 1920.txt`
+entry needed; the earlier entry logged for this spot has been removed.
+1886 (pages_1886/page_0608.png) separately prints its own unrelated
+stray period after "sí" in the same clause ("obra, sí. aun la obra de
+destruccion") -- a distinct, genuine 1886-side anomaly, not evidence
+about this 1920 spot.
+v.25 "la ibertad de todos los países": zoomed to confirm the image
+clearly prints "ibertad" with no leading "l" (expected "libertad").
+1886 (pages_1886/page_0608.png) prints "libertad" correctly at the
+corresponding spot -- confirms this is 1920-exclusive. Preserved as
+printed per rule 32; candidate for errors in 1920.txt (Session E).
+v.25/26 "les apderearan desde el principio": zoomed repeatedly at
+increasing magnification -- an intermediate-zoom crop briefly misread
+this as the ordinary correct spelling "apedrearan", but a final crop
+with the full ascender/descender range visible confirms the second
+letter has a true descender (rules out "n", confirms "p") and the
+following two letters read "d" then "e" (not "e" then "d") -- the
+image genuinely prints "apderearan", with the "d"/"e" transposed
+relative to the correct "apedrearan". check_google_crosscheck.py's
+independent OCR read ("apderearan") matches this final reading, not
+the intermediate misread. 1886 (pages_1886/page_0608.png) prints the
+correct "apedrearan" at the corresponding spot, confirming this is a
+genuine 1920-exclusive transposition error. Preserved as printed per
+rule 32; candidate for errors in 1920.txt (Session E).
+Footnote letter sequence: chapter 8 continues from page 593's e (4407)
+with f (v.22, "sangre"), g (v.23, "muertes"), h (v.23, "espada"), i
+(v.24, "secreta"), j (v.24, "sangre" 2nd instance), k (v.25,
+"destruir"), l (v.26, "satán") -- all confirmed via direct zoom and,
+for every entry, independently cross-checked against 1879
+(pages_1879/page_0596.png, printed page "588") by content match, since
+1879's ordinary italic type resolves this page's difficult swash font
+unambiguously. Chapter 9 restarts at a (v.1, "secretas").
+Mandatory 1879 check (rule: i/l/1 letters) -- extensive on this page,
+both for this chapter's own letters i and l, and for the cross-
+reference TARGET letter i (cited three times: 8g, 8i, 9a, all "Véase
+i, II Nefi 10"). 1879's clean italic type confirms all three "i"
+targets read exactly "i" (dotted), not "l". The chapter's own letters
+i and l are confirmed via strict alphabetic sequence (f-g-h-i-j-k-l)
+plus content match (i lands on "secreta"/"secret", l lands on "satán"/
+"satan"), independent of glyph shape.
+Beyond the mandatory letters, this page's swash-font footnote block
+proved ambiguous for three OTHER target letters as well, extending the
+1879 check per the rules' discretionary-extension clause: an initial
+1920-only read mistakenly transcribed 8h's target as "h" (actually
+"k"), 8j's target as "j" (actually "f"), and 8l's target as "m"
+(actually "n"). 1879's page_0596.png fn_zoom reads unambiguously in
+plain italic: "f, see f, II. Nep. 28.  g, see i, II. Nep. 10.  h, see
+k, I. Nep. 14.  i, see i, II. Nep. 10.  j, see f, II. Nep. 28.  k,
+vers. 21, 22.  l, see n, II. Nep. 30." and "a, see i, II. Nep. 10." --
+this is the same underlying Orson Pratt footnote apparatus in both
+editions (per CLAUDE.md), so the cross-reference targets should be,
+and here are, identical between editions; only the swash font made the
+1920-only read initially unreliable. All eight Block 1 entries above
+reflect the 1879-confirmed readings, not the initial 1920-only guess.
+Body text v.2 ends mid-sentence ("...tuvo misericordia con Omer, como")
+at the bottom of the page with no hyphen -- a normal page-boundary
+break (rule 10 does not apply); verse 2 continues on page 595.
+Session B: independently re-verified all 8 Block 1 entries (8f-8l, 9a)
+and all 8 [N] body markers against a fresh process_page.py crop (not
+reused from Session A) of the 1920 page -- all markers and words
+confirmed matching page_594.txt exactly, including the "apderearan"
+spelling. The mandatory i/l/1 cross-reference targets, and the three
+additional swash-ambiguous targets (8h->k, 8j->f, 8l->n), were
+re-checked via a fresh, independent crop_page.py pass on
+pages_1879/page_0596.png (different crop coordinates than Session A) --
+reconfirmed the identical reading "f, see f, II. Nep. 28.  g, see i,
+II. Nep. 10.  h, see k, I. Nep. 14.  i, see i, II. Nep. 10.  j, see f,
+II. Nep. 28.  k, vers. 21, 22.  l, see n, II. Nep. 30." and "a, see i,
+II. Nep. 10." No corrections needed from Session B.

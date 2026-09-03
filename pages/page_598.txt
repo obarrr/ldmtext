@@ -1,0 +1,132 @@
+Página 598
+
+CAPÍTULO 10.
+
+1. Y sucedió, que Shez era descendiente de Heth, y Heth
+había perecido por el hambre, lo mismo que toda su familia,
+excepto Shez; por lo tanto, empezó á restaurar otra vez los
+restos de un pueblo desorganizado.
+2. Y acaeció, que Shez, acordándose de la destrucción de sus
+padres, fundó un reino justo; porque no había olvidado lo que
+el Señor había hecho en traer á Jared y á su hermano [4435]al través
+de las grandes aguas; marchando así por las vías del Señor; y
+engendró hijos é hijas.
+3. Y el mayor de ellos, que se llamaba Shez, se rebeló contra
+él; pero Shez fué herido por mano de un ladrón, á causa de sus
+inmensas riquezas, lo que trajo la paz otra vez á su padre.
+4. Y sucedió, que su padre construyó muchas ciudades sobre
+la superficie del país, y el pueblo comenzó á esparcirse sobre toda
+la faz de la tierra otra vez. Y vivió Shez hasta una edad muy
+avanzada; y engendró á Riplákish, y murió. Y reinó Riplákish
+en su lugar.
+5. Y ocurrió, que Riplákish no hizo lo que era justo á los ojos
+del Señor, porque tuvo [4436]muchas mujeres y concubinas; y puso
+sobre los hombros de sus súbditos lo que era penoso de sobrellevar;
+sí, imponiéndoles grandes contribuciones, con cuyos impuestos
+hizo construir vastos edificios.
+6. Y mandó construir un magnífico trono, y edificó numerosas
+prisiones; donde encerraba á cuantos no querían pagar los
+impuestos; y lo mismo hizo con aquéllos que no podían pagarlos.
+Haciéndoles trabajar constantemente para su sostén, castigando
+con pena de la muerte á quienquiera que rehusare trabajar;
+7. Así obtuvo todas sus obras delicadas, sí, hasta hizo que
+refinaran su oro fino, é hizo que trabajaran toda clase de obras
+preciosas en prisión; y sucedió, que afligía á su pueblo por sus
+[4437]fornicaciones y sus abominaciones;
+8. Y cuando hubo reinado cuarenta y dos años, se sublevó
+el pueblo en rebelión contra él; y empezó la guerra otra vez
+en el país; de tal modo, que mataron á Riplákish, y sus descendientes
+fueron arrojados del país.
+9. Y sucedió, que después de muchos años, Moriánton, (uno
+de los descendientes de Riplákish,) reunió un ejército de los
+desechados del país, y se fué y dió batalla al pueblo; y tomó
+muchas ciudades, y la guerra vino á ser muy sangrienta y duró
+por espacio de muchos años, hasta que consiguió subyugar
+todo el país, coronándose rey sobre todo el país.
+
+10a, 4435: Éther 6:1-12; 7:27.
+10b, 4436: Véase k, l, y q, Jacob 2.
+10c, 4437: Véase i, II Nefi 28.
+
+Corrections
+Space-before-semicolon normalized per rule 31 (mechanical, not logged
+as errors): v.1 "Shez ; por" → "Shez; por"; v.2 "justo ; porque" →
+"justo; porque"; v.2 "aguas ; marchando" → "aguas; marchando"; v.2
+"Señor ; y" → "Señor; y"; v.3 "él ; pero" → "él; pero"; v.5
+"concubinas ; y" → "concubinas; y"; v.5 "sobrellevar ; sí" →
+"sobrellevar; sí"; v.6 "prisiones ; donde" → "prisiones; donde"; v.6
+"impuestos ; y" → "impuestos; y"; v.6 "trabajar ;" → "trabajar;"; v.7
+"prisión ; y" → "prisión; y"; v.7 "abominaciones ;" → "abominaciones;";
+v.8 "él ; y" → "él; y"; v.8 "país ; de" → "país; de"; v.9 "pueblo ; y"
+→ "pueblo; y".
+v.9 "ciudades , y" → "ciudades, y" — space before comma removed per
+rule 31.
+Justification-widened inter-word gaps normalized to one space per rule
+6 (not logged as errors, no zoom needed): v.3 "causa de  sus" → "causa
+de sus"; v.9 "hasta que  consiguió" → "hasta que consiguió".
+Rule 7 hyphen rejoin: v.8 "des-"/"cendientes" rejoined as
+"descendientes" — appending it to the prior line kept that line under
+73 chars, so it stays at the end of the line per rule 7.
+No subtitle line present at this chapter opening (CAPÍTULO 10. is
+followed directly by verse 1, confirmed via image — no descriptive
+line to transcribe, unlike some other chapter openings in this book).
+Mandatory 1879 check (footnote 10b's cross-reference target letter l,
+and 10c's target letter i — both in the mandatory i/l/1 set): cross-
+checked against pages_1879/page_0600.png (printed page 592). 1879
+reads "a, Ether 6:1-12. 7:27. b, see k, l, and q, Jacob 2. c, see i,
+II. Nep. 28." — exact letter-for-letter and content match with 1920's
+printed a/b/c and their k, l, q, i cross-reference letters. The "l"
+glyph was independently confirmed at high zoom on the 1920 image
+itself (page_598_l.png crop) as a continuous unbroken vertical stroke,
+matching the "l" shape described in the rules (as opposed to "i"'s
+short stroke with a separated dot) — no ambiguity in either edition.
+Note for Session B/E: `check_line_wrap.py` and `check_google_crosscheck.py`
+both reported 0 body chars/lines for this page — not a transcription
+defect. Both scripts' `body_lines()` helper stops at the first blank
+line after "Página N", and rule 1 mandates a blank line between
+"Página N" and a chapter-heading page like this one (confirmed against
+other already-completed chapter-opening pages, e.g. page_449.txt,
+page_456.txt, page_459.txt, which use the identical
+"Página N / blank / CAPÍTULO N." layout). The Google cross-check was
+done manually instead: `google_text_1920/page_0620.txt` read directly
+and compared line-by-line against this file — no letter-level
+discrepancies found; the only differences are Google's own space-
+before-punctuation formatting, its dropped superscript footnote
+letters, and one word-fusion artifact (v.5 "sobrelos hombros" for
+"sobre los hombros" — Google OCR merging two words with a real space
+between them in print, not a transcription issue).
+Session B: independently re-verified all 3 Block 1 entries (10a-10c)
+and all 3 [N] body markers against a fresh process_page.py crop (not
+reused from Session A) of the 1920 page — all markers and words
+confirmed matching page_598.txt exactly. The mandatory i/l check
+(footnote 10b's cross-reference letter l, and 10c's target letter i)
+was re-checked via fresh, independent crop_page.py crops of
+pages_1879/page_0600.png at different coordinates than Session A —
+reconfirmed the identical reading "a, Ether 6:1-12. 7:27. b, see k, l,
+and q, Jacob 2. c, see i, II. Nep. 28." No corrections needed from
+Session B.
+Session E: fresh pptext report (`workspace/report_wsl_20260824.html`)
+regenerated and walked for this page's new content. Spellcheck Suspect
+Words section has zero hits from this page's vocabulary (checked
+directly — the section's full ~10-word list is unrelated to page 598).
+Whole-document sweeps all re-ran clean: spaced punctuation
+(`librodm.txt`, `librodm_foot.txt`), footnote punctuation
+(`librodm_foot.txt`), verse indent (`librodm.txt`), curly-quote scan,
+footnote-anchor/Block-2-definition cross-check, and the footnote-number
+duplicate/out-of-range/missing sweep (max anchor now 4437, zero
+duplicates, only the already-documented Jacob 2:15/812 gap missing).
+This page's own body/footnote text has no letter-hyphen-letter compound
+words and no mixed-case-within-word tokens (checked directly; the only
+hyphenated tokens on the page are in this file's own English-language
+Corrections prose, e.g. "cross-check", not Spanish body text). No
+errors-in-1920.txt candidates: this page's Corrections log contains no
+"preserved as printed, verify against 1886"-style suspected-misprint
+notes to promote — every correction made was mechanical (spacing,
+hyphen rejoin) or purely informational (1879 check, no-subtitle note,
+script-limitation note). No narrow-space-vs-merge defaults were made on
+this page (nothing to batch for the editor). No `permitted words.txt`
+additions needed — this page's archaic/inflected forms (aquéllos,
+rehusare, quienquiera, sobrellevar, subyugar, coronándose, etc.) are
+not flagged by pptext at all (confirmed via the Spellcheck Suspect
+Words check above), so an addition would be a no-op per the "Jesu
+Cristo" precedent.

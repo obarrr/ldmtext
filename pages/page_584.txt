@@ -28,7 +28,7 @@ al hermano de Jared todos los habitantes que habían en la
 tierra, y todos los que habían de haber; sin ocultarles de su vista,
 aún hasta el fin del mundo;
 26. Porque Él le había dicho en otro tiempo: Que si creyere
-en Él, que Él tenía poder para mostrarle todas las cosas—le
+en Él, que Él tenía poder para mostrarle todas las cosas--le
 serían manifestadas; por lo tanto, el Señor no pudo rehusarle
 ninguna cosa, porque él sabía que el Señor podía mostrarle todas
 las cosas.
@@ -88,8 +88,8 @@ the dominant theme of this whole passage (repeated as "mostró"/
 "mostrarle"/"mostraré" in v.18, 25, 26, 27), "mostró" is essentially
 certain; kept as transcribed, treating the glyph as print-damaged
 rather than a genuine "í" misprint.
-Google cross-check candidate v.26 "cosas—le" — Google's OCR dropped
-the em-dash entirely (mine: "cosas—le", google: "cosasle"); the image
+Google cross-check candidate v.26 "cosas--le" — Google's OCR dropped
+the em-dash entirely (mine: "cosas--le", google: "cosasle"); the image
 clearly shows an em-dash at that position, not a line-break hyphen or
 missing punctuation — an ordinary Google OCR omission, no action
 needed.
@@ -138,10 +138,12 @@ re-run clean. Direct whole-document curly-quote character scan
 above were swept against the mandatory 1886-comparison check: none
 describe a suspected 1920 print misprint (the mos-/tró and Éther
 4:1,2 items are mechanical rule 7/23 applications; the "sabía" and
-"cosas—le" items are resolved Google cross-check candidates that
+"cosas--le" items are resolved Google cross-check candidates that
 confirmed the existing transcription; the "hé aquí" item is a
 genuine but ordinary spelling-consistency note, not a misprint
 question; the "mostró" item is a print-damage identification, not a
 1920-vs-1886 divergence), so no new `errors in 1920.txt` entries
 result from this page. No narrow-space-vs-merge notes to batch for
 the editor from this page.
+
+[2026-09-04 em-dash normalization] The em dash(es) [cosas--le (Éther 3:26)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.

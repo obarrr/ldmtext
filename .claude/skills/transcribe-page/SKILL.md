@@ -56,7 +56,13 @@ Trigger: "Transcribe page NNN[, first footnote NNNN]."
    — do not defer it to Session B by default. Flag and zoom-verify any
    suspected misprints per rule 32 (preserve as printed, log in
    Corrections, never silently "correct").
-8. Write `pages/page_NNN.txt` (body + Block 1 + Corrections).
+8. Write `pages/page_NNN.txt` (body + Block 1 + Corrections). The very
+   first line of the file is ALWAYS `Página NNN` — no exception for a
+   page that opens mid-verse (rule 1). For a mid-verse or fresh-verse
+   opening, the body text starts on the next line with no blank line
+   after `Página NNN`; only a `CAPÍTULO N.`/book header gets a blank
+   line between it and `Página NNN`. (Pages 537/538 lost their marker
+   line this way — see rule 1's failure-mode note.)
 9. Run `check_spaced_punctuation.py pages/page_NNN.txt` first — the
    mechanical backstop for rule 31 (flags any space before a comma,
    semicolon, colon, "!", or "?", whether from the original print or

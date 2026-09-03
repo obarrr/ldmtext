@@ -42,6 +42,16 @@ The specific wrapped-entry bug is now fixed, but the general lesson
 (check state after any crash before retrying) still applies to any
 future failure mode.
 
+After running, confirm each integrated page actually got its
+`Página NNN` divider line in `librodm.txt` (`grep -n "Página NNN"
+librodm.txt` returns exactly one hit per page). Every page has this
+line, including pages that open mid-verse (rule 1) — pages 537/538
+were integrated without it once because their Session A files were
+missing the marker, and the gap went unnoticed for weeks. A quick
+contiguity check is worth it: the `Página N` numbers in `librodm.txt`
+should run consecutively with no gaps across the pages processed so
+far.
+
 Output: `librodm.txt` and `librodm_foot.txt` updated. Block 2 generation
 (resolving cross-references to sequential numbers) happens next in
 Session D, before Session E's orthography check.

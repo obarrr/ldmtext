@@ -1,0 +1,147 @@
+Página 588
+4. Y sucedió, que cuando hubieron preparado todo género
+de provisiones para su subsistencia sobre las aguas, así como
+alimento para sus [4378]rebaños y granados, y para toda cuanta ave,
+bestia y animal conducían; aconteció, que cuando hubieron
+hecho todas estas cosas, entraron en sus barcos ó buques, y
+empezaron su viaje, encomendándose al Señor, su Dios.
+5. Y ocurrió, que el Señor hizo que soplara un viento [4379]furioso
+sobre la superficie de las aguas, hacia la tierra de la promisión.
+Y así impelidos por el viento, continuaron en camino, sacudidos
+por las olas del mar.
+6. Y sucedió, que muchas veces quedaron sumergidos en la
+profundidad del mar, á causa de las agitadas olas que como
+montañas se estrellaban sobre ellos, como también á causa de
+las grandes y terribles tempestades causadas por la impetuosidad
+del viento.
+7. Y aconteció, que cuando ellos se veían sepultados en la
+profundidad, el agua no pudía dañarles; puesque sus barcos
+estaban tan [4380]cerrados como un vaso: tan cerrados como el arca
+de Noé; por tanto, cuando se veían ellos sumergidos por muchas
+aguas, imploraban al Señor, y Él les sacaba otra vez á la superficie
+de las aguas.
+8. Y ocurrió, que no dejó de soplar el viento hacia la tierra
+de promisión, mientras que se hallaron sobre las aguas; siendo
+así llevados por el viento;
+9. É iban cantando alabanzas al Señor, sí, el hermano de
+Jared cantaba alabanzas al Señor, y daba gracias y loor al Señor
+en todo el curso del día, no cesando de alabar al Señor cuando
+llegaba la noche.
+10. Y así fueron llevados hacia adelante, sin que ningún
+monstruo de la mar pudiera romperles, ni ninguna ballena
+pudiera hacerles daño; teniendo constantemente la [4381]luz, tanto
+cuando se hallaban encima, como cuando estaban debajo de las
+aguas.
+11. Y de este modo fueron impelidos sobre las aguas por el
+espacio de trescientos cuarenta y cuatro días;
+12. Y desembarcaron en las [4382]costas de la tierra prometida.
+y al poner sus pies sobre la costa del país de promisión, se
+prosternaron, inclinándose hasta la faz de la tierra, humillándose ante
+el Señor, y vertiendo lágrimas de gozo ante el Señor, por la multitud
+de sus tiernas misericordias hacia ellos.
+13. Y ocurrió, que se fueron pues sobre la superficie del país,
+empezando á cultivar la tierra.
+
+6d, 4378: Véase b, Éther 2.
+6e, 4379: Versículo 6; Éther 2:24-25.
+6f, 4380: Éther 2:17,20.
+6g, 4381: Véase d, Éther 3.
+6h, 4382: Sobre la costa Oeste de Norte América y probablemente al sur del
+Golfo de California, y al norte de la tierra de Desolación, que fué al norte
+del Istmo; Éther 7:6; Alma 22:29-34.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon/colon in seven instances (v.4 "conducían ;"; v.7 "dañarles
+;", "vaso :", "Noé ;"; v.8 "aguas ;", "viento ;"; v.11 "días ;").
+Rule 7 hyphen rejoins: v.7 "super-/ficie" -> "superficie" (kept at end of
+line, 68 chars); v.12 "proster-/naron," -> "prosternaron," (moved to start
+of next line instead, since appending it to the first line would have
+reached 74 chars); v.12 "mul-/titud" -> "multitud" (kept at end of line,
+69 chars).
+v.7 "pudía": zoomed to confirm the image clearly prints "pudía" (with u),
+not "podía" — a suspected misprint. Preserved as printed per rule 32;
+verify against 1886.
+v.7 "puesque": one word as printed (not "pues que"), unusual but zoomed
+and confirmed. Preserved as printed; verify against 1886/RAE for
+archaic-legitimacy in Session E.
+v.8 "mientras": at first glance this looked like it could read "mientias"
+(missing r), but a high-zoom crop confirms a normal, if lightly-inked,
+"r" — transcribed as "mientras" (standard spelling), no misprint.
+v.12: the image clearly prints a period after "prometida." followed by a
+new line beginning with lowercase "y" ("...tierra prometida.\ny al poner
+sus pies..."), even though the sentence grammatically continues (this
+"y" is not sentence-initial). Preserved exactly as printed per rule 32
+(not silently changed to a comma); flag for the editor and verify
+against 1886.
+Footnote 6e/6f verse-range formatting: original prints "Éther 2 : 24, 25."
+and "Éther 2 : 17, 20." with spaces around the colon; normalized colon
+spacing per rule 22, then applied rule 23 (consecutive verses ->
+hyphenated range) for 6e's "24, 25" -> "24-25", and rule 24
+(non-consecutive verses -> comma, no space) for 6f's "17, 20" -> "17,20".
+No narrow-space-vs-merge candidates arose on this page.
+Google cross-check: `check_google_crosscheck.py 588` reported 0 candidates
+worth investigating (2 dismissed as footnote-marker glue, 1 dismissed as
+trailing footnote-block content). A direct read of
+`google_text_1920/page_0610.txt` independently corroborates all three
+flagged anomalies above — Google's OCR also reads "pudía" (not "podía"),
+"puesque" as one word, and the period-then-lowercase-y at v.12
+("prometida.\ny al poner") — reinforcing that these are genuine features
+of the print, not transcription misreads.
+Session B: independently re-verified all 5 Block 1 entries and all 5 [N]
+body markers against a fresh `process_page.py` crop (not reused from
+Session A) of the 1920 page. All reference text and marker placements (d
+"rebaños" v.4, e "furioso" v.5, f "cerrados" v.7, g "luz" v.10, h
+"costas" v.12) confirmed matching page_588.txt exactly. Neither of this
+page's own footnote letters (d-h) nor its cross-reference target letters
+(b, d) is i/l/1, so the mandatory 1879 check does not apply on this page.
+No discrepancies found; no corrections needed from Session B.
+Session D: `generate_block2.py 588` resolved all 5 entries automatically,
+no unresolved cross-references. Verified 4378 ("Véase b, Éther 2" -> 4290)
+and 4381 ("Véase d, Éther 3" -> 4310) against librodm_foot.txt directly:
+Éther 2's own b is 4290; Éther 3's own d is 4310, matching the identical
+"Véase d, Éther 3" resolution already used for page 587's 6a/6c entries
+(4375, 4377). Content-fit sanity check passed: 4378 ("Éther 1:41; 6:4; 9:18-19") for
+v.4's "rebaños" cites this same chapter 6 back at itself (6:4); 4381
+("Versículos 1,4,6; Éther 6:2-3,10.") likewise cites this page's own
+verses 1/4/6 and chapter 6 back at itself — the identical target already
+resolved for page 587's 6a/6c entries (4375, 4377), consistent with the
+"piedras"/stones narrative both chapters describe.
+Session E: fresh pptext regeneration (`workspace/report_wsl_20260806.html`)
+found no Spellcheck Suspect Words or Edit Distance flags for any of this
+page's distinctive vocabulary (pudía, puesque, rebaños, prometida,
+desembarcaron, impelidos, monstruo, tempestades, impetuosidad,
+misericordias, humillándose, prosternaron, superficie, furioso, mientras).
+Line-number citations within this page's ranges (26191-26233 body,
+30940-30950 Block 2) all trace to the short/long-lines checks' routine
+verse-wrap boundaries, the same established non-issue category as prior
+pages. Swept this page's own Corrections log per the mandatory-check
+requirement: three suspected-misprint items were logged in Session A --
+"pudía" (v.7), the lowercase "y" after the period (v.12), and "puesque"
+(v.7) -- all three checked against the 1886 image
+(pages_1886/page_0602.png, book page 584/file 602). Results: "pudía" is a
+genuine 1920-only error (1886 prints "podía"; no RAE DLE entry for
+"pudía"; added to `errors in 1920.txt` and to `permitted words.txt`).
+The v.12 lowercase "y" is also a genuine 1920-only error (1886 prints
+capital "Y" starting a new sentence at the same spot, "tida.  Y al
+poner..."; the period itself matches 1886, only the capitalization is
+wrong; added to `errors in 1920.txt`). "puesque" matches 1886 exactly at
+the identical spot (both editions print it as one word), so it is a
+legitimate archaic/period form, not an error; RAE DLE has no entry for
+it and none of the three reference corpora contain it, but the exact
+same-spot agreement across both editions of this translation lineage is
+stronger evidence than a general corpus search -- already present in
+`permitted words.txt` from an earlier page, no new addition needed.
+Whole-document `check_spaced_punctuation.py`, `check_footnote_punctuation.py`,
+and `check_verse_indent.py` all re-run clean against `librodm.txt`/
+`librodm_foot.txt`. The footnote anchor<->Block 2 definition cross-check
+(whole document) came back clean: zero duplicate Block 2 numbers, zero
+anchored-but-undefined numbers, only the already-documented 812 (Jacob
+2:15) defined-but-not-anchored gap. A direct range scan of 1..4382 found
+zero missing numbers (besides 812), zero duplicate body anchors, zero
+out-of-range anchors -- footnote range 4378-4382 fully accounted for.
+Direct curly-quote character scan of both master files came back clean
+(zero instances). No narrow-space-vs-merge flags arose to batch for the
+editor. This page introduced no new hyphenated letter-hyphen-letter
+compound tokens, so the periodic dash-check compound scan was not
+re-run.

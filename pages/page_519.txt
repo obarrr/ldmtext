@@ -22,7 +22,7 @@ vaya, para que, si mi gente de Jerusalem, los que me vieron y
 estuvieron conmigo en el ministerio, no piden al Padre en mi
 nombre, para que reciban conocimiento de vosotros por medio
 del Espíritu Santo, y también de las [3718]otras tribus de que no
-saben—para que se guarden estas mis palabras, que vosotros
+saben--para que se guarden estas mis palabras, que vosotros
 escribiréis, y serán manifestadas [3719]a los Gentiles, para que por
 la [3720]plentitud de los Gentiles el resto de su posteridad que será
 esparcida sobre la superficie de la tierra á causa de su incredulidad,
@@ -63,7 +63,7 @@ Hyphen rejoin (rule 7): v.1 "minis-/trando" -> "ministrando"
 (line-break split).
 Hyphen rejoin (rule 7): v.4 "incre-/dulidad" -> "incredulidad"
 (line-break split).
-Em-dash "saben—para" (v.4): confirmed genuine, not a hyphen or
+Em-dash "saben--para" (v.4): confirmed genuine, not a hyphen or
 line-break artifact; preserved as printed.
 Chapter 15's continuing lettering (u, v) resolved via glyph shape
 (u: two-hump stroke before "excepto"; v: open two-stroke shape
@@ -163,3 +163,5 @@ range. Corrections-log sweep found nothing else needing a fresh
 1886/RAE check -- the stray-mark, u/v-lettering, and h-target
 findings were already resolved with their own 1879 cross-checks in
 Session A/B.
+
+[2026-09-04 em-dash normalization] The em dash(es) [saben--para (III Nefi 16:4)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.

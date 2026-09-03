@@ -1,0 +1,139 @@
+Página 602
+12. Y sucedió, que en los días de Éthem vinieron [4457]muchos
+profetas que profetizaron al pueblo; sí, profetizaron que el Señor
+les destruiría completamente de sobre la faz de la tierra, si no se
+arrepintieren de sus iniquidades.
+13. Y acaeció, que el pueblo se endurecía en sus corazones, y no
+hacía caso de sus palabras; y lloraron los profetas, y se retiraron
+de entre el pueblo.
+14. Y sucedió, que Éthem juzgó en maldad todos sus días;
+y engendró á Morón, y sucedio, que Morón reinó en su lugar,
+haciendo también lo malo en los ojos del Señor.
+15. Y aconteció, que se levantó entonces una rebelión entre el
+pueblo, á causa de aquella [4458]secreta combinación que fué organizada
+para obtener poder y ganancias; y levantóse entre ellos
+un hombre poderoso en iniquidad, él que dió la batalla á Morón,
+y conquistó la mitad del reino, que conservó por muchos años.
+16. Pero ocurrió, que Morón consiguió vencerle y recuperar
+otra vez el reino.
+17. Y vino á suceder, que se levantó entonces otro hombre
+poderoso, que era descendiente del hermano de Jared.
+18. Y sucedió, que venció á Morón, y se apoderó del reino;
+por lo tanto, Morón vivió en cautividad todo el resto de sus
+días, y engendró á Coriántor.
+19. Y vino á ocurrir, que permaneció Coriántor en cautividad
+por todos los días de su vida.
+20. En los días de Coriántor vinieron [4459]muchos profetas, que
+profetizaron grandes y maravillosas cosas, clamando el arrepentimiento
+al pueblo, que excepto que se arrepintieren, el Señor
+Dios ejecutaría un juicio contra ellos para su completa destrucción;
+21. Y que el Señor Dios traería á [4460]otro pueblo á poseer el
+país, del mismo modo que antes trajo á sus padres.
+22. Pero ellos rechazaron las palabras de los profetas, á causa
+de sus [4461]secretas sociedades é inicuas abominaciones.
+23. Y vino á suceder, que Coriántor engendró á Éther, y
+murió, habiendo vivido en cautividad todos los días de su vida.
+
+CAPÍTULO 12.
+
+1. Y sucedió, que vivió Éther en la época de Coriántumr, y
+Coriántumr era rey sobre todo el país;
+2. Y Éther era profeta del Señor; por lo tanto, Éther vino en
+
+11f, 4457: Véase p, Éther 9.
+11g, 4458: Véase i, II Nefi 10.
+11h, 4459: Véase p, Éther 9.
+11i, 4460: Una pequeña colonia de Jerusalem; Éther 13:20-21.
+11j, 4461: Véase i, II Nefi 10.
+
+Corrections
+v.14 "sucedio" — printed without the acute accent (Google OCR
+page_0624.txt line 9 also reads "sucedio"; both other instances of
+"sucedió" in v.12 and the opening of v.14 clearly carry the acute).
+Preserved as printed per rule 32; verify against 1886 in Session E
+(likely 1920 misprint for "sucedió").
+v.13 "se endurecía en sus corazones, y no" — 1920 print runs these
+words tight from justification and Google OCR fuses them
+("endurecíaensuscorazones,yno"); transcribed as separate words with
+single spaces per rule 6 (grammar requires it). Same treatment for
+v.15 "se levantó" (Google "selevantó") and v.18 "venció á" (Google
+"vencióá"). No errors-log entry.
+v.15 "organi-" / "zada" line-break hyphen rejoined to "organizada"
+per rule 7 (rejoined line 71 chars, kept at end of its line; "para"
+starts the next line).
+v.20 "arre-" / "pentimiento" rejoined to "arrepentimiento" per rule 7
+(70 chars, kept at line end). v.20 "destruc-" / "ción" rejoined to
+"destrucción" per rule 7, with the following ";" attached (68 chars,
+kept at line end); the standalone "ción ;" image line is absorbed.
+Rule 31: the 1920 print sets a space before every ";" on this page
+("pueblo ;", "palabras ;", "días ;", "ganancias ;", "reino ;",
+"ción ;", "país ;", "Señor ;") plus the footnote "Jerusalem ;" and
+spaced colon "Éther 13 : 20, 21"; all normalized per rules 31/22.
+Chapter 12 opens on this page (after v.23, a centered rule, then
+"CAPÍTULO 12."). No subtitle in 1920; 1879 "CHAPTER 12." (file page
+604) also has no subtitle.
+Footnote target letters: "p" (Véase p, Éther 9) in 11f/11h and "i"
+(Véase i, II Nefi 10) in 11g/11j — mandatory 1879 i/l/1 check
+(Section 8). 1879 file page 604 footnote block reads "e, see p,
+Ether 9.  f, see i, ii. Nep. 10.  g, see p, Ether 9.  h, A small
+colony from Jerusalem.  Ether 13:20, 21.  i, see i, ii. Nep. 10."
+(1879's chapter-11 lettering runs one letter behind 1920's because
+1920 has one extra chapter-11 footnote on page 601). Matching by
+target content (rule 26): 1879 e/g = 1920 11f/11h (p, Éther 9),
+1879 f/i = 1920 11g/11j (i, II Nefi 10), 1879 h = 1920 11i (colony
+from Jerusalem, Éther 13:20-21). The target "i" in 1879 is a short
+dotted letter, not "l" (no ascender) or "1"; the target "i, II Nefi
+10" also matches page 601's 11d and page 600's footnote q.
+Content-fit: II Nefi 10 cited for "secreta combinación" (v.15) and
+"secretas sociedades" (v.22); Éther 9 cited for the two "muchos
+profetas" spans (v.12, v.20); the Jerusalem colony note for "otro
+pueblo á poseer el país" (v.21).
+check_google_crosscheck: 2 candidates, both the acute on "Éthem"
+(mine "É" vs Google "E") in v.12 and v.14 — Google routinely drops
+capital-letter accents; high-zoom read shows a clear acute on both,
+and page 601 v.11 already established "Éthem" with the accent. No
+change.
+check_line_wrap flagged txt 34 vs OCR 38 body lines: accounted for by
+the rule-7 absorption of the fragment-only image line "ción ;" into
+the prior line (v.20 "destrucción;") plus the mid-page "CAPÍTULO 12."
+break, which the script's pre-heading body-line count does not span.
+All line endings read directly from the top/mid/bot crops.
+Session B: re-read the 1920 fn_zoom at high horizontal zoom (letters
+f, g, h, i, j; targets p / i / p / — / i) and independently re-read
+the 1879 file-page-604 footnote block ("e, see p, Ether 9.  f, see i,
+ii. Nep. 10.  g, see p, Ether 9.  h, A small colony from Jerusalem.
+Ether 13:20, 21.  i, see i, ii. Nep. 10."). Every "i" (11g/11j
+targets, and the 11i chapter letter) is a short dotted glyph in both
+editions — not "l" (no ascender) and not "1"; mandatory i/l/1 check
+satisfied against the independent 1879 source. All five [N] markers
+re-confirmed before muchos (v.12), secreta (v.15), muchos (v.20),
+otro (v.21), secretas (v.22). No changes.
+Session E: full 1886 comparison (pages_1886/page_0616.png, printed
+page 598, plus p615 for vv.10-11) of Éther 11:12-23 and 12:1-2 — no
+1920-only substantive deviation. 1886 prints v.13 "se endurecía en",
+v.15 "se levantó", v.18 "venció á" with normal word spacing,
+confirming the two-word transcriptions (narrow-space-vs-merge notes
+for the editor: Éther 11:13 "endurecía"/"en", 11:15 "se"/"levantó",
+11:18 "venció"/"á" — all committed as two words, 1886 + grammar
+agree). 1886 "CAPÍTULO 12." also has no subtitle.
+"sucedio" (Éther 11:14) resolved as a genuine 1920 error and logged:
+missing preterite accent, shared with 1886 at the exact spot (same
+inherited-error pattern as Éther 9:30 "rapidamente" / 9:22
+"glorifició" / "seperado"), RAE requires the accent, the rest of the
+document — including v.12 and v.14's own opening — accents it, and
+the modern Spanish edition uses "sucedió". Added to
+`permitted words.txt` and `errors in 1920.txt` (Éther 11:14 entry).
+Text preserved as printed.
+Fresh full pptext report (workspace/report_wsl_20260826b.html) walked
+end to end: the only page-602 findings are "sucedio"
+(spellcheck/edit-distance, now logged), short-lines-check
+verse-boundary and short-Block-2-entry false positives, and the
+dash-check hyphen-minus entry "4460: ... Éther 13:20-21" (legitimate
+verse range). No repeated-word, duplicate-line, ellipsis, scanno,
+curly-quote, special-situations, book-level, or paragraph-level
+findings touch this page. Whole-document sweeps
+(check_spaced_punctuation, check_footnote_punctuation,
+check_verse_indent, the footnote-anchor/Block-2 cross-check, and a
+footnote-number duplicate/out-of-range/missing sweep [max anchor now
+4461], curly-quote scan) all clean, only the long-documented Jacob
+2:15/812 gap remaining.

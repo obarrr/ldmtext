@@ -1,0 +1,241 @@
+Página 622
+por causa de vuestra mansedumbre; porque si no tenéis fe en
+Él, entonces no seréis dignos de ser contados entre el pueblo de
+su iglesia.
+40. Y ahora, amados hermanos míos, voy á hablaros otra vez
+algo respecto á la [4592]esperanza. ¿Cómo podréis tener fe, si no
+tenéis esperanza?
+41. Y ¿qué es lo que debéis esperar? He aquí, os digo que la
+esperanza que habéis de tener es, que por medio de la [4593]expiación
+de Cristo, y el poder de su resurrección, seréis [4594]resucitados á la
+vida eterna; y esto á causa de vuestra fe en Él según la promesa;
+42. Por cuyo motivo, si un hombre tiene fe, es necesario que
+tenga esperanza; porque sin fe no puede haber esperanza.
+43. Y otra vez, os digo, que el hombre no puede tener fe, ni
+esperanza, como, no sea manso y humilde de corazón;
+44. Porque si no, su fe y su esperanza son vanas, porque nadie
+es aceptable ante Dios, como no sea manso y sencillo de corazón; y
+si un hombre es humilde y sencillo en su corazón, y confiesa por
+el poder del Espíritu Santo que Jesús es el Cristo, es necesario que
+tenga [4595]caridad; porque si no tiene caridad, él no es nada;
+por lo tanto, es necesario que tenga caridad.
+45. La caridad es sufrida y benigna; no tiene envidia, no se
+hincha, no busca lo suyo, no se irrita facilmente, no piensa el
+mal; no se recocija en la iniquidad, mas se regocija en la verdad;
+todo lo sufre, todo lo cree, todo lo espera, todo lo soporta;
+46. Por tanto, amados hermanos míos, si no tenéis caridad,
+no sois nada, porque la caridad nunca falta. Por lo tanto, uníos
+á la caridad que es lo más grande de todo; porque todas las
+cosas han de faltar;
+47. Pero la caridad es el amor puro de Cristo, que permanece
+para siempre; y á aquéllos que la posean en el postrer día, les
+irá bien.
+48. Por tanto, mis amados hermanos, pedid al Señor con
+toda la energía de vuestros corazones, que os llene de este amor,
+que ha concedido á todos los que sean verdaderos discípulos de
+su Hijo, Jesús, para que vengáis á ser hijos de Dios; y para que
+cuando Él aparezca, [4596]seáis semejantes á Él; porque le hemos
+de ver tal como es, para que tengamos la esperanza de ser
+purificados [4597]tal como Él es puro. Amén.
+
+7-2f, 4592: Véase a.
+7-2g, 4593: Véase f, II Nefi 2.
+7-2h, 4594: Véase d, II Nefi 2.
+7-2i, 4595: Véase a.
+7-2j, 4596: III Nefi 27:27.
+7-2k, 4597: III Nefi 19:28-29.
+
+Corrections
+
+Page structure — page 622 CONTINUES the Book of Moroni and CONTINUES
+Moroni chapter 7. Page 621 ended MID-verse 39 ("...porque supongo que
+tenéis fe en Cristo"), so page 622 OPENS with the continuation of v.39
+as continuous-paragraph flow: NO blank line after "Página 622", NO
+chapter heading, NO subtitle, NO book header (rule 1, still
+mid-chapter/mid-book). Running header "622  LIBRO DE MORONI.  (CAP.
+VII." discarded (rule 2). Page 621 ended with the complete word
+"Cristo" — no word split across the page boundary (rule 10 N/A). Page
+622 ENDS Moroni chapter 7 ("...tal como Él es puro. Amén.") with blank
+space below to the footnote divider; Moroni chapter 8 begins on page
+623 (no CAPÍTULO VIII heading on this page).
+
+Body: 38 print lines (0 heading), matching each crop's line count.
+
+Rule 7 (hyphen-split rejoin), 1 total:
+ - v.47-48 "puri-/ficados" → "purificados". Rejoined onto the end of
+   line 37 ("...la esperanza de ser purificados") = 82 chars ≥ 73, so
+   rule 7/8 moves "purificados" to the start of the next line.
+Rule 8: no other rebalancing needed (longest body line otherwise 71
+chars: v.41 "de Cristo, y el poder de su resurrección, seréis
+[4594]resucitados á la").
+
+Rule 31 (space before punctuation removed), 16 instances — the 1920
+print sets a space before ";" throughout this page:
+ v.39 "mansedumbre ;" → "mansedumbre;"; v.41 "eterna ;" → "eterna;",
+ "promesa ;" → "promesa;"; v.42 "esperanza ;" → "esperanza;"; v.43
+ "corazón ;" → "corazón;"; v.44 "corazón ;" → "corazón;", "caridad ;"
+ → "caridad;", "nada ;" → "nada;"; v.45 "benigna ;" → "benigna;",
+ "mal ;" → "mal;", "verdad ;" → "verdad;", "soporta ;" → "soporta;";
+ v.46 "todo ;" → "todo;", "faltar ;" → "faltar;"; v.47 "siempre ;" →
+ "siempre;"; v.48 "Dios ;" → "Dios;", "Él ;" → "Él;".
+
+Rule 6: sentence double-spacing collapsed to a single space — v.40
+"esperanza.  ¿Cómo"; v.41 "esperar?  He aquí"; v.46 "falta.  Por lo
+tanto"; v.48 "puro.  Amén.". No true zero-width merges on this page.
+
+STRAY MARK (rule 36) — page-opening line (v.39) "por causa de": a
+raised dot sits above the final "a" of "causa". Google OCR of page
+0644 reads "por causa de vuestra mansedumbre" with NO mark (checked
+first). Treated as a stray speck per rule 36 — transcribed "causa"
+(plain), NOT logged in errors in 1920.txt.
+
+SUSPECTED MISPRINT (rule 32, preserved as printed; verify Session E) —
+v.45 "no se recocija en la iniquidad, mas se regocija en la verdad":
+the 1920 print sets "recocija" the first time and "regocija" the
+second. "recocija" is not a Spanish word; 1879 file p.623 reads
+"rejoiceth not in iniquity, but rejoiceth in the truth". Google OCR
+of page 0644 ALSO reads "recocija". Transcribed exactly as printed;
+1886 comparison + errors-log decision deferred to Session E.
+
+ORTHOGRAPHY (deferred to Session E) — v.45 "facilmente" (for
+"fácilmente", missing accent). Google OCR of page 0644 also reads
+"facilmente". Transcribed as printed.
+
+Footnote markers [4592]-[4597] = Moroni 7 letters 2f, 2g, 2h, 2i, 2j,
+2k (6 markers = 6 Block 1 entries):
+ 7-2f=[4592] "esperanza" (7:40); 7-2g=[4593] "expiación" (7:41);
+ 7-2h=[4594] "resucitados" (7:41); 7-2i=[4595] "caridad" (7:44);
+ 7-2j=[4596] "seáis" (7:48, "seáis semejantes á Él"); 7-2k=[4597]
+ "tal" (7:48, "tal como Él es puro").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — TRIGGERED by entry
+letter "2i" [4595]. 1879 file p.623 unambiguously prints "2i, see a."
+with a short dotted stroke (an "i"), and the same "2i" appears as the
+body marker before "charity" — the 1920 glyph matches. Resolved: entry
+letter = "2i". Cross-reference targets: 7-2f and 7-2i both → "a"; 7-2g
+→ "f"; 7-2h → "d" — all confirmed against the clearer 1879 italic
+typeface (Google's OCR layer rendered the 7-2f / 7-2i targets as a
+bare `"`, an unread superscript — not evidence of a different letter).
+
+1879 cross-check (Orson Pratt footnotes), file p.623 — all 6 Block 1
+entries confirmed one-for-one against 1879:
+ "2d, ver. 38. Moro. 10:19,23—27. / 2e, ver. 37. See 2d. / 2f, see a.
+ / 2g, see f, II. Nep. 2. / 2h, see d, II. Nep. 2. / 2i, see a. / 2j,
+ III. Nep. 27:27. / 2k, III. Nep. 19:28,29."
+ 1879 body markers on file p.623 confirm every marker word placement
+ (v.40 "concerning (2f)Hope"; v.41 "through the (2g)atonement", "to be
+ (2h)raised"; v.44 "he must needs have (2i)charity"; v.48 "we shall
+ (2j)be like him", "that we may be purified, (2k)even as he is pure").
+Rule 23 applied to Block 1: 7-2k 1920 "III Nefi 19:28, 29" →
+"III Nefi 19:28-29" (28,29 consecutive → range).
+
+NARROW INTER-WORD SPACES for the editor (rule 6 guidance — noted here,
+NOT raised as a standalone question in Sessions A-D; surfaced in
+Session E): the 1920 print sets several word boundaries tight on this
+page, but each is unambiguously two words (grammar; 1879 confirms) and
+is transcribed as two words with a single space:
+ v.44 "del Espíritu", "Santo que", "es el Cristo"; v.48 "para que"
+ (in "para que vengáis"), "á ser" (in "vengáis á ser hijos"). Google
+ OCR fuses each of these ("delEspíritu", "Santoque", "esel",
+ "paraque", "áser") — expected word-fusion, not a merge signal.
+
+Google-text cross-check (google_text_1920/page_0644.txt): the
+transcribed body text matches Google's OCR letter-for-letter (all
+divergences are Google word-fusion — see above — plus unread
+superscripts in the footnote block, expected per rule 14 and resolved
+via 1879). No letter-level body discrepancies. check_google_crosscheck
+reported 5 candidates: 4 are Google rendering capital "Él" as "El"
+(its OCR does not accent capital E — the 1920 print shows the accent
+clearly at every spot, zoom-confirmed) and 1 is Google dropping the
+standalone "á" in v.46 "uníos á la caridad" (zoom-confirmed the "á"
+is printed; 1879 "cleave unto charity"). No transcription change.
+
+Session B (footnote verification): fresh 1920 fn-block crops (6-7x,
+in left/right halves) + fresh 1920 body-marker crops (v.40-41, v.48)
++ the Session-A independent 1879 read (file p.623). All 6 Block 1
+entries (7-2f…7-2k) and all 6 body markers UNCHANGED — every
+reference text and every marker word placement re-confirmed.
+MANDATORY i/l/1 check re-affirmed: entry letter "2i" [4595] is an "i"
+— 1879 file p.623 prints "2i, see a." (short dotted stroke) and the
+matching body marker sits before "charity"; the 1920 swash glyph is
+consistent. No i/l/1 letter appears in any cross-reference target
+(targets: a, f, d, a). No changes this session.
+
+Session C: insert_body_text.py 622 — librodm.txt 32615→32655 (+40);
+librodm_foot.txt 4926→4932 (6 Block 1 entries appended, NO blank line
+/ NO book header — Moroni ch.7 continues, rule 20). Session D:
+generate_block2.py 622 appended 4592-4597 (librodm.txt 32655→32661);
+no unresolved warnings, no wrapped-Block-1-entry bug (all 6 entries
+one line each; Notas tail ends cleanly at "4597: III Nefi 19:28-29.").
+Cross-ref resolutions (book-aware): 7-2f/7-2i "Véase a" → 4561
+(Moroni 7a — same target as 7-2b on page 621); 7-2g "Véase f, II
+Nefi 2" → 265 (II Nefi 2f); 7-2h "Véase d, II Nefi 2" → 263 (II
+Nefi 2d); 7-2j / 7-2k direct. Anchor↔Block-2 after append: max
+anchor 4597 = max def 4597, contiguous 1..4597, no gaps/dupes; only
+the documented Jacob 2:15/812 gap remains.
+
+Session E: fresh full pptext report
+(workspace/report_wsl_20260831b.html) regenerated and walked end to
+end. 1886 comparison vs Moroni 7 file
+pp.635-636 (vv.33-48) — ALL of Moroni 7:39-48 compared word-for-word.
+Every 1920/1886 difference is the standard 1886-archaic-accent vs
+1920-modern-accent house-style pattern (1886 "fé/mios/míos/teneis/
+debeis/habeis/expiacion/resurreccion/cáusa/segun/corazon/dia/Amen" vs
+1920 modern forms) plus minor connective-punctuation variation not an
+error in any edition (v.42 1886 colon "esperanza:" where 1920 has
+";"; v.43 1920's extra comma "vez, os digo," / "como,"; v.47 1886
+"aquellos que lo posean" vs 1920 "aquéllos que la posean" — pronoun
+agreeing with "la caridad", not an error). TWO 1920 errors found in
+Moroni 7:45, BOTH also present in 1886 (shared translation-lineage),
+logged in errors in 1920.txt (905→907):
+ (1) Moroni 7:45 "facilmente" (fácilmente) — esdrújula, always
+ accented (RAE); 1886 file p.636 ALSO "facilmente"; matches the
+ documented Alma 7:15 / 46:8 / 59:3 / 59:9 pattern; modern BoM "no se
+ irrita fácilmente"; Google OCR page 0644 also "facilmente"; already
+ in permitted words.txt (line 738) — NOT re-added.
+ (2) Moroni 7:45 "recocija" (regocija) — 1920 prints "no se recocija
+ en la iniquidad, mas se regocija en la verdad" (wrong form first,
+ correct form second in the same clause); "recocijar" has no RAE
+ entry; 0 corpora hits vs dozens for "regocija"; 1886 file p.636 ALSO
+ "recocija … regocija" (shared error, same pattern as the documented
+ III Nefi 27:30 entry); 1879 "rejoiceth not … but rejoiceth"; modern
+ BoM "no se regocija en la iniquidad"; Google OCR page 0644 also
+ "recocija"; already in permitted words.txt (line 1161) — NOT re-added.
+permitted words.txt: NO change (1283→1283). errors in 1920.txt:
+905→907 (two Moroni 7:45 entries appended — Moroni 7:45 > 7:27, page
+just transcribed = true end of file, plain append is correct order).
+
+STRAY MARK (rule 36) — reconfirmed the raised dot over "causa"
+(v.39): Google OCR silent → stray speck, transcribed plain, NOT
+logged (1886 prints archaic "cáusa" with an intentional accent here,
+but that's 1886 house style; 1920's mark is a speck, not type).
+"¿O han" / capital after "¿" (7:36 tail is on page 621, not here) —
+N/A this page.
+
+Full pptext walkthrough: page-622 hits are all structural — the
+short-lines flood (verse-boundary wrapped body lines + short Block-2
+"Véase NNNN." entries); dash-check hyphen-minus 4597 "III Nefi
+19:28-29" (digit-flanked rule-23 verse range). NO page-622 spellcheck
+(recocija / facilmente already suppressed by permitted words.txt) /
+edit distance / repeated-word / duplicate-line / ellipsis /
+adjacent-dash / footnote-check (anchors 4590-4597 present,
+contiguous) / scanno /
+curly-quote / spaced-punctuation / special-situations / book-level /
+paragraph-level ("full stop followed by unexpected sequence" has no
+page-622 hit) / Jeebies findings. Whole-document mechanical sweeps all
+clean: check_spaced_punctuation.py librodm.txt (32661); check_footnote_
+punctuation.py librodm_foot.txt (4932); check_verse_indent.py
+librodm.txt; anchor↔Block-2 sweep (only [812]); footnote-number
+duplicate/out-of-range/missing sweep (max anchor 4597, contiguous);
+curly-quote scan of librodm.txt / librodm_foot.txt / page_622.txt all
+zero.
+
+NARROW-SPACE word-pairs for the editor (rule 6 guidance — two-word
+transcription already committed; listed here for a convenience check
+against the image): Moroni 7:44 "del Espíritu", "Santo que", "es el
+Cristo"; Moroni 7:48 "para que" (in "para que vengáis"), "á ser" (in
+"vengáis á ser hijos"). Each is unambiguously two words (grammar; 1879
+confirms) — Google OCR fuses all five, expected word-fusion.
+
+NO text changes to page_622.txt or librodm.txt this session (both
+Moroni 7:45 errors preserved as printed).

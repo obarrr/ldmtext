@@ -1,0 +1,128 @@
+Página 597
+26. Y el pueblo se había repartido de nuevo sobre toda la
+superficie del país, y empezó orta vez á haber entre él una inmensa
+iniquidad. Y Heth empezó á abrazar otra vez los planes [4429]secretos
+de los tiempos antiguos, para destruir á su padre.
+27. Y sucedió, que destronó á su padre, matándole con su
+propia espada; y reinó en su lugar.
+28. Y aparecieron profetas [4430]otra vez en el país, llamando
+a sus habitantes al arrepentimiento, para que prepararen la vía
+del Señor, ó una maldición vendría sobre el país; sí, que habría
+una [4431]gran hambre en el país que les destruiría, si no se
+arrepintieren.
+29. Pero el pueblo no dió crédito á las palabras de los profetas,
+sino que les echaron fuera, arrojando á algunos en los fosos,
+dejándoles perecer. Y aconteció, que hicieron todo esto según
+el mandamiento del rey Heth.
+30. Y aconteció, que una gran sequía vino sobre el país, y
+los habitantes empezaron á morir rapidamente, á causa de ella,
+porque no llovía sobre la faz del país.
+31. Y aparecieron serpientes [4432]venenosas también sobre la
+superficie del país, y envenenaron mucha gente. Y sucedió, que
+sus rebaños empezaron á huir de las serpientes venenosas hacia
+el país del [4433]Sud, llamado por los Nefitas [4434]Zarahemla.
+32. Y sucedió, que perecieron muchas de ellos en el camino;
+no obstante, algunos se huyeron en el país del Sud.
+33. Y sucedió, que hizo el Señor que no les persiguieran más
+las serpientes; sino que se detuvieran, obstruyendo el camino
+para que el pueblo no pudiera pasar; y para que cualquiera que
+lo intentase, cayera por medio de las serpientes venenosas.
+34. Sucediendo que el pueblo siguió el curso de los animales,
+devorando por el camino los cuerpos de los de éstos que caían,
+hasta consumirlos todos. Ahora cuando vieron que debían
+morir, empezaron á arrepentirse de sus iniquidades, y clamaron
+al Señor.
+35. Y sucedió, que cuando se hubieron humillado suficientemente
+ante el Señor, Él les envió lluvia sobre la faz de la tierra,
+con la que volvió la vida al pueblo, y empezaron otra vez á recoger
+frutos en los países del Norte, y en todos los terrenos inmediatos.
+Y así les mostró el Señor su poder, librándoles del hambre.
+
+9o, 4429: Véase i, II Nefi 10.
+9p, 4430: Versículo 29; Éther 7:23; 11:1,12,20.
+9q, 4431: Versículos 30-35.
+9r, 4432: Versículos 32-34; Éther 10:19.
+9s, 4433: Sur América.
+9t, 4434: Véase h, Omni 1.
+
+Corrections
+v.26 "orta vez" — preserved as printed (metathesis misprint of "otra
+vez," letters "rt" for "tr"); confirmed via zoom the image genuinely
+prints "orta". Session E: 1886 (page_0611.png, book 593/file 611)
+prints "otra" correctly at this spot; "orta" has no RAE entry and no
+standalone hits in the reference corpora; not flagged by pptext.
+Genuine 1920-only error, logged in `errors in 1920.txt` (Éther 9:26).
+Not added to `permitted words.txt` since pptext never flags it
+(would be a no-op, per the "Jesu Cristo" precedent).
+v.28 "prepararen" (archaic future subjunctive of "preparar") —
+preserved as printed; confirmed via zoom. Session E: 1886 prints the
+identical "prepararen" at this spot — legitimate archaic form shared
+by both editions (same paradigm as "arrepintieren" two lines later),
+not an error. Not flagged by pptext; no `permitted words.txt` entry
+needed.
+v.30 "rapidamente" (no accent, expected "rápidamente") — preserved as
+printed; confirmed via zoom no accent mark is present. Session E: 1886
+also lacks the accent at this exact spot (same pattern as Alma 62:21),
+but "-mente" adverbs must keep the base adjective's accent per RAE
+orthography, so this is logged in `errors in 1920.txt` (Éther 9:30)
+regardless of the 1886 match, following the Alma 62:21 precedent.
+Already present in `permitted words.txt` from an earlier page.
+v.31 "serpientes  venenosas" (second occurrence) → "serpientes
+venenosas" — justification-widened inter-word gap in print, normalized
+to one space per rule 6 (not logged as an error; no zoom needed).
+v.34 "Sucediendo que" — preserved as printed; confirmed via zoom this
+genuinely reads "Sucediendo" rather than "Y sucedió," the pattern used
+in every other verse on this page. Session E: 1886 (page_0611.png,
+book 593/file 611) prints the identical "Sucediendo que el pueblo
+siguió..." at this spot — a shared translation quirk across both
+editions, not a 1920-only error. No `errors in 1920.txt` entry needed.
+Space-before-semicolon normalized per rule 31 (mechanical, not logged
+as errors): v.27 "espada ; y" → "espada; y"; v.28 "país ; sí" →
+"país; sí"; v.32 "camino ; no" → "camino; no"; v.33 "serpientes ; sino"
+→ "serpientes; sino"; v.33 "pasar ; y" → "pasar; y".
+Rule 7 hyphen rejoins: v.28 "arrepin-"/"tieren." rejoined as
+"arrepintieren." — appending it to the prior line would have made that
+line 73+ chars, so the whole rejoined word was moved to start of the
+next line instead (per rule 7). v.35 "suficiente-"/"mente" rejoined as
+"suficientemente" and kept at the end of the line (combined line stays
+under 72 chars).
+Mandatory 1879 check (cross-reference target letter i in "Véase i, II
+Nefi 10"): cross-checked against pages_1879/page_0599.png (printed
+page 591; chapter_map.csv's listed 1879 file_page 608 for Éther 9 is
+the chapter-opening page, not this content — matching verses 26-35
+land 9 file-pages earlier, consistent with page 596's finding that
+1879 pagination runs ahead of what the per-chapter file_page alone
+suggests). 1879 reads "o, see i, II. Nep. 10. p, ver. 29. Ether 7:23.
+11:1,12,20. q, vers. 30-35. r, vers. 32-34. Ether 10:19. s, South
+America. t, see h, Omni 1." — exact letter-for-letter and content
+match with 1920's printed letters o-t; the "i" glyph (short stroke,
+separated dot) confirmed matching in both editions, no ambiguity.
+Session E: fresh pptext report (`workspace/report_wsl_20260822b.html`)
+regenerated and walked for this page's new content (substring search
+for "orta vez", "rapidamente", "Sucediendo que", "prepararen",
+"arrepintieren" — zero hits anywhere in the report, i.e. nothing on
+this page was flagged by any section). Whole-document sweeps (spaced
+punctuation, footnote punctuation, verse indent, footnote-anchor/
+Block-2-definition cross-check, footnote-number duplicate/out-of-range/
+missing sweep [max anchor now 4434], curly-quote scan) all re-ran
+clean, only the already-documented Jacob 2:15/812 gap remaining. Two
+genuine errors added to `errors in 1920.txt`: v.26 "orta" (otra) and
+v.30 "rapidamente" (rápidamente); two Corrections-log entries
+("prepararen", "Sucediendo que") confirmed as shared 1886 readings,
+not errors. No narrow-space-vs-merge defaults were made on this page
+(nothing to batch for the editor).
+Google-text cross-check (Session A step 10): one candidate reported,
+v.33 "más las serpientes" vs. Google's "más asserpientes" (dropped
+"l"). A fresh high-zoom crop confirmed the image genuinely prints
+"las serpientes" — Google's OCR simply missed the "l". No correction
+needed.
+Session B: independently re-verified all 6 Block 1 entries (9o-9t) and
+all 6 [N] body markers against a fresh process_page.py crop (not
+reused from Session A) of the 1920 page — all markers and words
+confirmed matching page_597.txt exactly. The mandatory i check
+(cross-reference target i in "Véase i, II Nefi 10") was re-checked via
+a fresh, independent crop_page.py pass on pages_1879/page_0599.png
+(different crop coordinates than Session A) — reconfirmed the
+identical reading "o, see i, II. Nep. 10. p, ver. 29. Ether 7:...
+30-35. r, vers. 32-34. Ether 10:19. s,...". No corrections needed from
+Session B.

@@ -1,0 +1,204 @@
+Página 609
+26. Y aparecieron ladrones, y en resumen toda clase de
+iniquidad sobre la faz del país.
+27. Y sucedió, que Coriántumr se irritó en extremo contra
+Shared, y marchó contra él con sus ejércitos para batirse;
+y se encontraron con gran enojo en el valle de Gilgal; donde se
+dió una terrible batalla.
+28. Y ocurrió, que peleó Shared contra él por espacio de tres
+días. Y sucedió, que fué batido por Coriántumr, que le persiguió
+hasta que llegaron á las llanuras de Heshlón.
+29. Y sucedió, que Shared le dió la batalla otra vez en las
+llanuras; y, he aquí, allí batió él á Coriantumr, y le obligó á
+retirarse otra vez al valle de Gilgal.
+30. Y otra vez dieron la batalla en el valle de Gilgal, en él
+que Coriántumr batió y mató á Shared.
+31. Pero Coriántumr fué herido en el combate en el muslo
+por Shared, de modo que no pudo volver á la batalla por espacio
+de dos años, en cuyo tiempo toda la gente de todo el país derramaron
+torrentes de sangre, sin que hubiera nadie que pudiera
+restringirles.
+
+CAPÍTULO 14.
+
+1. Y ahora, vino á suceder, que empezó una gran [4513]maldición
+sobre todo el país, á causa de la iniquidad de sus habitantes;
+á tal punto que, si un hombre dejaba un instrumento de labor
+ó su espada sobre su alacena, ó sobre el paraje donde acostumbraba
+á guardarlo, en la mañana siguiente ya no lo podía encontrar;
+tan grande era la maldición que había caído sobre el
+país.
+2. Por lo tanto, cada hombre puso sus manos sobre lo que
+tenía sin prestarlo, ni pedir nada prestado, teniendo cada uno
+puesta su mano derecha sobre el puño de su espada, para defender
+su propiedad y su propia vida, y la de sus esposas é hijos.
+3. Ahora, en el espacio de dos años después de la muerte de
+Shared, he aquí, que se levantó su hermano, quién dió la batalla
+á Coriántumr, en la que le batió á Coriántumr, siguiéndole
+hasta el desierto de Akish.
+4. Y acaeció, que allí le dió batalla en el desierto de Akish,
+que fué de las más encarnizadas, en la que perecieron muchos
+miles de hombres por la espada,
+
+14a, 4513: Véase l, Helamán 13.
+
+Corrections
+Page opens with a fresh verse (Éther 13:26), not mid-verse and not a
+chapter heading, so per the running convention on pages that carry a
+chapter over from the previous page, the first body line follows
+"Página 609" with no blank line (blank line reserved for a chapter
+heading). Page 608 ended Éther 13:25 complete.
+Éther 13 finishes on this page (vv.26-31); CAPÍTULO 14. opens mid-page
+with a blank line before and after (no subtitle line — checked the
+image at the chapter opening per Section 1). Chapter boundary within
+the same book (Éther), so Block 1 gets no blank line / book header
+(rule 20). Éther 14's letters reset to "a"; the global footnote number
+continues at 4513.
+Raw line count: 37 body-text print lines (Éther 13:26 through Éther
+14:4, plus the CAPÍTULO 14. heading) read line-by-line from the
+top/mid/bot crops — 19 lines for Éther 13:26-31, 18 lines for Éther
+14:1-4. Line count unchanged after the rule 7 rejoins (each rejoined
+word stayed at the end of its first line).
+Rule 7 — four hyphenated line-break splits rejoined:
+ - "derra-" / "maron" (13:31): rejoined "derramaron"; appended to line 1
+   it reaches 68 chars (<73) so kept at the end of that line.
+ - "acostum-" / "braba" (14:1): rejoined "acostumbraba"; line stays at
+   66 chars (<73) so kept at the end of that line.
+ - "en-" / "contrar" (14:1): rejoined "encontrar"; the following ";"
+   (printed "contrar ;" with a space, normalized per rule 31) attaches
+   to the rejoined word -> "encontrar;" at 61 chars (<73), kept at the
+   end of that line. The line that had begun "contrar ;" now begins
+   "tan grande...".
+ - "de-" / "fender" (14:2): rejoined "defender"; line stays at 64 chars
+   (<73) so kept at the end of that line.
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized (space removed before the mark). Body: 13:27
+"para batirse ;", "valle de Gilgal ; donde"; 13:29 "llanuras ; y, he
+aquí"; 14:1 "sus habitantes ;", "podía en- ... contrar ; tan grande".
+Rule 6 — inter-word gaps wider than one space in the justified print
+(13:27 "contra  él"; 13:28 "días.  Y sucedió"; 13:29 "otra vez en  las")
+normalized to a single space.
+Mandatory i/l/1 check (Section 8) — TRIGGERED this page: the sole
+footnote's cross-reference target letter (14a) is a swash superscript
+that reads at a glance as "l" but with a raised separated tick that
+could suggest "i". Cross-checked against 1879 file page 611 (Éther 14
+footnote block), which prints in clean type "a, see l, Hela. 13." —
+an unambiguous tall undotted italic "l"; the same line's "c, see i,
+ii. Nep. 10." shows a clearly dotted italic "i" for contrast.
+Resolved to "l". Content fit: Helamán 13 (Samuel the Lamanite) contains
+the curse-on-the-land / "slippery treasures" prophecy (Helamán
+13:17-23,35-36), an exact thematic match for Éther 14:1 (a curse on the
+land so that tools and swords left out could not be found the next
+morning).
+Google-text cross-check (check_google_crosscheck / page_0631.txt) —
+one genuine misread caught and fixed in this session:
+ - Éther 14:1 "esposas é hijos": the first bot-crop read had "esposas
+   ó hijos"; Google reads "é hijos" and a high-zoom crop
+   (p609_ehijos.png) confirms the 1920 print sets "é" (clear acute
+   accent, matching the press's other acutes on the same lines) — not
+   "ó". Corrected to "é hijos" per rule 32 (as printed); also the
+   sensible reading ("and children").
+Éther 13:29 "Coriantumr" — printed WITHOUT the acute accent (contrast
+the accented "Coriántumr" everywhere else on this page: twice in
+13:30-31 just below and twice in 14:3-4). Google OCR also reads it
+unaccented here. Preserved as printed (rule 32); flagged for Session
+E's error-log judgment (internal inconsistency: the name is accented
+33x elsewhere in the body text of this edition, plain only in índice/
+TOC lines).
+Éther 14:3 "he aquí" — the 1920 print sets "he" and "aquí" very tight
+(Google OCR fuses them as "heaquí"). Transcribed as two words with a
+single space per rule 6 editor guidance (1886/grammar: "he aquí" is
+always two words); contrast Éther 13:29 on this same page, where the
+1920 print spaces "he aquí" normally. Noted for Session E's optional
+review.
+Éther 14:3 "quién" (relative pronoun, "su hermano, quién dió la
+batalla") — 1920 archaic accent on the relative pronoun; Google OCR
+also reads it accented. Kept as printed (rule 32).
+Rule 36 — two suspected stray marks, both checked against the Google
+OCR text FIRST and found absent there, so both treated as scan/press
+debris, transcribed without them, and NOT logged in errors in 1920.txt:
+ - 13:28 "de Heshlón." — a small raised speck sits to the upper right
+   of the sentence period; Google reads just "Heshlón." A weight-aware
+   zoom (p609_heshlon.png) shows the speck is lighter and higher than
+   the press's real period. Transcribed "Heshlón."
+ - 13:29 "otra vez en las" — a faint mark appears between "en" and
+   "las" in the justified gap; Google reads "en las" clean. Treated as
+   debris / justification whitespace, normalized to one space.
+"fué" (13:28, 14:4) — archaic form, kept (rule 32). "dió" (13:27,29,30;
+14:3,4), "batió", "mató", "irritó", "obligó", "acaeció" — archaic
+accented preterites, kept (rule 32).
+"Shared" — Jaredite king (added to permitted words.txt during page 608
+Session E); appears throughout this page.
+
+Session B — independent re-verification.
+ - fn_zoom re-read fresh: the sole Block 1 entry is
+   "14a, 4513: Véase l, Helamán 13." — reference text confirmed.
+ - Body marker: re-cropped the Éther 14:1 superscript at 16x
+   (p609_supA.png) — a small single-story italic "a" sitting flush
+   before "maldición" (in "empezó una gran [a]maldición"). Marker
+   placement confirmed, no change.
+ - Mandatory i/l/1 check re-run independently against 1879 file page
+   611, footnote block re-cropped this session at 12x
+   (p1879_611_fn2.png): "a, see l, Hela. 13." prints an unmistakable
+   tall, undotted italic "l" (matches the "l" in "Hela." on the same
+   line; the neighbouring "b, see e, Ether 7." shows a small "e" for
+   contrast). Re-confirmed target letter = "l", not "i"/"1".
+ - 1879's own "a" marker lands on "curse" in Éther 14:1 ("there began
+   a great acurse upon all the land") = 1920 "maldición" — content
+   match (rule 26). No discrepancy.
+ - No changes to page_609.txt from Session B.
+
+Session E — orthography check. Fresh pptext report
+workspace/report_wsl_20260828c.html generated and walked end to end.
+The ONLY page-609 flag in Spellcheck Suspect Words is "Heshlón"
+(Éther 13:28, line 27125). Edit Distance: no page-609 hit. All other
+report sections referencing page 609's line range (27116-27157) are the
+documented structural false positives — "short lines check" (verse-end
+short lines) and "special situations" line 27156 "...por la espada,"
+(paragraph-ends-in-comma, because Éther 14:4 continues onto page 610,
+not yet integrated).
+ - "Heshlón" (Éther 13:28) — added to permitted words.txt. Jaredite
+   battle-plains place name, first appearance in the book; a proper
+   noun unique to the Libro de Mormón. 1886 (pages_1886/page_0623.png,
+   book page 605) prints "Heshlon" (no accent); the modern Spanish BoM
+   (Éter 13:28) spells it "Heslón". These are spelling/accent variants
+   of an invented name, not a 1920 error — NOT logged in errors in
+   1920.txt (Session E rule 11, first bullet: unique BoM proper noun).
+ - Éther 13:29 "Coriantumr" (missing acute accent) — checked and NOT
+   logged in errors in 1920.txt. 1886 prints "Coriantumr" WITHOUT the
+   accent at this identical verse (pages_1886/page_0623.png, book page
+   605), while accenting "Coriántumr" in the surrounding vv.28, 30, 31
+   — i.e. the missing accent at v.29 is a shared-lineage typesetting
+   inconsistency inherited from 1886, not a 1920-only deviation. The
+   modern Spanish BoM (Éter 13:29) accents it, and "Coriántumr" is the
+   consistent form 33x elsewhere in this edition's body text, but the
+   name is an invented BoM proper noun (RAE/reference-corpora checks do
+   not apply) and a bare missing accent shared with 1886 is the
+   documented "skip the errors log" case (Session E rule 11, first
+   bullet). Contrast page 608's "profecias" entry, which WAS logged
+   because 1886 accented it (1920-only) and the accent is
+   dictionary-obligatory for a real word. "Coriantumr" is already in
+   permitted words.txt (added earlier); transcription preserves the
+   printed unaccented form (rule 32), no change.
+ - Éther 14:3 "he aquí" set tight in the 1920 print (Google OCR fuses
+   it "heaquí") — NARROW-SPACE-VS-MERGE POINTER, RESOLVED. Per rule 6 /
+   feedback_narrow_space_vs_merge the committed default was written as
+   two words "he aquí" (1886/grammar: always two words; Éther 13:29 on
+   this same page spaces it normally). The editor examined the image
+   directly (2026-08-28) and confirmed the gap, while tight, is a bit
+   wider than most interior letter-spacing and reads as two separate
+   words — transcription "he aquí" stands, no change.
+ - "quién" (Éther 14:3, relative pronoun) — 1920 archaic accent on a
+   relative pronoun; aspell accepts it so pptext does not flag it (a
+   permitted-words entry would be a no-op, cf. the "Jesu Cristo"
+   precedent). Recurs throughout the edition. Not an error, no action.
+Whole-document sweeps all re-ran clean this session:
+check_spaced_punctuation.py librodm.txt (clean), check_footnote_
+punctuation.py librodm_foot.txt (clean), check_verse_indent.py
+librodm.txt (clean), footnote-anchor <-> Block-2 cross-check (max
+anchor 4513 = max def 4513; no duplicate defs; no anchored-without-def;
+only the long-documented Jacob 2:15 / 812 defined-without-anchor gap
+remains), curly-quote character scan of both master files (zero).
+Footnote check: anchors 4508-4513 contiguous, no dupes, no gaps, none
+out of range. permitted words.txt: added "Heshlón". errors in 1920.txt:
+no new entry (both candidates ruled non-errors, see above).

@@ -5,10 +5,29 @@
 
 ## 1. Page Structure
 
-1. Each page begins with `Página N` on its own line. If the page begins
-   mid-verse (continuation from the prior page), the first line of text
-   follows immediately with no blank line. If the page begins with a
-   chapter heading, a blank line separates `Página N` from the heading.
+1. **Every page begins with `Página N` on its own line — always, no
+   exceptions**, including when the page opens mid-verse as a
+   continuation from the prior page. A blank line always precedes
+   `Página N` (separating it from the previous page's text). What
+   comes *after* `Página N` is the only thing that varies:
+   - page opens with body text — a verse continuation OR a fresh verse
+     number: that text starts on the very next line, with **no** blank
+     line after `Página N`;
+   - page opens with a `CAPÍTULO N.` heading or a book-name header: a
+     blank line separates `Página N` from it (see rules 3 and 19).
+
+   **Confirmed failure mode (pages 537/538, Session A 2026-07-28,
+   caught and fixed 2026-09-01):** both pages open mid-verse (III Nefi
+   23:5 and 24:3 each split across the page break), and their
+   `Página N` line was omitted ENTIRELY — on the mistaken reading that
+   "the first line of text follows immediately with no blank line"
+   meant "no marker line at all." It means no blank line *after* the
+   marker, never no marker. Pages 534/535/536, transcribed in the same
+   run and also opening mid-verse, kept their markers correctly;
+   537/538 were the only two pages missing one in the entire 437-624
+   range. Restored in `pages/page_537.txt`, `pages/page_538.txt`, and
+   `librodm.txt` (the `Página N` line inserted at the existing
+   blank-line page separator, body text immediately after).
 2. The running page header (e.g. "CAP. III.) LIBRO DE HELAMÁN") is
    discarded entirely.
 3. Chapter headings appear as `CAPÍTULO N.` on its own line, with a
@@ -453,16 +472,39 @@ stripped. This matches the headers already present in `librodm_foot.txt`
     established usage (which uses only acute á/é/í/ó/ú; anything else,
     e.g. a grave accent, is already suspect on its face) or that looks
     like it might just be print/scan damage rather than real type —
-    must be checked against the Google OCR text
-    (`extract_google_text.py`/`check_google_crosscheck.py`, or a direct
-    look at `google_text_1920/page_NNNN.txt`) before being logged as a
-    genuine 1920 error, in addition to (not instead of) the usual 1886/
-    1879 comparison. **If Google's OCR doesn't transcribe the mark
-    either, treat it as a stray speck and transcribe the plain letter
-    with no accent — do not log it in `errors in 1920.txt`.** Google's
-    OCR is trained on real type; it reliably drops accents that aren't
-    actually printed, so its silence on a mark you're unsure about is
-    real evidence, not noise to explain away.
+    or an out-of-place punctuation mark (e.g. a period sitting
+    somewhere no sentence break makes sense) — must be checked against
+    the Google OCR text FIRST, before any zoom-based visual judgment
+    call, and before being logged as a genuine 1920 error:
+    1. **Google OCR check (do this first).** Run
+       `extract_google_text.py`/`check_google_crosscheck.py`, or look
+       directly at `google_text_1920/page_NNNN.txt`, for the word/spot
+       in question. Google's OCR is trained on real type and is
+       specifically good at filtering print/scan debris from genuine
+       marks — it reliably omits an accent or punctuation mark that
+       isn't actually printed. If Google's OCR doesn't transcribe the
+       mark either, that is real evidence the mark is a stray speck,
+       not noise to explain away or override with a zoom read.
+    2. **Zoom comparison (second, corroborating step).** Crop the mark
+       at high zoom alongside genuine examples of the same mark type
+       elsewhere on the same page (other periods, other accents), and
+       compare not just shape/position but **stroke weight/size** —
+       a stray speck is often visibly lighter or smaller than the
+       press's actual type, even when its position looks plausible for
+       real punctuation. Do not stop at "it's shaped like a period
+       and sits on the baseline" — a genuine mark and a fleck of
+       debris can share both of those and still differ in weight.
+    **If Google's OCR is silent on the mark, treat it as a stray speck
+    and transcribe without it (plain letter, no accent; no period) —
+    do not log it in `errors in 1920.txt`.** This order matters:
+    Google OCR is the fallback/primary determinant precisely because
+    it's a second, independent read of the actual type, whereas a zoom
+    of the same scan is still just a closer look at the same possibly-
+    ambiguous ink — checking Google first, then confirming with a
+    same-page weight/size comparison, is more reliable than doing a
+    confident-feeling zoom read alone and only checking Google as an
+    afterthought (or dismissing Google's silence instead of accepting
+    it, as happened in both incidents below).
     **(2026-07-26, user correction, twice in one day):** two separate
     "genuine grave accent" findings — III Nefi 14:2 "còn"/"què" (page
     515, logged 2026-07-25) and III Nefi 18:28 "cuandò" (page 525) —
@@ -479,6 +521,24 @@ stripped. This matches the headers already present in `librodm_foot.txt`
     the Google OCR check before it can be logged, and a match to an
     earlier such claim is not itself evidence — each instance still
     needs its own check.
+    **(2026-08-22, user correction, extended to punctuation):** page
+    594 Éther 8:23 repeated the identical failure mode, this time with
+    a period rather than an accent. An extreme-zoom crop of an
+    out-of-place mark between "obra" and "de" ("la obra. de
+    destrucción") was read as a genuine, properly-formed period —
+    despite `google_text_1920/page_0616.txt` already showing Google's
+    OCR read the spot with no period at all ("la obra de
+    destrucción"). The Google check had been run, but its silence was
+    weighed as secondary to the zoom read instead of primary, and the
+    zoom read itself only compared the mark's shape/position (period-
+    like, baseline-aligned) without comparing its stroke *weight*
+    against genuine periods on the same page — the user's own look at
+    the scan found the mark visibly lighter/thinner than real type.
+    Logged in `errors in 1920.txt`, then reversed same-day once caught.
+    This confirms the accent-only wording of this rule was too narrow:
+    the same two-step procedure (Google OCR first, weight-aware zoom
+    comparison second) applies to any suspected stray mark, period or
+    otherwise — not just accents.
 
 ---
 

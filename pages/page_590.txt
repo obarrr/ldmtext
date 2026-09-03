@@ -1,0 +1,170 @@
+Página 590
+30. Y sucedió, que Oríhah marchó humildemente delante del
+Señor; acordándose de las grandes cosas que el Señor había hecho
+á su padre, y también enseñó á su pueblo las grandes cosas que
+el Señor había hecho por sus padres.
+
+CAPÍTULO 7.
+
+1. Y occurió que Oríhah juzgó con justicia en el país por todos
+sus días, que fueron muchos.
+2. Y engendró hijos é hijas: sí, engendró [4389]treinta y uno,
+de los cuales veintitrés eran hijos.
+3. Y aconteció, que también engendró á [4390]Kib en su vejez,
+él que le sucedió en el trono. Y Kib engendró á [4391]Corihor.
+4. Y Corihor habiendo llegado á la edad de treinta y dos
+años, se rebeló contra su padre; y salió para habitar el [4392]país de
+Nehor. Y engendró hijos é hijas, que eran muy hermosos; por
+lo tanto, Corihor se atrajo á muchos de su pueblo.
+5. Y cuando hubo reunido á un ejército, subió al país de
+[4393]Morón, donde habitaba el rey, y le tomó cautivo; lo que hizo,
+para que se cumpliera lo que había anunciado el hermano de
+Jared, de que serían [4394]reducidos al cautiverio.
+6. Ahora, el país de [4395]Morón, donde residía el rey, estaba
+situado cerca del país que los Nefitas llamaban [4396]Desolación.
+7. Y sucedió, que Kib continuó en cautividad hasta una edad
+muy avanzada, siendo gobernador de su pueblo, su hijo Corihor.
+No obstante, Kib en su vejez engendró á un hijo, llamado Shule,
+mientras que se hallaba en cautividad.
+8. Y sucedió, que Shule, que se había enojado contra su
+hermano, creció y se hizo hombre fuerte en cuanto á la fuerza
+de hombre, y era también grande en conocimiento.
+9. Por lo tanto vino á la colina de Efraim, donde fundió
+mineral de la colina, é hizo espadas de [4397]acero, con las que armó
+á los que había llevado consigo. Y poniéndose á su cabeza,
+cayó sobre la [4398]ciudad de Nehor, donde dió la batalla á su hermano
+Corihor, por cuyos medios conquistó el reino, y se lo dió á su
+padre Kib.
+10. Y ahora, á causa de este hecho, su padre le confió el reino,
+con lo que empezó á reinar en su lugar.
+11. Y vino á suceder, que gobernó con toda justicia, extendiendo
+su reino por todo el país, porque el pueblo se había hecho muy
+numeroso.
+
+7a, 4389: Indudablemente era polígamo.
+7b, 4390: Versículos 3-10; Ether 1:31,32.
+7c, 4391: Versículos 3-15.
+7d, 4392: Versículo 9.
+7e, 4393: Versículos 6,16,17; Ether 14:6,11.
+7f, 4394: Éther 6:23.
+7g, 4395: Véase e.
+7h, 4396: Véase 2l, Alma 22.
+7i, 4397: Véase e, I Nefi 16.
+7j, 4398: Versículo 4.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon in: v.30 "Señor ;"; v.4 "padre ;", "hermosos ;"; v.5
+"cautivo ;".
+Rule 6 double-space normalization: v.3 "trono.  Y Kib" -> "trono. Y
+Kib" (mid-line gap after period); v.4 "Nehor.  Y engendró" -> "Nehor.
+Y engendró"; v.9 "consigo.  Y poniéndose" -> "consigo. Y poniéndose".
+Rule 7 hyphen rejoin: v.1 "por to-/dos" -> "por todos" (kept at end of
+line, well under 73 chars).
+v.1 "occurió": zoomed to confirm the image clearly prints "occurió"
+(double c, single r), not "ocurrió" (the standard spelling, single c,
+double r). Preserved as printed per rule 32; verify against 1886.
+Footnote 7g, 4395: the superscript letter's citation text is genuinely
+unprinted in the 1920 image — confirmed via multiple high-zoom crops of
+the gap between "f, Éther 6:23." and the next entry ("h, Véase 2l,
+Alma 22."), which is truly blank paper, not a narrow-space/ink-fade
+issue. The body's own superscript mark on the second "Morón" (v.6) is
+present and legible (small loop+descender glyph, matching the shape of
+a lowercase "g", distinct from the "e" mark used at v.5's first
+"Morón"). Reconstructed from BOM 1879 Pratt (pages_1879/page_0592.png
+fn block: "g, see e. h, see 2l, Alma 22. i, see e, I. Nep. 16. j, ver.
+4.") as "Véase e." (a same-page self-reference back to entry e, which
+covers this second "Morón" mention — matching e's own citation text
+"Versículos 6, 16, 17..." where the "6" explicitly covers this verse).
+This matches the established precedent for a wholly-omitted footnote
+entry (errors in 1920.txt: "Footnote Alma 9g", "Footnote Éther 1p",
+"Footnote III Nefi 28e" — same defect class, missing entry
+reconstructed from 1879). Flagged for `errors in 1920.txt`.
+Mandatory 1879 check (rule: i/l/1 letters): this page's own letter i
+(v.9, "acero") and the cross-reference target letter l (in entry h's
+"Véase 2l, Alma 22") are both in the mandatory i/l/1 set. Loaded
+pages_1879/page_0592.png: fn block reads "g, see e. h, see 2l, Alma
+22. i, see e, I. Nep. 16. j, ver. 4." — English's 4-letter sequence
+(g,h,i,j) matches this page's own 4 body superscripts after f (2nd
+Morón, Desolación, acero, ciudad) letter-for-letter and by content,
+with 1920 omitting only entry g's printed citation text (see above).
+Content-fit additionally confirmed against already-transcribed
+entries in librodm_foot.txt: "16e, 140: I Nefi 4:9; II Nefi 5:15;
+Jarom 1:8; Éther 7:9; Salmos 18:34." (I Nefi 16's own letter e already
+cross-references Éther 7:9 — this page's v.9 "acero" — confirming
+target letter e for entry i); and "22-2l, 2238: Versículos 31-32; Alma
+46:17; 50:34; 63:5; III Nefi 3:23; Mormón 3:5,7; 4:1-3,8,13,19." (Alma
+22's own continuing letter 2l cites recurring "tierra de Desolación"
+passages elsewhere in the text, confirming target letter l for entry
+h, on this page's v.6 "Desolación"). Both letters confirmed with no
+discrepancy.
+No narrow-space-vs-merge candidates arose on this page.
+Google-text cross-check: `check_google_crosscheck.py 590` only compared
+against v.30 (its body-line parser stops at the first blank line, and
+this page has one before the mid-page "CAPÍTULO 7." heading — a known
+limitation for pages with a mid-page chapter break, not a defect in
+this page). Manually compared the rest of the page against
+`google_text_1920/page_0612.txt` directly instead: full agreement
+throughout chapter 7, including independent corroboration of
+"occurió" (v.1) and, notably, of the footnote-7g gap — Google's OCR
+also shows nothing at all between "Ether 6:23.." (entry f, OCR-glued
+digit) and "Véase 2¹, Alma 22." (entry h), no garbled fragment of any
+kind, unlike every other tiny key letter on this line (b, e, f, g, i,
+j all show some OCR noise/mis-read character); this is independent
+evidence the gap is genuinely blank ink, not just faint print an OCR
+pass happened to miss.
+Session E: fresh pptext regeneration
+(`workspace/report_wsl_20260810.html`) shows zero new Spellcheck
+Suspect Words or Edit Distance hits for any of
+this page's words (occurió, Oríhah, Corihor, Nehor, Kib, Morón, Efraim,
+Shule, Desolación, polígamo, veintitrés) — all already suppressed by
+existing or newly-added `permitted words.txt` entries. The only report
+section any of this page's text/footnote numbers appear in is "short
+lines check" (an already-covered, expected category for this project's
+verse-wrapped format, not a defect). Proper nouns Corihor, Morón,
+Efraim, and Desolación added to `permitted words.txt` only (rule 11) —
+no errors-log entries: Corihor/Morón/Desolación are bare accent variants
+against 1886's unaccented "Corihor"/"Moron"/"Desolacion" (not logged,
+same precedent as page 589's "Jacom"/"Jácom"); Efraim vs. 1886's
+"Ephraim" is a legitimate Hispanicized spelling (ph->f), not an error.
+"occurió" (v.1, double c + single r) confirmed via 1886
+(pages_1886/page_0604.png, book page 586/file 604: "Y ocurrió que
+Oríhah juzgó") as a genuine 1920-only misprint, distinct from the two
+already-documented "ocurrió" error patterns elsewhere in the document
+(the double-c-double-r "occurrió" pattern, and the accent-only
+"ocurrio" pattern); added to `errors in 1920.txt`. While researching
+this, found the identical "occurió" spelling already sitting
+undetected in `permitted words.txt` from a much older page (1 Nefi
+18:25, librodm.txt line 2715) with no matching errors-log entry —
+confirmed via 1886 (pages_1886/page_0065.png, book page 47/file 65: "Y
+ocurrió que cuando viajábamos") as the same genuine error, and added
+retroactively to `errors in 1920.txt` in its correct book/chapter/verse
+position (a missed-promotion gap of the kind this session's mandatory
+sweep exists to catch, per the skill's own precedent list). Footnote
+7g's print omission (see above) added to `errors in 1920.txt` as
+"Footnote Éther 7g, 4395", matching the "Footnote Alma 9g"/"Footnote
+Éther 1p" precedent format. Whole-document
+`check_spaced_punctuation.py`, `check_footnote_punctuation.py`, and
+`check_verse_indent.py` all re-run clean against
+`librodm.txt`/`librodm_foot.txt`. The footnote anchor <->
+Block 2 definition cross-check (whole document) came back clean: zero
+duplicate Block 2 numbers, zero anchored-but-undefined numbers, only the
+already-documented 812 (Jacob 2:15) defined-but-not-anchored gap. A
+direct range scan of 1..4398 found zero missing numbers (besides 812),
+zero duplicate body anchors, zero out-of-range anchors -- footnote range
+4389-4398 fully accounted for. Direct curly-quote character scan of both
+master files came back clean (zero instances). No narrow-space-vs-merge
+candidates arose on this page, so nothing to batch for the editor beyond
+what's already noted above.
+Session B: independently re-verified all 10 Block 1 entries and all 10
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) of the 1920 page — all reference text and marker
+placements (a "treinta y uno" v.2, b "Kib" v.3, c "Corihor" v.3, d
+"país" v.4, e "Morón" v.5, f "reducidos" v.5, g "Morón" v.6 [unprinted
+citation reconfirmed genuinely blank], h "Desolación" v.6, i "acero"
+v.9, j "ciudad" v.9) confirmed matching page_590.txt exactly. Letters
+i and the cross-reference target l are in the mandatory i/l/1 set; ran
+a fresh independent `process_page.py` pass on pages_1879/page_0592.png
+(not reused from Session A) — reconfirmed the identical reading "g,
+see e. h, see 2l, Alma 22. i, see e, I. Nep. 16. j, ver. 4." with no
+discrepancy. No corrections needed from Session B.

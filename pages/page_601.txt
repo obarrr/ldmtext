@@ -1,0 +1,114 @@
+Página 601
+
+CAPÍTULO 11.
+
+1. Y sucedió, también, en los días de Com que vinieron [4452]muchos
+profetas, y profetizaron la destrucción de aquel gran pueblo,
+excepto que se arrepintieren y volvieren al Señor, renunciando
+sus asesinatos y sus maldades.
+2. Y sucedió, que fueron rechazados los profetas, por el pueblo,
+y huyeron á Com, para que les protegiera, porque el pueblo
+trataba de destruirles;
+3. Y profetizaron á Com muchas cosas; y él fué bendecido
+por todo el resto de sus días.
+4. Y vivió hasta una edad muy avanzada, y engendró á
+Shiblom; y Shiblom reinó en su lugar. Y el hermano de Shiblom
+se rebeló en contra de él; y empezó una gran guerra por todo el
+país.
+5. Y sucedió, que el hermano de Shiblom hizo que se quitara
+la vida á [4453]todos los profetas que profetizaron la destrucción del
+pueblo.
+6. Y vino una gran calamidad sobre todo el país, porque ellos
+habían testificado que mayor maldición caería sobre el país, y
+también sobre el pueblo, y que habría una gran destrucción entre
+ellos, tal como nunca la habían visto sobre la faz del país; y que
+sus huesos vendrían á ser como [4454]montones de tierra sobre la faz
+del país, excepto que se arrepintieren de sus iniquidades.
+7. Y no escucharon la voz del Señor, por causa de sus [4455]inicuas
+combinaciones; por lo tanto, empezaron las guerras y contiendas
+por todo el país. Y empezó también á haber hambres y pestilencias
+de tal manera que se originó una gran destrucción, tal
+como nunca se había conocido sobre la superficie del país, todo
+lo que vino á verificarse en los días de Shiblom.
+8. Y empezó el pueblo á arrepentirse de sus iniquidades; y
+á medida que lo hacían, el Señor tenía misericordia de ellos.
+9. Sucedió que Shiblom fué asesinado, y [4456]Seth fué puesto en
+cautividad, y quedó cautivo por todo el resto de sus días.
+10. Y sucedió, que Ahah, su hijo, obtuvo el reino; y reinó
+sobre el pueblo por todo el resto de sus días. Y en sus días
+cometió toda clase de iniquidades, por lo que causó que se
+vertiera mucha sangre; y pocos fueron sus días.
+11. Y Éthem, que era descendiente de Ahah, obtuvo el reino;
+y también hizo en sus días lo que era malo.
+
+11a, 4452: Véase p, Éther 9.
+11b, 4453: Versículo 1.
+11c, 4454: Los antiguos montículos de Norte América.
+11d, 4455: Véase i, II Nefi 10.
+11e, 4456: Éther 1:11.
+
+Corrections
+v.1 stray mark before "y" ("profetas, ,y") — checked Google OCR first
+per rule 36 (google_text_1920/page_0623.txt line 2 reads "profetas, y
+profetizaron" with no mark); Google's silence treated as primary
+evidence of a stray speck; high-zoom weight comparison shows a thin
+floating fleck, not press type; not transcribed, no errors-log entry.
+v.1 stray mark after "profetizaron" ("profetizaron. la destrucción") —
+same procedure: Google OCR silent (page_0623.txt line 2: "profetizaron
+la destrucción"), high-zoom weight comparison against the genuine comma
+after "profetas," shows the mark is smaller/lighter than real type; a
+period or comma there is also grammatically out of place (verb + direct
+object); treated as a stray speck per rule 36, not transcribed, no
+errors-log entry.
+v.4 "vivió" — apparent grave-accent-like mark over the first "i"
+("vivìó"); checked Google OCR first per rule 36 (page_0623.txt line 10
+reads "vivió"); Google's silence treated as primary evidence of a stray
+speck; a descending ink squiggle from this line's "Y" into "Shiblom"
+below is scan smudge, not type; transcribed "vivió", no errors-log
+entry.
+v.7 "pesti-" / "lencias" line-break hyphen rejoined to "pestilencias"
+per rule 7 (rejoined line 65 chars, kept at end of its line).
+v.8 "hacían, el Señor" — comma after "hacían" confirmed by high-zoom
+(proper comma with tail) and Google OCR; transcribed as a comma, not a
+period.
+Rule 31: the 1920 print sets a space before every ";" on this page
+("destruirles ;", "cosas ;", "Shiblom ;", "él ;", "país ;",
+"combinaciones ;", "iniquidades ;", "reino ;", "sangre ;", "reino ;");
+all removed per rule 31.
+Footnote a target letter "p" (Véase p, Éther 9) and footnote d target
+letter "i" (Véase i, II Nefi 10) — mandatory 1879 check (Section 8) for
+the "i" in footnote d: 1879 file page 603 (printed page 595) footnote
+block reads "a, see p, Ether 9.  b, ver. 1.  c, The ancient mounds of
+North America.  d, see i, ii. Nep. 10." — confirms both target letters
+exactly. Content-fit passes: II Nefi 10 is cited for the "inicuas
+combinaciones" / "wicked combinations" span, matching page 600's
+footnote q ("Véase i, II Nefi 10") resolution.
+Footnote e "Éther 1:11" — printed with a spaced colon ("Éther 1 : 11"),
+normalized to "Éther 1:11" per rule 22. 1920-only cross-reference (1879
+page 595 has no "e" footnote); content-fit: Éther 1:11 is the Jaredite
+genealogy verse naming Seth.
+Session B: independent 1879 re-check (process_page.py on
+pages_1879/page_0603.png, distinct from Session A's crop_page.py look)
+re-reads the Éther 11 footnote block as "a, see p, Ether 9.  b, ver. 1.
+c, The ancient mounds of North America.  d, see i, ii. Nep. 10." — the
+"i" in footnote d is a short dotted letter, not "l" (no ascender) or
+"1"; mandatory i/l/1 check confirmed. All five Block 1 entries and all
+five body markers ([4452] muchos v.1, [4453] todos v.5, [4454] montones
+v.6, [4455] inicuas v.7, [4456] Seth v.9) verified against the 1920
+fn_zoom and the 1879 marker positions; no changes.
+Session E: full 1886 comparison (pages_1886/page_0615.png, printed page
+597) of all 11 verses — no 1920-only substantive deviation. 1886 has no
+mark before "y" or after "profetizáron" in v.1 and no grave over
+"vivió" in v.4, corroborating the rule-36 stray-speck calls; 1886 also
+prints a comma after "hacian" in v.8, matching. No permitted-words or
+errors-in-1920 additions. Fresh full pptext report
+(workspace/report_wsl_20260826.html) walked end to end: page-601 hits
+are only short-lines-check verse-boundary / short-Block-2-entry false
+positives plus one "standalone 1" false positive for "4456: Éther
+1:11"; no spellcheck, edit-distance, dash, footnote, repeated-word, or
+paragraph-level findings touch this page. Whole-document sweeps
+(spaced punctuation, footnote punctuation, verse indent, footnote
+anchor/Block-2 cross-check, footnote-number duplicate/range/missing
+[max anchor now 4456], curly-quote scan) all clean, only the
+long-documented Jacob 2:15/812 gap remaining. No
+narrow-space-vs-merge notes on this page.

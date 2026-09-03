@@ -1,0 +1,321 @@
+Página 627
+10. Y después de haber hecho esto, las asesinaron de la manera
+más cruel, torturando sus cuerpos hasta morir; y después que
+hubieron hecho esto, devoraron sus cuerpos como feroces fieras,
+á causa de la dureza de sus corazones; lo que hicieron, considerándolo
+como una prueba de valor.
+11. Oh, mi amado hijo, ¿Cómo puede un pueblo como este
+que está sin civilización--
+12. (Y no hace más que unos cuantos años que era un pueblo
+agradable y civilizado;)
+13. Pero, oh hijo mío, ¿Cómo puede un pueblo como este,
+cuyo deleite está en tales abominaciones--
+14. ¿Cómo podemos esperar que Dios detenga su mano en
+juicio contra nosotros?
+15. He aquí, que clama mi alma: ¡Ay de este pueblo! Ven á
+juzgarles, oh Dios, y oculta sus pecados, sus iniquidades y sus
+abominaciones delante de tu faz.
+16. Y otra vez, hijo mío, hay muchas viudas y sus hijas que
+quedan en Sherrízah, y la parte de las provisiones que los Lamanitas
+no se llevaron, he aquí, que el ejército de Zenefi se las
+llevó, y así abandonadas anduvieron errantes por doquiera en
+que pudieran hallar alimento, y muchas mujeres ancianas se
+desmayaron por el camino, y murieron.
+17. Y el ejército que está conmigo es débil, y los ejírcitos de
+los Lamanitas se hallan situados entre mí y Sherrízah; y todos
+los que han huido al ejército de [4629]Aarón, han perecido víctimas
+de su espantosa brutalidad.
+18. ¡Oh depravación de mi pueblo! No tiene ni orden, ni
+misericordia. He aquí, que no soy más que hombre, y no tengo
+más fuerza que la de un hombre, sin que me sea posible hacer
+que obedezcan mis mandatos;
+19. Y ellos han aumentado en su perversidad; é igualmente
+en su brutalidad, no perdonando á nadie, ni jóvenes, ni viejos,
+y se deleitan en todo, excepto lo que fuere bueno. Y los sufrimientos
+de nuestras mujeres é hijos en toda la extensión del país,
+sobrepuja cuanto la lengua puede expresar, ni se puede escribir.
+20. Ahora, hijo mío, no quiero hablar más de esta horrible
+escena; tú conoces la maldad de este pueblo, puesto que sabes
+que no tienen sentimientos, ni principios, y que sus iniquidades
+sobrepujan á las de los Lamanitas.
+21. He aquí, hijo mío, que no me atrevo á recomendarles á
+Dios, por miedo de que Él me castigue.
+22. Pero yo te recomiendo á Dios, esperando en Cristo que
+te salvarás; y le pido al Señor que te [4630]conserve la vida, para que
+seas testigo, ó de su arrepentimiento, ó de su entera destrucción.
+
+9e, 4629: Mormón 2:9.
+9f, 4630: Mormón 8:3.
+
+Corrections
+
+Page structure — page 627 CONTINUES the Book of Moroni and Moroni
+chapter 9 (no book header, no chapter heading, rule 1). Page 626 ended
+with Moroni 9:9 COMPLETE ("...que era la castidad y la virtud;" — 1920
+renders the modern em dash after "virtue" as a semicolon; modern BoM
+Moroni 9:9 ends "which is chastity and virtue—"). The previous session's
+"Next page" note anticipated page 627 opening mid-verse 9, but verse 9
+was complete; page 627 OPENS with a fresh verse number "10." The rule 1
+treatment is identical either way: blank line before "Página 627", body
+text on the very next line, NO blank line after "Página 627", NO chapter
+heading. Running header "CAP. IX.) LIBRO DE MORONI. 627" discarded
+(rule 2). Page ENDS with verse 22 COMPLETE ("...ó de su entera
+destrucción."). No page-boundary word split (rule 10 N/A — page 627 ends
+with the complete word "destrucción."; Moroni 9:23 begins on page 628).
+Body = Moroni 9:10-22, 44 output lines (= 44 print lines; the 3 hyphen
+rejoins below do not change the line count).
+
+Rule 7 (hyphen-split rejoin), 3 total:
+ - v.10 "conside-/rándolo" -> "considerándolo". Rejoined onto line 4
+   ("á causa de la dureza de sus corazones; lo que hicieron,
+   considerándolo") = 70 chars < 73 — kept at end of line; "como una
+   prueba de valor." becomes the next line.
+ - v.16 "los La-/manitas" -> "Lamanitas". Rejoined onto line
+   ("quedan en Sherrízah, y la parte de las provisiones que los
+   Lamanitas") = 68 < 73 — kept at end of line; "no se llevaron, he
+   aquí, que el ejército de Zenefi se las" becomes the next line.
+ - v.19 "sufri-/mientos" -> "sufrimientos". Rejoined onto line
+   ("y se deleitan en todo, excepto lo que fuere bueno. Y los
+   sufrimientos") = 69 < 73 — kept at end of line; "de nuestras
+   mujeres é hijos en toda la extensión del país," becomes the next
+   line.
+Rule 8: no rebalancing (longest resulting line = 71 chars, the
+"te salvarás; y le pido al Señor que te [4630]conserve la vida, para
+que" line).
+
+Rule 31 (space before punctuation removed) — the 1920 print sets a
+space before ";", ":" and "!" throughout this page:
+ v.10 "morir ; y" -> "morir; y", "corazones ; lo" -> "corazones; lo";
+ v.12 "civilizado ;)" -> "civilizado;)"; v.15 "alma : ¡Ay" ->
+ "alma: ¡Ay", "pueblo ! Ven" -> "pueblo! Ven"; v.17 "Sherrízah ; y" ->
+ "Sherrízah; y"; v.18 "pueblo ! No" -> "pueblo! No", "mandatos ;" ->
+ "mandatos;"; v.19 "perversidad ; é" -> "perversidad; é"; v.20
+ "escena ; tú" -> "escena; tú"; v.22 "salvarás ; y" -> "salvarás; y".
+ (v.18 "He aquí," takes a plain comma — see the Transcription
+ correction note below.)
+
+Rule 6 (sentence double-spacing collapsed to a single space) — v.18
+"pueblo !  No" -> "pueblo! No" (after de-spacing "!"),
+"misericordia.  He aquí" -> "misericordia. He aquí"; v.19 "fuere
+bueno.  Y los" -> "fuere bueno. Y los". No true zero-width merges on
+this page.
+
+Transcription correction (rule 12 / rule 36 — our image-read was wrong):
+ - v.18 "He aquí," — Session A transcribed "He aquí;" and a 34x zoom
+   read the mark as a semicolon (dot over comma-tail). The editor's
+   direct look at the scan (2026-09-04) shows the mark is a plain
+   COMMA, and the "dot" above it is a stray speck. Google OCR page 0649
+   independently read a comma all along. Per rule 36, Google's silence
+   on the upper dot + the editor's direct read settle it: stray speck,
+   not a semicolon. CORRECTED here and in librodm.txt: "He aquí;" ->
+   "He aquí,". NOT an error — a comma after "he aquí" before its "que"
+   clause is correct and matches this page's other three "He aquí, que"
+   (vv.15, 16, 21). The earlier errors in 1920.txt entry for Moroni
+   9:18 has been REMOVED. (My mistake: I dismissed Google's comma
+   reading as "normalization" instead of treating it as evidence, the
+   exact failure rule 36 warns against — cf. the III Nefi 14:2 /
+   18:28 / Éther 8:23 precedents.)
+ - v.17 "los ejírcitos de los Lamanitas" — 1920 prints "ejírcitos"
+   (í for é) where "ejércitos" is expected; the SAME verse prints
+   "ejército" correctly twice ("el ejército que está conmigo",
+   "huido al ejército de Aarón"). Zoom (6x, ~50-54% band) confirms the
+   printed letters are "ejírcitos"; Google OCR page 0649 also reads
+   "ejírcitos". RESOLVED in Session E: 1886 file p.640 prints
+   "ejércitos" correctly — 1920-only error, LOGGED in errors in
+   1920.txt (Moroni 9:17). Preserved as printed.
+
+House-style / preserved as printed (rule 32), NOT errors:
+ - v.11, v.13, v.14 — capital "C" in "¿Cómo" after the inverted
+   question mark. 1920 house style on this page. Preserved.
+ - v.19 "é igualmente", v.19 "mujeres é hijos" — "é" (accented) as the
+   conjunction "e" before a word beginning i-/h-. 1920 house style
+   (recurs throughout the edition). Preserved.
+ - v.11 "civilización--", v.13 "abominaciones--" — verse ends with an
+   em dash (Mormon's interrupted rhetorical questions). 1886 file p.640
+   ALSO prints an em dash at both spots; 1879 uses ";" / "," there.
+   Transcribed originally with the U+2014 char, converted to "--" in
+   Session E per the documented dash convention (em-dash -> "--"; see
+   Session E note).
+ - Proper name "Zenefi" (v.16) — 1879 and modern BoM "Zenephi"; 1920
+   Spanish rendering. Preserved. (Likely a new permitted-words suspect
+   in Session E.)
+ - Proper names "Sherrízah" (v.16, v.17 — already in permitted
+   words.txt from page 626), "Aarón" (v.17). Preserved.
+
+Footnote markers [4629]-[4630] = Moroni 9 letters e-f (2 markers = 2
+Block 1 entries; chapter 9 letter sequence continues from 9d on page
+626, global number continues from 4628):
+ 9e=[4629] "Aarón" (v.17, "los que han huido al ejército de Aarón";
+ 1879 "them who have fled to the army of (e)Aaron, have fallen");
+ 9f=[4630] "conserve" (v.22, "le pido al Señor que te conserve la
+ vida"; 1879 "I pray unto God that he would (f)spare thy life" —
+ translation word-order difference, rule 26).
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — NOT triggered by
+letter identity: entry letters e, f contain no i/l/1, and both entries
+are direct citations (no "Véase [letter]" cross-reference target).
+Discretionary 1879 cross-check WAS run on 9e (the 1920 fn-block glyph
+and the body superscript are both an over-inked blob): 1879 file p.628
+fn-block prints "e, Mor. 2 : 9.   f, Mor. 8 : 3." in clean italic type
+— 9e is an unambiguous italic "e", 9f an unambiguous italic "f". 1879
+body markers confirm placement: (e) before "Aaron" v.17; (f) before
+"spare" v.22 (1920 "conserve").
+
+1879 cross-check — Moroni 9 continues; verses 17-22 (markers e/f) fall
+on 1879 file p.628, NOT file p.627 (1879 pagination does not track
+1920). 1879 file p.627 fn-block has only "d, Mor. 4 : 11, 12." (page
+626's 9d). 1879 file p.628 fn-block: "e, Mor. 2 : 9.   f, Mor. 8 : 3.
+g, Ether 13—[wrap] 4 : 11, 12.   i, I. Nep. 13 : 31.   Alma 45 : 14."
+— this page's 2 entries (e, f) match one-for-one; g/h/i annotate
+Moroni 9:23-25 which fall on 1920 page 628.
+
+Rule 22 (no spaces around colons) — Block 1: 9e "Mormón 2 : 9." ->
+"Mormón 2:9."; 9f "Mormón 8 : 3." -> "Mormón 8:3." (1879 also spaces:
+"Mor. 2 : 9.", "Mor. 8 : 3.").
+
+Google-text cross-check (google_text_1920/page_0649.txt): 3 candidates.
+ (1) v.13 end: mine "abominaciones--", Google "abominaciones" (no dash).
+     Zoom (12x, ~29% band) confirms the printed em dash. Google
+     routinely drops trailing dashes. No change.
+ (2) v.17 "los Lamanitas", Google "los Lȧmanitas" (stray dot over the
+     first a). Google OCR speck; "Lamanitas" correct (hundreds of
+     occurrences). No change.
+ (3) v.18 "He aquí;", Google "He aquí," (comma). Session A/E zoom
+     wrongly read a semicolon; the editor's direct look at the scan
+     (2026-09-04) confirms Google was right — the mark is a plain
+     comma, the "dot" a stray speck (rule 36). CORRECTED to
+     "He aquí," in page_627.txt + librodm.txt.
+Google INDEPENDENTLY reads v.17 "ejírcitos" the same as the
+transcription (í, not é) — corroborates preserving that misprint. The
+only transcription change from the cross-check is v.18 "He aquí;" ->
+"He aquí," (see Transcription correction note above).
+
+Session B (footnote verification) — independent re-pass:
+ - Fresh 1920 fn-block crop (16x, 92-95% band, re-read from scratch):
+   "•, Mormón 2 : 9.   ʄ, Mormón 8 : 3." — 9e=[4629] Mormón 2:9,
+   9f=[4630] Mormón 8:3. Colons de-spaced (rule 22). UNCHANGED.
+ - Fresh 1920 body-marker crops (18x, independent of Session A):
+   [4629] immediately before "Aarón" (v.17); [4630] immediately before
+   "conserve" (v.22). Both UNCHANGED.
+ - Independent 1879 cross-check — fresh crop of 1879 file p.628
+   fn-block (clean italic type): "e, Mor. 2 : 9.   f, Mor. 8 : 3.
+   g, Eth[er...]" / "[h,] 4 : 11, 12.   i, I. Nep. 13 : 31.   Alma
+   45 : 1[4]." — 9e is an unambiguous italic "e" (round open bowl),
+   9f an unambiguous italic "f" (descending swash). The over-inked
+   "e" blob on the 1920 scan is resolved off 1879's clear type. 1879
+   body markers (fresh crops): (e) immediately before "Aaron" v.17
+   ("as many as have fled to the army of (e)Aaron, have fallen");
+   (f) immediately before "spare" v.22 ("God that he would (f)spare
+   thy life") — 1920 letter on "conserve" (rule 26). Every placement
+   confirmed. g/h/i annotate Moroni 9:23-25 (1920 page 628).
+ - MANDATORY i/l/1 check: entry letters e, f contain no i/l/1; both
+   entries are direct citations (no cross-reference target letter) —
+   not triggered by letter identity. The discretionary over-inked-blob
+   ambiguity on 9e was resolved off 1879's clear type (above).
+NO changes to Block 1 or body markers this session.
+
+Session C: insert_body_text.py 627 — librodm.txt 32865->32911 (+46 = 44
+body lines + "Página 627" + blank separator); librodm_foot.txt
+4963->4965 (2 Block 1 entries 9e/9f appended, NO blank line / NO book
+header — Moroni ch.9 continues within the Book of Moroni, rule 20).
+Body landed before "Notas": page 626 ends "...la castidad y la
+virtud;", blank, "Página 627", then v.10 immediately (no blank line
+after "Página 627", no chapter heading, rule 1); page ends with v.22
+complete "...ó de su entera destrucción.". Página sequence 620..627
+contiguous.
+
+Session D: generate_block2.py 627 appended 4629-4630 (librodm.txt
+32911->32913) — both direct citations (no cross-references to resolve),
+no unresolved warnings, no wrapped-Block-1-entry bug (both entries one
+line each; Notas tail ends cleanly at "4630: Mormón 8:3."). 4629:
+Mormón 2:9. / 4630: Mormón 8:3. Anchor<->Block-2 after append: max
+anchor 4630 = max def 4630, contiguous 1..4630, no gaps/dupes, all
+anchors defined; only the documented Jacob 2:15/[812] def-without-anchor
+remains.
+
+Session E: fresh full pptext report workspace/report_wsl_20260902e.html
+regenerated (WSL) and walked end to end. SPELLCHECK: 1 new suspect —
+"Zenefi" (9:16), a Book-of-Mormon proper noun; 1886 file p.640 ALSO
+prints "Zenefi" (1879 / modern BoM "Zenephi"). ADDED to permitted
+words.txt (rule 10). NO errors-log entry (proper noun, shared with
+1886). permitted words.txt: 1288->1289.
+
+1886 comparison — Moroni 9:10-18 on 1886 file p.640, 9:18-22 on 1886
+file p.641. ALL of Moroni 9:10-22 compared word-for-word. ONE genuine
+1920 deviation found and LOGGED in errors in 1920.txt (913->914,
+appended in book order at end of file — Moroni 9 = true end):
+ * Moroni 9:17 "ejírcitos" (ejércitos) — 1920 prints "ejírcitos" (í
+   for é) where the SAME verse prints "ejército" correctly twice;
+   1886 file p.640 prints "ejércitos" CORRECTLY (1920-ONLY error);
+   "ejírcitos" has zero hits in the three reference corpora and aspell
+   flags it standalone (suggests "ejércitos"); modern BoM Moroni 9:17
+   "los ejércitos de los lamanitas"; 1879 "the armies of the
+   Lamanites"; NOT listed in the full pptext report's Spellcheck
+   section (same whole-document suppression phenomenon documented for
+   "Poi"/"dsesaría" pp.469-470 and "bautizeis" Moroni 8:9), so NO
+   permitted-words entry (would be a no-op); preserved as printed.
+Withdrawn intra-session: a Moroni 9:18 "He aquí; que" (He aquí, que)
+entry was drafted and appended (making 913->915), then REMOVED after
+the editor's direct look at the scan showed the mark is a plain comma
+with a stray speck, not a semicolon — see the Transcription correction
+note above. errors in 1920.txt back to 914 lines; the transcription
+now reads "He aquí," (a correct comma, no error).
+NOT logged (resolved as non-errors after the full 1886 + independent
+research check):
+ (1) v.11 "civilización--", v.13 "abominaciones--" — 1886 file p.640
+ ALSO prints an em dash at both; not a wording/punctuation deviation,
+ just the em-dash-representation convention (converted U+2014 -> "--"
+ this session, see below). NOT logged.
+ (2) v.19 1886 "anmentado" / "extension del pais", v.18 1886 "órden",
+ v.20/21 1886 "hijo mio" — 1886 typos / accent drops; 1920 has the
+ correct forms ("aumentado", "extensión del país", "orden", "hijo
+ mío"). Not 1920 errors.
+ (3) v.15 1886 "Hé aquí que clama" (no comma) vs 1920 "He aquí, que
+ clama" — 1920 house-style comma addition (page 625/626 precedent),
+ NOT logged.
+
+Dash check (pptext em-dash bucket) — flagged librodm.txt lines
+27886/27890 as containing a real U+2014 em-dash char ("civilización—",
+"abominaciones—"), from this page's Session A transcription. Per the
+documented dash convention (em-dash -> "--", the form pptext self-
+recognizes as "book uses '--' as em-dash"), both converted to "--" in
+pages/page_627.txt AND librodm.txt.
+
+Whole-document em-dash cleanup (2026-09-04, same session) — that
+scan turned up 6 more U+2014 chars scattered in librodm.txt from
+earlier pages: 20739 + 20742 (Helamán 10:3, p.462), 23224 (III Nefi
+16:4, p.519), 24206 (III Nefi 27:8, p.542, a ";—" pair), 26053 (Éther
+3:26, p.584), 26958 (Éther 12:28, p.605). pptext's em-dash bucket only
+displays the first 2, which is why the other 4 sat unnoticed on their
+pages. Each was checked against its own page file's Session A note and
+confirmed a genuine em dash, NOT a masked transcription error (my
+earlier "má—fuente" worry was a misread — page_605 and librodm both
+have "mí—fuente" = "unto me—the fountain", matching modern Éther
+12:28). All 6 converted "—" -> "--" in librodm.txt AND their page
+files (pages/page_462, 519, 542, 584, 605 — body lines only, prose
+em-dashes in Corrections logs left alone). Also fixed the two
+already-emailed archive copies for consistency (NOT resent, per the
+2026-07-24b/2026-07-25 retroactive-fix precedent):
+chapters_emailed/Helaman_10.txt (×2), chapters_emailed/III_Nefi_16.txt
+(×1). librodm.txt / librodm_foot.txt / every chapters_emailed/*.txt
+now hold ZERO U+2014 (only chapters_emailed/_log.txt keeps 2, in its
+own prose comments — not transcription). A one-line dated note was
+added to each of the 5 page files' Corrections logs.
+
+Narrow-space vs. two words (feedback_narrow_space_vs_merge): NONE on
+this page — no tight word-pairs flagged in Session A.
+
+Whole-document mechanical sweeps all clean: check_spaced_punctuation
+librodm.txt (32913); check_footnote_punctuation librodm_foot.txt
+(4965); check_verse_indent librodm.txt; anchor<->Block-2 sweep shows
+only the documented [812] def-without-anchor, no dupes, contiguous
+1..4630; curly-quote scan of librodm.txt / librodm_foot.txt /
+page_627.txt all zero. Jeebies clean. Repeated-word / duplicate-line /
+ellipsis / adjacent-dashes / "full stop followed by unexpected
+sequence" — no page-627 hits (all pre-existing/earlier pages). Short-
+lines / "unexpected paragraph end" page-627 hits are the usual
+structural verse-boundary false positives. Text changes this session:
+(1) page_627.txt + librodm.txt em-dash "—" -> "--" (×2, per the dash
+convention); (2) v.18 "He aquí;" -> "He aquí," (stray-speck correction,
+editor's direct read + Google OCR, rule 36). The ejírcitos error is
+preserved exactly as printed.

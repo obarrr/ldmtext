@@ -8,7 +8,7 @@ nombre, á fin de que Él bendiga á la iglesia por mi causa.
 si una iglesia tiene el nombre de Moisés, es porque es la iglesia
 de Moisés; y si se le da el nombre de una persona cualquiera, es
 porque pertenece á aquella persona; por lo tanto, si ella lleva
-mi nombre, será mi iglesia;—si fuere que estuvieren fundados
+mi nombre, será mi iglesia;--si fuere que estuvieren fundados
 sobre mi evangelio.
 9. En verdad, en verdad, os digo, que vosotros os habéis edificado
 sobre mi evangelio. Por lo tanto, cuanto pidáis, lo haréis
@@ -92,7 +92,7 @@ la tumba" (raised from the grave/tomb); i's target (II Nefi 31, which
 is substantively about enduring to the end and baptism) fits "si
 perseverare hasta el fin" extremely well; all five fit their anchors.
 Google-text cross-check (`check_google_crosscheck.py 542`): one
-candidate surfaced, the em-dash in v.8 "iglesia;—si fuere" -- Google's
+candidate surfaced, the em-dash in v.8 "iglesia;--si fuere" -- Google's
 OCR simply dropped the dash character (not a letter misread), and a
 fresh zoom (already done at transcription time, see the mark
 identified near "estuvieren fundados"/"sobre mi evangelio") confirms
@@ -106,3 +106,5 @@ matching exactly. Re-ran the mandatory 1879 check for the "i" letter
 "e, see k, I. Nep. 15. f, ver. 15. I. Nep. 19:10. III. Nep. 28:6. g,
 raised from the grave. h, see u, II. Nep. 9. i, see h, II. Nep. 31."
 reading, settling "i" (not an l/1 misread).
+
+[2026-09-04 em-dash normalization] The em dash(es) [iglesia;--si (III Nefi 27:8)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.

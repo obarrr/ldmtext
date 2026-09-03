@@ -1,0 +1,242 @@
+Página 621
+30. Porque, he aquí, que le están sometidos para ministrar la
+palabra de sus mandatos, manifestándose á los que tienen una
+fe viva y un espíritu firme, en toda forma de santidad.
+31. Y el oficio de su ministerio es el llamar á los hombres al
+arrepentimiento, y el hacer y cumplir las obras de las alianzas
+que el Padre ha hecho con los hijos de los hombres, para preparar
+la vía entre los hijos de los hombres, por declarar la palabra
+de Cristo á los vasos escogidos del Señor, para que den testimonio
+de Él.
+32. Porque obrando de este modo el Señor Dios, prepara la
+vía, para que el resto de los hombres adquiera fe en Cristo, y á
+fin de que el Espíritu [4580]Santo pueda tener cabida en sus corazones,
+según su poder; así es como el Padre cumple las [4581]alianzas que
+ha hecho con los hijos de los hombres.
+33. Porque así dice Cristo: Si tenéis fe en mí, tendréis poder
+de hacer cualquiera cosa que sea conveniente en mí.
+34. Y ha dicho: [4582]Arrepentíos, vosotros extremos de la tierra,
+y venid á mí, y [4583]bautizáos en mi nombre, y tened fe en mí, para
+que seáis salvos.
+35. Así pues, amados hermanos míos, si este es el caso de que
+estas cosas de que os hablo sean verdaderas,--y Dios en el
+postrer día os mostrará [4584]con poder y gran gloria, que estas cosas
+son verdaderas--y si son verdaderas, ¿han cesado los [4585]días de
+los milagros?
+36. ¿O han [4586]cesado los ángeles de aparecer á los hijos de los
+hombres? O, ¿ha [4587]retirado el Señor el poder del Espíritu
+Santo de ellos? O, ¿lo hará Él, mientras que dure el tiempo, ó
+que subsista la tierra, ó mientras que quede en el mundo un
+hombre, á quién salvar?
+37. He aquí, os digo que no; porque es por la [4588]fe, por la que
+se ejecutan los milagros; y es por la fe, por la que aparecen los
+[4589]ángeles y ministran á los hombres; por lo tanto, si cesan estas
+cosas, ay de los hijos de los hombres, porque es á [4590]causa de su
+incredulidad, y todo es en vano;
+38. Por cuyo motivo, según las palabras de Cristo, ningún
+hombre se puede salvar, excepto que tuviere fe en su nombre;
+por lo tanto, si estas cosas han cesado, la [4591]fe ha cesado
+igualmente; y terrible sería entonces el estado del hombre; porque
+sería entonces para ellos, como si no hubiera habido redención.
+39. Pero, he aquí, amados hermanos míos, que espero de
+vosotros cosas mejores, porque supongo que tenéis fe en Cristo
+
+7t, 4580: Véase y, III Nefi 9.
+7u, 4581: Véase j, III Nefi 15.
+7v, 4582: III Nefi 27:20; Éther 4:18.
+7w, 4583: Véase u, II Nefi 9.
+7x, 4584: Véase g, II Nefi 33.
+7y, 4585: Véase r, II Nefi 26.
+7z, 4586: Véase s.
+7-2a, 4587: I Nefi 10:17-19; II Nefi 28:4; Moroni 10:4-5,7,19,24-27.
+7-2b, 4588: Véase a.
+7-2c, 4589: Véase s.
+7-2d, 4590: Versículo 38; Moroni 10:19,23-27.
+7-2e, 4591: Versículo 37; Véase 2d.
+
+Corrections
+
+Page structure — page 621 CONTINUES the Book of Moroni and CONTINUES
+Moroni chapter 7. Page 620 ended with Moroni 7:29 COMPLETE, so page
+621 OPENS with verse 30 as continuous-paragraph flow: NO blank line
+after "Página 621", NO chapter heading, NO subtitle, NO book header
+(rule 1, still mid-chapter/mid-book). Running header
+"CAP. VII.)  LIBRO DE MORONI.  621" discarded (rule 2). Page ends
+MID-verse 39 ("...porque supongo que tenéis fe en Cristo") — page 622
+opens with the next word.
+
+Body: 41 print lines (0 heading), matching each crop's line count.
+
+Rule 7 (hyphen-split rejoins), 3 total:
+ - v.31 "pre-/parar" → "preparar" — rejoined onto line 1 ("...para
+   preparar" = 65 chars, < 73, kept there).
+ - v.31 "testi-/monio" → "testimonio" — rejoined onto line 1
+   ("...para que den testimonio" = 66 chars, < 73, kept there).
+ - v.37-38 "igual-/mente" → "igualmente" — rejoined onto line 1
+   ("...la [4591]fe ha cesado igualmente") = 73 chars WITH the marker
+   → not < 73, so rule 8 moves "igualmente" to the start of the next
+   line.
+Rule 8: no other rebalancing needed (longest body line otherwise 71
+chars: v.32 "fin de que el Espíritu [4580]Santo pueda tener cabida en
+sus corazones,").
+
+Rule 31 (space before punctuation removed), 10 instances — the 1920
+print sets a space before ";" and ":" throughout this page:
+ v.32 "poder ;" → "poder;"; v.33 "Cristo :" → "Cristo:"; v.34
+ "dicho :" → "dicho:"; v.37 "no ;" → "no;"; v.37 "milagros ;" →
+ "milagros;"; v.37 "hombres ;" → "hombres;"; v.37 "vano ;" → "vano;";
+ v.38 "nombre ;" → "nombre;"; v.38 "mente ;" → "igualmente;"; v.38
+ "hombre ;" → "hombre;".
+
+Rule 6: v.32 justification double-space "las  [4581]alianzas"
+collapsed to a single space. No narrow-space merge candidates on this
+page — every 1920 word boundary is clear.
+
+Em-dashes: v.35 has two em-dashes in the 1920 print —
+"verdaderas,--y Dios" and "verdaderas--y si son verdaderas".
+Transcribed as "--" (two ASCII hyphens) per the established project
+convention (rules doc "Dash check"; page 475's Corrections log: "left
+as '--' per existing project convention"; pptext recognises "--" as
+"the book's em-dash"). NOTE for the editor: librodm.txt contains 6
+pre-existing BODY em-dashes typed as the "—" (U+2014) character
+instead of "--" (lines ~20739 "meditación—", ~20742
+"iniquidades—sucedió", ~23224 "saben—para", ~24204 "iglesia;—si",
+~26051 "cosas—le", ~26956 "mí—fuente") — a pre-existing inconsistency
+worth a one-pass normalisation to "--" whenever convenient; not
+touched this session.
+
+Footnote markers [4580]-[4591] = Moroni 7 letters t, u, v, w, x, y,
+z, 2a, 2b, 2c, 2d, 2e (12 markers = 12 Block 1 entries):
+ 7t=[4580] "Santo" (7:32, Espíritu Santo); 7u=[4581] "alianzas"
+ (7:32); 7v=[4582] "Arrepentíos" (7:34); 7w=[4583] "bautizáos"
+ (7:34); 7x=[4584] "con" (7:35, "con poder y gran gloria");
+ 7y=[4585] "días" (7:35, días de los milagros); 7z=[4586] "cesado"
+ (7:36, ángeles cesado de aparecer); 7-2a=[4587] "retirado" (7:36,
+ retirado el poder del Espíritu Santo); 7-2b=[4588] "fe" (7:37, es
+ por la fe); 7-2c=[4589] "ángeles" (7:37, aparecen los ángeles);
+ 7-2d=[4590] "causa" (7:37, á causa de su incredulidad); 7-2e=[4591]
+ "fe" (7:38, la fe ha cesado igualmente).
+
+1879 cross-check (Orson Pratt footnotes), file pp.622-623 — all 12
+entries confirmed one-for-one against 1879:
+ p.622: "t, see y, III. Nep. 9. / u, see j, III. Nep. 15. / v, III.
+ Nep. 27:20. Ether 4:18. / w, see u, II. Nep. 9. / x, see g, II. Nep.
+ 33. / y, see r, II. Nep. 26. / z, see s. / 2a, I. Nep. 10:17-19. II.
+ Nep. 28:4. Moro. 10:4,5,7,19,24-27. / 2b, see a. / 2c, see s."
+ p.623: "2d, ver. 38. Moro. 10:19,23-27. / 2e, ver. 37. See 2d."
+ 1879 body markers on file pp.622-623 confirm every marker word
+ placement (v.32 "the (t)Holy Ghost", "the (u)covenants"; v.34
+ "(v)Repent", "(w)baptized"; v.35 "(x)with power", "the (y)day of
+ miracles"; v.36 "angels (z)ceased", "(2a)withheld the power of the
+ Holy Ghost"; v.37 "by (2b)faith", "(2c)angels appear",
+ "(2d)because of unbelief"; v.38 "(2e)faith ceased also").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — TRIGGERED by
+Google OCR: Google's text layer reads 7u's cross-reference letter as
+"i" ("Véase i, III Nefi 15"). 1879 file p.622 unambiguously prints
+"u, see j, III. Nep. 15." — the glyph after "see" has a dot ABOVE
+plus a descender hook curling below the baseline (a "j", not a dotted
+"i", which has no descender). The 1920 glyph is consistent with "j"
+(dot + hint of a descender). Resolved: 7u cross-reference = "j".
+Google's "i" is an OCR misread of the superscript (rule 14).
+(7x's letter, Google-read as "º", is likewise "g" per 1879; 7y "r",
+7w "u", 7t "y" all confirmed vs 1879.)
+
+Rule 23/24 (verse-list formatting) applied to Block 1:
+ 7-2a: 1920 "Moroni 10:4, 5, 7, 19, 24-27" → "10:4-5,7,19,24-27"
+   (4,5 consecutive → range "4-5"; 7 and 19 non-consecutive →
+   commas; 24-27 already a range). Matches the "Moroni 10:4-5"
+   precedent at footnote 4351.
+ 7-2d: 1920 "Moroni 10:19, 23-27" → "10:19,23-27" (19 non-consecutive
+   with 23 → comma; 23-27 range).
+Rule 16: two-letter footnote codes 2a-2e joined to the chapter with a
+hyphen ("7-2a" … "7-2e"). 7-2e's same-chapter cross-reference to
+letter 2d written "Véase 2d." (matches the "Véase 2a, II Nefi 9."
+form at footnote 772).
+
+Google-text cross-check (google_text_1920/page_0643.txt): the
+transcribed body text matches Google's OCR line-for-line (Google
+preserves the original line breaks); no letter-level body
+discrepancies. The only Google divergences are in the footnote block
+(superscript letters — expected, rule 14 — resolved via 1879 above).
+
+No suspected misprints to flag this page. "¿O han" / capital after
+"¿" mid-sentence (7:36) is house style (cf. page 620's ¿Cómo/¿Han).
+
+Session B (footnote verification): fresh 1920 fn-block crops (7x, in
+thirds) + fresh 1920 body-marker crops (5x) + the Session-A fresh 1879
+crops (file pp.622-623). All 12 Block 1 entries and all 12 body
+markers UNCHANGED — every reference text and every marker word
+placement re-confirmed. MANDATORY i/l/1-class check re-affirmed: 7u's
+cross-reference is "j" (1879 p.622 "u, see j, III. Nep. 15." — dot +
+descender hook; the 1920 glyph matches), NOT the "i" that Google's OCR
+layer reports. No changes this session.
+
+Session C: insert_body_text.py 621 — librodm.txt 32560→32603 (+43);
+librodm_foot.txt 4914→4926 (12 Block 1 entries appended, NO blank line
+/ NO book header — Moroni ch.7 continues, rule 20). Session D:
+generate_block2.py 621 appended 4580-4591 (librodm.txt 32603→32615);
+no unresolved warnings, no wrapped-Block-1-entry bug. Cross-ref
+resolutions: 7t→3585 (III Nefi 9y); 7u→3702 (III Nefi 15j); 7w→378
+(II Nefi 9u); 7x→790 (II Nefi 33g); 7y→671 (II Nefi 26r — same
+target as page 620's 7r); 7z/7-2c→4579 (Moroni 7s, same chapter);
+7-2b→4561 (Moroni 7a, the faith passage — reciprocal content-fit,
+"fe"); 7-2e "Véase 2d"→4590 (Moroni 7-2d). 7v/7-2a/7-2d direct.
+Anchor↔Block-2 after append: max anchor 4591 = max def 4591,
+contiguous 1..4591, no gaps/dupes; only the documented Jacob 2:15/812
+gap remains. pptext footnote check: anchors 4569-4591 all present.
+
+Session E: fresh full pptext report (workspace/report_wsl_20260831.html)
+regenerated and walked end to end. 1886 comparison vs Moroni 7 file
+pp.634-635 (vv.24-44) — ALL of Moroni 7:30-39 compared word-for-word:
+NO 1920-only substantive deviation. Every 1920/1886 difference is the
+standard 1886-archaic-accent vs 1920-modern-accent house-style pattern
+(1886 "fé/segun/miéntras/entónces/redencion/hé aquí/hán/via/cáusa" vs
+1920 "fe/según/mientras/entonces/redención/he aquí/han/vía/causa") plus
+minor connective-punctuation variation that is not an error in any
+edition (v.35 1920 em-dash where 1886 has a colon at the SECOND spot
+"verdaderas: y si"; v.36 dash placement after "hombres?"). KEY: the
+v.35 FIRST em-dash ("verdaderas,--y Dios") is present in BOTH 1886 and
+1920 — genuine print, correctly transcribed. "¿O han" / capital after
+"¿" (7:36) confirmed house style — 1886 also "¿O hán ... ¿há ... ¿lo".
+
+TEXT CHANGE this session: page 621's two v.35 em-dashes normalised from
+the "—" (U+2014) character to "--" (two ASCII hyphens) — in BOTH
+pages/page_621.txt and librodm.txt — per the established project
+convention (see the Em-dashes note above). Transcription-formatting
+normalisation only; NOT an errors-in-1920 matter.
+
+errors in 1920.txt: NO change (905→905) — no 1920-only error in
+Moroni 7:30-39. permitted words.txt: NO change (1283→1283) — the only
+aspell-flagged page-621 body words ("bautizáos" v.34, "salvos" v.34)
+are ALREADY in permitted words.txt (lines 425, 295); no new flags.
+
+Full pptext walkthrough: page-621 hits are all structural —
+short-lines flood (verse-boundary wrapped body lines + short Block-2
+"Véase NNNN." entries); dash-check hyphen-minus 4587/4590 (digit-
+flanked rule-23/24 verse ranges "10:17-19", "10:4-5,7,19,24-27",
+"10:19,23-27"); dash-check "em-dash:" bucket listed the pre-fix
+"verdaderas,--y" (line 27644) — resolved by the "--" normalisation
+above (re-scan buckets it as "adjacent dashes → book uses -- as
+em-dash", self-suppressed). NO page-621 spellcheck / edit-distance /
+repeated-word / duplicate-line / ellipsis / footnote-check / scanno /
+curly-quote / spaced-punctuation / special-situations / book-level /
+paragraph-level ("full stop followed by unexpected sequence" has no
+page-621 hit) / Jeebies findings. Whole-document mechanical sweeps all
+clean: check_spaced_punctuation.py librodm.txt (32615) + page_621.txt
+(5 hits, all inside THIS Corrections log — historical quotes of the
+rule-31 fixes, not live defects); check_footnote_punctuation.py
+librodm_foot.txt (4926); check_verse_indent.py librodm.txt;
+anchor↔Block-2 sweep (only [812]); footnote-number
+duplicate/out-of-range/missing sweep (max anchor 4591, contiguous);
+curly-quote scan of librodm.txt / librodm_foot.txt / page_621.txt all
+zero; letter-hyphen-letter blind-spot scan of the page-621 body — no
+compounds ("--" correctly not matched).
+
+Narrow-space word-pairs for the editor: NONE this page (Session A
+confirmed every 1920 word boundary is clear).
+
+Editor pointer (pre-existing, not page-621): librodm.txt has 6 BODY
+em-dashes still typed as the "—" character instead of "--" (see the
+Em-dashes note above for line refs) — a one-pass "—"→"--"
+normalisation whenever convenient.

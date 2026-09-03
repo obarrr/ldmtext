@@ -1,0 +1,297 @@
+Página 612
+persiguiera más al ejército de Coriántumr; por lo tanto, se
+volvieron á su campo,
+
+CAPÍTULO 15.
+
+1. Y ocurrió, que cuando Coriántumr se restableció de sus
+heridas, se puso á recordar las [4519]palabras que Éther le había
+anunciado;
+2. Y viendo que ya habían perecido por la espada cerca de
+dos millones de los de su pueblo, empezó á afligirse en su corazón;
+sí, habían perecido cerca de [4520]dos millones de hombres poderosos,
+y sus mujeres y sus hijos habían perecido también.
+3. Y empezó entonces á arrepentirse del mal que había hecho;
+y á recordar todas las palabras que habían sido anunciadas por
+boca de los profetas; y vió como se habían cumplido hasta
+entonces en todos sus puntos; por lo que lloró su alma, rehusando
+toda consolación.
+4. Y vino á suceder, que escribió entonces una epístola á Shiz,
+deseando que dejara libre al pueblo, diciéndole que le cedería
+el reino por amor á las vidas del pueblo.
+5. Y ocurrió, que contestó Shiz, cuando hubo recibido su carta,
+que si él mismo se le entregaba, de modo que pudiera matarle
+con su propia espada, que perdonaría á su pueblo.
+6. Y sucedió, que el pueblo continuaba sin arrepentirse de sus
+iniquidades; y las gentes de Coriántumr estaban llenas de furor
+contra las de Shiz; y las gentes de Shiz no estaban nada menos
+irritadas contra las de Coriántumr; por lo que el ejército de
+Shiz vino á dar batalla al de Coriántumr.
+7. Y cuando Coriántumr se vió próximo á sucumbir, emprendió
+la fuga delante de la gente de Shiz.
+8. Y aconteció, que llegó á las [4521]aguas de Ripliáncum que
+interpretado significa, es grande, ó es él que sobrepuja á todo; así
+pues, cuando llegaron á estas aguas, plantaron sus tiendas; y
+Shiz plantó también sus tiendas cerca de ellos; por lo tanto en la
+mañana siguiente vinieron á la batalla.
+9. Sucediendo que pelearon con terrible encarnizamiento,
+siendo herido de nuevo Coriántumr, hasta que se desmayó por
+la pérdida de sangre.
+10. Pero acaeció, que los ejércitos de Coriántumr arremetieron
+sobre los de Shiz de tal manera que les batieron, obligándoles á
+
+15a, 4519: Éther 13:20-21.
+15b, 4520: Incluyendo esposas y niños, el número fué probablemente
+entre diez y quience millones.
+15c, 4521: Supuesto ser el lago Ontario.
+
+Corrections
+Page structure — page 612 opens MID-verse Éther 14:31, continuing from
+page 611 (page 611 ended "...que Shiz dió la orden á su ejército, de
+que no", last word not hyphenated, so no page-boundary word-split; the
+first body line here begins with the next word "persiguiera",
+continuing v.31). Per the carried-over-chapter convention the first
+body line follows "Página 612" with NO blank line. Éther 14 ENDS on
+this page at v.31 ("...se volvieron á su campo,") — see the comma note
+below. A chapter-break rule/ornament follows, then "CAPÍTULO 15." on
+its own line with a blank line before and after. The Éther 15 opening
+was checked for a chapter subtitle (rule: always check) — there is
+none; verse 1 follows the heading directly. Page ends MID-verse Éther
+15:10 at "...que les batieron, obligándoles á" — last word "á" NOT
+hyphenated, so no page-boundary word-split; page 613 continues v.10
+with the next word.
+
+Raw line count: 37 image print lines read line-by-line from the
+top/mid/bot crops (2 for the Éther 14:31 tail + 35 for Éther 15:1-10).
+One end-of-line hyphen split (rule 7):
+ - v.8 "inter-" / "pretado" -> "interpretado" — appended to the first
+   line it would reach 74 chars (>=73), so moved to the start of the
+   next line; the remainder of the second image line ("significa, es
+   grande, ...") is retained as its own line -> still 37 body lines.
+check_lines.py clean (all < 73).
+
+Rule 31 — space before punctuation removed (the 1920 print sets a
+space before the semicolon throughout this page): "Coriántumr ;"
+(v.31), "anunciado ;" (v.1), "corazón ;" (v.2), "hecho ;" / "profetas ;"
+/ "puntos ;" (v.3), "iniquidades ;" / "Shiz ;" / "Coriántumr ;" (v.6),
+"todo ; así" / "tiendas ; y" / "ellos ; por" (v.8).
+
+Rule 6 — inter-word gaps wider than one space in the justified print
+normalized to a single space: "toda  consolación." (v.3), "que el
+ ejército" (v.6).
+
+Footnote markers — 3 on this page, all in Éther 15. Éther 14 ends at
+v.31 with no footnote on this page; the letters RESTART at "a" for the
+new chapter (Éther 15) while the global number continues from page
+611's 4518:
+ - 15a = [4519] before "palabras" (v.1) — annotates "palabras que
+   Éther le había anunciado". Block 1: "Éther 13:20-21." (1920 fn
+   prints "Éther 13 : 20, 21."; rule 22 removes the colon spaces, rule
+   23 renders the consecutive "20, 21" as "20-21").
+ - 15b = [4520] before "dos" (v.2) — annotates "dos millones de
+   hombres poderosos". Block 1 is an explanatory note on the
+   population figure: "Incluyendo esposas y niños, el número fué
+   probablemente entre diez y quience millones." (see "quience" note
+   below).
+ - 15c = [4521] before "aguas" (v.8) — annotates "aguas de
+   Ripliáncum". Block 1: "Supuesto ser el lago Ontario."
+Footnote-entry letters a, b, c are all clean italic superscripts in
+the 1920 fn image — none is i/l/1, so the mandatory 1879 check is not
+triggered at transcription; Session B will still content-verify the
+three references against 1879.
+
+Narrow-space word-pairs (rule 6 / feedback_narrow_space_vs_merge /
+editor guidance — this page's print sets several word boundaries with a
+reduced-width space, tighter than normal word spacing on the line but
+NOT a true zero-width merge on zoom; all committed now as two words
+with a single normal space, since grammar and 1886 both require two
+words. Surfaced here for Session E's editor double-check against the
+image, NOT raised as a blocking question. "Google fused" = Google's OCR
+dropped the gap entirely, "Google spaced" = Google's OCR kept a space):
+ - v.4 "á suceder" — reduced gap after "á"; Google fused ("ásuceder").
+   Recurring phrase "vino á suceder" throughout the document.
+ - v.5 "que contestó" — reduced gap; Google fused ("quecontestó").
+ - v.5 "cuando hubo" — reduced gap; Google spaced.
+ - v.6 "sucedió, que" — reduced gap after the comma; Google spaced.
+ - v.8 "que llegó" — reduced gap; Google fused ("quellegó").
+ - v.10 "acaeció, que" — reduced gap after the comma; Google spaced.
+ - v.10 "que los" — tightest of the set (near-zero on zoom); Google
+   fused ("quelos"). Still written as two words (grammar/1886).
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Éther 14:31 "se volvieron á su campo," — verse 31 (and the whole of
+   Éther 14) ENDS with a COMMA, not a period. Confirmed at 4x zoom (a
+   clear comma with a descending tail, on the baseline). Modern BoM
+   Éter 14:31 ends the verse with a full stop ("...regresaron a su
+   campamento."). Likely a 1920 punctuation misprint — Session E to
+   check 1886 and decide whether to log.
+ - Block 1 fn 15b "diez y quience millones" — "quience" for "quince"
+   (modern "quince"). Confirmed at 4x zoom (q-u-i-e-n-c-e, an extra
+   "e"). Google OCR also reads "quience". Likely a 1920 misprint —
+   Session E to check 1886 and log.
+ - Éther 15:8 "ó es él que sobrepuja á todo" — "él" printed with an
+   acute accent where the relative "el que" would be unaccented in
+   modern usage. Confirmed at 5x zoom (clear acute over the "e"). Kept
+   as printed — Session E to check 1886 and decide.
+ - Block 1 fn 15b "fué" — archaic accented preterite, kept per rule 32.
+ - Archaic accented preterites/forms kept per rule 32: "ocurrió"
+   (vv.1,5), "restableció" (v.1), "empezó" (vv.2,3), "vió" (vv.3,7),
+   "lloró" (v.3), "vino" (vv.4,25... and Éther 14:31 tail), "escribió"
+   (v.4), "cedería" (v.4), "contestó" (v.5), "perdonaría" (v.5),
+   "sucedió" (v.6), "aconteció" (v.8), "llegó" (v.8), "plantó" (v.8),
+   "desmayó" (v.9), "acaeció" (v.10), "próximo" (v.7), "emprendió"
+   (v.7), "epístola" (v.4), "número" (fn 15b). "ó" (v.8, archaic
+   accented "or") kept.
+
+Google-text cross-check (extract_google_text / check_google_crosscheck,
+google_text_1920/page_0634.txt): the automated script only compared the
+2-line Éther 14:31 tail before "CAPÍTULO 15." (its body extractor stops
+at the first blank line, and a chapter heading follows line 2 here), so
+the full-page comparison was done manually line-by-line against the
+Google OCR text. After ignoring word-fusion (see the narrow-space note
+above) and the dropped/glued superscript letters, Google's OCR matches
+this transcription letter-for-letter, INCLUDING the preserved anomalies
+"quience" (fn 15b), "él" (v.8) and the sentence-final comma at "campo,"
+(Éther 14:31). No letter-level candidates.
+
+Proper names on this page: "Coriántumr" (many occurrences, every one
+accented on the "a" — consistent throughout this page, unlike page
+611's single "Coríantumr" misprint), "Shiz", "Éther", "Ripliáncum"
+(v.8, first appearance — Session E to add to permitted words.txt as
+needed), "Ontario" (fn 15c).
+
+Session B — footnote verification (independent re-check). Fresh 1920
+fn-block crop (6x) re-read: "15a, 4519: Éther 13:20-21." /
+"15b, 4520: ...quience millones." / "15c, 4521: Supuesto ser el lago
+Ontario." — unchanged. Letters a, b, c are clean italic superscripts,
+none i/l/1, so no mandatory i/l/1 check triggered; the 1879 content
+cross-check was still run on all three (chapter_map: Éther 15 = 1879
+file pages 613-614):
+ - 15a: 1879 p.613 "a, Ether 13 : 20, 21." — matches (1920 "Éther",
+   1879 "Ether"; verse content identical). 1879 body p.613 places its
+   "a" marker before "words" in Éther 15:1 ("began to remember the
+   ᵃwords which Ether had spoken unto him;") — exact positional match
+   with 1920's [4519] before "palabras". CONFIRMED.
+ - 15b: 1879 p.614 "b, including wives and children, the numbers, very
+   probably, must have been from ten to fifteen millions." — same
+   explanatory note; content matches 1920's "Incluyendo esposas y
+   niños... entre diez y quience millones." 1879's "fifteen"
+   independently corroborates that 1920's "quience" is a misprint for
+   "quince" (Session E). CONFIRMED; marker [4520] before "dos" (v.2)
+   fits the population note.
+ - 15c: 1879 p.614 "c, supposed to be Lake Ontario." — exact content
+   match with 1920's "Supuesto ser el lago Ontario." CONFIRMED; marker
+   [4521] before "aguas" (v.8) fits.
+Also noted while in 1879 p.613: 1879 ends Éther 14:31 "wherefore they
+returned to their camp." with a PERIOD, and its chapter opening is
+rule/ornament -> "CHAPTER 15." -> verse 1 with NO subtitle — both
+corroborate the Session A readings (the 1920 comma at "campo," is
+flagged for Session E; no Éther 15 subtitle). No changes to
+page_612.txt body or Block 1 from Session B.
+
+Session C — body text (41 lines + 1 blank separator) inserted before
+"Notas"; librodm.txt 32118 -> 32160. Block 1 entries 15a-15c appended
+to librodm_foot.txt (4847 -> 4851); no book/chapter blank line (same
+book, Éther 14 -> 15, rule 20). Page-boundary continuation with page
+611 is clean (611 ends "...de que no", 612 begins "persiguiera...",
+no word-split). (git diff on the master files looks large only because
+pages 588-611's integration is in the working tree but uncommitted,
+HEAD at page 587 — same situation noted in page 611's log.)
+
+Session D — Block 1 entries 15a-15c are all direct references (no
+"Véase" cross-refs), appended to librodm.txt's Notas block verbatim as
+4519 / 4520 / 4521. NOTE: generate_block2.py mishandled the wrapped
+15b entry (it spans two lines in librodm_foot.txt) — it appended a
+duplicate "4520: Incluyendo... / y quience millones." AFTER the 4521
+line (same wrapped-Block-1-entry class of bug the integrate-page skill
+notes for append_block1). The stray duplicate pair was removed by hand;
+librodm.txt now ends correctly at 4521 (32164 lines). Anchor<->def
+cross-check after the fix: max anchor 4521 = max def 4521, no dup defs,
+no anchored-without-def, no gaps in the 1..4521 def range.
+
+Session E — orthography check (2026-08-29). Fresh pptext report
+workspace/report_wsl_20260829.html generated and walked;
+report_wsl_20260829b.html regenerated after the permitted-words
+additions to confirm suppression (Spellcheck Suspect Words no longer
+carries "quience" or "Ripliáncum"). Whole-document sweeps all clean:
+check_spaced_punctuation.py librodm.txt (32164), check_footnote_
+punctuation.py librodm_foot.txt (4851), check_verse_indent.py
+librodm.txt, curly-quote scan of both master files (zero),
+footnote-anchor <-> Block-2 cross-check (max anchor 4521 = max def
+4521; no dupes; no anchored-without-def; only the documented Jacob
+2:15 / 812 defined-without-anchor gap remains; no gaps in the 1..4521
+def range).
+
+Page-612 pptext flags: Spellcheck Suspect Words ("quience",
+"Ripliáncum") + Edit Distance ("quience:quince") + paragraph-level
+"paragraph ends in comma" (the v.31 "campo," — a real error here, not
+the usual page/chapter-boundary-wrap false positive; see below). All
+other page-612 report hits are the structural "short lines check" /
+"standalone 1" flood (wrapped verse lines, verse-end short lines,
+Block 2 "NNNN: ..." entries, chapter:verse citations) — no real
+signal. "restableció" (v.1) not flagged (aspell accepts it).
+
+Flagged-item decisions (each researched: 1886 image [Éther 14 end =
+1886 file p.625; Éther 15 = 1886 file p.626] + 1879 [file pp.613-614]
++ modern Spanish BoM + reference corpora):
+ - Éther 14:31 "campo," — GENUINE 1920 error: a comma where the verse
+   (and chapter 14) ends. 1886 p.625 "se volviéron á su campo." with a
+   PERIOD; 1879 p.613 "returned to their camp." with a period; modern
+   BoM Éter 14:31 ends with a period. Punctuation-placement question,
+   so 1886/1879 comparison suffices (no RAE/corpus). errors log only
+   (no permitted-words entry — punctuation).
+ - Éther 15:2 fn b "quience millones" — GENUINE 1920 error for
+   "quince". 1879 fn b "from ten to fifteen millions" confirms
+   "fifteen" = "quince"; "quience" not in RAE, 0 corpus hits vs.
+   "quince" 57×; edit-distance "quience:quince" (4 correct occurrences
+   in librodm.txt). 1886 carries no footnotes (no direct 1886
+   comparison for note text). permitted words + errors log
+   ("Éther 15:2 (nota b)" per the Éther 2:24/12:25 footnote-error
+   precedent). Preserved as printed (rule 32).
+ - Éther 15:8 "ó es él que sobrepuja" — INITIALLY logged (2026-08-29)
+   as a spurious acute on the relative "el que", on the strength of
+   1886 p.626 printing "ó es el que sobrepuja á todo" unaccented.
+   REVERSED 2026-08-29 after the editor questioned it: 1920's
+   consistent house style IS the accented "él que" in this exact
+   relative construction — "él que" occurs 178× in librodm.txt vs. a
+   single unaccented "el que" (line 3763), including the identical
+   frame "es él que + verb" at 6101 "es él que se salvará", 12246
+   "¿Quién es él que vendrá?", 15894 "es él que persevera hasta el
+   fin", 25005 "el Espíritu es él que me manifestó", 26148 "bendito
+   es él que sea hallado fiel", etc. This is a legitimate 19th-century
+   orthographic convention (the tilde on "él" before "que" when "él"
+   carries pronominal/emphatic force was standard before the RAE
+   tightened the tilde-diacrítica rules in the 20th century); 1886's
+   unaccented "el que" there is just 1886 dropping an accent, as it
+   frequently does. NOT a 1920 error — the errors-log entry was
+   removed; no permitted-words entry (pptext never flagged "él").
+   Body text unchanged ("él que", as printed = house style).
+ - "Ripliáncum" (v.8, Jaredite place name, first appearance) — NOT an
+   error. 1886 p.626 "aguas de Ripliáncum" — identical spelling;
+   modern BoM "Ripliáncum". permitted words only.
+
+Narrow-space word-pairs surfaced for the editor (rule 6 /
+feedback_narrow_space_vs_merge; all committed as two words, editor to
+double-check the image at leisure — NOT blocking questions). 1886
+(file pp.625-626) prints every one of these as two separate words,
+which is what was committed:
+ - Éther 15:4 "á suceder" (1920 image reduced gap after "á", Google
+   fused "ásuceder"; 1886 "vino á suceder que").
+ - Éther 15:5 "que contestó" (Google fused "quecontestó"; 1886 "que
+   contestó").
+ - Éther 15:5 "cuando hubo" (reduced gap; 1886 "cuando hubo").
+ - Éther 15:6 "sucedió, que" (reduced gap after the comma; 1886
+   "sucedió que").
+ - Éther 15:8 "que llegó" (Google fused "quellegó"; 1886 "que llegó").
+ - Éther 15:10 "acaeció, que" (reduced gap after the comma; 1886
+   "acaeció que").
+ - Éther 15:10 "que los" (tightest of the set, Google fused "quelos";
+   1886 "que los").
+
+`permitted words.txt`: added "quience", "Ripliáncum" (1272 -> 1274).
+`errors in 1920.txt`: added Éther 14:31 "campo," and Éther 15:2
+(nota b) "quience", in book/chapter/verse order after the Éther 14:26
+entry. (An Éther 15:8 "él" entry was added the same cycle then removed
+— 2026-08-29 editor reversal, see the Session E note above: 1920's
+accented "él que" is consistent house style, 178× vs. 1, not an error.)

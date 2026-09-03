@@ -1,0 +1,286 @@
+Página 611
+19. Y vino á suceder que los habitantes empezaron entonces á
+reunirse por cuerpos armados sobre toda la superficie del país.
+20. Y se dividieron, yendo unos con Shiz, y otros con Coriántumr.
+21. Y tan grande y tan duradera había sido esta guerra, y
+tan large había sido la escena de sangre y de carnicería, que toda
+la superficie del país se hallaba cubierta de cadáveres;
+22. Y tan rápida y tan activa había sido la guerra, que no
+había quedado nadie que enterrase los muertos. Sino que
+marchando de carnicería en carnicería, habían dejado los cadáveres
+de los hombres, mujeres y niños esparcidos por toda la
+superficie del país, para que fueran presos de los gusanos de la
+carne;
+23. Y el hedor se extendía por todo el país; sí, por toda la
+extensión del país, por lo que molestaba de día y de noche á
+sus habitantes.
+24. No obstante, Shiz no cesaba de persiguir á Coriántumr,
+porque había jurado vengar en él la [4517]muerte de su hermano,
+que había sido matado, y la voz del Señor había dicho á Éther,
+que Coriántumr [4518]no perecería por la espada.
+25. Así vemos, como el Señor les visitó en la plenitud de su
+cólera, y como sus iniquidades y abominaciones habían preparado
+la vía de su completa destrucción.
+26. Y sucedió, que Shiz continuó persiguiendo á Coríantumr
+hacia el Este, aún hasta los bordes de la mar, donde dió una
+batalla que duró por espacio de tres días;
+27. Y tan terrible fué el estrago que causaron en las filas de
+los ejércitos de Shiz, que se llenaron de terror, y emprendieron
+la retirada. Refugiáronse en el país de Corihor, exterminando
+á todos los habitantes, que no quisieron juntarse con ellos;
+28. Y se acamparon en el valle de Corihor. Y Coriántumr
+vino á acamparse en el valle de Shurr. Ahora, el valle de Shurr
+está situado cerca del cerro de Comnor; por cuyo motivo Coriántumr,
+habiendo reunido todas sus tropas sobre esta colina, tocó
+la trompeta á los ejércitos de Shiz, invitándoles al combate.
+29. Sucediendo que avanzaron, pero fueron rechazados; y
+volviendo otra vez, fueron derrotados por segunda vez. Y
+sucedió, que volvieron de nuevo por tercera vez sobre ellos, y
+se trabó batalla, la que fué muy encarnizada.
+30. Y aconteció, que Shiz hirió á Coriántumr, habiéndole
+hecho muchas profundas heridas, de cuyas resultas se desmayó
+por la pérdida de sangre, y así fué llevado como muerto.
+31. Y fué tan grande la pérdida de ambas partes en hombres,
+mujeres y niños, que Shiz dió la orden á su ejército, de que no
+
+14e, 4517: Versiculo 16.
+14f, 4518: Éther 13:21.
+
+Corrections
+Page structure — page 611 is entirely Éther 14:19-31, mid-chapter.
+Éther 14 (which runs to v.31) does NOT end on this page: the page
+stops mid-verse 31 ("...que Shiz dió la orden á su ejército, de que
+no"), last word "no" not hyphenated, so no page-boundary word-split;
+page 612 continues verse 31. Per the carried-over-chapter convention
+the first body line (a fresh verse 19) follows "Página 611" with no
+blank line. No book or chapter boundary on this page, so Block 1 gets
+no blank line / book header (rule 20).
+
+Raw line count: 44 image print lines read line-by-line from the
+top/mid/bot crops. Three end-of-line hyphen splits (rule 7):
+ - v.20 "Corián-" / "tumr." -> "Coriántumr." — appended to the first
+   line it reaches 63 chars (<73), kept there; second image line
+   ("tumr.") was its entire content, so consumed -> one line removed.
+ - v.22 "ca-" / "dáveres" -> "cadáveres" — appended to the first line
+   it reaches 66 chars (<73), kept there; the rest of the second image
+   line ("de los hombres, ...") remains as its own line.
+ - v.28 "Corián-" / "tumr," -> "Coriántumr," — appended (with rule 31
+   applied to the same line, see below) it reaches 67 chars (<73),
+   kept there; the rest of the second image line ("habiendo reunido
+   ...") remains as its own line.
+Result: 43 body lines. check_lines.py clean (all < 73).
+
+Rule 31 — space before punctuation removed (original 1920 print sets a
+space before the mark throughout this page): "cadáveres ;" (v.21),
+"carne ;" (v.22), "país ; sí" (v.23), "tres días ;" (v.26), "con
+ellos ;" (v.27), "de Comnor ;" (v.28), "rechazados ; y" (v.29).
+
+Rule 6 — inter-word gaps wider than one space in the justified print
+normalized to a single space: "los muertos.  Sino" (v.22), "la
+retirada.  Refugiáronse" (v.27), "de Corihor.  Y Coriántumr" (v.28),
+"de Shurr.  Ahora" (v.28), "por segunda vez.  Y" (v.29).
+
+Footnote markers — 2 on this page, both in verse 24. Éther 14's
+letters continue from page 610 (14d = 4516); global numbers continue:
+ - 14e = [4517] before "muerte" (v.24) — annotates "la muerte de su
+   hermano, que había sido matado" (Shiz's brother Lib, killed in
+   v.16). Block 1: "Versiculo 16."
+ - 14f = [4518] before "no" (v.24) — annotates "no perecería por la
+   espada" (the Lord's word to Éther). Block 1: "Éther 13:21."
+The [4517] mark sits at superscript height immediately before
+"muerte", clearly distinct from the baseline speck before "en" on the
+same line (see rule 36 below). The [4518] mark sits immediately before
+"no"; Google OCR renders it as a stray apostrophe ("Coriántumr 'no").
+
+Footnote-entry letters: both are heavily over-inked / degraded in the
+1920 fn image. The first is a solid blob (= "e"); the second is a
+slash/hook shape (= "f", an italic f with its loops inked away).
+Google OCR reads the second letter as "1" — i/l/1-adjacent — so the
+MANDATORY 1879 check applies. 1879 file page 613 (book p.605) prints
+these two Éther 14 footnotes in its clean typeface as "e, ver. 16."
+and "f, Ether 13 : 21." — the letters are an unambiguous italic "e"
+and italic "f" (the f has a clear top curve and descender; it is not
+"1" or "l"). This independently confirms BOTH the letters (14e, 14f —
+consistent with the a-d sequence on pages 609-610) AND the reference
+content: 1879 "ver. 16." = 1920 "Versiculo 16." (1879 just abbreviates
+"verse"), and 1879 "Ether 13:21." = 1920 "Éther 13:21." exactly.
+(1879 file pages 611-612 carry only its Éther 14 notes a-d — a/l
+Hela.13, b/e Ether 7, c/i II Nep.10, d/e Ether 7; e and f are on the
+next 1879 page, 613.)
+
+Rule 36 — suspected stray marks, each checked against the Google OCR
+text FIRST (all absent there) and dropped, none logged in errors in
+1920.txt:
+ - v.24 "vengar [·]en él" — a small low speck near the baseline before
+   "en"; Google reads "vengar en él" clean.
+ - v.20 "con Shiz,[·] y otros" — a faint speck just after the comma;
+   Google reads "Shiz, y otros" clean.
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - v.19 "Y vino á suceder que los habitantes" — Session A/B initially
+   read a period after "suceder" (Google OCR also read one,
+   "suceder.que") and transcribed "suceder. que" as printed, flagged
+   for Session E. REVERSED 2026-08-29 on the editor's direct look at
+   the page: the mark is a stray speck, its type much smaller/lighter
+   than a genuine period (rule 36 — the editor's own look is decisive;
+   same outcome as III Nefi 14:2, 18:28, page 594 Éther 8:23). The
+   period is removed; the transcription now reads "suceder que" (which
+   is also exactly what 1886 book p.606 prints — no punctuation
+   between "suceder" and "que"). NOT logged in errors in 1920.txt.
+ - v.21 "tan large había sido la escena" — "large" for "larga" (modern
+   BoM Éter 14:21: "tan larga había sido la escena de derramamiento de
+   sangre y de carnicería"). Reading confirmed at high zoom (l-a-r-g-e).
+   Google OCR also reads "large". Likely a 1920 misprint — Session E
+   to check 1886 and log.
+ - v.26 "persiguiendo á Coríantumr" — the acute accent is misplaced
+   onto the first "i" ("Coríantumr"); every other occurrence on this
+   page and elsewhere is "Coriántumr" (accent on the "a"). Confirmed
+   at high zoom: dot/accent over the i, no accent over the a. Google
+   OCR also reads "Coríantumr". Likely a 1920 misprint (misplaced
+   accent) — Session E to check 1886 and log.
+ - "Versiculo 16." (Block 1, fn 14e) — printed unaccented in the 1920
+   footnote (long-s "Verſiculo" with a plain round i-dot, no acute
+   accent), matching the existing "Versiculo 4./5." entries (18c/18d)
+   in librodm_foot.txt. Google OCR normalizes to "Versículo". Kept as
+   printed.
+ - Archaic accented preterites/forms kept per rule 32: "vino", "vió"
+   (n/a), "visitó" (v.25), "dió" (vv.26,30,31), "duró" (v.26),
+   "causaron" (v.27), "fué" (vv.27,29,30,31), "hirió" (v.30),
+   "desmayó" (v.30). "aún" (v.26) accented, kept.
+
+Narrow-space-vs-merge pointer for the editor (rule 6 /
+feedback_narrow_space_vs_merge — committed now as two words with a
+single space, editor to double-check against the image at leisure; not
+raised as a blocking question):
+ - v.19 "los habitantes" — Google OCR fuses "loshabitantes"; grammar
+   and 1886 require two words. Written "los habitantes".
+
+Proper names on this page: "Coriántumr" (accented; misprinted
+"Coríantumr" once at v.26, see above), "Shiz", "Éther", "Corihor"
+(vv.27,28), "Shurr" (v.28), "Comnor" (v.28). "Corihor", "Shurr" and
+"Comnor" first appear on this page — Session E to add to permitted
+words.txt as needed.
+
+Google-text cross-check (extract_google_text / check_google_crosscheck,
+google_text_1920/page_0633.txt): after whitespace/hyphen stripping,
+Google's OCR of the body text matches this transcription
+letter-for-letter, including the preserved anomalies "large" (v.21)
+and "Coríantumr" (v.26). Google fuses "loshabitantes" and reads a
+period in "suceder.que" (v.19) — the latter now dropped as a stray
+speck per the editor (see the v.19 note above); word-fusion is not
+letter-level evidence and does not reach the character-stream diff.
+No candidates reported.
+
+Session B — independent re-verification (2026-08-28).
+ - Both Block 1 entries re-read from a fresh 1920 fn-block crop:
+   "14e, 4517: Versiculo 16." / "14f, 4518: Éther 13:21." unchanged.
+ - MANDATORY i/l/1 check (triggered by Google's "1" reading of the 14f
+   letter) run against the independent 1879 source: 1879 file page 613
+   prints "e, ver. 16." and "f, Ether 13 : 21." in a clean typeface —
+   letters unambiguously italic "e" and "f", and the reference content
+   matches 1920 on both. No change.
+ - Body markers re-cropped fresh (18x): [4517] sits flush before
+   "muerte" (v.24), [4518] sits flush before "no" (v.24). 1879 v.24
+   places its matching markers on "the death of his brother" and
+   "should not fall by the sword" — content match on both (rule 26).
+   No placement change.
+ - No changes to page_611.txt body or Block 1 from Session B (only
+   this log and the footnote-entry-letter note above were updated to
+   record the 1879 p.613 confirmation).
+
+Session E — orthography check (2026-08-28). Fresh pptext report
+workspace/report_wsl_20260828e.html generated and walked;
+report_wsl_20260828f.html regenerated after the permitted-words
+additions to confirm suppression (Spellcheck Suspect Words now carries
+no page-611 word). Whole-document sweeps all re-ran clean:
+check_spaced_punctuation.py librodm.txt (32118 lines),
+check_footnote_punctuation.py librodm_foot.txt (4847 lines),
+check_verse_indent.py librodm.txt, footnote-anchor <-> Block-2
+cross-check (max anchor 4518 = max def 4518; no dupes; no
+anchored-without-def; only the documented Jacob 2:15 / 812
+defined-without-anchor gap remains), curly-quote scan of both master
+files (zero).
+
+Page-611 pptext flags: Spellcheck Suspect Words ("acamparse", "large",
+"persiguir", "Refugiáronse", "Shurr") + Edit Distance ("large:larga",
+"large:largo", "persiguir:perseguir", "persiguir:persiguió") +
+paragraph-level "full stop followed by unexpected sequence" (the v.19
+"suceder. que" period — subsequently reversed, see below). All other
+page-611 report hits are in the structural "short lines check" flood
+(wrapped verse lines / verse-end short lines / Block 2 "NNNN: ..."
+entries) — no real signal.
+
+Flagged-word decisions (each researched: 1886 image + modern Spanish
+BoM + reference corpora; 1886 Éther 14 is file pages 624-625, book
+pp.606-607):
+ - "large" (Éther 14:21) — GENUINE 1920 ERROR for "larga". 1886 book
+   p.606 "tan larga había sido la escena"; modern BoM Éter 14:21
+   "larga"; "large" not a Spanish word (RAE nil), 0 corpus hits vs.
+   "larga" attested. permitted words + errors log. Preserved as
+   printed (rule 32).
+ - "persiguir" (Éther 14:24) — ERROR for the infinitive "perseguir",
+   SHARED WITH 1886 (inherited, not 1920-introduced). 1886 book p.607
+   also prints "no cesaba de persiguir á Coriántumr". But: modern BoM
+   Éter 14:24 "no cesó de perseguir"; the normative infinitive is
+   "perseguir" with "e" (i only in root-stressed conjugated forms);
+   0 corpus hits for infinitive "persiguir" vs. "perseguir" attested;
+   "perseguir" appears 8× in librodm.txt vs. this lone "persiguir".
+   Same pattern as page 610's Éther 14:17 "perseguió"
+   (feedback_errors_log_diligence — a shared-1886 reading is not a
+   free pass when RAE/modern/corpora all point the other way).
+   permitted words + errors log (with a note that 1886 shares it).
+ - "Coríantumr" (Éther 14:26) — GENUINE 1920 ERROR for "Coriántumr"
+   (acute accent misplaced onto the first "i", none over the "a").
+   1886 book p.607 "Coriántumr"; modern BoM "Coriántumr"; every other
+   occurrence on this page and in the document is "Coriántumr". NOT
+   flagged by pptext (correct name is in permitted words; aspell
+   accepts the variant) — but a clean pptext section is not proof
+   (per the skill note). errors log only; NOT added to permitted
+   words (would be a no-op — pptext does not flag it).
+ - "suceder. que" (Éther 14:19) — was initially logged (2026-08-28)
+   as a 1920-only spurious period, on the strength of the pptext
+   flag, a high-zoom crop, and Google OCR also reading a period.
+   REVERSED 2026-08-29: the editor's direct high-res look at the page
+   shows the mark is a stray speck (type much smaller/lighter than a
+   genuine period). The period is removed from the body text
+   ("suceder que", matching 1886 book p.606); the `errors in
+   1920.txt` entry was removed; no permitted-words entry. Process
+   note per editor: the strategy is right — transcribe as printed,
+   run Google + weight-aware zoom, and for a mark that is still a
+   judgment call (Google reads it but 1886 is clean / placement is
+   odd) surface it in the Session E summary as a "please check the
+   page" item for the editor rather than logging it in errors in
+   1920.txt autonomously. No bias toward "speck" either — genuine
+   stray periods/commas do occur in the 1920 print.
+ - "acamparse" (Éther 14:28) — NOT an error. Valid Spanish reflexive
+   infinitive; aspell just lacks the enclitic form. permitted words
+   only.
+ - "Refugiáronse" (Éther 14:27) — NOT an error. Legitimate archaic
+   enclitic construction (accented preterite "refugiáron" + "se");
+   1886 book p.607 "Refugiáronse". permitted words only.
+ - "Shurr" (Éther 14:28) — NOT an error. Jaredite place name, first
+   appearance; 1886 "Shurr", modern BoM "Shurr" — consistent.
+   permitted words only. ("Corihor" already in permitted words;
+   "Comnor" not flagged by pptext, so no entry added per the
+   noticed-by-eye/no-op precedent.)
+
+Narrow-space-vs-merge pointer surfaced for the editor (rule 6 /
+feedback_narrow_space_vs_merge; committed as two words, editor to
+double-check the image at leisure — not a blocking question):
+ - Éther 14:19 "los habitantes" — Google OCR fuses "loshabitantes";
+   grammar and 1886 (book p.606, "los habitantes") require two words.
+   Written "los habitantes".
+
+`permitted words.txt`: added "acamparse", "large", "persiguir",
+"Refugiáronse", "Shurr". `errors in 1920.txt`: added Éther 14:21
+"large", Éther 14:24 "persiguir", Éther 14:26 "Coríantumr" — appended
+in book/chapter/verse order after the Éther 14:17 entry (page 611 is
+the current end of the file).
+
+2026-08-29 editor correction: Éther 14:19 "suceder." reversed —
+the mark is a stray speck, not a period (editor's direct look; type
+too small/light). Body text changed "suceder. que" → "suceder que"
+in pages/page_611.txt and librodm.txt; the Éther 14:19 entry was
+removed from errors in 1920.txt (no permitted-words entry had been
+made for it). Whole-document sweeps + pptext re-run after the fix.

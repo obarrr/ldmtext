@@ -1,0 +1,182 @@
+Página 603
+los días de Coriántumr, y empezó á profetizar al pueblo, y no
+pudo ser restringido, á causa del Espíritu del Señor que estaba en
+él;
+3. Porque él clamaba desde por la mañana hasta la puesta
+del sol, exhortando al pueblo á creer en Dios, y á arrepentirse,
+para que no [4462]fuera destruido, diciéndoles que por medio de la
+fe se cumplen todas las cosas;
+4. Por lo tanto, los que creían en Dios, podían esperar con
+[4463]seguridad en un mundo mejor; sí, hasta en un lugar á la mano
+derecha de Dios; cuya esperanza viene por la fe, que es para el
+alma de los hombres como un ancla que los hace firmes é inquebrantables,
+haciendo que abunden en buenas obras, y que les
+lleve á glorificar á Dios.
+5. Y acaeció, que Éther profetizó al pueblo grandes y maravillosas
+cosas, las que no creyeron, porque no las veían.
+6. Y ahora, yo Moroni, quiero hablar algo sobre estas cosas.
+Quiero mostrar al mundo que la fe consiste en la esperanza de
+una cosa que no se ve; por tanto, no, disputéis sobre las cosas
+que no véis, porque vosotros no recibís el testimonio hasta
+cuando vuestra fe ha sido puesta á prueba;
+7. Porque fué por la fe, por la que Cristo se mostró á nuestros
+padres, después que hubo resucitado de entre los muertos; no
+haciéndolo hasta que tuvieron fe en Él; por tanto, fué necesario
+que algunos tuvieran fe en Él, porque no se mostró al mundo.
+8. Pero por medio de la fe de los hombres se mostró á sí mismo
+al mundo, y glorificó el nombre del Padre, y preparó una vía,
+por medio de la cual otros pudieran participar del don celestial,
+para que pudieran tener esperanza en las cosas que no habían
+visto;
+9. Por lo que, vosotros podéis obtener la misma esperanza, y
+tomar parte en el don, si sólo tenéis fe.
+10. Pero, he aquí, que por medio de la fe, fueron llamados los
+de la antigüedad [4464]á la santa orden de Dios;
+11. Por lo tanto, por la fe fué dada la ley de Moisés. Mas
+por el don de su Hijo, Dios preparó una senda más excelente;
+la que ha venido también á cumplirse por medio de la fe;
+12. Porque si no hubiere fe entre los hijos de los hombres,
+Dios no haría [4465]ningún milagro entre ellos; por lo tanto, Él no
+se mostró á sí mismo, hasta después que hubieron tenido fe.
+13. He aquí, que fué la fe de Alma y de Amulek, la que hizo
+que se derribara la [4466]prisión.
+14. He aquí, que la fe de Nefi y de Lehi, fué la que [4467]hizo que
+
+12a, 4462: Éther 11:12,20-22.
+12b, 4463: Versículos 6,8-9,32; Moroni 7:40-44; 8:26; 10:20-22.
+12c, 4464: Véase g, Mosíah 26.
+12d, 4465: Véase d, III Nefi 17.
+12e, 4466: Alma 14:26-29.
+12f, 4467: Helamán 5:20-52; III Nefi 9:20.
+
+Corrections
+Page begins mid-verse (Éther 12:2, continued from page 602, which
+ends "Éther vino en") — first line follows "Página 603" with no blank
+line per rule 1. No page-boundary hyphen split ("vino en" / "los
+días"), so nothing rejoined across the boundary (rule 10).
+v.4 "inque-" / "brantables," line-break hyphen rejoined to
+"inquebrantables," per rule 7 (the comma travels with the second
+half; rejoined line 72 chars, kept at line end; "haciendo" starts the
+next line).
+v.5 "mara-" / "villosas" rejoined to "maravillosas" per rule 7 (66
+chars, kept at line end; "cosas," starts the next line).
+Rule 31: the 1920 print sets a space before every ";" on this page —
+"él ;", "cosas ;", "mejor ;", "Dios ;" (v.4), "ve ;", "prueba ;",
+"muertos ;", "Él ;" (v.7), "visto ;", "Dios ;" (v.10), "excelente ;",
+"fe ;" (v.11), "ellos ;" (v.12) — all normalized. Footnote spaced
+colons ("Éther 11 : 12", "Moroni 7 : 40-44", "8 : 26", "10 : 20-22",
+"Helamán 5 : 20-52", "III Nefi 9 : 20") normalized per rule 22.
+v.6 "por tanto, no, disputéis" — the 1920 prints a comma after "no"
+(grammatically spurious). Google OCR (google_text_1920/page_0625.txt
+line 18) also reads "no, disputéis", and a high-zoom stroke-weight
+comparison shows a comma-weight mark matching the comma after
+"tanto,". Preserved as printed per rules 32/36. Session E: 1886
+(pages_1886/page_0617.png, book page 595) prints "por tanto, no
+disputeis sobre las cosas que no veis" with NO comma after "no", and
+the modern edition ("no contendáis porque no veis") has none either —
+a 1920-only spurious comma. Logged in errors in 1920.txt (Éther 12:6);
+text kept as printed.
+v.6 a faint speck sits between "no" and "véis" ("que no véis"); Google
+OCR is silent on it, so it is treated as stray scan debris per rule 36
+and not transcribed.
+v.10 "por medio" — the 1920 sets "por" and "medio" tight and Google
+OCR fuses them ("pormedio"); transcribed as two words with one space
+per rule 6 (grammar requires it). Narrow-space-vs-merge note for the
+editor (Session E); no errors-log entry.
+v.14 "quela" — the 1920 sets "que" and "la" tight (Google also fuses
+"quela"); transcribed as two words per rule 6. Narrow-space-vs-merge
+note for the editor.
+v.14 "Nefl" → "Nefi": the 1920 renders the name with the "fi"
+ligature of this bold face, whose dotless tall i reads as "fl" at a
+glance; corrected to "Nefi" per rule 29 (same fi-ligature phenomenon
+already documented on page 461, read as "Nefi" throughout there).
+Google OCR reads "Nefi". Session E: 1886 (pages_1886/page_0617.png)
+prints a clean "Nefi" here, and the modern edition uses "Nefi" — this
+is a ligature/scan-rendering artifact, not a 1920 error; no
+errors-log entry (matching the page 461 precedent).
+Justification-widened inter-word gaps normalized to one space per rule
+6: v.5 "y  mara-", v.11 "Moisés.  Mas" (v.11 line "Moisés. Mas"),
+v.13 "Alma y  de Amulek" and "la que  hizo".
+Footnote markers: [4462] before "fuera" (v.3), [4463] before
+"seguridad" (v.4), [4464] before "á" (v.10, "á la santa orden"),
+[4465] before "ningún" (v.12), [4466] before "prisión" (v.13), [4467]
+before "hizo" (v.14).
+Chapter 12's footnote letters a-f — cross-reference letter check
+(discretionary, rule per Section 8). 12c "Véase g, Mosíah 26": the
+1920 cross-ref letter is a swash italic that reads ambiguously as
+v/o/g at low zoom; extreme-zoom shows a looped descender form (g, not
+v/o), and 1879 file page 605 (Éther 12 footnote block) confirms it —
+"c, see g, Mos. 26." (matched by target content "Mos. 26", rule 26).
+12d "Véase d, III Nefi 17" also confirmed by 1879 "d, see d, III. Nep.
+17." No i/l/1 letters in this page's chapter-12 block, so the
+mandatory check does not trigger; done anyway for the swash letter.
+Block 1 formatting: 12b "Versículos 6, 8, 9, 32" → "6,8-9,32" (8-9
+consecutive range per rule 23; 6 and 32 non-consecutive per rule 24);
+"Moroni 7:40-44. 8:26. 10:20-22" set with periods in the original,
+joined with semicolons per rule 21. 12a "12, 20-22" → "12,20-22";
+12e "Alma 14; 26-29" → "Alma 14:26-29" (1879 "e, Alma 14:26—29"
+confirms it is a single 14:26-29 citation, not two).
+1879 cross-check (file pages 604-605, Éther 12): 1920 letters a-f line
+up one-for-one with 1879 a-f (a Éther 11:12,20-22 / b vers. 6,8,9,32 +
+Moro. 7:40-44, 8:26, 10:20-22 / c see g Mos. 26 / d see d III Nep. 17 /
+e Alma 14:26-29 / f Hela. 5:20-52, III Nep. 9:20). 1920's g (Alma
+17-29) falls on page 604.
+check_google_crosscheck (book page 603): 0 candidates worth
+investigating (2 footnote-marker-glue and 1 footnote-block dismissals
+only). The v.6 "no," comma is present on both sides.
+check_spaced_punctuation / check_footnote_punctuation: the only hits
+are inside this Corrections log (documented already-fixed readings),
+not live text. check_verse_indent clean. check_lines: 0 over 72, 0
+trailing hyphens. check_line_wrap: txt 42 body lines = OCR 42, no
+reflow flag.
+All line endings read directly from the top/mid/bot crops; 42 body
+lines transcribed, matching the image count before rule 7 rejoins.
+Session B: independently re-zoomed the 1920 footnote block (letters
+a-f) at 8x and re-read every Block 1 entry — 12a Éther 11:12,20-22 /
+12b Versículos 6,8-9,32; Moroni 7:40-44; 8:26; 10:20-22 / 12c Véase g,
+Mosíah 26 / 12d Véase d, III Nefi 17 / 12e Alma 14:26-29 / 12f
+Helamán 5:20-52; III Nefi 9:20 — all confirmed. All six [N] markers
+re-confirmed at high zoom before their words: fuera (v.3), seguridad
+(v.4), á (v.10), ningún (v.12), prisión (v.13), hizo (v.14). No i/l/1
+letter appears in this page's chapter-12 lettering or its cross-ref
+targets (g, d), so the mandatory 1879 check does not trigger; the
+discretionary swash-letter check on 12c's "g" was done against 1879
+file page 605 in Session A and stands. No changes.
+Session E: full 1886 comparison of Éther 12:3-14 (pages_1886/
+page_0617.png, printed page 595). One 1920-only substantive deviation:
+the spurious comma in v.6 (logged in errors in 1920.txt, Éther 12:6).
+Everything else is the usual systematic 1886-vs-1920 accent/spelling
+variation (fe/fé, orden/órden, solo/sólo, preterite -aron accents) —
+not logged per instance. One wording variant noted for the editor,
+NOT an error: v.6 1920 "no recibís el testimonio hasta cuando vuestra
+fe ha sido puesta á prueba" vs 1886 "no recibís el testimonio más que
+cuando vuestra fé ha sido puesta á prueba" — a translation-lineage
+wording difference; the modern edition uses "hasta", so 1920's "hasta
+cuando" is a legitimate (if slightly awkward) rendering, kept as
+printed with no action.
+Narrow-space-vs-merge flags (per feedback_narrow_space_vs_merge;
+committed as two words, 1886 + grammar agree): Éther 12:10
+"por"/"medio" (1886 page_0617 "por medio de la fé", normal spacing),
+12:14 "que"/"la" (1886 "que la fé de Nefi", normal spacing). Editor
+confirmed 2026-08-27: both junctions have visibly more than the
+usual inter-letter spacing in the 1920 image — genuine two-word
+gaps, no change.
+pptext report (workspace/report_wsl_20260826c.html) walked end to end:
+the only page-603 findings are short-lines-check verse-boundary and
+short-Block-2-entry false positives, and three dash-check hyphen-minus
+entries (4463 "6,8-9,32 ... 7:40-44 ... 10:20-22", 4466 "Alma
+14:26-29", 4467 "Helamán 5:20-52") — all legitimate digit-flanked
+verse ranges. "Versículos" (accented, in 12b/4463) is NOT flagged by
+aspell (correct Spanish spelling); no permitted-words entry needed.
+"disputéis" not flagged. No spellcheck/edit-distance/repeated-word/
+duplicate-line/ellipsis/scanno/curly-quote/special-situations/book-
+level/paragraph-level finding touches this page; "full stop followed
+by unexpected sequence" has no page-603 hit. Whole-document sweeps
+(check_spaced_punctuation, check_footnote_punctuation,
+check_verse_indent, footnote-anchor/Block-2 cross-check [max anchor
+now 4467, all defined, no dupes], curly-quote scan of both master
+files) all clean — only the long-documented Jacob 2:15/812 gap
+remains.
+permitted words.txt: no additions (no genuine spellcheck suspect on
+this page). errors in 1920.txt: one addition (Éther 12:6 spurious
+comma).

@@ -1,0 +1,109 @@
+Página 591
+12. Y sucedió, que engendró también á muchos hijos é hijas.
+13. Y arrepintiéndose Corihor de los muchos males que había
+causado, le dió autoridad en su reino.
+14. Y ocurrió, que tuvo Corihor también muchos hijos é
+hijas, entre los cuales había uno llamado Noé.
+15. Y sucedió que Noé se rebeló contra el rey Shule, y también
+contra su padre, y se atrajo á su partido su hermano Cohor,
+con todos sus hermanos, y una gran parte del pueblo.
+16. Y aconteció, que le dió la batalla al rey Shule, en la que
+conquistó la tirra de su [4399]primera herencia, haciéndose rey sobre
+esa parte del país.
+17. Y aconteció, que dando la batalla otra vez, hizo prisionero
+al rey Shule, á quién llevó cautivo á [4400]Morón.
+18. Y sucedió, que según se hallaba á punto de quitarle la
+vida, los hijos de Shule se introdujeron secretamente durante
+la noche en la casa de Noé, y le mataron, y rompiendo la puerta
+de la prisión, sacaron afuera á su padre, y le pusieron sobre el
+trono en su propio reino;
+19. Así pues, el hijo de Noé construyó su reino en su lugar; no
+obstante, no obtuvieron más ventaja sobre el rey Shule, y el
+pueblo que se hallaba bajo el gobierno del rey Shule, creció
+poderosamente, y gozó de una extrema prosperidad.
+20. Así quedó el país dividido; y hubo dos reinos, el reino de
+Shule, y el reino de Cohor, hijo de Noé.
+21. Y Cohor, hijo de Noé, hizo que su pueblo diese la batalla
+á Shule, en la que le batió Shule, y mató á Cohor.
+22. Y ahora, Cohor tenía un hijo que se llamaba Nímrod;
+y Nímrod entregó el reino de Cohor á Shule, con lo que conquistó
+el afecto de Shule, que le colmó de favores, y le permitió
+hacer en su reino según sus deseos.
+23. Y también en la época del rey Shule [4401]vinieron al pueblo
+profetas, los que eran enviados por el Señor, anunciándoles que
+su idolatría y sus iniquidades estaban trayendo una maldición
+sobre el país, y que si no se arrepentieren, serían destruidos.
+24. Y aconteció, que el pueblo se burlaba de los profetas, y les
+vilipendiaba. Y sucedió, que el rey Shule hizo castigar á todos
+aquéllos que habían injuriado á los profetas;
+25. Y dió una ley por todo el país, para que se permitiera á
+los profetas que fueran por donde les conviniere; y de este modo
+vino el pueblo al arrepentimiento.
+26. Y como se arrepintió el pueblo de sus iniquidades é idolatrías,
+el Señor les conservó, y volvieron otra vez á prosperar
+en el país. Y Shule engendró hijos é hijas en su vejez.
+27. Y no hubo más guerras en los días de Shule; y recordó
+las grandes cosas que el Señor había hecho para sus padres,
+
+7k, 4399: Versículo 17; Véase e.
+7l, 4400: Véase k.
+7m, 4401: Versículos 24-26.
+
+Corrections
+Rule 31 space-before-punctuation cleanup: removed a printed space before
+the semicolon in: v.18 "reino ;"; v.19 "lugar ;"; v.20 "dividido ;";
+v.22 "Nímrod ;"; v.24 "profetas ;"; v.25 "conviniere ;"; v.27 "Shule ;".
+Rule 6 double-space normalization: v.18 "Shule se  introdujeron" ->
+"Shule se introdujeron"; v.23-24 "y  sus iniquidades" -> "y sus
+iniquidades"; v.24 "vilipendiaba.  Y sucedió" -> "vilipendiaba. Y
+sucedió"; v.26 "en el país.  Y Shule" -> "en el país. Y Shule".
+Rule 7 hyphen rejoins: v.22-23 "con-/quistó" -> "conquistó" (kept at end
+of line, 64 chars); v.26 "idola-/trías," -> "idolatrías," (kept at end
+of line, 67 chars).
+Narrow-space-vs-merge, default to two words (not escalated during
+Sessions A-D per the standing rule; batched here for Session E): v.17
+"dando la" (zoomed; a real, narrow gap between "dando" and "la",
+narrower than surrounding word-spacing but present); v.24 "de los"
+(zoomed; a real, narrow gap between "de" and "los", same pattern).
+Both read as two words grammatically, so transcribed as two words with a
+normal single space per the standing default.
+v.16 "tirra": zoomed to confirm the image clearly prints "tirra"
+(missing the "e" of "tierra"). Preserved as printed per rule 32;
+verify against 1886 (suspected misprint for "tierra").
+Footnote 7k, 4399: the cross-reference letter after "Véase" read as a
+heavily-inked, hard-to-distinguish glyph in this session's zoomed crops;
+editor confirmed via direct look at the page that it clearly reads "e" --
+not illegible, just a rendering artifact of the crop. Matches BOM 1879
+Pratt (pages_1879/page_0593.png fn block: "k, ver. 17. See e.") and
+content-fit against page 590's already-transcribed entry "7e, 4393:
+Versículos 6,16,17; Ether 14:6,11." (entry e's own citation explicitly
+includes verse 17, matching this footnote's own "Versículo 17"
+self-citation). No `errors in 1920.txt` entry needed -- reads "e" as
+printed.
+Mandatory 1879 check (rule: i/l/1 letters): this page's own letter l
+(v.17, "Morón") is in the mandatory i/l/1 set. Loaded
+pages_1879/page_0593.png: fn block reads "k, ver. 17. See e. l, see k.
+m, vers. 24-26." -- matches this page's own letter sequence (k, l, m)
+and target ("see k") letter-for-letter and by content (both v.16
+"primera herencia" and v.17 "Morón" concern the same conquered land).
+No discrepancy for the l reading itself; only entry k's own citation
+letter needed reconstruction (see above).
+check_google_crosscheck.py: clean, zero candidates worth investigating
+(two footnote-marker-glue dismissals, one trailing-content dismissal,
+both expected/known-benign categories). check_line_wrap.py flagged a
++2 body-line-count difference against its Tesseract OCR estimate;
+manually re-verified against the top/mid/bot image crops -- the raw
+45-line count (17 top + 15 new mid + 13 new bot, after removing the
+6-line top/mid overlap and 1-line mid/bot overlap) matches the image
+exactly, and OCR is known to under-count by merging visually close
+lines. Not a reflow defect.
+Session B: independently re-verified all 3 Block 1 entries and all 3
+`[N]` body markers against a fresh `process_page.py` crop (not reused
+from Session A) of the 1920 page -- k "primera" v.16, l "Morón" v.17,
+m "vinieron" v.23 all confirmed matching page_591.txt exactly. Letter
+l (this page's own lettering) is in the mandatory i/l/1 set; ran a
+fresh independent `process_page.py` pass on pages_1879/page_0593.png
+(not reused from Session A) -- reconfirmed the identical reading "k,
+ver. 17. See e. l, see k. m, vers. 24-26." with no discrepancy,
+matching entry k's own "Véase e." citation. No corrections needed from
+Session B.

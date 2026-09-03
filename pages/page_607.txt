@@ -1,0 +1,211 @@
+Página 607
+5. Y habló también relativamente á la casa de Israel, y de
+Jerusalem, de donde vendría [4492]Lehi; la que después que fuese
+destruida, sería reconstruida de nuevo, una ciudad [4493]santa para
+el Señor; por lo tanto, no podría ser una Nueva Jerusalem, puesto
+que había existido ya en los tiempos antiguos, sino que sería
+reconstruida, y vendría á ser una ciudad santa del Señor; y sería
+construida para la casa de Israel;
+6. Y que una [4494]Nueva Jerusalem sería levantada en este país,
+para el resto de la posteridad de José, para lo que hubo un tipo;
+7. Porque del mismo modo que José, se llevó á su padre al
+país de Egipto, y aun murió allí; del mismo modo el Señor trajo
+un resto de la descendencia de José, del país de Jerusalem, para
+usar su misericordia con la posteridad de José, de modo que no
+[4495]perecieran así, aun como tuvo misericordia con el padre de
+José, para que no pereciera;
+8. Por lo tanto, el resto de la casa de José, se establecerá en
+este país, que será la tierra de [4496]su herencia; y levantarán una
+[4497]santa ciudad para el Señor, igual á la antigua Jerusalem; y no
+serán confundidos más, hasta que venga el fin, y pase la tierra.
+9. [4498]Y entonces, aparecerá un cielo nuevo, y una tierra nueva;
+y serán semejantes á los antiguos, salvo que los antiguos habrán
+desaparecido, y todas las cosas habrán sido hechas nuevas.
+10. [4499]Entonces vendrá la Nueva Jerusalem; y benditos serán
+los que habiten en ella; porque serán aquéllos cuyos vestidos
+hayan sido blanqueados por medio de la sangre del Cordero;
+y ellos son los que son [4500]contados entre el resto de la posteridad
+de José, que son de la casa de Israel.
+11. Y [4501]entonces viene también la antigua Jerusalem; y
+benditos son sus habitantes, porque se han lavado en la sangre
+del Cordero; siendo ellos los que estaban esparcidos, y han sido
+recogidos de las cuatro partes de la tierra, y de los países del
+[4502]Norte, y participan del cumplimiento de la alianza que Dios
+hizo con su padre Abraham.
+12. Y cuando sucedan estas cosas, se cumplirá la escritura
+que dice: [4503]Los que fueren primeros, serán los últimos, y los que
+fueren los últimos, serán los primeros.
+13. Y estaba yo á punto de escribir algo más, pero me fué
+prohibido; porque grandes y maravillosas fueron las profecías
+de Éther, pero ellos no le estimaron en nada, y echándole fuera,
+se fué, y se ocultó en la [4504]cavidad de una roca durante el día,
+y por la [4505]noche salía para ver las cosas que vendrían sobre el
+pueblo.
+14. Y según él vivía en la cavidad de una roca, concluyó el
+
+13d, 4492: I Nefi 1-18.
+13e, 4493: Versículo 11; Revelaciones 21:10-27.
+13f, 4494: Véase t, III Nefi 20.
+13g, 4495: II Nefi 3:5-24; Alma 46:24-26.
+13h, 4496: Véase o, III Nefi 15.
+13i, 4497: Véase t, III Nefi 20.
+13j, 4498: Revelaciones 21:1.
+13k, 4499: Véase b.
+13l, 4500: Véase x, III Nefi 16.
+13m, 4501: Véase e.
+13n, 4502: Las Diez Tribus.
+13o, 4503: I Nefi 13:42.
+13p, 4504: Versículos 14,18,22.
+13q, 4505: Versículo 14; Éther 15:13.
+
+Corrections
+Page begins with a fresh verse (Éther 13:5) — not a chapter heading and
+not mid-verse. Per rule 1 the first body line follows "Página 607" with
+no blank line (matches page 605, which likewise opens on a fresh verse
+number). Éther 13 continues from page 606 (which carried 13a-13c,
+footnotes 4489-4491); this page carries letters d-q = footnotes
+4492-4505. No chapter or book boundary on this page, so no blank line /
+book header in Block 1 (rule 20).
+Raw line count: 43 body lines (Éther 13:5-14) read directly from the
+top/mid/bot crops, matching the image before any rule 7/8 adjustment.
+No hyphenated line-break splits on this page (rule 7 not triggered;
+every image line ends on a whole word).
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized (space removed before the mark). Body:
+v.5 "vendría [d]Lehi ;", "santa para el Señor ;", "del Señor ; y sería",
+"casa de Israel ;"; v.6 "hubo un tipo ;"; v.7 "murió allí ;",
+"no pereciera ;"; v.8 "[h]su herencia ;", "antigua Jerusalem ; y no";
+v.9 "una tierra nueva ;"; v.10 "Nueva Jerusalem ; y benditos",
+"habiten en ella ;", "del Cordero ;"; v.11 "antigua Jerusalem ; y",
+"lavado en la sangre" -> "del Cordero ;"; v.12 "que dice :";
+v.13 "pero me fué / prohibido ;". Block 1: 13e "Versículo 11 ;
+Revelaciones 21 : 10-27" -> "11; Revelaciones 21:10-27"; 13g
+"II Nefi 3 : 5-24 ; Alma 46 : 24-26" -> "3:5-24; Alma 46:24-26";
+13j "Revelaciones 21 : 1" -> "21:1"; 13o "I Nefi 13 : 42" -> "13:42";
+13q "Versículo 14 ; Éther 15 : 13" -> "14; Éther 15:13".
+Rule 6 — inter-word gaps wider than one space in the justified print
+(esp. v.11 "participan  del cumplimiento  de la alianza  que Dios",
+v.11 "también  la antigua", v.12 "dice :  [o]Los") all normalized to a
+single space.
+Rule 36 — stray mark dropped: a small raised speck sits between "de"
+and "José" in v.8 ("la casa de José, se establecerá"). Google OCR
+(google_text_1920/page_0629.txt) reads plain "de José," with no mark;
+1879 file page 609 has plain "of the house of Joseph". Transcribed as
+"de José,"; not logged in errors in 1920.txt.
+Block 1 verse formatting (rules 23-24): 13d "I Nefi 1-18" is a chapter
+range (I Nefi chs. 1-18, the Lehi narrative) — kept with hyphen. 13e
+"10-27", 13g "5-24" / "24-26" consecutive ranges -> hyphen. 13p
+"Versículos 14, 18, 22" non-consecutive -> "14,18,22" (comma, no
+space).
+Mandatory i/l/1 check (Section 8) — TRIGGERED this page: the chapter's
+own letter sequence includes "i" (13i) and "l" (13l), and both were
+cross-checked against 1879 file page 609 regardless of how clear the
+1920 reading looked:
+ - 13i "Véase t, III Nefi 20" (marker on "santa ciudad", v.8):
+   1879 "i, see t, iii. Nep. 20." Sequence position 9 (h, i, j).
+   Confirmed "i"; target "t" (not i/l/1).
+ - 13l (marker on "contados", v.10): 1879 "l, see x, iii. Nep. 16."
+   Sequence position 12 (k, l, m). Confirmed "l".
+Cross-reference target resolution — 13l target read as "x", NOT "z":
+the 1920 superscript after "Véase" in this entry is a heavily degraded
+swash glyph; the low-resolution fn_zoom first suggested "z", but a
+tight high-zoom crop (p607_ltgt.png) shows a compact angular x-shape
+matching page 606's confirmed swash "x" (p606_xyz.png), not the taller
+swash "z". 1879 file page 609 prints clean type "l, see x, iii. Nep.
+16." Content settles it: III Nefi 16x = "II Nefi 10:18-19; III Nefi
+21:22-25; 30" — 2 Nefi 10:18-19 is precisely about others being
+"numbered among the house of Israel / numbered among thy seed",
+an exact thematic match to Éther 13:10 "contados entre el resto de la
+posteridad de José, que son de la casa de Israel"; III Nefi 16z
+("Véase o, III Nefi 15", the "other sheep" passage) fits poorly.
+Transcribed "Véase x, III Nefi 16."
+All 14 body footnote markers placement-checked against 1879 file page
+609 by content (rule 26): [d]/d before "Lehi" (v.5; 1879 has no
+lettered marker here in the shown crop but Block 1 "d, i. Nep. 1-18."
+= the Lehi-from-Jerusalem narrative); [e]/e before "santa" (v.5);
+[f]/f before "Nueva" (v.6; 1879 "f" before "New Jerusalem"); [g]/g
+before "perecieran" (v.7; 1879 "g" before "they should perish");
+[h]/h before "su" (v.8; 1879 "h" before "their inheritance"); [i]/i
+before "santa" (v.8; 1879 "i" before "holy city"); [j]/j before "Y
+entonces" (v.9; j = Rev 21:1 "a new heaven and a new earth"); [k]/k
+before "Entonces" (v.10; k -> b); [l]/l before "contados" (v.10);
+[m]/m before "entonces" (v.11; m -> e); [n]/n before "Norte" (v.11;
+n = "Las Diez Tribus"); [o]/o before "Los" (v.12; o = I Nefi 13:42
+"the last shall be first"); [p]/p before "cavidad" (v.13); [q]/q
+before "noche" (v.13).
+"Éther" (v.13) — 1920 prints the acute accent (Google OCR drops it,
+reading "Ether"); kept as printed per established convention.
+"fué" (v.13) — archaic form, kept (rule 32).
+Block 1 entry-for-entry match against 1879 file page 609 footnote
+block: "d, i. Nep. 1-18." / "e, ver. 11. Rev. 21:10-27." / "f, see t,
+iii. Nep. 20." / "g, ii. Nep. 3:5-24. Alma 46:24-26." / "h, see o,
+iii. Nep. 15." / "i, see t, iii. Nep. 20." / "j, Rev. 21:1." / "k,
+see b." / "l, see x, iii. Nep. 16." / "m, see e." / "n, the ten
+tribes." / "o, i. Nep. 13:42." / "p, vers. 14, 18, 22." / "q, ver.
+14. Ether 15:13." (1879 also lists "r, Ether 15:33." — that footnote
+falls on 1920 page 608, not this page.)
+Session E — 1886 comparison of Éther 13:5-14 (pages_1886/page_0620.png
+book page 602 tail; pages_1886/page_0621.png book page 603). No 1920-only
+error found. All 1920-vs-1886 differences are non-errors:
+ - 1920 adds accents 1886 omits: "también"/"después"/"países"/"según"
+   (1886 "tambien"/"despues"/"paises"/"segun"), "aquéllos" (1886
+   "aquellos"), "entonces" (1886 archaic "entónces"), "fueron"/
+   "estimaron" (1886 archaic preterite "fuéron"/"estimáron"), "día"
+   (1886 "dia") — consistent house style, not errors.
+ - "José" (1920) vs "Joseph" (1886) throughout vv.6-10 — each edition's
+   own naming convention for this figure; 1920 uses "José" consistently
+   here; not an error.
+ - v.13 "echándole fuera" (1920) vs "echándole afuera" (1886) — minor
+   lexical variant, both grammatical Spanish for "casting him out"
+   (1879 "cast him out"); a wording choice between editions, not a
+   spelling/typo/punctuation defect, so not logged.
+ - v.8 stray mark between "de" and "José" — 1886 file page 621 prints
+   plain "la casa de Joseph, se establecerá" with no mark, corroborating
+   the rule-36 speck call (Google OCR + 1879 already silent). Transcribed
+   without it; not logged.
+Corrections-log sweep (mandatory per-item check): the only two flagged
+items are the v.8 stray mark (cleared against 1886, above) and the 13l
+cross-reference target "x"-vs-"z" reading — the latter is a
+glyph-resolution question, not a 1920-print-error question, and is fully
+corroborated (1879 clean type "l, see x, iii. Nep. 16."; content match
+III Nefi 16x = 2 Nefi 10:18-19 "numbered among the house of Israel";
+Session D auto-resolved 4500 -> 3737 = the III Nefi 16x entry). No
+errors-log or permitted-words entry. No narrow-space-vs-merge notes on
+this page.
+Fresh pptext report (workspace/report_wsl_20260828.html) walked end to
+end — ZERO page-607 findings in any section. Spellcheck Suspect Words
+(12 flags) and Edit Distance are all on pages <=606 (max suspect line
+26962; page 607 body starts at librodm.txt line 27027). "Jerusalem" /
+"Lehi" / "fué" / "Éther" on this page are aspell-flaggable in isolation
+but pptext auto-accepts each (>=5 document occurrences), so no
+permitted-words entry is needed (matches page 606's finding). Short-lines
+check flags only verse-end / footnote-definition lines (benign
+structural). Dash check hyphen-minus: page 607's Block 2 hyphens
+("I Nefi 1-18", "21:10-27", "3:5-24", "46:24-26") are all digit-flanked
+verse/chapter ranges. Footnote check: anchors 4491-4505 form one
+contiguous run, no dupes / gaps / out-of-range (max anchor now 4505).
+No repeated-word, duplicate-line, ellipsis, scanno, curly-quote,
+smart-quote, special-situations, comma-spacing, book-level,
+paragraph-level ("full stop followed by unexpected sequence" — page 607
+has no period+lowercase; all six documented hits are on earlier pages),
+or Jeebies finding touches page 607. Whole-document sweeps all re-ran
+clean: check_spaced_punctuation (librodm.txt), check_footnote_punctuation
+(librodm_foot.txt), check_verse_indent (librodm.txt), footnote-anchor <->
+Block-2 cross-check (max anchor 4505 = max def 4505, no dupes, no
+anchored-without-def; only the documented Jacob 2:15 / 812
+defined-without-anchor gap remains), curly-quote character scan of both
+master files (zero).
+permitted words.txt: no additions. errors in 1920.txt: no additions.
+
+Session B — independent re-read of the 1920 fn_zoom, entry for entry
+(13d-13q), and re-read of all 14 body [N] marker positions. Every
+Block 1 reference and every marker placement confirmed unchanged. The
+swash leading-letter sequence d,e,f,g,h,i,j,k,l,m,n,o,p,q verified
+contiguous with no gaps/reordering. Mandatory i/l/1 check re-run
+against 1879 file page 609: 13i "see t, iii. Nep. 20." and 13l "see x,
+iii. Nep. 16." both re-confirmed from the clearer 1879 type (a
+same-1920-crop re-read alone was not relied on). Cross-reference
+targets t (13f, 13i), o (13h), b (13k), x (13l), e (13m) all
+re-checked against 1879 — none are i/l/1. 13l target re-affirmed as
+"x" (not "z"): 1879 clean type + content fit (III Nefi 16x =
+2 Nefi 10:18-19, "numbered among the house of Israel"). No changes.

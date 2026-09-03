@@ -1,0 +1,374 @@
+Página 617
+
+CAPÍTULO 5.
+
+1. Manera para administrar el vino. He aquí, que ellos
+tomaron la copa, y dijeron:
+2. Oh Dios, Padre Eterno, en el nombre de Jesu Cristo, tu
+Hijo, te pedimos que bendigas y santifiques este vino para las
+almas de todos los que lo beban, para que lo hagan en memoria
+de la [4549]sangre de tu Hijo, que fué vertida para ellos, para que den
+testimonio ante Ti, oh Dios, Padre Eterno, de que siempre se
+acuerdan de Él, para que tengan su Espíritu consigo. Amén.
+
+CAPÍTULO 6.
+
+1. Y ahora, hablo relativamente al bautismo. He aquí, que
+[4550]Élderes, [4551]Presbíteros y Maestros fueron bautizados: y no
+fueron [4552]bautizados, hasta que se hubieron mostrado dignos de
+ello por sus obras;
+2. Y no recibieron tampoco á nadie para bautizarle, si no
+viniese á recibirlo con un corazón quebrantado y un espíritu
+contrito, dando testimonio ante la iglesia de que verdaderamente
+se había arrepentido de todos sus pecados.
+3. Y no admitieron á nadie para ser bautizado, excepto que
+tomare sobre sí el [4553]nombre de Cristo, con la firme resolución de
+servirle hasta el fin.
+4. Y después que hubieron recibido el bautismo, y fueron
+purificados por el [4554]poder del Espíritu Santo, fueron contados
+entre les del pueblo de la Iglesia de Cristo, tomando sus nombres,
+para que fuesen acordados, y nutridos por la buena palabra de
+Dios, y para guardarles en el recto camino, y hacerles vigilantes
+de continuo en la [4555]oración, confiando solamente en los méritos
+de Cristo, que fué el autor y perfeccionador de su fe.
+5. Y la iglesia se reunía á menudo para orar y [4556]ayunar, y para
+hablar unos con otros relativamente al bienestar de sus almas;
+6. Y se reunían frecuentemente para [4557]participar del pan y
+vino, en memoria del Señor Jesús;
+7. Teniendo mucho cuidado de que no hubiere ninguna iniquidad
+entre ellos; y á cualesquiera que se les encontraban
+
+5a, 4549: Véase t, III Nefi 18; Doctrinas y Convenios 20:79; 27:2-4.
+6a, 4550: Moroni 3:1.
+6b, 4551: Véase c, Mosíah 6.
+6c, 4552: Véase u, II Nefi 9.
+6d, 4553: Véase e, Mosíah 5.
+6e, 4554: Véase y, III Nefi 9.
+6f, 4555: Véase e, II Nefi 32.
+6g, 4556: Véase t, Mosíah 27.
+6h, 4557: Véase b, III Nefi 18.
+
+Corrections
+
+Page structure — page 617 carries three chapter-ends' worth of the Book
+of Moroni: it OPENS with a chapter heading ("CAPÍTULO 5.") because page
+616 closed Moroni 4:3 ("...su Espíritu consigo. Amén.") completing
+Moroni 4. Per rule 1 a blank line separates "Página 617" from the
+heading. Running header "CAP. V, VI.)  LIBRO DE MORONI.  617" discarded
+(rule 2). Moroni 5 is complete on this page (vv.1-2 only — it is a very
+short chapter); Moroni 6 opens with "CAPÍTULO 6." (no blank line beyond
+the standard one, no subtitle — image checked) and runs vv.1-7, ending
+mid-verse 7 ("...á cualesquiera que se les encontraban") which carries
+to page 618. A centered decorative rule sits before "CAPÍTULO 5." (after
+page 616's Moroni 4), between Moroni 5 v.2 and "CAPÍTULO 6.", and after
+Moroni 6 v.7 above the footnote divider — none transcribed. In the
+footnote block the page's two chapters keep SEPARATE groups divided by a
+short centered rule: Moroni 5's single entry (5a) above the rule, the
+Moroni 6 group (6a-6h) below it — the short rule is not transcribed,
+only the entry content. Moroni 6's footnote letters restart at 6a; the
+global sequential number continues from page 616's 4548, so this page
+runs 4549-4557 (5a=4549; 6a-6h=4550-4557).
+
+Raw line count: 32 body print lines read line-by-line from the
+top/mid/bot crops (8 for Moroni 5 + 24 for Moroni 6), plus the two
+"CAPÍTULO N." heading lines.
+
+check_lines.py / check_spaced_punctuation.py / check_footnote_
+punctuation.py / check_verse_indent.py: all clean in live text — every
+flagged line is inside this Corrections log (historical quotes of
+already-stripped spaced punctuation / a wrapped prose quote), no body
+or Block 1 defect. check_line_wrap.py cannot parse this page's body
+(its body_lines() stops at the rule-1 blank line between "Página 617"
+and the opening "CAPÍTULO 5." heading, same limitation seen on page
+616), reporting "0" txt lines; its independent Tesseract OCR line
+count is 32, which matches the raw line-by-line read above.
+
+Google-text cross-check — check_google_crosscheck.py also cannot
+auto-parse this page (same "page opens with a heading" limitation:
+"mine: 0 chars"). Comparison done manually against
+google_text_1920/page_0639.txt: after ignoring word-fusion ("dela" for
+"de la") and superscript-marker noise, Google's OCR matches this
+transcription letter-for-letter across the entire body — INCLUDING the
+flagged Moroni 6:4 "les" (Google line 22 also reads "entre les del
+pueblo"), and confirming "santifiques" (5:2), "fué" (5:2; 6:4). Google
+dropped the accent on "Élderes" once (line 10, "Elderes") but the
+image clearly shows "Élderes". Google's footnote-block OCR (lines
+33-36) is partial on the small cross-ref letters (5a/6c/6e/6f/6h
+rendered as apostrophes or blanks) but every target reference matches
+(III Nefi 18; Mosíah 6; II Nefi 9; Mosíah 5; III Nefi 9; II Nefi 32;
+Mosíah 27; III Nefi 18). No candidates to investigate.
+
+Rule 7 — one end-of-line hyphen split on the page: Moroni 6:7 image
+line 31 ends "...ninguna ini-" / line 32 begins "quidad entre ellos...".
+Rejoined "iniquidad"; appended to line 31 the line is
+"7. Teniendo mucho cuidado de que no hubiere ninguna iniquidad" = 61
+chars (< 73) so "iniquidad" stays at the end of line 31 and "quidad" is
+consumed from line 32 (line 32 becomes "entre ellos; y á cualesquiera
+que se les encontraban" = 52 chars). Line count unchanged at 32 (line 32
+not fully consumed). check_lines.py clean.
+
+Rule 8 — no rebalancing needed. Longest line with markers inserted is
+Moroni 5:2 "de la [4549]sangre de tu Hijo, que fué vertida para ellos,
+para que den" = 71 chars.
+
+Rule 31 — space before punctuation removed (the 1920 print sets a space
+before ";" and ":" throughout this page). Body: Moroni 5:1 "dijeron :",
+Moroni 6:1 "bautizados : y no" and "obras ;", Moroni 6:5 "almas ;",
+Moroni 6:6 "Jesús ;", Moroni 6:7 "ellos ;". Footnote block rules 22/31:
+spaced colons/semicolons removed — 5a "III Nefi 18 ; Doctrinas y
+Convenios 20 : 79; 27 : 2-4." → "III Nefi 18; Doctrinas y Convenios
+20:79; 27:2-4."
+
+Rule 6 — inter-word spacing normalized to one space throughout;
+justification double-spacing after sentence-final punctuation collapsed
+where present (Moroni 5:1 "vino. He aquí", Moroni 5:2 "consigo. Amén.",
+Moroni 6:1 "bautismo. He aquí").
+
+Footnote markers — 9 on this page (4549-4557):
+ - 5a = [4549] before "sangre" (Moroni 5:2) — "en memoria de la sangre
+   de tu Hijo". Block 1: "Véase t, III Nefi 18; Doctrinas y Convenios
+   20:79; 27:2-4."
+ - 6a = [4550] before "Élderes" (Moroni 6:1) — "He aquí, que Élderes,
+   Presbíteros y Maestros fueron bautizados". Block 1: "Moroni 3:1."
+ - 6b = [4551] before "Presbíteros" (Moroni 6:1). Block 1: "Véase c,
+   Mosíah 6."
+ - 6c = [4552] before "bautizados" (Moroni 6:1) — "y no fueron
+   bautizados, hasta que...". Block 1: "Véase u, II Nefi 9."
+ - 6d = [4553] before "nombre" (Moroni 6:3) — "tomare sobre sí el
+   nombre de Cristo". Block 1: "Véase e, Mosíah 5."
+ - 6e = [4554] before "poder" (Moroni 6:4) — "purificados por el poder
+   del Espíritu Santo". Block 1: "Véase y, III Nefi 9."
+ - 6f = [4555] before "oración" (Moroni 6:4) — "hacerles vigilantes de
+   continuo en la oración". Block 1: "Véase e, II Nefi 32."
+ - 6g = [4556] before "ayunar" (Moroni 6:5) — "para orar y ayunar".
+   Block 1: "Véase t, Mosíah 27."
+ - 6h = [4557] before "participar" (Moroni 6:6) — "reunían
+   frecuentemente para participar del pan y vino". Block 1: "Véase b,
+   III Nefi 18."
+
+Cross-reference letter checks (none is i/l/1 — MANDATORY check not
+triggered — but several are shape-ambiguous, so 1879 file pp.618-619
+(Book of Moroni chs.5-6 footnote blocks) checked discretionarily):
+ - 5a "Véase t, III Nefi 18" — 1879 p.618 prints "a, see t, III. Nep.
+   18.  Doc. and Cov. 20 : 79.  27 : 2—4." in clean italic; the letter
+   is a SHORT crossbarred "t" (x-height, no descender), not "f". Same
+   target as page 616's 4a/4d ("Véase t, III Nefi 18"), whose "t"
+   reading was confirmed against 1879 in that page's Sessions A/B.
+   Content-fit: 5a annotates "sangre" in the sacrament-wine prayer;
+   III Nefi 18 is the sacrament chapter, D&C 20/27 are the sacrament
+   prayers. "t" confirmed.
+ - 6c "Véase u, II Nefi 9" — 1879 p.618 prints "c, see u, II. Nep. 9.";
+   1920 glyph is a rounded "u" (not "v"/"n"). II Nefi 9u (already
+   transcribed, seq. 378) = "Actos 2:38; Marcos 1:4; Mateo 3:5-6; Lucas
+   3:3; Juan 3:5; ..." — all baptism references, exact content-fit for
+   "bautizados". "u" confirmed.
+ - 6e "Véase y, III Nefi 9" — INITIALLY read as "v" from the fn_zoom
+   crop, corrected to "y" on ultra-zoom (pages_1920/page_0639.png
+   ~92-94.5% down, ~27-37% across, 40x): the glyph has a clear italic-y
+   descender hooking left below the baseline, not the baseline-bound
+   two-stroke "v". 1879 p.619 confirms: "e, see y, III. Nep. 9." with an
+   unmistakable descender-tailed italic "y". Content-fit is decisive:
+   6e annotates "poder del Espíritu Santo"; III Nefi 9y (already
+   transcribed, seq. 3585) = "I Nefi 10:17,19,22; 13:37; II Nefi
+   31:11-14,17,18; 32:2-5; ..." — the Holy-Ghost / baptism-of-fire
+   footnote. III Nefi 9v (seq. 3582) = "III Nefi 15:2-8" (law of Moses
+   fulfilled) does NOT fit. Transcribed "y".
+ - 6g "Véase t, Mosíah 27" — 1879 p.619 prints "g, see t, Mos. 27.";
+   1920 glyph is a short crossbarred "t" matching 5a's. Content-fit:
+   6g annotates "ayunar"; Mosíah 27:22-23 is Alma's fast-and-prayer
+   gathering. "t" confirmed.
+ - 6b "Véase c, Mosíah 6" / 6d "Véase e, Mosíah 5" / 6f "Véase e, II
+   Nefi 32" / 6h "Véase b, III Nefi 18" — all plain round/clear letters,
+   corroborated by 1879 pp.618-619 ("b, see c, Mos. 6.", "d, see e,
+   Mos. 5.", "f, see e, II. Nep. 32.", "h, see b, III. Nep. 18.") and by
+   content-fit (Mosíah 5-6 on taking the name of Christ / priests;
+   II Nefi 32:8-9 on prayer; III Nefi 18 on the sacrament).
+
+1879 vs 1920 footnote-count note: 1879's Moroni 6 block has 11 entries
+(a-k), 1920's has 8 (a-h). The first eight match position-for-position
+in both target content and letter (a=Moroni 3:1, b=see c Mos.6,
+c=see u II.Nep.9, d=see e Mos.5, e=see y III.Nep.9, f=see e II.Nep.32,
+g=see t Mos.27, h=see b III.Nep.18); 1879's extra i/j/k (Doc.&Cov.
+42:80,81 / Mos. 26:31 / see c, Moro. 3) have no 1920 equivalent —
+1920 simply carries fewer footnotes here.
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Moroni 6:4 "entre les del pueblo" — printed "les" where "los" is
+   expected ("they were numbered among those of the church of Christ").
+   Zoom (pages_1920/page_0639.png ~62-66% down) confirms a clear "les",
+   not "los". Session E to check 1886 (file p.631) and decide (likely a
+   genuine 1920 misprint for "los").
+
+Narrow-space word-pairs for the editor's optional double-check (rule 6
+"default to two words" — committed as two words with a single space):
+ - Moroni 6:4 "de la Iglesia" — the 1920 print sets "de la" tight
+   ("dela"); transcribed as two words. 1886 (file p.631) to be
+   spot-checked in Session E.
+
+Not errors (noted, no action):
+ - "Élderes" (Moroni 6:1) — the 1920 transliteration of "Elders",
+   capital É + acute, used consistently (cf. page 616). BoM-specific
+   term.
+ - "Jesu Cristo" (Moroni 5:2) — unhyphenated archaic form, legitimate
+   per feedback_jesu_cristo_hyphen.
+ - Archaic accented forms kept per rule 32: "aquí" (Moroni 5:1; 6:1),
+   "fué" (5:2; 6:4), "á"/"ó" (archaic accented "to"/"or"), "Después"
+   (6:4), "había" (6:2), "reunía"/"reunían" (6:5,6), "méritos" (6:4),
+   "Señor Jesús" (6:6), "Ti"/"Él" (5:2, accented pronouns), "sí" (6:3),
+   "espíritu"/"Espíritu" (5:2; 6:2,4), "corazón" (6:2), "iglesia"/
+   "Iglesia" (6:2,4,5), "resolución" (6:3).
+
+Proper names on this page: "Dios" (Moroni 5:2 ×2), "Padre Eterno"
+(5:2 ×2), "Jesu Cristo" (5:2), "Él" (5:2, deity pronoun), "Espíritu
+Santo" (6:4), "Cristo" (6:3,4 ×2), "Señor Jesús" (6:6), "Iglesia de
+Cristo" (6:4), "Élderes" (6:1); Block 1: "Moroni", "Mosíah", "Nefi" /
+"II Nefi" / "III Nefi".
+
+Session B — footnote verification (independent re-check, 2026-08-29).
+Fresh 1920 fn-block crop (5x, full width) re-read: all 9 entries
+confirmed unchanged — Moroni 5 (above the short centered rule): "5a,
+4549: Véase t, III Nefi 18; Doctrinas y Convenios 20:79; 27:2-4." —
+Moroni 6 (below the rule): "6a, 4550: Moroni 3:1." / "6b, 4551: Véase
+c, Mosíah 6." / "6c, 4552: Véase u, II Nefi 9." / "6d, 4553: Véase e,
+Mosíah 5." / "6e, 4554: Véase y, III Nefi 9." / "6f, 4555: Véase e, II
+Nefi 32." / "6g, 4556: Véase t, Mosíah 27." / "6h, 4557: Véase b, III
+Nefi 18." The 1920 fn prints spaced colons/semicolons ("III Nefi 18 ;",
+"20 : 79; 27 : 2-4.", "Moroni 3 :1.") — rules 22/31 strip the spaces.
+Entry-letters run in clean sequence (5: a; 6: a,b,c,d,e,f,g,h).
+MANDATORY i/l/1 check: NOT triggered — every entry-letter and every
+cross-reference target ("Véase t" ×2, "Véase c" ×1, "Véase u" ×1,
+"Véase e" ×2, "Véase y" ×1, "Véase b" ×1) is a/b/c/d/e/f/g/h/t/u/y;
+none is i, l or 1.
+Discretionary re-checks (fresh crops):
+ - "t" (5a, 6g) — pages_1879/page_0618.png & page_0619.png fn blocks
+   re-cropped: 1879 prints "a, see t, III. Nep. 18. ..." and "g, see t,
+   Mos. 27." in clean italic — a SHORT crossbarred letter, no
+   descender, clearly not "f". 1920 matches. Confirmed "t" both.
+ - "u" (6c) — 1879 p.618 "c, see u, II. Nep. 9."; 1920 glyph rounded
+   "u". Confirmed "u".
+ - "y" (6e) — 1879 p.619 re-cropped at 22x: "e, see y, III. Nep. 9."
+   with an unmistakable italic-y descender curling left below the
+   baseline. 1920's glyph (re-checked, 40x) carries the same descender
+   — "y", not "v". Content-fit (III Nefi 9y = the Holy-Ghost /
+   baptism-of-fire footnote, seq. 3585) is decisive. Confirmed "y".
+Body markers re-cropped fresh (top/mid/bot at 5-7x): [4549] before
+"sangre" (Moroni 5:2); [4550] before "Élderes", [4551] before
+"Presbíteros", [4552] before "bautizados" (all Moroni 6:1); [4553]
+before "nombre" (6:3); [4554] before "poder" (6:4); [4555] before
+"oración" (6:4); [4556] before "ayunar" (6:5); [4557] before
+"participar" (6:6). All 9 confirmed in place; "entre les del pueblo"
+(6:4) re-confirmed as "les" in the fresh crop. No changes to
+page_617.txt body or Block 1 from Session B.
+
+Session C (2026-08-29) — insert_body_text.py 617: librodm.txt
+32353→32393 (+40: 32 body lines + 2 chapter headings + "Página 617" +
+blank separators); librodm_foot.txt 4882→4891 (9 Block 1 entries, NO
+blank line — Moroni chapters 4→5→6 are the same book, rule 20; NO book
+header). Body insertion spot-checked (Página 617 block, both chapter
+headings intact).
+
+Session D (2026-08-29) — generate_block2.py 617: appended 9 Block 2
+entries, librodm.txt 32393→32402. NO spurious duplicate this run (5a's
+Block 1 entry does not wrap in librodm_foot.txt, so the pages-611-614/616
+wrapped-entry bug did not fire). Cross-refs resolved (book-aware):
+4551→1141 (Mosíah 6c, matches page 616's 4541), 4552→378 (II Nefi 9u),
+4553→1131 (Mosíah 5e, matches page 616's 4548), 4554→3585 (III Nefi 9y),
+4555→783 (II Nefi 32e), 4556→1559 (Mosíah 27t), 4557→3755 (III Nefi
+18b); 4550 direct ("Moroni 3:1.").
+ - MANUAL FIX: generate_block2.py mis-resolved 4549. Block 1 entry
+   "5a, 4549: Véase t, III Nefi 18; Doctrinas y Convenios 20:79; 27:2-4."
+   is a COMPOUND entry (a "Véase" cross-ref followed by more references).
+   The script grabbed "27" from the trailing "27:2-4" as the cross-ref
+   chapter, matched "27t" in the III Nefi section (= seq 3972, "III Nefi
+   27:25; Véase c, II Nefi 27") and silently dropped the "Doctrinas y
+   Convenios..." text, emitting "4549: Véase 3972." Corrected by hand to
+   "4549: Véase 3773; Doctrinas y Convenios 20:79; 27:2-4." — 3773 is
+   III Nefi 18t ("Versículos 29, 30; III Nefi 20:8; Mormón 9:29."),
+   the same target page 616's 4a/4d ("Véase t, III Nefi 18") resolved
+   to. Same class of generate_block2.py bug as the wrapped-entry one
+   noted for pages 611-614/616 — a Block 1 entry that is not a bare
+   "Véase <letter>, <Book> <Chapter>." needs its Block 2 line checked
+   by hand.
+Anchor↔Block-2 cross-check after the fix: max anchor 4557 = max def
+4557; defs contiguous 1..4557 with no gaps and no duplicates; every
+anchor has a def. (def count 4557 vs anchor count 4556 = the single
+documented Jacob 2:15/812 gap, unrelated to this page.)
+
+Session E — orthography check (2026-08-30). Fresh pptext report
+workspace/report_wsl_20260830.html generated and walked end to end.
+ - Spellcheck Suspect Words: nothing in page 617's body range or its
+   Block 2 range (4549-4557). The section's nearest hit is "Élder"
+   (singular) at librodm.txt line 27436 = page 616's Moroni 4:1 ("y el
+   Élder ó el Presbítero lo administró") — an established Book-of-Mormon
+   term (Spanish rendering of the priesthood office "Elder"; 1886 also
+   uses Élderes/Elderes), NOT an error. Per rule 10 (every word pptext
+   flags goes to permitted words.txt regardless of verdict) it was
+   added there this session — a pre-existing gap: only the plural
+   "Elderes" (unaccented) was on the list; the rarer singular had
+   slipped through page 616's Session E. permitted words.txt 1278→1279.
+   No errors-log entry (established term).
+ - Edit Distance: nothing page-617.
+ - Short lines check: every page-617 body line and Block 2 line appears
+   (all < 72 chars) — the standing structural flood for this project's
+   ~72-char verse wrapping; benign.
+ - Dash check (hyphen-minus bucket): "4549: ... 27:2-4." flagged for the
+   "2-4" hyphen — a legitimate D&C verse range (digit-flanked), correct
+   per rule 23. Benign.
+ - Footnote check: "4550" appears in the line-start bucket because
+   "[4550]Élderes," begins a wrapped body line — the documented
+   bucket-labelling quirk, not a defect. Anchor inventory otherwise
+   consistent.
+ - Scanno / curly-quote sections: clean.
+ - Special situations ("standalone 1"): fires on Block 2 "N:" entry
+   numbers generally; nothing page-617-specific.
+ - Paragraph level ("query: unexpected paragraph end"): page 617's last
+   line ("...cualesquiera que se les encontraban") is listed because
+   Moroni 6:7 genuinely continues onto page 618 (not yet transcribed),
+   so the line ends mid-sentence with no terminal punctuation before
+   "Notas". Structural; will clear when page 618 is integrated.
+ - "full stop followed by unexpected sequence": no page-617 hit.
+Whole-document mechanical sweeps: check_spaced_punctuation.py
+librodm.txt CLEAN (32402), check_footnote_punctuation.py
+librodm_foot.txt CLEAN (4891), check_verse_indent.py librodm.txt
+CLEAN. Anchor↔Block-2 whole-doc sweep: no duplicate Block 2 defs; no
+"anchored but no def"; "defined but no anchor: [812]" = the documented
+Jacob 2:15 print-original omission (already in errors in 1920.txt),
+unchanged. Curly-quote scan of librodm.txt + librodm_foot.txt: zero.
+
+Corrections-log item resolved this session:
+ - Moroni 6:4 "entre les del pueblo" (les → los) — LOGGED in errors in
+   1920.txt (net 895→896). 1886 file p.631 prints "fuéron contados
+   entre LOS del pueblo de la iglesia de Cristo" (and 1886 Moroni 6:7
+   likewise "entre los del pueblo de Cristo"); "entre les del pueblo"
+   is ungrammatical Spanish (the sense needs the demonstrative "los" =
+   "those of the people"; "les" is only an indirect-object clitic,
+   impossible here); modern BoM Moroni 6:4 "entre los de la iglesia de
+   Cristo". Google OCR (page_0639.txt) independently also reads "les".
+   1920-only error; preserved as printed in the transcription. NOT
+   added to permitted words.txt — "les" is a valid Spanish word aspell
+   accepts and pptext never flagged it, so an entry would be a no-op
+   (cf. the "Jesu Cristo" precedent).
+
+For the editor's optional double-check (narrow-space-vs-merge, rule 6
+"default to two words" — already committed as two words, NOT a pending
+decision):
+ - Moroni 6:4 "de la Iglesia" — the 1920 print sets "de la" tight
+   (Google OCR fuses it as "dela"); transcribed as two words with a
+   single space. 1886 file p.631 prints "de la iglesia" as two clear
+   words, corroborating the two-word reading.
+
+Not promoted (checked, cleared):
+ - "Élderes" (Moroni 6:1) — established BoM term, 1886 file p.631 also
+   "Élderes"; already suppressed in pptext (frequent-word auto-accept).
+ - "Jesu Cristo" (Moroni 5:2) — legitimate archaic form
+   (feedback_jesu_cristo_hyphen); pptext does not flag "Jesu".
+ - Archaic accented forms ("fué", "á", "ó", "aquí", "había",
+   "reunía/reunían", "méritos", "corazón", "resolución", "espíritu/
+   Espíritu", accented pronouns "Ti/Él/sí") — house style per rule 32,
+   not errors, 1886 concurs on the substantive words.
+ - "perfeccionador" (Moroni 6:4) — correct Spanish, 1886 file p.631
+   also "perfeccionador"; not flagged.
+Net changes this session: permitted words.txt 1278→1279 ("Élder");
+errors in 1920.txt 895→896 (Moroni 6:4 "les"). No change to
+librodm.txt / librodm_foot.txt / page_617.txt body text.

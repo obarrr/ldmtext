@@ -1,0 +1,299 @@
+Página 626
+
+CAPÍTULO 9.
+
+Segunda Epistola de Mormón á su Hijo Moroni.
+
+1. Mi amado hijo, te escribo otra vez, para que sepas que vivo
+todavía. Pero tengo que escribirte tristes nuevas.
+2. He aquí, que hemos tenido una terrible batalla con los
+Lamanitas, en la cual no hemos salido ventajosos. Y Archeantus
+ha caído por la espada, lo mismo que Luram y Emrón; sí, y
+hemos perdido también un gran número de hombres escogidos.
+3. Y ahora, temo, hijo mío, que los Lamanitas [4625]destruyan á
+este pueblo, porque no se arrepienten, y satán les excita constantemente
+á la cólera los unos contra los otros.
+4. He aquí, que yo trabajo continuamente entre ellos; y cuando
+les explico la palabra de Dios con [4626]dureza, tiemblan y se enojen
+contra mí; y cuando no les hablo con dureza, cierran sus corazones
+á mis palabras; por lo que, temo [4627]que el Espíritu de Dios
+haya dejado de esforzarse para ellos.
+5. Porque es tan furiosa su ira, que me parece que no temen
+la muerte, y ha desaparecido en ellos el amor de unos á otros;
+hallándose constantemente dominados por la [4628]sed de sangre
+y de venganza.
+6. Ahora, mi querido hijo, á pesar de su dureza, trabajemos
+con esmero; porque si dejáramos de hacerlo, atraeríamos sobre
+nosotros la condenación. Porque tenemos que ejecutar una
+obra, mientras que habitemos en este tabernáculo de barro, á
+fin de vencer al enemigo de toda justicia, para que nuestras
+almas puedan hallar el descanso en el reino de Dios.
+7. Ahora, escribo un poco de los sufrimientos de este pueblo,
+porque según lo que Amorón me ha hecho saber, he aquí, los
+Lamanitas tienen muchos prisioneros, que tomaron de la torre
+de Sherrízah; habiendo entre ellos hombres, mujeres y niños.
+8. Y habiendo matado á los maridos y padres de estas mujeres
+y niños, han dado á comer á las mujeres la carne de sus maridos,
+y á los niños la de sus padres, no dándoles tampoco agua, excepto
+una poquita.
+9. Y no obstante, esta horrible abominación de los Lamanitas,
+no excede en nada á la de nuestro pueblo en Moriántum; porque,
+he aquí, que muchas he las hijas de los Lamanitas fueron hechas
+prisioneras, y las privaron de lo que era para ellas la más cara
+y más preciosa de todas las cosas, que era la castidad y la virtud;
+
+9a, 4625: Véase d, I Nefi 12.
+9b, 4626: Véase a, I Nefi 16.
+9c, 4627: Moroni 8:28.
+9d, 4628: Mormón 4:11-12.
+
+Corrections
+
+Page structure — page 626 CONTINUES the Book of Moroni and BEGINS
+Moroni chapter 9. Page 625 ENDED Moroni 8 ("...ó te encuentre otra
+vez. Amén."), so page 626 OPENS fresh: blank line after "Página 626",
+then "CAPÍTULO 9." (blank line before/after, rule 3), then the chapter
+subtitle "Segunda Epistola de Mormón á su Hijo Moroni." on its own line
+with blank-line separators (rule: chapter/book subtitles always
+transcribed — italic mixed-case line printed immediately below the
+chapter number), then v.1. NO book header (Book of Moroni continues —
+did not restart). Running header "626  LIBRO DE MORONI.  (CAP. IX."
+discarded (rule 2). Page 625 ended with the complete word "Amén." — no
+page-boundary word split (rule 10 N/A). Page ENDS mid-verse 9
+("...que era la castidad y la virtud;") — Moroni 9 continues on
+page 627. 37 body print lines + the CAPÍTULO 9 heading + the subtitle
+line.
+
+Rule 7 (hyphen-split rejoin), 2 total:
+ - v.3 "con-/stantemente" -> "constantemente". Rejoined onto line 10
+   ("este pueblo, porque no se arrepienten, y satán les excita
+   constantemente") = 72 chars < 73 — kept at end of line; "á la
+   cólera los unos contra los otros." becomes the next line.
+ - v.4 "cora-/zones" -> "corazones". Rejoined onto line 14 ("contra
+   mí; y cuando no les hablo con dureza, cierran sus corazones") = 66
+   chars < 73 — kept at end of line.
+Rule 8: no further rebalancing (longest resulting line = 72 chars,
+the "constantemente" line).
+
+Rule 31 (space before ";" removed) — the 1920 print sets a space
+before ";" throughout this page:
+ v.2 "Emrón ; sí" -> "Emrón; sí"; v.4 "entre ellos ; y cuando" ->
+ "entre ellos; y cuando", "contra mí ; y cuando" -> "contra mí; y
+ cuando", "á mis palabras ; por lo que" -> "á mis palabras; por lo
+ que"; v.5 "unos á otros ;" -> "unos á otros;"; v.6 "con esmero ;
+ porque" -> "con esmero; porque"; v.7 "de Sherrízah ; habiendo" ->
+ "de Sherrízah; habiendo"; v.9 "en Moriántum ; porque," -> "en
+ Moriántum; porque,", "y la virtud ;" -> "y la virtud;".
+
+Rule 6 (sentence double-spacing collapsed to a single space) — v.1
+"todavía.  Pero"; v.2 "ventajosos.  Y Archeantus"; v.6
+"condenación.  Porque". No true zero-width merges on this page.
+
+Narrow-space vs. two words (feedback_narrow_space_vs_merge; flag for
+editor at Session E, not raised as a standalone question in A-D):
+ - v.4 "entre ellos" — printed with a reduced gap ("entreellos"-ish);
+   grammar requires two words; transcribed "entre ellos" with a single
+   space (1879 "laboring with them"). Normalized per rule 6.
+ - v.9 "las hijas" — printed with a reduced gap ("lashijas"-ish);
+   grammar requires two words; transcribed "las hijas" with a single
+   space. Normalized per rule 6.
+
+Suspected misprints — preserved exactly as printed (rule 32), flagged
+for Session E resolution against 1886:
+ - v.4 "tiemblan y se enojen" — 1920 prints "enojen"; the parallel
+   indicative "tiemblan" leads one to expect "se enojan". Zoom
+   (20x, 39.5-42% band) confirms the printed letters are "enojen".
+   Preserved as printed; verify against 1886.
+ - v.9 "que muchas he las hijas" — 1920 prints "he" where the sense
+   requires "de" ("muchas de las hijas"). Zoom (10x, 82.5-85% band)
+   confirms the printed word is "he" (h-e). Preserved as printed;
+   verify against 1886.
+
+House-style / preserved as printed (rule 32), NOT errors:
+ - Subtitle "Segunda Epistola de Mormón..." — 1920 prints "Epistola"
+   with NO acute accent (modern form "Epístola"). Tight zoom (16x)
+   shows a plain i-tittle, no acute stroke; Google OCR page 0648 also
+   reads "Epistola". Transcribed exactly as printed per the subtitle
+   rule ("do not supply missing accents in a subtitle"); check the
+   1886/1879 wording of this chapter argument at Session E and log any
+   substantive discrepancy per the subtitle rule.
+ - v.3 "satán" — lowercase s (1879 "satan" lowercase). Preserved;
+   check internal consistency in librodm.txt at Session E.
+ - Proper names: "Archeantus" (v.2), "Luram", "Emrón" (v.2),
+   "Amorón" (v.7; 1879 "Amoron"), "Sherrízah" (v.7; 1879
+   "Sherrizah"), "Moriántum" (v.9). Preserved as printed.
+
+Footnote markers [4625]-[4628] = Moroni 9 letters a-d (4 markers = 4
+Block 1 entries; chapter 9 restarts the letter sequence at a, global
+number continues from 4624):
+ 9a=[4625] "destruyan" (9:3, "que los Lamanitas destruyan á este
+ pueblo"; 1879 "shall (a)destroy this people");
+ 9b=[4626] "dureza" (9:4, "les explico la palabra de Dios con
+ dureza"; 1879 "when I speak the word of God with (b)sharpness");
+ 9c=[4627] "que" (9:4, "temo que el Espíritu de Dios haya dejado de
+ esforzarse"; 1879 "wherefore I fear (c)lest the Spirit of the Lord
+ hath ceased striving" — 1879 letter on "lest", 1920 on "que", rule
+ 26);
+ 9d=[4628] "sed" (9:5, "dominados por la sed de sangre y de
+ venganza"; 1879 "and they (d)thirst after blood and revenge").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — NOT triggered by
+letter identity: entry letters a,b,c,d and cross-reference target
+letters d,a contain no i, l, or 1. Discretionary 1879 cross-check WAS
+run on the 9b cross-reference target (the 1920 fn-block glyph is a
+heavily over-inked superscript blob, not confidently legible): 1879
+file p.626 prints "b, see a, I. Nep. 16." — target letter is "a".
+The over-inked 1920 blob is consistent with an italic "a" and does
+not contradict; resolved "Véase a, I Nefi 16." Other entries read
+off the 1920 fn-block crop and confirmed against 1879 file p.626
+("a, see d, I. Nep. 12." / "c, Moro. 8 : 28.") and 1879 file p.627
+("d, Mor. 4 : 11, 12.") — letter-for-letter match. (Moroni 9's
+cross-ref target "d, I Nefi 12" is the same target page 625's 8-2a
+cites, on the same theme — prophesied destruction of the Nephites —
+reciprocal corroboration.)
+
+1879 cross-check (Moroni 9 = 1879 file p.626 a-c + file p.627 d):
+1879 file p.626 fn-block "a, see d, I. Nep. 12.  b, see a, I. Nep.
+16.  c, Moro. 8 : 28."; 1879 file p.627 fn-block "d, Mor. 4 : 11,
+12." — this page's 4 entries match one-for-one. 1879 body markers:
+(a) "destroy this people" v.3; (b) "with sharpness" v.4; (c) "lest
+the Spirit of the Lord" v.4; (d) "thirst after blood and revenge"
+v.5 (1879 file p.627) — every placement confirmed.
+
+Rule 23 (consecutive verse range) — Block 1: 9d "Mormón 4:11, 12."
+-> "Mormón 4:11-12." (verses 11 and 12 consecutive -> hyphenated
+range; colon de-spaced per rule 22). 1879 also "d, Mor. 4 : 11, 12."
+
+Session B (footnote verification) — independent re-pass:
+ - Fresh 1920 fn-block crops (3 horizontal bands, ~9x, re-read from
+   scratch): all 4 Block 1 entries (9a-9d) re-read. All confirmed
+   UNCHANGED. 9a "Véase d, I Nefi 12."; 9b "Véase a, I Nefi 16.";
+   9c "Moroni 8:28." (1920 sets "8 :28." — colon de-spaced, rule 22);
+   9d wraps in the 1920 fn block ("...Mormón / 4: II, 12.") =
+   "Mormón 4:11-12." (rule 23).
+ - Fresh 1920 body-marker read (independent ~12x crops of vv.3, 4, 5):
+   all 4 markers [4625]-[4628] confirmed immediately before the
+   correct words, UNCHANGED — [4625] "destruyan" (v.3); [4626]
+   "dureza" (v.4); [4627] "que" (v.4, the second "que" in "por lo
+   que, temo que el Espíritu"); [4628] "sed" (v.5).
+ - Independent 1879 cross-check (Moroni 9 = 1879 file p.626 a-c +
+   file p.627 d): fresh ~8x crop of 1879 file p.626 fn block, cleaner
+   italic type, reads "a, see d, I. Nep. 12.  b, see a, I. Nep. 16.
+   c, Moro. 8 : 28." — the 9b target that is an over-inked blob on the
+   1920 scan prints as an unambiguous italic "a" in 1879 (round bowl
+   with right-foot tail), confirming Session A's resolution. 1879
+   file p.627 "d, Mor. 4 : 11, 12." confirms 9d. 1879 body markers
+   (file p.626 vv.3-4, file p.627 v.5): (a) "destroy this people";
+   (b) "with sharpness"; (c) "lest the Spirit of the Lord" (1920
+   letter on "que", rule 26); (d) "thirst after blood and revenge" —
+   every placement confirmed.
+ - MANDATORY i/l/1 check: entry letters a,b,c,d and target letters
+   d,a contain no i, l, or 1 — not triggered by letter identity. The
+   discretionary over-inked-blob ambiguity on the 9b target was
+   resolved off 1879's clear type (above).
+ - Rule 23 re-checked vs 1879: 9d "4 : 11, 12" -> "4:11-12" (11-12
+   consecutive range, colon de-spaced). No changes.
+NO changes to Block 1 or body markers this session.
+
+Google-text cross-check (google_text_1920/page_0648.txt): manual
+line-by-line comparison (check_google_crosscheck.py 626 parsed 0 body
+chars from this page file — a known parser quirk when the page opens
+with a "CAPÍTULO"/subtitle block, not a content problem). Google's OCR
+matches the transcribed body letter-for-letter except: (1) dropped
+superscript markers (rule 14) at [4625]-[4628]; (2) accent drops
+Google routinely makes ("Epistola"); (3) word-fusion on Google's side
+("entreellos", "lashijas"). Crucially, Google INDEPENDENTLY reads both
+suspected misprints as printed: v.4 "tiemblan y se enojen" (Google
+"enojen") and v.9 "que muchas he lashijas" (Google "he") — corroborates
+preserving both as printed. No transcription change from the
+cross-check.
+
+Session C: insert_body_text.py 626 — librodm.txt 32817->32861 (+44 = 37
+body lines + "Página 626" + blank + "CAPÍTULO 9." + blank + subtitle +
+blank + blank separator); librodm_foot.txt 4959->4963 (4 Block 1
+entries appended, NO blank line / NO book header — Moroni ch.9 continues
+within the Book of Moroni, rule 20). Body landed before "Notas": page
+625 ends "vez. Amén.", blank, "Página 626", blank, "CAPÍTULO 9.", blank,
+subtitle, blank, then v.1 (fresh chapter, rule 1/3); page ends mid-verse
+9 "...la castidad y la virtud;". Página sequence 623..626 contiguous.
+
+Session D: generate_block2.py 626 appended 4625-4628 (librodm.txt
+32861->32865) — no unresolved warnings, no wrapped-Block-1-entry bug
+(all 4 entries one line each; Notas tail ends cleanly at "4628: Mormón
+4:11-12."). Cross-ref resolutions (book-aware): 9a "Véase d, I Nefi 12"
+-> 79 (I Nefi 12d — same target page 625's 8-2a=4624 resolves to, same
+theme of prophesied Nephite destruction); 9b "Véase a, I Nefi 16" -> 136
+(I Nefi 16a — whose own citation list back-references "Moroni 9:4",
+reciprocal confirmation of both target AND that 9b marks v.4); 9c/9d
+direct. Anchor<->Block-2 after append: max anchor 4628 = max def 4628,
+contiguous 1..4628, no gaps/dupes; only the documented Jacob 2:15/812
+def-without-anchor remains.
+
+Session E: fresh full pptext report workspace/report_wsl_20260901e.html
+regenerated and walked end to end. SPELLCHECK: 4 new proper-name
+suspects — "Archeantus" (9:2), "Emrón" (9:2), "Luram" (9:2), "Sherrízah"
+(9:7) — all Book-of-Mormon proper nouns, ADDED to permitted words.txt
+(rule 10), NO errors-log entry (proper nouns generic spellcheck always
+flags). "Amorón" (9:7) and "Moriántum" (9:9) NOT flagged (5+-occurrence
+aspell auto-accept from earlier books; not in permitted words.txt but no
+action needed). permitted words.txt: 1284->1288. Every other page-626
+hit is structural: the short-lines flood (wrapped verse-boundary body
+lines + short Block-2 "Véase NNNN." entries) + 1 legit digit-flanked
+verse-range hyphen in the dash check (4628 "4:11-12") + the v.9->Notas
+boundary in the paragraph-level "unexpected paragraph end" list (page
+626 is the last transcribed page, so its final wrapped line abuts
+"Notas" — structural false positive). NO page-626 edit-distance /
+hyphenation / adjacent-spaces / trailing-spaces / character /
+repeated-word / duplicate-line / ellipsis / scanno / curly-quote /
+spaced-punctuation / special-situations / book-level / "full stop
+followed by unexpected sequence" findings. Jeebies clean.
+
+1886 comparison — Moroni 9 heading + vv.1-6 on 1886 file p.639, vv.6-9
+on file p.640. ALL of Moroni 9:1-9 compared word-for-word. TWO genuine
+1920 deviations found and LOGGED in errors in 1920.txt (911->913,
+appended in verse order at end of file — Moroni 9 = true end):
+ * Moroni 9:4 "se enojen" (se enojan) — present-subjunctive verb form
+   where the parallel indicative "tiemblan" requires indicative "se
+   enojan"; 1886 file p.639 ALSO "tiemblan y se enojen" (SHARED lineage
+   error, same pattern as Moroni 6:8 "arrepintían" / 6:9 "obrabran");
+   1879 "they tremble and anger against me"; modern BoM "tiemblan y se
+   enojan conmigo"; Google page 0648 also "enojen"; NOT pptext-flagged
+   (valid word); no permitted-words entry.
+ * Moroni 9:9 "muchas he las hijas" (muchas de las hijas) — 1920 prints
+   "he" where the partitive "de" is required; 1886 file p.640 prints
+   "muchas de las hijas" CORRECTLY (1920-ONLY error); 1879 "many of the
+   daughters of the Lamanites"; modern BoM "muchas de las hijas de los
+   lamanitas"; Google page 0648 also "he" ("muchas he lashijas"); NOT
+   pptext-flagged (valid word); no permitted-words entry.
+NOT logged (all resolved as non-errors after the full 1886 + errors-log
++ independent-research check):
+ (1) Subtitle "Segunda Epistola de Mormón..." — 1886 file p.639 ALSO
+ prints "Epistola" WITHOUT the acute accent (and "Mormon"); missing
+ accent only, shared with 1886, 1886 drops accents throughout —
+ house-style accent omission, NOT logged (subtitle rule: do not supply
+ missing accents; 1879 prints no Spanish subtitle, so no substantive
+ wording discrepancy to log).
+ (2) v.3 "satán" lowercase — 1886 file p.639 "Satan" capitalized, BUT
+ librodm.txt carries 25+ lowercase "satán" (including "y satán", "que
+ satán", "satán no tiene") and ZERO capitalized "Satán"/"Satanás";
+ overwhelming 1920 internal consistency = house style
+ (feedback_errors_log_diligence mirror case), NOT logged.
+ (3) Proper-name accents "Emrón"/"Sherrízah" vs 1886 "Emron"/"Sherrizah"
+ — 1920 accent modernization, NOT errors.
+ (4) v.2/v.3 commas 1920 sets after "aquí"/"ahora" (1886 omits) — 1920
+ house-style comma addition, NOT logged (page 625 precedent).
+Narrow-space vs. two words (feedback_narrow_space_vs_merge — editor may
+double-check against the image; two-word transcription is the committed
+default, not a pending decision):
+ - Moroni 9:4 "entre ellos" — 1920 prints a reduced gap; 1886 file
+   p.639 "entre ellos" two words; transcribed "entre ellos".
+ - Moroni 9:9 "las hijas" — 1920 prints a reduced gap; 1886 file p.640
+   "las hijas" two words; transcribed "las hijas".
+Whole-document mechanical sweeps all clean: check_spaced_punctuation
+librodm.txt (32865); check_footnote_punctuation librodm_foot.txt (4963);
+check_verse_indent librodm.txt; anchor<->Block-2 sweep shows only the
+documented [812] definition with no body anchor; curly-quote scan of
+librodm.txt / librodm_foot.txt / page_626.txt all zero. NO text changes
+to page_626.txt body or
+librodm.txt this session — both Moroni 9 errors preserved exactly as
+printed.

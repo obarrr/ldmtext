@@ -1,0 +1,513 @@
+Página 618
+cometiendo iniquidad, y hubiere [4558]tres testigos, que les condemaban
+ante los Élderes; y si no se arrepentían y confesaban su
+delito, sus nombres eran borrados, y no se les contaba más entre
+los del pueblo de Cristo;
+8. Pero tan [4559]pronto como se arrepintían, é imploraban el
+perdón con verdadera resolución, eran perdonados.
+9. Y sus reuniones eran dirigidas por la iglesia, según las
+manifestaciones del Espíritu, y según el [4560]poder del Espíritu
+Santo. Porque según el Espíritu Santo les guiaba á predicar,
+exhortar, orar, suplicar, ó cantar, así obrabran ellos.
+
+CAPÍTULO 7.
+
+1. Y ahora, yo, Moroni, voy á escribir algunas de las palabras
+de mi padre Mormón [4561]relativas á la fe, esperanza y caridad;
+porque era de esta manera que hablaba al pueblo, cuando le
+enseñaba en la [4562]sinagoga que habían construido para lugar de
+culto.
+2. Ahora, yo, Mormón, me dirijo á vosotros, amados hermanos
+míos, y es por la gracia y santa voluntad de Dios, el
+Padre y nuestro Señor Jesu Cristo, á causa del [4563]don de mi vocación,
+que me permite dirigirme á vosotros en esta época.
+3. Por lo tanto, quisiera hablar á los que pertenecéis á la
+iglesia, los que sois pacíficos discípulos de Jesu Cristo, los que
+habéis recibido la esperanza necesaria, para que podáis ir al
+reposo del Señor, desde ahora en adelante, hasta que halléis
+descanso con Él en el cielo.
+4. Y os juzgo en este concepto, mis hermanos, á causa de la
+pacífica conducta que observéis con los hijos de los hombres;
+5. Porque yo recuerdo la palabra de Dios, que dice: [4564]Por sus
+obras les conoceréis; porque si sus obras son buenas, buenos
+son también ellos.
+6. Porque, he aquí, que Dios ha dicho: El hombre que es malo
+no puede hacer lo que es bueno; porque si él ofrece una dádiva
+ó una oración á Dios, como no la haga con una sincera y verdadera
+intención, no le aprovecha para nada.
+7. Porque, he aquí, que no le es contado para justicia.
+8. Porque, he aquí, que si un mal hombre diere una dádiva
+de mala gana; por lo tanto, esto le será contado como si él
+hubiere retenido la dádiva para sí; por lo que él es considerado
+malo ante el Señor.
+9. Y del mismo modo, si un hombre ruega, y no lo hace con
+
+6i, 4558: Doctrinas y Convenios 42:80,81.
+6j, 4559: Mosíah 26:31.
+6k, 4560: Véase c, Moroni 3.
+7a, 4561: Versículos 21-39,40-44,45-48; Éther 12:3-37; Moroni 8:14,26;
+10:20-23.
+7b, 4562: Véase u, Alma 16.
+7c, 4563: III Nefi 5:13; Véase j, III Nefi 5; Véase e, IV Nefi 1.
+7d, 4564: III Nefi 14:15-20.
+
+Corrections
+
+Page structure — page 618 CONTINUES the Book of Moroni. It OPENS
+mid-verse (Moroni 6:7 continuation from page 617, which ended "...y á
+cualesquiera que se les encontraban"), so per rule 1 the first body line
+follows "Página 618" with NO blank line. Running header "618  LIBRO DE
+MORONI.  (CAP. VII." discarded (rule 2). Page carries the tail of Moroni
+6 (vv.7-9, completing the chapter), a centered decorative rule, the
+heading "CAPÍTULO 7.", and the opening of Moroni 7 (vv.1-9, ending
+mid-verse 9 "...si un hombre ruega, y no lo hace con" which carries to
+page 619). NO book-title header (still within Moroni). NO chapter
+subtitle at Moroni 7 (image checked). Decorative rules sit before
+"CAPÍTULO 7." (after Moroni 6:9) and above the footnote divider (after
+Moroni 7:9) — none transcribed. In the footnote block the two chapters
+keep SEPARATE groups divided by a short centered rule (not transcribed):
+Moroni 6's tail entries (i-k) above it, the Moroni 7 group (a-d) below.
+Moroni 7's footnote letters restart at 7a; the global sequential number
+continues from page 617's 4557, so this page runs 4558-4564.
+
+Raw line count: 40 body print lines read line-by-line from the
+top/mid/bot crops (10 for Moroni 6 + 29 for Moroni 7), plus the one
+"CAPÍTULO 7." heading line.
+
+check_lines.py / check_spaced_punctuation.py / check_footnote_
+punctuation.py / check_verse_indent.py: all clean in live body / Block 1
+text — every flagged line is inside this Corrections log (historical
+quotes of already-stripped spaced punctuation, or a bullet that wraps so
+"14." begins a line). check_line_wrap.py and check_google_crosscheck.py
+BOTH auto-parse only the pre-heading portion of this page (their
+body_lines() stops at the blank line before "CAPÍTULO 7." — the same
+limitation seen on pages 616-617): check_line_wrap saw 10 txt lines vs
+Tesseract's 38 (its OCR line count for the whole page, close to the 39
+body lines read here); check_google_crosscheck compared only the Moroni
+6 portion (466 chars) and flagged 2 candidates, both resolved (see
+below). The Moroni 7 body (lines 15-43) was cross-checked MANUALLY
+against google_text_1920/page_0640.txt: after ignoring Google's
+spaced-punctuation and superscript-marker noise, Google's OCR matches
+this transcription letter-for-letter across the whole of Moroni 7 —
+including "recuerdo" (7:5), "discípulos" (7:3), "halléis"/"podáis"
+(7:3), "Jesu Cristo" (7:2,3). No further candidates.
+
+check_google_crosscheck candidates (Moroni 6 portion), both resolved:
+ - "Élderes" (6:7) — Google reads "Elderes" (accent dropped on the
+   capital É, a routine Google-OCR behaviour); the 1920 image clearly
+   prints "Élderes" (cf. pages 616-617). Kept "Élderes".
+ - "ó" (6:8, "arrepintían, ó imploraban") — Google reads "é". Sessions
+   A/B kept "ó" on a heavy-ink read; SESSION E OVERTURNED THIS — at 34x
+   the glyph has a clear mid crossbar and open lower-right = "e", not a
+   closed "o" bowl. Corrected to "é imploraban" (matches Google and 1886
+   file p.631 "é imploraban"). See the Session E section for the full
+   writeup. NOT a 1920 error (1886 concurs); a transcription misread,
+   fixed in page_618.txt and librodm.txt.
+
+Rule 7 — three end-of-line hyphen splits on the page, all rejoined:
+ - Moroni 6:7 image line 1 ends "...que les condema-" / line 2 begins
+   "ban ante los Élderes...". Rejoined "condemaban" (as printed — see
+   the misprint note below); appended to line 1 = "cometiendo iniquidad,
+   y hubiere [4558]tres testigos, que les condemaban" = 70 chars (< 73)
+   so it stays at the end of line 1; line 2 becomes "ante los Élderes;
+   y si no se arrepentían y confesaban su".
+ - Moroni 7:2 image line ends "...amados her-" / next begins "manos
+   míos...". Rejoined "hermanos"; line = "2. Ahora, yo, Mormón, me
+   dirijo á vosotros, amados hermanos" = 59 chars, stays at line end;
+   next line becomes "míos, y es por la gracia y santa voluntad de
+   Dios, el".
+ - Moroni 7:2 image line ends "...á causa del [4563]don de mi voca-" /
+   next begins "ción, que me permite...". Rejoined "vocación,"
+   (trailing comma travels with it); line = "Padre y nuestro Señor Jesu
+   Cristo, á causa del [4563]don de mi vocación," = 72 chars (< 73) so
+   it stays at the end of the line; next line becomes "ción," consumed →
+   "que me permite dirigirme á vosotros en esta época."
+ - Moroni 7:6 image line ends "...una sincera y verda-" / next begins
+   "dera intención...". Rejoined "verdadera"; line = "ó una oración á
+   Dios, como no la haga con una sincera y verdadera" = 65 chars, stays
+   at line end; next line becomes "intención, no le aprovecha para
+   nada."
+check_lines.py clean after all four rejoins.
+
+Rule 8 — no rebalancing needed. Longest marker line is Moroni 7:2
+"Padre y nuestro Señor Jesu Cristo, á causa del [4563]don de mi
+vocación," = 72 chars (exactly at the limit, still < 73).
+
+Rule 31 — space before punctuation removed (the 1920 print sets a space
+before ";" and ":" throughout this page). Body: Moroni 6:7 "Élderes ;"
+and "Cristo ;"; Moroni 7:1 "caridad ;"; Moroni 7:4 "hombres ;"; Moroni
+7:5 "dice :" and "conoceréis ;"; Moroni 7:6 "dicho :" and "bueno ;";
+Moroni 7:8 "gana ;" and "sí ;". Footnote block rules 22/31: spaced
+colons/semicolons removed — "42 : 80, 81." → "42:80,81."; "26 : 31." →
+"26:31."; "12 : 3-37" → "12:3-37"; "8 : 14, 26" → "8:14,26";
+"10 : 20-23" → "10:20-23"; "5 : 13" → "5:13"; "14 : 15-20" →
+"14:15-20". Rule 24
+comma-no-space applied in "80,81", "8:14,26". Rule 23 hyphenated ranges
+kept: "21-39", "40-44", "45-48", "3-37", "20-23", "15-20".
+
+Rule 6 — inter-word spacing normalized to one space throughout;
+justification double-spacing after sentence-final punctuation collapsed
+where present (Moroni 6:9 "Santo.  Porque"; Moroni 7:5 "dice :  Por" not
+present, single; Moroni 7:1 "culto." line-final). NO narrow-space
+word-pairs found — Google OCR of page 0640 keeps the same word
+boundaries as this transcription (see Google cross-check below).
+
+Footnote markers — 7 on this page (4558-4564):
+ - 6i = [4558] before "tres" (Moroni 6:7) — "y hubiere tres testigos,
+   que les condemaban ante los Élderes". Block 1: "Doctrinas y Convenios
+   42:80,81." (SEE THE MISSING-SUPERSCRIPT ANOMALY BELOW — the footnote
+   block prints this entry's text with NO "i," label; the body marker
+   "i" IS present.)
+ - 6j = [4559] before "pronto" (Moroni 6:8) — "tan pronto como se
+   arrepintían, ó imploraban el perdón... eran perdonados". Block 1:
+   "Mosíah 26:31."
+ - 6k = [4560] before "poder" (Moroni 6:9) — "según el poder del
+   Espíritu Santo". Block 1: "Véase c, Moroni 3."
+ - 7a = [4561] before "relativas" (Moroni 7:1) — "algunas de las
+   palabras de mi padre Mormón relativas á la fe, esperanza y caridad".
+   Block 1: "Versículos 21-39,40-44,45-48; Éther 12:3-37; Moroni
+   8:14,26; 10:20-23."
+ - 7b = [4562] before "sinagoga" (Moroni 7:1) — "enseñaba en la
+   sinagoga que habían construido para lugar de culto". Block 1: "Véase
+   u, Alma 16."
+ - 7c = [4563] before "don" (Moroni 7:2) — "á causa del don de mi
+   vocación". Block 1: "III Nefi 5:13; Véase j, III Nefi 5; Véase e, IV
+   Nefi 1."
+ - 7d = [4564] before "Por" (Moroni 7:5) — "que dice: Por sus obras les
+   conoceréis". Block 1: "III Nefi 14:15-20."
+
+ANOMALY — Moroni 6:i footnote label missing from the footnote block.
+Page 617 carried Moroni 6 footnotes a-h; its Session A note concluded
+1920 "simply carries fewer footnotes here" (a-h vs 1879's a-k). That was
+WRONG: 1920 DOES have i, j, k — they are at the top of page 618's
+footnote block (the rest continued past the page break). The Moroni 6
+group on page 618 prints, above the short centered rule:
+"Doctrinas y Convenios 42:80,81.   [j], Mosíah 26:31.   [k], Véase c,
+Moroni 3." The first entry begins at the paragraph indent with NO
+superscript "i," before "Doctrinas" (confirmed at 16x-22x zoom, far-left
+crop — nothing there; Google OCR of page 0640 likewise shows no letter
+before "Doctrinas" but does show "i," before "Mosíah"). Its identity as
+6i is nonetheless certain: (1) the body text prints a well-formed
+superscript "i" before "tres" at Moroni 6:7; (2) the chapter's letters
+run h (p617) → i → j → k with the body markers at 6:7/6:8/6:9 reading
+i/j/k; (3) 1879 (Book of Moroni ch.6) has the same four entries in the
+same order — h = "see b, III Nep. 18", i = "Doc. and Cov. 42:80,81",
+j = "Mos. 26:31", k = "see c, Moro. 3" — and 1879's "i" content
+("Doc. and Cov. 42:80,81") matches this entry exactly; (4) content-fit:
+D&C 42:80-81 is the trial-before-elders-and-witnesses passage, matching
+"tres testigos... ante los Élderes". Transcribed with the label "6i" in
+Block 1 (the dropped superscript is a 1920 print defect in the footnote
+label only, not the body). Logged for Session E's errors-in-1920
+judgement.
+
+Superscript-letter checks — MANDATORY i/l/1 check (Section 8):
+ - 6i entry label — the printed superscript is ABSENT (see anomaly
+   above); identity resolved by body marker + sequence + 1879 content
+   as described. Not a misread — there is simply no glyph.
+ - 6j "Mosíah 26:31." entry-label superscript — read as "j" at 30x zoom
+   (dot + stroke + a clear leftward hook descending BELOW the baseline
+   of the following comma; an "i" would end at the baseline). Google OCR
+   reads it "i" but rule 14 forbids trusting OCR for superscripts. The
+   body marker at Moroni 6:8 (before "pronto") is likewise a
+   descender-hooked "j" at 30x. Content-fit is decisive: Mosíah 26:31
+   ("as ye... forgive... so also shall ye forgive") pairs with 6:8
+   "arrepintían... imploraban el perdón... eran perdonados"; 1879's
+   Moroni 6j is also "Mos. 26:31". Confirmed "j".
+ - 7c cross-reference "Véase j, III Nefi 5" — the cross-ref letter is an
+   "i"/"j"/"l"-class glyph → MANDATORY 1879 check. 1879 (Book of Moroni
+   7c, file p.619) prints "See j, III. Nep. 5." with an unmistakable
+   full-descender italic "j". The 1920 glyph (22x zoom) carries the same
+   below-baseline hook + dot. Content-fit: 7c annotates "el don de mi
+   vocación"; III Nefi 5j (already transcribed, seq. 3485) =
+   "Probablemente uno de los sucesores de los Doce Discípulos" — a note
+   about Mormón's office/calling, exact fit. III Nefi 5i (seq. 3484 =
+   "Mosíah 18.", church-organization) does NOT fit. Google OCR reads
+   "i" here too — same OCR weakness on small italic "j" as at 6j (rule
+   14 bars trusting OCR for superscripts). Transcribed "j".
+ - 7c cross-reference "Véase e, IV Nefi 1" — plain rounded italic "e"
+   (horizontal bar, closed bowl) at 10x-22x. 1879's equivalent entry
+   uses "q" ("See q, IV. Nep. 1.") — a translation-word-order letter
+   difference (rule 26), not a transcription question; 1920 prints "e",
+   transcribed "e".
+ - 7b cross-reference "Véase u, Alma 16" — rounded two-stroke "u"
+   (not "v"/"n"); 1879 (Moroni 7b, file p.619) confirms "see u, Alma
+   16." Transcribed "u".
+ - 6k cross-reference "Véase c, Moroni 3" — small open "c"; 1879's
+   Moroni 6k confirms "see c, Moro. 3." Transcribed "c".
+ - 7a has no cross-reference letters (all bare citations).
+
+1879 vs 1920 footnote note: 1879's Book of Moroni ch.6 has 11 entries
+(a-k); 1920 also has 11 (a-h on page 617, i-k here) — they match
+position-for-position in target content and letter (a=Moro.3:1,
+b=see c Mos.6, c=see u II Nep.9, d=see e Mos.5, e=see y III Nep.9,
+f=see e II Nep.32, g=see t Mos.27, h=see b III Nep.18, i=D&C 42:80-81,
+j=Mos.26:31, k=see c Moro.3). Page 617's "1920 carries fewer footnotes
+here" conclusion is superseded. For Moroni 7, 1879's ch.7 a-d = a
+(vv.21-39,40-44,45-48; Ether 12:3-37; Moro. 8:14,26; 10:20-23),
+b (see u, Alma 16), c (III Nep. 5:13; See j, III Nep. 5; See q, IV Nep.
+1), d (III Nep. 14:15-20) — 1920's 7a-7d match one-for-one (letters c/e
+differ from 1879's j/q only per rule 26).
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Moroni 6:7 "condemaban" — printed "condema-" / "ban" (m, not n).
+   Correct Spanish is "condenaban" (imperfect of "condenar"). Confirmed
+   "m" at 22x zoom (two full humps after "d...e", matching the "m" in
+   nearby "más"/"nombres"); Google OCR of page 0640 independently also
+   reads "condema-ban". "condemaban" / "condemar" is not a Spanish word;
+   "condemnar" (with -mn-, archaic learned variant of "condenar") exists
+   but this is "-m-" alone. Session E to check 1886 (file p.632) and
+   decide (likely a 1920 misprint for "condenaban").
+ - Moroni 6:8 "arrepintían" — printed "arrepintían" where "arrepentían"
+   (imperfect) is expected; the SAME PAGE prints "arrepentían" correctly
+   at Moroni 6:7 ("si no se arrepentían y confesaban"). "arrepintían"
+   mixes the preterite stem "arrepint-" with an imperfect ending. Zoom
+   confirms "arrepintían"; Google OCR also "arrepintían". Modern BoM
+   Moroni 6:8 "se arrepentían". Session E to check 1886 (file p.632)
+   and decide (likely a 1920 misprint for "arrepentían").
+ - Moroni 6:9 "obrabran" — printed "obrabran" ("así obrabran ellos")
+   where "obraban" (imperfect of "obrar", "they acted/did") is expected
+   — an extra "r". Zoom confirms "obrabran"; Google OCR also "obrabran".
+   "obrabran" is not a Spanish form; modern BoM Moroni 6:9 "así
+   obraban". Session E to check 1886 (file p.632) and decide (likely a
+   1920 misprint for "obraban").
+ - Heading "CAPÍTULO. 7." — the 1920 print sets a period after
+   "CAPÍTULO" (a solid baseline dot, same stroke weight/size as the
+   final period after "7"; confirmed at 26x zoom). Every other chapter
+   heading in this edition prints "CAPÍTULO N." with no such period
+   (page 617's "CAPÍTULO 6." checked directly — none). Transcribed as
+   the standard "CAPÍTULO 7." for output consistency (rules 1/3 define
+   the heading form; running headers with their own periods are
+   discarded per rule 2). Google OCR dropped the whole heading line so
+   it neither confirms nor denies the mark, but a same-page
+   weight/size comparison (rule 36) shows it is genuine printed type,
+   not a speck. Logged for Session E's errors-in-1920 judgement (the
+   spurious period, not the transcription).
+
+Narrow-space word-pairs for the editor's optional double-check (rule 6
+"default to two words"): NONE this page — every word boundary in the
+1920 print is clear and Google OCR of page 0640 fused none.
+
+Not errors (noted, no action):
+ - "Élderes" (Moroni 6:7) — established 1920 transliteration of
+   "Elders" (É + acute), used consistently (cf. pages 616-617). Google
+   dropped the accent once; the image clearly shows "Élderes".
+ - "Jesu Cristo" (Moroni 7:2, 7:3 ×2) — unhyphenated archaic form,
+   legitimate per feedback_jesu_cristo_hyphen.
+ - "discípulos" (Moroni 7:3) — correctly spelled here with the first
+   "s" (contrast the "dicípulos" misprint documented on page 616).
+ - "ó" (Moroni 6:9 "suplicar, ó cantar"; 7:6 "ó una oración") — archaic
+   accented "o" (= "or"), house style; both are genuine closed-bowl "ó"
+   at 34x (6:9 confirmed against modern BoM "o", 1879 "or"). NOTE: the
+   6:8 instance previously listed here was a MISREAD — it is "é" (and),
+   corrected in Session E; see below.
+ - Archaic accented forms kept per rule 32: "aquí" (7:6 ×3, 7:7, 7:8),
+   "á" (archaic accented "to"), "época" (7:2), "halléis"
+   / "podáis" / "pertenecéis" / "observéis" / "conoceréis" (7:3,4,5),
+   "habéis" (7:3), "dádiva" (7:6,7,8), "sí" (7:8), "Él" (7:3, deity
+   pronoun), "Espíritu" (6:9), "iglesia"/"Iglesia" (6:9, 7:1,3),
+   "pacíficos"/"pacífica" (7:3,4), "resolución" (6:8), "época" (7:2),
+   "Señor" (6:9, 7:3, 7:8), "vocación" (7:2).
+
+Proper names on this page: "Cristo" (Moroni 6:7; 7:3), "Élderes" (6:7),
+"Espíritu"/"Espíritu Santo" (6:9 ×3), "Moroni" (7:1), "Mormón" (7:1,
+7:2), "Dios" (7:2, 7:5, 7:6 ×2), "Padre" (7:2, deity), "Señor Jesu
+Cristo" (7:2), "Jesu Cristo" (7:3), "Él" (7:3, deity pronoun), "Señor"
+(6:9, 7:3, 7:8); Block 1: "Moroni", "Mosíah", "Nefi" / "III Nefi" / "IV
+Nefi", "Alma", "Éther", "Doctrinas y Convenios".
+
+Session B — footnote verification (independent re-check, 2026-08-30).
+Fresh 1920 fn-block crop (5x, full width) re-read: all 7 entries
+confirmed unchanged. Moroni 6 tail (above the short centered rule):
+first entry prints its text "Doctrinas y Convenios 42:80,81." with NO
+"i," superscript label (the documented ANOMALY — re-confirmed at the
+far-left crop, nothing there); "j, Mosíah 26:31." (superscript "j" with
+below-baseline hook); "k, Véase c, Moroni 3." Moroni 7 (below the rule):
+"a, Versículos 21-39,40-44,45-48; Éther 12:3-37; Moroni 8:14,26;
+10:20-23." / "b, Véase u, Alma 16." / "c, III Nefi 5:13; Véase j, III
+Nefi 5; Véase e, IV Nefi 1." / "d, III Nefi 14:15-20." The 1920 fn
+prints spaced colons/semicolons throughout — rules 22/31 strip them.
+MANDATORY i/l/1 check — fully resolved against 1879 this session. Fresh
+crop of 1879 file p.619 (book p.611) carries BOTH the Book of Moroni
+ch.6 d-k footnote block and the ch.7 a-c block in clean italic:
+  "d, see e, Mos. 5.  e, see y, III. Nep. 9.  f, see e, II. Nep. 32.
+   g, see t, Mos. 27.  h, see b, III. Nep. 18.  i, Doc. and Cov.
+   42 : 80, 81.  j, Mos. 26 : 31.  k, see c, Moro. 3."
+  "a, ver. 21—39, 40—44, 45—48.  Ether 12 : 3—37.  Moro. 8 : 14, 26.
+   10 : 20—23.  b, see u, Alma 16.  c, III. Nep. 5 : 13.  See j, III.
+   Nep. 5.  See q, IV. Nep. 1."
+This independently confirms: (1) 1920's unlabelled first Moroni 6 entry
+= "i" (1879 i = "Doc. and Cov. 42:80,81" — exact content match), so the
+Block 1 label "6i" stands and the missing 1920 superscript is a print
+defect; (2) 1920's "j, Mosíah 26:31." IS "j", not "i" (1879 j =
+"Mos. 26:31" — the 1879 "j" is a clear full-descender italic j);
+(3) 1920's 7c cross-ref "Véase j, III Nefi 5" IS "j" (1879 c: "See j,
+III. Nep. 5." — unmistakable descender-tailed italic j); (4) 7a's verse
+groups and citations match 1879 a exactly; (5) 7b "Véase u, Alma 16" ↔
+1879 "see u, Alma 16"; (6) 7c's second cross-ref "Véase e, IV Nefi 1"
+vs 1879's "See q, IV. Nep. 1" — a rule-26 translation-word-order letter
+difference, 1920 prints "e", kept. 6k "Véase c" ↔ 1879 k "see c, Moro.
+3." Body markers re-cropped fresh (top/mid/bot at 4-16x): [4558] "i"
+before "tres" (6:7); [4559] "j" before "pronto" (6:8, descender
+visible); [4560] "k" before "poder" (6:9); [4561] "a" before
+"relativas" and [4562] "b" before "sinagoga" (7:1); [4563] "c" before
+"don" (7:2); [4564] "d" before "Por" (7:5, clean italic d with ascender
+loop). All 7 confirmed in place. The three page-618 misprints
+("condemaban" 6:7, "arrepintían" 6:8, "obrabran" 6:9) re-confirmed
+against fresh crops and left as printed for Session E.
+NEW ITEM found in Session B — Moroni 7:1 "constrúido". The 1920 print
+sets a small mark above the "u" of "construido" ("que habían constrúido
+para lugar de culto") — an unusual accent that fits neither modern
+"construido" nor the archaic hiatus-marked "construído" (the mark is
+over the "u", not the "i"). Per rule 36: Google OCR of page 0640 reads
+"construido" with NO accent (checked first, as required); the mark is
+also lighter/smaller than genuine same-page acutes (cf. the "í" in
+"habían" immediately before it). Treated as a stray speck / damaged
+sort — transcribed "construido" (plain), NOT logged in errors in
+1920.txt. No other changes to page_618.txt body or Block 1 from
+Session B.
+
+Session C (2026-08-30) — insert_body_text.py 618: librodm.txt
+32402→32446 (+44: 39 body lines + 1 "CAPÍTULO 7." heading + "Página
+618" + blank separators); librodm_foot.txt 4891→4899 (7 Block 1
+entries on 8 lines — 7a wraps; NO blank line / NO book header — Moroni
+chapters 6→7 same book, rule 20). Body insertion spot-checked (Página
+618 opens mid-verse with no blank line, "CAPÍTULO 7." heading intact).
+
+Session D (2026-08-30) — generate_block2.py 618: appended Block 2
+entries 4558-4564, librodm.txt 32446→(script)→then hand-fixed.
+ - WRAPPED-BLOCK-1-ENTRY BUG fired again (7a/4561 wraps to a second
+   line "10:20-23." in librodm_foot.txt — same bug seen on pages
+   611-614, 616): the script emitted a spurious trailer after 4564 —
+   a blank line, "PRIMER LIBRO DE NEFI", a blank line, and a bogus
+   "7: II Crónicas 36:16." (a duplicate of the real footnote-7
+   definition near the top of the Notas section). Removed by hand;
+   librodm.txt now ends cleanly at "4564: III Nefi 14:15-20." (32454).
+ - COMPOUND CROSS-REF resolved by hand: the script left 4563 in letter
+   form ("III Nefi 5:13; Véase j, III Nefi 5; Véase e, IV Nefi 1.") —
+   a compound entry (direct citation + two "Véase" cross-refs) it can't
+   resolve, same class as page 617's 4549. Resolved to
+   "4563: III Nefi 5:13; Véase 3485; Véase 4033." — 3485 = III Nefi 5j
+   ("Probablemente uno de los sucesores de los Doce Discípulos",
+   content-fit for "el don de mi vocación"); 4033 = IV Nefi 1e.
+ - Other cross-refs (book-aware, script-resolved): 4560→4543 (Moroni
+   3c), 4562→2046 (Alma 16u); 4558/4559/4561/4564 direct.
+Anchor↔Block-2 cross-check after the fixes: max anchor 4564 = max def
+4564; defs contiguous 1..4564, no gaps, no dupes; every anchor has a
+def. "defined but no anchor: [812]" = the documented Jacob 2:15
+omission, unchanged.
+
+Session E — orthography check (2026-08-30). Fresh pptext report
+workspace/report_wsl_20260830b.html generated (post-Session-D) and
+walked end to end. 1886 comparison done against file p.631 (Moroni 6)
+and file p.632 (Moroni 7:1-5).
+
+TRANSCRIPTION MISREAD CORRECTED — Moroni 6:8 "ó" → "é". Sessions A/B
+read the conjunction between "arrepintían," and "imploraban" as "ó"
+(or) on a heavy-ink glyph; a fresh 34x crop shows an unmistakable "e"
+(mid crossbar, open lower-right lobe), NOT a closed "o" bowl. It is
+"é imploraban" (the archaic-accented "e" = "and", the edition's house
+style for the conjunction before an "i-" word). This matches Google
+OCR of page 0640 ("é"), 1886 file p.631 ("é imploraban"), 1879 English
+("and sought forgiveness"), and modern BoM Moroni 6:8 ("y pedían
+perdón"). Corrected in pages/page_618.txt and librodm.txt. NOT a 1920
+error (1920's "é" agrees with 1886); logged here as a Session-E
+transcription fix (rule 12 track), same class as the page 442 "al/el"
+and page 504 "habéis/habeís" precedents. The same-page "ó" at 6:9
+("suplicar, ó cantar") and 7:6 ("ó una oración") were re-checked at
+34x and ARE genuine closed-bowl "ó" (= "or"), matching 1886 and modern
+BoM ("o"/"u") — no change to those.
+
+ERRORS IN 1920.TXT — five entries added (net 896→901), in Moroni
+verse/apparatus order after the existing Moroni 6:4 entry:
+ (0) Footnote Moroni 6:i — the footnote-block label "i," is MISSING
+     from the 1920 print (the entry text "Doctrinas y Convenios
+     42:80,81." begins at the paragraph indent with no superscript
+     letter; confirmed 16-22x + Google OCR). Identity as 6i is
+     nonetheless certain (body marker "i" at 6:7 present; sequence
+     h→i→j→k; 1879 Moroni 6i = "Doc. and Cov. 42:80,81" exact match).
+     This corrects page 617's Session A conclusion that "1920 carries
+     fewer footnotes here" — 1920 Moroni 6 DOES have a-k; i-k fell at
+     the top of page 618's footnote block. 1920-only apparatus defect
+     (dropped superscript sort); Block 1 label written "6i".
+ (1) Moroni 6:7 "condemaban" (condenaban) — 1920 prints "condema-"/
+     "ban" (m for n). 1886 file p.631 "condenaban"; Google OCR of page
+     0640 also "condema-ban"; RAE DLE has no "condemar" (only
+     "condenar", < Latin condemnāre); reference corpora: "condenaban"
+     attested (RV full Bible), "condemaban" 0; modern BoM Moroni 6:7
+     "eran condenados"; 1879 English "condemned". pptext-flagged
+     (Spellcheck Suspect Words). Error exclusive to 1920, not shared
+     with 1886. Preserved as printed.
+ (2) Moroni 6:8 "arrepintían" (arrepentían) — 1920 prints the
+     preterite/gerund stem "arrepint-" with an imperfect ending; the
+     imperfect of "arrepentirse" is "se arrepentían" (which the SAME
+     page prints correctly at Moroni 6:7). 1886 file p.631 ALSO prints
+     "arrepintían" (shared translation-lineage error — cf. the Helamán
+     7 encabezado "arrepiéntese" precedent). No dictionary/corpus/
+     modern-edition support for "arrepintían"; modern BoM Moroni 6:8
+     "se arrepentían". pptext-flagged (Spellcheck + Edit Distance,
+     "arrepintían(1):arrepentían(6)"). Preserved as printed.
+ (3) Moroni 6:9 "obrabran" (obraban) — 1920 prints "obrabran" (extra
+     "r"; verb would be the non-existent "obrabrar"). 1886 file p.631
+     ALSO prints "obrabran" (shared translation-lineage error). Google
+     OCR of page 0640 also "obrabran"; reference corpora: "obraban"
+     attested (RV 1909 NT), "obrabran" 0; modern BoM Moroni 6:9
+     reworded ("así se hacía"), 1879 English "so it was done".
+     pptext-flagged (Spellcheck Suspect Words). Preserved as printed.
+ (4) Heading "CAPÍTULO. 7." spurious period — 1920 page 618 prints a
+     period after "CAPÍTULO" (a solid baseline dot, same weight as the
+     final period after "7"; 26x zoom). 1886 file p.631 prints
+     "CAPÍTULO 7." with no such period, as do 1920 pages 616-617.
+     1920-only typesetting defect. The transcription NORMALIZES the
+     heading to the standard "CAPÍTULO 7." (rules 1/3), so no text is
+     affected — logged for the record only.
+
+PERMITTED WORDS.TXT — three additions (net 1279→1282), per rule 10
+(every pptext-flagged word goes on the list regardless of verdict):
+"condemaban", "arrepintían", "obrabran".
+
+NOT PROMOTED (checked, cleared):
+ - "construido" (Moroni 7:1) — Session B's rule-36 resolution stands:
+   1886 file p.632 prints "construido" plain (corroborates the mark
+   over the "u" being a stray speck); not pptext-flagged; transcription
+   "construido" is correct. No entry.
+ - "arrepentían" (Moroni 6:7) — correct standard imperfect; matches
+   1886 and modern BoM.
+ - Moroni 7:2 "el Padre y nuestro Señor Jesu Cristo" — 1886 file p.632
+   prints "el Padre DE nuestro Señor Jesu-Cristo". A translation-
+   lineage wording variant; 1920's "y" actually matches modern BoM
+   Moroni 7:2 ("el Padre, y de nuestro Señor Jesucristo") better than
+   1886's "de". Not an error; noted for the editor.
+ - "Jesu Cristo" (7:2,3) — legitimate archaic form
+   (feedback_jesu_cristo_hyphen); 1886 uses hyphenated "Jesu-Cristo".
+ - "discípulos" (7:3), "recuerdo" (7:5), "perfeccionador"-family n/a
+   — correct, matched where checkable.
+
+Narrow-space word-pairs for the editor: NONE this page.
+
+Full pptext report walkthrough (report_wsl_20260830b.html): page-618
+Spellcheck = "condemaban"/"arrepintían"/"obrabran" (handled above);
+Edit Distance = "arrepintían(1):arrepentían(6)" (same word); Short
+lines = the standing structural verse-wrap / short-Block-2-entry flood
+(incl. the wrapped "10:20-23." continuation of 4561); Dash check
+(hyphen-minus) = 4561's "21-39,40-44,45-48 / 12:3-37 / 8:14,26 /
+10:20-23" and 4564's "14:15-20" — all legitimate digit-flanked verse
+ranges (rule 23); Paragraph level "query: unexpected paragraph end" =
+page 618's last line "...si un hombre ruega, y no lo hace con" (Moroni
+7:9 continues onto page 619, not yet transcribed — structural, clears
+on integration of 619). NOTHING page-618 in repeated-word / duplicate-
+lines / ellipsis / scanno / curly-quote / special-situations / book-
+level / "full stop followed by unexpected sequence". Whole-document
+mechanical sweeps all clean: check_spaced_punctuation.py librodm.txt
+(32454), check_footnote_punctuation.py librodm_foot.txt (4899),
+check_verse_indent.py librodm.txt; anchor↔Block-2 sweep — no dup defs,
+no anchored-without-def, only "defined but no anchor: [812]" (the
+documented Jacob 2:15 omission); curly-quote scan of both master files
+zero.
+
+Net changes this session: page_618.txt body — one char ("ó"→"é",
+Moroni 6:8); librodm.txt — same one char; permitted words.txt
+1279→1282 ("condemaban", "arrepintían", "obrabran"); errors in
+1920.txt 896→901 (Footnote Moroni 6:i missing label; Moroni 6:7
+"condemaban"; 6:8 "arrepintían"; 6:9 "obrabran"; heading "CAPÍTULO. 7."
+period).

@@ -1,0 +1,346 @@
+Página 619
+verdadera y real intención de corazón, de nada le aprovecha, y
+su acto es desechado como malo; porque Dios no recibe á ninguno
+de éstos;
+10. Por lo tanto, un hombre siendo malo no puede hacer lo
+que es bueno; ni puede presentar una ofrenda agradable.
+11. Porque, he aquí, que una fuente amarga no puede producir
+agua buena; como tampoco puede una fuente buena producir
+agua amarga; así, que si un hombre es siervo del diablo, no
+puede seguir á Jesu Cristo; y si sigue á Jesu Cristo, no puede
+servir al diablo.
+12. Por lo tanto, [4565]todo lo que es bueno, viene de Dios, y todo
+lo que es malo, viene del diablo; porque el diablo es un enemigo
+de Dios, y se halla constantemente peleando en contra de Él,
+invitando é incitando constantemente á pecar, y hacer lo que
+sea malo,
+13. Pero, he aquí, que lo que es de Dios, invita é incita á hacer
+el bien constantemente; por cuyo motivo todo lo que invita é
+incita á hacer el bien y á amar á Dios, y á sirvirle es inspirado
+de Dios.
+14. Por lo tanto, tened cuidado, amados hermanos míos,
+de que [4566]no juzguéis lo que es malo como si viniera de Dios, ó
+lo que es bueno y de Dios, como si viniera del diablo.
+15. Porque, he aquí, que el juicio os es dado, mis hermanos,
+para que podáis distinguir lo bueno de lo malo; y la manera de
+juzgar es tan clara, para que lo conozcáis perfectamente, como
+la luz del día es de la obscuridad de la noche.
+16. Porque, he aquí, que el Espíritu de Cristo es dado á todo
+hombre, para que distinga el bien del mal; por lo que os mostré
+la manera de juzgar; porque [4567]todo lo que invita á hacer el bien,
+y á persuadir á creer en Cristo, es enviado por el poder y el don
+de Cristo; por lo tanto, tendréis un perfecto conocimiento, si es
+de Dios;
+17. Pero todo lo que persuada á los hombres á hacer el mal,
+y á no creer en Cristo, y negarle, y á no servir á Dios, entonces
+tendréis un perfecto conocimiento que es del diablo, porque de
+este modo es como obra el diablo, porque él nunca persuade á
+los hombres á que hagan el bien, ni á uno solo; y lo mismo hacen
+sus ángeles, y los que se le sujetan.
+18. Así pues, mis hermanos, viendo que conocéis la luz, por
+la cual habéis de juzgar, que es la luz de Cristo, cuidad que no
+[4568]juzguéis equivocamente; porque con el mismo juicio, con que
+juzguéis, seréis juzgados.
+19. Por lo tanto, os suplico que busquéis diligentemente en
+la luz de Cristo, para que podáis distinguir lo bueno de lo malo;
+
+7e, 4565: Véase o, Éther 4.
+7f, 4566: Versículo 18; III Nefi 14:2; Mormón 8:19.
+7g, 4567: Véase o, Éther 4.
+7h, 4568: Véase f.
+
+Corrections
+
+Page structure — page 619 CONTINUES the Book of Moroni and CONTINUES
+Moroni 7. It OPENS mid-verse (Moroni 7:9 continuation from page 618,
+which ended "...si un hombre ruega, y no lo hace con"), so per rule 1
+the first body line follows "Página 619" with NO blank line. Running
+header "CAP. VII.)  LIBRO DE MORONI.  619" discarded (rule 2). Page
+carries the tail of Moroni 7:9 plus verses 10-19, ending mid-verse 19
+("...para que podáis distinguir lo bueno de lo malo;" which carries to
+page 620). NO chapter heading, NO chapter subtitle, NO book-title
+header (all mid-chapter, mid-book). A centered decorative rule sits
+above the footnote divider (not transcribed). Moroni 7's footnote
+letters continue from page 618's 7d; this page runs 7e-7h, global
+sequential numbers 4565-4568.
+
+Raw line count: 44 body print lines read line-by-line from the
+top/mid/bot crops (no chapter-heading line on this page).
+
+Rule 7 — NO end-of-line hyphen splits on this page (every body line
+ends on a whole word). Rule 8 — no rebalancing needed; the longest
+output line is Moroni 7:19 line 2 "la luz de Cristo, para que podáis
+distinguir lo bueno de lo malo;" = 72 chars (exactly at the limit,
+still < 73; it read "malo ;" = 73 in the print, brought to 72 by the
+rule-31 space removal).
+
+Rule 31 — space before punctuation removed throughout (the 1920 print
+sets a space before ";" on this page consistently). Body semicolons
+de-spaced at: 7:9 "malo ;" / "éstos ;"; 7:10 "bueno ;"; 7:11
+"buena ;" / "amarga ;"; 7:11 "Jesu Cristo ;"; 7:12 "diablo ;"; 7:13
+"constantemente ;"; 7:15 "malo ;"; 7:16 "mal ;" / "juzgar ;" /
+"Cristo ;" / "Dios ;"; 7:17 "solo ;"; 7:18 "equivocamente ;"; 7:19
+"malo ;". NO colons in the body of this page. Footnote block (rules
+22/31): spaced colons removed — "14 : 2" -> "14:2"; "8 : 19" ->
+"8:19" (Google OCR of page 0641 reads this second one "8: 19",
+confirming it is a colon, not a semicolon). Footnote semicolons kept
+between whole references (rule 21): "Versículo 18; III Nefi 14:2;
+Mormón 8:19." — 1879 prints these as periods ("ver. 18. III. Nep.
+14 : 2. Mor. 8 : 19."); transcribed as 1920 prints (semicolons).
+
+Rule 6 — inter-word spacing normalized to one space throughout;
+justification double-spacing after sentence-final punctuation collapsed
+where present. NO narrow-space word-pairs found — Google OCR of page
+0641 keeps the same word boundaries as this transcription (only the
+routine word-fusion "heaquí" at 7:13, image clearly "he aquí").
+
+Footnote markers — 4 on this page (4565-4568), all in the Moroni 7
+letter run e-h:
+ - 7e = [4565] before "todo" (Moroni 7:12) — "todo lo que es bueno,
+   viene de Dios". Block 1: "Véase o, Éther 4."
+ - 7f = [4566] before "no" (Moroni 7:14) — "de que no juzguéis lo que
+   es malo como si viniera de Dios". Block 1: "Versículo 18; III Nefi
+   14:2; Mormón 8:19."
+ - 7g = [4567] before "todo" (Moroni 7:16) — "porque todo lo que
+   invita á hacer el bien". Block 1: "Véase o, Éther 4."
+ - 7h = [4568] before "juzguéis" (Moroni 7:18) — "cuidad que no
+   juzguéis equivocamente". Block 1: "Véase f."
+
+Superscript-letter checks — MANDATORY i/l/1 check (Section 8): NOT
+triggered by any letter on this page. Entry letters are e, f, g, h;
+cross-reference target letters are o, o, f — none are i, l, or 1.
+The 1920 footnote block on this page is heavily over-inked/blotchy and
+the swash entry/cross-ref letters are individually hard to read at any
+zoom, so the Section 8 "provisional alphabetical-sequence + content-fit
++ 1879 cross-check" technique was applied (the discretionary path, not
+the mandatory one):
+ - The four entries sit in strict sequence e -> f -> g -> h, continuing
+   from page 618's 7d, with exactly four body markers to match them
+   (7:12, 7:14, 7:16, 7:18).
+ - 1879 (Book of Moroni ch.7) was cropped fresh across file pp.620-621:
+   ch.7 footnotes there read "d, III. Nep. 14 : 15—20.  e, see o,
+   Ether 4.  f, ver. 18. III. Nep. 14 : 2. Mor. 8 : 19.  g, see o,
+   Ether 4.  h, see f.  i, see a. ..." — 1920's 7e-7h match 1879's
+   e-h one-for-one in target content: e & g both "see o, Ether 4",
+   f the verse-18/III Nefi 14:2/Mormón 8:19 cluster, h "see f".
+ - Cross-ref letter "o" (7e, 7g): the 1920 glyph after "Véase" is a
+   rounded blob consistent with "o"; 1879 prints an unambiguous "o" in
+   both spots. Content-fit: 7e/7g annotate "todo lo que es bueno viene
+   de Dios" / "todo lo que invita á hacer el bien... es enviado por el
+   poder y el don de Cristo" — cross-referencing Éther 4's note o
+   (which concerns the source/spirit of revelation and good things
+   from God); plausible.
+ - Cross-ref letter "f" (7h): the 1920 glyph is the same long-s/swash
+   "f" shape used as entry f's own letter; 1879 prints "see f".
+   Content-fit: 7h ("juzguéis equivocamente") points back to this same
+   chapter's note f, which is itself the "judge not" cluster (v.18,
+   III Nefi 14:2). Exact fit.
+ - Entry letter "f" (the long-s swash) vs a possible "s": ruled out —
+   the chapter has no g/h without an f before them, the sequence
+   e-f-g-h is unbroken, and 1879's f content matches.
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Moroni 7:13 "sirvirle" — the 1920 prints "y á sirvirle es inspirado
+   de Dios" where standard Spanish is "servirle" (infinitive of
+   "servir" + clitic). Zoom (mid crop, 10x) confirms "sirvirle" with
+   an "i" in the first syllable; Google OCR of page 0641 independently
+   also reads "sirvirle". Modern BoM Moroni 7:13 "a servir a Dios".
+   Session E to check 1886 file p.632 and decide (likely a 1920
+   misprint for "servirle").
+ - Moroni 7:18 "equivocamente" — the 1920 prints "juzguéis
+   equivocamente" with no accent on the "i" and the shorter stem
+   ("equivoca-" not "equivocada-"). Modern Spanish would be
+   "equivocadamente"; "equívocamente" (from adj. "equívoco") is a rarer
+   but attested form, still accented. Zoom (bot crop, 10x) confirms
+   "equivocamente" (no accent); Google OCR of page 0641 also
+   "equivocamente". Session E to check 1886 file p.632 and RAE and
+   decide.
+
+Stray-mark check (rule 36):
+ - Moroni 7:11 line "agua amarga; así, que si un hombre..." — the 1920
+   print shows a raised mid-height dot between "que" and "si"
+   ("que· si"). Per rule 36 the Google OCR was checked FIRST: Google's
+   OCR of page 0641 reads "así, que si un hombre" with NO mark at all.
+   The dot is also lighter/smaller than the genuine baseline periods
+   and semicolons elsewhere on the same line. Treated as a stray speck
+   / broken sort — transcribed "que si" (normal single space), NOT
+   logged in errors in 1920.txt.
+ - Moroni 7:12 "12. Por lo tanto, ·todo" — the mark before "todo" here
+   is the genuine footnote marker 7e (a swash "e"), not a speck; kept
+   as [4565].
+
+check_lines.py / check_spaced_punctuation.py / check_footnote_
+punctuation.py / check_verse_indent.py: run after writing this file —
+all clean in live body / Block 1 text (any hit is inside this
+Corrections log: historical quotes of already-stripped spaced
+punctuation, or a wrapped line starting with a verse number).
+check_line_wrap.py: advisory, body line count in the same range as the
+image. check_google_crosscheck.py: page 0641 Google text compared
+against the body — after ignoring the spaced-punctuation noise and the
+four dropped superscript markers, Google matches this transcription
+letter-for-letter across the whole page, including "sirvirle" (7:13),
+"equivocamente" (7:18), "obscuridad" (7:15), "conozcáis" (7:15),
+"Jesu Cristo" (7:11 x2). No candidates surfaced.
+
+Not errors (noted, no action):
+ - "Jesu Cristo" (Moroni 7:11 x2) — unhyphenated archaic form,
+   legitimate per feedback_jesu_cristo_hyphen.
+ - "obscuridad" (Moroni 7:15) — archaic form of "oscuridad", standard
+   in this edition, used consistently elsewhere.
+ - "ó" (Moroni 7:14 "de Dios, ó / lo que es bueno") — archaic accented
+   "o" (= "or"), house style.
+ - Archaic accented forms kept per rule 32: "aquí" (7:11,15,16), "á"
+   (archaic accented "to"), "intención" (7:9), "corazón" (7:9),
+   "día" (7:15), "podáis" (7:15,19), "conozcáis" (7:15), "conocéis"
+   (7:18), "habéis" (7:18), "seréis" (7:18), "mostré" (7:16),
+   "Él" (7:12, deity pronoun), "míos" (7:14), "Así" (7:18),
+   "ángeles" (7:17), "Espíritu" (7:16).
+
+Proper names on this page: "Dios" (7:9,12 x2,13 x2,14 x2,15,16,17,
+frequent), "Jesu Cristo" (7:11 x2), "Cristo" (7:16 x2, 7:17, 7:18,
+7:19), "Espíritu de Cristo" (7:16), "Él" (7:12, deity pronoun);
+Block 1: "Éther", "Nefi" / "III Nefi", "Mormón".
+
+Narrow-space word-pairs for the editor's optional double-check (rule 6
+"default to two words"): NONE this page — every word boundary in the
+1920 print is clear and Google OCR of page 0641 fused only the routine
+"he aquí" -> "heaquí" at 7:13.
+
+Session B — footnote verification (independent re-check, 2026-08-30).
+Fresh 1920 fn-block crop (6x, full width) re-read: all 4 entries
+confirmed UNCHANGED —
+  7e, 4565: "Véase o, Éther 4."   (blotchy swash entry letter "e";
+    cross-ref a rounded blob = "o")
+  7f, 4566: "Versículo 18; III Nefi 14:2; Mormón 8:19."   (entry
+    letter = long-s/swash "f"; the mark between "8" and "19" is a
+    spaced colon, not a semicolon — Google OCR of page 0641 reads
+    "8: 19" and 1879 prints "Mor. 8 : 19.", so rule 22 gives "8:19")
+  7g, 4567: "Véase o, Éther 4."   (entry letter "g" wraps from the end
+    of fn line 1; cross-ref blob = "o" at the start of line 2)
+  7h, 4568: "Véase f."   (entry letter = caret-shaped swash "h";
+    cross-ref = long-s/swash "f", same shape as 7f's own letter)
+MANDATORY i/l/1 check — NOT triggered (no i, l, or 1 in this page's
+entry letters e-h or in the cross-ref targets o/o/f). The full 1879
+cross-check was nonetheless done in Session A (fresh crops of 1879
+file pp.620-621: Book of Moroni ch.7 "e, see o, Ether 4. / f, ver. 18.
+III. Nep. 14 : 2. Mor. 8 : 19. / g, see o, Ether 4. / h, see f.") and
+matches 1920's 7e-7h one-for-one in target content — re-affirmed this
+session, no change.
+Body markers re-cropped fresh (top/mid/bot at 9-11x): [4565] swash "e"
+before "todo" (7:12); [4566] swash "f" before "no" (7:14); [4567]
+swash "g" before "todo" (7:16); [4568] caret swash "h" before
+"juzguéis" (7:18). All 4 confirmed in place. The two page-619
+preserved-as-printed items ("sirvirle" 7:13, "equivocamente" 7:18)
+re-confirmed against fresh crops and left as printed for Session E.
+No changes to page_619.txt body or Block 1 from Session B.
+
+Session C (2026-08-30) — insert_body_text.py 619: librodm.txt
+32454->32500 (+46: 44 body lines + "Página 619" + 1 blank separator);
+librodm_foot.txt 4899->4903 (4 Block 1 entries, NO blank line / NO book
+header — Moroni chapter 7 continues from page 618, rule 20). Body
+insertion spot-checked: "Página 619" opens mid-verse (Moroni 7:9
+continuation) with NO blank line after it (rule 1), page 618 ends
+"...no lo hace con" immediately above the blank separator; page 619
+body ends "...lo bueno de lo malo;" then blank line, then "Notas".
+
+Session D (2026-08-30) — generate_block2.py 619: appended Block 2
+entries 4565-4568 (librodm.txt 32500->32504). NO wrapped-Block-1-entry
+bug this run (page 619's 4 Block 1 entries all fit on one line each;
+the tail of librodm.txt ends cleanly at "4568: Véase 4566." with no
+stray "NNNN:" line and no bogus book header).
+ - Cross-refs resolved (book-aware, script): 4565 & 4567 -> 4352
+   (= "4o, 4352: Moroni 7:5-22; 10:6-7." — Éther 4's note o, whose
+   content is a RECIPROCAL cross-reference back to Moroni 7:5-22, i.e.
+   exactly the verses where markers 7e/7g sit at 7:12 and 7:16; this
+   confirms the 1920 cross-ref letter "o" independently); 4568 -> 4566
+   (= "Véase f" resolving to this same chapter's 7f). 4566 direct.
+Anchor<->Block-2 cross-check after append: max anchor 4568 = max def
+4568; defs contiguous 1..4568, no gaps, no dupes; every anchor has a
+def. "defined but no anchor: [812]" = the documented Jacob 2:15
+omission, unchanged.
+
+Session E — orthography check (2026-08-30). Fresh pptext report
+workspace/report_wsl_20260830c.html generated post-Session-D and walked
+end to end. 1886 comparison done against Moroni 7: file p.632 (vv.1-13
+opening) and file p.633 (vv.13-18).
+
+ERRORS IN 1920.TXT — two entries added (net 901->903), appended after
+the existing "Moroni 7 (encabezado)" entry (correct book/verse order —
+7:13 and 7:18 follow the chapter heading):
+ (1) Moroni 7:13 "sirvirle" (servirle) — 1920 prints the infinitive
+     with the "sirv-" stem ("y á amar á Dios, y á sirvirle es inspirado
+     de Dios"). The infinitive of "servir" is always "servirle" (RAE/
+     DPD: written with "v" without exception, "e" in the infinitive
+     stem); "sirvir"/"sirvirle" has no RAE DLE entry and ZERO hits in
+     all three reference corpora (the "sirv-" forms that DO appear —
+     "sirviendo" — are the regular vowel-raising gerund, not the
+     infinitive), vs well-attested "servirle". Zoom (pages_1920/
+     page_0641.png ~46-51%) confirms "s-i-r-v-i-r-l-e"; Google OCR of
+     page 0641 also "sirvirle". 1886 file p.633 ALSO prints "y á
+     sirvirle, es inspirado de Dios" — SHARED translation-lineage error
+     (same class as page 618's "arrepintían"/"obrabran"). Modern BoM
+     Moroni 7:13 "y a servirle". pptext-flagged (Spellcheck Suspect
+     Words + Edit Distance "sirvirle(1):servirle(7)"). Preserved as
+     printed.
+ (2) Moroni 7:18 "equivocamente" (equivocadamente) — 1920 prints
+     "cuidad que no juzguéis equivocamente", dropping the "-da-"
+     syllable of "equivocadamente" (adverb = participle "equivocado" +
+     "-mente", the form RAE DLE registers; "equivocamente" is not a
+     Spanish word — the accented "equívocamente" from adj. "equívoco"
+     exists but is a different word and is not what 1920 prints). Zoom
+     (pages_1920/page_0641.png ~83-87%) confirms "equivocamente" (no
+     accent); Google OCR of page 0641 also "equivocamente". 1886 file
+     p.633 prints the full correct "equivocadamente" — 1920-ONLY error,
+     NOT shared with 1886. Modern BoM Moroni 7:18 "juzgar
+     equivocadamente". NOT pptext-flagged (aspell missed it) — logged
+     on the 1886/modern/RAE evidence regardless (per the orthography-
+     check skill: a clean pptext section is not proof a real error
+     won't be flagged). Preserved as printed.
+
+PERMITTED WORDS.TXT — one addition (net 1282->1283): "sirvirle"
+(pptext-flagged, rule 10 — every pptext-flagged word goes on the list
+regardless of verdict). "equivocamente" is NOT added — it was never
+pptext-flagged, so a permitted-words entry would be a no-op (matches
+the "Jesu Cristo" no-op precedent in the skill).
+
+NOT PROMOTED (checked, cleared):
+ - "obscuridad" (Moroni 7:15) — archaic form of "oscuridad", used
+   consistently throughout 1920 (~25 corpus hits in librodm.txt) and
+   also in 1886 file p.633 ("obscuridad"); not pptext-flagged (already
+   in effect suppressed by frequency); house style, no entry.
+ - "Jesu Cristo" (Moroni 7:11 x2) — legitimate archaic form
+   (feedback_jesu_cristo_hyphen); 1886 file p.632 uses hyphenated
+   "Jesu-Cristo"; not an error.
+ - "que·" stray middot (Moroni 7:11, Session A stray-mark note) —
+   rule-36 resolution stands: Google OCR of page 0641 reads "que si"
+   with no mark; the dot is lighter/smaller than genuine same-line
+   punctuation. Stray speck; transcribed "que si"; NOT logged.
+ - "ó" (Moroni 7:14) — archaic accented "o" (= "or"), house style;
+   1886 file p.633 also "ó".
+
+Narrow-space word-pairs for the editor: NONE this page (Session A
+confirmed every 1920 word boundary is clear; Google OCR fused only the
+routine "he aquí" -> "heaquí").
+
+Full pptext report walkthrough (report_wsl_20260830c.html): page-619
+Spellcheck = "sirvirle" (handled above); Edit Distance =
+"sirvirle(1):servirle(7)" (same word); Short lines = the standing
+structural verse-wrap / short-Block-2-entry flood ("4565: Véase 4352.",
+etc.); Dash check (hyphen-minus) = nothing page-619 (4566 "III Nefi
+14:2; Mormón 8:19" has no hyphen; the only nearby hyphen-range is page
+618's 4564 "14:15-20", a legit rule-23 verse range). NOTHING page-619
+in repeated-word / duplicate-lines / ellipsis / scanno / curly-quote /
+special-situations / book-level / paragraph-level / Jeebies. Whole-
+document mechanical sweeps all clean: check_spaced_punctuation.py
+librodm.txt (32504), check_footnote_punctuation.py librodm_foot.txt
+(4903), check_verse_indent.py librodm.txt; anchor<->Block-2 sweep — no
+dup defs, no anchored-without-def, only "defined but no anchor: [812]"
+(the documented Jacob 2:15 omission); curly-quote scan of both master
+files zero.
+
+Net changes this session: page_619.txt body — none (both Moroni 7:13
+"sirvirle" and 7:18 "equivocamente" preserved as printed); librodm.txt
+— none; permitted words.txt 1282->1283 ("sirvirle"); errors in
+1920.txt 901->903 (Moroni 7:13 "sirvirle"; Moroni 7:18
+"equivocamente").

@@ -1,0 +1,324 @@
+Página 624
+11. Y sus niños pequeñitos no tienen necesidad de arrepentirse,
+ni de ser bautizados. He aquí, que el bautismo es para el
+arrepentimiento, para que se cumplan los mandamientos para [4604]la
+remisión de los pecados.
+12. Pero los niños pequeñitos viven en Cristo, aún [4605]desde
+la fundación del mundo; si no fuere así, Dios sería un Dios
+parcial, un Dios variable, que haría excepción de personas;
+porque, ¿cuántos niños pequeñitos han muerto sin bautismo?
+13. Por lo tanto, si los niños pequeñitos no pudieren salvarse
+sin ser bautizados, estos hubieran ido á un infierno sin fin.
+14. He aquí, que os digo, que él que supone que los niños
+pequeñitos tienen necesidad del bautismo, se halla en la hiel
+de amargura y en las ligaduras de la iniquidad; porque [4606]no tiene
+fe, ni esperanza, ni caridad; por tanto, si pereciere con este
+pensamiento, iría al [4607]infierno.
+15. Porque terrible es la iniquidad de suponer que Dios salva
+á un niño á causa del bautismo, y que otro debe perecer por no
+haberlo recibido.
+16. Ay del que pervierta de esta manera las vías del Señor,
+porque perecerá excepto que se arrepintiere. He aquí, hablo
+sin temor, porque tengo autoridad de Dios; y no temo lo que el
+hombre hiciere, porque el amor perfecto desecha todo temor;
+17. Y estoy lleno de caridad que es un amor eterno; por lo
+tanto, todos los niños son iguales ante mí, y por lo tanto amo á
+los niños pequeñitos con un perfecto amor; y todos ellos son
+iguales y [4608]participantes de la salvación.
+18. Porque yo sé que el Señor no es un Dios parcial, ni un
+Ser inconstante; sino que es [4609]invariable de [4610]eternidad en
+eternidad.
+19. Los niños pequeñitos no pueden arrepentirse; por consiguiente
+es una terrible iniquidad el negarles las puras misericordias
+de Dios, puesto que [4611]todos tienen vida en Él á causa de
+su [4612]misericordia.
+20. Y quienquiera que diga que los niños pequeñitos tienen
+necesidad de bautizarse, niega las misericordias de Cristo, y tiene
+en nada su [4613]expiación y el poder de su redención.
+21. ¡Ay de los tales! porque están en peligro de la muerte, del
+[4614]infierno y de los tormentos sin fin. Lo digo sin temor, porque
+así me lo mandó Dios. Escúchalas y haz atención á mis palabras;
+porque si no, ellas se pondrán contra ti ante el tribunal de
+Cristo.
+22. Porque, he aquí, que todos los niños pequeñitos [4615]viven en
+Cristo, como todos [4616]aquéllos que no tienen la ley. Porque el
+
+8g, 4604: III Nefi 12:2; 30:2.
+8h, 4605: Véase d, Mosíah 4.
+8i, 4606: Véase a, Moroni 7.
+8j, 4607: Véase k, I Nefi 15.
+8k, 4608: Véase m, Mosíah 3.
+8l, 4609: Véase d, Mormón 9.
+8m, 4610: Véase a, Mosíah 3.
+8n, 4611: Versículo 22.
+8o, 4612: Versículos 20,23.
+8p, 4613: Véase f, II Nefi 2.
+8q, 4614: Véase k, I Nefi 15.
+8r, 4615: Versículo 19.
+8s, 4616: Véase j, Mosíah 3.
+
+Corrections
+
+Page structure — page 624 CONTINUES the Book of Moroni and Moroni
+chapter 8, opening mid-chapter with verse 11. Page 623 ended at Moroni
+8:10 ("...con sus niños pequeñitos."), so page 624's body text begins
+immediately with "11." on the first line, no blank line after "Página
+624" and no chapter heading (rule 1). NO book header, NO chapter
+subtitle (chapter 8 already opened on page 623). Running header "624
+LIBRO DE MORONI.  (CAP. VIII." discarded (rule 2). Page 623 ended with
+the complete word "pequeñitos." — no word split across the page
+boundary (rule 10 N/A). Page 624 ENDS mid-verse 22 ("...Porque el") —
+Moroni 8:22 continues on page 625.
+
+Body: 43 print lines, matching each crop's line count.
+
+Rule 7 (hyphen-split rejoin), 5 total:
+ - v.11 "arre-/pentimiento," → "arrepentimiento,". Appended to line 2
+   ("ni de ser bautizados. He aquí, que el bautismo es para el
+   arrepentimiento,") = 74 chars ≥ 73, so rule 7/8 moves
+   "arrepentimiento," to the start of the next line.
+ - v.18 "eterni-/dad." → "eternidad.". Appended to line 27
+   ("Ser inconstante; sino que es [4609]invariable de [4610]eternidad
+   en eternidad.") = 79 chars ≥ 73, so "eternidad." moves to the start
+   of the next line (its own line, as printed).
+ - v.19 "con-/siguiente" → "consiguiente". Rejoined onto line 29
+   (65 chars) — kept at end of line.
+ - v.19 "miseri-/cordias" → "misericordias". Rejoined onto line 30
+   (61 chars) — kept at end of line.
+ - v.21 "pala-/bras;" → "palabras;". Rejoined onto line 38 (63 chars) —
+   kept at end of line.
+Rule 8: no further rebalancing (longest resulting line = v.18 line 27
+at 68 chars).
+
+Rule 31 (space before punctuation removed) — the 1920 print sets a
+space before ";" and ":" throughout this page; also one space before
+"!":
+ v.12 "mundo ;" → "mundo;", "personas ;" → "personas;"; v.14
+ "iniquidad ;" → "iniquidad;", "caridad ;" → "caridad;"; v.16 "Dios ;"
+ → "Dios;", "temor ;" → "temor;"; v.17 "eterno ;" → "eterno;",
+ "amor ;" → "amor;"; v.18 "inconstante ;" → "inconstante;"; v.19
+ "arrepentirse ;" → "arrepentirse;"; v.21 "tales !" → "tales!",
+ "pala-/bras ;" → "palabras;".
+
+Rule 6 (sentence double-spacing collapsed to a single space) — v.11
+"bautizados.  He aquí"; v.16 "arrepintiere.  He aquí"; v.21 "sin
+fin.  Lo digo", "mandó Dios.  Escúchalas"; v.22 "la ley.  Porque el".
+Also v.17 "un perfecto amor ;  y    todos ellos    son iguales" —
+justification-widened gaps normalized to single spaces (rule 6). No
+true zero-width merges on this page.
+
+Rule 24 (non-consecutive verses, comma no space) — Block 1 8o
+"Versículos 20, 23" → "Versículos 20,23" (verses 20 and 23 not
+consecutive; 1879 file p.625 also "vers. 20, 23").
+
+Rule 21/22 — Block 1 8g: 1920 prints "III Nefi 12 : 2, 30 : 2." with a
+comma between the two chapter references (1879 file p.624 prints a
+period: "g, III. Nep. 12:2. 30:2."). Normalized to a semicolon between
+whole references per rule 21 and the established "I Nefi 1:13; 3:18."
+pattern in librodm_foot.txt → "III Nefi 12:2; 30:2." Colons de-spaced
+(rule 22).
+
+v.14 "que él que supone que los niños" — 1920 prints "él" with an
+acute accent on the relative "el que" ("he that supposeth", 1879;
+modern BoM and 1886 both print unaccented "el que"). Google OCR of
+page 0646 confirms the accent is really printed. RESOLVED in Session E
+as 1920 house style, NOT an error: `grep "él que" librodm.txt` returns
+179 instances of this same accented-relative construction across the
+whole document (cf. feedback_errors_log_diligence mirror case —
+overwhelming internal consistency = house style, preserve, do not
+log). Not pptext-flagged ("él"/"que" both valid); no permitted
+words.txt entry needed. Transcribed exactly as printed; NOT added to
+errors in 1920.txt.
+
+STRAY MARK (rule 36) — v.14 "si pereciere con este": a small raised
+speck sits over/beside the second "e" of "pereciere" (could be read as
+"perecière", a grave accent — already suspect on its face, rule 36).
+Google OCR of page 0646 reads plain "pereciere" (NO accent) — Google
+is silent on the mark, so per rule 36 it is a stray speck: transcribed
+"pereciere" without any accent, NOT logged in errors in 1920.txt.
+
+STRAY INK — this page's scan carries numerous raised specks and blobs
+in the wide verse-end margins and above/below some words: a blob after
+"haberlo recibido." (v.15, where 1879 has no footnote), specks after
+"su misericordia." (v.19) and after "ante el tribunal de Cristo."
+(v.21), a speck over "todos" (v.19), specks around the 8o/8p and 8s
+entries in the footnote block. None represent type; none transcribed.
+
+v.16 "16. Ay del que pervierta de esta manera" — no opening inverted
+"¡" before "Ay" (contrast v.21 "¡Ay de los tales!"). 1879 "Wo be unto
+him". Preserved as printed.
+
+v.13 "estos hubieran ido" — demonstrative "estos" printed without an
+accent (1920 house style; noted, not an error).
+
+Footnote markers [4604]-[4616] = Moroni 8 letters g-s (13 markers = 13
+Block 1 entries):
+ 8g=[4604] "la" (8:11, "los mandamientos para la remisión de los
+ pecados"; 1879 "unto (g)the remission of sins"); 8h=[4605] "desde"
+ (8:12, "aún desde la fundación del mundo"; 1879 "even (h)from the
+ foundation"); 8i=[4606] "no" (8:14, "porque no tiene fe, ni
+ esperanza, ni caridad"; 1879 "he hath (i)neither faith, hope, nor
+ charity"); 8j=[4607] "infierno" (8:14, "iría al infierno"; 1879 "go
+ down to (j)hell"); 8k=[4608] "participantes" (8:17, "iguales y
+ participantes de la salvación"; 1879 "and (k)partakers of
+ salvation"); 8l=[4609] "invariable" (8:18, "es invariable"; 1879 "he
+ is (l)unchangeable"); 8m=[4610] "eternidad" (8:18, "de eternidad en
+ eternidad"; 1879 "from (m)all eternity" — translation word-order,
+ rule 26); 8n=[4611] "todos" (8:19, "puesto que todos tienen vida en
+ Él"; 1879 "they are (n)all alive in him"); 8o=[4612] "misericordia"
+ (8:19, "á causa de su misericordia"; 1879 "because of his (o)mercy");
+ 8p=[4613] "expiación" (8:20, "tiene en nada su expiación"; 1879
+ "setteth at nought the (p)atonement"); 8q=[4614] "infierno" (8:21,
+ "en peligro de la muerte, del infierno"; 1879 "danger of death,
+ (q)hell"); 8r=[4615] "viven" (8:22, "los niños pequeñitos viven en
+ Cristo"; 1879 "little children are (r)alive in Christ"); 8s=[4616]
+ "aquéllos" (8:22, "todos aquéllos que no tienen la ley"; 1879 "all
+ (s)they that are without the law").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — TRIGGERED on page
+624: entry letters include "i" and "l", and the 8p cross-reference
+target superscript was ambiguous (f vs j). Resolved:
+ - Entry letters g,h,i,j,k,l,m,n,o,p,q,r,s read off a fresh high-zoom
+   fn-block crop; the sequence is strictly alphabetical and matches
+   1879 file p.625's own footnote block ("h, see d, Mos. 4. / i, see
+   a, Moro. 7. / j, see k, I. Nep. 15. / k, see m, Mos. 3. / l, see d,
+   Mor. 9. / m, see a, Mos. 3. / n, ver. 22. / o, vers. 20, 23. / p,
+   see f, II. Nep. 2. / q, see k, I. Nep. 15. / r, ver. 19. / s, see
+   j, Mos. 3.") letter-for-letter. (1879 g, "III. Nep. 12:2. 30:2.",
+   is on file p.624.)
+ - 8p target: the process_page fn_zoom first suggested "Véase j, II
+   Nefi 2", but a 14x-16x crop shows an italic "f" (curved ascender +
+   left-hooking descender, NO dot), and 1879 file p.625 prints "p, see
+   f, II. Nep. 2." II Nefi 2f (#265) cites the atonement (II Nefi
+   9:7,21-22,25-26; 10:25; 25:16; ...) — content-fit for a marker on
+   "expiación". Resolved to "Véase f, II Nefi 2."
+ - 8s target: 1879 prints "s, see j, Mos. 3." and the 1920 superscript
+   shows a dotted "j"; Google OCR's "i" reading is the unreliable
+   OCR-superscript weak spot (rule 14). Mosíah 3j (#1105) back-
+   references "Moroni 8:22" — reciprocal confirmation.
+ - Reciprocal back-reference confirmations for the other "Véase"
+   targets: Mormón 9d (#4240) cites "Moroni 8:18" (8l on "invariable",
+   Moroni 8:18); Moroni 7a (#4561) cites "Moroni 8:14,26" (8i on
+   Moroni 8:14); Mosíah 3a (#1096) cites "Moroni 8:18" (8m on
+   "eternidad", Moroni 8:18); Mosíah 3m (#1108) cites "Moroni
+   8:8,12,22".
+
+Google-text cross-check (google_text_1920/page_0646.txt): the
+transcribed body text matches Google's OCR letter-for-letter except
+(a) the stray-speck spot at v.14 "pereciere" (Google also reads plain
+"pereciere"), (b) Google's dropped/garbled superscript letters in the
+body and footnote block (expected, rule 14 — it rendered the 8l marker
+as a bare "'", 8n as '"', 8p as "P"), and (c) footnote-letter noise
+(Google read the 8p target as "1" and the 8s target as "i" — both
+overridden by 1879 + zoom). v.14 "él que" cross-confirmed by Google
+(accent really printed). No transcription change from the cross-check.
+
+Session B (footnote verification) — independent re-pass:
+ - Fresh high-zoom 1920 fn-block crops (7x, three bands) re-read from
+   scratch: all 13 Block 1 entries (8g-8s) confirmed letter-for-letter,
+   UNCHANGED.
+ - Fresh 1920 body-marker read (top/mid/bot crops): all 13 [4604]-[4616]
+   markers confirmed before the correct words, UNCHANGED.
+ - Independent 1879 cross-check: Moroni 8 footnotes span 1879 file
+   p.624 (g) and file p.625 (h-s). 1879 p.624 block: "g, III. Nep.
+   12:2. 30:2." 1879 p.625 block: "h, see d, Mos. 4. / i, see a, Moro.
+   7. / j, see k, I. Nep. 15. / k, see m, Mos. 3. / l, see d, Mor. 9.
+   / m, see a, Mos. 3. / n, ver. 22. / o, vers. 20, 23. / p, see f,
+   II. Nep. 2. / q, see k, I. Nep. 15. / r, ver. 19. / s, see j, Mos.
+   3." — matches this page's 13 entries one-for-one (1920 comma in 8g
+   vs 1879 period; 8g normalized to a semicolon per rule 21).
+ - 1879 body markers (file pp.624-625) confirm every placement: (g)
+   "the remission of sins" v.11; (h) "from the foundation" v.12; (i)
+   "neither faith" v.14; (j) "down to hell" v.14; (k) "partakers of
+   salvation" v.17; (l) "unchangeable" v.18; (m) "all eternity" v.18
+   (1920 letter on "eternidad", rule 26); (n) "all alive in him" v.19;
+   (o) "his mercy" v.19; (p) "the atonement" v.20; (q) "hell" v.21;
+   (r) "alive in Christ" v.22; (s) "they that are without the law"
+   v.22.
+ - MANDATORY i/l/1 check re-run against the independent 1879 source:
+   entry letters "i" and "l" and the f-vs-j ambiguity at the 8p target
+   all resolve unambiguously off 1879's clearer type (8p = "f"; 8s =
+   "j"). Reciprocal back-references re-verified: Mormón 9d→Moroni
+   8:18, Moroni 7a→Moroni 8:14, Mosíah 3a→Moroni 8:18, Mosíah
+   3j→Moroni 8:22, Mosíah 3m→Moroni 8:8,12,22.
+ - Rule 23/24 re-checked vs 1879: 8o "20, 23" non-consecutive (1879
+   comma) → "20,23"; no consecutive-range hyphens on this page. No
+   changes this session.
+
+Session C: insert_body_text.py 624 — librodm.txt 32712→32757 (+45);
+librodm_foot.txt 4938→4951 (13 Block 1 entries appended, NO blank line
+/ NO book header — Moroni ch.8 continues within the Book of Moroni,
+rule 20). Body text landed before "Notas" with the blank-line
+separator, "Página 624" then straight into verse 11 (page opens
+mid-chapter — no blank line, no heading, rule 1).
+
+Session D: generate_block2.py 624 appended 4604-4616 (librodm.txt
+32757→32770); no unresolved warnings, no wrapped-Block-1-entry bug
+(all 13 entries one line each; Notas tail ends cleanly at "4616: Véase
+1105."). Cross-ref resolutions (book-aware): 8h→1117 (Mosíah 4d);
+8i→4561 (Moroni 7a, whose own list back-references Moroni 8:14,26);
+8j/8q→134 (I Nefi 15k); 8k→1108 (Mosíah 3m, list back-references
+Moroni 8:8,12,22); 8l→4240 (Mormón 9d, list back-references Moroni
+8:18); 8m→1096 (Mosíah 3a, list back-references Moroni 8:18); 8p→265
+(II Nefi 2f, atonement); 8s→1105 (Mosíah 3j, list back-references
+Moroni 8:22); 8g/8n/8o/8r direct. Anchor↔Block-2 after append: max
+anchor 4616 = max def 4616, contiguous 1..4616, no gaps/dupes; only
+the documented Jacob 2:15/812 gap remains defined-without-anchor.
+
+Session E: fresh full pptext report (workspace/report_wsl_20260901.html)
+regenerated and walked end to end. Every page-624 hit is structural —
+the short-lines flood (verse-boundary wrapped body lines + short
+Block-2 "Véase NNNN." entries). NO page-624 spellcheck / edit-distance
+/ repeated-word / duplicate-line / dash (no page-624 hyphens at all) /
+scanno / curly-quote / spaced-punctuation / special-situations /
+paragraph-level ("full stop followed by unexpected sequence" has no
+Moroni 8:11-22 hit) / book-level / Jeebies findings. Whole-document
+mechanical sweeps all clean: check_spaced_punctuation librodm.txt
+(32770), check_footnote_punctuation librodm_foot.txt (4951),
+check_verse_indent librodm.txt, anchor↔Block-2 (only [812]),
+curly-quote scan of librodm.txt / librodm_foot.txt / page_624.txt all
+zero.
+
+1886 comparison — Moroni 8:6-9 on 1886 file p.637, 8:9-16 on file
+p.637 bot/mid, 8:16-24 on file p.638. All of Moroni 8:11-22 compared
+word-for-word. Only routine 1886-archaic vs 1920-modern house-style
+differences (1886 "fundacion/excepcion/remision/circuncision/vias/
+concluido/aquellos" and unaccented "aun/estos" vs 1920's accented
+modern forms; 1886 drops/adds some commas). Corrections-log sweep —
+every flagged item run through the 1886 + errors-log + independent
+research check; ALL resolve as NON-errors, nothing logged:
+ (1) v.14 "él que supone" — 1886 & modern BoM both print unaccented
+ "el que", but librodm.txt carries 179 instances of 1920's accented
+ relative "él que" (feedback_errors_log_diligence mirror case:
+ overwhelming internal consistency = 1920 house style). Preserved, NOT
+ logged; not pptext-flagged, no permitted-words entry.
+ (2) v.14 "pereciere" — 1886 file p.637 prints plain "pereciere" (no
+ accent), corroborating Google's silent read; rule-36 stray speck,
+ transcribed without accent, NOT logged.
+ (3) v.13 "estos hubieran ido" — 1886 file p.637 ALSO prints
+ unaccented "estos"; not a 1920 deviation, NOT logged.
+ (4) v.16 "Ay del que pervierta" (no opening "¡") — 1886 file p.637
+ ALSO prints "Ay" with no inverted "¡" (both editions; 19th-c. Spanish
+ routinely omits it); shared, NOT a 1920-specific error, NOT logged.
+ (5) v.21 "haz atención" — 1886 file p.638 ALSO prints "haz atención"
+ (archaic "hacer atención á" construction, shared lineage); not
+ pptext-flagged; NOT logged.
+NO new permitted words.txt entries, NO new errors in 1920.txt entries.
+NO narrow-space/merge items this page (Session A found no tight
+word-pairs). NO text changes to page_624.txt body or librodm.txt this
+session.
+
+DOUBLE-SPACE CLEANUP (done this session, at the editor's request —
+separate from page 624 itself): the regenerated pptext "adjacent
+spaces check" had flagged 95 lines in librodm.txt (lines 26381-26718)
+keeping a double space after a sentence period or verse number,
+contrary to rule 6. Origin: pages 592-599 (Éther ch.8-13), integrated
+in earlier sessions. Collapsed every 2+-space run to a single space on
+those 95 librodm.txt body lines AND on the matching body text of
+pages/page_592.txt through page_599.txt (95 lines total in the page
+files, matching). Notas section was already clean; no emailed chapter
+is affected (chapters_emailed only runs through III Nefi 18).
+Verified: fresh pptext report (workspace/report_wsl_20260901b.html)
+"adjacent spaces check" now reads "no adjacent spaces found in text.";
+whole-document residual double-space scan = 0. Line-length unaffected
+(collapsing only shortens).

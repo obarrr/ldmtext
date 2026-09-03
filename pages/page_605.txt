@@ -1,0 +1,229 @@
+Página 605
+25. Tú has hecho también grandes y poderosas nuestras
+palabras, hasta el punto de que no las [4479]podamos escribir; por
+lo tanto, cuando las escribamos, vemos nuestra debilidad; y
+tropezamos al colocar nuestras palabras; y temo que los Gentiles
+se [4480]burlen de ellas.
+26. Y cuando hube dicho estas palabras, me dijo el Señor:
+Los insensatos se burlan, pero ellos se lamentarán; y mi gracia
+en sufficiente para los mansos, que no abusarán de vuestra
+debilidad;
+27. Y si los hombres vienen á mí, yo les mostraré su debilidad.
+Yo les dí debilidades, para que se humillaren; y mi gracia basta
+para los que se humillen ante mí, porque si ellos se humillan
+ante mí, y tienen fe en mí, entonces yo haré que las cosas débiles
+sean fuertes para ellos.
+28. He aquí, que mostraré á los Gentiles su debilidad, y les
+mostraré también que la fe, la esperanza y la caridad, les atraen á
+mí--fuente de toda rectitud.
+29. Y yo, Moroni, me tranquilicé, después que hube oído estas
+palabras, y dije: Oh Señor, que se haga tu justa voluntad;
+porque sé que Tú obras para los hijos de los hombres; según sea
+su fe;
+30. Porque el hermano de Jared dijo al monte de Zerín:
+Remuévate; y se [4481]removió. Y si él no hubiera tenido fe, no
+se hubiera removido; por lo que Tú obras, después que los
+hombres tengan la fe;
+31. Porque así es, como Tú mismo te manifestaste á tus discípulos.
+Porque después que tuvieron fe, y que hubieron hablado
+en tu nombre, Tú te mostraste á ellos con gran poder;
+32. Y también me acuerdo que has dicho haber preparado
+[4482]mansión para el hombre; sí, aún entre las mansiones de tu
+Padre, en las que el hombre pueda tener más excelente [4483]esperanza;
+por lo que el hombre debe esperar, ó no podrá recibir herencia en
+el lugar que Tú has preparado.
+33. Y también me acuerdo que has dicho que has amado al
+mundo, aun hasta dar tu vida por él, para que la tomes otra vez,
+á fin de preparar un lugar para los hijos de los hombres.
+34. Y ahora, conozco que este amor que Tú tienes por los hijos
+de los hombres, es la caridad; por lo que, excepto que los hombres
+tuvieren [4484]caridad, no podrán heredar este lugar que has preparado
+en las mansiones de tu Padre.
+35. Por lo tanto, sé por esta cosa que has dicho, que si los
+Gentiles no tienen caridad, á causa de nuestra debilidad, que
+Tú les pondrás á prueba, y les quitarás su talento, sí, hasta el
+
+12r, 4479: Un idioma hablado pueda ser poderoso expresando cada sombra de la
+idea; mientras que su representación escrita, pueda ser muy imperfecta,
+especialmente cuando se usan símbalos y jeroglíficos.
+12s, 4480: Versículos 23,27.
+12t, 4481: Véase c, Jacob 4.
+12u, 4482: Versículos 33-34,37; Véase m, Enos 1.
+12v, 4483: Véase b.
+12w, 4484: Versículos 35-37.
+
+Corrections
+Page does not begin mid-verse — it opens with verse 25 (verse 24 closed
+at the foot of page 604). Per rule 1 (and the page 599/600/602
+precedent), the first body line follows "Página 605" with no blank
+line, since the page opens neither on a chapter heading nor mid-verse.
+Éther chapter 12 continues from page 604 (letters a-q, footnotes to
+4478); this page carries letters r-w = footnotes 4479-4484.
+Hyphenated line-break splits rejoined (rule 7):
+ - v.31 "dis-" / "cípulos." → "discípulos." — rejoined onto the first
+   line (66 chars, under 73), so v.31's line 2 now begins "Porque
+   después que tuvieron fe...".
+ - v.34 "pre-" / "parado" → "preparado" — rejoined onto the first line
+   (70 chars, under 73), so the following line now begins "en las
+   mansiones de tu Padre.".
+Rule 31 — the 1920 print sets a space before punctuation throughout this
+page; all normalized: v.25 "escribir ; por" → "escribir; por",
+"debilidad ; y" → "debilidad; y", "palabras ; y temo" → "palabras; y
+temo"; v.26 "el Señor :" → "el Señor:", "lamentarán ; y" →
+"lamentarán; y", "debilidad ;" → "debilidad;"; v.27 "humillaren ; y" →
+"humillaren; y"; v.29 "dije : Oh" → "dije: Oh", "voluntad ;" →
+"voluntad;", "su fe ;" → "su fe;"; v.30 "monte de Zerín :" → "monte de
+Zerín:", "Remuévate ; y" → "Remuévate; y", "removido ; por" →
+"removido; por", "la fe ;" → "la fe;"; v.31 "gran poder ;" → "gran
+poder;"; v.32 "para el hombre ; sí" → "para el hombre; sí",
+"esperanza ;" → "esperanza;"; v.34 "la caridad ; por" → "la caridad;
+por". (v.29 "de los hombres; según" is already tight in the print — no
+space before the mark — kept as "hombres;".) Footnote r "idea ;
+mientras" → "idea; mientras".
+Rule 6 — sentence gaps wider than one space in the print, normalized to
+one space: v.30 "removió.  Y si" → "removió. Y si"; v.31 "discípulos.
+Porque después" (after rejoin) — the print sets a wide gap after
+"cípulos." before "Porque", normalized to one space.
+v.26 "en sufficiente" — the 1920 prints "y mi gracia en sufficiente
+para los mansos" where grammar wants "es suficiente": "en" for "es"
+(the following words are unambiguously "en", e-n, not a broken "es"),
+and "sufficiente" with a double f (ffi ligature). Both preserved as
+printed per rule 32. Google OCR (google_text_1920/page_0627.txt) also
+reads "en suffciente". 1879 file page 607 has "my grace is sufficient".
+Flagged for Session E (candidate errors-in-1920 for "en"; "sufficiente"
+double-f to be judged against 1886/RAE as archaic vs. typo).
+Footnote r "símbalos" — the 1920 prints "se usan símbalos y
+jeroglíficos"; 1879's footnote r reads "if symbols and hieroglyphics
+are used", so this is "símbalos" for "símbolos" (a for o). Preserved as
+printed per rule 32; Google OCR also reads "símbalos". Flagged for
+Session E.
+Stray marks dropped per rule 36 (both between words, grammatically
+impossible as punctuation, 1879 has neither, lighter/smaller than the
+genuine commas on the same lines):
+ - v.32 "para el hombre" — a small low speck sits between "el" and
+   "hombre". Google OCR does read a comma here ("el ,hombre"), but a
+   weight/size zoom (C:\Users\rober\AppData\Local\Temp\p605_l30.png)
+   shows it visibly smaller and lighter than the real comma in "sí,"
+   on the same line; 1879 file page 607 has plain "a house for man".
+   Transcribed "para el hombre" with no mark. Flagged for the editor.
+ - v.32 "más excelente esperanza" — an identical small low speck sits
+   between "excelente" and the [4483] superscript. Google OCR is silent
+   on this one (reads only the superscript, no comma/period), so per
+   rule 36 it is a stray speck — transcribed "excelente [4483]esperanza"
+   with no mark. Flagged for the editor.
+Body footnote markers — all six placements confirmed against 1879 file
+pages 606-607 (Éther 12, body text), matched by content per rule 26:
+ [4479]/r before "podamos" (v.25, 1879 "r" before "cannot write them");
+ [4480]/s before "burlen" (v.25, 1879 "s" before "mock at our words");
+ [4481]/t before "removió" (v.30, 1879 "t" before "it was removed");
+ [4482]/u before "mansión" (v.32, 1879 "u" before "mansions of thy
+ Father"); [4483]/v before "esperanza" (v.32, 1879 "v" before "hope");
+ [4484]/w before "caridad" (v.34, 1879 "w" before "charity").
+Mandatory i/l/1 check (Section 8): none of this page's footnote letters
+(r, s, t, u, v, w) nor the cross-reference target letters (t→c, u→m,
+v→b) are i, l or 1 — check not triggered. Target letters c, m, b were
+nonetheless all confirmed against 1879 file page 607's clean type
+("t, see c, Jacob 4." / "u, vers. 33, 34, 37. See m, Enos 1." /
+"v, see b.").
+Block 1 formatting: 12s "Versículos 23, 27." → "23,27" (rule 24,
+non-consecutive verses, comma no space). 12u "Versículos 33, 34, 37" →
+"33-34,37" (rule 23/25: 33-34 consecutive range, 37 non-consecutive) +
+"; Véase m, Enos 1." 12w "Versículos 35-37." kept as a range as
+printed. 12v "Véase b." — the 1920 prints the cross-reference with a
+superscript "b" and no book/chapter (a back-reference to letter b of
+this same chapter, Éther 12); 1879 file page 607 also reads "v, see b."
+Kept exactly as printed.
+v.28 "mí--fuente de toda rectitud" — em dash as printed (1879 "unto
+me—the fountain of all righteousness"); kept as "—".
+Raw line count: 43 body lines read directly from the top/mid/bot crops,
+matching the image before any rule 7/8 adjustment. The two rule 7
+rejoins (v.31 "discípulos.", v.34 "preparado") each fit on their first
+line (66 and 70 chars), so no words cascaded and the output stays 43
+body lines.
+check_google_crosscheck (book page 605): 2 candidates, both confirmed
+against high-zoom crops, no change:
+ - v.26 "sufficiente" — Google reads "suffciente" (dropped the "i" of
+   the ffi ligature, a known OCR weak spot); the 1920 image shows a
+   clear ffi ligature (crop p605_suf2.png). Kept "sufficiente".
+ - v.28 "mí--fuente" — Google drops the em dash (it routinely does);
+   1879 file page 607 confirms "me—the fountain". Kept "—".
+Session B: independently re-zoomed the 1920 footnote block (letters
+r-w) at 6x and re-read every Block 1 entry — 12r "Un idioma hablado
+pueda ser poderoso... símbalos y jeroglíficos." / 12s "Versículos 23,
+27." / 12t "Véase c, Jacob 4." / 12u "Versículos 33, 34, 37; Véase m,
+Enos 1." / 12v "Véase b." / 12w "Versículos 35-37." — all confirmed as
+transcribed (with the rule 23/24 verse-range reformatting for 12s and
+12u, and "símbalos" preserved per rule 32). The target superscripts
+c (12t), m (12u) and b (12v) are small but clean in the 1920 type and
+match 1879 file page 607 ("t, see c, Jacob 4." / "u, vers. 33, 34, 37.
+See m, Enos 1." / "v, see b.") by content per rule 26. All six [N]
+markers re-confirmed before their words: podamos (v.25), burlen
+(v.25), removió (v.30), mansión (v.32), esperanza (v.32), caridad
+(v.34). Mandatory i/l/1 check: no page letter (r-w) and no target
+letter (c, m, b) is i, l or 1 — not triggered. No changes.
+Session C: body text inserted into librodm.txt before Notas; 6 Block 1
+entries (8 lines, 12r wraps to 3) appended to librodm_foot.txt. No book
+boundary (Éther 12 continues).
+Session D: Block 2 appended to librodm.txt (4479-4484). Cross-references
+resolved: 4481 (12t "Véase c, Jacob 4") → 842 (Jacob 4c, faith
+examples — content-fit for "removió"); 4482 (12u "Véase m, Enos 1") →
+985 (Enos 1m, which itself cites "Éther 12:32-34" — mutual cross-check
+of marker u at v.32); 4483 (12v "Véase b", i.e. Éther 12b) → 4463
+(12b "Versículos 6,8-9,32; Moroni 7:40-44..." — the faith-hope-charity
+passage, content-fit for "esperanza", and cites v.32 — mutual check of
+marker v).
+Session E — 1886 comparison of Éther 12:25-35 (pages_1886/page_0619.png,
+printed page 601; v.25 tail on page_0618.png). Two 1920-only errors
+confirmed and logged in errors in 1920.txt (both also added to
+permitted words.txt):
+ - v.26 "en sufficiente" — 1886 prints "y mi gracia es suficiente para
+   los mansos"; modern edition (churchofjesuschrist.org, Éter 12:26)
+   "mi gracia es suficiente". 1920 deviates twice at once: "en" for
+   "es" (grammatically requires the copula; zoom crop p605_suf2.png
+   shows "en" e-n unambiguously; Google OCR agrees "en"), and
+   "sufficiente" double-f for "suficiente" (RAE has no "sufficiente";
+   0 corpus hits vs 7+ for "suficiente"; modern single-f). pptext
+   flags "sufficiente" (Spellcheck + Edit Distance
+   "sufficiente(1):suficiente(9)", report_wsl_20260827b.html). Kept as
+   printed per rule 32.
+ - footnote r (annotates v.25) "símbalos" — 1879 Pratt footnote r
+   (file page 606) reads "if symbols and hieroglyphics are used" →
+   "símbolos". "símbalos" (a for o) is not valid Spanish (RAE: only
+   "símbolo"); 0 corpus hits vs "símbolos" attested. 1886 has no
+   footnotes (no direct comparison). pptext flags it (Spellcheck +
+   Edit Distance "símbalos(1):símbolos(1)"). Kept as printed per
+   rule 32.
+Not errors: v.27 "dí" (archaic accented preterite, already in
+permitted words.txt; 1886 also "Yo les dí debilidades"); v.28
+"mí--fuente" em dash (1886 file page 619 also "atraen á mí--fuente de
+toda rectitud"); 12s/12u verse-range reformatting is rule-mechanical
+(rules 23-24), not an error. No narrow-space-vs-merge flags on this
+page.
+For the editor (stray marks, per rule 36 — Session A dropped both as
+specks): v.32 has two small low specks in the print, one between "el"
+and "hombre" (Google OCR did read it as a comma, but a weight/size
+zoom shows it lighter/smaller than the real "sí," comma on the same
+line; 1879 has plain "a house for man") and one between "excelente"
+and the [4483] marker (Google OCR silent). Both grammatically
+impossible as punctuation; transcribed without them. Worth a glance
+at the actual page.
+pptext report (workspace/report_wsl_20260827b.html) regenerated and
+walked end to end. The only page-605 findings: "sufficiente" and
+"símbalos" (Spellcheck + Edit Distance, both logged above);
+short-lines-check verse-boundary / short-Block-2-entry false positives;
+and dash-check hyphen-minus entries 4482 "Versículos 33-34,37" and
+4484 "Versículos 35-37" (legitimate digit-flanked verse ranges). No
+repeated-word, duplicate-line, ellipsis, scanno, curly-quote,
+smart-quote, special-situations, book-level, paragraph-level, "full
+stop followed by unexpected sequence", or Jeebies finding touches this
+page. Whole-document sweeps all clean: check_spaced_punctuation
+(librodm.txt), check_footnote_punctuation (librodm_foot.txt),
+check_verse_indent (librodm.txt), footnote-anchor ↔ Block 2 cross-check
+(max anchor 4484 = max def, no dupes, no anchored-without-def; only the
+long-documented 812/Jacob 2:15 defined-without-anchor gap remains),
+curly-quote character scan of both master files (zero).
+permitted words.txt: two additions ("sufficiente", "símbalos").
+errors in 1920.txt: two additions (Éther 12:25 nota r símbalos;
+Éther 12:26 "en sufficiente").
+
+[2026-09-04 em-dash normalization] The em dash(es) [mí--fuente (Éther 12:28)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.

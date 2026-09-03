@@ -1,0 +1,302 @@
+Página 623
+
+CAPÍTULO 8.
+
+1. Epístola que mi padre Mormón me escribió á mí, Moroni,
+poco después de mi llamamiento al ministerio; y de esta manera
+me escribió, diciendo:
+2. Mi amado hijo Moroni, me regocijo en extremo, de que
+tu Señor Jesu Cristo te haya tenido presente, llamándote á su
+ministerio y á su santa obra.
+3. Siempre me acuerdo de ti en mis oraciones, invocando
+sin cesar á Dios, el Padre, en el nombre de su santo Hijo Jesús,
+para que por su infinita bondad y gracia te conserve
+[4598]constantemente en la fe en su nombre hasta el fin.
+4. Y ahora, hijo mío, quiero hablarte relativamente á lo que
+me aflige en extremo, porque me aflige el que se levanten disputas
+entre vosotros.
+5. Porque si he comprendido la verdad, han habido disputas
+entre vosotros, relativamente al [4599]bautismo de vuestros niños
+pequeñitos.
+6. Y ahora, hijo mío, deseo que trabajes diligentemente para
+extirpar de entre vosotros este tosco error; porque con este
+motivo te escribo esta epístola.
+7. Porque luego después que me hube enterado de estas cosas,
+acudí al Señor para que me ilustrara sobre este punto. Y la
+palabra del Señor vino á mí por el [4600]poder del Espíritu Santo,
+diciendo:
+8. Escucha las palabras de Cristo, tu Redentor, tu Señor y tu
+Dios. He aquí, que yo no he venido al mundo para llamar á
+los justos, sino á los pecadores al arrepentimiento; los sanos no
+necesitan de médico, sino los enfermos; por lo tanto, los niños
+pequeños son puros, porque son incapaces de pecar; por consiguiente
+la maldición de Adam se les ha sido [4601]quitada en mí, de modo
+que no tiene poder sobre ellos, y la [4602]ley de la circuncisión ha
+concluida en mí.
+9. De esta manera es como el Espíritu Santo me manifestó
+la palabra de Dios; por lo tanto, amado hijo mío, sé que es una
+[4603]solemne burla ante Dios el que bautizeis á los niños pequeñitos.
+10. He aquí, os digo, que esto es lo que enseñaréis: el arrepentimiento
+y el bautismo á los que sean responsables y capaces
+de cometer el pecado; sí, enseñad á los padres que tienen que
+arrepentirse y bautizarse, humillándose á sí mismos como niños
+pequeñitos. Y entonces se salvarán todos ellos con sus niños
+pequeñitos.
+
+8a, 4598: Véase h, II Nefi 31.
+8b, 4599: Versículos 9-26.
+8c, 4600: Véase c, Moroni 3.
+8d, 4601: Véase m, Mosíah 3.
+8e, 4602: Génesis 17:9-14.
+8f, 4603: Versículos 14,23; Véase b.
+
+Corrections
+
+Page structure — page 623 CONTINUES the Book of Moroni and BEGINS
+Moroni chapter 8. Page 622 ENDED Moroni chapter 7 ("...tal como Él es
+puro. Amén."), so page 623 opens fresh: blank line after "Página 623",
+then "CAPÍTULO 8." on its own line with a blank line before and after
+(rule 3), then verse 1. NO book header in the body (the Book of Moroni
+continues — it did not restart here). NO chapter subtitle: checked the
+image directly, nothing is printed between "CAPÍTULO 8." and verse 1
+(1879/1886 print a chapter argument here; 1920 does not — house-style
+difference, not logged). Running header "CAP. VIII.)  LIBRO DE
+MORONI.  623" discarded (rule 2). Page 622 ended with the complete
+word "Amén." — no word split across the page boundary (rule 10 N/A).
+Page 623 ENDS at Moroni 8:10 ("...con sus niños pequeñitos.") with
+blank space below to the footnote divider; Moroni 8 continues on
+page 624.
+
+Body: 40 print lines (plus the "CAPÍTULO 8." heading), matching each
+crop's line count.
+
+Rule 7 (hyphen-split rejoin), 4 total:
+ - v.3 "constante-/mente" → "constantemente". Appended to line 9
+   ("para que por su infinita bondad y gracia te conserve
+   [4598]constantemente") = 73 chars ≥ 73, so rule 7/8 moves
+   "[4598]constantemente" to the start of the next line.
+ - v.4 "dis-/putas" → "disputas". Rejoined onto line 12 (66 chars) —
+   kept at end of line.
+ - v.8 "consigui-/ente" → "consiguiente". Rejoined onto line 28
+   (67 chars) — kept at end of line.
+ - v.10 "arre-/pentimiento" → "arrepentimiento". Rejoined onto line 35
+   (71 chars) — kept at end of line.
+Rule 8: no further rebalancing (longest resulting line = v.10 line 35
+at 71 chars).
+
+Rule 31 (space before punctuation removed), 10 instances — the 1920
+print sets a space before ";" and ":" throughout this page:
+ v.1 "ministerio ;" → "ministerio;", "diciendo :" → "diciendo:"; v.6
+ "error ;" → "error;"; v.7 "diciendo :" → "diciendo:"; v.8
+ "arrepentimiento ;" → "arrepentimiento;", "enfermos ;" → "enfermos;",
+ "pecar ;" → "pecar;"; v.9 "Dios ;" → "Dios;"; v.10 "enseñaréis :" →
+ "enseñaréis:", "pecado ;" → "pecado;".
+ Block 1: 8e "17 : 9-14" → "17:9-14" (rule 22); 8f "23 ;" → "23;"
+ (rule 31).
+
+Rule 24 (non-consecutive verses, comma no space) — Block 1 8f
+"Versículos 14, 23" → "Versículos 14,23" (verses 14 and 23 not
+consecutive).
+
+Rule 6: sentence double-spacing collapsed to a single space — v.7
+"punto.  Y la"; v.8 "Dios.  He aquí"; v.10 "pequeñitos.  Y entonces".
+No true zero-width merges on this page.
+
+STRAY MARK (rule 36) — v.4 "entre vosotros": a small raised speck
+sits above the inter-word gap just after the final "e" of "entre".
+Google OCR of page 0645 reads "entré" here (i.e. Google DID pick up a
+mark), BUT: (a) "entré vosotros" is grammatically impossible — the
+context ("me aflige el que se levanten disputas entre vosotros")
+requires the preposition "entre"; (b) the mark is displaced (it sits
+over the gap after the "e", not over a vowel) and is visibly
+lighter/thinner than genuine acute accents on the same page (cf.
+"Epístola"/"después", v.1, both crisp bold acutes); (c) this page's
+scan carries many stray raised specks (over "hijo" v.2, between "los
+sanos" v.8, after several sentence periods). Treated as a stray speck
+per rule 36 — transcribed "entre" (no accent), NOT logged in errors
+in 1920.txt. FLAGGED for Session E / the editor to confirm against
+the physical scan, since Google read a mark at this spot.
+
+STRAY MARK (rule 36) — v.8 "los sanos no necesitan de médico": a
+raised speck sits between "los" and "sanos". Google OCR of page 0645
+reads "los sanos" (two words, no mark). Stray speck — transcribed
+"los sanos" (two words, single space), NOT logged.
+
+SUSPECTED MISPRINT (rule 32, preserved as printed; verify Session E)
+— v.9 "bautizeis" (for the modern present-subjunctive "bauticéis" of
+"bautizar" — c before e, plus the accent). 1920 prints "bautizeis"
+(retains the z, no accent). Google OCR of page 0645 also reads
+"bautizeis". Transcribed exactly as printed; 1886 comparison +
+errors-log decision deferred to Session E.
+
+ORTHOGRAPHY (deferred to Session E) — (1) v.9 "bautizeis" (see the
+suspected-misprint note above). (2) v.8 "y la ley de la circuncisión
+ha concluida en mí" — "ha concluida": past participle after "haber"
+should be the invariable "concluido" (or the construction "está
+concluida"). Google OCR of page 0645 also reads "concluida".
+Transcribed as printed.
+
+"Jesu Cristo" (v.2, "tu Señor Jesu Cristo te haya tenido presente") —
+legitimate archaic unhyphenated form used throughout this edition
+(see feedback / prior pages), NOT an error. Google OCR confirms "Jesu
+Cristo".
+
+Footnote markers [4598]-[4603] = Moroni 8 letters a, b, c, d, e, f
+(6 markers = 6 Block 1 entries):
+ 8a=[4598] "constantemente" (8:3); 8b=[4599] "bautismo" (8:5); 8c=
+ [4600] "poder" (8:7, "poder del Espíritu Santo"); 8d=[4601]
+ "quitada" (8:8, "la maldición de Adam se les ha sido quitada"); 8e=
+ [4602] "ley" (8:8, "la ley de la circuncisión"); 8f=[4603] "solemne"
+ (8:9, "solemne burla ante Dios").
+
+MANDATORY i/l/1-class check (rule 14 / Section 8) — NOT triggered on
+page 623: entry letters a-f contain no i/l/1, and the cross-reference
+target letters (8a→h, 8c→c, 8d→m, 8f→b) contain no i/l/1. Entry
+letters read directly off a fresh 6x fn-block crop — all six
+unambiguous.
+
+1879 cross-check (Orson Pratt footnotes) — the full one-for-one
+confirmation is deferred to Session B (no i/l/1 ambiguity forces it
+now). Content-fit sanity check (Section 8 step 8) done for all 6 and
+all plausible: 8a "Véase h, II Nefi 31" on "bautismo" — II Nefi 31 is
+the baptism chapter; 8b "Versículos 9-26" on "bautismo"; 8c "Véase c,
+Moroni 3" on "poder del Espíritu Santo" — Moroni 3 is ordination "by
+the power of the Holy Ghost"; 8d "Véase m, Mosíah 3" on "la maldición
+de Adam ... quitada" — Mosíah 3 covers the Atonement and little
+children; 8e "Génesis 17:9-14" on "la ley de la circuncisión" —
+Genesis 17:9-14 is the circumcision covenant; 8f "Versículos 14, 23;
+Véase b" on "solemne burla" — Moroni 8:14 and 8:23 both concern
+mockery.
+
+Google-text cross-check (google_text_1920/page_0645.txt): the
+transcribed body text matches Google's OCR letter-for-letter except
+(a) the two stray-speck spots noted above ("entré" / the mark between
+"los sanos"), (b) Google's dropped superscript letters in the body
+and footnote block (expected, rule 14 — it rendered the 8a marker as
+a bare `"`, the 8b/8f markers as `'`), and (c) footnote-letter noise.
+check_google_crosscheck candidates resolved: v.4 "entré" → stray
+speck (see above, transcription unchanged); v.9 "bautizeis" → zoom
+confirms a "z" (matches the transcription). No transcription change
+from the cross-check.
+
+Session B (footnote verification): fresh 1920 fn-block crop (7x, full
+width) + fresh 1920 body-marker read (mid/bot crops) + an independent
+1879 cross-check (Moroni 8 = 1879 file p.624, via chapter_map).
+All 6 Block 1 entries (8a-8f) and all 6 body markers UNCHANGED.
+1879 file p.624 footnote block reads one-for-one:
+ "a, see h, II. Nep. 31. / b, vers. 9—26. / c, see c, Moro. 3. /
+ d, see m, Mos. 3. / e, Gen. 17 : 9—14. / f, vers. 14, 23. See b."
+ (1879 also has a "g, III. Nep. 12:2; 30:2" for Moroni 8:11, which
+ falls on 1920 page 624 — not this page.)
+1879 body markers on file p.624 confirm every placement: v.3 "through
+the (a)endurance of faith on his name to the end" (1920 puts the
+letter on the adverb "constantemente" — translation word-order, rule
+26); v.5 "concerning the (b)baptism of your little children"; v.7
+"came to me by the (c)power of the Holy Ghost"; v.8 "the curse of
+Adam is (d)taken from them in me", "and the (e)law of circumcision
+is done away in me"; v.9 "that it is (f)solemn mockery before God".
+MANDATORY i/l/1 check: NOT triggered — no i/l/1 in any entry letter
+(a-f) or cross-reference target (h, c, m, b); all read unambiguously
+off both the 1920 and the clearer 1879 typeface. Rule 23/24 re-checked
+against 1879: 8b "9—26" consecutive → "9-26"; 8e "9—14" consecutive →
+"9-14"; 8f "14, 23" non-consecutive (1879 comma) → "14,23". No changes
+this session.
+
+Session C: insert_body_text.py 623 — librodm.txt 32661→32706 (+45);
+librodm_foot.txt 4932→4938 (6 Block 1 entries appended, NO blank line
+/ NO book header — Moroni ch.8 continues within the Book of Moroni,
+rule 20). Body text landed before "Notas" with the blank-line
+separator, "Página 623" / blank / "CAPÍTULO 8." / blank / verse 1.
+
+Session D: generate_block2.py 623 appended 4598-4603 (librodm.txt
+32706→32712); no unresolved warnings, no wrapped-Block-1-entry bug
+(all 6 entries one line each; Notas tail ends cleanly at "4603:
+Versículos 14,23; Véase 4599."). Cross-ref resolutions (book-aware):
+8a "Véase h, II Nefi 31" → 775 (II Nefi 31h, on enduring in the faith
+to the end); 8c "Véase c, Moroni 3" → 4543 (Moroni 3c, ordination /
+Holy Ghost); 8d "Véase m, Mosíah 3" → 1108 (Mosíah 3m — whose own
+citation list back-references "Moroni 8:8", exactly where 8d sits:
+reciprocal confirmation); 8f "Véase b" → 4599 (Moroni 8b); 8b / 8e
+direct. Anchor↔Block-2 after append: max anchor 4603 = max def 4603,
+contiguous 1..4603, no gaps/dupes.
+
+Session E: fresh full pptext report (workspace/report_wsl_20260831c.html)
+regenerated and walked end to end. 1886 comparison vs Moroni 8 = file
+p.636 (heading + vv.1-6 first line) + file p.637 (vv.6-10). All of
+Moroni 8:1-10 compared word-for-word against 1886. Routine 1886-archaic
+vs 1920-modern house-style differences only (1886 "fé/mio/mios/despues/
+circuncision/Jesu-Cristo" vs 1920 modern forms; 1886 drops some commas
+1920 keeps). THREE 1920 errors found in Moroni 8, logged in errors in
+1920.txt (907→910):
+ (1) Moroni 8:5 "han habido" (ha habido) — existential/impersonal
+ "haber" pluralized to agree with "disputas"; RAE: impersonal haber is
+ always singular; same pattern as the documented Moroni 7:24 / III Nefi
+ 15:2 / III Nefi 18:13 entries; 1886 file p.636 prints "ha habido
+ dis-putas" in the SINGULAR; modern BoM "ha habido disputas entre
+ vosotros"; Google OCR page 0645 also "han habido"; NOT pptext-flagged
+ ("han"/"habido" both valid) — 1920-only error, not shared with 1886.
+ (2) Moroni 8:8 "concluida" (concluido) — participle made feminine
+ after auxiliary "haber" ("la ley de la circuncisión ha concluida");
+ RAE: participle in compound tenses with haber is invariable; 1920 uses
+ "concluido" invariable after haber everywhere else in the document and
+ reserves "concluida" for the "estar" construction; 1886 file p.637
+ prints "ha concluido en mi" (correct invariable) — 1920-ONLY error;
+ modern BoM reworded ("se ha abrogado en mí"); Google OCR page 0645
+ also "concluida"; "concluida" is a valid Spanish word so aspell does
+ not flag it — NOT added to permitted words.txt.
+ (3) Moroni 8:9 "bautizeis" (bauticéis) — "-zar" verb keeps "z" before
+ "e" (should be "c") and drops the "-éis" accent; RAE has no
+ "bautizeis"; aspell flags it standalone (not in the full report,
+ same whole-document-suppression phenomenon as pages 469-470's
+ "Poi"); 0 corpora hits; 1920 mostly uses correct "bautic-" before e
+ ("bautices", "bauticen" ×6, "bautice" ×2) with sporadic "bautiz-"
+ ("bautizen" 2 Nefi 9:23 — already logged; "bautize" Mormón 9:23);
+ 1886 file p.637 ALSO "bautizeis" (SHARED lineage error, same pattern
+ as the documented 2 Nefi 9:23 entry); modern BoM "bauticéis"; 1879
+ "baptize"; Google OCR page 0645 also "bautizeis". ADDED to permitted
+ words.txt (rule 10): net +1 (1283→1284).
+permitted words.txt: 1283→1284 ("bautizeis" only). errors in 1920.txt:
+907→910 (Moroni 8:5, 8:8, 8:9 appended in verse order — all > Moroni
+7:45, page 623 = true end of file, plain append is correct order).
+
+STRAY MARK / narrow-space items surfaced for the editor (rule 36 /
+rule 6 guidance — two-word / no-mark transcription already committed,
+listed here for a convenience check against the scan):
+ - Moroni 8:4 "entre vosotros": raised speck over the gap after "entre".
+   Google OCR reads "entré" (picked up the speck), but 1886 file p.636
+   prints "entre vosotros" plain (no accent), grammar requires the
+   preposition "entre", and the mark is lighter/displaced vs genuine
+   acutes on the page — stray speck, transcribed "entre", NOT logged.
+ - Moroni 8:8 "los sanos no necesitan de médico": raised speck between
+   "los" and "sanos"; 1886 file p.637 prints "los sanos" as two words;
+   transcribed two words, single space, NOT logged.
+
+NOT promoted: "Jesu Cristo" (8:2, legit archaic unhyphenated form; 1886
+hyphenates "Jesu-Cristo"; pptext does not flag "Jesu"). Observed but
+NOT logged (consistent with the Moroni 7:24 / error-904 policy for
+earlier unaudited pages): Éther 12:19 "Y han habido también muchos"
+in librodm.txt (line ~26908) is the same existential-haber
+pluralization on an already-integrated earlier page — surfaced only as
+a short-lines coincidence while grepping, not flagged as an error by
+any check; left as-is per the established handling of that recurring
+pattern in unaudited earlier pages.
+
+Whole-document mechanical sweeps all clean: check_spaced_punctuation.py
+librodm.txt (32712), check_footnote_punctuation.py librodm_foot.txt
+(4938), check_verse_indent.py librodm.txt, anchor↔Block-2 sweep (only
+the documented [812] Jacob 2:15 print-omission remains
+defined-without-anchor; max anchor 4603 = max def 4603, contiguous, no
+dupes), curly-quote scan of librodm.txt / librodm_foot.txt /
+page_623.txt all zero.
+
+Full pptext walkthrough: every page-623 hit is structural — the
+short-lines flood (verse-boundary wrapped body lines + short Block-2
+"Véase NNNN." entries). NO page-623 spellcheck / edit-distance /
+repeated-word / duplicate-line / dash (the only page-623 hyphens are
+digit-flanked rule-23 verse ranges "9-26"/"9-14") / scanno /
+curly-quote / spaced-punctuation / special-situations / paragraph-level
+("full stop followed by unexpected sequence" has no Moroni 8 hit) /
+book-level / Jeebies findings.
+
+NO text changes to page_623.txt or librodm.txt this session (all three
+Moroni 8 errors preserved as printed).

@@ -1,0 +1,217 @@
+Página 604
+se efectuara un cambio tan grande entre los Lamanitas, que
+fueron bautizados con fuego y con Espíritu Santo.
+15. He aquí, que fué la [4468]fe de Ammón y sus hermanos, la
+que obró tan gran milagro entre los Lamanitas:
+16. Sí, porque aun todos los que han hecho milagros, lo mismo
+antes que después de Cristo, los hicieron por medio de la fe.
+17. Fué por la fe, que los tres discípulos obtuvieron la promesa
+de que [4469]no padecieran las penas de la muerte; no obteniendo la
+promesa, hasta que tuvieron la fe.
+18. Ni en ningún tiempo nadie hizo ningún milagro que no
+fuera por medio de la fe; por lo tanto, primero creyeron en el
+Hijo de Dios.
+19. Y han habido también muchos aun antes de la venida
+de Cristo, cuya fe era tan excesivamente grande que no pudieron
+quedar sin penetrar [4470]dentro del velo, mas que realmente vieron
+por sus propios ojos, lo que antes habían visto con los ojos de
+la fe; en lo que se regocijaron.
+20. Y, he aquí, hemos visto en estos anales, que uno de estos
+hombres fué el hermano de Jared, cuya fe era tan grande en
+Dios, que cuando Dios [4471]extendió su dedo, no le pudo ocultar de
+la vista del hermano de Jared, á causa de la palabra que le había
+dado; palabra que también obtuvo por medio de la fe.
+21. Y después que el harmano de Jared hubo visto el dedo
+del Señor, á causa de la [4472]promesa que él había obtenido por la
+fe; el Señor [4473]no pudo ocultarle nada de su vista; por lo que
+le mostró todas las cosas, porque [4474]no pudo quedar más fuera del
+velo.
+22. Y es por la fe, que mis padres han obtenido la [4475]promesa
+de que estas cosas vendrán á sus hermanos por medio de los
+Gentiles; por lo tanto, el Señor me ha mandado; sí, el mismo
+Jesu Cristo.
+23. Y yo dije: Señor, los Gentiles harán [4476]burla de estas
+cosas, á causa de la debilidad de nuestra escritura. Porque Tú,
+Señor, nos has hecho poderosos en las palabras por fe, pero no
+nos has hecho poderosos en escritos; porque Tú has hecho que
+todo este pueblo pueda hablar mucho por medio del Espíritu
+Santo que les has dado;
+24. Y has hecho que nosotros podamos escribir poco, á causa
+de la [4477]torpeza de nuestras manos. He aquí, que Tú no nos has
+hecho poderosos en la escritura, como hiciste al hermano de
+Jared, porque Tú hiciste que las cosas [4478]que él escribió, fuesen
+tan poderosas como Tú eres, hasta predominar al que las lea.
+
+12g, 4468: Alma 17:29-39.
+12h, 4469: Véase d, III Nefi 28.
+12i, 4470: Véase f, Éther 3.
+12j, 4471: Véase e, Éther 3.
+12k, 4472: Éther 3:26.
+12l, 4473: Éther 3:25,26.
+12m, 4474: Véase f Éther 3.
+12n, 4475: Véase c, Enos 1.
+12o, 4476: Versículos 26-28; Véase w, Mormón 8.
+12p, 4477: Torpeza en escribir ó grabar sobre planchas en
+carácteres o jeroglíficos Egipcios.
+12q, 4478: Éther 3:27; 4:1; Sin duda el idioma en él que escribió
+el hermano de Jared fué más perfecto que cualesquiera de los
+idiomas confundidos en Babel. Véase Éther 3:22-24.
+
+Corrections
+Page begins mid-verse (Éther 12:14, continued from page 603, which
+ends "...fué la que [4467]hizo que") — first body line follows
+"Página 604" with no blank line per rule 1. No page-boundary hyphen
+split ("hizo que" / "se efectuara"), so nothing rejoined across the
+boundary (rule 10).
+No end-of-line hyphenated word splits on this page (rule 7 — nothing
+to rejoin).
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized: v.15 "Lamanitas :" → "Lamanitas:", v.17
+"muerte ; no" → "muerte; no", v.18 "la fe ; por" → "la fe; por",
+v.19 "la fe ; en" → "la fe; en", v.20 "dado ; palabra" → "dado;
+palabra", v.21 "fe ; el Señor" → "fe; el Señor" and "su vista ; por"
+→ "su vista; por", v.22 "Gentiles ; por" → "Gentiles; por" and
+"mandado ; sí" → "mandado; sí", v.23 "dije : Señor" → "dije: Señor",
+v.23 "en escritos ;porque" → "en escritos; porque" (space before the
+semicolon, none after — both fixed), v.23 "dado ;" → "dado;".
+Rule 6 — justification-widened/sentence gaps normalized to one space:
+v.23 "escritura.  Porque" → "escritura. Porque", v.24 "manos.  He
+aquí" → "manos. He aquí".
+v.21 "harmano" — the 1920 prints "el harmano de Jared" (v.21 only;
+v.20 and later in v.21 print "hermano" correctly). Google OCR
+(google_text_1920/page_0626.txt) also reads "harmano". Preserved as
+printed per rule 32; flagged for Session E (candidate errors-in-1920
+entry, Éther 12:21).
+Footnote markers (chapter 12 continues from page 603's letters a-f;
+this page carries g-q = footnotes 4468-4478). All eleven marker
+placements confirmed against 1879 (file page 606 body text, Éther 12):
+[4468]/g before "fe" (v.15, "faith of Ammon"), [4469]/h before "no"
+(v.17, "not taste of death"), [4470]/i before "dentro" (v.19, "within
+the vail"), [4471]/j before "extendió" (v.20, "put forth his
+finger"), [4472]/k before "promesa" (v.21, "the promise"), [4473]/l
+before "no" (v.21, "the Lord could not withhold"), [4474]/m before
+"no" (v.21, "he could no longer be kept"), [4475]/n before "promesa"
+(v.22, "obtained the promise"), [4476]/o before "burla" (v.23, "will
+mock"), [4477]/p before "torpeza" (v.24, "awkwardness of our hands"),
+[4478]/q before "que" (v.24, "the things which he wrote").
+Mandatory i/l/1 check (rule / Section 8): body markers i (v.19) and l
+(v.21) are both in the mandatory set. Both confirmed against 1879 file
+page 606 body text — 1879 prints a superscript "i" before "within the
+vail" (v.19) and a superscript "l" before "not withhold" (v.21), in
+the same alphabetical run g-h-i-j-k-l-m-n-o-p-q with no gaps. The
+1920 "l" superscript before "no" (v.21) is a clean dotless vertical
+stroke (zoomed) — an "i" would carry a dot. Resolved as l.
+Block 1 cross-reference letters — 1879 file page 606 gives the full
+Éther 12 footnote list h-q in clean type; matched by target content
+(rule 26): 12h "Véase d, III Nefi 28" (1879 "h, see d, III. Nep.
+28"), 12i "Véase f, Éther 3" (1879 "i, see f, Ether 3"), 12j "Véase
+e, Éther 3" (1879 "j, see e, Ether 3" — the 1920 swash target glyph
+alone is ambiguous; 1879 settles it as "e"), 12m "Véase f Éther 3"
+(1879 "m, see f, Ether 3" — 1920 omits the comma after the target
+letter; kept as printed, matching the "Véase d Mosíah 4."-style
+precedent already in librodm_foot.txt), 12n "Véase c, Enos 1" (1879
+"n, see c, Enos. 1"), 12o "Véase w, Mormón 8" (1879 "o ... See w,
+Mor. 8"; Google OCR also reads "Véase w, Mormón 8" — the 1920 glyph
+is a heavily-inked swash blob, resolved as w on the strength of both
+1879 and Google).
+Block 1 formatting: 12g — 1920 prints "Alma 17:29-39" (Google OCR
+agrees); 1879's g reads "Alma 17—29" (a chapter range) — a genuine
+edition difference, transcribed as 1920 prints it per rule 26. 12l
+"Éther 3:25,26" — 25 and 26 written with a comma in the original
+(non-consecutive style), kept as "25,26" (they are consecutive, but
+the 1879 source also prints "3:25,26" with the comma, and rule
+23's range form is not forced when the original itself commas them —
+left as printed to match 1879). 12o "Versículos 26-28" kept as a
+range as printed. 12p/12q spaced colons ("Éther 3 : 27", "4 : 1")
+normalized to "3:27"/"4:1" per rule 22; the original joins "3:27"
+and "4:1" with semicolons (1879 uses periods) — kept as semicolons
+per what 1920 prints.
+Footnote p "Egipcios" — read at high zoom as "Egipcios" (plain "i",
+no accent; my first-pass read of "Egípcios" was wrong). Google OCR
+also reads "Egipcios". Capitalised "Egipcios" (adjective of
+nationality) matches this edition's house style (cf. "Gentiles");
+kept as printed. Footnote p "carácteres" — archaic/period spelling
+with the accent, as printed; Google OCR agrees. Session E candidate
+for permitted-words.
+Footnote q — a low mark between "fué" and "más" (Google OCR reads
+"fué,más") sits below the baseline, between text rows: it is the
+descender/swash of a letter bleeding up from the line below, not a
+comma on this line. Transcribed "fué más" with no comma per rule 36.
+Narrow-space-vs-merge note for the editor (per
+feedback_narrow_space_vs_merge; committed as two words, Google +
+grammar agree): v.23 "debilidad de" — the 1920 sets the pair
+somewhat tight, but Google OCR reads two words with a space and
+grammar requires two words. Written "debilidad de" in Session A; no
+errors-log entry.
+1879 cross-check summary (file page 606, Éther 12 footnotes and
+body): 1920 letters g-q line up one-for-one with 1879 g-q. 1920's r
+(v.25's marker, 1879 "r, A spoken language...") falls on page 605.
+All 42 body lines read directly from the top/mid/bot crops; raw line
+count 42 matches the image before any rule 7/8 adjustment (no rejoins
+were needed).
+Session B: independently re-zoomed the 1920 footnote block (letters
+g-q) and re-read every Block 1 entry — 12g Alma 17:29-39 / 12h Véase
+d, III Nefi 28 / 12i Véase f, Éther 3 / 12j Véase e, Éther 3 / 12k
+Éther 3:26 / 12l Éther 3:25,26 / 12m Véase f Éther 3 / 12n Véase c,
+Enos 1 / 12o Versículos 26-28; Véase w, Mormón 8 / 12p Torpeza... /
+12q Éther 3:27; 4:1; ... — all confirmed. The j- and n-target letters
+are heavily-inked swash glyphs, genuinely hard to tell apart by shape
+alone (Section 8 swash case); both resolved from 1879's clean type on
+file page 606 (j, see e, Ether 3 / n, see c, Enos. 1), matched by
+target content per rule 26. All eleven [N] markers re-confirmed at
+high zoom before their words: fe (v.15), no (v.17), dentro (v.19),
+extendió (v.20), promesa (v.21), no (v.21), no (v.21), promesa
+(v.22), burla (v.23), torpeza (v.24), que (v.24). Mandatory i/l/1
+check re-run: body markers i (v.19) and l (v.21) both re-verified
+against 1879 file page 606 body text — 1879 sets a superscript "i"
+before "within the vail" and "l" before "not withhold", same
+gapless run g-q; the 1920 "l" glyph is a dotless vertical stroke. No
+changes.
+Session E: full 1886 comparison of Éther 12:14-24
+(pages_1886/page_0618.png, printed page 600). One 1920-only
+substantive deviation confirmed and logged:
+ - v.21 "harmano" — 1886 prints "el hermano de Jared" (correct); the
+   modern edition (churchofjesuschrist.org, Éter 12:21) uses "hermano"
+   (twice); RAE DLE has no entry for "harmano"; the reference corpora
+   have zero "harmano" in the clean texts (one OCR-noise hit in the
+   scanned full Reina-Valera) against hundreds of "hermano". Genuine
+   1920-only misprint. Added to errors in 1920.txt (Éther 12:21) and
+   permitted words.txt ("harmano"); text kept as printed per rule 32.
+   Also caught by pptext Spellcheck Suspect Words and Edit Distance
+   ("harmano(1):hermano(1)") in report_wsl_20260827.html.
+Everything else in the 1886 comparison is the usual systematic
+1886-vs-1920 variation (fé/fe, órden/orden, ántes/antes, -éron
+preterite accents, "despues"/"después") — not logged per instance.
+Not errors:
+ - footnote p "carácteres" (archaic accented plural) — already in
+   permitted words.txt (also used at footnote 1483 "carácteres
+   Nefitas"); no addition needed, no errors-log entry.
+ - footnote p "Egipcios" (capitalised, unaccented) — consistent with
+   existing document usage (Éther 3:27 "los Egipcios", 1 Nefi 1:2
+   "idioma de los Egipcios"); not flagged by pptext; kept as printed.
+ - v.22 1920 "Jesu Cristo" (unhyphenated) vs 1886 "Jesu-Cristo" — the
+   unhyphenated form is a legitimate archaic usage throughout this
+   edition (feedback_jesu_cristo_hyphen); not an error.
+Narrow-space-vs-merge flag for the editor (per
+feedback_narrow_space_vs_merge; committed as two words, 1886 + Google
++ grammar agree): Éther 12:23 "debilidad de" — 1920 sets the pair
+somewhat tight, but 1886 (page_0618, "la debilidad de nuestra
+escritura") prints normal spacing, Google OCR reads two words, and
+grammar requires two words. No change, no errors-log entry.
+pptext report (workspace/report_wsl_20260827.html) regenerated and
+walked end to end. Page-604 findings: only "harmano" (Spellcheck +
+Edit Distance, resolved above); short-lines-check consecutive
+short-Block-2-entry false positives (4462-4478); dash-check
+hyphen-minus entries 4468 "Alma 17:29-39", 4476 "Versículos 26-28",
+4478 "Éther 3:22-24" (all legitimate digit-flanked verse ranges).
+No repeated-word / duplicate-line / ellipsis / scanno / curly-quote /
+special-situations / book-level / paragraph-level / "full stop
+followed by unexpected sequence" hit touches this page. Smart Quote
+Scan, Jeebies, book level checks all clean. Whole-document sweeps
+(check_spaced_punctuation, check_footnote_punctuation,
+check_verse_indent, footnote-anchor/Block-2 cross-check [max anchor
+now 4478, all defined, no dupes], curly-quote character scan of both
+master files) all re-ran clean — only the long-documented Jacob
+2:15/812 gap remains.
+permitted words.txt: one addition ("harmano"). errors in 1920.txt:
+one addition (Éther 12:21 harmano).

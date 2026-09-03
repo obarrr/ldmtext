@@ -1,0 +1,339 @@
+Página 616
+
+CAPÍTULO 3.
+
+1. La manera por la que los [4541]dicípulos, que fueron llamados
+Élderes de la Iglesia, [4542]ordenaron Presbíteros y Maestros.
+2. Después de haber orado al Padre en el nombre de Cristo,
+les imponían las manos y dijeron:
+3. En el nombre de Jesu Cristo, yo te ordeno Presbítero;
+(ó si es para Maestro,) yo te ordeno Maestro para predicar el
+arrepentimiento y la remisión de pecados mediante Jesu Cristo,
+y por la perserverancia de fe en su nombre hasta el fin. Amén.
+4. Y de este modo ordenaron Presbíteros y Masetros, según
+los dones y vocación de Dios para los hombres; y les ordenaron
+por medio del [4543]poder del Espíritu Santo que residía en ellos.
+
+CAPÍTULO 4.
+
+1. Manera para administrar la [4544]carne y sangre de Jesu Cristo
+á la iglesia por sus [4545]Élderes y Presbíteros. Lo que hicieron
+según los mandamientos de Jesu Cristo; por lo tanto sabemos
+que la manera es correcta; y el Élder ó el Presbítero lo administró.
+2. Y [4546]arrodillándose con la iglesia, rogaron al Padre en el
+nombre de Cristo, diciendo:
+3. Oh Dios, Padre Eterno, en el nombre de Jesu Cristo, tu
+Hijo, te pedimos que bendigas y santifiques este pan para las
+almas de todos los que participen de él, para que lo coman en
+memoria del [4547]cuerpo de tu Hijo, y den testimonio ante Ti, oh
+Dios, Padre Eterno, que desean llevar sobre sí el [4548]nombre de
+tu Hijo, y recordarle siempre, y guardar sus mandamientos que
+Él les ha dado, para que siempre tengan su Espíritu consigo.
+Amén.
+
+3a, 4541: Versículos 2-4; Véase c, Mosíah 6.
+3b, 4542: Véase c, III Nefi 12:1.
+3c, 4543: I Nefi 13:37; Moroni 6:9.
+4a, 4544: Véase t, III Nefi 18.
+4b, 4545: Versículo 1; Moroni 3:1.
+4c, 4546: Doctrinas y Convenios 20:76.
+4d, 4547: Véase t, III Nefi 18.
+4e, 4548: Véase e, Mosíah 5.
+
+Corrections
+
+Page structure — page 616 continues the Book of Moroni (opened on page
+615; Éther ended on page 614). It does NOT open a new book, so there is
+NO "EL LIBRO DE MORONI" body header on this page. Page 615 ended with
+Moroni 2:3 ("...impusieron sus manos."), completing Moroni 2, so page
+616 OPENS with a chapter heading ("CAPÍTULO 3.") — per rule 1 a blank
+line separates "Página 616" from the heading. Running header
+"616  LIBRO DE MORONI.  (CAP. III, IV." discarded (rule 2). Two
+complete chapters on this page: Moroni 3 (vv.1-4) and Moroni 4 (vv.1-3).
+A centered decorative rule sits before "CAPÍTULO 3." (after page 615's
+Moroni 2), between Moroni 3 v.4 and "CAPÍTULO 4.", and after Moroni 4
+v.3 (before the footnote divider) — none transcribed. Moroni 4's
+footnote letters restart at 4a; the global sequential number continues
+from page 615's 4540, so this page runs 4541-4548.
+
+Raw line count: 25 body print lines read line-by-line from the
+top/mid/bot crops (11 for Moroni 3 + 14 for Moroni 4), plus the two
+"CAPÍTULO N." heading lines. No end-of-line hyphen splits anywhere on
+the page (rule 7 N/A). check_lines.py clean.
+
+Rule 8 rebalance — one line: image line "Dios, Padre Eterno, que desean
+llevar sobre sí el [4548]nombre de tu" comes to 74 chars with the
+marker inserted; last word "tu" moved to the start of the next line
+("tu Hijo, y recordarle siempre, y guardar sus mandamientos que" = 61
+chars). "Dios, Padre Eterno, ... el [4548]nombre de" = 71 chars.
+
+Rule 31 — space before punctuation removed (the 1920 print sets a space
+before ";" and ":" throughout this page). Body text: Moroni 3:2
+"dijeron :", Moroni 3:3 "Presbítero ;", Moroni 3:4 "hombres ;";
+Moroni 4:1 "Cristo ;" and "correcta ;", Moroni 4:2 "diciendo :".
+Footnote block rules 22/31 — spaced colons and spaced
+semicolons removed: "Versículos 2-4 ; Véase c, Mosíah 6." →
+"Versículos 2-4; Véase c, Mosíah 6." (3a); "III Nefi 12 : 1." →
+"III Nefi 12:1." (3b); "I Nefi 13 : 37 ; Moroni 6 : 9." →
+"I Nefi 13:37; Moroni 6:9." (3c); "Versículo 1 ; Moroni 3 : 1." →
+"Versículo 1; Moroni 3:1." (4b); "Con-venios 20 : 76." →
+"Doctrinas y Convenios 20:76." (4c).
+
+Rule 6 — inter-word spacing normalized to one space throughout;
+justification double-spacing after sentence-final punctuation collapsed
+where present (Moroni 3:3 "fin. Amén.", Moroni 4:1 "hicieron. Lo" and
+"Presbíteros. Lo"). No narrow-space word-pairs identified on this page:
+Google's OCR of page 0638 preserves the same word boundaries as this
+transcription, with no fused pairs to surface for the editor.
+
+Google-text cross-check — check_google_crosscheck.py cannot auto-parse
+this page (its body_lines() stops at the blank line that rule 1 puts
+between "Página 616" and the opening "CAPÍTULO 3." heading, so it sees
+zero body chars; same limitation would apply to page 615). Comparison
+done manually instead against google_text_1920/page_0638.txt: after
+ignoring word-fusion and superscript noise, Google's OCR matches this
+transcription letter-for-letter, INCLUDING every flagged form —
+"dicípulos" (Moroni 3:1), "perserverancia" (3:3), "Masetros" (3:4),
+"residía" (3:4) — and Google's "¿El" at the Moroni 4:3 anomaly spot
+(it saw a mark but could not read it as a letter). Google's
+footnote-block OCR is partial/garbled but its five Moroni 4 entry-letters
+(a,b,c,d,e) and its inability to resolve the "Véase t" cross-ref letter
+(rendered "'") are both consistent with the readings above.
+
+Footnote markers — 8 on this page (4541-4548):
+ - 3a = [4541] before "dicípulos" (Moroni 3:1) — "los dicípulos, que
+   fueron llamados Élderes". Block 1: "Versículos 2-4; Véase c,
+   Mosíah 6."
+ - 3b = [4542] before "ordenaron" (Moroni 3:1) — "ordenaron Presbíteros
+   y Maestros". Block 1: "Véase c, III Nefi 12:1."
+ - 3c = [4543] before "poder" (Moroni 3:4) — "por medio del poder del
+   Espíritu Santo". Block 1: "I Nefi 13:37; Moroni 6:9."
+ - 4a = [4544] before "carne" (Moroni 4:1) — "administrar la carne y
+   sangre de Jesu Cristo". Block 1: "Véase t, III Nefi 18."
+ - 4b = [4545] before "Élderes" (Moroni 4:1) — "por sus Élderes y
+   Presbíteros". Block 1: "Versículo 1; Moroni 3:1."
+ - 4c = [4546] before "arrodillándose" (Moroni 4:2) — "Y arrodillándose
+   con la iglesia". Block 1: "Doctrinas y Convenios 20:76."
+ - 4d = [4547] before "cuerpo" (Moroni 4:3) — "en memoria del cuerpo de
+   tu Hijo". Block 1: "Véase t, III Nefi 18."
+ - 4e = [4548] before "nombre" (Moroni 4:3) — "llevar sobre sí el
+   nombre de tu Hijo". Block 1: "Véase e, Mosíah 5."
+
+ANOMALY — spurious superscript "d" before "Él" in Moroni 4:3
+(1920 printing error, preserved by NOT inserting a marker; flagged for
+Session E → errors in 1920.txt). The 1920 image prints a well-formed
+superscript "d" immediately before "Él" in "...guardar sus
+mandamientos que [d]Él les ha dado..." (Moroni 4:3), a THIRD superscript
+in that verse after the two at "cuerpo" and "nombre". But Moroni 4's
+footnote block has exactly five entries (a-e), ALL accounted for at
+carne / Élderes / arrodillándose / cuerpo / nombre; there is no
+footnote "f" and "d" is already used at "cuerpo". The 1879 English
+(file p.618, Moroni ch.4) has NO footnote marker at the corresponding
+position ("...keep his commandments which he hath given them...") — its
+Moroni 4 markers are exactly a=Elders, b=flesh, c=kneel, d=body,
+e=name. So the "d" before "Él" is an extraneous/misplaced superscript
+in the 1920 setting with no corresponding footnote. It is documented
+here rather than rendered as a bracketed marker (there is no footnote
+number to assign it). Google's OCR (google_text_1920/page_0638.txt)
+also registers a mark at this spot but could not resolve it to a letter
+(rendered it "¿El"), consistent with an anomalous mark. Zoom
+(pages_1920/page_0638.png ~72% down, ~7% across, 20-26x) shows an
+unambiguous superscript "d" (bowl + tall ascender), not a speck.
+
+Footnote cross-reference letter "t" (Moroni 4a and 4d) — discretionary
+1879 cross-check performed (t vs f is genuinely ambiguous at a glance;
+not in the mandatory i/l/1 set, but checked anyway). 1879 file p.618
+(Book of Moroni, ch.4 footnote block) prints "b, see t, III. Nep. 18."
+and "d, see t, III. Nep. 18." in a clean italic typeface — the letter
+is SHORT (top barely above x-height, small crossbar, curled foot, no
+descender) = italic "t", not "f" (an italic "f" would tower to ascender
+height and dip below the baseline). 1879 Moroni 5a on the same page
+also reads "see t, III. Nep. 18." The 1920 letter (zoomed at 22x, both
+4a and 4d) is likewise a short crossbarred italic letter, clearly
+shorter than the "f" in the adjacent "Nefi" — "t". Transcribed "Véase
+t, III Nefi 18." in both entries. NOTE for Session E: content-fit would
+MILDLY favor "f" — III Nefi 18f (already transcribed: "Versículo 11;
+Moroni 4:3; 5:2.") reciprocally cites Moroni 4:3, a clean reciprocal
+cross-reference, whereas III Nefi 18t ("Versículos 29, 30; III Nefi
+20:8; Mormón 9:29.") is a looser fit. But BOTH independent editions
+visually print "t", so rule 32 governs: transcribed as printed ("t"),
+with this note left for the editor.
+
+Cross-reference letters (Moroni 3) — 3a "Véase c, Mosíah 6" and 3b
+"Véase c, III Nefi 12:1": both lowercase "c" (round open glyph), not
+i/l/1, so no mandatory check; 1879 file p.617 (Moroni 3 footnote block)
+corroborates — it prints "a, see c, III. Nep. 12:1." and "b, vers.
+2—4. See c, Mos. 6." (1879's Moroni 3 has only two footnotes; 1920's
+3a/3b are swapped in order vs 1879 — a translation word-order artifact,
+rule 26, matched by content — and 1920 adds a third, 3c "I Nefi
+13:37; Moroni 6:9.", with no 1879 equivalent). Cross-reference letter
+4e "Véase e, Mosíah 5" — 1879 file p.618 prints "e, see e, Mos. 5."
+(matches).
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Moroni 3:1 "dicípulos" — printed "dicípulos" for "discípulos"
+   (missing the first "s"). Google OCR also reads "dicípulos". Page 615
+   (Moroni 2:1) printed "discípulos" correctly, so this is inconsistent
+   within the same book. Session E to check 1886 (file p.629) and
+   decide (likely a genuine 1920 misprint).
+ - Moroni 3:3 "perserverancia" — printed "perserverancia" for
+   "perseverancia" (spurious extra "er"). Google OCR also reads
+   "perserverancia". Session E to check 1886 and decide (likely a
+   genuine 1920 misprint).
+ - Moroni 3:4 "Masetros" — printed "Masetros" for "Maestros"
+   (transposed "et"/"es"). The SAME word is printed correctly as
+   "Maestros" two lines earlier in Moroni 3:1. Google OCR also reads
+   "Masetros". Session E to check 1886 and decide (likely a genuine
+   1920 misprint).
+ - Moroni 4:3 spurious superscript "d" before "Él" — see the ANOMALY
+   note above. Session E to add to errors in 1920.txt.
+ - "Élderes" / "Élder" (Moroni 3:1; Moroni 4:1 ×2) — the 1920
+   transliteration of "Elders/Elder", printed with a capital É and an
+   acute accent, used consistently. Not an error (BoM-specific term).
+   Google OCR dropped the accent once ("Elder", Moroni 4:1) but the
+   image clearly shows "Élder"; transcribed with the accent as printed.
+ - "residía" (Moroni 3:4, "que residía en ellos") — correct Spanish
+   imperfect of "residir"; the 1920 rendering of 1879's "which was in
+   them". Not an error.
+ - Archaic accented forms kept per rule 32: "Después" (Moroni 3:2),
+   "imponían" (3:2), "remisión" (3:3), "vocación" (3:4), "administrar"
+   no — "administró" (4:1), "iglesia", "mandamientos", "según" (3:4;
+   4:1), "á"/"ó" (archaic accented "to"/"or"), "aquí" no, "Espíritu"
+   (3:4; 4:3), "Padre" (4:2,3), "Jesu Cristo" (unhyphenated archaic
+   form, appears 4× — Moroni 3:3 ×2, 4:1 ×2, plus 3:3 — legitimate
+   per feedback_jesu_cristo_hyphen), "santifiques" (4:3), "él" (4:3,
+   pronoun), "Ti" (4:3, accented pronoun), "sí" (4:3).
+
+Proper names on this page: "Cristo" (Moroni 3:2; 4:2), "Jesu Cristo"
+(Moroni 3:3 ×2, 3:3; 4:1 ×2, 4:3), "Espíritu Santo" (Moroni 3:4),
+"Dios" (Moroni 3:4; 4:3 ×2), "Élderes"/"Élder" (Moroni 3:1; 4:1),
+"Mosíah" (Block 1 3a, 4e), "Nefi" / "I Nefi" / "III Nefi" (Block 1),
+"Moroni" (Block 1 3c, 4b).
+
+Session B — footnote verification (independent re-check, 2026-08-29).
+Fresh 1920 fn-block crop (6x, full width) re-read: all 8 entries
+confirmed unchanged — Moroni 3: "3a, 4541: Versículos 2-4; Véase c,
+Mosíah 6." / "3b, 4542: Véase c, III Nefi 12:1." / "3c, 4543: I Nefi
+13:37; Moroni 6:9." — Moroni 4: "4a, 4544: Véase t, III Nefi 18." /
+"4b, 4545: Versículo 1; Moroni 3:1." / "4c, 4546: Doctrinas y Convenios
+20:76." / "4d, 4547: Véase t, III Nefi 18." / "4e, 4548: Véase e,
+Mosíah 5." The 1920 fn prints spaced colons/semicolons ("Versículos
+2-4 ; ...", "III Nefi 12 : 1.", "13 : 37 ; Moroni 6 : 9.", "Versículo
+1 ; Moroni 3 : 1.", "20 : 76.") — rules 22/31 strip the spaces.
+Entry-letters run in clean sequence (3: a,b,c; 4: a,b,c,d,e).
+MANDATORY i/l/1 check: NOT triggered — every entry-letter (a,b,c / a,b,
+c,d,e) and every cross-reference target ("Véase c" ×2, "Véase t" ×2,
+"Véase e" ×1) is a/b/c/d/e/t; none is i, l or 1.
+Discretionary "t" re-check (Moroni 4a/4d) — fresh crop of
+pages_1879/page_0618.png footnote block (7x): 1879 prints "b, see t,
+III. Nep. 18." and "d, see t, III. Nep. 18." (and Moroni 5a "see t")
+in clean italic — a SHORT crossbarred letter (x-height + tiny bit, no
+descender) = italic "t", not "f". 1920's cross-ref letter matches
+(short, crossbarred, shorter than the adjacent "Nefi" f). Confirmed
+"Véase t, III Nefi 18." in both entries.
+Body markers re-cropped fresh: [4541] before "dicípulos" (Moroni 3:1),
+[4542] before "ordenaron" (3:1), [4543] before "poder" (3:4), [4544]
+before "carne" (4:1), [4545] before "Élderes" (4:1), [4546] before
+"arrodillándose" (4:2), [4547] before "cuerpo" (4:3), [4548] before
+"nombre" (4:3). The spurious superscript "d" before "Él" in Moroni 4:3
+re-confirmed present in the fresh crop (unmistakable "d", bowl +
+ascender), still with no corresponding footnote — left unrendered and
+flagged for Session E (see the ANOMALY note above). 1879 body (file
+p.618, Moroni ch.4) re-checked: markers only at a=Elders, b=flesh,
+c=kneel, d=body, e=name — none at "which he hath given them". No
+changes to page_616.txt body or Block 1 from Session B.
+
+Session C — page 616 body inserted into librodm.txt before "Notas"
+(32312→32345, +33: 25 body lines + 2 "CAPÍTULO N." headings + 5 blank
+lines + "Página 616" + blank separator); 8 Block 1 entries appended to
+librodm_foot.txt (4874→4882) with NO book-boundary header and NO blank
+lines — page 616 stays within the Book of Moroni (chapters 2→3→4, same
+book, rule 20). Session D — 9 Block 2 entries emitted by
+generate_block2.py, ONE of them the known spurious wrapped-Block-1-entry
+duplicate ("4545: Versículo 1; Moroni 3:1." re-appended after the real
+4548) — removed by hand; librodm.txt ends correctly at 4548
+(32345→32354→32353). Cross-refs resolved (all book-aware): 4541 "Véase
+c, Mosíah 6" → 1141 (Mosíah 6c); 4542 "Véase c, III Nefi 12:1" → 3664
+(III Nefi 12c — same target as page 615's 4537); 4544 & 4547 "Véase t,
+III Nefi 18" → 3773 (III Nefi 18t, "Versículos 29, 30; III Nefi 20:8;
+Mormón 9:29." — the "t" reading confirmed in Sessions A/B); 4548 "Véase
+e, Mosíah 5" → 1131 (Mosíah 5e). 4543/4545/4546 are direct references,
+no cross-ref. Whole-document anchor↔Block-2 cross-check after the fix:
+max anchor 4548 = max def 4548, defs contiguous 1..4548, no dupes, no
+anchored-without-def; only the long-documented Jacob 2:15/812
+defined-without-anchor gap remains.
+
+Session E — orthography check (2026-08-29). Fresh pptext report
+report_wsl_20260829i.html generated and walked end-to-end. Page-616
+Spellcheck Suspect Words: "dicípulos" (Moroni 3:1) and "perserverancia"
+(Moroni 3:3); Edit Distance: "dicípulos(1):discípulos(1)" (same finding)
+and "Élder" (Moroni 4:1 — established BoM term, benign). All other
+page-616 lines in the report are the structural short-lines flood
+(verse-final lines + short Block 2 entries) and the legitimate
+verse-range hyphen "2-4" in 4541's dash-check line. Footnote check,
+scanno ("no suspected scannos"), curly-quote ("no curly quote
+suspects"), repeated-word, duplicate-line, paragraph-level and Jeebies
+("no errors") sections: nothing for page 616. Whole-document sweeps all
+clean: check_spaced_punctuation.py librodm.txt (32353),
+check_footnote_punctuation.py librodm_foot.txt (4882),
+check_verse_indent.py librodm.txt, curly-quote scan of both master files
+(zero), footnote-anchor↔Block-2 cross-check (contiguous 1..4548, no
+dupes; only the documented Jacob 2:15/812 gap).
+
+Five entries added to errors in 1920.txt (890→895 lines):
+ - Moroni 3:1 "dicípulos" (discípulos) — missing first "s". 1886 has a
+   different wording for this verse (no "discípulos") but prints
+   "discipulos" with the "s" in the neighbouring Moroni 2:1,3; 1920
+   uses "discípulos" everywhere else (65 corpus hits, 0 for "dicípulos";
+   RAE only "discípulo"); modern BoM "discípulos". GENUINE 1920 error.
+ - Moroni 3:3 "perserverancia" (perseverancia) — spurious extra "er".
+   1886 (file p.630) prints "perseverancia"; RAE only "perseverancia";
+   0 corpus hits for "perserverancia"; modern BoM "perseverancia".
+   GENUINE 1920 error.
+ - Moroni 3:4 "Masetros" (Maestros) — "e"/"s" transposed; the same
+   verse's own line 1 prints "Maestros" correctly. 1886 (file p.630)
+   prints "Maestros"; 0 corpus hits; modern BoM "maestros". Same
+   pattern as Mormón 8:28/8:38. Not pptext-flagged (suppressed by
+   "masetros" already in permitted words.txt from page 571). GENUINE
+   1920 error.
+ - Footnote Moroni 4:3 — spurious superscript "d" before "Él" (see the
+   ANOMALY / Session B notes above). No corresponding footnote (Moroni
+   4 has only a-e, all placed elsewhere); 1879 has no marker at this
+   position. GENUINE 1920 error; not rendered as a marker in the body.
+ - Mormón 8:38 "masetros" (maestros) — PRE-EXISTING GAP surfaced by
+   this run's pptext report (librodm.txt line ~25525). Page 572's
+   Session E Corrections log states it checked this against 1886 (which
+   prints "maestros") and "logged in errors in 1920.txt", but the entry
+   was never actually added. Added now, inserted before the Mormón 8:40
+   entry to keep verse order. No text change (already preserved as
+   printed in pages 572/librodm.txt).
+
+permitted words.txt: +2 (1276→1278) — "dicípulos" and "perserverancia"
+(both pptext-flagged this run, added per rule 10 regardless of verdict).
+"Masetros"/"masetros" already present (from page 571); the Moroni 4:3
+marker anomaly is not a word, no entry.
+
+NOT logged (checked and cleared):
+ - Moroni 3:4 "residía" — 1886 (file p.630) also prints "residía";
+   correct Spanish imperfect of "residir"; used correctly elsewhere in
+   librodm.txt (e.g. Éther 12:6). Not an error.
+ - "Élderes"/"Élder" (Moroni 3:1; 4:1) — 1886 (file p.630) also prints
+   "Élderes"/"Élder"; established BoM transliteration, consistent. Not
+   an error.
+ - Cross-reference letter "t" in Moroni 4a/4d ("Véase t, III Nefi 18")
+   — content-fit would mildly favour "f" (III Nefi 18f reciprocally
+   cites Moroni 4:3), but BOTH 1920 and 1879 (file p.618, three times:
+   4b, 4d, 5a) visually print a short crossbarred italic "t", so rule
+   32 governs — transcribed "t", NOT logged as an error (cross-edition
+   consistent). Surfaced here for the editor's awareness only.
+ - Accent differences from 1886 that are 1920 house style, NOT logged:
+   Moroni 4:2 1920 "los cuáles" vs 1886 "los cuales" (1886 also, at
+   Moroni 2:2 on file p.629) — 1920 accents relative pronouns
+   document-wide; Moroni 4:3 1920 "aquél"/"quién" vs 1886 unaccented
+   "aquel"/"quien"; Moroni 3:2 "Después" vs 1886 "Despues", etc. (1886
+   systematically drops many accents — established, hundreds of cases).
+
+Narrow-space word-pairs for the editor's optional double-check: NONE on
+this page — Google's OCR of page 0638 preserves the same word
+boundaries as this transcription, with no fused pairs.

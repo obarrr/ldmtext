@@ -1,0 +1,261 @@
+Página 608
+[4506]resto de estas memorias, presenciando por la noche las
+destrucciones que cayeron sobre el pueblo.
+15. Y sucedió que en el mismo año en que fué echado de entre
+el pueblo, empezó á haber una guerra muy grande entre el pueblo,
+porque hubieron muchos que se levantaron, y eran hombres poderosos,
+que trataron de destruir á Coriántumr por medio de sus
+[4507]secretos planes de iniquidad, de que ya se ha hablado.
+16. Y ahora Coriántumr, habiéndose instruido en todas las
+artes de la guerra, y en todas las astucias del mundo, combatió
+á estos hombres, que trataban de destruirle.
+17. Pero no se arrepintió ni tampoco lo hicieron sus bellos
+hijos é hijas ni los bellos hijos é hijas de Cohor; ni los bellos
+hijos é hijas de Corihor; y en resumen no hubo ninguno de los
+bellos hijos é hijas que existían en todo el país, que se arrepintieran
+de sus pecados;
+18. Por lo tanto, vino á suceder que en el primer año en que
+vivió Éther en la [4508]cavidad de la roca, murió mucha gente por
+la espada de aquellas [4509]secretas combinaciones que peleaban
+contra Coriántumr, para obtener el reino.
+19. Y sucedió, que los hijos de Coriántumr pelearon mucho,
+y desangraron mucho.
+20. En el segundo año la palabra del Señor vino á Éther, para
+que se fuere y profetizare á Coriántumr que, si se arrepintiere,
+y lo mismo toda su familia, el Señor le daría el reino, y preservaría
+al pueblo.
+21. De otro modo les destruiría, y también á todos los de su
+casa, y él solo quedaría con vida, para que pudiere presenciar el
+cumplimiento de las profecias, que habían sido dadas relativamente
+á [4510]otro pueblo que recibiría el país para su herencia; los
+cuales darían sepultura á Coriántumr; y toda alma [4511]perecería,
+á excepción de Coriántumr.
+22. Y sucedió, que Coriántumr no se arrepintió, ni tampoco
+los de su casa, ni los de su pueblo; por lo que continuaron la
+guerra; é intentaron á matar á Éther, pero éste huyó delante
+de ellos, ocultándose otra vez en la [4512]cavidad de la roca.
+23. Y sucedió, que levantándose después Shared, dió también
+la batalla en contra de Coriántumr, al que derrotó de tal modo
+que en el tercer año le llevó al cautiverio.
+24. Y en el cuarto año los hijos de Coriántumr batieron á
+Shared, y conquistaron el reino otra vez para su padre.
+25. Ahora, vino á extenderse la guerra por toda la superficie
+del país, cada uno con su banda combatiendo por lo que deseaba.
+
+13r, 4506: Éther 15:33.
+13s, 4507: Véase i, II Nefi 10.
+13t, 4508: Véase p.
+13u, 4509: Véase i, II Nefi 10.
+13v, 4510: Véase s, Omni 1.
+13w, 4511: Ether 15:29-32.
+13x, 4512: Véase p.
+
+Corrections
+Page begins mid-verse — continuation of Éther 13:14 from page 607
+(which ended "...concluyó el"). Per rule 1 the first body line follows
+"Página 608" with no blank line. Éther 13 continues from page 607
+(letters d-q, footnotes 4492-4505); this page carries letters r-x =
+footnotes 4506-4512. No chapter or book boundary on this page (Éther 14
+starts on the next page), so no blank line / book header in Block 1
+(rule 20).
+Raw line count: 42 print lines (Éther 13:14 tail through 13:25) read
+directly from the top/mid/bot crops, matching the image before rule 7/8
+adjustment.
+Rule 7 — three hyphenated line-break splits rejoined:
+ - "destruc-" / "ciones" (v.14): rejoined "destrucciones"; appending it
+   to line 1 (with the [4506] marker) would hit 74 chars (>=73), so per
+   rule 8 "destrucciones" moves to the start of line 2.
+ - "pode-" / "rosos," (v.15): rejoined "poderosos,"; line 1 stays at
+   67 chars (<73) so it is kept at the end of that line.
+ - "arrepin-" / "tieran" (v.17): rejoined "arrepintieran"; line stays at
+   71 chars (<73) so kept at the end of that line.
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized (space removed before the mark). Body:
+v.17 "de Cohor ;", "de Corihor ;"; v.17 "de sus pecados ;"; v.21
+"su herencia ;", "á Coriántumr ;"; v.22 "de su pueblo ;"; v.22
+"guerra ;". Block 1: 13r "Éther 15 : 33" -> "15:33"; 13w
+"Éther 15 : 29-32" -> "15:29-32".
+Rule 6 — inter-word gaps wider than one space in the justified print
+(v.15 "hubieron  muchos", "y  eran  hombres") normalized to a single
+space.
+Éther 13:15 "sucedió que" — the 1920 image shows a low mark between
+"sucedió" and "que" that reads at a glance like a comma jammed
+against "que" with no following space; Google OCR
+(google_text_1920/page_0630.txt line 3) rendered it "sucedió,que".
+The editor examined the page directly and determined the mark is
+scan/press debris, not a typed comma — both its head and tail are
+oversized compared with a genuine period or comma elsewhere on the
+page. Transcribed "sucedió que" (mark dropped) per rule 36; this also
+agrees with 1886's "Y sucedió que" (no comma) and reads as the normal
+clause. Not logged in errors in 1920.txt.
+Rule 36 — eight suspected stray specks / marks all checked against the
+Google OCR text FIRST and found absent there, so all treated as
+scan/press debris, transcribed without them, and NOT logged in errors
+in 1920.txt:
+ - v.15 verse number: a raised speck sits beside the "15." period,
+   making it look like "15:"; Google reads plain "15.".
+ - v.17 "Pero no se": a comma-like fleck hangs below-right of "no";
+   Google reads "Pero no se" with no comma.
+ - v.18 "que en el primer": a low speck between "en" and "el"; Google
+   reads "en el" clean.
+ - v.19 "y desangraron mucho.": a floating dot above the line after
+   "mucho."; Google reads just the sentence period.
+ - v.20 "que se fuere y": a tick over the final "e" of "fuere"; Google
+   reads "fuere" unaccented (and the future subjunctive takes no accent
+   there anyway).
+ - v.21 "De otro modo les": a speck after "modo"; Google reads
+   "otro modo les" clean.
+ - v.22 "otra vez en la": a raised dot between "vez" and "en"; Google
+   reads "otra vez en la" clean.
+ - v.25 "combatiendo por lo": a tick over "por"; Google reads "por"
+   unaccented.
+"Éther" (vv.18, 22) — 1920 prints the acute É (running header reads
+"LIBRO DE ÉTHER."); Google OCR drops it ("Ether"). Kept as printed per
+established convention.
+"fué" (v.15) — archaic form, kept (rule 32).
+"profecias" (v.21) — TRANSCRIPTION ERROR CAUGHT BY GOOGLE CROSS-CHECK
+AND FIXED. The draft first read this as "profecías" (accented); the
+Google OCR text reads "profecias" and a high-zoom crop
+(p608_profecias2.png) confirms the 1920 print sets it with a PLAIN "i"
+(no acute) — the very next word "habían" on the same line shows the
+press's real í-accent for contrast. Corrected to "profecias" per rule
+32 (preserve as printed). The missing-accent question (permitted words
+/ errors log) is Session E's to judge.
+Archaic future-subjunctive verb forms kept as printed (rule 32): v.20
+"que se fuere y profetizare", "si se arrepintiere"; v.21 "para que
+pudiere presenciar".
+Mandatory i/l/1 check (Section 8) — TRIGGERED this page: the
+cross-reference target letter in BOTH 13s and 13u is "i" ("Véase i,
+II Nefi 10"). Cross-checked against 1879 file page 610's clean type,
+which prints "s, see i, ii. Nep. 10." and "u, see i, ii. Nep. 10." —
+unambiguous lowercase italic "i" (dotted short stroke), not "l" (tall
+undotted) and not "1". A tight high-zoom crop of the 1920 superscripts
+(p608_row1.png) independently shows the dotted-"i" glyph in both
+entries. Confirmed "i" for 13s and 13u.
+Block 1 verified entry-for-entry against 1879 file pages 609-610
+(Éther 13 footnote block): "r, Ether 15:33." (1879 p609) / "s, see i,
+ii. Nep. 10." / "t, see p." / "u, see i, ii. Nep. 10." / "v, see s,
+Omni 1." / "w, Ether 15:29—32." / "x, see p." (1879 p610) — all seven
+match the 1920 reading (letters, targets, and citation content). The
+non-i/l/1 cross-reference targets were also read from the 1879 clean
+type: 13t/13x -> "p", 13v -> "s"; none is i/l/1.
+Body footnote-marker placement checked against 1879 by content
+(rule 26). Seven markers, letters r-x:
+ - [4506]/r before "resto" (v.14 tail; 1879 "r" before "remainder of
+   this record" — same clause).
+ - [4507]/s before "secretos" (v.15; 1879 "s" before "secret plans of
+   wickedness").
+ - [4508]/t before "cavidad" (v.18 "vivió Éther en la cavidad de la
+   roca"; target "see p" = the 13p note "Versículos 14,18,22", the
+   cave-dwelling verses — content fit). 1879 places its own "t" marker
+   at v.15 "of which hath been spoken" instead; this is a
+   translation word-order artifact (rule 26), not a discrepancy —
+   1920 has no marker on "se ha hablado".
+ - [4509]/u before "secretas" (v.18 "aquellas secretas combinaciones";
+   1879 "u" before "secret combinations").
+ - [4510]/v before "otro" (v.21 "á otro pueblo que recibiría el país";
+   1879 "v" before "another people who should receive the land" ->
+   "see s, Omni 1" = the Mulekite people — content fit).
+ - [4511]/w before "perecería" (v.21 "toda alma perecería"; target
+   Éther 15:29-32, the final destruction — content fit).
+ - [4512]/x before "cavidad" (v.22 "otra vez en la cavidad de la
+   roca"; target "see p", another cave mention — content fit).
+Block 1 verse formatting (rule 23): 13w "29-32" consecutive range ->
+hyphen (1879 also prints the range).
+
+Session B — independent re-verification.
+ - Fn_zoom re-read fresh, entry for entry (13r-13x). One change:
+   13w's book name is printed "Ether" WITHOUT the acute accent, unlike
+   13r's "Éther" (accent clearly present) on the same page. A tight
+   side-by-side crop (p608_cmp.png) shows 13r's É carrying the press's
+   diagonal accent stroke while 13w's E is a plain capital. Corrected
+   the Block 1 entry from "Éther 15:29-32." to "Ether 15:29-32." per
+   rule 32 (preserve as printed). Both forms already coexist in
+   librodm_foot.txt (132 "Éther" / 43 "Ether"), so a mixed page is not
+   itself anomalous.
+ - All seven body [N] markers re-checked against the body crops:
+   [4506] before "resto" (v.14), [4507] before "secretos" (v.15),
+   [4508] before "cavidad" (v.18), [4509] before "secretas" (v.18),
+   [4510] before "otro" (v.21), [4511] before "perecería" (v.21),
+   [4512] before "cavidad" (v.22). No changes.
+ - Mandatory i/l/1 check re-run independently against 1879 file page
+   610 (p1879_610_fnband.png, re-cropped this session): "s, see i,
+   ii. Nep. 10." and "u, see i, ii. Nep. 10." both print a clean
+   dotted italic "i" — re-confirmed for 13s and 13u; not "l"/"1".
+   1920 high-zoom (p608_row1.png / p608_cmp.png) independently shows
+   the dotted "i" in both. Non-i/l/1 cross-ref targets 13t/13x -> "p",
+   13v -> "s" also re-read from 1879 p610; none is i/l/1. No changes.
+ - The swash leading-letter sequence r,s,t,u,v,w,x verified contiguous
+   with no gaps or reordering, continuing page 607's d-q.
+
+Session E — orthography check. 1886 comparison of Éther 13:14-25
+(pages_1886/page_0621.png book page 603 tail; page_0622.png book page
+604). One genuine 1920-only error found and logged in errors in
+1920.txt (also added to permitted words.txt):
+ - Éther 13:21 "profecias" (dropped í-accent). Flagged by pptext in
+   BOTH Spellcheck Suspect Words and Edit Distance
+   ("profecias(1):profecías(43)"), report_wsl_20260828b.html. 1886
+   prints "profecías" accented; 1920 itself accents it everywhere else
+   (43x in librodm.txt, incl. page 607 v.13); RAE has only the
+   accented form (obligatory hiatus); modern Spanish BoM Éter 13:21
+   accents it; clean corpora (Quijote, RV1909) always accent it.
+   Internal inconsistency, not a systematic spelling. This is also the
+   Session A Google-cross-check catch (draft had wrongly "corrected"
+   it to "profecías"; reverted to the printed "profecias").
+Checked and NOT logged:
+ - Éther 13:15 "sucedió que" — a low mark between "sucedió" and "que"
+   read at first like a comma jammed against "que" with no following
+   space (Google OCR rendered it "sucedió,que"), and Session E first
+   proposed logging it as a missing-space defect. The editor examined
+   the page directly and determined the mark is scan/press debris, not
+   a typed comma (both its head and tail oversized vs. a genuine
+   period/comma on the page). Transcribed "sucedió que" (mark dropped)
+   per rule 36; the errors-in-1920 entry Session E had added was
+   removed. Agrees with 1886's "Y sucedió que".
+ - Éther 13:17 stray mark after "no" ("Pero no͵ se"): per rule 36,
+   Google OCR reads "Pero no se" with no comma; a weight-aware zoom
+   (p608_nocomma.png) shows the mark lacks the tail of a real comma —
+   unlike the cleanly-formed "hombres," comma on v.16 directly above —
+   and looks like an ink blot fused to the "o". 1886 has no comma
+   after "no" either (its comma falls after "arrepintió"). The editor
+   confirmed directly that this is a stray mark, not a typed
+   character. Transcribed "Pero no se". Contrast Éther 12:6, where
+   Google DID read the spurious comma and the glyph had proper comma
+   weight (that one is logged).
+ - Éther 13:17 missing comma after "arrepintió": 1886 v.17 and 1920's
+   own v.22 both print "arrepintió, ni tampoco" with the comma, so
+   1920 v.17 is internally inconsistent in omitting it. Not logged —
+   a bare comma omission in a serial list is within normal
+   edition-to-edition punctuation variance and the errors log has no
+   precedent for logging pure "falta coma" cases (only spurious added
+   marks / period-for-comma substitutions). Flagged here for the
+   editor's optional review.
+ - Footnote 13w book name printed "Ether" (no accent) vs 13r "Éther"
+   (accented) on the same page: inconsistent footnote-citation
+   typesetting; both forms already coexist throughout librodm_foot.txt
+   (132 "Éther" / 43 "Ether"); preserved as printed (Session B), not
+   logged.
+ - Rule 36 specks (8, listed above): all Google-silent; the v.15
+   verse-number speck additionally corroborated against 1886's clean
+   "15." Not logged.
+Fresh pptext report (workspace/report_wsl_20260828b.html) walked end to
+end. Spellcheck Suspect Words: only page-608 flags are "profecias"
+(logged, above) and "Shared" (v.23-24; Jaredite king name, first
+appearance in the book — proper noun, added to permitted words.txt, not
+an error). Edit Distance: only page-608 flag is
+"profecias(1):profecías(43)" (same finding). No page-608 hit in any
+other section (smart quote, short/long lines, repeated word, duplicate
+line, ellipsis, dash, scanno, curly quote, special situations, book/
+paragraph level, Jeebies). Dash check: page 608's only hyphen is the
+digit-flanked range "15:29-32" in Block 2. Footnote check: anchors
+4506-4512 form one contiguous run, no dupes/gaps/out-of-range (max
+anchor now 4512). Whole-document sweeps all re-ran clean:
+check_spaced_punctuation (librodm.txt), check_footnote_punctuation
+(librodm_foot.txt), check_verse_indent (librodm.txt), footnote-anchor
+<-> Block-2 cross-check (max anchor 4512 = max def 4512, no dupes, no
+anchored-without-def; only the long-documented Jacob 2:15 / 812
+defined-without-anchor gap remains), curly-quote character scan of both
+master files (zero). No narrow-space-vs-merge notes on this page.
+permitted words.txt: added "profecias", "Shared". errors in 1920.txt:
+added Éther 13:21 (the Éther 13:15 entry was drafted then removed after
+the editor ruled the v.15 mark scan debris — see above).

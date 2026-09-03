@@ -1,0 +1,434 @@
+Página 620
+y si os aceptáis todo lo que es bueno, y no lo condenáis, ciertamente
+que vendréis á ser hijos de Cristo.
+20. Pero ahora, mis hermanos, ¿Cómo será posible que
+adoptéis todo lo que es bueno?
+21. Ahora, vengo á aquella [4569]fe de la cual os había dicho, que
+os tenía que hablar; y os indicaré la manera por la cual podáis
+adoptar todo lo que es bueno.
+22. Porque, he aquí, que Dios [4570]conoce todas las cosas, [4571]siendo
+de eternidad en eternidad, he aquí, Él ha enviado ángeles, para
+que ministren á los hijos de los hombres, y les den instrucciones
+relativamente á la venida de Cristo; anunciándoles que por
+Cristo ha de venir todo lo que sea bueno.
+23. Y Dios declara también á sus profetas por su propia boca,
+que Cristo ha de venir.
+24. Y, he aquí, que habían diferentes vías, por donde manifestaba
+las cosas que eran buenas, á los hijos de los hombres, y
+todas las cosas que eran buenas, vienen de Cristo, de otro modo
+hallándose los hombres en un estado caído [4572]nada bueno podría
+llegar á ellos.
+25. Por lo tanto, por la ministración de los ángeles, y por toda
+palabra que salía de la boca de Dios, empezaron los hombres á
+ejercitar su fe en Cristo; adoptando de esta manera por la [4573]fe
+todo lo que era bueno, continuando de este modo hasta la venida
+de Cristo.
+26. Y después que hubo venido, también los hombres se salvaron
+por medio de la fe en su nombre; viniendo á convertirse
+por la fe en hijos de Dios. Y tan cierto como Jesu Cristo vive,
+que Él habló á nuestros padres estas palabras, diciendo: [4574]Todo
+lo que pidáis á mi Padre en mi nombre, siendo bueno, y lo
+hagáis en la fe de recibirlo, he aquí, que os será concedido.
+27. Por lo tanto, amados hermanos mios, ¿Han cesado los
+milagros, por haber ascendido Cristo al cielo, y por haberse
+sentado á la mano derecha de Dios, para [4575]reclamar del Padre
+sus derechos á la misericordia que tiene sobre los hijos de los
+hombres?
+28. Porque Él ha satisfecho las exigencias de la ley, reclamando
+por lo tanto á todos los que tienen [4576]fe en Él; y todos los que han
+tenido fe en Él, se unirán á todo lo que es bueno; por lo que Él
+[4577]defiende la causa de los hijos de los hombres; viviendo
+eternamente en los cielos.
+29. Y ahora, mis amados hermanos: [4578]¿Han cesado los milagros
+por haber hecho esto? He aquí, os digo que no; ni los
+ángeles han [4579]cesado de ministrar entre los hijos de los hombres.
+
+7i, 4569: Véase a.
+7j, 4570: Véase r, II Nefi 9.
+7k, 4571: Véase a, Mosíah 3.
+7l, 4572: Véase b, y c, II Nefi 2.
+7m, 4573: Véase a.
+7n, 4574: III Nefi 18:20.
+7o, 4575: Véase e, II Nefi 2.
+7p, 4576: Véase a.
+7q, 4577: Véase e, II Nefi 2.
+7r, 4578: Véase r, II Nefi 26.
+7s, 4579: Versículos 30-32,36-37.
+
+Corrections
+
+Page structure — page 620 CONTINUES the Book of Moroni and CONTINUES
+Moroni 7. It OPENS mid-verse (Moroni 7:19 continuation from page 619,
+which ended "...para que podáis distinguir lo bueno de lo malo;"), so
+per rule 1 the first body line follows "Página 620" with NO blank line.
+Running header "CAP. VII.)  LIBRO DE MORONI.  620" discarded (rule 2).
+Page carries the tail of Moroni 7:19 plus verses 20-29, ending with
+verse 29 COMPLETE ("...ni los ángeles han cesado de ministrar entre
+los hijos de los hombres."); page 621 opens with "30.". NO chapter
+heading, NO chapter subtitle, NO book-title header (all mid-chapter,
+mid-book). A centered decorative rule sits above the footnote divider
+(not transcribed). Moroni 7's footnote letters continue from page
+619's 7h; this page runs 7i-7s, global sequential numbers 4569-4579.
+
+Raw line count: 43 body print lines read line-by-line from the
+top/mid/bot crops (no chapter-heading line on this page).
+
+Rule 7 — five end-of-line hyphen splits, all rejoined mechanically:
+ - line 1 "cierta-" + "mente" -> "ciertamente"; appended to line 1
+   = 69 chars (< 73) -> kept at end of line 1; line 2 = "que vendréis
+   á ser hijos de Cristo."
+ - line 15 "mani-" + "festaba" -> "manifestaba"; appended to line 15
+   = 65 chars (< 73) -> kept at end of line 15.
+ - line 25 "sal-" + "varon" -> "salvaron"; appended to line 25
+   = 62 chars (< 73) -> kept at end of line 25.
+ - line 39 "eterna-" + "mente" -> "eternamente"; appended to line 39
+   (incl. marker [4577]) = 73 chars (>= 73) -> MOVED to start of line
+   40 ("eternamente en los cielos."); line 39 ends "...viviendo".
+ - line 41 "mila-" + "gros" -> "milagros"; appended to line 41 (incl.
+   marker [4578]) = 64 chars (< 73) -> kept at end of line 41.
+Rule 8 — no rebalancing needed; the longest output line is line 8
+("22. Porque, he aquí, que Dios [4570]conoce todas las cosas,
+[4571]siendo") = 72 chars (exactly at the cap, still < 73).
+
+Rule 31 — space before punctuation removed throughout (the 1920 print
+sets a space before ";" and ":" on this page consistently). Body:
+7:21 "hablar ;"; 7:22 "Cristo ;" (line 11); 7:26 "nombre ;"; 7:28
+"Él ;" (x2), "bueno ;", "hombres ;"; 7:29 "hermanos :", "no ;".
+Footnote block (rules 22/31): spaced colon removed -- "18 : 20" ->
+"18:20" (7n).
+
+Rule 6 — inter-word spacing normalized to one space; justification
+double-spacing after sentence-final punctuation / after a footnote
+marker collapsed where present: 7:26 "viniendo á  convertirse",
+"Dios.  Y tan cierto", "diciendo:  [4574]Todo"; 7:27 "mios,  ¿Han",
+"lo que  pidáis"; 7:29 "esto?  He aquí". All brought to a single
+space. No narrow-space merge cases (see below).
+
+Footnote markers — 11 on this page (4569-4579), all in the Moroni 7
+letter run i-s:
+ - 7i = [4569] before "fe" (Moroni 7:21) -- "vengo á aquella fe de la
+   cual os había dicho". Block 1: "Véase a."
+ - 7j = [4570] before "conoce" (7:22) -- "que Dios conoce todas las
+   cosas". Block 1: "Véase r, II Nefi 9."
+ - 7k = [4571] before "siendo" (7:22) -- "todas las cosas, siendo de
+   eternidad en eternidad". Block 1: "Véase a, Mosíah 3."
+ - 7l = [4572] before "nada" (7:24) -- "en un estado caído nada bueno
+   podría llegar á ellos". Block 1: "Véase b, y c, II Nefi 2."
+ - 7m = [4573] before "fe" (7:25) -- "adoptando de esta manera por la
+   fe todo lo que era bueno". Block 1: "Véase a."
+ - 7n = [4574] before "Todo" (7:26) -- "diciendo: Todo lo que pidáis á
+   mi Padre en mi nombre". Block 1: "III Nefi 18:20."
+ - 7o = [4575] before "reclamar" (7:27) -- "sentado á la mano derecha
+   de Dios, para reclamar del Padre sus derechos". Block 1: "Véase e,
+   II Nefi 2."
+ - 7p = [4576] before "fe" (7:28) -- "á todos los que tienen fe en Él".
+   Block 1: "Véase a."
+ - 7q = [4577] before "defiende" (7:28) -- "por lo que Él defiende la
+   causa de los hijos de los hombres". Block 1: "Véase e, II Nefi 2."
+ - 7r = [4578] before "¿Han" (7:29) -- "mis amados hermanos: ¿Han
+   cesado los milagros por haber hecho esto?". Block 1: "Véase r,
+   II Nefi 26."
+ - 7s = [4579] before "cesado" (7:29) -- "ni los ángeles han cesado de
+   ministrar entre los hijos de los hombres". Block 1: "Versículos
+   30-32,36-37."
+
+Rule 23 applied to 7s: 1920 prints "Versículos 30-32, 36, 37." The
+"36, 37" is a consecutive pair -> hyphenated range "36-37"; the gap
+between 32 and 36 stays a comma (non-consecutive, rule 24). Result:
+"Versículos 30-32,36-37." (1879 file p.622 prints "s, vers. 30-32,
+36, 37.")
+
+Superscript-letter checks — MANDATORY i/l/1 check (Section 8):
+TRIGGERED by entry letters "i" (7i) and "l" (7l). Both verified
+directly against 1879: file p.621 (Book of Moroni ch.7) prints
+"i, see a." and "l, see b and c, II. Nep. 2." -- 1920's 7i "Véase a."
+and 7l "Véase b, y c, II Nefi 2." match one-for-one. No cross-
+reference TARGET letter on this page is i/l/1 (targets: a, r, a, "b y
+c", a, e, a, e, r).
+The 1920 footnote block on this page is heavily over-inked/blotchy
+(same condition noted on page 619) and the swash entry/cross-ref
+letters are individually hard to read, so the full 1879 cross-check
+was run on every entry (discretionary path for the non-i/l/1 letters).
+Fresh 1879 crops, file pp.621-622 (book pp.613-614), Book of Moroni
+ch.7 footnotes:
+  p.621: "g, see o, Ether 4.  h, see f.  i, see a.  j, see r, II. Nep.
+    9.  k, see a, Mos. 3.  l, see b and c, II. Nep. 2.  m, see a.
+    n, III. Nep. 18:20."
+  p.622: "o, see e, II. Nep. 2.  p, see a.  q, see e, II. Nep. 2.
+    r, see r, II. Nep. 26.  s, vers. 30-32, 36, 37.  t, see y, ..."
+1920's 7i-7s match 1879's i-s one-for-one in target content:
+i/m/p all "see a" (7i/7m/7p "Véase a"); j "see r, II. Nep. 9"; k "see
+a, Mos. 3"; l "see b and c, II. Nep. 2"; n "III. Nep. 18:20"; o/q both
+"see e, II. Nep. 2"; r "see r, II. Nep. 26"; s the verse-list.
+Cross-ref target letter "r" (7j, 7r): the 1920 glyph after "Véase" is
+a small swash "r"; 1879 prints an unambiguous "r" in both spots ("see
+r, II. Nep. 9" / "see r, II. Nep. 26"). The "j" and "r" ENTRY letters
+themselves: swash forms confirmed by strict-sequence position (i-j-k
+and q-r-s unbroken) + 1879's clearer italic.
+Body-marker placement vs 1879: the two editions place these markers on
+the same verses (i at v21, j/k at v22, l at v24, m at v25, n at v26,
+o at v27, p/q at v28, r/s at v29) -- matched by target content per
+rule 26, not by list position.
+
+Over-inking NOT transcribed as a marker (rules 14/15):
+ - Moroni 7:22 "Cristo ha de venir todo lo que sea bueno" -- the "h"
+   of "ha" carries an ink mark fused to the upper-left of its ascender
+   ("Cristo ĥa") that could be misread as a superscript letter. It is
+   NOT a footnote marker: (a) 1879 (Book of Moroni ch.7, file p.621)
+   has NO marker at this spot -- its markers run i (v21), j & k (v22
+   "knowing"/"being"), then l (v24 "no good thing come unto them");
+   (b) the 1920 footnote block has exactly 11 entries (i-s), which map
+   one-to-one to 11 clean body markers WITHOUT this one; adding it
+   would make 12. Treated as over-inking of the h serif; "ha"
+   transcribed plain. The clean "ha" in the very next verse ("que
+   Cristo ha de venir.", 7:23) carries no such mark.
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - Moroni 7:27 "mios" -- the 1920 prints "amados hermanos mios, ¿Han
+   cesado los milagros" with NO accent on the "i". Standard modern
+   Spanish is "míos" (possessive, stressed). Max-zoom (pages_1920/
+   page_0642.png ~65%, 20x) confirms "mios" with a plain dotted "i"
+   and no acute accent -- compared side by side against the genuine
+   "í" of "aquí" on the line immediately above, which carries a clear
+   accent. The Google OCR text layer (page 0642) reads "míos" WITH an
+   accent, but Google normalises to the dictionary form; the image is
+   authoritative (rule 32) and shows no accent. Session E to check
+   1886 file p.632 and RAE and decide (likely a dropped-accent 1920
+   typo; cf. the many accent-omission entries already in errors in
+   1920.txt).
+ - Moroni 7:24 "que habían diferentes vías" -- existential "haber"
+   in the plural ("habían" for "había" = "there were"). This is a
+   recurring pattern in the 1920 edition (regional/house usage);
+   noted for Session E to confirm against 1886 (likely NOT logged --
+   house style, consistent internally), not corrected.
+
+Stray / terminal-mark check (rule 36):
+ - Last body line (7:29) ends "...entre los hijos de los hombres."
+   with a heavy blotch after the final "s". Verse 29 is complete here
+   (1879 and modern BoM both end 7:29 at "children of men."; 1920
+   page 621 opens with "30."). Transcribed with a period. Google OCR
+   cross-check (below) to confirm the terminal mark.
+
+check_lines.py / check_spaced_punctuation.py / check_footnote_
+punctuation.py / check_verse_indent.py: run after writing this file --
+every hit falls inside this Corrections log (historical quotes of
+already-stripped spaced punctuation from the 1920 print / 1879 crops,
+or wrapped prose starting with a verse number); live body text and
+Block 1 are clean. Body lines all <= 72 (longest = line 8 at 72).
+check_line_wrap.py: advisory -- file body line count 43 = Tesseract
+OCR line count 43, no reflow red flag.
+
+Google cross-check (extract_google_text.py 620 + check_google_
+crosscheck.py 620): 2 candidates, both resolved --
+ (1) 7:27 "mios" vs Google "míos" -- image confirms "mios" (no
+     accent); Google normalised to the dictionary form. Kept as
+     printed, flagged for Session E (see above).
+ (2) a lone "T" that Google inserts between "...en los cielos." (end
+     of 7:28) and "29." -- NOT a footnote marker: the 1920 footnote
+     block ends cleanly at "s, Versículos 30-32, 36, 37." with no "t"
+     entry (Google's own OCR of the footnote block also stops at "s"),
+     and a zoom of the 7:28/7:29 boundary shows nothing in the text
+     flow there, only a faint speck in the right margin. Google's
+     text-flow reconstruction pulled that margin speck inline.
+     Dismissed as OCR noise. (1879 Moroni 7 does carry its own note
+     "t, see y, III. Nep. 9." further down the chapter -- beyond the
+     span on this 1920 page.)
+Otherwise Google's text matches this transcription letter-for-letter
+across the whole page (incl. "habían" 7:24, "mios" 7:27, "posible"
+7:20, "Jesu Cristo" 7:26).
+
+Not errors (noted, no action):
+ - "Jesu Cristo" (Moroni 7:26, "tan cierto como Jesu Cristo vive") --
+   unhyphenated archaic form, legitimate per feedback_jesu_cristo_
+   hyphen.
+ - "posible" (Moroni 7:20, "¿Cómo será posible que") -- standard
+   modern spelling (one s); not an error.
+ - "¿Cómo" / "¿Han" (7:20, 7:27, 7:29) -- capital letter after the
+   opening "¿" mid-sentence; 1920 house style, preserved.
+ - Archaic accented forms kept per rule 32: "á" (archaic accented
+   "to/at"), "aquí" (7:22 x2, 7:24, 7:30-area), "había" (7:21),
+   "podáis" (7:21), "también" (7:23), "salía" (7:25), "después"
+   (7:26), "habló" (7:26), "pidáis" (7:26), "aquí" (7:26), "misericordia"
+   (7:27), "ministración" (7:25), "ángeles" (7:22, 7:25, 7:29),
+   "Él" (7:22, 7:28 x2, deity pronoun), "condenáis" (7:19),
+   "aceptáis" (7:19), "adoptéis" (7:20), "vendréis" (7:19).
+
+Proper names on this page: "Dios" (7:22,23,25,26,27,28,29, frequent),
+"Cristo" (7:19,20-area,22 x2,23,24,25,26 x2), "Jesu Cristo" (7:26),
+"Él" (deity pronoun, 7:22, 7:28 x2), "Padre" (7:26, 7:27);
+Block 1: "II Nefi", "Mosíah", "III Nefi".
+
+Narrow-space word-pairs for the editor's optional double-check (rule 6
+"default to two words"): NONE this page -- every word boundary in the
+1920 print is clear; the only wide gaps are justification double-
+spaces (listed under Rule 6 above), all normalized.
+
+Session B — footnote verification (independent re-check, 2026-08-30).
+Fresh 1920 fn-block crop (6x, full width) re-read: all 11 entries
+confirmed UNCHANGED --
+  7i, 4569: "Véase a."                7j, 4570: "Véase r, II Nefi 9."
+  7k, 4571: "Véase a, Mosíah 3."      7l, 4572: "Véase b, y c, II Nefi 2."
+  7m, 4573: "Véase a."                7n, 4574: "III Nefi 18:20."
+  7o, 4575: "Véase e, II Nefi 2."     7p, 4576: "Véase a."
+  7q, 4577: "Véase e, II Nefi 2."     7r, 4578: "Véase r, II Nefi 26."
+  7s, 4579: "Versículos 30-32,36-37."
+MANDATORY i/l/1 check -- TRIGGERED by entry letters "i" (7i) and "l"
+(7l). Re-verified independently against fresh 1879 crops (file p.621,
+book p.613, Book of Moroni ch.7): "g, see o, Ether 4.  h, see f.
+i, see a.  j, see r, II. Nep. 9.  k, see a, Mos. 3.  l, see b and c,
+II. Nep. 2.  m, see a.  n, III. Nep. 18:20." -- 1879's clear italic
+"i" (dotted) and "l" (tall looped ascender) confirm 1920's 7i "Véase
+a." and 7l "Véase b, y c, II Nefi 2." No i/l/1 among the cross-ref
+target letters (a, r, a, b/c, a, e, a, e, r). Fresh 1879 file p.622
+(book p.614) confirms 7o-7s: "o, see e, II. Nep. 2.  p, see a.
+q, see e, II. Nep. 2.  r, see r, II. Nep. 26.  s, vers. 30-32, 36,
+37.  t, see y, III. Nep. 9. ..." -- 1920's 7o-7s match one-for-one;
+1879's own note "t" lands beyond this 1920 page's span (confirms the
+Session-A dismissal of Google's stray "T").
+Body markers re-cropped fresh (7-10x): [4569] "i" before "fe" (7:21);
+[4570] "j" before "conoce" (7:22); [4571] "k" before "siendo" (7:22);
+[4572] "l" before "nada" (7:24); [4573] swash "m" before "fe" (7:25);
+[4574] "n" before "Todo" (7:26); [4575] "o" before "reclamar" (7:27);
+[4576] "p" before "fe" (7:28); [4577] swash "q" before "defiende"
+(7:28); [4578] swash "r" before "¿Han" (7:29); [4579] "s" before
+"cesado" (7:29). All 11 confirmed in place. The v22 "ĥa" over-inking
+(NOT a marker) and the 7:27 "mios" (no accent) re-confirmed against
+fresh crops and left as printed for Session E. No changes to
+page_620.txt body or Block 1 from Session B.
+
+Session C (2026-08-30) — insert_body_text.py 620: librodm.txt
+32504->32549 (+45: 43 body lines + "Página 620" + 1 blank separator);
+librodm_foot.txt 4903->4914 (11 Block 1 entries 7i-7s, NO blank line /
+NO book header -- Moroni chapter 7 continues from page 619, rule 20).
+Body insertion spot-checked: "Página 620" opens mid-verse (Moroni 7:19
+continuation) with NO blank line after it (rule 1); page 619 body ends
+"...distinguir lo bueno de lo malo;" immediately above the blank
+separator; page 620 body ends "...entre los hijos de los hombres."
+then blank line, then "Notas".
+
+Session D (2026-08-30) — generate_block2.py 620: appended Block 2
+entries 4569-4579 (librodm.txt 32549->32560). NO wrapped-Block-1-entry
+bug this run (all 11 Block 1 entries fit one line each; the tail of
+librodm.txt ends cleanly at "4579: Versículos 30-32,36-37." with no
+stray "NNNN:" line and no bogus book header).
+ - Cross-refs resolved (book-aware, script):
+   4569/4573/4576 (7i/7m/7p "Véase a") -> 4561 = Moroni 7 note a
+     ("Versículos 21-39,40-44,45-48; Éther 12:3-37; ...", the faith
+     passage -- 7i/7m/7p all sit on "fe" at 7:21/7:25/7:28).
+   4570 (7j "Véase r, II Nefi 9") -> 375 (= II Nefi 9r).
+   4571 (7k "Véase a, Mosíah 3") -> 1096 (= Mosíah 3a).
+   4572 (7l "Véase b, y c, II Nefi 2") -> "Véase 261 y 262." (= II
+     Nefi 2 notes b & c; the compound "b, y c" form -- script prints a
+     spurious "still unresolved" warning for it but the appended entry
+     is fully numeric and matches the established "Véase N y M."
+     Block 2 convention, e.g. 401 "Véase 99 y 100."; NO hand-fix
+     needed).
+   4574 (7n) -> "III Nefi 18:20." direct.
+   4575/4577 (7o/7q "Véase e, II Nefi 2") -> 264 (= II Nefi 2e, whose
+     content is "Versículo 10; Mosiah 14:12; 15:8; Moroni 7:27-28." --
+     a RECIPROCAL cross-ref back to exactly where 7o/7q sit at 7:27
+     and 7:28; independently confirms the 1920 cross-ref letter "e").
+   4578 (7r "Véase r, II Nefi 26") -> 671 (= II Nefi 26r, content
+     "II Nefi 28:5-6; Mormón 8:26; 9:7-26; Moroni 7:33,38.").
+   4579 (7s) -> "Versículos 30-32,36-37." direct.
+Anchor<->Block-2 cross-check after append: max anchor 4579 = max def
+4579; defs contiguous 1..4579, no gaps, no dupes; every anchor has a
+def. "defs with no anchor: [812]" = the documented Jacob 2:15
+omission, unchanged.
+
+Session E — orthography check (2026-08-30). Fresh pptext report
+workspace/report_wsl_20260830d.html generated post-Session-D and
+walked end to end (whole-report line-range filter for page 620's body
+lines 27578-27621 and Block 2 entries 4569-4579). 1886 comparison done
+against Moroni 7: file p.633 (vv.13-24) and file p.634 (vv.24-27).
+
+ERRORS IN 1920.TXT -- two entries added (net 903->905), plain append
+after the existing "Moroni 7:18 equivocamente" entry (correct
+book/verse order -- 7:24 and 7:27 follow 7:18):
+ (1) Moroni 7:24 "habían" (había) -- 1920 prints "que habían
+     diferentes vías, por donde manifestaba las cosas que eran
+     buenas", pluralising the existential "haber". Impersonal/
+     existential "haber" is always singular per RAE regardless of the
+     number of what follows -- same error pattern already logged at
+     III Nefi 15:2 "habían algunos (había algunos)" and III Nefi 18:13
+     "hayan (haya)". 1886 file p.633 prints "Y hé aquí, que había
+     diferentes vias" in the SINGULAR. Modern BoM Moroni 7:24
+     rephrases ("de diversos modos manifestó cosas que eran buenas")
+     -- no word-for-word comparison. Google OCR of page 0642 also
+     "habían". NOT pptext-flagged ("habían" is a valid verb form).
+     Error not shared with 1886 at this spot; the same existential
+     plural ("habían muchos...") recurs in many earlier, un-audited
+     1920 pages. Preserved as printed.
+ (2) Moroni 7:27 "mios" (míos) -- 1920 prints "amados hermanos mios,
+     ¿Han cesado los milagros" with no accent on the "i". The
+     postposed stressed possessive "míos" takes an obligatory accent
+     (hiato) in Spanish of every period; RAE DLE only "mío"/"míos".
+     1920's own usage: "míos" (accented) 118x in librodm.txt vs
+     "mios" only 2x (this + one un-audited at II Nefi 9:40) -- internal
+     inconsistency, not systematic spelling. Reina-Valera 1909 NT
+     (closest-vintage corpus): "míos" 3x, "mios" 0x. Modern BoM Moroni
+     7:27: "amados hermanos míos" (accented). Max-zoom (page 0642
+     ~65%, 20x) confirms plain dotted "i", no accent, vs the genuine
+     accented "í" of "aquí" one line above; Google OCR normalises to
+     "míos". 1886 file p.634 ALSO prints "amados hermanos mios" with
+     no accent (likewise at 7:14) -- SHARED accent omission, though
+     1886 drops accents pervasively throughout this passage ("vias",
+     "tambien", "podais", "aceptais", "juzgueis"), so its reading is
+     not evidence of a legitimate variant. NOT pptext-flagged (aspell
+     does not flag "mios"). Preserved as printed.
+
+PERMITTED WORDS.TXT -- NO additions (net 1283->1283). Neither "habían"
+nor "mios" was pptext-flagged, so a permitted-words entry would be a
+no-op (matches the page-619 "equivocamente" precedent).
+
+NOT PROMOTED (checked, cleared):
+ - "os aceptáis" (Moroni 7:19) -- Session A had noted the reflexive
+   "os aceptáis" as unusual ("lay hold" = transitive). 1886 file p.633
+   ALSO prints "y si os aceptais todo lo que es bueno" -- shared
+   translation wording, not an error. (1920's "aceptáis"/"condenáis"
+   carry the accent 1886 drops -- 1920 is the more correct here.)
+ - "posible" (Moroni 7:20, "¿Cómo será posible que") -- standard
+   modern spelling (one s); 1886 file p.633 also "posible".
+ - "Jesu Cristo" (Moroni 7:26) -- legitimate archaic form
+   (feedback_jesu_cristo_hyphen); 1886 file p.634 hyphenates
+   "Jesu-Cristo"; not an error.
+ - "¿Cómo" / "¿Han" -- capital after the opening "¿" mid-sentence
+   (7:20, 7:27, 7:29); 1886 does the same ("¿Cómo", "¿Hán"); house
+   style.
+ - v22 "ĥa" over-inking -- resolved Sessions A/B (NOT a footnote
+   marker: 1879 has none there, 1920 block has exactly 11 entries
+   matching 11 clean markers).
+ - terminal mark after "hombres." (7:29) -- Google's stray "T" between
+   7:28 and 7:29 was a right-margin speck pulled inline by Google's
+   text-flow reconstruction, not a marker (block ends at "s");
+   resolved Session A. Period transcribed.
+ - "habían muchos ..." existential plural elsewhere -- see errors-log
+   entry (1) above; logged for this page per the III Nefi 15:2
+   precedent, the earlier un-audited instances left as-is.
+
+Narrow-space word-pairs for the editor: NONE this page (Session A
+confirmed every 1920 word boundary is clear; no narrow-space merge
+candidates).
+
+Full pptext report walkthrough (report_wsl_20260830d.html): page-620
+content appears ONLY in (a) Short lines check -- the standing
+structural flood (verse-wrapped body lines + short Block-2 "Véase
+NNNN." entries), and (b) Dash check hyphen-minus -- "4579: Versículos
+30-32,36-37." (both hyphens digit-flanked, legitimate rule-23 verse
+ranges). NOTHING page-620 in Spellcheck / Edit Distance / repeated-word
+/ duplicate-lines / ellipsis / Footnote check / anchor<->Block-2 /
+scanno / curly-quote / Spaced punctuation / Special situations /
+Book level / Paragraph level / Jeebies. Whole-document mechanical
+sweeps all clean: check_spaced_punctuation.py librodm.txt (32560),
+check_footnote_punctuation.py librodm_foot.txt (4914),
+check_verse_indent.py librodm.txt; anchor<->Block-2 sweep -- no dup
+defs, no anchored-without-def, only "defined but no anchor: [812]"
+(the documented Jacob 2:15 omission); curly-quote scan of both master
+files zero; letter-hyphen-letter blind-spot scan of the page-620
+additions -- no new compounds (page-620 body has no hyphens at all).
+
+Net changes this session: page_620.txt body -- none (both Moroni 7:24
+"habían" and 7:27 "mios" preserved as printed); librodm.txt -- none;
+permitted words.txt 1283->1283 (no change); errors in 1920.txt
+903->905 (Moroni 7:24 "habían"; Moroni 7:27 "mios").

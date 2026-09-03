@@ -1,0 +1,317 @@
+Página 610
+5. Y sucedió, que Coriántumr le sitió en el desierto, pero el
+hermano de Shared logró salir durante la noche del desierto, y
+destrozó parte del ejército enemigo, cuando se hallaban borrachos.
+6. Después marchó sobre el [4514]país de Morón, y se colocó en el
+trono de Coriántumr.
+7. Y sucedió, que Coriántumr permaneció en el desierto por
+espacio de dos años con su ejército, en cuyo tiempo recibió
+considerables refuerzos.
+8. Ahora, el hermano de Shared, que se llamaba Gilead,
+consiguió también grandes refuerzos para su ejército, á causa
+de las combinaciones [4515]secretas.
+9. Y sucedió, que fué asesinado por su Sumo Sacerdote, cuando
+se hallaba sentado sobre el trono.
+10. Y sucedió, que uno de los miembros de las sociedades
+secretas, mató al Sumo Sacerdote en un paso secreto, y se apoderó
+del trono; y llamábase Lib, y Lib era hombre de gran estatura;
+más que ningún otro entre todo el pueblo.
+11. Y acondeció, en el primer año de Lib que Coriántumr
+subió al [4516]país de Morón y dió la batalla a Lib.
+12. Y acaeció, que batiéndose con él, recibió una herida en
+el brazo; no obstante, el ejército de Coriántumr arremetió al
+de Lib, que emprendió la fuga hacia los bordes por el lado de la
+mar.
+13. Y ocurrió, que siguiéndole Coriántumr, Lib le dió a batalla
+sobre los bordes de la mar.
+14. Y sucedió, que Lib atacó al ejército de Coriántumr, que
+tuvo que refugiarse de nuevo en el desierto de Akish.
+15. Y sucedió, que Lib le persiguió hasta que llegó á las llanuras
+de Agosh. Y Coriántumr se ilevó con él todo el pueblo, según
+se huía delante de Lib en aquella parte del país por donde se
+escapaba.
+16. Y cuando, llegó á las llanuras de Agosh, dió la batalla á
+Lib, hiriéndole hasta que murió; no obstante, el hermano de
+Lib vino en su lugar en contra de Coriántumr, empezando otra
+batalla muy sangrienta, en la que Coriántumr corrió otra vez
+delante del ejército del hermano de Lib.
+17. Y el hermano de Lib se llamaba Shiz. Y sucedió, que
+Shiz perseguió á Coriántumr, y destruyó muchas ciudades,
+matando tanto á las mujeres como á los niños, y quemando las
+ciudades;
+18. Y el temor de Shiz se esparció por todo el país; sí, delante
+de él iba el grito de: ¿Quién podrá oponerse al ejército de Shiz?
+¡He aquí, que barre la tierra por donde él pasa!
+
+14b, 4514: Véase e, Éther 7.
+14c, 4515: Véase i, II Nefi 10.
+14d, 4516: Véase e, Éther 7.
+
+Corrections
+Page structure — page opens with a FRESH verse (Éther 14:5), not
+mid-verse and not a chapter heading, so per the carried-over-chapter
+convention (matches page 609) the first body line follows "Página 610"
+with no blank line (blank line reserved for a chapter heading).
+NOTE for editor: CLAUDE.md's "Next page" note anticipated page 610
+opening mid-verse as a continuation of Éther 14:4. It does not. Éther
+14:4 completes on page 609 ("...perecieron muchos miles de hombres por
+la espada,"). Both 1920 and 1886 (1886 book page 605) print that
+verse-4 ending with a COMMA rather than a period at the page break —
+a shared-lineage reading already preserved on page 609 per rule 32; no
+text is missing (modern edition confirms v.4 ends at "fell by the
+sword"). Page 610 begins cleanly with a complete verse 5. Last word of
+page 610 is "pasa!" (verse 18 complete, not hyphenated) — no
+page-boundary word-split; page 611 will open with verse 19, first
+footnote 4517.
+All content is Éther 14; no book or chapter boundary on this page, so
+Block 1 gets no blank line / book header (rule 20).
+Raw line count: 44 image print lines read line-by-line from the
+top/mid/bot crops. One rule 7 rejoin: "bo-" / "rrachos." (13:31... v.5)
+-> "borrachos." — appended to the first line it reaches 66 chars (<73)
+so kept at the end of that line. Result: 43 body lines.
+Rule 31 — the 1920 print sets a space before punctuation throughout
+this page; all normalized (space removed before the mark): "del trono ;
+y" and "gran estatura ;" (v.10), "el brazo ; no obstante" (v.12),
+"murió ; no obstante" (v.16), "ciudades ;" (v.17), "todo el país ; sí"
+and "el grito de :" and "por donde él pasa !" (v.18).
+Rule 6 — inter-word gaps wider than one space in the justified print
+normalized to a single space: "de Agosh.  Y Coriántumr" (v.15), "se
+llamaba Shiz.  Y sucedió" (v.17), "el grito de :  ¿Quién" (v.18).
+
+Footnote markers — 3 on this page. Éther 14's letters continue from
+page 609 (14a = 4513); global numbers continue: 14b = [4514] before
+"país" (v.6), 14c = [4515] before "secretas" (v.8), 14d = [4516]
+before "país" (v.11). All three body superscripts and all three
+Block 1 identifier letters re-cropped and confirmed.
+
+Cross-reference resolution (Section 8). The 1920 superscript
+cross-reference letters after "Véase" on this page are printed as
+solid, illegible ink-blobs even at 40x zoom, so each was resolved by
+book-aware back-reference plus the 1879 content-matched cross-check:
+ - 14b (4514) and 14d (4516) — both annotate "país de Morón" (vv.6 and
+   11). Resolved to "Véase e, Éther 7." DECISIVE: 1920's own Éther 7
+   footnote e (sequential 4393) reads "Versículos 6,16,17; Ether
+   14:6,11." — i.e. it back-references exactly these two verses
+   (book-aware match, strongest evidence). Google OCR of 1920 page 610
+   also reads entry b as "Véase e". 1879 file page 612 prints "d, see
+   e, Ether 7." (matches). 1879 file page 611 prints "b, see c, Ether
+   7." — the 1879 edition letters its own Éther 7 footnotes differently
+   from 1920 (rule 26 translation/edition artifact, not an error); the
+   1920 letter is what governs and 1920's Moron footnote in Éther 7 is
+   "e".
+ - 14c (4515) — annotates "combinaciones secretas" (v.8). MANDATORY
+   i/l/1 check TRIGGERED (target letter reads as "i"). Resolved to
+   "Véase i, II Nefi 10." 1879 file page 611 prints "c, see i, ii. Nep.
+   10." with an unambiguous short dotted italic "i" (the same line's
+   neighbours show a clean italic "c" and the tall undotted "l" of
+   "Hela." for contrast). Book-aware confirmation: 1920's own II Nefi
+   10 footnote i (sequential 398) is the secret-combinations
+   cross-reference hub and its citation list ends "...Ether ... 13:15,
+   18; 14:8-10." — back-referencing Éther 14:8. Resolved "i", not
+   "l"/"1".
+
+Rule 36 — suspected stray marks, each checked against the Google OCR
+text FIRST (all absent there) and dropped, none logged in errors in
+1920.txt:
+ - v.10 "los miembros [·]de las sociedades" — a small caret/speck
+   before "de"; Google reads "miembros de las sociedades" clean.
+ - v.17 "Coriántumr,[·] y destruyó" — a faint speck just after the
+   comma; Google reads "Coriántumr, y destruyó" clean.
+ - v.17 a speck to the right of "ciudades ;" — debris.
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - v.11 "acondeció" — for standard "aconteció". Google OCR also reads
+   "acondeció". 1886 (book page 606) prints the correct "aconteció"
+   AND translates this verse quite differently ("Y aconteció que
+   Coriántumr fué á atacarle en el pais de Moron, en el primer año de
+   su reinado, y dióle la batalla."). Likely a genuine 1920 misprint
+   (1886 has the correct form; the word is dictionary-obligatory, not
+   archaic) — Session E to log in errors in 1920.txt.
+ - v.15 "se ilevó" — for "se llevó". The 1920 press set a dotted,
+   x-height "i" (with serif ball) followed by a tall "l" — visibly
+   "il", not a damaged "ll". Google OCR silently normalizes to
+   "llevó"; 1886 (book page 606) prints the correct "se llevó".
+   Preserved as printed per rule 32 / the page-442 "al año" precedent
+   — do NOT silently substitute "llevó". Likely a genuine 1920
+   misprint — Session E to log in errors in 1920.txt.
+ - v.17 "perseguió" — for standard "persiguió". Note the SAME page
+   prints the correct "persiguió" at v.15 ("Lib le persiguió"). Google
+   OCR also reads "perseguió" here. Likely a 1920-only misprint —
+   Session E to check 1886 (next page) and log.
+ - v.16 "Y cuando, llegó" — a comma after "cuando" with no
+   grammatical basis. Google OCR also has it. 1886 (book page 606)
+   reads "Y cuando llegó" with no comma. Preserved as printed; minor
+   1920-only oddity for Session E.
+ - v.11 "dió la batalla a Lib" and v.13 "Lib le dió a batalla" — "a"
+   printed without the acute accent (contrast v.16 "dió la batalla á"
+   on this same page). 1886 (book page 606) ALSO prints "Lib le dió a
+   batalla" unaccented at v.13 — a shared-lineage reading, NOT a
+   1920-only error; Session E should NOT log v.13. v.11's clause is a
+   1920-only rewording so its "a Lib" has no 1886 counterpart to
+   compare; preserved as printed.
+ - "fué" (v.9), archaic accented preterite, kept. "sitió, logró,
+   destrozó, marchó, colocó, recibió, consiguió, apoderó, acaeció,
+   arremetió, emprendió, ocurrió, atacó, persiguió, esparció, corrió",
+   etc. — archaic accented preterites, kept.
+
+Narrow-space-vs-merge pointers for Session E (rule 6 / editor guidance
+in feedback_narrow_space_vs_merge — committed now as two words with a
+single space, editor to double-check against the image at leisure; not
+raised as a blocking question):
+ - v.9 "por su" — the 1920 print sets "por su Sumo Sacerdote" tight.
+   Grammar and 1886 (book page 606, "por su Sumo Sacerdote") require
+   two words. Written "por su".
+ - v.15 "Lib le" — the 1920 print sets "Lib le persiguió" tight
+   (Google fuses it "Lible"). Grammar and 1886 ("Lib le persiguió")
+   require two words. Written "Lib le".
+
+Proper names on this page: "Coriántumr" (accented throughout the body
+text), "Morón" (accented, vv.6 and 11), "Shared", "Lib", "Shiz",
+"Gilead", "Akish", "Agosh". "Gilead", "Shiz" and "Agosh" first appear
+on this page — Session E to add to permitted words.txt as needed.
+
+Google-text cross-check (extract_google_text / check_google_crosscheck,
+google_text_1920/page_0632.txt): Google's OCR of the body text matches
+this transcription letter-for-letter after whitespace/hyphen stripping,
+including the preserved anomalies "acondeció", "perseguió", "a Lib"/
+"a batalla", and the comma in "Y cuando, llegó". Google normalizes
+"ilevó" -> "llevó" (word-level dictionary fix, not a letter it can be
+trusted on — rule 14) and fuses "Lible" (v.15); neither reaches the
+character-stream diff. No candidates reported.
+
+Session B — independent re-verification.
+ - Block 1 re-read from a fresh footnote-block crop: three entries,
+   "14b, 4514: Véase e, Éther 7." / "14c, 4515: Véase i, II Nefi 10." /
+   "14d, 4516: Véase e, Éther 7." The 1920 cross-reference letters
+   after "Véase" are solid ink-blobs at every zoom, unreadable by
+   shape.
+ - Body markers re-cropped fresh (16x+): [4514] sits flush before
+   "país" (v.6), [4515] flush before "secretas" (v.8), [4516] flush
+   before "país" (v.11). 1879 places its matching markers before
+   "land" (v.6, file p.611), "secret" (v.8, file p.611) and "land"
+   (v.11, file p.612) — content match on all three (rule 26). No
+   placement change.
+ - MANDATORY i/l/1 check re-run independently against the 1879 source
+   (process_page.py on pages_1879/page_0611.png, fresh fn_zoom plus a
+   30x crop): "c, see i, ii. Nep. 10." — the target is a short,
+   x-height italic stroke with a clearly separated dot = "i" (an "l"
+   would rise to ascender height; it does not). Re-confirmed "i", not
+   "l"/"1". Corroborated book-aware: 1920 II Nefi 10 footnote i
+   (seq 398) cites "...Ether ... 14:8-10".
+ - 14b / 14d target letter re-checked: 1879 file page 611 prints
+   "b, see c, Ether 7." (the glyph after "see" matches the open-hook
+   "c" that opens entry c on the same line, NOT the looped "e" of
+   "see"); 1879 file page 612 prints "d, see e, Ether 7." The 1879
+   edition thus letters its own Éther 7 Moron footnotes b->c / d->e,
+   which need not match 1920. The governing 1920 evidence is
+   unchanged and decisive: 1920's own Éther 7 footnote e (seq 4393)
+   reads "Versículos 6,16,17; Ether 14:6,11.", back-referencing both
+   of this page's Moron verses; Google OCR of 1920 reads entry b as
+   "Véase e". Both 14b and 14d resolve to "Véase e, Éther 7."
+ - No changes to page_610.txt from Session B.
+
+Session E — orthography check. Fresh pptext report
+workspace/report_wsl_20260828d.html generated and walked end to end;
+report_wsl_20260828e.html regenerated after the permitted-words
+additions to confirm suppression (Spellcheck Suspect Words section now
+carries no page-610 word). Only page-610 flags were in Spellcheck
+Suspect Words ("acondeció", "Agosh", "ilevó" — lines 27176/27187) and
+Edit Distance ("acondeció(1):aconteció(1)", "acondeció(1):aconieció(1)",
+"ilevó(1):llevó(9)"). Every other report section touching page 610's
+line range (27158-27202) or its Block 2 lines (32069-32071) is a
+documented structural false positive — "short lines check" (verse-end
+short lines; "Véase NNNN." Block 2 cross-ref lines) and "paragraph ends
+in comma" line 27156 (page 609's "...por la espada," at the page break,
+the shared-1886 comma-for-period already handled in page 609's Session
+E). No page-610 hits in footnote check, scanno, curly quote, special
+situations, book/paragraph level, or dash.
+
+Flagged-word decisions (each researched: 1886 image + RAE + modern
+Spanish BoM + reference corpora):
+ - "acondeció" (Éther 14:11) — GENUINE 1920 ERROR for "aconteció".
+   1886 book page 606 prints "aconteció" (and rewords the verse);
+   modern BoM Éter 14:11 "aconteció"; no verb "acondecer" exists (RAE
+   nil), 0 corpus hits vs. "aconteció" attested. Added to
+   `permitted words.txt`; logged in `errors in 1920.txt`. Preserved as
+   printed (rule 32).
+ - "ilevó" (Éther 14:15) — GENUINE 1920 ERROR for "llevó". The 1920
+   press set a dotted x-height "i" + tall "l" (verified at 34x, crop
+   p610_llevo2.png), not a damaged "ll". 1886 book page 606 "se
+   llevó"; modern BoM Éter 14:15 "se había llevado"; no verb "ilevar"
+   (RAE nil), 0 corpus hits vs. "llevó" x9. Google OCR normalizes to
+   "llevó" (word-level, not letter-trustworthy — rule 14). Added to
+   `permitted words.txt`; logged in `errors in 1920.txt`. Preserved as
+   printed (rule 32) per the page-442 "al año" precedent — NOT
+   silently corrected to "llevó".
+ - "perseguió" (Éther 14:17) — ERROR for "persiguió", SHARED WITH 1886
+   (inherited, not 1920-introduced). 1886 book page 606 also prints
+   "Shiz perseguió á Coriántumr". But: modern BoM Éter 14:17
+   "persiguió"; "perseguir" is irregular, RAE preterite 3sg is
+   "persiguió" (e>i, like "seguir">"siguió"); reference corpora attest
+   only "persigui-" stem preterites ("persiguieron", "persiguiéronle",
+   "persiguiese"), zero "persegui-"; and the SAME page prints correct
+   "persiguió" at v.15. Per feedback_errors_log_diligence a shared-1886
+   reading is not a free pass when RAE/modern/corpora all point the
+   other way. NOT flagged by pptext (aspell accepts "perseguió"), but a
+   clean pptext section is not proof (per the skill note). Added to
+   `permitted words.txt`; logged in `errors in 1920.txt` with an
+   evidence note stating explicitly that 1886 shares the reading.
+ - "Agosh" (Éther 14:15,16) — NOT an error. Jaredite place name,
+   first appearance; 1886 "Agosh", modern BoM "Agosh" — consistent.
+   Session E rule 11 first bullet (unique BoM proper noun). Added to
+   `permitted words.txt` only. ("Gilead" v.8 and "Shiz" v.17 were
+   already in `permitted words.txt`; "Shared" too.)
+
+ - Éther 14:16 "Y cuando, llegó" — spurious comma after "cuando" with
+   no grammatical basis; 1886 book page 606 reads "Y cuando llegó"
+   (no comma), modern BoM Éter 14:16 also has no comma. LOGGED in
+   `errors in 1920.txt` (per editor instruction, 2026-08-28) as a
+   1920-only punctuation-placement deviation; no `permitted words.txt`
+   entry (punctuation, not spelling); preserved as printed.
+
+Checked and NOT logged in `errors in 1920.txt`:
+ - Éther 14:13 "Lib le dió a batalla" — "a" without the acute accent;
+   1886 book page 606 ALSO prints "Lib le dió a batalla" unaccented —
+   shared-lineage reading, not a 1920-only deviation; a bare missing
+   accent, Session E rule 11 first bullet. Not logged.
+ - Éther 14:11 "dió la batalla a Lib" — "a" unaccented; 1920's v.11
+   clause is a rewording with no 1886 counterpart to compare, and "a"
+   is a valid word (the preposition) merely missing 1920's usual
+   archaic accent. Not logged.
+
+Narrow-space-vs-merge pointers surfaced for the editor (rule 6 /
+feedback_narrow_space_vs_merge; committed as two words, editor to
+double-check the image at leisure — not a blocking question):
+ - Éther 14:9 "por su" — 1920 sets "por su Sumo Sacerdote" tight;
+   1886 book page 606 "por su Sumo Sacerdote" (two words), grammar
+   requires two words. Written "por su".
+ - Éther 14:15 "Lib le" — 1920 sets "Lib le persiguió" tight (Google
+   OCR fuses "Lible"); 1886 "Lib le persiguió" (two words), grammar
+   requires two words. Written "Lib le".
+
+Whole-document sweeps all re-ran clean this session:
+check_spaced_punctuation.py librodm.txt (clean, 32071 lines),
+check_footnote_punctuation.py librodm_foot.txt (clean, 4845 lines),
+check_verse_indent.py librodm.txt (clean), footnote-anchor <-> Block-2
+cross-check (max anchor 4516 = max def 4516; no duplicate defs; no
+anchored-without-def; only the long-documented Jacob 2:15 / 812
+defined-without-anchor gap remains, and 812 is the only number missing
+from the 1..4516 anchor range — the known 1920 print omission),
+curly-quote character scan of both master files (zero). Footnote check:
+anchors 4514-4516 contiguous with 4513, no dupes, no gaps, none out of
+range.
+
+Corpus detail for "perseguió" (2026-08-28, editor asked): the 1920
+spelling "perseguió" appears ZERO times in any reference corpus. El
+Quijote (Gutenberg 2000) has "persiguiéronle" and "persiguiese"
+(i-stem); the full Reina-Valera Bible (BYU/archive.org OCR) has
+"persiguieron" ×4; the Reina-Valera 1909 NT has no 3rd-person
+preterite of this verb at all. None attest an "e"-stem 3rd-person
+preterite.
+
+`permitted words.txt`: added "acondeció", "ilevó", "perseguió",
+"Agosh". `errors in 1920.txt`: added Éther 14:11 "acondeció", Éther
+14:15 "ilevó", Éther 14:16 "Y cuando, llegó" (spurious comma), Éther
+14:17 "perseguió" — all in book/chapter/verse order after the
+Éther 13:21 entry.

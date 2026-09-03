@@ -1,0 +1,209 @@
+Página 614
+22. Y cuando llegó la noche, estaban borrachos en su rabia
+del mismo modo que un hombre lo está con vino; durmiendo
+también aquella noche sobre sus espadas;
+23. Y en la mañana siguiente se repitió de nuevo la batalla,
+y cuando llegó la noche, todos habían caído por la espada, salvo
+cincuenta y dos de los del pueblo de Coriántumr; y sesenta y
+nueve del de Shiz.
+24. Sucedió que también durmieron aquella noche sobre sus
+espadas, y en la mañana siguiente pelearon otra vez, combatiendo
+con todo su poder, con sus espadas, y con sus escudos por todo
+aquel día;
+25. Y cuando llegó la noche, no quedaban más que treinta y
+dos de los de Shiz, y veintisiete de los del pueblo de Coriántumr.
+26. Y sucedió, que comieron y durmieron, y se prepararon para
+morir en la mañana siguiente. Y todos los que quedaban, eran
+hombres fuertes y robustos, en cuanto á la fortaleza del hombre.
+27. Y ocurrió, que pelearon por espacio de tres horas, y cayeron
+desmayados por la pérdida de sangre.
+28. Y ocurrió, entonces, que cuando los hombres de Coriántumr
+se restablecieron lo suficiente para poder andar, intentaron
+escaparse, para salvar sus vidas; pero, he aquí, que levantándose
+entonces Shiz con sus hombres, juró en su ira, que mataría á
+Coriántumr, ó moriría por la espada;
+29. Por lo tanto, les persiguió, hasta que logró alcanzarles en
+el siguiente día; y pelearon otra vez con sus espadas. Y aconteció,
+que cayeron todos por la espada, excepto Coriántumr, y
+Shiz se había desmayado por la pérdida de sangre.
+30. Sucediendo que cuando Coriántumr se hubo apoyado por
+algún tiempo sobre su espada para descansar, hirió á Shiz,
+cortándole la cabeza.
+31. Y sucedió, que después que hubo cortado la cabeza á Shiz,
+se levantó éste sobre sus manos y cayó. Y después de haber
+hecho un esfuerzo para recobrar aliento, murió.
+32. Y ocurrió, que [4530]Coríantumr cayó al suelo, permaneciendo
+como si no tuviera vida.
+33. Entonces el Señor dijo á Éther: Sal ahora; y saliendo
+vió como se habían cumplido las palabras del Señor, y entonces
+[4531]concluyó sus anales, (cuya [4532]centésima parte no he escrito
+yo,) ocultándolos de modo que el [4533]pueblo de Limhi los encontró.
+34. Ahora, las últimas palabras que escribió Éther, son estas:
+Si el Señor quisiere que yo sea trasladado, ó si quisiere que sufra
+su voluntad en la carne, poco importa; siempre que me salve en
+el reino de Dios. Amén.
+
+15l, 4530: Omni 1:20-22.
+15m, 4531: Éther 13:14.
+15n, 4532: Véase e, Éther 1.
+15o, 4533: Véase k, Mosíah 8.
+
+Corrections
+
+Page structure — page 614 opens MID-verse Éther 15:22, continuing from
+page 613 (page 613 ended v.21 "...pelearon otra vez hasta que llegó la
+noche;", last word "noche" NOT hyphenated, so no page-boundary
+word-split; the first body line here begins with the next verse number
+"22."). Per the carried-over-chapter convention the first body line
+follows "Página 614" with NO blank line. The whole page is Éther
+15:22-34, one chapter (Éther 15, opened back on page 612). Verse 34 is
+the LAST verse of Éther 15 and of the entire Book of Éther — the page
+ends the book at "...el reino de Dios. Amén."; the divider rule and
+footnote block follow immediately, with no end-of-book colophon line on
+this page. Page 615 will open the Book of Moroni.
+
+Raw line count: 44 image print lines read line-by-line from the
+top/mid/bot crops. One end-of-line hyphen split (rule 7): v.25
+"Corián-"/"tumr." → "Coriántumr." — the rejoined word (line ends at 66
+chars, < 73) stays at the end of its line and the fragment-only image
+line "tumr." is fully consumed, so final body line count = 43.
+A second hyphen split, v.29 "aconte-"/"ció,", was rejoined in place
+("...con sus espadas. Y aconteció," = 67 chars, kept at line end); its
+second image line retained the rest of its text ("que cayeron todos
+por la espada, excepto Coriántumr, y"), so no line-count change there.
+check_lines.py clean (all < 73).
+
+Rule 8 rebalance — v.33 image line "[4531]concluyó sus anales, (cuya
+[4532]centésima parte no he escrito yo,)" comes to exactly 73 chars
+with the two markers inserted; last word "yo,)" moved to the start of
+the next line ("yo,) ocultándolos de modo que el [4533]pueblo de Limhi
+los encontró." = 68 chars).
+
+Rule 31 — space before punctuation removed (the 1920 print sets a space
+before the mark throughout this page): "vino ;" (v.22), "espadas ;"
+(v.22), "Coriántumr ;" (v.23), "día ;" (v.24), "vidas ;" (v.28),
+"espada ;" (v.28), "día ;" (v.29), "Éther :" (v.33), "ahora ;" (v.33),
+"estas :" (v.34), "importa ;" (v.34). Footnote block rule 22 — spaced
+colons removed: "Omni 1 : 20-22." → "Omni 1:20-22." (15l),
+"Éther 13 : 14." → "Éther 13:14." (15m).
+
+Rule 6 — inter-word spacing normalized to one space throughout;
+justification double-spacing after sentence-final punctuation collapsed
+at v.26 "siguiente.  Y", v.29 "espadas.  Y", v.31 "cayó.  Y",
+v.33 "Éther:  Sal", v.34 "Dios.  Amén." Several word boundaries on this
+page are set with a reduced-width space (see the narrow-space list
+below).
+
+Footnote markers — 4 on this page, all in Éther 15 (chapter opened on
+page 612 with 15a-15c; letters d-k were on pages 612-613; letters
+continue l..o here, global number continues from page 613's 4529):
+ - 15l = [4530] before "Coríantumr" (v.32) — annotates "Coríantumr cayó
+   al suelo". Block 1: "Omni 1:20-22."
+ - 15m = [4531] before "concluyó" (v.33) — annotates "concluyó sus
+   anales". Block 1: "Éther 13:14."
+ - 15n = [4532] before "centésima" (v.33) — annotates "centésima parte
+   no he escrito". Block 1: "Véase e, Éther 1."
+ - 15o = [4533] before "pueblo" (v.33) — annotates "pueblo de Limhi los
+   encontró". Block 1: "Véase k, Mosíah 8."
+Footnote-entry letter 15l is an "l" → MANDATORY 1879 check (Section 8)
+performed now at transcription. chapter_map lists Éther 15 = 1879 file
+page 613, but 1879's pagination runs behind: 15a is on 1879 p.613,
+15d-15k on 1879 pp.614-615, and 15l-15o on 1879 p.616 (which also
+carries the end of Éther and the opening of Moroni 1). 1879 p.616
+footnote block prints, in a clean italic typeface: "l, Omni 1 : 20—22.
+m, Ether 13 : 14.   n, see e, Ether 1.   o, see k, Mos. 8." — the "l"
+is an unambiguous italic l (no dot, single continuous stroke); the "n"
+cross-ref target is a clean italic "e" (not "c"); the "o" cross-ref
+target is a clean italic "k" (not "b"). 1879 p.616 body places its
+markers: v.32 "that ^l Coriantumr fell to the earth" (= 1920 [4530]
+before "Coríantumr"), v.33 "and he ^m finished his record" (= [4531]
+before "concluyó"), v.33 "(and the ^n hundredth part I have not
+written.)" (= [4532] before "centésima"), v.33 "that the ^o people of
+Limhi did find them" (= [4533] before "pueblo"). All four letters and
+marker positions CONFIRMED against 1879; 15m content ("Éther 13:14")
+matches 1879's "Ether 13 : 14" exactly.
+
+Google-text cross-check (extract_google_text / google_text_1920/
+page_0636.txt): the automated body extractor works line-by-line here
+(no early blank line); after ignoring word-fusion and dropped/glued
+superscript letters, Google's OCR matches this transcription
+letter-for-letter EXCEPT at the v.32 "Coríantumr" spot (preserved as
+printed, logged — Google OCR also reads "Coríantumr" with the acute on
+the first "i") and the v.34 "su" spot, where Google OCR read a mark
+over the "u" ("sù"); the editor's direct look ruled that mark a stray
+speck (see the v.34 note below), so the transcription reads plain "su".
+Google word-fusions (spaces dropped, not
+transcription issues, not narrow-space-merge candidates): v.26
+"ydurmieron" / "yse", v.27 "espaciodetres", v.28 "Yocurrió" /
+"cuandolos", v.31 "quehubo".
+
+Preserved exactly as printed (rule 32); flagged for Session E's
+error-log judgement:
+ - v.32 "Coríantumr" — the acute accent is misplaced onto the first
+   "i" (Corí-) with none over the "a" (-antumr); every other occurrence
+   on this page (vv.23, 25, 28 ×1, 29, 30) prints the correct
+   "Coriántumr". Google OCR also reads "Coríantumr". Same misprint
+   class as page 611's Éther 14:26 "Coríantumr" (logged). Session E to
+   check 1886 and decide.
+ - v.34 "su voluntad" — a faint mark sits over the "u" in the 1920
+   scan; it was initially transcribed as a grave accent ("sù") and
+   flagged (Google OCR and pptext both read it as "sù", and a
+   same-page zoom read it as a down-to-the-right stroke), then
+   REVERSED 2026-08-29 on the editor's direct look at the page: the
+   mark is too light to be typeset — a stray speck, not real type
+   (rule 36 — the editor's own look is decisive; cf. III Nefi 14:2,
+   18:28, page 594 Éther 8:23, page 611 Éther 14:19 "suceder que").
+   Body text now reads "su voluntad" (matches 1886 file p.628); the
+   Éther 15:34 entry was removed from errors in 1920.txt and "sù"
+   removed from permitted words.txt; no permitted-words entry.
+ - Archaic accented preterites/forms kept per rule 32: "llegó"
+   (vv.22,23,25), "repitió" (v.23), "Sucedió"/"sucedió" (vv.24,26,31),
+   "ocurrió" (vv.27,28,32), "persiguió" (v.29), "logró" (v.29),
+   "aconteció" (v.29), "hirió" (v.30), "levantó" (v.31), "cayó" (v.31),
+   "vió" (v.33), "concluyó" (v.33), "escribió" (v.34), "á"/"ó"
+   (archaic accented "to"/"or"), "aquí" (v.28), "Señor" (v.33),
+   "mañana" (vv.23,24), "última(s)" (v.34).
+
+Narrow-space word-pairs (rule 6 / feedback_narrow_space_vs_merge /
+editor guidance — this page's print sets several word boundaries with a
+reduced-width space, tighter than normal word spacing on the line but
+NOT a true zero-width merge on zoom; all committed now as two words
+with a single normal space, since grammar requires two words. Surfaced
+here for Session E's editor double-check against the image, NOT raised
+as blocking questions):
+ - v.26 "comieron y durmieron" / "durmieron, y se" — reduced gaps
+   around the conjunction "y"; Google fused ("ydurmieron", "yse").
+ - v.27 "espacio de tres" — reduced gaps; Google fused
+   ("espaciodetres").
+ - v.28 "Y ocurrió" / "cuando los" — reduced gaps; Google fused
+   ("Yocurrió", "cuandolos").
+ - v.31 "que hubo" — reduced gap; Google fused ("quehubo").
+
+Proper names on this page: "Coriántumr" (vv.23,25,28,29,30 accented on
+the "a", consistent; v.32 misprinted "Coríantumr" — see above),
+"Shiz" (vv.23,25,28,30,31), "Éther" (vv.33,34, and Block 1 15m/15n),
+"Limhi" (v.33), "Omni" (Block 1 15l), "Mosíah" (Block 1 15o).
+
+Session B — footnote verification (independent re-check, 2026-08-29).
+Fresh 1920 fn-block crop (7x, full width) re-read: all four entries
+15l-15o confirmed unchanged — "15l, 4530: Omni 1:20-22." /
+"15m, 4531: Éther 13:14." / "15n, 4532: Véase e, Éther 1." /
+"15o, 4533: Véase k, Mosíah 8." The 1920 fn prints "Omni 1 : 20-22."
+and "Éther 13 : 14." with spaced colons (rule 22 removes the spaces).
+Superscript entry-letters l..o run in clean sequence.
+MANDATORY i/l/1 check (15l is an "l") — re-done independently against
+1879: fresh crop of pages_1879/page_0616.png footnote block read at 5x —
+"l, Omni 1 : 20—22.   m, Ether 13 : 14.   n, see e, Ether 1.
+o, see k, Mos. 8." in a clean italic typeface. The "l" is a single
+continuous stroke with no dot (not "i", not "1"); the "n" cross-ref
+target is a clean italic "e"; the "o" cross-ref target is a clean
+italic "k". 1879 p.616 body marker placements re-confirmed at the same
+crop: v.32 "^l Coriantumr fell to the earth" = 1920 [4530] before
+"Coríantumr"; v.33 "he ^m finished his record" = [4531] before
+"concluyó"; v.33 "the ^n hundredth part" = [4532] before "centésima";
+v.33 "the ^o people of Limhi did find them" = [4533] before "pueblo".
+Body markers [4531]/[4532]/[4533] re-cropped fresh at 9x — [4531]
+immediately before "concluyó", [4532] immediately before "centésima",
+[4533] immediately before "pueblo" (all in v.33); [4530] immediately
+before "Coríantumr" (v.32). No changes to page_614.txt body or Block 1
+from Session B.

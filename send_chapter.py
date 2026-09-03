@@ -116,8 +116,8 @@ def extract_chapter(book_key, chapter_num):
     later = [p[0] for p in positions if p[0] > book_start]
     book_end = min(later) if later else notas_start
 
-    chap_re = re.compile(r"^CAP[IÍ]TULO\s+" + str(chapter_num) + r"\.$")
-    next_chap_re = re.compile(r"^CAP[IÍ]TULO\s+" + str(chapter_num + 1) + r"\.$")
+    chap_re = re.compile(r"^CAP[IÍ]TULO\s+" + str(chapter_num) + r"\.(\s|$)")
+    next_chap_re = re.compile(r"^CAP[IÍ]TULO\s+" + str(chapter_num + 1) + r"\.(\s|$)")
 
     chap_start = None
     for i in range(book_start, book_end):
@@ -142,6 +142,23 @@ def extract_chapter(book_key, chapter_num):
         chapter_lines.pop(0)
     while chapter_lines and chapter_lines[-1].strip() == "":
         chapter_lines.pop()
+
+    # Safety check: the extracted body must not contain any other chapter
+    # heading. If the next-chapter boundary regex failed to match (e.g. an
+    # unexpected variant like a trailing "(Véase ...)" annotation), extraction
+    # silently runs past its boundary and grabs subsequent chapters too — this
+    # catches that before a bloated chapter gets written or emailed.
+    stray_chap_re = re.compile(r"^CAP[IÍ]TULO\s+(\d+)\.")
+    for line in chapter_lines[1:]:
+        m = stray_chap_re.match(line.rstrip("\n"))
+        if m and int(m.group(1)) != chapter_num:
+            raise RuntimeError(
+                f"Extraction for '{book_key}' chapter {chapter_num} ran past its "
+                f"boundary — found 'CAPÍTULO {m.group(1)}.' inside the extracted "
+                "text. The next-chapter heading likely didn't match the boundary "
+                "regex. Aborting before writing/sending."
+            )
+
     chapter_text = "".join(chapter_lines)
 
     footnote_nums = []
