@@ -14,8 +14,7 @@ fabricando toda clase de paños y telas de lino, para cubrir su
 desnudez. Y así se pasó en paz el año sexagésimo-cuarto.
 14. Y en el año sexagésimo-quinto, reinó igualmente la paz y
 una gran alegría; en cuyo tiempo hubo numerosas predicaciones
-y profecías sobre el porvenir. Pasando así el año sexagésimo-
-quinto.
+y profecías sobre el porvenir. Pasando así el año sexagésimo-quinto.
 15. Y vino á suceder, que en el año sexagésimo-sexto del
 gobierno de los Jueces, fué asesinado [3254]Cezóram por mano
 desconocida, cuando se hallaba sentado en la silla judicial. Y
@@ -62,6 +61,12 @@ line-break split.
 split.
 [v.15] "des-" + "conocida" → "desconocida" — rejoined hyphenated
 line-break split.
+[v.14, editor 2026-09-05] "sexagésimo-" / "quinto." — Session A left the
+compound ordinal "sexagésimo-quinto" split across a line break at its
+own hyphen; rejoined onto one line ("...Pasando así el año
+sexagésimo-quinto."), hyphen kept, matching every other compound
+ordinal in the document. Synced to librodm.txt. No errors in 1920.txt
+entry — line-break choice only.
 [fn 6n] "Véase l, II Nefi 10." → "Véase i, II Nefi 10." — misread the
 cross-reference superscript at initial transcription (glyph is a short
 stroke with a distinct separated dot, not the flowing unbroken curve

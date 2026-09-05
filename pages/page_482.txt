@@ -26,7 +26,7 @@ diciéndole:
 13. Levanta tu cabeza y regocíjate; porque el tiempo se
 acerca, y en [3416]esta noche será dada la señal, y mañana yo vendré
 al mundo para mostrar á los hombres que cumpliré todas las
-cosas que he anunciado por. boca de mis santos profetas.
+cosas que he anunciado por boca de mis santos profetas.
 14. He aquí, que vengo á los míos para cumplir todas las
 cosas que he dado á conocer á los hijos de los hombres, [3417]desde
 el principio del mundo, y para cumplir la voluntad del Padre
@@ -100,10 +100,16 @@ to ink (possible worn/broken type, or a scan-copy artifact per the
 [v.11] "Dos" — suspected misprint for "Dios" (missing "i"); confirmed
 at zoom (clean 3-letter "D-o-s", no gap suggesting damage). Preserved as
 printed.
-[v.13] "por. boca" — a period appears between "por" and "boca" with no
-grammatical justification ("...anunciado por boca de mis santos
-profetas" reads as one clause). Confirmed at zoom — a real printed dot,
-not a resize/compression artifact. Preserved as printed.
+[v.13] "por boca" — a dot originally appeared between "por" and "boca"
+with no grammatical justification and was transcribed as a period,
+then logged in errors in 1920.txt with a standing editor note that it
+looked like a scan speck (connected-components analysis at native
+resolution had found the mark smaller and 2px higher than genuine
+periods on the same pages). REVERSED 2026-09-05: editor reviewed the
+image and confirmed it is a STRAY MARK, not printed type. The dot was
+removed from the text ("por boca") and the errors in 1920.txt entry
+was removed. 1886 prints "por boca" with no punctuation between the
+words.
 [v.16] "frustado" — suspected misprint for "frustrado" (missing "r");
 confirmed at zoom. Preserved as printed.
 [Session E] Fresh pptext regeneration (`report_wsl_20260721.html`)
@@ -119,11 +125,12 @@ suspected-misprint items from this page's Corrections log:
 - "Dos" (v.11): 1886 prints "Dios" — confirmed a genuine 1920-only
   misprint (missing "i"). Added to `errors in 1920.txt`.
 - "por. boca" (v.13): 1886 reads "por boca" with no punctuation at
-  all between the words — confirmed a genuine 1920-only spurious
-  period, distinct from the "punto por coma" pattern already logged
-  for Alma 43:9 and others (there, 1886 has a comma where 1920 has a
-  period; here 1886 has nothing at all). Added to `errors in
-  1920.txt`.
+  all between the words. Was added to `errors in 1920.txt` as a
+  1920-only spurious period. [SUPERSEDED 2026-09-05: on the editor's
+  manual review the dot was ruled a stray scan mark, not printed
+  type — removed from the text ("por boca") and the errors-log entry
+  deleted. See the "[v.13] por boca" and "[RESOLVED 2026-09-05"
+  entries elsewhere in this Corrections section.]
 - "frustado" (v.16): 1886 ALSO prints "frustado" (shared-error pattern
   like "seperado"), so the 1886 match alone does not clear it —
   independent research confirms it's still wrong: RAE DLE has no
@@ -158,13 +165,12 @@ sits a full 2px clear above the baseline instead of touching/crossing
 it, and is both shorter and lighter than any genuine period on these
 four pages. This is quantitative support for the editor's suspicion
 that this mark is a stray fleck/smudge from the scan, not a genuinely
-typeset period — but it is NOT being treated as resolved: the
-transcription still reads "por. boca" as printed/scanned, and the
-`errors in 1920.txt` entry has been annotated with this finding rather
-than removed. Left for a manual look at the raw page image before any
-final call; no change to the transcribed text or to the general
-Session E workflow — this kind of visual/quantitative dot comparison is
-a case-by-case judgment call, not a new automatic check.
+typeset period.
+[RESOLVED 2026-09-05] The editor did that manual look and confirmed
+the mark is a stray scan artifact, not printed type. The dot was
+removed from the transcription ("por boca") and the `errors in
+1920.txt` entry was deleted. See the "[v.13] por boca" entry near the
+top of this Corrections section for the current state.
 [Session B] Independently re-read pages_1920/page_0504.png fn_zoom
 against all twelve Block 1 entries (h-s) — reference text matches the
 image exactly (before the rule 23 range-formatting applied to the four

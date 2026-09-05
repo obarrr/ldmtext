@@ -2,7 +2,7 @@ Página 562
 11. Y es imposible para la lengua del hombre el describir, ó
 el dar por su mano una relación perfecta de la horrible escena de
 sangre y de carnicería que tenía lugar entre el pueblo, tanto de
-los Nefitas, como de los Lamanitas, y todo corazón. se endureció
+los Nefitas, como de los Lamanitas, y todo corazón se endureció
 de tal manera, que se deleitaban en derramar sangre continuamente.
 12. Y nunca hubo tanta maldad entre los hijos de Lehi, ni
 aún entre toda la casa de Israel, según las palabras del Señor,
@@ -69,21 +69,19 @@ inserted [4124] marker, no rebalancing needed); v.15 "sacri-/ficado"
 right at the rule-9 cap but not over it, no rebalancing needed);
 v.18 "desa-/parecer" -> "desaparecer" (65 chars, no rebalancing
 needed).
-Preserved as printed, suspected misprint (added to errors in
-1920.txt): v.11 "corazón.se" -- the 1920 print shows a period
-directly between "corazón" and "se" with no space and no following
-capital, where grammar calls for a comma or no mark at all ("y todo
-corazón se endureció de tal manera"). Confirmed via two independent
-readings: a direct high-zoom crop, and the page's own Google-OCR
-text layer (google_text_1920/page_0584.txt line 4), which also reads
-"corazón.se" with no space -- strong evidence this is genuine printed
-ink, not a stray speck (per the rule 36 logic that Google's OCR
-reliably drops marks that aren't really printed). Checked against
-1886 (pages_1886/page_0576.png, book page 558, v.11): reads "todo
-corazon se endureció" with plain single spacing and no punctuation
-mark at all, confirming the 1920 period is a genuine misprint, not a
-legitimate variant. Transcribed as printed with spacing normalized
-per rule 6 ("corazón. se endureció").
+v.11 "corazón se endureció": the 1920 print showed a mark directly
+between "corazón" and "se" (jammed together, no space, no following
+capital), where grammar allows nothing ("y todo corazón se endureció
+de tal manera"). Session A/E read it as a genuine period and logged
+it in errors in 1920.txt, noting the page's own Google-OCR
+(google_text_1920/page_0584.txt line 4) also read "corazón.se". 1886
+(pages_1886/page_0576.png, book page 558) reads "todo corazon se
+endureció" with normal spacing and no mark.
+[REVERSED 2026-09-05] Editor reviewed the high-res scan and ruled the
+mark a STRAY SPECK, not printed type. It was removed from the
+transcription ("y todo corazón se endureció") and the errors in
+1920.txt entry deleted. Per editor rule, print defects are not logged
+— only textual errors.
 Footnote-block print-quality issue, resolved via mandatory 1879
 cross-check (entries i and l's own target-reference glyphs, both
 letters in the mandatory i/l/1 set): the 1920 print is essentially

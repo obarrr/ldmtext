@@ -18,8 +18,8 @@ de su oro y de su plata.
 ellos en el término de pocos años; tanto, que la mayor parte de
 ellas aparecieron entre el pueblo en el año sexagésimo-séptimo
 del gobierno de los Jueces sobre el pueblo de Nefi.
-33. Y aumentaron ellos en sus iniquidades en el año sexagésimo-
-octavo también, con gran dolor y mortificación de los justos.
+33. Y aumentaron ellos en sus iniquidades en el año sexagésimo-octavo
+también, con gran dolor y mortificación de los justos.
 34. Y así, vemos como los Nefitas empezaron á caer en la
 incredulidad, y á acrecentar en perversidad y abominaciones,
 mientras que los Lamanitas empezaban á aumentar excesivamente
@@ -51,3 +51,9 @@ los asuntos del gobierno, de tal modo que pisotearon é hirieron,
 Corrections
 [page] Running header "452 LIBRO DE HELAMÁN. (CAP. VI." discarded.
 [page] "Digitized by Google" watermark removed.
+[v.33, editor 2026-09-05] "sexagésimo-" / "octavo" — Session A left the
+compound ordinal "sexagésimo-octavo" split across a line break at its
+own hyphen; rejoined onto one line ("...en el año sexagésimo-octavo" /
+"también, con gran dolor..."), hyphen kept, matching every other
+compound ordinal in the document. Synced to librodm.txt. No errors in
+1920.txt entry — line-break choice only.

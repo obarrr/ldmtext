@@ -5,7 +5,7 @@ la destrucción de Jerusalem.) Y, ahora, sabemos que Jerusalem
 ha sido destruida según las palabras de Jeremías. Así pues,
 ¿porqué no ha de venir el Hijo de Dios según su profecía?
 21. Y ahora ¿disputaréis también que la ciudad de Jerusalem
-no ha-sido destruida? ¿Diréis que los hijos de Sedecías
+no ha sido destruida? ¿Diréis que los hijos de Sedecías
 no fueron asesinados, excepto [3290]Mulek? ¿Y no véis que la
 posteridad de Sedecías está con nosotros, y que fué echada
 del país de Jerusalem? Empero, he aquí, que esto no es todo.
@@ -69,9 +69,15 @@ words.txt`; both entries removed since the word was never actually
 misprinted.
 [v.21] "Jerusa-" + "lem" → "Jerusalem" — rejoined hyphenated
 line-break split; rejoined line fits end of line.
-[v.21] "ha-sido" — preserved as printed; stray hyphen between "ha" and
-"sido" with no clear function (not a line-break word split, and "ha
-sido" is otherwise two ordinary words); verify against 1886.
+[v.21] "ha sido" — Session A saw a hyphen between "ha" and "sido"
+("ha-sido") with no clear function (not a line-break split; "ha sido"
+is two ordinary words, and 1920 itself writes "ha sido destruida"
+correctly one clause earlier in the same verse), and preserved it as
+printed. It was logged in errors in 1920.txt. REVERSED 2026-09-05:
+editor reviewed the image and confirmed the mark is a STRAY SPECK,
+not a printed hyphen. Removed from the text ("ha sido") and the
+errors in 1920.txt entry deleted. Per editor rule, print defects are
+not logged — only textual errors.
 [v.23] "ma-" + "nifiesta," → "manifiesta," — rejoined hyphenated
 line-break split; rejoined line (69 chars) fits end of line.
 [fn i] Cross-checked against 1879 (page 460): confirmed footnote text

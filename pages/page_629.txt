@@ -1,0 +1,318 @@
+Página 629
+5. Y por el poder del Espíritu Santo conoceréis la verdad de
+todas las cosas.
+6. Todo lo que es bueno, es también justo y verdadero; por
+lo tanto, nada que sea bueno, niega á Cristo, sino que reconoce
+que Él existe.
+7. Y por el poder del Espíritu Santo conocerás que Él existe,
+por tanto os exhorto, á que [4639]no neguéis el poder de Dios; porque
+Él obra por su poder [4640]según la fe de los hijos de los hombres, lo
+[4641]mismo hoy que mañana, y para siempre.
+8. Y os exhorto también, amados hermanos míos, á que no
+[4642]neguéis los dones de Dios, porque hay muchos; y ellos vienen
+del mismo Dios. Y estos dones son administrados en diversas
+maneras; empero es el mismo Dios que lo obra todo en todo;
+y ellos son dados por manifestación del Espíritu de Dios á los
+hombres, para su provecho.
+9. [4643]Porque, he aquí, que á uno le es dado por el Espíritu de
+Dios, para que enseñe la palabra de sabiduría;
+10. Y á otro, para que enseñe la palabra de ciencia por el
+mismo Espíritu;
+11. Y á otro, fe excesiva; á otro, dones de sanidades por el
+mismo Espíritu.
+12. Y también á otro, poder para obrar poderosos milagros;
+13. Y á otro, que pueda profetizar sobre todas las cosas;
+14. Y á otro, el don de ver á los ángeles y espíritus ministradores;
+15. Y á otro, el don de toda clase de lenguas;
+16. Y á otro, el don de interpretaciones de lenguas y de
+diversas clases de idiomas.
+17. Y todos estos dones vienen por el Espíritu de Cristo; que
+reparte particularmente á cada uno como Él quiere;
+18. Y os exhorto, amados hermanos míos, á que tengáis
+presente que [4644]todo buen don viene de Cristo.
+19. Y os exhorto, amados hermanos míos, á que os acordéis
+que Él es el [4645]mismo ayer, hoy y siempre, y que todos estos dones
+de que os he hablado, que son espirituales, no cesarán [4646]nunca de
+existir, mientras que permanezca la tierra, como no sea solamente
+en proporción á la incredulidad de los hijos de los hombres.
+20. [4647]Por cuyo motivo es necesario que haya fe; porque si
+hay fe, habrá también esperanza; y si debe haber esperanza, debe
+haber también caridad;
+21. Y excepto que tuviereis caridad, no podréis salvaros de
+ningún modo en el reino de Dios; ni podréis salvaros en el reino
+
+10e, 4639: Véase r, II Nefi 26.
+10f, 4640: Véase d, III Nefi 17.
+10g, 4641: Véase d, Mormón 9.
+10h, 4642: Véase e, III Nefi 29.
+10i, 4643: Véase e, III Nefi 29; I Corintios 12:8-11.
+10j, 4644: Véase o, Éther 4.
+10k, 4645: Véase d, Mormón 9.
+10l, 4646: Véase 2d, Moroni 7.
+10m, 4647: Véase a, Moroni 7.
+
+Corrections
+- Page opens with a fresh verse number (5), continuing Moroni 10 from
+  page 628 (which ended mid-verse 10:4 "...el poder del Espíritu
+  Santo;"). Per rule 1: "Página 629" on its own line, body text on the
+  very next line, no blank line after the marker, no chapter heading.
+  Moroni 10 continues (letters climb from 10d; global number from
+  4638). No page-boundary word split (rule 10 N/A — page 628 ended on
+  the complete word "Santo;").
+- Running header "CAP. X.)  LIBRO DE MORONI.  629" discarded (rule 2).
+- Rule 7 hyphen rejoins (2), both kept at the end of the first line:
+  "minis-/tradores" → "ministradores" (v.14, rejoined line = 68 chars
+  after rule-31 de-spacing of the trailing ";"; "tradores ;" line
+  consumed); "sola-/mente" → "solamente" (v.19, rejoined line = 65;
+  the next line becomes "en proporción á la incredulidad de los hijos
+  de los hombres."). No rule 8 rebalance (longest resulting line = 72,
+  the "hay fe, habrá también esperanza; y si debe haber esperanza,
+  debe" line).
+- Rule 31 space-before-punctuation removed, ×17 (1920 sets a space
+  before ";" throughout this page): v.6 "verdadero ;", v.7 "de Dios ;",
+  v.8 "maneras ;", v.8 "todo en todo ;", v.9 "sabiduría ;", v.10
+  "Espíritu ;", v.11 "fe excesiva ;", v.12 "milagros ;", v.13
+  "cosas ;", v.14 "ministradores ;", v.15 "lenguas ;", v.17 "de
+  Cristo ;", v.17 "quiere ;", v.20 "haya fe ;", v.20 "esperanza ;",
+  v.20 "caridad ;", v.21 "de Dios ;".
+- Rule 6 sentence double-space collapsed to one space: v.8 "del mismo
+  Dios.  Y estos dones". No zero-width merges.
+- Footnote markers (9): 10e=[4639] "no" (v.7, before "no neguéis el
+  poder de Dios"); 10f=[4640] "según" (v.7); 10g=[4641] "mismo" (v.7,
+  before "mismo hoy que mañana"); 10h=[4642] "neguéis" (v.8);
+  10i=[4643] "Porque" (v.9, verse-initial); 10j=[4644] "todo" (v.18,
+  before "todo buen don"); 10k=[4645] "mismo" (v.19, before "mismo
+  ayer, hoy y siempre"); 10l=[4646] "nunca" (v.19, before "nunca de
+  existir"); 10m=[4647] "Por" (v.20, verse-initial).
+- Same book (Book of Moroni continues) and same chapter (Moroni 10
+  continues from page 628), so Block 1 gets NO blank line and NO book
+  header (rule 20).
+- MANDATORY i/l/1 check — entry letters 10i ("i") and 10l ("l") are
+  both in the i/l/1 set:
+  - 10i: 1879's Moroni 10 footnote set (file p.629, book p.621) HAS an
+    "i" entry — "i, see e, III. Nep. 29. I. Corinth. 12:8-11." — an
+    exact content match to 1920's 10i (III Nefi 29 + I Corintios
+    12:8-11). Confirmed. 1879 body marker also confirms placement:
+    v.9 "ⁱFor behold, to one is given by the Spirit of God" —
+    verse-initial, matching the 1920 marker before "Porque". 1920
+    fn-block glyph: short x-height mark, no ascender/descender.
+  - 10l: 1879's Moroni 10 footnote set runs a-i only (1920 runs a-m —
+    rule 26 divergence, 1920 carries additional cross-references), so
+    there is no 1879 counterpart to check against. Resolved by the
+    unambiguous alphabetical sequence e-f-g-h-i-j-k-l-m (all nine
+    present in the fn block, each with its own body marker in vv.7-20)
+    plus glyph shape (thin vertical stroke = "l").
+- 1879 cross-check (Moroni 10 footnotes, 1879 file p.629, book p.621)
+  confirms 10a-10i letter-for-letter: "a, III. Nep. 2:8. b, Mor. 6:6.
+  c, see m, Mos. 2. d, vers. 5,7. See c, Moro. 3. e, see r, II. Nep.
+  26. f, see d, III. Nep. 17. g, see d, Mor. 9. h, see e, III. Nep.
+  29. i, see e, III. Nep. 29. I. Corinth. 12:8-11." (10a-10d were this
+  chapter's page-628 entries). 1879 body markers confirm every e-i
+  placement: (e) "deny ᵉnot the power of God" v.7; (f) "for he
+  worketh by power, ᶠaccording to the" v.7; (g) "the ᵍsame to-day and
+  to-morrow" v.7; (h) "that ye ʰdeny not the gifts of God" v.8; (i)
+  "ⁱFor behold, to one is given" v.9. So 10e-10i are each resolved
+  exactly off the 1879 type:
+    10e = "Véase r, II Nefi 26." (1920 fn glyph is an over-inked blob
+      with a vertical stem; 1879 "see r"; 1920's own II Nefi 26r
+      [footnote 671] = "II Nefi 28:5-6; Mormón 8:26; 9:7-26; Moroni
+      7:33,38." — II Nefi 28:5-6 "deny the power of God" is an exact
+      fit for the marker on "no [neguéis el poder de Dios]").
+    10f = "Véase d, III Nefi 17." (1879 "see d"; 1920's III Nefi 17d
+      [3744] = "II Nefi 27:23; Éther 12:12." — II Nefi 27:23 "I work
+      not among the children of men save it be according to their
+      faith" is an exact fit for the marker on "según [la fe]").
+    10g = "Véase d, Mormón 9." (1879 "see d"; Mormón 9d [4240] =
+      "Versículos 10,19; ..." — Mormón 9:9-10,19 "God is the same
+      yesterday, to-day, and forever ... an unchangeable Being" fits
+      the marker on "mismo [hoy que mañana, y para siempre]").
+    10h = "Véase e, III Nefi 29." (1879 "see e"; 1920's III Nefi 29e
+      [4016] = "Mormón 9:7-11,15-26; Moroni 7:35-38; 10:19-29." —
+      reciprocally cites Moroni 10:19-29).
+    10i = "Véase e, III Nefi 29; I Corintios 12:8-11." (1879 "see e,
+      III. Nep. 29. I. Corinth. 12:8-11"; III Nefi 29e as above; I
+      Corintios 12:8-11 is the classic gifts-of-the-Spirit list,
+      fitting the marker at the head of the gift enumeration vv.9-17).
+- 10j/10k/10l/10m cross-reference targets — no 1879 counterpart (1879
+  Moroni 10 = a-i only). The 1920 superscript letters in this fn block
+  are heavily over-inked and illegible at the letter level even at
+  20x; resolved by content-fit plus reciprocal back-references in
+  librodm_foot.txt:
+  - 10j "Véase o, Éther 4." — round over-inked blob (o/e-shaped).
+    Éther 4o [4352] = "Moroni 7:5-22; 10:6-7." — Moroni 7:5-22 is
+    Mormón's "every good thing cometh of Christ" discourse, a mutual
+    cross-reference for Moroni 10:18 "todo buen don viene de Cristo".
+    "Véase o, Éther 4" is an established form in librodm_foot.txt
+    (used by Moroni 7e, 7g). Read as "o"; FLAGGED for the editor
+    (illegible glyph, content-resolved).
+  - 10k "Véase d, Mormón 9." — same target as 10g. Mormón 9d [4240] =
+    "Versículos 10,19; ..." ("God is the same yesterday, to-day, and
+    forever") — exact fit for the marker on "mismo ayer, hoy y
+    siempre" (v.19).
+  - 10l "Véase 2d, Moroni 7." — over-inked wide blob consistent with
+    the two-character code "2d". Moroni 7-2d [4590] = "Versículo 38;
+    Moroni 10:19,23-27." — reciprocally cites Moroni 10:19, exact fit
+    for the marker on "nunca" (v.19, gifts "no cesarán nunca de
+    existir"). The same cross-ref "Véase 2d, Moroni 7" also appears in
+    page 630's own fn block (per google_text_1920/page_0652.txt).
+  - 10m "Véase a, Moroni 7." — single over-inked blob (a/e-shaped).
+    Moroni 7a [4561] = "Versículos 21-39,40-44,45-48; Éther 12:3-37;
+    Moroni 8:14,26; 10:20-23." — reciprocally cites Moroni 10:20-23,
+    exact fit for the verse-initial marker at v.20 (the
+    faith/hope/charity chain: "Por cuyo motivo es necesario que haya
+    fe..."). "Véase a, Moroni 7" is an established form (Moroni 8i,
+    8x); "Véase e, Moroni 7" is unattested anywhere in
+    librodm_foot.txt. Read as "a"; FLAGGED for the editor (illegible
+    glyph, content-resolved).
+- Rule 22/23: 10i "I Corintios 12 : 8-11" → "I Corintios 12:8-11"
+  (colon de-spaced; 8-11 are consecutive verses, kept as a hyphenated
+  range).
+- Google-text cross-check (Session A step 10): UNAVAILABLE for this
+  page. `extract_google_text.py 629` (file 651) returns Éther 13
+  content ("...una Nueva Jerusalem... Los que fueren primeros, serán
+  los últimos..."), not Moroni 10:5-21 — the 1920 PDF's embedded text
+  layer is misaligned/corrupt at this one file page (adjacent file
+  pages extract correctly: 650 = book 628 = Moroni 9:22-10:4, 652 =
+  book 630 = Moroni 10:21-32). No letter-level second opinion was
+  possible; the page rests on the per-line image read, the full 1879
+  cross-check (which pins 10a-10i exactly), and content-fit/reciprocal
+  resolution for 10j-10m.
+- feedback_narrow_space_vs_merge: no narrow-space / possible-merge
+  word pairs noticed on this page.
+- "excesiva" (v.11, "fe excesiva") preserved as printed — 1920 form
+  for modern "excesiva"/"grande"; not modernized (rule 32).
+
+Session B (footnote verification) — independent re-pass:
+- Fresh 1920 fn-block crops (5x whole block + per-entry zooms) and
+  fresh body-marker crops (3x, all 9 markers) taken independently of
+  Session A. All 9 Block 1 entries UNCHANGED; all 9 body-marker
+  placements UNCHANGED.
+- Block 1 entry letters re-read off the 1920 block: e, f, g, h, i, j,
+  k, l, m — a clean unbroken alphabetical run, each with its own body
+  marker (10e-10g in v.7, 10h in v.8, 10i in v.9, 10j in v.18, 10k-10l
+  in v.19, 10m in v.20).
+- MANDATORY i/l/1 re-check, entry letters 10i ("i") and 10l ("l"):
+  independent fresh crop of 1879 file p.629 (book p.621) Moroni 10
+  footnote block re-read — "a, III. Nep. 2:8. b, Mor. 6:6. c, see m,
+  Mos. 2. d, vers. 5,7. See c, Moro. 3. e, see r, II. Nep. 26. f, see
+  d, III. Nep. 17. g, see d, Mor. 9. h, see e, III. Nep. 29. i, see e,
+  III. Nep. 29. I. Corinth. 12:8-11." The 1879 italic type is clean:
+  entry "i" is a clear short x-height "i" with a dot, no
+  ascender/descender, and its content (III Nefi 29 + I Corintios
+  12:8-11) matches 1920's 10i exactly. 1879's Moroni 10 block ends at
+  "i" (a-i only), so 1920's 10l ("l") has no 1879 counterpart —
+  confirmed "l" by the unbroken e→m sequence (all present, all with
+  body markers) and by the 1920 glyph (thin vertical stroke with
+  ascender, no descender; distinct from the dotted short "i" of 10i
+  and the descender of "j").
+- Cross-reference targets re-read off 1879 for 10e-10i: e→"r" (II Nefi
+  26), f→"d" (III Nefi 17), g→"d" (Mormón 9), h→"e" (III Nefi 29),
+  i→"e" (III Nefi 29) — all clean italic letters in 1879, all
+  unchanged. 10j-10m targets (o, d, 2d, a) have no 1879 counterpart
+  and stand on the Session A content-fit / reciprocal analysis; the
+  10j "o" and 10m "a" reads remain FLAGGED for the editor (1920
+  glyphs over-inked and illegible).
+- Google-text cross-check still UNAVAILABLE (file 651 text layer =
+  Éther 13); no change from Session A.
+- No text changes this session.
+
+Session C (integration) note:
+- insert_body_text.py 629 — librodm.txt 32963→33006 (+43); librodm_foot.txt
+  4973→4982 (+9 Block 1 entries, NO blank line / NO book header —
+  Moroni ch.10 continues within the Book of Moroni, rule 20). Body
+  text inserted immediately before "Notas" with blank-line separator
+  after page 628's last line. Página sequence 625..629 contiguous.
+
+Session D (Block 2) note:
+- generate_block2.py 629 appended 4639-4647 (librodm.txt 33006→33015).
+  8 of 9 cross-refs resolved cleanly: 4639→671 (II Nefi 26r),
+  4640→3744 (III Nefi 17d), 4641→4240 (Mormón 9d), 4642→4016 (III
+  Nefi 29e), 4644→4352 (Éther 4o), 4645→4240 (Mormón 9d), 4646→4590
+  (Moroni 7-2d), 4647→4561 (Moroni 7a). Both reciprocal targets check
+  out: 4016 = "...Moroni 7:35-38; 10:19-29." and 4590 = "Versículo 38;
+  Moroni 10:19,23-27." and 4561 = "...Moroni 8:14,26; 10:20-23."
+- KNOWN compound-Block-1-entry bug hit on 4643 (10i =
+  "Véase e, III Nefi 29; I Corintios 12:8-11." — a "Véase" clause
+  followed by "; I Corintios 12:8-11", a plain reference): the script
+  mis-parsed it, grabbing the "12" out of "I Corintios 12:8-11" and
+  matching III Nefi *12*e (→ 3666) instead of III Nefi 29e, and
+  dropped the "I Corintios" text entirely. Fixed by hand in
+  librodm.txt line 33011: "4643: Véase 4016; I Corintios 12:8-11."
+  (same as the CLAUDE.md "compound Block 1 entry" warning and the
+  page-573 precedent).
+- Anchor↔Block-2 sweep after append + fix: max anchor 4647 = max def
+  4647, contiguous 1..4647, no gaps/dupes; only the long-documented
+  Jacob 2:15/812 def-without-anchor remains. No wrapped-Block-1-entry
+  spurious-trailer bug (Notas tail ends cleanly at "4647: Véase
+  4561.").
+
+Session E (orthography) — fresh full pptext report
+workspace/report_wsl_20260903e.html walked end to end:
+- SPELLCHECK: ZERO new page-629 suspects. Every word in Moroni 10:5-21
+  is common ("conoceréis", "reconoce", "neguéis", "manifestación",
+  "provecho", "sabiduría", "ciencia", "sanidades", "milagros",
+  "profetizar", "ministradores", "interpretaciones", "idiomas",
+  "incredulidad", "esperanza", "caridad", "tuviereis"). No permitted
+  words.txt additions. "excesiva" (v.11) NOT flagged (valid RAE word;
+  "excesiva/excesivamente" appears many times elsewhere in
+  librodm.txt).
+- Every other page-629 hit is a known structural false positive: the
+  short-lines flood over the 40 body lines + 9 new Block 2 entries;
+  the v.21→Notas boundary in the paragraph-level "unexpected paragraph
+  end" list (page 629 is the last transcribed page, ending mid-verse
+  10:21); the TOC "Dones del Espíritu 629" line in the same list.
+  Dash check hyphen-minus: the 1 new Block 2 range hyphen ("I
+  Corintios 12:8-11") is properly digit-flanked. Footnote check:
+  4643-4647 in the anchor bucket, 4641-4642 in the "footnotes" bucket
+  (both coincidentally begin a wrapped line); union = 4639-4647
+  complete, contiguous, no dupes, no out-of-range. NO page-629
+  edit-distance / repeated-word / duplicate-line / adjacent-space /
+  trailing-space / scanno / curly-quote / spaced-punctuation /
+  special-situations / book-level / "full stop followed by unexpected
+  sequence" findings. Jeebies clean. Letter-hyphen-letter blind-spot
+  scan: 0 tokens in the page-629 segment (both hyphen splits rejoined
+  cleanly).
+- Whole-document mechanical sweeps all clean: check_spaced_punctuation
+  librodm.txt (33015); check_footnote_punctuation librodm_foot.txt
+  (4982); check_verse_indent librodm.txt; curly-quote scan of
+  librodm.txt / librodm_foot.txt / page_629.txt all zero;
+  anchor↔Block-2 sweep only [812].
+- 1886 comparison — Moroni 10:5-9 on 1886 file p.642 (book p.624),
+  10:9-16 on file p.642, 10:17-21 on file p.643 (book p.625) — ALL of
+  page 629's verses compared word-for-word. NO genuine 1920
+  deviations. Differences are all previously-established house style:
+  (a) 1920 supplies acute accents 1886 omits throughout
+  ("también/míos/según/manifestación/tengáis/acordéis/proporción",
+  etc.) — 1920 accent modernization, not logged;
+  (b) 1920 modernizes 1886's archaic accented forms — "fé"→"fe" (×6),
+  "hé"→"he" (v.9), "miéntras"→"mientras" (v.19), "réino"→"reino"
+  (v.21), "tuviéreis"→"tuviereis" (v.21) — accent modernization, not
+  logged;
+  (c) v.9 "Porque, he aquí" — 1920 adds a house-style comma after
+  "Porque" (1886 "Porque hé aquí" no comma) — page 625/626/628
+  comma-addition precedent, not logged;
+  (d) v.11 "fe excesiva" — 1886 prints "fé excesiva" TOO (shared
+  reading, accent aside); "excesiva" is a valid RAE word (feminine of
+  "excesivo", here in the archaic "exceeding/abundant" sense — modern
+  BoM Moroni 10:11 "exceeding faith"); not pptext-flagged; NO
+  permitted words.txt entry, NO errors-log entry
+  (feedback_errors_log_diligence mirror case — shared reading + valid
+  word + document-wide usage).
+- feedback_narrow_space_vs_merge: nothing noticed on this page,
+  nothing for the editor to double-check.
+- FOR THE EDITOR (footnote cross-ref letter reads, not text errors):
+  the 1920 superscript cross-ref letters in the Moroni 10 fn block on
+  this page are heavily over-inked. 10e-10i were pinned exactly by the
+  full 1879 cross-check (1879 file p.629 carries Moroni 10 a-i
+  letter-for-letter). 10j-10m have NO 1879 counterpart (1879's Moroni
+  10 stops at "i") and were resolved by content-fit + reciprocal
+  back-reference: 10k "Véase d, Mormón 9" and 10l "Véase 2d, Moroni 7"
+  are firm (reciprocals cite this very verse); 10j "Véase o, Éther 4"
+  and 10m "Véase a, Moroni 7" are the best-supported reads but the
+  glyphs themselves are illegible — worth a direct look at the page if
+  convenient. Also: the Google text layer for file 651 is corrupt
+  (returns Éther 13), so no independent OCR second opinion was
+  available for this page.
+- NO text changes to page_629.txt body or librodm.txt this session
+  (the 4643 Block 2 fix was a Session D bookkeeping correction, not an
+  orthography change).

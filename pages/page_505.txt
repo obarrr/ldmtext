@@ -1,5 +1,5 @@
 Página 505
-22. Por lo tanto, quienquiera. que se arrepienta y venga á
+22. Por lo tanto, quienquiera que se arrepienta y venga á
 mí como niño [3588]pequeñito, á este recibiré; porque de estos es
 el reino de Dios. He aquí, que para estos he dado yo mi vida,
 y la he vuelto á tomar; por lo tanto, arrepentíos y venid á mí,
@@ -125,8 +125,16 @@ elsewhere), and "salváos" (new, single-occurrence). Checked against
 1886 (file pages 517/519/520, chapter_map III Nefi ch.9/10): 1886
 reads "quienquiera que se arrepienta" with no punctuation at all
 between the two words
-(confirming the v.22 period is a genuine 1920-only misprint) and
-"época" accented at v.7; both added to `errors in 1920.txt`, plus a
+(the v.22 mark was added to `errors in 1920.txt` at the time as a
+1920-only spurious period; REVERSED 2026-09-05 — editor reviewed the
+high-res scan and ruled the mark a STRAY SPECK, not printed type
+[small, floating mid-height in the word gap; Google-OCR reads no mark
+there]. The dot was removed from the text, "quienquiera que", and the
+errors-log entry deleted. Per editor guidance, print defects — stray
+specks, weak/broken type — are not logged in `errors in 1920.txt`;
+only textual errors are.) "época" accented at v.7 was also added to
+`errors in 1920.txt` (that one stands — a spelling error, not a print
+defect), plus a
 new footnote-text entry for 10f's "Háciendo" (RAE/WebSearch confirms
 the regular gerund "haciendo" never takes an accent; no 1886 footnote
 text exists to compare against, since 1886 carries no footnotes). All

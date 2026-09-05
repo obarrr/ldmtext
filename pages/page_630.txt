@@ -1,0 +1,288 @@
+Página 630
+de Dios, si no tenéis fe; ni podréis salvaros tampoco, si no tenéis
+esperanza;
+22. Porque si no tenéis esperanza, es necesario que viváis
+sumidos en la desesperación; y la desesperación viene por causa
+de la iniquidad.
+23. Y Cristo verdaderamente dijo á nuestros padres: [4648]Si
+tenéis fe, podréis hacer todas las cosas que sean convenientes en
+mí.
+24. Ahora, hablo á todos los extremos de la tierra. [4649]Que si
+llega el día en que cesen entre vosotros el poder y los dones
+de Dios, será á causa de incredulidad.
+25. Ay de los hijos de los hombres, si esto llega á suceder;
+porque no habría ninguno entre vosotros que hiciera el bien;
+no, ni uno solo. Porque si hubiera uno entre vosotros que
+hiciera el bien, éste obraría por el poder y los dones de Dios.
+26. Y ay de aquéllos que sean la causa de que concluyan estas
+cosas y mueran, porque morirían en su pecado, y no podrían
+nunca salvarse en el reino de Dios. Y digo esto según las palabras
+de Cristo, y no miento.
+27. Y os exhorto á que os acordéis de estas cosas; porque se
+acerca el tiempo, en que [4650]sabréis que no miento; porque me
+veréis en el tribunal de Dios, y el Señor Dios os dirá: ¿No os
+he declarado yo mis palabras, que fueron escritas por este hombre,
+como si uno os [4651]gritara de entre los muertos? Sí, ¡cómo si sus
+palabras salieran del polvo!
+28. Y declaro estas cosas para el cumplimiento de las profecías.
+Y, he aquí, que ellas saldrán de la boca del Dios Eterno;
+y su palabra [4652]silbará de generación en generación.
+29. Y Dios os [4653]mostrará que lo que he escrito es verdadero.
+30. Y os exhorto otra vez, á que vengáis á Cristo, y á que os
+aprovechéis de todo [4654]buen don, y á que no [4655]toquéis el don
+malo, ni lo que es impuro.
+31. Y despierta, y [4656]levántate del polvo, oh Jerusalem; sí,
+engalánate con tus bellos trajes, oh hija de Sión; fortalece tus
+estacas, alarga tus fronteras para siempre, para que [4657]no seas
+confundida más, para que se cumplan las [4658]alianzas que el Eterno
+Padre ha hecho contigo, oh casa de Israel.
+32. Sí, venid á Cristo, y perfeccionáos en Él; deponed toda
+vuestra impureza; porque si así lo hiciereis, amando á Dios con
+todas vuestras fuerzas, con toda vuestra alma, y con todo vuestro
+poder, entonces su gracia os bastará; y por su gracia seréis
+hechos perfectos en Cristo; y si por la gracia de Dios os hiciereis
+
+10n, 4648: Moroni 7:33.
+10o, 4649: Véase 2d, Moroni 7.
+10p, 4650: Véase g, II Nefi 33.
+10q, 4651: Véase s, Mormón 5.
+10r, 4652: Véase d, II Nefi 29.
+10s, 4653: Véase g, II Nefi 33.
+10t, 4654: Véase o, Éther 4.
+10u, 4655: II Nefi 18:19.
+10v, 4656: Isaías 52:1-2.
+10w, 4657: Éther 13:8.
+10x, 4658: Véase j, III Nefi 15.
+
+Corrections
+- Page opens mid-verse (Moroni 10:21), continuing from page 629 (which
+  ended "...ni podréis salvaros en el reino"). Per rule 1: "Página 630"
+  on its own line, body text on the very next line, no blank line after
+  the marker, no chapter heading. Moroni 10 continues (letters climb
+  from 10m; global number from 4647). No page-boundary word split
+  (rule 10 N/A — page 629 ended on the complete word "reino").
+- Running header "630  LIBRO DE MORONI.  (CAP. X." discarded (rule 2).
+- Rule 7 hyphen rejoins (2), both kept at the end of the first line:
+  "pala-/bras" → "palabras" (v.26, rejoined line = 66 chars; the
+  "bras de Cristo..." line becomes "de Cristo, y no miento.");
+  "pro-/fecías." → "profecías." (v.28, rejoined line = 64; the
+  "fecías.  Y, he aquí..." line becomes "Y, he aquí, que ellas
+  saldrán de la boca del Dios Eterno;").
+- Rule 8 rebalance (1): v.30, the line
+  "aprovechéis de todo [4654]buen don, y á que no [4655]toquéis el don
+  malo," reached exactly 73 chars once both footnote markers were
+  inserted → last word "malo," moved to the start of the next line
+  ("malo, ni lo que es impuro.").
+- Rule 31 space-before-punctuation removed, ×16 (1920 sets a space
+  before ";" throughout this page): v.21 "tenéis fe ;", v.21
+  "esperanza ;", v.22 "desesperación ;", v.25 "suceder ;", v.25
+  "el bien ;", v.27 "estas cosas ;", v.27 "no miento ;", v.27
+  "os dirá :", v.27 "del polvo !", v.28 "Dios Eterno ;", v.31
+  "oh Jerusalem ;", v.31 "de Sión ;", v.32 "en Él ;", v.32
+  "vuestra impureza ;", v.32 "os bastará ;", v.32 "en Cristo ;".
+- Rule 6 sentence double-space collapsed to one space, ×6: v.23
+  "padres:  [n]Si", v.24 "tierra.  [o]Que", v.25 "uno solo.  Porque",
+  v.26 "reino de Dios.  Y digo", v.27 "los muertos?  Sí", v.28
+  "profecías.  Y, he aquí". No zero-width merges.
+- v.23 "dijo á nuestros padres: [4648]Si tenéis fe" — the over-inked
+  footnote superscript (10n) sitting immediately before "Si" was read
+  by Google OCR as an opening quotation mark ("Si). 1920 prints NO
+  quotation mark here, and no closing mark at "mí." either; 1886 (file
+  p.643) also has no quotes around Christ's words. Transcribed with no
+  quote marks. The word is "Si" (conditional "if"), not "Sí" — at 30×
+  zoom the mark over the "i" is an ordinary tittle, not an acute
+  accent; matches 1886 "Si teneis fé".
+- v.24 "de la tierra. [4649]Que si" — same situation: the over-inked
+  10o superscript before "Que" was read by Google as an opening quote
+  ("Que); no quote transcribed. 1920 prints "tierra." (period) where
+  1886 (file p.643) prints "tierra:" (colon) — continuation-
+  punctuation variance, transcribed as printed.
+- Footnote markers (11), all confirmed against 1879 body markers and
+  footnote content (file pp.630-631): 10n=[4648] "Si" (v.23, before
+  "Si tenéis fe"); 10o=[4649] "Que" (v.24, before "Que si llega el
+  día"); 10p=[4650] "sabréis" (v.27); 10q=[4651] "gritara" (v.27);
+  10r=[4652] "silbará" (v.28); 10s=[4653] "mostrará" (v.29);
+  10t=[4654] "buen" (v.30, before "buen don"); 10u=[4655] "toquéis"
+  (v.30, before "toquéis el don malo"); 10v=[4656] "levántate" (v.31,
+  before "levántate del polvo"); 10w=[4657] "no" (v.31, before "no
+  seas confundida"); 10x=[4658] "alianzas" (v.31, before "alianzas
+  que el Eterno Padre ha hecho contigo").
+- Same book (Book of Moroni continues) and same chapter (Moroni 10
+  continues from page 629), so Block 1 gets NO blank line and NO book
+  header (rule 20).
+- MANDATORY i/l/1 check: entry letters 10n-10x — none are i/l/1.
+  Cross-reference target letters (10o "2d", 10p "g", 10q "s", 10r
+  "d", 10s "g", 10t "o", 10x "j") — none are i/l/1. However, Google
+  OCR read 10x's target letter as "i" ("Véase i, III Nefi 15"), so
+  it was checked anyway and resolved to "j":
+  - 1879 file p.631 prints the corresponding Moroni 10 footnote
+    "x, see j, III. Nep. 15." — a clean italic "j" with a descender,
+    not "i".
+  - Content-fit: 1920's own III Nefi 15j [3702] = "III Nefi 5:24-26;
+    16:5; Véase e, I Nefi 15." — an exact match for the marker on
+    "alianzas que el Eterno Padre ha hecho contigo, oh casa de
+    Israel" (the Lord's covenants to gather the house of Israel).
+    III Nefi 15i [3701] = "III Nefi 12:46-47." (the law of Moses
+    fulfilled in Christ) does NOT fit.
+  - The 1920 glyph, though heavily over-inked, shows a descender
+    consistent with "j".
+  - Rule 14: OCR is never trusted for superscript letters.
+  Resolved: 10x = "Véase j, III Nefi 15."
+- 1879 cross-check (file pp.630-631, Moroni 10 footnote continuation).
+  NOTE: page 629's Session A note said 1879's Moroni 10 footnotes
+  "stop at i" — that is wrong. 1879's Moroni 10 footnote set continues
+  onto file p.630 (letters j-q) and file p.631 (letters r-2c), and its
+  letter sequence aligns EXACTLY, letter-for-letter, with 1920's
+  (a-2c). All 11 of page 630's entries are confirmed three ways —
+  by 1879 footnote letter, by 1879 footnote target content, and by
+  1879 body-marker placement:
+    10n = "Moroni 7:33."  (1879 n: "Moro. 7:33."; 1879 body v.23
+      "ⁿIf ye have faith")
+    10o = "Véase 2d, Moroni 7."  (1879 o: "see 2d, Moro. 7."; 1879
+      body v.24 "ºThat if the day cometh")
+    10p = "Véase g, II Nefi 33."  (1879 p: "see g, II. Nep. 33.";
+      1879 body v.27 "ᵖknow that I lie not")
+    10q = "Véase s, Mormón 5."  (1879 q: "see s, Mor. 5."; 1879 body
+      v.27 marker on "crying from the dead" = "gritara")
+    10r = "Véase d, II Nefi 29."  (1879 r: "see d, II. Nep. 29.";
+      1879 body v.28 "his word shall ʳhiss forth" = "silbará")
+    10s = "Véase g, II Nefi 33."  (1879 s: "see g, II. Nep. 33.";
+      1879 body v.29 "God shall ˢshew unto you" = "mostrará")
+    10t = "Véase o, Éther 4."  (1879 t: "see o, Ether 4."; 1879 body
+      v.30 "every ᵗgood gift" = "buen don")
+    10u = "II Nefi 18:19."  (1879 u: "II. Nep. 18:19."; 1879 body
+      v.30 "ᵘtouch not the evil gift" = "toquéis el don malo")
+    10v = "Isaías 52:1-2."  (1879 v: "Isaiah 52:1,2."; 1879 body
+      v.31 "ᵛarise from the dust" = "levántate del polvo")
+    10w = "Éther 13:8."  (1879 w: "Ether 13:8."; 1879 body v.31
+      "no more be confounded" = "no seas confundida")
+    10x = "Véase j, III Nefi 15."  (1879 x: "see j, III. Nep. 15.";
+      1879 body v.31 "the ˣcovenants of the eternal Father" =
+      "alianzas que el Eterno Padre")
+- Cross-reference / citation formatting: 10u "II Nefi 18 : 19" →
+  "II Nefi 18:19" (rule 22, colon de-spaced). 10v "Isaías 52 : I, 2"
+  → "Isaías 52:1-2" (rule 22 colon de-spaced; Roman "I" → digit "1",
+  rule 34; verses 1 and 2 are consecutive → hyphenated range, rule
+  23). 10w "Éther 13 : 8" → "Éther 13:8" (rule 22). "Éther" carries
+  the acute accent (house form; book header is "EL LIBRO DE ÉTHER").
+- Google-text cross-check (Session A step 10): AVAILABLE this page
+  (google_text_1920/page_0652.txt, file 652). After whitespace/hyphen
+  stripping, the only body-side diffs are the two over-inked-
+  superscript-read-as-opening-quote artifacts at v.23 ("Si) and v.24
+  ("Que) — both fall in the auto-dismissed "short surplus text at a
+  footnote-marker position" category and are handled above. No
+  letter-level body misreads surfaced.
+- feedback_narrow_space_vs_merge: no suspicious tight word-pairs
+  noticed on this page; nothing for the editor to double-check.
+- Preserved as printed (rule 32), noted for Session E: "aquéllos"
+  (v.26, accented demonstrative pronoun); "perfeccionáos" (v.32,
+  enclitic "-os" on "perfeccionad" with retained stress accent) —
+  both are 1920 forms, not modernized.
+
+Session B (footnote verification) — independent re-pass:
+- Fresh 1920 fn-block crop (5×, whole block) and fresh body-marker
+  crops (5×, all three body bands) taken independently of Session A.
+  All 11 Block 1 entries UNCHANGED; all 11 body-marker placements
+  UNCHANGED.
+- Block 1 entry letters re-read off the 1920 block: n, o, p, q, r, s,
+  t, u, v, w, x — a clean unbroken alphabetical run, each with its own
+  body marker (10n v.23, 10o v.24, 10p-10q v.27, 10r v.28, 10s v.29,
+  10t-10u v.30, 10v-10x v.31).
+- Fresh independent 1879 crops (file p.630 tail: n-q; file p.631
+  block: r-2c) re-read. 1879 prints, clean italic type:
+  "n, Moro. 7:33.  o, see 2d, Moro. 7.  p, see g, II. Nep. 33.
+  q, see s, Mor. 5.  r, see d, II. Nep. 29.  s, see g, II. Nep. 33.
+  t, see o, Ether 4.  u, II. Nep. 18:19.  v, Isaiah 52:1,2.
+  w, Ether 13:8.  x, see j, III. Nep. 15." — all 11 of page 630's
+  entries confirmed letter-for-letter AND target-for-target.
+- MANDATORY i/l/1 re-check, 10x (Google OCR had read its target
+  letter as "i"): the fresh 1879 file p.631 crop shows "x, see j,
+  III. Nep. 15." with an unmistakable "j" — a dotted letter with a
+  clear descender curving below the baseline, not the dotted short
+  "i" of adjacent entries. Re-confirmed 10x = "Véase j, III Nefi 15."
+- No text changes this session.
+
+Session E (orthography check):
+- TRANSCRIPTION MISREAD FIXED (rule 12): v.27 "y el Señor Dios os
+  dirá: ¡No os he declarado yo mis palabras..." — Session A had typed
+  an inverted exclamation mark "¡" before "No os"; the 1920 print
+  actually sets an inverted QUESTION mark "¿" there (confirmed at 26×
+  zoom — curved hook with the dot above, not a straight vertical bar),
+  and the sentence closes with "?" at "...de entre los muertos?".
+  1886 (file p.643) also prints "¿No os", and the modern LDS Spanish
+  edition reads "¿No os declaré mis palabras...". Corrected to "¿No
+  os" in both pages/page_630.txt and librodm.txt. Google OCR had
+  misread the mark as "¡" (which is how Session A got it wrong); no
+  errors-in-1920 entry and no permitted-words entry — this is our
+  reading error, not a 1920 defect. Line length unchanged (¿ and ¡
+  are both one character).
+- SPELLCHECK (fresh full pptext report workspace/report_wsl_20260903e
+  .html, walked end to end): the ONLY new page-630 suspect is
+  "perfeccionáos" (v.32). Decision: added to permitted words.txt, NO
+  errors-in-1920 entry. It is a valid imperative + enclitic
+  construction ("perfeccionad" drops -d before "os"); the retained
+  stress accent on the verb stem ("perfeccion-á-os") is a standard
+  19th-century orthographic convention, and 1886 (file p.644) prints
+  the identical accented form "perfeccionáos" — a SHARED reading, not
+  a 1920-only oddity. The modern form is "perfeccionaos" (no accent;
+  confirmed via RAE-form research and the modern LDS Spanish edition,
+  which reads "perfeccionaos en él"). feedback_errors_log_diligence
+  homework done: valid word + shared 1886 reading + established
+  period convention = preserve as printed, suppress noise, do not log
+  as an error.
+- Every other page-630 pptext hit is a known structural false
+  positive: the short-lines flood over the 42 body lines + 11 new
+  Block 2 entries; the v.32→"Notas" boundary in the "unexpected
+  paragraph end" list (page 630 is the LAST transcribed page, ending
+  mid-verse Moroni 10:32). NO page-630 findings in edit-distance,
+  repeated-word, duplicate-line, adjacent/trailing-space, character,
+  scanno, curly-quote, special-situations, book-level, or "full stop
+  followed by unexpected sequence" (v.24 "de la tierra. Que si" is
+  NOT flagged — 1920 capitalises "Que" after its period, so it does
+  not match the period+lowercase error pattern). Jeebies clean.
+- Dash check: the only new Block 2 range hyphen is "Isaías 52:1-2"
+  (4656) — properly digit-flanked ("1-2"). "Moroni 7:33" has no
+  hyphen. Letter-hyphen-letter blind-spot scan of the page-630
+  segment: 0 tokens.
+- Whole-document mechanical sweeps all clean: check_spaced_punctuation
+  librodm.txt (33070); check_footnote_punctuation librodm_foot.txt
+  (4993); check_verse_indent librodm.txt; curly-quote scan of
+  librodm.txt / librodm_foot.txt / page_630.txt all zero;
+  anchor↔Block-2 sweep — max anchor 4658 = max def 4658, contiguous
+  1..4658, no gaps/dupes, only the long-documented Jacob 2:15/812
+  def-without-anchor.
+- 1886 comparison — Moroni 10:21-28 on 1886 file p.643 (book p.625),
+  10:29-32 on 1886 file p.644 (book p.626) — ALL of page 630's verses
+  compared word-for-word. NO genuine 1920 deviations requiring an
+  errors-in-1920 entry. Differences are all previously-established
+  house style: (a) 1920 supplies acute accents 1886 omits throughout
+  ("tenéis/viváis/desesperación/día/acordéis/según/vengáis/aprovechéis
+  /toquéis/Sión" etc.) — accent modernization; (b) 1920 modernizes
+  1886's archaic accented forms — "fé"→"fe", "réino"→"reino",
+  "segun"→"según", "hé"→"he", "entónces"→"entonces",
+  "hiciéreis"→"hiciereis", "fuéron"→"fueron", "cáusa"→"causa" —
+  accent modernization; (c) 1920 adds house-style commas 1886 omits —
+  v.24 "Ahora, hablo", v.28 "Y, he aquí" (page 625/626/628/629
+  comma-addition precedent); (d) 1920 modernizes the spelling
+  "trages"→"trajes" (v.31); (e) 1920 accents the demonstrative
+  pronouns "éste" (v.25) and "aquéllos" (v.26) where 1886 does not —
+  established 1920 house pattern (document carries many accented
+  demonstratives); not pptext-flagged, no permitted-words entry, no
+  errors-log entry.
+- FOR THE EDITOR (non-blocking, not logged as errors):
+  (i) v.24 "hablo á todos los extremos de la tierra. [4649]Que si
+  llega el día..." — 1920 sets a full stop + capital "Que" here;
+  both 1886 (file p.643) and the modern LDS Spanish edition use a
+  colon + continuation instead. 1920 is internally consistent
+  (period paired with a capital), so this reads as a deliberate
+  sentence-boundary choice rather than a typo, and it is NOT the
+  period+lowercase error pattern — left as printed, flagged here only
+  so the editor is aware of the 1920/1886 divergence.
+  (ii) v.27 cross-ref superscript letters in the 1920 Moroni 10 fn
+  block on this page are heavily over-inked; all 11 (10n-10x) were
+  pinned exactly by the full 1879 cross-check (1879 file pp.630-631
+  carry Moroni 10 footnotes n-x letter-for-letter, contra page 629's
+  note that 1879 "stops at i"), so no letter here rests on the 1920
+  glyph alone.
+- NO further text changes to page_630.txt or librodm.txt in Session E
+  beyond the v.27 "¡"→"¿" fix noted above.

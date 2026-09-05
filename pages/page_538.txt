@@ -35,7 +35,7 @@ que hemos dicho contra Ti?
 14. Vosotros decís: Es en vano que sirvamos á Dios. ¿Qué
 hemos ganado con haber guardado su ordenanza, y con haber
 caminado lamentando delante del Señor de los Ejércitos?
-15. Y ahora, llamamos felices á los orgullosos. sí, los que obran
+15. Y ahora, llamamos felices á los orgullosos, sí, los que obran
 iniquidad, son ensalzados, sí, los que tientan á Dios, son aun
 libertados.
 16. Entonces los que temían al Señor, se hablaban á [3916]menudo,
@@ -127,13 +127,19 @@ treated as a stray speck in both places -- transcribed as plain
 "á Dios", not logged in `errors in 1920.txt`.
 Suspected misprints/anomalies, preserved as printed per rule 32 (not
 silently corrected), for Session E verification against 1886/modern
-edition: v.15 "llamamos felices á los orgullosos. sí, los que obran"
--- a full stop appears where a comma would be grammatically expected
-before the lowercase continuation "sí, los que obran" (parallel to the
-following "son ensalzados, sí, los que tientan"). Confirmed via zoom
-this is a genuine period, not a comma rendered oddly, and confirmed
-present in the page's own Google OCR text as well
-(`google_text_1920/page_0560.txt` line 37: "orgullosos. sí, los").
+edition: v.15 "llamamos felices á los orgullosos, sí, los que obran"
+-- a full stop appeared where a comma belongs before the lowercase
+continuation "sí, los que obran" (parallel to the following "son
+ensalzados, sí, los que tientan"). Session A's zoom read it as a
+genuine period (Google OCR of the page also read a period,
+`google_text_1920/page_0560.txt` line 37), and it was logged in
+`errors in 1920.txt`. REVERSED 2026-09-05: editor reviewed the
+high-res scan and found the character very weak / partly inked, its
+lower piece (and part of even a period) missing -- a misprinted
+character, most likely a comma. 1886 prints a comma; grammar requires
+one. Transcribed as a comma ("orgullosos, sí"); the errors-log entry
+was deleted. Per editor guidance, print defects (weak/broken type)
+are not logged in `errors in 1920.txt` -- only textual errors are.
 v.16 "y que pensaban" -- Session A's first zoom misread the third
 letter of "que" as an open, crossbar-less "c" shape and flagged it as
 a suspected misprint ("quc"). Google's OCR read this spot as "que",
@@ -193,11 +199,12 @@ context deserves more skepticism before promoting to a genuine-error
 finding. The same 1886 page did settle the other Session A flag,
 v.15 "orgullosos. sí" -- 1886 prints a
 comma at this exact spot ("llamamos felices á los orgullosos, sí, los
-que obran iniquidad"), confirming this is also a genuine 1920-only
-punctuation error (same pattern as the already-documented III Nefi
-22:17 "prosperará." case) -- added to `errors in 1920.txt` (no
-`permitted words.txt` entry needed, it's a punctuation question, not a
-word). The "á Dios" stray-mark finding (v.8, v.14) required no further
+que obran iniquidad"). It was added to `errors in 1920.txt` at the
+time as a 1920-only punctuation error. [REVERSED 2026-09-05: editor
+ruled the 1920 mark a misprinted/very weak character (probably a
+comma, lower piece missing), i.e. a print defect, not a textual
+error. Text now reads "orgullosos, sí"; errors-log entry deleted.
+See the fuller note in the "Suspected misprints" paragraph above.] The "á Dios" stray-mark finding (v.8, v.14) required no further
 action beyond Session A's Google-OCR-based dismissal (see above). No
 narrow-space-vs-merge defaults occurred on this page needing batching
 to the editor. Full-document footnote-anchor check (max 3917, zero

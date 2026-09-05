@@ -1,6 +1,6 @@
 Página 550
 Nefitas como Lamanitas; sin que hubiera entre ellos más contiendas,
-ni disputas. y obraron con rectitud unos con otros;
+ni disputas, y obraron con rectitud unos con otros;
 3. Y lo tenían [4033]todo en común entre ellos; por lo tanto, no
 habían ricos y pobres, escavos y libres, sino que todos se veían
 libres y participantes del don [4034]celestial.
@@ -39,7 +39,7 @@ de todo el país, sino que los discípulos de Jesús hicieron [4042]grandes
 y maravillosos milagros.
 14. Y ocurrió que así pasó el año setenta y uno, y el año
 setenta y dos; sí, y hasta setenta y nueve años, sí, y hasta cien
-años habían pasado ya. cuando los discípulos de Jesús, todos
+años habían pasado ya, cuando los discípulos de Jesús, todos
 los que Él había escogido, habían ido ya al [4043]paraíso de Dios
 exceptuando unicamente los [4044]tres que debían permanecer
 
@@ -138,12 +138,26 @@ Señor les hizo").
 word is printed "ordenzas," missing "an" (should be "ordenanzas").
 (5) Verse 14 "exceptuando unicamente los tres" — confirmed via zoom:
 printed without the accent (should be "únicamente").
-(6) Verse 2 "ni disputas. y obraron" — period followed by lowercase
-"y" continuing the same sentence; grammar suggests this should be a
-comma, not a period. Preserved as printed.
-(7) Verse 14 "habían pasado ya. cuando los discípulos" — period
-followed by lowercase "c" continuing the same sentence; same pattern
-as (6), grammar suggests a comma. Preserved as printed.
+(6) Verse 2 "ni disputas, y obraron" — a period appeared before the
+lowercase "y" continuing the same sentence; grammar wants a comma.
+Originally preserved as printed and logged in errors in 1920.txt.
+REVERSED 2026-09-05: editor reviewed the high-res scan and ruled the
+mark a print defect (the neighbouring "s" of "disputas" is also
+damaged); the 1920 Google-OCR and 1886 both read a comma. Transcribed
+as a comma; errors in 1920.txt entry removed. (Contrast v.14, also
+reversed the same day, but as a defective comma too — see (7).)
+(7) Verse 14 "habían pasado ya, cuando los discípulos" — REVERSED
+2026-09-05: originally read as a period + lowercase "c" and logged in
+errors in 1920.txt. Editor reviewed the high-res scan and saw a
+descender/leftward hook on the mark; the 1920 PDF's own Google-OCR
+(google_text_1920/page_0572.txt) reads a comma; 1886 reads a comma;
+grammar requires a mid-list comma; and this page is a poor-quality
+print ("ordenzas", "Sénor", "ocurrio" all on it). Treated as a
+defective / ink-heavy comma, not a deliberate period. Text now reads
+"pasado ya, cuando"; the errors in 1920.txt entry was removed. NOTE:
+item (6) below, IV Nefi 1:2 "disputas. y obraron", was ALSO reversed
+2026-09-05 (a later editor pass — print defect, damaged neighbouring
+"s"); text now "disputas, y obraron", errors entry removed.
 No narrow-space-vs-merge candidates found on this page.
 Page ends mid-verse (IV Nefi 1:14, "...que debían permanecer");
 continues on page 551 with no hyphen at the break (verse continues to
@@ -154,13 +168,16 @@ content). "cojos" (verse 5) vs. Google's "cojcs" — Google OCR noise
 ("cojcs" is not a word); dismissed without a re-zoom. The other two
 candidates were the same period-vs-comma question already logged
 above as suspected misprints (6) and (7) — Google read both as
-commas. Re-zoomed both at 15-20x (well above the 400dpi crop): both
-marks sit on the baseline with no descending tail, unambiguously
-periods, not commas. Google misread both; the original transcription
-("disputas. y obraron," verse 2; "pasado ya. cuando," verse 14) is
-confirmed correct and unchanged — items (6) and (7) above stay logged
-as suspected 1920 misprints (period where grammar wants a comma), not
-transcription errors.
+commas. Re-zoomed both at 15-20x (from the 400dpi crop): both
+marks appeared to sit on the baseline with no descending tail, read
+at the time as periods. [SUPERSEDED for v.14 on 2026-09-05: the
+editor's own higher-resolution scan shows a descender on the v.14
+mark; per CLAUDE.md the 400dpi crop is known to lose exactly this
+kind of detail. v.14 "pasado ya. cuando" -> "pasado ya, cuando",
+errors-in-1920 entry removed. v.2 "disputas. y obraron" was ALSO
+reversed 2026-09-05 on a later editor pass — print defect (the
+neighbouring "s" is damaged too), 1920 Google-OCR + 1886 read a
+comma; text now "disputas, y obraron", errors entry removed.]
 Session D (`generate_block2.py 550`): 9 of 12 entries resolved cleanly
 on the first pass; 3 stayed unresolved (4036 "Véase h, Omni 1; III
 Nefi 8:8,24;9:3.", 4038 "Véase o, II Nefi 25; III Nefi 9:19;15:2-8.",
@@ -267,14 +284,19 @@ DLE (WebSearch), and the three local reference corpora:
   missing-accent-shared-with-1886 is the standard non-error case (rule
   11). Added to `permitted words.txt` only, no `errors in 1920.txt`
   entry.
-- The two already-logged period/comma items (v.2 "disputas. y
-  obraron", v.14 "pasado ya. cuando") were re-confirmed against 1886,
-  independent of the earlier Google-OCR-based re-zoom: 1886 has a
+- The two period/comma items (v.2 "disputas. y obraron", v.14
+  "pasado ya. cuando") were re-confirmed against 1886: 1886 has a
   comma at both spots ("ni disputas, y obráron"; "pasado ya, cuando
-  los discipulos de Jesus"). This matches the established "full stop
-  followed by unexpected sequence" pattern from prior sweeps (Alma
-  43:9 etc.) exactly. Both added to `errors in 1920.txt` as
-  punctuation errors.
+  los discipulos de Jesus"). Both were added to `errors in 1920.txt`
+  as suspected punctuation errors (period where grammar wants a
+  comma), matching the "full stop followed by unexpected sequence"
+  pattern from prior sweeps (Alma 43:9 etc.).
+  [UPDATE 2026-09-05: BOTH reversed. v.14 — editor's high-res scan +
+  1920 Google-OCR + 1886 all read a comma; text now "pasado ya,
+  cuando". v.2 — editor ruled it a print defect (neighbouring "s"
+  damaged), Google-OCR + 1886 read a comma; text now "disputas, y
+  obraron". Both errors-in-1920 entries removed. Per editor rule,
+  print defects are not logged, only textual errors.]
 Full pptext report walkthrough for this page's new line range beyond
 the spellcheck section: Edit Distance (éntre/multiplicóse above, no
 other page-550 hits); Dash check (hyphen-minus bucket: only this

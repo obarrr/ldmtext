@@ -9636,3 +9636,806 @@ instead:
   Short-lines + "unexpected paragraph end" page-627 hits are the usual
   structural verse-boundary false positives (page 627 is now the last
   transcribed page).
+- **2026-09-02**: Sessions A–E run in one session for page 628 (Moroni
+  9:23-26 and Moroni 10:1-4), first footnote 4631. Page CONTINUES the
+  Book of Moroni; it finishes Moroni chapter 9 and BEGINS Moroni chapter
+  10 (the last chapter of the Book of Mormon). Page 627 ended with Moroni
+  9:22 COMPLETE ("...ó de su entera destrucción."), so page 628 OPENS
+  mid-chapter with the continuation of v.22 ("Porque sé que han de
+  perecer, excepto que se arrepintieren y volvieren á Él;") — "Página
+  628" on its own line, body text on the next line, no blank line after
+  the marker, no heading (rule 1). No page-boundary word split (rule 10
+  N/A). Running header "628  LIBRO DE MORONI.  (CAP. X" discarded (rule
+  2); the short rule between Moroni 9:26 and "CAPÍTULO 10." (and the
+  divider inside the footnote block separating the two chapters'
+  footnotes) discarded. Body = 37 print/output lines + the "CAPÍTULO
+  10." heading (blank line before/after, rule 3). Moroni 10 has NO
+  chapter subtitle — verse 1 begins immediately after the heading
+  (confirmed against 1886 file p.641, same). Page ENDS mid-verse 10:4
+  ("...la verdad de ellas, por el poder del Espíritu Santo;") — Moroni
+  10 continues on page 629. Rule 7: 2 hyphen rejoins, both kept at the
+  end of the first line — "miseri-/cordia" → "misericordia" (9:25,
+  rejoined = 69); "miseri-/cordioso" → "misericordioso" (10:3, rejoined
+  = 72). Rule 8: no rebalance. Rule 31: x8 body ";" de-spaced (1920 sets
+  a space before ";" throughout this page): v.22 "Él ;", v.24
+  "todavía ;", v.24 "prolongada ;", v.25 "mío ;", v.25 "muerte ;", 10:1
+  "plazca ;", 10:4 "verdaderas ;", 10:4 "Santo ;". Rule 6: x2 sentence
+  double-spaces collapsed (v.24 "más.  No obstante", v.26
+  "contigo.  Amén."); also v.26 "se . asienta" (a speck) → "se asienta".
+  No zero-width merges. Rule 23: Block 1 9h "Mormón 4:11, 12." → "Mormón
+  4:11-12." Rule 24: 10d "Versículos 5, 7" → "Versículos 5,7" (5 and 7
+  non-consecutive). 8 markers: 9g=[4631] "como" (9:23); 9h=[4632] "de"
+  (9:23, "el derrame de sangre y la venganza"); 9i=[4633] "pasado"
+  (9:24); 9j=[4634] "confiarte" (9:24); 10a=[4635] "señal" (10:1);
+  10b=[4636] "estos" (10:2); 10c=[4637] "creación" (10:3); 10d=[4638]
+  "por" (10:4). Block 1: 9g "Éther 13-15."; 9h "Versículo 5; Mormón
+  4:11-12."; 9i "I Nefi 13:31; Alma 45:14."; 9j "Mormón 6:6."; 10a "III
+  Nefi 2:8."; 10b "Mormón 6:6."; 10c "Véase m, Mosíah 2."; 10d
+  "Versículos 5,7; Véase c, Moroni 3." Chapter boundary Moroni 9->10 is
+  within the same book, so Block 1 gets NO blank line / NO book header
+  (rule 20). MANDATORY i/l/1 check — entry letter 9i is "i": 1879's
+  Moroni 9 footnote set (file pp.626-627) is only letters a-d (a=see d I
+  Nefi 12; b=see a I Nefi 16; c=Moroni 8:28; d=Mormón 4:11-12), so there
+  is NO 1879 counterpart citing I Nefi 13 or Alma 45 (rule 26 — the two
+  editions' Moroni 9 footnote sets diverge: 1920 a-j, 1879 a-d).
+  Resolved by the unambiguous alphabetical sequence g-h-i-j (all four in
+  the block AND each with its own body marker in vv.23-24) plus glyph
+  shape at 8x zoom (short x-height letter with a dot, no
+  ascender/descender — excludes "l" and "1"); the 9j glyph confirmed "j"
+  by its clear descender. Target "I Nefi 13:31" — Roman "I" is the book
+  name (rule 34). 10c "Véase m" target — over-inked squat wide mark,
+  "m", not i/l/1; 1879 Moroni 10 carries no footnotes. Session B: fresh
+  independent 1920 fn-block zoom crops (9x, both chapter groups) + fresh
+  body-marker crops (5-8x, all 8 markers) + independent re-examination
+  of 1879 file p.626 bot / p.627 fn_zoom — all 8 Block 1 entries and all
+  8 body markers UNCHANGED; the 9i "i" resolution re-confirmed. Session
+  C: insert_body_text.py 628 initially pulled the literal "Block 1
+  footnotes:" header line into librodm.txt as body text (this page's
+  Session A file used a non-standard header; house convention is entries
+  directly after a blank line, "Corrections" with no colon) — the stray
+  line + trailing blank were deleted from librodm.txt by hand and
+  page_628.txt corrected to house format; librodm_foot.txt got the 8
+  entries correctly and was unaffected. Final: librodm.txt 32913->32955
+  (+42); librodm_foot.txt 4965->4973 (+8, NO blank line / NO book
+  header, rule 20). Página sequence 623..628 contiguous. Session D:
+  generate_block2.py 628 appended 4631-4638 (librodm.txt 32955->32963) —
+  no unresolved warnings, no wrapped-Block-1-entry spurious-trailer bug
+  (Notas tail ends cleanly at "4638: Versículos 5,7; Véase 4543.").
+  Cross-refs resolved: 4637 (10c) -> 1086 = Mosíah 2m, whose own
+  citation list explicitly ends "...Éther 3:15-16; Moroni 10:3."
+  (reciprocal confirmation of both target and verse); 4638 (10d "Véase
+  c, Moroni 3") -> 4543 = Moroni 3c ("I Nefi 13:37; Moroni 6:9."),
+  correct book section. Anchor<->Block-2 after append: max anchor 4638 =
+  max def 4638, contiguous 1..4638, no gaps/dupes; only the documented
+  Jacob 2:15/812 def-without-anchor remains. Session E: fresh full
+  pptext report report_wsl_20260902e.html regenerated and walked end to
+  end. SPELLCHECK: ZERO new page-628 suspects ("misericordioso",
+  "confiarte", "Jareditas", "cuatrocientos", "meditéis", "recibáis",
+  "Adam", "cuan" all unflagged) — NO permitted words.txt additions.
+  Every other page-628 hit is a known structural false positive: the
+  short-lines flood over the 8 new Block 2 entries; the v.4->Notas
+  boundary in the paragraph-level "unexpected paragraph end" list (page
+  628 is the last transcribed page, ending mid-verse 10:4); the TOC
+  "Moroni 628" line. Dash check hyphen-minus: the 2 new Block 2 range
+  hyphens ("Éther 13-15", "Mormón 4:11-12") are both properly
+  digit-flanked. NO page-628 edit-distance / repeated-word /
+  duplicate-line / adjacent-space / trailing-space / scanno /
+  curly-quote / spaced-punctuation / special-situations / book-level /
+  "full stop followed by unexpected sequence" findings. Jeebies clean.
+  Letter-hyphen-letter blind-spot scan: 0 tokens in the page-628
+  segment. Whole-document mechanical sweeps all clean
+  (check_spaced_punctuation librodm.txt 32963; check_footnote_punctuation
+  librodm_foot.txt 4973; check_verse_indent librodm.txt; curly-quote
+  scan of librodm.txt / librodm_foot.txt / page_628.txt all zero;
+  anchor<->Block-2 only [812]). 1886 comparison — Moroni 9:22-26 on 1886
+  file p.641 (book p.623), Moroni 10:1-4 on 1886 file pp.641-642 (book
+  pp.623-624) — ALL of page 628's verses compared word-for-word. NO
+  genuine 1920 deviations; NO errors in 1920.txt additions. Differences
+  are all previously-established house style: (a) 1920 supplies acute
+  accents 1886 omits throughout ("todavía/aparición/mío/después/vía/
+  según/también/corazón/intención" etc.) — accent modernization; (b)
+  1920 adds house-style commas 1886 omits — 9:26 "de Dios, el Padre",
+  10:1 "Ahora, yo", 10:3 "He aquí, os exhorto" (page 625/626 comma-
+  addition precedent); (c) 9:26 "Jesu Cristo" unhyphenated vs 1886
+  "Jesu-Cristo" — documented legitimate archaic form of this edition
+  (feedback_jesu_cristo_hyphen; librodm.txt carries 26 unhyphenated
+  "Jesu Cristo"); (d) 10:3 "cuan misericordioso" without the exclamative
+  accent — 1886 prints "cuan" here TOO (shared reading); "cuan" is a
+  valid RAE form (apocope of "cuanto"); librodm.txt has 10 unaccented
+  "cuan + adj." including "cuan grandes" on the title page and in
+  footnote text — established minority house pattern; not pptext-flagged
+  (valid word); NO permitted-words entry, NO errors-log entry
+  (feedback_errors_log_diligence mirror case); (e) 10:3 "Adam" — 1886
+  prints "Adam" too (shared); proper noun, document-wide usage from the
+  Éther chapters; not flagged; no action; (f) 10:4 page ends on ";"
+  where 1886 ends the (continuing) verse on ":" — non-substantive
+  continuation-punctuation variance. feedback_narrow_space_vs_merge flag
+  for the editor: 10:1 "voy á escribir" — 1920 sets "voy á" with a
+  reduced gap; 1886 file p.641 prints "voy á escribir" as two clearly
+  separated words; grammar requires two words; committed as two words
+  "voy á" (editor may double-check the 1920 image at leisure — not a
+  blocker). NO text changes to page_628.txt or librodm.txt in Session E.
+
+- **2026-09-03**: Sessions A–E run in one session for page 629 (Moroni
+  10:5-21), first footnote 4639, Moroni 10 letters e-m (9 footnotes,
+  4639-4647). Page CONTINUES Moroni chapter 10 within the Book of
+  Moroni. Page 628 ENDED at a complete verse boundary — the end of
+  Moroni 10:4 ("...Él os manifestará la verdad de ellas, [4638]por el
+  poder del Espíritu Santo;") — so page 629 OPENS with a FRESH verse
+  number "5." (not a mid-verse continuation, contrary to the CLAUDE.md
+  prediction; rule 1 treatment is the same either way): "Página 629"
+  on its own line, body text on the very next line, no blank line
+  after the marker, no chapter heading. NO book header, NO Block 1
+  blank line (Moroni 10 continues within the Book of Moroni, rule 20).
+  Running header "CAP. X.)  LIBRO DE MORONI.  629" discarded (rule 2).
+  Page 628 ended on the complete word "Santo;" — no page-boundary word
+  split (rule 10 N/A). Page ENDS mid-verse 21 ("...ni podréis
+  salvaros en el reino") — Moroni 10 continues on page 630. 40 output
+  body lines (42 raw print lines − 2 hyphen rejoins). Rule 7: 2 hyphen
+  splits — "minis-/tradores" → "ministradores" (v.14, rejoined line =
+  68 after rule-31 de-spacing of trailing ";", kept at end of line);
+  "sola-/mente" → "solamente" (v.19, rejoined line = 65, kept; next
+  line becomes "en proporción á la incredulidad de los hijos de los
+  hombres."). Rule 8: no rebalance (longest resulting line = 72).
+  Rule 31: ×17 body ";" de-spaced (1920 sets a space before ";"
+  throughout this page). Rule 6: 1 sentence double-space collapsed
+  (v.8 "del mismo Dios.  Y estos dones"); no zero-width merges.
+  Rule 22/23: Block 1 10i "I Corintios 12 : 8-11" → "I Corintios
+  12:8-11" (colon de-spaced; 8-11 consecutive range). 9 markers:
+  10e=[4639] "no" (v.7, before "no neguéis el poder de Dios");
+  10f=[4640] "según" (v.7); 10g=[4641] "mismo" (v.7, "mismo hoy que
+  mañana"); 10h=[4642] "neguéis" (v.8); 10i=[4643] "Porque" (v.9,
+  verse-initial); 10j=[4644] "todo" (v.18, "todo buen don");
+  10k=[4645] "mismo" (v.19, "mismo ayer, hoy y siempre"); 10l=[4646]
+  "nunca" (v.19, "nunca de existir"); 10m=[4647] "Por" (v.20,
+  verse-initial). Block 1: 10e "Véase r, II Nefi 26."; 10f "Véase d,
+  III Nefi 17."; 10g "Véase d, Mormón 9."; 10h "Véase e, III Nefi
+  29."; 10i "Véase e, III Nefi 29; I Corintios 12:8-11."; 10j "Véase
+  o, Éther 4."; 10k "Véase d, Mormón 9."; 10l "Véase 2d, Moroni 7.";
+  10m "Véase a, Moroni 7." MANDATORY i/l/1 check — entry letters 10i
+  ("i") and 10l ("l") both in the set. 1879's Moroni 10 footnotes DO
+  exist for this page's range — on 1879 file p.629 (book p.621), a-i:
+  "a, III. Nep. 2:8. b, Mor. 6:6. c, see m, Mos. 2. d, vers. 5,7. See
+  c, Moro. 3. e, see r, II. Nep. 26. f, see d, III. Nep. 17. g, see
+  d, Mor. 9. h, see e, III. Nep. 29. i, see e, III. Nep. 29. I.
+  Corinth. 12:8-11." (Note: CLAUDE.md's page-628 "Next page" note said
+  1879 Moroni 10 = file p.627 with NO footnotes — that's where 1879's
+  Moroni 10 chapter BEGINS; its footnote block is on file p.629.)
+  This 1879 set pins 10e-10i letter-for-letter (entry "i" confirmed:
+  clean short x-height italic "i", content III Nefi 29 + I Corintios
+  12:8-11 matches exactly; 1879 body markers confirm each placement —
+  e "deny not the power of God" v.7, f "he worketh by power,
+  according to" v.7, g "the same to-day and to-morrow" v.7, h "ye
+  deny not the gifts of God" v.8, i "For behold, to one is given"
+  v.9). 1879's Moroni 10 stops at "i" (1920 has a-m — rule 26
+  divergence), so 10l "l" has no 1879 counterpart: resolved by the
+  unbroken e-f-g-h-i-j-k-l-m sequence (all nine in the block, each
+  with its own body marker in vv.7-20) + glyph (thin vertical stroke,
+  ascender, no descender). 10j-10m cross-ref TARGETS have no 1879
+  counterpart and the 1920 fn-block superscripts are heavily
+  over-inked/illegible; resolved by content-fit + reciprocal
+  back-reference against librodm_foot.txt: 10k "Véase d, Mormón 9"
+  (Mormón 9d = "Versículos 10,19..." = "God is the same yesterday,
+  to-day, and forever" — fits marker on "mismo ayer, hoy y siempre");
+  10l "Véase 2d, Moroni 7" (Moroni 7-2d = "Versículo 38; Moroni
+  10:19,23-27" — reciprocal to this v.19; also recurs as a cross-ref
+  in page 630's fn block per google_text); 10j "Véase o, Éther 4"
+  (Éther 4o = "Moroni 7:5-22; 10:6-7" — mutual cross-ref for "todo
+  buen don viene de Cristo"; established form used by Moroni 7e, 7g)
+  — glyph illegible, FLAGGED for editor; 10m "Véase a, Moroni 7"
+  (Moroni 7a = "Versículos 21-39,40-44,45-48; ...; Moroni 8:14,26;
+  10:20-23" — reciprocal to this v.20 faith/hope/charity chain;
+  established form used by Moroni 8i, 8x; "Véase e, Moroni 7" is
+  unattested) — glyph illegible, FLAGGED for editor. 10e "Véase r, II
+  Nefi 26" cross-checked via 1920's own II Nefi 26r [671] = "II Nefi
+  28:5-6..." ("deny the power of God"); 10f "Véase d, III Nefi 17"
+  via III Nefi 17d [3744] = "II Nefi 27:23..." ("according to their
+  faith"). Google cross-check page 0651: UNAVAILABLE — the 1920 PDF's
+  embedded text layer for file 651 is corrupt, returning Éther 13
+  content ("una Nueva Jerusalem... Los que fueren primeros, serán los
+  últimos...") instead of Moroni 10:5-21. Adjacent file pages extract
+  correctly (650 = book 628 = Moroni 9:22-10:4; 652 = book 630 =
+  Moroni 10:21-32). No independent OCR second opinion for this page;
+  it rests on the per-line image read + the full 1879 cross-check
+  (10a-10i exact) + content-fit/reciprocal resolution for 10j-10m.
+  Session B: fresh independent 1920 fn-block crops (5× whole block +
+  per-entry zooms) + fresh body-marker crops (3×, all 9) + fresh
+  independent re-read of 1879 file p.629 Moroni 10 footnote block —
+  all 9 Block 1 entries and all 9 body-marker placements UNCHANGED;
+  entry "i" and "l" re-confirmed; 10j "o" / 10m "a" reads remain
+  flagged for the editor. No text changes. Session C:
+  insert_body_text.py 629 — librodm.txt 32963→33006 (+43);
+  librodm_foot.txt 4973→4982 (+9 Block 1 entries, NO blank line / NO
+  book header, rule 20). Página sequence 625..629 contiguous. Session
+  D: generate_block2.py 629 appended 4639-4647 (librodm.txt
+  33006→33015). 8 of 9 cross-refs auto-resolved: 4639→671, 4640→3744,
+  4641→4240, 4642→4016, 4644→4352, 4645→4240, 4646→4590, 4647→4561.
+  The KNOWN compound-Block-1-entry bug hit 4643 (10i = "Véase e, III
+  Nefi 29; I Corintios 12:8-11.") — the script grabbed the "12" out
+  of "I Corintios 12:8-11" and matched III Nefi *12*e (→ 3666)
+  instead of III Nefi 29e, and dropped the "I Corintios" text. Fixed
+  by hand: librodm.txt line 33011 = "4643: Véase 4016; I Corintios
+  12:8-11." (matches the CLAUDE.md "compound Block 1 entry" warning
+  and the page-573 precedent). Anchor↔Block-2 after append + fix: max
+  anchor 4647 = max def 4647, contiguous 1..4647, no gaps/dupes; only
+  the documented Jacob 2:15/812 def-without-anchor remains; no
+  wrapped-Block-1-entry spurious-trailer (Notas tail ends cleanly at
+  "4647: Véase 4561."). Session E: fresh full pptext report
+  report_wsl_20260903e.html regenerated and walked end to end.
+  SPELLCHECK: ZERO new page-629 suspects — every word in Moroni
+  10:5-21 is common; "excesiva" (v.11) NOT flagged (valid RAE word,
+  recurs throughout librodm.txt). NO permitted words.txt additions.
+  Every other page-629 hit is a known structural false positive: the
+  short-lines flood over the 40 body lines + 9 new Block 2 entries;
+  the v.21→Notas boundary in the paragraph-level "unexpected paragraph
+  end" list (page 629 is the last transcribed page, ending mid-verse
+  10:21); the TOC "Dones del Espíritu 629" line. Dash check
+  hyphen-minus: the 1 new Block 2 range hyphen ("I Corintios 12:8-11")
+  is properly digit-flanked. Footnote check: 4643-4647 in the anchor
+  bucket, 4641-4642 in the "footnotes" bucket (both coincidentally
+  begin a wrapped line) — union 4639-4647 complete, contiguous, no
+  dupes, no out-of-range. NO page-629 edit-distance / repeated-word /
+  duplicate-line / adjacent-space / trailing-space / scanno /
+  curly-quote / spaced-punctuation / special-situations / book-level /
+  "full stop followed by unexpected sequence" findings. Jeebies
+  clean. Letter-hyphen-letter blind-spot scan: 0 tokens in the
+  page-629 segment. Whole-document mechanical sweeps all clean
+  (check_spaced_punctuation librodm.txt 33015; check_footnote_punctuation
+  librodm_foot.txt 4982; check_verse_indent librodm.txt; curly-quote
+  scan of librodm.txt / librodm_foot.txt / page_629.txt all zero;
+  anchor↔Block-2 only [812]). 1886 comparison — Moroni 10:5-9 and
+  10:9-16 on 1886 file p.642 (book p.624), 10:17-21 on 1886 file
+  p.643 (book p.625) — ALL of page 629's verses compared
+  word-for-word. NO genuine 1920 deviations; NO errors in 1920.txt
+  additions. Differences are all previously-established house style:
+  (a) 1920 supplies acute accents 1886 omits throughout ("también/
+  míos/según/manifestación/tengáis/acordéis/proporción" etc.) —
+  accent modernization; (b) 1920 modernizes 1886's archaic accented
+  forms — "fé"→"fe" (×6), "hé"→"he" (v.9), "miéntras"→"mientras"
+  (v.19), "réino"→"reino" (v.21), "tuviéreis"→"tuviereis" (v.21); (c)
+  v.9 "Porque, he aquí" — 1920 adds a house-style comma after
+  "Porque" (1886 "Porque hé aquí" no comma) — page 625/626/628
+  comma-addition precedent; (d) v.11 "fe excesiva" — 1886 prints "fé
+  excesiva" TOO (shared reading); "excesiva" is a valid RAE word
+  (feminine of "excesivo", here the archaic "exceeding/abundant"
+  sense — modern BoM Moroni 10:11 "exceeding faith"); not
+  pptext-flagged; NO permitted words.txt entry, NO errors-log entry
+  (feedback_errors_log_diligence mirror case). feedback_narrow_space_
+  vs_merge: nothing noticed on this page. FOR THE EDITOR (footnote
+  cross-ref letter reads, not text errors): 10j "Véase o, Éther 4"
+  and 10m "Véase a, Moroni 7" — the 1920 fn-block superscripts are
+  illegibly over-inked; resolved by content-fit + reciprocal, but
+  worth a direct look at the page if convenient. NO text changes to
+  page_629.txt body or librodm.txt in Session E (the 4643 Block 2 fix
+  was a Session D bookkeeping correction).
+
+- **2026-09-03**: Sessions A–E run in one session for page 630 (Moroni
+  10:21-32), first footnote 4648. NOTE: CLAUDE.md's "Next page: 629"
+  line was stale — page 629 was already fully A–E complete (through
+  footnote 4647, integrated into librodm.txt/librodm_foot.txt); page
+  630 is the correct next page. Page 630 CONTINUES Moroni 10 (the last
+  chapter of the Book of Mormon); it does NOT finish it — the page
+  ENDS mid-verse 10:32 ("...y si por la gracia de Dios os hiciereis").
+  Page 629 ended mid-verse 10:21 ("...ni podréis salvaros en el
+  reino"), so page 630 OPENS mid-chapter with the continuation of v.21
+  ("de Dios, si no tenéis fe;...") — "Página 630" on its own line,
+  body text on the next line, NO blank line after the marker, NO
+  heading (rule 1). Running header "630  LIBRO DE MORONI.  (CAP. X."
+  discarded (rule 2). Body = 42 print/output lines. No chapter
+  heading (Moroni 10 continues). Rule 7: 2 hyphen rejoins, both kept
+  at end of first line — "pala-/bras" -> "palabras" (v.26); "pro-/
+  fecias." -> "profecías." (v.28). Rule 8: 1 rebalance — v.30 line hit
+  exactly 73 chars with both markers [4654]/[4655] inserted, "malo,"
+  moved to next line. Rule 31: x16 body space-before-";" (plus one ":"
+  and one "!") de-spaced (1920 spaces before ";" throughout). Rule 6:
+  x6 sentence double-spaces collapsed (v.23 "padres:  Si", v.24
+  "tierra.  Que", v.25 "solo.  Porque", v.26 "Dios.  Y digo", v.27
+  "muertos?  Si", v.28 "profecias.  Y, he aqui"). No zero-width
+  merges. v.23 "Si tenéis fe": the over-inked 10n superscript before
+  "Si" was misread by Google OCR as an opening quote; 1920 prints NO
+  quotation marks (nor a closing one at "mí."), 1886 also none —
+  transcribed without quotes; word is "Si" (conditional), not "Sí"
+  (tittle, no accent; matches 1886 "Si"). v.24 same for the 10o
+  superscript before "Que". 11 markers, letters 10n-10x: 10n=[4648]
+  "Si" (v.23); 10o=[4649] "Que" (v.24); 10p=[4650] "sabréis" (v.27);
+  10q=[4651] "gritara" (v.27); 10r=[4652] "silbará" (v.28); 10s=[4653]
+  "mostrará" (v.29); 10t=[4654] "buen" (v.30); 10u=[4655] "toquéis"
+  (v.30); 10v=[4656] "levántate" (v.31); 10w=[4657] "no" (v.31, "no
+  seas confundida"); 10x=[4658] "alianzas" (v.31). Block 1: 10n
+  "Moroni 7:33."; 10o "Véase 2d, Moroni 7."; 10p "Véase g, II Nefi
+  33."; 10q "Véase s, Mormón 5."; 10r "Véase d, II Nefi 29."; 10s
+  "Véase g, II Nefi 33."; 10t "Véase o, Éther 4."; 10u "II Nefi
+  18:19."; 10v "Isaías 52:1-2."; 10w "Éther 13:8."; 10x "Véase j, III
+  Nefi 15." Chapter continues within Book of Moroni -> Block 1 gets NO
+  blank line / NO book header (rule 20). MANDATORY i/l/1 check: entry
+  letters 10n-10x — none i/l/1; cross-ref targets 2d/g/s/d/g/o/j —
+  none i/l/1. IMPORTANT CORRECTION to page 629's Session A note: 1879's
+  Moroni 10 footnote set does NOT "stop at i" — it continues on 1879
+  file p.630 (letters j-q) and file p.631 (letters r-2c), and its
+  letter sequence aligns EXACTLY, letter-for-letter, with 1920's
+  (a-2c). All 11 page-630 entries confirmed three ways against 1879 —
+  by footnote letter, by target content, and by body-marker
+  placement. 10x: Google OCR read the cross-ref target letter as "i",
+  but 1879 file p.631 prints "x, see j, III. Nep. 15." with a clear
+  descender "j", AND 1920's own III Nefi 15j [3702] = "III Nefi
+  5:24-26; 16:5; Véase e, I Nefi 15." is an exact content-fit for the
+  marker on "alianzas que el Eterno Padre ha hecho contigo, oh casa
+  de Israel" (covenants to the house of Israel), whereas III Nefi 15i
+  [3701] = "III Nefi 12:46-47." (law of Moses) does not fit —
+  resolved 10x = "Véase j, III Nefi 15." Rule 22/23/34: 10u "II Nefi
+  18 : 19" -> "II Nefi 18:19"; 10v "Isaías 52 : I, 2" -> "Isaías
+  52:1-2" (colon de-spaced; Roman "I" -> digit "1"; consecutive
+  verses -> hyphen range); 10w "Éther 13 : 8" -> "Éther 13:8".
+  Google-text cross-check AVAILABLE (file 652): only body diffs were
+  the two over-inked-superscript-as-quote artifacts at v.23/v.24
+  (auto-dismissed category). Session B: fresh independent 1920
+  fn-block + body-marker crops (5x) and fresh 1879 file p.630/p.631
+  crops — all 11 Block 1 entries and all 11 markers UNCHANGED; 10x "j"
+  re-confirmed from the clean 1879 "j" glyph. No text changes.
+  Session C: insert_body_text.py 630 — librodm.txt 33015->33059 (+44);
+  librodm_foot.txt 4982->4993 (+11, NO blank line / NO book header,
+  rule 20). Página sequence 623..630 contiguous; "Página 630" appears
+  once. Session D: generate_block2.py 630 appended 4648-4658
+  (librodm.txt 33059->33070) — all 11 cross-refs resolved cleanly, no
+  unresolved letter-forms, no wrapped/compound-entry bugs. 4648 Moroni
+  7:33.; 4649->4590 (Moroni 7-2d); 4650/4653->790 (II Nefi 33g, whose
+  own text ends "...Moroni 7:35; 10:27" — reciprocal); 4651->4149
+  (Mormón 5s); 4652->741 (II Nefi 29d, ends "...Moroni 10:28" —
+  reciprocal); 4654->4352 (Éther 4o); 4655 II Nefi 18:19.; 4656 Isaías
+  52:1-2.; 4657 Éther 13:8.; 4658->3702 (III Nefi 15j). Anchor<->Block-2:
+  max anchor 4658 = max def 4658, contiguous 1..4658, no gaps/dupes,
+  only the documented Jacob 2:15/812 def-without-anchor. Session E:
+  fresh full pptext report report_wsl_20260903e.html walked end to
+  end. TRANSCRIPTION MISREAD FIXED (rule 12): v.27 Session A had "!No
+  os" (inverted exclamation) before "No os he declarado..."; the 1920
+  print sets an inverted QUESTION mark there (26x zoom — curved
+  hook, dot above; sentence closes "?" at "...los muertos?"), 1886
+  and the modern LDS Spanish edition also read the question mark —
+  corrected in pages/page_630.txt AND librodm.txt (line length
+  unchanged); our reading error, NOT a 1920 defect, so no errors-log/
+  permitted-words entry. SPELLCHECK: sole new page-630 suspect
+  "perfeccionáos" (v.32) -> ADDED to permitted words.txt (1290 lines),
+  NO errors-in-1920 entry — valid imperative+enclitic construction,
+  1886 file p.644 prints the identical accented form (SHARED reading),
+  retained stress accent is a standard 19th-c. orthographic
+  convention; modern form "perfeccionaos" (RAE-form research + modern
+  edition "perfeccionaos en él"); feedback_errors_log_diligence
+  homework done. Every other page-630 pptext hit is a known
+  structural false positive (short-lines flood over 42 body + 11
+  Block 2 lines; v.32->"Notas" boundary in "unexpected paragraph end"
+  — page 630 is the LAST transcribed page, ending mid-verse 10:32).
+  NO page-630 findings in edit-distance / repeated-word / duplicate-
+  line / adjacent-space / trailing-space / scanno / curly-quote /
+  spaced-punctuation / special-situations / book-level / "full stop
+  followed by unexpected sequence" (v.24 "tierra. Que si" NOT flagged
+  — 1920 capitalises "Que", so not the period+lowercase pattern).
+  Jeebies clean. Dash check: only new Block 2 range hyphen "Isaías
+  52:1-2" is digit-flanked; letter-hyphen-letter blind-spot scan of
+  the page-630 segment = 0 tokens. Whole-document mechanical sweeps
+  all clean (check_spaced_punctuation librodm.txt 33070;
+  check_footnote_punctuation librodm_foot.txt 4993; check_verse_indent
+  librodm.txt; curly-quote scan of librodm.txt / librodm_foot.txt /
+  page_630.txt all zero; anchor<->Block-2 only [812]). 1886 comparison
+  — Moroni 10:21-28 on 1886 file p.643 (book p.625), 10:29-32 on file
+  p.644 (book p.626) — ALL of page 630's verses compared word-for-
+  word. NO genuine 1920 deviations requiring an errors-in-1920 entry.
+  Differences all previously-established house style: (a) 1920
+  supplies acute accents 1886 omits throughout; (b) 1920 modernizes
+  1886's archaic accented forms — "fé"->"fe", "réino"->"reino",
+  "segun"->"según", "hé"->"he", "entónces"->"entonces",
+  "hiciéreis"->"hiciereis", "fuéron"->"fueron", "cáusa"->"causa"; (c)
+  1920 adds house-style commas 1886 omits — v.24 "Ahora, hablo", v.28
+  "Y, he aquí" (page 625/626/628/629 precedent); (d) 1920 modernizes
+  spelling "trages"->"trajes" (v.31); (e) 1920 accents demonstratives
+  "éste" (v.25), "aquéllos" (v.26) where 1886 does not — established
+  1920 house pattern, not pptext-flagged, no permitted-words / no
+  errors-log entry. FOR THE EDITOR (non-blocking, not logged): (i)
+  v.24 "hablo á todos los extremos de la tierra. [4649]Que si..." —
+  1920 sets a full stop + capital "Que" where 1886 (file p.643) and
+  the modern edition use a colon + continuation; 1920 is internally
+  consistent (period paired with a capital) and it is NOT the
+  period+lowercase error pattern, so left as printed and flagged only
+  as a 1920/1886 divergence to be aware of. (ii) the 1920 Moroni 10
+  fn-block superscript cross-ref letters on this page are heavily
+  over-inked, but all 11 were pinned exactly by the full 1879
+  cross-check (1879 file pp.630-631) — no letter rests on the 1920
+  glyph alone. feedback_narrow_space_vs_merge: nothing noticed on
+  this page. Text changes in Session E: only the v.27 exclamation->
+  question mark fix (page_630.txt + librodm.txt).
+- **2026-09-03**: Sessions A–E run in one session for page 631 (Moroni
+  10:32-34), first footnote 4659. **THIS IS THE FINAL PAGE OF THE BOOK
+  OF MORMON.** Page CONTINUES and FINISHES Moroni chapter 10 (the last
+  chapter). Page 630 ended mid-verse 10:32 ("...y si por la gracia de
+  Dios os hiciereis"), so page 631 OPENS mid-chapter with the
+  continuation of v.32 ("perfectos en Jesu Cristo, de ningún modo
+  negaréis entonces el poder de Dios.") — "Página 631" on its own line,
+  body text on the next line, NO blank line after the marker, NO
+  heading (rule 1). Body = 12 print lines; ends "...vivos y muertos.
+  Amén." (Moroni 10:34). Nothing printed after it — no "FIN", no
+  colophon (mid/bot crops blank; 1886 file p.644 ends the same way with
+  only a decorative flourish after "Amen."). Running header "CAP. X.)
+  LIBRO DE MORONI. 631" discarded (rule 2). No page-boundary word split
+  (rule 10 N/A — page 630 ended on complete word "hiciereis"). No
+  hyphen rejoins (rule 7 N/A). Rule 8 cascade: the 5 footnote markers
+  pushed raw lines 9-11 past 72 chars, cascading three word-moves
+  ("reunan"+[4662] -> next line start; "encontraros" -> next line
+  start; "Eterno de" -> last line start); output stays 12 body lines,
+  matching the image. Rule 6: 2 sentence double-spaces collapsed (v.34
+  "de todos.  Pronto", "muertos.  Amén."). No zero-width merges. Rule
+  31 N/A (no body semicolons this page; commas/periods all tight).
+  Rule 36: a faint speck between "34." and "Ahora" (v.34) — Google OCR
+  (google_text_1920/page_0653.txt) AND 1886 file p.644 both print
+  "34. Ahora" with no mark; treated as stray debris, transcribed
+  without it, NOT logged. 5 markers: 10y=[4659] "ningún" (v.32);
+  10z=[4660] "derrame" (v.33); 10-2a=[4661] "paraíso" (v.34);
+  10-2b=[4662] "reunan" (v.34); 10-2c=[4663] "agradable" (v.34).
+  Block 1: 10y "Véase e, III Nefi 29."; 10z "Véase f, II Nefi 2.";
+  10-2a "Véase l, II Nefi 9."; 10-2b "Véase d, II Nefi 2."; 10-2c
+  "Jacob 6:13." Same book, same chapter (Moroni 10 continues) -> Block
+  1 gets NO blank line / NO book header (rule 20). MANDATORY i/l/1
+  check — 10-2a's cross-ref target letter: the 1920 fn-block
+  superscripts on this page are ALL heavily over-inked blobs (entry
+  letters y/z/2a/2b/2c AND every "Véase" target letter unreadable from
+  the 1920 glyph alone), so all 5 entries were resolved entirely from
+  1879 file p.631 (Moroni 10 fn continuation, letters r-2c, clean
+  italic type): "y, see e, III. Nep. 29. z, see f, II. Nep. 2. 2a,
+  see l, II. Nep. 9. 2b, see d, II. Nep. 2. 2c, Jacob 6:13." The 2a
+  target letter in 1879 is an unmistakable "l" — plain tall ascender,
+  no dot, no descender, no crossbar — contrasting the dotted,
+  below-baseline "j" of "x, see j," directly above it. NOT "i".
+  Content-fit: 10-2c "Jacob 6:13" on "el agradable tribunal del gran
+  Jehová" — Jacob 6:13 = "hasta que os encuentre ante la agradable
+  barra de Dios" ("the pleasing bar of God"), exact match. 10-2a
+  "II Nefi 9" (Jacob's resurrection-and-paradise discourse) on "el
+  paraíso de Dios" — strong fit for "l". Session B: fresh independent
+  1920 fn-block crop (8x) + fresh body-marker crops (5x, both bands) +
+  fresh independent 1879 file p.631 crop — all 5 Block 1 entries and
+  all 5 markers UNCHANGED; 10-2a "l" re-confirmed. Session C:
+  insert_body_text.py 631 — librodm.txt 33070->33084 (+14: 13 body
+  lines + separator); librodm_foot.txt 4993->4998 (+5, NO blank line /
+  NO book header, rule 20). Página sequence 620..631 contiguous.
+  Session D: generate_block2.py 631 appended 4659-4663 (librodm.txt
+  33084->33089) — no unresolved warnings, no wrapped-Block-1-entry
+  spurious-trailer bug (none of the 5 entries wrap). Cross-refs:
+  4659 -> 4016 (III Nefi 29e, whose text = "Mormón 9:7-11,15-26;
+  Moroni 7:35-38; 10:19-29." — cites this very chapter's preceding
+  verses, reciprocal); 4660 -> 265 (II Nefi 2f); 4661 -> 369 (II Nefi
+  9l = "Alma 40:12,14; IV Nefi 1:14; Moroni 10:34." — cites this exact
+  verse, reciprocal); 4662 -> 263 (II Nefi 2d); 4663 = direct "Jacob
+  6:13." Anchor<->Block-2: max anchor 4663 = max def 4663, contiguous
+  1..4663, no gaps/dupes; only the documented Jacob 2:15/812
+  def-without-anchor remains. Session E: fresh full pptext report
+  report_wsl_20260903e2.html regenerated and walked end to end.
+  SPELLCHECK: ZERO new page-631 suspects ("perfeccionáis", "negaréis",
+  "vengáis", "seréis", "reunan" all unflagged) — NO permitted words.txt
+  additions. Every other page-631 hit is a known structural false
+  positive: the short-lines flood over the 12 body lines + 5 new Block
+  2 entries; the page 630/631 mid-verse boundary ("...os hiciereis" +
+  blank + "Página 631") in the paragraph-level "unexpected paragraph
+  end" list. The book now ends on a complete sentence so page 631's own
+  last line is NOT flagged. NO page-631 edit-distance / repeated-word /
+  duplicate-line / adjacent-space / trailing-space / character /
+  scanno / curly-quote / spaced-punctuation / special-situations /
+  book-level / "full stop followed by unexpected sequence" findings.
+  Jeebies clean. Footnote check: union of both buckets = 4643-4663
+  contiguous, no dupes, no out-of-range. Dash check: the 5 new Block 2
+  entries have NO hyphens (bare-number targets + direct "Jacob 6:13").
+  Letter-hyphen-letter blind-spot scan of the page-631 segment: 0
+  tokens. Whole-document mechanical sweeps all clean
+  (check_spaced_punctuation librodm.txt 33089; check_footnote_punctuation
+  librodm_foot.txt 4998; check_verse_indent librodm.txt; curly-quote
+  scan of librodm.txt / librodm_foot.txt / page_631.txt all zero;
+  anchor<->Block-2 only [812]). 1886 comparison — Moroni 10:32-34 all
+  on 1886 file p.644 (book p.626); the ENTIRE text of page 631 compared
+  word-for-word. NO genuine 1920 deviations; NO errors in 1920.txt
+  additions. Differences all previously-established house style: (a)
+  1920 supplies acute accents 1886 omits — "perfeccionáis"/"negáis"/
+  "vengáis"/"ningún" for 1886 "perfeccionais"/"negais"/"vengais"/
+  "ningun"; (b) 1920 modernizes 1886's archaic forms — "entonces"<-
+  "entónces" (x2), "remisión"<-"remision", "aire"<-"áire", "paraíso"<-
+  "paraiso"; (c) "Jesu Cristo" unhyphenated vs 1886 "Jesu-Cristo" —
+  documented legitimate archaic form (feedback_jesu_cristo_hyphen); (d)
+  "Amén" vs 1886 "Amen" — acute-accent modernization, document-wide;
+  (e) v.34 sentence double-spaces present in 1886 too — collapsed per
+  rule 6 (transcription normalization). 1886 also ends the Book of
+  Mormon here (flourish after "Amen.", no "FIN" text). Rule 36 recheck
+  of the "34. Ahora" speck against 1886: 1886 prints clean "34. Ahora",
+  matching Google's silence — confirmed stray debris. feedback_narrow_
+  space_vs_merge: nothing noticed on this page. NO text changes to
+  page_631.txt or librodm.txt in Session E.
+- **THE BOOK OF MORMON BODY TRANSCRIPTION IS NOW COMPLETE (pages
+  437-631, Sessions A–E).** Remaining project-level cleanup, per
+  CLAUDE.md: (1) run `generate_block2.py --fix-unresolved` as the final
+  whole-document cross-reference cleanup pass (re-resolves any Block 2
+  entries that were stuck on not-yet-transcribed targets when first
+  generated); (2) the blanket-suppression pptext re-run with `permitted
+  words.txt` set aside, cross-referencing every fresh flag against
+  `errors in 1920.txt` (see the orthography-check skill). Chapter
+  emailing (Session F) also continues independently.
+- **2026-09-03**: Final cross-reference cleanup pass —
+  `generate_block2.py --fix-unresolved` run on the completed document
+  (all 631 pages transcribed). Script re-resolved 0 entries: every
+  Block 2 cross-reference that CAN be resolved against librodm_foot.txt
+  already was, page-by-page during each page's Session D (pages were
+  transcribed in book order, so most forward-references were already
+  resolvable by the time their targets landed). Two letter-form
+  clauses remain, both examined by hand:
+  (1) **4341** (Moroni 4d) — `Véase s, I Nefi 13; Mormón 8:14; Moroni
+  10:1-2.` The script's parser can't handle a `Véase <letter>, <Book>
+  <Chapter>` clause followed by `;` + more direct citations before the
+  period (the documented COMPOUND-entry limitation). Resolved by hand:
+  I Nefi 13 letter s = footnote 102 (librodm_foot.txt: `13s, 102: II
+  Nefi 27:6-26; III Nefi 16:4; Mormón 8:4.`). Block 2 line changed to
+  `4341: Véase 102; Mormón 8:14; Moroni 10:1-2.` (librodm.txt only;
+  Block 1 keeps its letter form per rule 17). librodm.txt stays 33089
+  lines.
+  (2) **4013** (III Nefi 29b) — `Véase 2j, III Nefi 15.` GENUINELY
+  UNRESOLVABLE and ALREADY DOCUMENTED: `errors in 1920.txt` line 766
+  (logged when page 570 was transcribed) has the full write-up — III
+  Nefi 15's footnote letters run only a-v (notes 3693-3714), so no "2j"
+  target exists; 1879 file p.550 prints the identical "b, see 2j, III.
+  Nep. 15." so the error is inherited from the 1879 Pratt edition, not
+  1920-only; the intended target is note "j" (3702, the covenant/
+  gathering citation) — matching sibling entries 29c/29g/29i which all
+  correctly read "Véase j, III Nefi 15", and chapter 16's own "16h".
+  Preserved as printed ("2j") per rule 32, so it correctly stays in
+  letter form in Block 2 too. No new action from this pass.
+  Post-run integrity: max Block 2 def 4663, contiguous 1..4663, no
+  duplicate defs, no anchors without a def; only the long-documented
+  Jacob 2:15/812 def-without-anchor remains.
+- **2026-09-05**: Editor correction — Helamán 13:22 "envidia. de
+  antipatías" -> "envidia, de antipatías". This spot was logged in
+  `errors in 1920.txt` (period-for-comma, grouped with the Alma
+  43:9 / 48:6 / 49:3 / 52:34 / 57:6 / Helamán 5:2 / 10:15 / 13:21
+  pattern), on the strength of "1886 has a comma" alone — the Google-OCR
+  and stroke-weight-zoom due diligence per feedback_stray_mark_google_
+  ocr_order was never done. Editor reviewed the high-res scan and read
+  the mark as defective / ink-blobbed type, not a deliberate period.
+  Corroboration: the 1920 PDF's own Google-OCR text
+  (`google_text_1920/page_0493.txt`, file page 493 / book page 471)
+  reads "jactancia, vanidad, envidia, de antipatías, de malicia, de
+  perse-" — a comma; 1886 reads a comma; grammar requires a mid-list
+  comma; and page 471 carries other damaged-comma / print-quality
+  artifacts in the same verses ("requezas" for "riquezas", "aunuciado"
+  for "anunciado", both still logged). Changes: comma written in
+  `librodm.txt` (line 21146, length unchanged) and `pages/page_471.txt`
+  (line 37); that page's Corrections log entry rewritten from
+  "preserved as printed; a period appears..." to the defective-comma
+  finding; the `errors in 1920.txt` entry removed. NOT touched: the
+  Helamán 13:21 "también. porque" entry one line earlier (same page,
+  same print-quality cluster) — left as logged pending its own editor
+  look. `workspace/fulltext_pptext_review_20260903.md` §3 updated
+  (17 -> 16 already-logged period-for-comma entries).
+- **2026-09-05b**: Editor correction — IV Nefi 1:14 "pasado ya. cuando"
+  -> "pasado ya, cuando" (same treatment as Helamán 13:22 earlier
+  today). This spot was logged in `errors in 1920.txt` as a
+  period-for-comma error; page 550's Session E had re-zoomed it at
+  15-20x from the 400dpi crop and called the mark "marca redonda sin
+  cola, inequívocamente un punto", overriding a Google-OCR comma read.
+  Editor reviewed the high-res scan and saw a descender / leftward hook
+  on the mark. Corroboration: the 1920 PDF's own Google-OCR
+  (`google_text_1920/page_0572.txt`, file page 572 / book page 550)
+  reads "años habían pasado ya, cuando los discípulos de Jesús, todos"
+  — a comma; 1886 reads a comma; grammar requires a mid-sentence comma;
+  page 572 is a poor-quality print ("ordenzas", "Sénor", "ocurrio" all
+  on it). Per CLAUDE.md the 400dpi crop is known to lose exactly this
+  detail. Changes: comma in `librodm.txt` (line 24576, length
+  unchanged) and `pages/page_550.txt` (line 42); that page's
+  Corrections notes updated in three places (item 7, the Session E
+  re-zoom block, the "Both added to errors in 1920.txt" bullet); the
+  `errors in 1920.txt` entry removed. NOT touched: the sibling IV Nefi
+  1:2 "ni disputas. y obraron" entry (`errors in 1920.txt`, same page)
+  — editor looked and did not find comma evidence there; stays logged.
+  Also corrected `workspace/fulltext_pptext_review_20260903.md` §3: IV
+  Nefi 1:2 had been mis-listed there as "not yet logged" (it is logged,
+  line 772) — moved to the logged list; the unlogged period-for-comma
+  count is now 8, not 9.
+- **2026-09-05c**: Helamán 9:4 "he aquí." period-for-comma — 1886
+  check done at editor request. 1886 (pages_1886/page_0474.png, book
+  page 456 / file 474) prints "Y ahora hé aquí, que cuando hubiéron
+  visto esto" — a COMMA after "hé aquí" (and "cuando" spelled
+  correctly, no comma between "ahora" and "hé"). 1920 prints
+  "Y ahora, he aquí. que caundo hubieron visto esto". Unlike Helamán
+  13:22 and IV Nefi 1:14 (both reversed earlier today as defective
+  commas): here the 1920 mark is a genuine round baseline period with
+  no descending hook (confirmed at ~18x zoom), and the 1920 PDF's own
+  Google-OCR (google_text_1920/page_0481.txt) also reads a period
+  ("he aquí. quecaundo"). So this stays a genuine 1920 period-for-comma
+  error, preserved as printed (rule 32); NO text change. An entry
+  already existed in errors in 1920.txt (line 560, terse:
+  "he aquí. (he aquí,) (hé aquí, en 1886)"); ENRICHED it with the full
+  1886 citation, the genuine-period determination, the Google-OCR
+  corroboration, and the cross-reference to the established
+  Alma/Helamán/III Nefi pattern.
+  Also corrected workspace/fulltext_pptext_review_20260903.md §3: its
+  "8 not yet logged" list was WRONG — a proper recheck shows ALL of
+  those (Helamán 9:4, 9:6; III Nefi 1:13, 9:22, 24:15, 28:15; Mormón
+  4:11; Éther 6:12) are already in errors in 1920.txt. The original
+  grep-based "logged?" detection missed them because it searched for
+  long distinctive phrases that don't match the terse errors-log entry
+  format. §3 now correctly states there is NO unlogged period-for-comma
+  backlog. The one still-open item in that class is III Nefi 1:13
+  "por. boca" (errors line 627), which carries a standing unresolved
+  editor note that it may be a scan speck rather than a real period.
+- **2026-09-05d**: Two more editor reversals in the period-for-comma /
+  stray-mark class.
+  (1) **Helamán 9:6 "al pueblo. levantanado" -> "al pueblo, levantanado".**
+  Editor reviewed the high-res scan and identified the mark as a comma
+  with a print defect: page 481 / this field of view carries several
+  ink-and-dust letter defects (a stray speck before "su" in v.6, broken
+  "m" in "mismo"/"miedo", broken "inm" in "inmediatamente"). Grammar
+  requires a comma (the gerund clause "levantando el grito..." attaches
+  to "al pueblo"); 1886 prints a comma. Google-OCR of the 1920 PDF read
+  a PERIOD here (unlike Helamán 13:22 / IV Nefi 1:14, where Google also
+  read a comma) — noted, but the editor's higher-res read + grammar +
+  1886 + this page's condition outweigh a single Google period-read on
+  a print this degraded. Comma written in librodm.txt (line 20605) and
+  pages/page_459.txt (line 28); that page's Corrections entry rewritten;
+  errors in 1920.txt entry ("Helamán 9:6 al pueblo.") removed. The
+  sibling "Helamán 9:6 levantanado (levantando)" spelling entry stays.
+  (2) **III Nefi 1:13 "por. boca" -> "por boca".** The dot between "por"
+  and "boca" was a long-standing unresolved item — its errors-in-1920
+  entry already carried a 2026-07-21 editor note that connected-
+  components analysis at native resolution found the mark smaller
+  (40px^2 vs 46-50) and 2px higher off the baseline than genuine
+  periods on the same pages, "evidencia cuantitativa" for a scan
+  speck. Editor has now done the manual image review and confirmed:
+  STRAY MARK, not printed type. The dot was REMOVED from the text
+  (librodm.txt line 21616, pages/page_482.txt line 29 -> "he anunciado
+  por boca de mis santos profetas"); the errors in 1920.txt entry
+  removed; page_482.txt's three relevant Corrections blocks (the [v.13]
+  entry, the Session E 1886-check bullet, and the 2026-07-21 reopened-
+  unresolved block) all updated to the resolved state. 1886 prints
+  "por boca" with no punctuation.
+  errors in 1920.txt: 912 -> 910 lines. review file
+  workspace/fulltext_pptext_review_20260903.md §3 updated — four
+  reversals now (13:22, 1:14, 9:6, 1:13); the rest of the
+  period-for-comma category confirmed genuine and staying logged;
+  nothing left open in that section.
+- **2026-09-05e**: Two more editor reversals, plus a general rule for
+  `errors in 1920.txt` scope.
+  **RULE (editor):** only *textual* errors go in `errors in 1920.txt`
+  — wrong / misspelled / missing words, or a punctuation mark the
+  typesetter genuinely *set* wrong. *Print defects* — stray specks,
+  weak / broken / half-inked type — are fixed silently in the
+  transcription and NOT logged.
+  (1) **III Nefi 9:22 "quienquiera. que" -> "quienquiera que".** Editor
+  ruled the dot a STRAY SPECK (small, floating mid-height in the word
+  gap; Google-OCR of the 1920 PDF, google_text_1920/page_0527.txt,
+  reads "quienquiera que" with no mark — rule-36 silence). Dot removed
+  from librodm.txt (line 22584) and pages/page_505.txt (line 2);
+  errors-log entry deleted; page_505.txt Corrections updated. The
+  "época" (v.7) spelling entry on the same page stays — it's a textual
+  error.
+  (2) **III Nefi 24:15 "orgullosos. sí" -> "orgullosos, sí".** Editor
+  reviewed the high-res scan: the character is very weak / partly
+  inked, its lower piece (and part of even a period) missing — a
+  misprinted character, most likely a comma. 1886 (book p.535/file
+  553) prints a comma; grammar requires one. Google-OCR had read a
+  period and Session A's 400dpi zoom had called it "un punto normal, no
+  una coma mal impresa" — both overridden by the editor's better scan.
+  Comma written in librodm.txt (line 24061) and pages/page_538.txt
+  (line 38); errors-log entry deleted; page_538.txt Corrections
+  updated in two places.
+  errors in 1920.txt 910 -> 908 lines. Helamán 9:4's entry (line 560)
+  had its "mismo patrón" cross-reference list trimmed to drop the
+  now-reversed III Nefi 9:22 (22:17 stays — still a valid logged
+  entry). review file §3 updated — SIX
+  reversals now in the period/speck class (13:22, 1:14, 9:6, 1:13,
+  9:22, 24:15); the rest confirmed genuine textual errors and staying
+  logged; the new textual-vs-print rule recorded there too.
+- **2026-09-05f**: Three more editor reversals in the period/speck
+  class — all print defects, per the 2026-09-05e rule (only textual
+  errors go in errors in 1920.txt).
+  (1) **III Nefi 28:15 "poder. contemplar" -> "poder contemplar".**
+  Editor: the mark is visibly LARGER than a real period -> stray
+  speck. It sat where grammar admits nothing ("para poder contemplar"
+  = "to be able to behold"); 1920 Google-OCR actually read it as a
+  comma (google_text_1920/page_0567.txt); 1886 (book p.542/file 560)
+  prints "poder contemplar" with nothing between. Mark removed from
+  librodm.txt (24362) + pages/page_545.txt (37); errors entry deleted;
+  page_545 Corrections paragraph rewritten (the earlier note had
+  called it "un punto genuino, redondo").
+  (2) **Mormón 4:11 "corazón. se" -> "corazón se".** Editor: stray
+  speck, not a period. 1920 printed "corazón.se" jammed together, no
+  following capital; Google-OCR read "corazón.se"; 1886 (book p.558/
+  file 576) reads "todo corazon se endureció" with normal spacing, no
+  mark. Speck removed from librodm.txt (25070) + pages/page_562.txt
+  (5); errors entry deleted; page_562 Corrections updated.
+  (3) **IV Nefi 1:2 "ni disputas. y obraron" -> "ni disputas, y
+  obraron".** Editor: print defect — the neighbouring "s" of
+  "disputas" is also damaged. 1920 Google-OCR (google_text_1920/
+  page_0572.txt) AND 1886 (book p.546/file 564) both read a comma;
+  grammar wants one. Comma written in librodm.txt (24537) +
+  pages/page_550.txt (3); errors entry deleted; page_550 Corrections
+  updated in four places (this had been the last un-reversed member of
+  the IV Nefi 1 pair — see the 2026-09-05b entry).
+  errors in 1920.txt 908 -> 905 lines. review file §3: NINE reversals
+  now (13:22, 1:14, 9:6, 24:15, 1:2 — defective commas; 1:13, 9:22,
+  28:15, Mormón 4:11 — stray specks). librodm.txt unchanged at 33089;
+  check_spaced_punctuation clean; anchor<->Block-2 unchanged (max
+  4663, only [812]).
+- **2026-09-05g**: Review file §4 ("line begins with stranded
+  punctuation") — editor reviewed, clear of issues. The three
+  librodm.txt lines were already in the corrected form (`;`/`,` bound
+  to the preceding word: Éther 3:14 "...eternamente;", Éther 8:23
+  "...ganancias;" and "...exterminación,"). Found the page files out
+  of sync — pages/page_583.txt (line 25-26) and pages/page_594.txt
+  (lines 11-15) still had the old form with the mark opening the
+  wrapped line. Synced both page files to match librodm.txt and
+  updated their Corrections notes (which had argued a "decorative
+  space" kept the mark detached from the rejoined hyphenated word —
+  superseded; per rule 31 a space-stripped `;`/`,` binds left, and a
+  line must not start with one). No errors in 1920.txt change (pure
+  transcription formatting). check_spaced_punctuation clean on
+  librodm.txt + both page files (page_594's 4 hits are all historical
+  quotes inside its Corrections log). §4 marked DONE.
+- **2026-09-05h**: Helamán 11:3 "septusgésimo-tercio" — editor verified
+  the error in the 1920 image; 1886 check done at editor request.
+  1886 (pages_1886/page_0479.png, book page 461/file 479) prints
+  "septuagésimo-tercio" correctly at v.3, and "en el año septuagésimo
+  segundo" correctly at v.1 of the same chapter. 1920's "septusgésimo"
+  has an "s" where "a" belongs (confirmed at ~13x zoom). RAE has only
+  "septuagésimo". The same 1920 page writes "septuagésimo-" correctly
+  seven other times (vv.1, 6, 8, 17, 21 + two more), so it's an
+  isolated slip, not a house spelling. An errors in 1920.txt entry
+  ALREADY existed (line 572, terse: "septusgésimo-tercio
+  (septuagésimo-tercio) (septuagésimo-tercio en 1886; ...)"); ENRICHED
+  it with the full 1886 citation, the zoom confirmation, RAE, and the
+  same-page consistency evidence. NO text change (preserved as
+  printed, rule 32 — it's a textual error, correctly logged). The
+  review file's §5A note that this was "Not in errors in 1920.txt"
+  was wrong (same phrase-grep detection failure as the §3 items) —
+  corrected. Sibling Helamán 11:2 "detrucción" (destrucción) is also
+  already logged (line 571) — no action.
+- **2026-09-05i**: Compound-word hyphen fixes (review file §5A) — editor
+  did the librodm.txt edits; synced the page files.
+  **Mosiah 11:11 "sumosacerdotes" -> "sumo-sacerdotes":** in the 1920
+  image "sumo-sacerdote" straddled a line break and Session A dropped
+  the hyphen when rejoining. Editor restored it in librodm.txt (line
+  8757; pre-437 text, no page file). **No errors in 1920.txt entry
+  exists or is needed** — a transcription slip, not a 1920 defect.
+  Distinct from the Alma 13:9-10 "Sumo Sacerdotes"->"Sumo-Sacerdotes"
+  entries (opposite error, different spot; those stay).
+  **Also fixed by the editor, same class (compound ordinal / compound
+  noun split across a line break at its own hyphen -> rejoined onto one
+  line, hyphen kept):** Helamán 6:1 "sexagésimo-segundo" (librodm
+  20139), Helamán 6:14 "sexagésimo-quinto" (20193), Helamán 6:33
+  "sexagésimo-octavo" (20286), III Nefi 6:22 "[3505]sumo-sacerdote"
+  (22237-22238, marker moved down). Synced pages/page_449.txt,
+  page_450.txt, page_452.txt, page_496.txt to match librodm.txt and
+  added/updated their Corrections notes (page_496's Session A note had
+  deliberately kept the v.22 split at the hyphen — superseded; 1886
+  also hyphenates there, no errors-log entry). check_lines clean on all
+  four page files' body text and on librodm.txt (0 over 72, 0 trailing
+  hyphens); check_spaced_punctuation clean. librodm.txt 33089 -> 33088
+  (one line absorbed at Helamán 6:14 where "quinto." had been alone on
+  its own line). review file §5A: these five items marked DONE; still
+  open there: Bienamado/Bien-amado consistency.
+- **2026-09-05j**: Two more review-pass items (editor finished §5A/§5B,
+  started §5C).
+  (1) **Helamán 8:21 "ha-sido" -> "ha sido"** (§5A). Editor confirmed
+  the mark between "ha" and "sido" is a STRAY SPECK, not a printed
+  hyphen — 1920 itself writes "ha sido destruida" correctly one clause
+  earlier in the same verse. Session A had preserved it as printed
+  ("stray hyphen ... verify against 1886") and it was logged. Speck
+  removed from librodm.txt (line ~20541) + pages/page_458.txt (line 8);
+  page_458 Corrections updated; errors in 1920.txt entry
+  ("Helamán 8:21 no ha-sido destruida") deleted. Print defect, not
+  logged. Tenth print-defect reversal in this pass.
+  (2) **Footnote 1 Nefi 3d / fn 15 "II Crónicas 36, 14-20"** (§5C).
+  Editor verified the 1920 print genuinely sets a COMMA where the
+  chapter:verse colon belongs. Corroboration: every other citation in
+  I Nefi 3's footnote block uses a colon ("Josué 18:6,10", "Jueces
+  20:9", "I Nefi 2:4", "I Nefi 1:3", "Mosíah 1:4"), and 1920's own
+  notes 1c/1d/1g cite this same II Chronicles 36 passage correctly as
+  "36:15-16 / 36:17-20 / 36:16"; confirmed at zoom
+  (pages_1920/page_0028.png). 1886 has no footnote apparatus; 1879's
+  equivalent "d" cites different content (translation divergence, rule
+  26). This is a faithful transcription of a genuine 1920 misprint, so
+  the text is PRESERVED AS PRINTED in both Block 1 (librodm_foot.txt
+  line 22) and Block 2 (librodm.txt Notas) and a NEW errors in 1920.txt
+  entry was added, in I Nefi 3 position ("Footnote 1 Nefi 3d, 15 'II
+  Crónicas 36, 14-20' ('II Crónicas 36:14-20') (...)").
+  review file §5A / §5B / §5C rows updated; CLAUDE.md status updated.
+  Editor will commit and push after this.

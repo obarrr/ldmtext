@@ -2,8 +2,8 @@ Página 449
 
 CAPÍTULO 6.
 
-1. Y vino á suceder, que cuando concluyó el año sexagésimo-
-segundo del gobierno de los Jueces, había ocurrido todo esto,
+1. Y vino á suceder, que cuando concluyó el año sexagésimo-segundo
+del gobierno de los Jueces, había ocurrido todo esto,
 y la mayor parte de los Lamanitas se había convertida en un
 pueblo justo, de tal modo, que su rectitud excedia á la de los
 Nefitas, por causa de su firmeza y de su estabilidad en la fe.
@@ -56,3 +56,10 @@ Corrections
 [page] "Digitized by Google" watermark removed.
 [v.5] "con-" + "virtiéndose" → "convirtiéndose" — rejoined hyphenated
 line-break split.
+[v.1, editor 2026-09-05] "sexagésimo-" / "segundo" — Session A left the
+compound ordinal "sexagésimo-segundo" split across a line break at its
+own hyphen; rejoined onto one line ("...concluyó el año
+sexagésimo-segundo" / "del gobierno de los Jueces..."), hyphen kept,
+matching how every other compound ordinal in the document is set.
+Synced to librodm.txt. No errors in 1920.txt entry — line-break choice
+only.

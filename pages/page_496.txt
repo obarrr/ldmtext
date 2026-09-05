@@ -38,8 +38,8 @@ extremo, á causa de los que testificaban estas cosas; y los que se
 enojaban, generalmente eran los jueces superiores, y los que
 habían sido [3502]sumo-sacerdotes y [3503]abogados; sí, todos los
 abogados se irritaban contra los que daban testimonio de estas cosas.
-22. Y ahora, no había ningún [3504]abogado, ni juez, ni [3505]sumo-
-sacerdote que tuviese poder para condenar á muerte á ninguna
+22. Y ahora, no había ningún [3504]abogado, ni juez, ni
+[3505]sumo-sacerdote que tuviese poder para condenar á muerte á ninguna
 
 6j, 3500: III Nefi 2:8.
 6k, 3501: III Nefi 1:1.
@@ -64,12 +64,18 @@ word "intrepidamente" was moved to start the next line instead.
 y [3503]abogados ; sí, todos los abogados" reached 75 characters once both
 sequential footnote markers were inserted (exceeding the 72-char cap); per
 rule 8 the last word "abogados" was moved to the start of the next line.
-[compound-word hyphen, not a line-wrap split] v.22 "ni [3505]sumo-/sacerdote"
-falls at a line break in the same place as its own natural hyphen; this same
-page hyphenates "sumo-sacerdote(s)" mid-line at v.21 ("habían sido
-[3502]sumo-sacerdotes"), confirming the hyphen is a genuine part of the
-compound word, not a line-wrap artifact — transcribed as printed, hyphen
-retained across the line break, no rule 7 rejoin applied.
+[compound-word hyphen] v.22 "ni [3505]sumo-sacerdote" falls at a line break
+in the same place as its own natural hyphen; this same page hyphenates
+"sumo-sacerdote(s)" mid-line at v.21 ("habían sido [3502]sumo-sacerdotes"),
+confirming the hyphen is a genuine part of the compound word, not a
+line-wrap artifact. Session A left it split across the break
+("...ni [3505]sumo-" / "sacerdote que..."). [UPDATED 2026-09-05: the
+editor rejoined it so the compound sits whole on the next line
+("...ni juez, ni" / "[3505]sumo-sacerdote que..."), matching how every
+other hyphenated compound in the document is set (one line, hyphen kept)
+and clearing the check_lines trailing-hyphen flag. Synced to librodm.txt.
+1886 also hyphenates "sumo-sacerdote" here — no errors in 1920.txt entry;
+this is a transcription line-break choice only.]
 [scan artifact, not transcribed] v.15: a small solid ink blob floats in the
 right margin after "inflándoles" (not immediately before any word, no space
 gap matching a real superscript position). Compared at high zoom against

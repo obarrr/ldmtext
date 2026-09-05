@@ -34,7 +34,7 @@ bendiciones que ha conferido á vosotros, pero os acordáis
 constantemente de vuestras requezas, mas no para dar gracias
 al Señor, vuestro Dios, por ellas; sí, vuestro corazón no va hacia
 Él, sino que se ha henchido con gran orgullo, y está lleno de
-jactancia, vanidad, envidia. de antipatías, de malicia, de
+jactancia, vanidad, envidia, de antipatías, de malicia, de
 persecuciones, asesinatos, y de toda clase de iniquidad.
 23. Por esta causa, el Señor Dios ha herido este país y vuestras
 riquezas con una maldición, y esto á causa de vuestras iniquidades.
@@ -96,10 +96,16 @@ normal space. No `errors in 1920.txt` entry.
 [v.22] "requezas" — preserved as printed; apparent 1920 misprint for
 "riquezas" (matches "riquezas" used elsewhere in this same verse and
 v.20/23). Verify against 1886 in Session E.
-[v.22] "envidia. de antipatías" — preserved as printed; a period
-appears where a comma is grammatically expected mid-list (compare
-1879: "envyings, strifes, malice, persecutions, and murders" as a
-comma-separated list). Verify against 1886 in Session E.
+[v.22] "envidia, de antipatías" — transcribed with a comma. The 1920
+mark here first read as a period and was logged in errors in 1920.txt,
+but editor review of the high-res scan (2026-09-05) plus the 1920 PDF's
+own Google-OCR text (google_text_1920/page_0493.txt: "vanidad, envidia,
+de antipatías") both read a comma; 1886 prints a comma; grammar
+requires a mid-list comma (compare 1879: "envyings, strifes, malice,
+persecutions, and murders"); and this page carries other
+damaged-comma / print-quality artifacts in the same verses ("requezas",
+"aunuciado"). Treated as a defective / ink-blobbed comma, not a
+deliberate period. The errors in 1920.txt entry was removed 2026-09-05.
 [v.24] "Sí, ay de este pueblo" — preserved as printed; missing the
 inverted exclamation mark "¡" before "ay" that appears in the same
 construction at v.15 and v.16 ("¡ay de..."). Verify against 1886 in

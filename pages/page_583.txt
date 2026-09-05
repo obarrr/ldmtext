@@ -22,8 +22,8 @@ presencia, por lo tanto me manifesté á ti.
 14. He aquí, que yo soy Él que ha sido preparado [4315]desde el
 principio del mundo para redimir á mi pueblo; he aquí, que yo soy
 Jesu Cristo; yo soy el [4316]Padre y el [4317]Hijo. En mí tendrán luz
-todas las generaciones que crean en mi nombre, y esto eternamente
-; y se convertirán en mis hijos y en mis hijas.
+todas las generaciones que crean en mi nombre, y esto eternamente;
+y se convertirán en mis hijos y en mis hijas.
 15. Y [4318]nunca me he mostrado á ningún hombre de los que yo
 he creado, porque nunca ninguno ha creído en mí como tú lo
 has hecho. ¿Ves tú como habéis sido creado según mi propia
@@ -134,14 +134,15 @@ every citation touching this page's body (lines 25979-26020) and Block
 2 entries (30658-30673) in `librodm.txt`. One genuine new spellcheck
 flag: "Enoch" (proper name, footnote 4318's text) — added to
 `permitted words.txt`, no `errors in 1920.txt` entry (BoM/Biblical
-proper noun, matches both 1920 and 1879 spelling exactly). One
-structural false positive: the "line starts with suspect punctuation"
-check flagged line 26004 ("; y se convertirán en mis hijos y en mis
-hijas.") — this is a direct, unavoidable mechanical consequence of the
-v.14 "eterna-"/"mente" hyphen rejoin (rule 7) landing "eternamente" at
-the end of the prior line and pushing the following semicolon (already
-space-stripped per rule 31) to the start of the next; not a
-transcription defect. No other new hits in range from edit-distance,
+proper noun, matches both 1920 and 1879 spelling exactly). The "line starts with suspect
+punctuation" check flagged the wrapped line "; y se convertirán en
+mis hijos y en mis hijas." after the v.14 "eterna-"/"mente" hyphen
+rejoin (rule 7). Session A left the semicolon at the start of that
+line; on 2026-09-05 review (fulltext pptext review §4) it was moved
+up to bind to "eternamente" ("...y esto eternamente;" / "y se
+convertirán..."), per rule 31 (a space-stripped semicolon binds to
+the preceding word) — a line must not start with `;`. Synced here to
+match librodm.txt. No other new hits in range from edit-distance,
 dash, footnote, scanno, curly-quote, spaced-punctuation, verse-indent,
 special-situations, or "full stop followed by unexpected sequence"
 checks. Whole-document `check_spaced_punctuation.py` (librodm.txt +

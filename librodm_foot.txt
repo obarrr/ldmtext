@@ -4963,3 +4963,36 @@ EL LIBRO DE MORONI
 9d, 4628: Mormón 4:11-12.
 9e, 4629: Mormón 2:9.
 9f, 4630: Mormón 8:3.
+9g, 4631: Éther 13-15.
+9h, 4632: Versículo 5; Mormón 4:11-12.
+9i, 4633: I Nefi 13:31; Alma 45:14.
+9j, 4634: Mormón 6:6.
+10a, 4635: III Nefi 2:8.
+10b, 4636: Mormón 6:6.
+10c, 4637: Véase m, Mosíah 2.
+10d, 4638: Versículos 5,7; Véase c, Moroni 3.
+10e, 4639: Véase r, II Nefi 26.
+10f, 4640: Véase d, III Nefi 17.
+10g, 4641: Véase d, Mormón 9.
+10h, 4642: Véase e, III Nefi 29.
+10i, 4643: Véase e, III Nefi 29; I Corintios 12:8-11.
+10j, 4644: Véase o, Éther 4.
+10k, 4645: Véase d, Mormón 9.
+10l, 4646: Véase 2d, Moroni 7.
+10m, 4647: Véase a, Moroni 7.
+10n, 4648: Moroni 7:33.
+10o, 4649: Véase 2d, Moroni 7.
+10p, 4650: Véase g, II Nefi 33.
+10q, 4651: Véase s, Mormón 5.
+10r, 4652: Véase d, II Nefi 29.
+10s, 4653: Véase g, II Nefi 33.
+10t, 4654: Véase o, Éther 4.
+10u, 4655: II Nefi 18:19.
+10v, 4656: Isaías 52:1-2.
+10w, 4657: Éther 13:8.
+10x, 4658: Véase j, III Nefi 15.
+10y, 4659: Véase e, III Nefi 29.
+10z, 4660: Véase f, II Nefi 2.
+10-2a, 4661: Véase l, II Nefi 9.
+10-2b, 4662: Véase d, II Nefi 2.
+10-2c, 4663: Jacob 6:13.

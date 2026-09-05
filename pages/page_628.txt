@@ -1,0 +1,220 @@
+Página 628
+Porque sé que han de perecer, excepto que se arrepintieren y
+volvieren á Él;
+23. Y si perecieren, será [4631]como los Jareditas, por la perversidad
+de sus corazones, que buscan el derrame [4632]de sangre y la venganza.
+24. Y si sucediere que perecieren, sabemos que muchos de
+nuestros hermanos se han [4633]pasado á los Lamanitas, y que un
+gran número de ellos se pasará todavía; por lo tanto, escribe algo
+más, si tu vida fuere prolongada; y yo pereceré, y ya no te veré
+más. No obstante que espero verte pronto, porque tengo anales
+sagrados que [4634]confiarte.
+25. Permanece fiel á Cristo, hijo mío; y que lo que te he
+escrito, no te aflija hasta el extremo de que te cause la muerte;
+sino que Cristo te eleve, y que sus sufrimientos y su muerte,
+y su aparición en su propio cuerpo á nuestros padres, su misericordia
+y su longanimidad, y la esperanza de su gloria y de la
+vida eterna, permanezcan en tu mente para siempre.
+26. Y que la gracia de Dios, el Padre, cuyo trono se halla en
+lo alto de los cielos, y nuestro Señor Jesu Cristo, que se asienta
+á la derecha de su poder, hasta que todas las cosas le queden
+sujetas, sea y permanezca y viva siempre contigo. Amén.
+
+CAPÍTULO 10.
+
+1. Ahora, yo, Moroni, voy á escribir algo según bien me plazca;
+y lo escribo para mis hermanos, los Lamanitas, porque quiero
+que sepan que ya se han pasado más de cuatrocientos veinte
+años, desde que fué dada la [4635]señal de la venida de Cristo.
+2. Y después que les haya dicho algunas palabras por vía
+de exhortación, sellaré [4636]estos anales.
+3. He aquí, os exhorto que, cuando leáis estas cosas, si está
+en la sabiduría de Dios que las leáis, que recordéis cuan misericordioso
+el Señor ha sido hacia los hijos de los hombres, desde
+la [4637]creación de Adam, hasta los tiempos en que vosotros recibáis
+estas cosas, que os ruego meditéis en vuestros corazones.
+4. Y cuando recibáis estas cosas, os exhorto también á que
+pidáis á Dios, el Eterno Padre, en el nombre de Cristo que os
+declare, si estas cosas son verdaderas; si así lo hiciereis con un
+corazón contrito y con una sincera y verdadera intención,
+teniendo fe en Cristo, Él os manifestará la verdad de ellas, [4638]por
+el poder del Espíritu Santo;
+
+9g, 4631: Éther 13-15.
+9h, 4632: Versículo 5; Mormón 4:11-12.
+9i, 4633: I Nefi 13:31; Alma 45:14.
+9j, 4634: Mormón 6:6.
+10a, 4635: III Nefi 2:8.
+10b, 4636: Mormón 6:6.
+10c, 4637: Véase m, Mosíah 2.
+10d, 4638: Versículos 5,7; Véase c, Moroni 3.
+
+Corrections
+- Page opens mid-verse 22 as a continuation from page 627 (which ended
+  "...ó de su entera destrucción."). Per rule 1: "Página 628" on its own
+  line, body text on the very next line, no blank line after the marker,
+  no chapter heading at the top. No page-boundary word split (rule 10
+  N/A — page 627 ended on the complete word "destrucción.").
+- Running header "628  LIBRO DE MORONI.  (CAP. X" discarded (rule 2).
+- The short rule between Moroni 9:26 and "CAPÍTULO 10." (and the
+  divider inside the footnote block separating the two chapters'
+  footnotes) discarded.
+- Rule 7 hyphen rejoins (2), both kept at the end of the first line:
+  "miseri-/cordia" → "misericordia" (v.25, rejoined line = 69 chars);
+  "miseri-/cordioso" → "misericordioso" (v.3, rejoined line = 72
+  chars). No rule 8 rebalance needed.
+- Rule 31 space-before-punctuation removed, ×8 (1920 sets a space
+  before ";" throughout this page): v.22 "Él ;", v.24 "todavía ;",
+  v.24 "prolongada ;", v.25 "mío ;", v.25 "muerte ;", 10:1 "plazca ;",
+  10:4 "verdaderas ;", 10:4 "Santo ;".
+- Rule 6 sentence double-space collapsed to one space: v.24
+  "más.  No obstante", v.26 "contigo.  Amén.". Also v.26 "se . asienta"
+  (a speck between the words) normalized to "se asienta". No zero-width
+  merges.
+- Rule 23: Block 1 9h "Mormón 4:11, 12." → "Mormón 4:11-12." (11-12
+  consecutive range, colon de-spaced). Rule 24: 10d "Versículos 5, 7"
+  → "Versículos 5,7" (5 and 7 non-consecutive, comma no space).
+- Footnote markers (8): 9g=[4631] "como" (9:23); 9h=[4632] "de" (9:23,
+  before "de sangre y la venganza"); 9i=[4633] "pasado" (9:24);
+  9j=[4634] "confiarte" (9:24); 10a=[4635] "señal" (10:1); 10b=[4636]
+  "estos" (10:2); 10c=[4637] "creación" (10:3); 10d=[4638] "por" (10:4,
+  before "por el poder del Espíritu Santo").
+- Chapter boundary: Moroni 9 ends at v.26 ("...sea y permanezca y viva
+  siempre contigo. Amén.") — this also ends Mormón's second epistle.
+  "CAPÍTULO 10." follows (blank line before/after, rule 3). NO chapter
+  subtitle for Moroni 10 — verse 1 begins immediately after the
+  heading. Same book (Book of Moroni continues), so Block 1 gets NO
+  blank line and NO book header between 9j and 10a (rule 20).
+- MANDATORY i/l/1 check — entry letter 9i is "i". 1879's Moroni 9
+  footnote set (file pp.626-627) contains only letters a-d (a=see d,
+  I Nefi 12; b=see a, I Nefi 16; c=Moroni 8:28; d=Mormón 4:11-12), so
+  there is no 1879 counterpart citing I Nefi 13 or Alma 45 to match
+  against (rule 26 — the two editions' Moroni 9 footnote sets diverge;
+  1920 has a-j, 1879 has a-d). Resolved by unambiguous alphabetical
+  sequence g-h-i-j (all four letters present, each with its own body
+  marker) and glyph shape at 8x zoom: a short x-height letter with a
+  dot, no ascender and no descender — excludes "l" and "1". The 9j
+  glyph (before "Mormón 6:6.") confirmed "j" by its clear descender.
+  Target "I Nefi 13:31" — Roman "I" is the book name, contextually
+  unambiguous (rule 34).
+- 10c cross-reference target read as "m" ("Véase m, Mosíah 2.") — an
+  over-inked squat wide mark, not i/l/1; content-fit OK (Moroni 10:3
+  "la creación de Adam" ↔ Mosíah 2, King Benjamin on the creation).
+  1879's Moroni 10 carries no footnotes, so no cross-check available.
+- feedback_narrow_space_vs_merge: 10:1 "voy á escribir" — 1920 prints
+  "voy á" with a reduced gap (looks near-merged). Grammar requires two
+  words; transcribed as two words "voy á". Flagged here for the
+  editor's own look during Session E (committed default, not a Session
+  A-D blocker).
+- "cuan misericordioso" (10:3) transcribed without the accent on
+  "cuan" exactly as printed (1920/1886 routinely drop the exclamative
+  accent) — preserved per rule 32, for Session E to assess.
+- "Adam" (10:3) preserved as printed (1920 form; not modernized to
+  "Adán").
+
+Session B (footnote verification) — independent re-pass:
+- Fresh 1920 footnote-block zoom crops (9x, both chapter groups) and
+  fresh body-marker crops (5-8x, all 8 markers) taken independently of
+  Session A. All 8 Block 1 entries UNCHANGED; all 8 body-marker
+  placements UNCHANGED.
+- Block 1 letters re-read: first group g, h, i, j (9g-9j); second group
+  a, b, c, d (10a-10d). The 9j glyph confirmed "j" by its clear
+  descender (distinct from the 9i "i", which has none).
+- MANDATORY i/l/1 re-check for entry letter 9i: re-examined 1879 file
+  p.626 bot (Moroni 9 footnotes present there are only a, b, c —
+  "a, see d, I Nep. 12 / b, see a, I Nep. 16 / c, Moro. 8:28") and
+  1879 file p.627 fn_zoom ("d, Mor. 4:11, 12." only). 1879's entire
+  Moroni 9 footnote set is a-d with no entry citing I Nefi 13 or
+  Alma 45, so no 1879 counterpart to 1920's 9i exists (rule 26 —
+  divergent footnote sets). Letter stands as "i" on the unambiguous
+  g-h-i-j sequence (all four present in the block AND all four with
+  body markers in vv.23-24) plus glyph shape (short x-height, no
+  ascender/descender — not "l", not "1").
+- 10c "Véase m" target re-read: over-inked squat wide mark, "m"; not
+  i/l/1, 1879 Moroni 10 has no footnotes. Unchanged.
+- feedback_narrow_space_vs_merge: 10:1 "voy á" tight gap re-confirmed
+  on a fresh 6x crop — still transcribed as two words, still flagged
+  for the editor's Session E look.
+- No text changes this session.
+
+Session C (integration) note:
+- insert_body_text.py 628 initially pulled the literal header line
+  "Block 1 footnotes:" into librodm.txt as body text (the script takes
+  everything before the first chapter+letter entry as body, and this
+  page's Session A file used a non-standard "Block 1 footnotes:" header
+  where the house convention is entries directly after a blank line).
+  The stray line + its trailing blank were deleted from librodm.txt by
+  hand; this page file was corrected to the house format (no Block 1
+  header; "Corrections" with no colon). librodm_foot.txt got the 8
+  entries correctly and was not affected. Final: librodm.txt
+  32913→32955 (+42); librodm_foot.txt 4965→4973 (+8, NO blank line /
+  NO book header — Moroni ch.10 continues within the Book of Moroni,
+  rule 20). Página sequence 623..628 contiguous.
+
+Session D (Block 2) note:
+- generate_block2.py 628 appended 4631-4638 (librodm.txt 32955→32963),
+  no unresolved warnings, no wrapped-Block-1-entry spurious-trailer bug
+  (Notas tail ends cleanly at "4638: Versículos 5,7; Véase 4543.").
+  Cross-refs resolved: 4637 (10c) → 1086 = Mosíah 2m, whose own
+  citation list explicitly ends "...Éther 3:15-16; Moroni 10:3." —
+  reciprocal confirmation of both target and verse; 4638 (10d "Véase c,
+  Moroni 3") → 4543 = Moroni 3c ("I Nefi 13:37; Moroni 6:9."), correct
+  book section (EL LIBRO DE MORONI). Anchor↔Block-2 sweep after append:
+  max anchor 4638 = max def 4638, contiguous 1..4638, no gaps/dupes;
+  only the long-documented Jacob 2:15/812 def-without-anchor remains.
+
+Session E (orthography) — fresh full pptext report
+workspace/report_wsl_20260902e.html walked end to end:
+- SPELLCHECK: ZERO new page-628 suspects ("misericordioso",
+  "confiarte", "Jareditas", "cuatrocientos", "meditéis", "recibáis",
+  "Adam", "cuan" all unflagged). No permitted words.txt additions.
+- Every other page-628 hit is a known structural false positive: the
+  short-lines flood over the 8 new Block 2 entries; the v.4→Notas
+  boundary in the paragraph-level "unexpected paragraph end" list
+  (page 628 is the last transcribed page, ending mid-verse 10:4); the
+  TOC "Moroni 628" line in the same list. Dash check hyphen-minus:
+  the 2 new Block 2 range hyphens ("Éther 13-15", "Mormón 4:11-12")
+  are both properly digit-flanked. NO page-628 edit-distance /
+  repeated-word / duplicate-line / adjacent-space / trailing-space /
+  scanno / curly-quote / spaced-punctuation / special-situations /
+  book-level / "full stop followed by unexpected sequence" findings.
+  Jeebies clean. Letter-hyphen-letter blind-spot scan: 0 tokens in the
+  page-628 segment (both hyphen splits rejoined cleanly).
+- Whole-document mechanical sweeps all clean: check_spaced_punctuation
+  librodm.txt (32963); check_footnote_punctuation librodm_foot.txt
+  (4973); check_verse_indent librodm.txt; curly-quote scan of
+  librodm.txt / librodm_foot.txt / page_628.txt all zero;
+  anchor↔Block-2 sweep only [812].
+- 1886 comparison — Moroni 9:22-26 on 1886 file p.641 (book p.623),
+  Moroni 10:1-4 on 1886 file pp.641-642 (book pp.623-624) — ALL of
+  page 628's verses compared word-for-word. NO genuine 1920
+  deviations. Differences are all previously-established house style:
+  (a) 1920 supplies acute accents 1886 omits throughout
+  ("todavía/aparición/mío/después/vía/según/también/corazón/
+  intención", etc.) — 1920 accent modernization, not logged;
+  (b) 1920 adds house-style commas 1886 omits — 9:26 "de Dios, el
+  Padre" (1886 "de Dios el Padre"), 10:1 "Ahora, yo" (1886 "Ahora
+  yo"), 10:3 "He aquí, os exhorto" (1886 "Hé aquí os exhorto") —
+  page 625/626 comma-addition precedent, not logged;
+  (c) 9:26 "Jesu Cristo" unhyphenated vs 1886 "Jesu-Cristo" —
+  documented legitimate archaic form of this edition
+  (feedback_jesu_cristo_hyphen; librodm.txt carries 26 unhyphenated
+  "Jesu Cristo"), not logged;
+  (d) 10:3 "cuan misericordioso" without the exclamative accent —
+  1886 prints "cuan" here TOO (shared reading); "cuan" is a valid RAE
+  form (apocope of "cuanto"); librodm.txt has 10 unaccented "cuan +
+  adj." including "cuan grandes" on the title page and in footnote
+  text — an established minority house pattern; not pptext-flagged
+  (valid word); NO permitted words.txt entry, NO errors-log entry
+  (feedback_errors_log_diligence mirror case);
+  (e) 10:3 "Adam" — 1886 prints "Adam" too (shared); proper noun,
+  document-wide usage from the Éther chapters; not flagged; no action;
+  (f) 10:4 page ends on ";" where 1886 ends the (continuing) verse on
+  ":" — non-substantive continuation-punctuation variance, not logged.
+- feedback_narrow_space_vs_merge flag for the editor: 10:1 "voy á
+  escribir" — 1920 sets "voy á" with a reduced gap; 1886 file p.641
+  prints "voy á escribir" as two clearly separated words; grammar
+  requires two words; committed as two words "voy á". EDITOR CONFIRMED
+  (2026-09-03): "Spacing is fine in 10:1" — two-word "voy á" reading is
+  correct, no change.
+- NO text changes to page_628.txt or librodm.txt this session.

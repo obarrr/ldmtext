@@ -25,7 +25,7 @@ al suelo.
 6. Ahora, inmediatamente después que el Juez fué asesinado,
 siéndolo por el puñal de [3296]su mismo hermano, oculto bajo un
 disfraz secreto; él huyó, y los siervos corrieron, y se lo dijeron
-al pueblo. levantanado el grito de asesino entre ellos.
+al pueblo, levantanado el grito de asesino entre ellos.
 7. Y, he aquí, que se reunió el pueblo al lugar del asiento
 judicial; y, he aquí, que á su mayor admiración, vieron á
 aquéllos [3297]cinco hombres que habían caído al suelo.
@@ -57,9 +57,20 @@ error).
 expected (sentence continues); verify against 1886.
 [v.4] "caundo" — preserved as printed; apparent 1920 error (expected
 "cuando"); verify against 1886.
-[v.6] "al pueblo. levantanado" — preserved as printed; period followed
-by lowercase continuation (full-stop-then-lowercase pattern seen
-elsewhere in this document); verify against 1886.
+[v.6] "al pueblo, levantanado" — transcribed with a comma. Originally
+read as a period + lowercase continuation and logged in errors in
+1920.txt. REVERSED 2026-09-05: editor reviewed the high-res scan and
+identified the mark as a comma with a print defect — this page /
+field of view carries several ink-and-dust letter defects (a stray
+speck before "su" in v.6, broken "m" in "mismo"/"miedo", broken "inm"
+in "inmediatamente"). Grammar requires a comma (the gerund clause
+"levantando el grito..." attaches to "al pueblo"); 1886 prints a
+comma ("pueblo, en 1886"). NOTE: Google-OCR of the 1920 PDF
+(google_text_1920/page_0481.txt) read a period here — unlike Helamán
+13:22 / IV Nefi 1:14, where Google also read a comma — but the
+editor's higher-res read + grammar + 1886 + this page's condition
+outweigh a single Google period-read on a print this degraded. The
+errors in 1920.txt entry was removed.
 [v.6] "levantanado" — preserved as printed; apparent 1920 error
 (expected "levantando"); verify against 1886.
 [v.8] "nostros" — preserved as printed; established 1920 error for

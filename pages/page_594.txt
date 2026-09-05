@@ -8,11 +8,11 @@ contra ellos, sin concedérsela;
 mostradas estas cosas, para que por medio de ellas os arrepintáis
 de vuestros pecados, y no permitáis que estas combinaciones
 de [4409]muertes y asesinatos lleguen á verificarse entre vosotros
-las que están organizadas con objeto de obtener poder y ganancias
-; y la obra, sí, aun la obra de destrucción no venga sobre
+las que están organizadas con objeto de obtener poder y ganancias;
+y la obra, sí, aun la obra de destrucción no venga sobre
 vosotros, aun la [4410]espada de la justicia del Dios eterno, no caiga
-sobre vosotros para vuestra mayor ruina y completa exterminación
-, si consentís que se verifiquen estas cosas;
+sobre vosotros para vuestra mayor ruina y completa exterminación,
+si consentís que se verifiquen estas cosas;
 24. Por lo que, el Señor os manda, cuando viereis que estas
 cosas llegaren á vosotros, que dispertéis á un sentimiento de
 vuestra terrible situación, á causa de esta combinación [4411]secreta,
@@ -66,13 +66,16 @@ throughout per this document's own established convention -- confirmed
 consistent with page 593 and earlier pages -- and is NOT the same
 phenomenon as a mid-line justification stretch.)
 Rejoined hyphenated line-break splits per rule 7: "extien-dan" ->
-"extiendan", "ven-ganza" -> "venganza", "ganan-cias" -> "ganancias"
-(fits under 73 chars appended to the first line; the following
-semicolon was not directly attached in print -- a decorative space
-intervened -- so it did not travel with the rejoined word and instead
-opens the next line), "extermina-ción" -> "exterminación" (same
-non-attached-semicolon situation applies to the following line),
-"desecha-ran" -> "desecharan", "jus-ticia" -> "justicia".
+"extiendan", "ven-ganza" -> "venganza", "ganan-cias" -> "ganancias",
+"extermina-ción" -> "exterminación", "desecha-ran" -> "desecharan",
+"jus-ticia" -> "justicia". [Session A originally left the semicolon
+after "ganancias" and the comma after "exterminación" at the start of
+the following wrapped line, reasoning a "decorative space" kept them
+detached. 2026-09-05 review (fulltext pptext review §4): both were
+moved up to bind to the preceding word ("...ganancias;" /
+"...exterminación,"), per rule 31 (a space-stripped mark binds to the
+preceding word) — a line must not start with `;` or `,`. Synced here
+to match librodm.txt.]
 Rule 8 line-length overflow: "que existirá entre vosotros, ó, ay de
 ella, á causa de la [4412]sangre de" measured 73 characters with the
 footnote marker inserted -- moved the last word ("de") to the start of

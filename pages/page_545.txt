@@ -34,7 +34,7 @@ visto y oído;
 15. Y no pudieron decir, si estaban en el cuerpo ó fuera del
 cuerpo; porque á ellos se les pareció, como si hubiesen sido
 transfigurados, y como si hubiesen sido cambiados del cuerpo
-de carne mortal á un estado inmortal, para poder. contemplar
+de carne mortal á un estado inmortal, para poder contemplar
 las cosas de Dios.
 16. Pero sucedió, que continuaron ejerciendo el ministerio
 sobre la superficie de la tierra; no obstante, no administraron
@@ -79,27 +79,20 @@ no exceptions per the standing rule): "Judíos ;" (v.6), "cielo ;"
 No rule-6 wide-gap normalizations spotted on this page beyond the
 above (all extra width was space-before-semicolon, already covered by
 rule 31).
-Suspected misprint (rule 32) investigated and confirmed, v.15: the
-1920 image clearly prints "...para poder. contemplar las cosas de
-Dios" with a genuine period (round, baseline-level, matching the
-shape of ordinary sentence-ending periods elsewhere on this page --
-not a raised comma and not an off-baseline speck) sitting mid-sentence
-where grammar requires none ("para poder contemplar" = "in order to
-be able to contemplate"). Initially suspected as a stray speck per
-rule 36, but the Google OCR cross-check (step 10,
-`check_google_crosscheck.py 545`) independently transcribed a
-punctuation mark at the same position (read as a comma rather than a
-period, but confirming a real printed mark, not a scanning artifact --
-so the rule 36 "Google's silence" test does not apply here; Google
-was not silent). Checked directly against 1886
-(pages_1886/page_0560.png, book page 542, mid crop): 1886 prints
-"...para poder contemplar las cosas de Dios." with NO period after
-"poder" (line-wraps "poder" / "contemplar" with nothing between).
-This is a genuine 1920-only punctuation error (an extraneous period
-inserted mid-sentence), not a shared-edition reading. **Logged in
-`errors in 1920.txt`** (III Nefi 28:15, extraneous period after
-"poder"). Preserved as printed in the transcription itself, per rule
-32.
+v.15 "para poder contemplar": the 1920 print showed a mark between
+"poder" and "contemplar" where grammar allows nothing ("para poder
+contemplar" = "in order to be able to contemplate"). Session A/E
+read it as a genuine period (round, near baseline), noting that the
+Google OCR cross-check (`check_google_crosscheck.py 545`) also picked
+up a mark there (Google read it as a comma). 1886
+(pages_1886/page_0560.png, book page 542) prints "para poder
+contemplar" with nothing between the words. It was logged in
+`errors in 1920.txt` as an extraneous 1920 period.
+[REVERSED 2026-09-05] Editor reviewed the high-res scan and ruled the
+mark a STRAY SPECK — visibly larger than a real period. The mark was
+removed from the transcription ("para poder contemplar") and the
+errors in 1920.txt entry deleted. Per editor rule, print defects
+(specks, weak/broken type) are not logged — only textual errors.
 Footnote lettering: Chapter 28 continues from page 544 (which ended at
 "a") with b through o, all confirmed via strict alphabetical
 sequencing (rule 13) and, additionally, essentially verbatim content

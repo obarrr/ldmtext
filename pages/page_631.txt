@@ -1,0 +1,198 @@
+Página 631
+perfectos en Jesu Cristo, de [4659]ningún modo negaréis entonces el
+poder de Dios.
+33. Y otra vez, si por la gracia de Dios os perfeccionáis en
+Cristo, y no negáis su poder, entonces seréis santificados en Él
+por medio del [4660]derrame de su sangre, que está en la alianza del
+Padre, para la remisión de vuestros pecados, para que vengáis
+á ser santos sin mancha.
+34. Ahora me despido de todos. Pronto iré á descansar en
+el [4661]paraíso de Dios, hasta que mi espíritu y mi cuerpo se
+[4662]reunan de nuevo, y sea llevado triunfante por el aire, para
+encontraros ante el [4663]agradable tribunal del gran Jehová, el Juez
+Eterno de vivos y muertos. Amén.
+
+10y, 4659: Véase e, III Nefi 29.
+10z, 4660: Véase f, II Nefi 2.
+10-2a, 4661: Véase l, II Nefi 9.
+10-2b, 4662: Véase d, II Nefi 2.
+10-2c, 4663: Jacob 6:13.
+
+Corrections
+- Page opens mid-verse (Moroni 10:32), continuing from page 630 (which
+  ended "...y si por la gracia de Dios os hiciereis"). Per rule 1:
+  "Página 631" on its own line, body text on the very next line, no
+  blank line after the marker, no chapter heading. Moroni 10 continues
+  (letters climb from 10x; global number from 4658). No page-boundary
+  word split (rule 10 N/A — page 630 ended on the complete word
+  "hiciereis").
+- THIS IS THE FINAL PAGE OF THE BOOK OF MORMON. The body ends at
+  "...vivos y muertos. Amén." (Moroni 10:34). Nothing is printed after
+  it — no "FIN", no colophon (the mid/bot crops are blank below the
+  last line). The whole transcription (pages 437-631) is now complete.
+- Running header "CAP. X.) LIBRO DE MORONI. 631" discarded (rule 2).
+- No hyphenated line-break splits (rule 7 N/A).
+- Rule 8 rebalance (cascade): the five footnote markers pushed the
+  raw image lines 9-11 past 72 chars, cascading three word-moves:
+  "reunan" (with its marker [4662]) moved from the end of the
+  "...mi cuerpo se" line to the start of the next; "encontraros" moved
+  to the start of the following line; "Eterno de" moved from the end of
+  the "...el Juez" line to the start of the last line. Output stays at
+  12 body lines, matching the 12 print lines in the image (each rule-8
+  move prepends to an existing line, adding none).
+- Rule 6: two sentence double-spaces collapsed to one — v.34
+  "de todos.  Pronto" -> "de todos. Pronto"; v.34 "muertos.  Amén."
+  -> "muertos. Amén." No zero-width merges.
+- Rule 36 stray mark: the 1920 print shows a faint speck between "34."
+  and "Ahora" (v.34) that could read as an extra period. Google OCR
+  (google_text_1920/page_0653.txt) transcribes "34. Ahora me despido"
+  with no mark there. Per rule 36 (Google silent = stray speck):
+  transcribed as "34. Ahora", NOT logged in errors in 1920.txt.
+- Rule 31 N/A on this page — no body semicolons, and all commas/periods
+  are set tight (this page does not have the space-before-";" pattern
+  seen on pages 625-630).
+- Footnote markers (5): 10y=[4659] "ningún" (v.32, "de ningún modo
+  negaréis"); 10z=[4660] "derrame" (v.33, "por medio del derrame de su
+  sangre"); 10-2a=[4661] "paraíso" (v.34, "descansar en el paraíso de
+  Dios"); 10-2b=[4662] "reunan" (v.34, "mi espíritu y mi cuerpo se
+  reunan de nuevo"); 10-2c=[4663] "agradable" (v.34, "el agradable
+  tribunal del gran Jehová").
+- MANDATORY i/l/1 check — 10-2a's cross-reference target letter. The
+  1920 fn-block superscripts on this page are heavily over-inked blobs:
+  the entry letters (y, z, 2a, 2b, 2c) and every "Véase" target letter
+  are unreadable from the 1920 glyph alone. All five entries resolved
+  from 1879 file p.631 (Moroni 10 footnote continuation, letters r-2c,
+  clean italic type):
+    y  = "y, see e, III. Nep. 29."   -> 10y   = Véase e, III Nefi 29.
+    z  = "z, see f, II. Nep. 2."     -> 10z   = Véase f, II Nefi 2.
+    2a = "2a, see l, II. Nep. 9."    -> 10-2a = Véase l, II Nefi 9.
+    2b = "2b, see d, II. Nep. 2."    -> 10-2b = Véase d, II Nefi 2.
+    2c = "2c, Jacob 6:13."           -> 10-2c = Jacob 6:13.
+  The 2a target letter in 1879 is an unmistakable "l" — a clean tall
+  ascender stroke with no dot, no descender and no crossbar — directly
+  contrasting the dotted, below-baseline "j" of "x, see j," on the line
+  just above it, and the crossbarred "t" of "t, see o," nearby. NOT
+  "i".
+- Content-fit confirmation: 10-2c "Jacob 6:13" on "el agradable
+  tribunal del gran Jehová" — Jacob 6:13 reads "hasta que os encuentre
+  ante la agradable barra de Dios" ("the pleasing bar of God"): exact
+  thematic match. 10-2a "II Nefi 9" (Jacob's resurrection-and-paradise
+  discourse) on "el paraíso de Dios" — strong fit, corroborating "l".
+  10-2b "II Nefi 2" on body/spirit reuniting; 10y "III Nefi 29" on
+  "de ningún modo negaréis"; 10z "II Nefi 2" (Lehi on the atonement)
+  on "el derrame de su sangre" — all thematically consistent.
+- 1879's Moroni 10 footnote letter sequence (file pp.626-631) runs
+  a-2c and aligns with 1920's letter-for-letter AND target-for-target,
+  confirming page 630's Session A finding that the two editions'
+  Moroni 10 footnote sets are fully parallel. All five body-marker
+  placements match 1879's body markers for v.32-34.
+- Same book, same chapter (Moroni 10 continues) -> Block 1 gets NO
+  blank line and NO book header (rule 20).
+- Google-text cross-check (Session A step 10): available
+  (google_text_1920/page_0653.txt, file 653). After whitespace/hyphen
+  stripping the transcribed body matches letter-for-letter — no
+  candidates. The one Google-side oddity ("24paraíso" fusing the
+  [4661] marker onto the word) is glued-superscript noise at a known
+  marker position — auto-dismissed.
+- feedback_narrow_space_vs_merge: no suspicious tight word-pairs
+  noticed on this page; nothing for the editor to double-check.
+- Preserved as printed (rule 32), noted for Session E: "Jesu Cristo"
+  (v.32, unhyphenated — established legitimate archaic form of this
+  edition, feedback_jesu_cristo_hyphen); "perfeccionáis" (v.33,
+  ordinary 2nd-person-plural present, listed only for completeness).
+
+Session B (footnote verification) — independent re-pass:
+- Fresh independent 1920 fn-block crop (8x) and fresh body-marker crops
+  (5x, both bands) taken separately from Session A. All 5 Block 1
+  entries UNCHANGED; all 5 body-marker placements UNCHANGED.
+- 1920 fn-block re-read: the entry letters (y, z, 2a, 2b, 2c) and every
+  "Véase" target letter are over-inked blobs on this page — nothing in
+  the 1920 block is legible as a specific letter. The reference TEXT
+  portions are readable and match: "..., III Nefi 29." / "..., II Nefi
+  2." / "..., II Nefi 9." / "..., II Nefi 2." / "Jacob 6:13".
+- Fresh independent 1879 file p.631 crop (Moroni 10 fn continuation,
+  letters r-2c, clean italic type) re-read: "r, see d, II. Nep. 29.
+  s, see g, II. Nep. 33.  t, see o, Ether 4.  u, II. Nep. 18:19.
+  v, Isaiah 52:1,2.  w, Ether 13:8.  x, see j, III. Nep. 15.
+  y, see e, III. Nep. 29.  z, see f, II. Nep. 2.  2a, see l, II. Nep.
+  9.  2b, see d, II. Nep. 2.  2c, Jacob 6:13." — all five of page
+  631's entries re-confirmed letter-for-letter AND target-for-target.
+- MANDATORY i/l/1 re-check, 10-2a target letter: 1879's "2a, see l,"
+  shows a plain tall ascender stroke — no dot, no descender, no
+  crossbar — sitting directly below the dotted, below-baseline "j" of
+  "x, see j," and near the crossbarred "t" of "t, see o,". Re-confirmed
+  10-2a = "Véase l, II Nefi 9." (NOT "i").
+- Body markers re-confirmed against fresh 1920 crops: [4659] before
+  "ningún" (v.32); [4660] before "derrame" (v.33); [4661] before
+  "paraíso", [4662] before "reunan", [4663] before "agradable" (all
+  v.34).
+- No text changes this session.
+
+Session E (orthography check):
+- Fresh full pptext report (workspace/report_wsl_20260903e2.html,
+  regenerated post-Session-D) walked end to end.
+- SPELLCHECK: ZERO new page-631 suspects. "perfeccionáis" (v.33),
+  "negaréis"/"vengáis"/"seréis" (v.32-33), "reunan" (v.34) all
+  unflagged — every one an ordinary Spanish form. NO permitted
+  words.txt additions. (Page 630's Session E added the enclitic
+  "perfeccionáos" from v.32; page 631's v.33 "perfeccionáis" is the
+  plain 2nd-plural present and needs nothing.)
+- Every other page-631 pptext hit is a known structural false
+  positive: the short-lines flood over the 12 body lines + 5 new
+  Block 2 entries; the page 630/631 boundary line "...os hiciereis" +
+  blank + "Página 631" showing up in the paragraph-level "query:
+  unexpected paragraph end" list (mid-verse page break, rule 1). The
+  book now ends on a clean complete sentence ("...vivos y muertos.
+  Amén.") so page 631's own last line is NOT flagged there. NO
+  page-631 findings in edit-distance / repeated-word / duplicate-line /
+  adjacent-space / trailing-space / character / scanno / curly-quote /
+  spaced-punctuation / special-situations / book-level / "full stop
+  followed by unexpected sequence". Jeebies clean.
+- Dash check: page 631's 5 new Block 2 entries carry no hyphens at all
+  (targets are bare numbers 4016/265/369/263 and the direct "Jacob
+  6:13"). Letter-hyphen-letter blind-spot scan of the page-631 segment
+  (body + Block 2): 0 tokens.
+- Whole-document mechanical sweeps all clean: check_spaced_punctuation
+  librodm.txt (33089); check_footnote_punctuation librodm_foot.txt
+  (4998); check_verse_indent librodm.txt; curly-quote scan of
+  librodm.txt / librodm_foot.txt / page_631.txt all zero; anchor<->
+  Block-2 sweep — max anchor 4663 = max def 4663, contiguous 1..4663,
+  no gaps/dupes; only the long-documented Jacob 2:15/812
+  def-without-anchor remains.
+- Footnote check (pptext): union of both buckets = 4643-4663
+  contiguous, max 4663, no duplicate and no out-of-range numbers.
+  [4662] lands in the "footnotes" (line-start) bucket only because
+  "[4662]reunan" begins a wrapped line — structural, expected.
+- 1886 comparison — Moroni 10:32-34 on 1886 file p.644 (book p.626);
+  the ENTIRE text of page 631 is on that one 1886 page. Every word of
+  vv.32-34 compared. NO genuine 1920 deviations; NO errors in 1920.txt
+  additions. Differences are all previously-established house style:
+  (a) 1920 supplies acute accents 1886 omits — "perfeccionáis" (1886
+  "perfeccionais"), "negáis" ("negais"), "vengáis" ("vengais"),
+  "ningún" ("ningun") — accent modernization of 2nd-plural endings and
+  "ningun"; (b) 1920 modernizes 1886's archaic forms — "entonces"
+  <- "entónces" (x2), "remisión" <- "remision", "aire" <- "áire",
+  "paraíso" <- "paraiso"; (c) "Jesu Cristo" unhyphenated vs 1886
+  "Jesu-Cristo" — documented legitimate archaic form of this edition
+  (feedback_jesu_cristo_hyphen; librodm.txt carries many unhyphenated
+  "Jesu Cristo"); (d) "Amén" vs 1886 "Amen" — acute-accent
+  modernization, consistent document-wide; (e) v.34 sentence
+  double-spaces ("de todos.  Pronto", "muertos.  Amen.") present in
+  1886 too — collapsed per rule 6, a transcription-normalization not a
+  1920 deviation. 1886 also ENDS the Book of Mormon here: after "Amen."
+  its file p.644 carries only a decorative flourish (no "FIN" text),
+  corroborating that 1920 prints nothing substantive after "Amén."
+- Rule 36 recheck of the "34. Ahora" speck: 1886 file p.644 prints a
+  clean "34. Ahora" with no mark, matching Google OCR's silence.
+  Confirmed stray debris; stands transcribed without it, no
+  errors-in-1920 entry (per rule 36 and feedback_stray_mark_google_
+  ocr_order).
+- Corrections-log sweep (mandatory): every item in this file's log run
+  through the 3-step check — the "34. Ahora" speck (rule 36, cleared
+  above), "Jesu Cristo" (feedback_jesu_cristo_hyphen, 1886 shared
+  hyphenated variant, established non-error), "perfeccionáis"
+  (standard, unflagged), the 10-2a "l" resolution (1879-verified twice),
+  and the rule 6/8 mechanics (transcription-only). Nothing needs
+  promotion to errors in 1920.txt.
+- feedback_narrow_space_vs_merge: nothing noticed on this page.
+- NO text changes to page_631.txt or librodm.txt in Session E.
