@@ -46,7 +46,7 @@ magia, y de los sortilegios que estaban en el país.
 2b, 4081: III Nefi 2:7-8.
 2c, 4082: Hacia Norte América.
 2d, 4083: Véase c, Alma 48.
-2e, 4084: Véase; 2c, IV Nefi 1.
+2e, 4084: Véase 2c, IV Nefi 1.
 2f, 4085: Moroni 9:17.
 2g, 4086: Véase r, Mormón 1.
 
@@ -79,9 +79,14 @@ superscript appears in v.6 immediately before "fuímos" ("nos
 marks against only 7 lettered entries (a-g) in this page's own
 footnote block. Cross-checked against 1879 (pages_1879/page_0558.png,
 top crop): 1879 v.6 ("And we marched forth and came to the land of
-Joshua...") has NO footnote at all in the corresponding position --
-confirming the 1920 mark is stray print noise (a fleck/defect), not a
-genuine footnote letter, and it is NOT transcribed as a `[N]` marker.
+Joshua...") has NO footnote at all in the corresponding position, and
+none of this page's lettered entries (a-g) is free to pair with it.
+Session A/B read the 1920 mark as probable stray print noise; the
+editor re-examined the image 2026-09-07 and reclassified it as a
+genuine but SPURIOUS raised superscript -- a well-formed footnote call
+printed with no corresponding entry -- now logged in
+`errors in 1920.txt` under Mormón 2:6. Either way it is NOT transcribed
+as a `[N]` marker, since there is no footnote text to anchor it to.
 This also resolved which verse each of entries e/f/g actually
 annotates: 1879 shows letter "e" attached to "robbers" (v.8 "país
 lleno de ladrones"), matching entry e's target IV Nefi 1's own "2c"
@@ -120,6 +125,11 @@ confirmed semicolons on this page, not a comma or stray speck).
 no equivalent punctuation, so this semicolon appears to be a 1920-only
 print anomaly; kept as printed (space before it removed per the
 standing rule-31 normalization) rather than silently dropped.
+[Editor 2026-09-07: the stray ";" has since been normalized out of
+Block 1 / Block 2 -- it was blocking generate_block2.py's
+cross-reference resolver, which keys on the literal token "Véase "
+(with a space). The 1920 misprint stays logged in errors in 1920.txt
+(Mormón 2:8, fn 2e / 4084).]
 Mandatory i/l/1 check (Section 8): not triggered -- none of this
 page's own letters (a-g) or cross-reference target letters (c, d's
 target c in Alma 48, e's target 2c in IV Nefi 1, g's target r in
@@ -169,6 +179,9 @@ hasn't been transcribed by this project yet (Book of Mormon pages are
 being transcribed out of canonical order at this point in the
 project); will resolve automatically via a future
 `generate_block2.py --fix-unresolved` run once IV Nefi 1 is done.
+[Editor 2026-09-07: IV Nefi 1 is done, but the stray ";" in the entry
+kept the --fix-unresolved regex from matching. With the ";" removed,
+fn 4084 now resolves to "Véase 4057." (IV Nefi 1-2c).]
 Session E: fresh pptext regeneration (`report_wsl_20260731d.html`,
 live WSL run). Both suspected misprints confirmed and resolved:
 "trienta" turned out to already be a documented recurring 1920 error
@@ -184,7 +197,9 @@ needed for this word). The Block 1 entry 2e semicolon anomaly was also
 confirmed via 1879 (no equivalent punctuation in the parallel English
 entry) and added to `errors in 1920.txt` as a Footnote-style entry
 (1886 has no footnote apparatus to compare against); preserved as
-printed in Block 1/Block 2 per rule 32. Spellcheck Suspect Words
+printed in Block 1/Block 2 per rule 32 [superseded 2026-09-07: the ";"
+was normalized out to unblock cross-reference resolution; the error
+remains logged]. Spellcheck Suspect Words
 section: two hits from this page's range, both reviewed and added to
 `permitted words.txt` -- "Angola" (Book of Mormon place name, v.4, no
 error) and "séis" (archaic accented form of "seis," matches 1886's own

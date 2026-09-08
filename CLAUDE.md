@@ -222,13 +222,47 @@ state — earlier entries may have been reversed.
   line-splits rejoined onto one line (Helamán 6:1/6:14/6:33, III Nefi
   6:22; page files synced); Mosíah 11:11 "sumosacerdotes" hyphen
   restored; Helamán 11:3 "septusgésimo-tercio" errors-log entry
-  enriched (already logged). §5C started: the `II Crónicas 36, 14-20`
-  footnote (I Nefi 3d / fn 15) confirmed a faithful 1920 misprint
-  (comma for colon) — text preserved as printed, NEW `errors in
-  1920.txt` entry added ("Footnote 1 Nefi 3d, 15"). Still open in the
-  review file: rest of §5C (Verículo / Alma:1:27 / Véase; 2c / etc.),
-  §5D, §5E, §6 (`LIBRO DF MORMON` header typo), Bienamado/Bien-amado,
-  permitted-words housekeeping.
+  enriched (already logged).
+  §5C done (2026-09-07): (a) `II Crónicas 36, 14-20` footnote (I Nefi
+  3d / fn 15) — faithful 1920 misprint (comma for colon), preserved as
+  printed, NEW errors-log entry "Footnote 1 Nefi 3d, 15". (b) Footnote
+  "Verículo/Verículos" (missing "s") family — faithful 1920 misprints,
+  preserved as printed, ALL logged: Mosíah 1b/3m/4d/4h/5e/6d/8n/8p. (c)
+  Footnote "Versiculo/Versiculos" (missing í-tilde) family — faithful
+  1920, preserved as printed, ALL logged under a master entry at
+  "Footnote 2 Nefi 9i, 366" (+ Omni 1i, Mosíah 18b/18c/18d, Alma
+  14h/17w/21q/30-2e/34k/60r, Éther 14e; Alma 60r's Block-1 text also
+  corrected back to unaccented to match). (d) `Alma:1:27,30`→`Alma
+  1:27,30` (fn 1125) — transcription slip, fixed silently, not logged.
+  (e) `I Nefi 1:4, 2:4`→`I Nefi 1:4; 2:4` (fn 1144) — house-style
+  normalization, fixed silently. (f) `Véase; 2c` stray semicolon
+  (Mormón 2e / fn 4084) — 1920 misprint already logged; the `;` was
+  normalized out (it blocked `generate_block2.py`'s "Véase " resolver),
+  then `--fix-unresolved` re-resolved fn 4084 → `Véase 4057.`;
+  page_556.txt notes synced. (g) `;,` double punctuation (I Nefi 22o /
+  fn 242) — transcription artifact, comma removed, not logged. (h)
+  BONUS, surfaced during §5C: Mormón 2:6 has a genuine SPURIOUS footnote
+  superscript (before "fuímos", no matching a–g entry; 1879 + Google
+  OCR both show nothing there) — reclassified from the page-556
+  Session-A "stray speck" call and NEWLY logged; not transcribed as a
+  `[N]` marker. (i) `4d, 1117` also carried `Alma ...; 22:13,42: 26`
+  — the `,` had to be a chapter-separating `;` (Alma 22 has only 35
+  verses, so `22:42` is impossible; `42:26` fits the ascending order),
+  plus a stray space; normalized to `22:13; 42:26`, fixed silently.
+  §5C fully DONE — all 8 review rows closed.
+  Footnote spaced-colon sweep (2026-09-07, prompted by the `4d` find):
+  swept `librodm_foot.txt` + `librodm.txt` Block 2 for `<digit>: <digit>`
+  in citation text. Fixed silently — 20 lines: 16 stray-space
+  closures (`I Nefi 22: 8-12` → `22:8-12`, etc.) + 2 cases where `: `
+  stood in for a chapter separator (`Moroni 7:...,48: 8:3` → `48; 8:3`;
+  `Alma 21:9: 34:9` → `21:9; 34:9`), each done in both files. The
+  `seqnum:`-prefix spaces (`4267: 1000 años…` etc.) were protected, not
+  touched. Noticed in passing, NOT fixed (need image checks): footnote
+  spelling typos `Doctrinas y Conveniós` (foot 671) and `Doctrinos y
+  Convenios` (foot 387 / Block 2 28455).
+  Still open in the review
+  file: §5D, §5E, §6 (`LIBRO DF MORMON` header typo),
+  Bienamado/Bien-amado, permitted-words housekeeping.
   (3) STILL TO DO — the blanket-suppression pptext re-run with
   `permitted words.txt` set aside, cross-referencing every fresh flag
   against `errors in 1920.txt` (see the orthography-check skill).

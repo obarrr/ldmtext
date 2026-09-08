@@ -1,5 +1,6 @@
 Errata
 Página del título iii revalación (revelación) (es correcto en la de 1886)
+Indice página v Nuestros Señor, Jesucristo (Nuestro Señor, Jesu Cristo)(de Jesucristo 1886)
 Indice página v los grabado que (los grabados que) (1886 dice los grabados)
 Indice página vii Sueño de Lahi (Sueño de Lehi) (Lehi en 1886)
 Indice página vii bronze (bronce) 2x (bronze en 1886)
@@ -58,7 +59,8 @@ Footnote 1 Nefi 3d, 15 "II Crónicas 36, 14-20" ("II Crónicas 36:14-20") (1920 
 2 Nefi 8:12 ¿Quíen (¿Quién) (Quíen em 1886)
 Footnotes 20e, 189: 21n, 219: 8e, 337: Miquías o Miquéas (Miqueas) (standardize spelling for footnotes?)
 Footnote 7f, 324: Nahum (Nahúm) (standardize spelling for footnotes?)
-Footnote 9i, 366: Versiculos (Versículos)
+Footnote 2 Nefi 7f, 324 Doctrinos y Convenios (Doctrinas y Convenios) -- 1920 imprime "Doctrinos" (con "o") en esta cita del bloque de notas, página 76 / file 98; confirmado a zoom 4x; las notas e y n de esta misma página imprimen "Doctrinas y Convenios" correctamente, así que es una incoherencia interna, no una grafía sistemática; sin comparación con 1886 (no tiene aparato de notas) ni 1879 (inglés, "Doctrine and Covenants"); error exclusivo de 1920; preservado como se imprime en el Bloque 1 y el Bloque 2.
+Footnote 2 Nefi 9i, 366: Versiculos (Versículos) -- la tipografía de las notas de 1920 imprime "Versículo/Versículos" sin la tilde en la í en varias entradas del bloque de notas (Block 1); es una incoherencia de acentuación, no una letra faltante (distinta de los casos "Verículo/Verículos" con la "s" faltante), y la forma acentuada predomina en el resto de las notas de 1920; preservado como se imprime (regla 32). Otras entradas afectadas, todas preservadas como se imprimen -- véase esta entrada para los detalles: Omni 1i (1004); Mosíah 18b/18c/18d (1337/1338/1339); Alma 14h (1978), 17w (2076), 21q (2191), 30-2e (2419), 34k (2493), 60r (3082); Éther 14e (4517).
 2 Nefi 9:8 esto es. (esto es,) (esto es, en 1886) already fixed.
 2 Nefi 9:23 bautizen (bauticen) (bautizen en 1886)
 2 Nefi 9:41 guardian (guardián) (guardian en 1886)
@@ -78,6 +80,7 @@ Footnote 2 Nefi 20n Cronicas (Crónicas) (Crónicas en otras notas)
 Footnote 2 Nefi 20w Midian (Madián)
 2 Nefi 20:34 esperruras (espesuras) (espesuras en 1886)
 2 Nefi 21:7 escharán (echarán) (escharán en 1886, echarán en reina valera)
+Footnote 2 Nefi 21k, 580 Conveniós (Convenios) -- 1920 imprime "Doctrinas y Conveniós" con una tilde aguda espuria sobre la "o" en esta cita del bloque de notas, página 102 / file 124; confirmado a zoom 4x; "Convenios" va sin tilde en todas las demás notas de 1920 (p.ej. cinco veces en la página 76); sin comparación con 1886/1879; error exclusivo de 1920; preservado como se imprime. El Bloque 2 (librodm.txt) tenía la forma corregida "Convenios" -- sincronizado a "Conveniós" el 2026-09-07 para que coincida con el original impreso y con el Bloque 1.
 2 Nefi 23:21 danzasán. (danzarán.) (danzarán. en 1886)
 2 Nefi 24:7 prorumpen (prorrumpen) (prorumpen en 1886)
 2 Nefi 24:9 muetros (muertos) (muertos en 1886)
@@ -113,6 +116,7 @@ Enos 1:21 cocechaba (cosechaba) (cosechaba en 1886)
 Omni 1:5 viente (veinte) (véinte en 1886, en "trescientos véinte años"; mismo patrón "vient-" por "veint-" ya documentado más adelante en IV Nefi 1:48 y en la familia "vient-"/"veinti-" de III Nefi 5:7, 6:9, 6:10; la RAE no tiene entrada para "viente", solo para "veinte"; hallazgo retroactivo -- la palabra ya estaba en permitted words.txt sin una entrada correspondiente en este archivo, corregido ahora)
 Omni 1:12 cauntos (cuantos) (cuantos en 1886)
 Omni 1:13 somo (como) (como en 1886)
+Footnote Omni 1i, 1004 Versiculos (Versículos) -- falta la tilde; preservado como se imprime; véase Footnote 2 Nefi 9i, 366
 Omni 1:16 teimpo (tiempo) (tiempo en 1886)
 Omni 1:24 guerra sería (guerra seria) (guerra sería en 1886)
 Omni 1:24 obtuveiron (obtuvieron) (obtuviéron en 1886)
@@ -137,20 +141,26 @@ Mosiah 2:9 reuniendoos (reuniéndoos) (reuniéndoos en 1886)
 Mosiah 2:9 veustros (vuestros) (vuestros en 1886)
 Mosiah 2:14 trabajodo (trabajado) (trabajado en 1886)
 Mosiah 2:24 haciendolo (haciéndolo) (haciéndolo en 1886)
+Footnote Mosiah 3m Verículos (Versículos) (typo)
 Mosiah 3:18 la la condenación (la condenación) (la condenación en 1886)
 Mosiah 3:26 haberless negado (haberles negado) (negarles en 1886)
 Mosiah 3:26 acausa (a causa) (por haber en 1886)
 Mosiah 4:3 taniendo (teniendo) (teniendo en 1886)
 Mosiah 4:4 abrío (abrió) (abrió en 1886)
+Footnote Mosiah 4d Verículo (Versículo) (typo)
 Mosiah 4:12 vardadero (verdadero) (verdadero en 1886)
+Footnote Mosiah 4h Verículos (Versículos) (typo)
 Mosiah 4:26 pecacos (pecados) (pecacos en 1886)
 Mosiah 4:26 vistar (visitar) (visitar en 1886)
 Mosiah 4:26 infermo (enfermo) (enfermo en 1886)
+Footnote Mosiah 5e Verículos (Versículos) (typo)
+Footnote Mosiah 6d Verículos (Versículos) (typo)
 Mosiah 6:5 Banjamín (Benjamín) (Benjamín en 1886)
 Mosiah 7:3 descendeintes (descendientes) (descendientes en 1886)
 Mosiah 7:20 Jerusaem (Jerusalem) (Jerusalem en 1886)
 Mosiah 7:33 corazon (corazón) (corazón en 60 other places in 1920)
 Footnote Mosiah 8j Libo (Libro) (typo)
+Footnote Mosiah 8n Verículos (Versículos) (typo)
 Footnote Mosiah 8p Verículos (Versículos) (typo)
 Mosiah 9:1 todo en el (todo el) (todo el en 1886)
 Mosiah 9:3 zelo (celo) (zelo en 1886) (celo en 1946, en 1945?)
@@ -177,7 +187,7 @@ Mosiah 18:8 los dijo (les dijo) (les dijo en 1886)
 Mosiah 18:8 lijeras (ligeras) (lijeras en 1886)
 Mosiah 18:13 fundacion (fundación) (fundacion en 1886, fundación en 15 lugares en 1920)
 Mosiah 18:17 cicuenta (cincuenta) (cincuenta en 1886)
-Footnote Mosiah 18e, 18d Versiculo (Versículo) (predomina Versículo 90:2 en 1920)
+Footnote Mosiah 18b, 18c, 18d (1337/1338/1339) Versiculos/Versiculo (Versículos/Versículo) -- falta la tilde; preservado como se imprime; véase Footnote 2 Nefi 9i, 366 para los detalles
 Mosiah 18:23 Sabado (Sábado) (Sábado en 1886)
 Mosiah 20:3 á al (a la) (á la en 1886)
 Mosiah 20:4 ocultaton (ocultaron)
@@ -300,6 +310,7 @@ Alma 13:16 Sénor (Señor) (1920 imprime "Sénor" con acento agudo sobre la "e" 
 Alma 13:20 destrución (destrucción) (destruccion en 1886)
 Alma 13:26 vienda (venida) (venida en 1886)
 Alma 14:3 deschacerse (deshacerse) (deshacerse en 1886)
+Footnote Alma 14h, 1978 Versiculos (Versículos) -- falta la tilde; véase Footnote 2 Nefi 9i, 366
 Alma 14:26 calmó (clamó) (clamó en 1886)
 Alma 14:28 dirijieron (dirigieron) (dirigieron en 1886)
 Alma 16:11 cadaveres (cadáveres) (cadáveres en 1886)
@@ -308,6 +319,7 @@ Alma 16:14 acepcíon (acepción) (error tipografico)
 Alma 16:15 circumvecina (circunvecina) (circumvecina en 1886)
 Alma 16:18 comision (comisión) (comision en 1886) (comisión en dos otros lugares en 1920)
 Alma 17:4 veread (verdad) (verdad en 1886)
+Footnote Alma 17w, 2076 Versiculos (Versículos) -- falta la tilde; véase Footnote 2 Nefi 9i, 366
 Alma 17:31 no nos mate (no nos mate.) (mate. en 1886 — 1920 dropped the final period)
 Alma 18:12 observo (observó) (observó en 1886)
 Alma 18:20 hernamos (hermanos) (hermanos en 1886)
@@ -315,6 +327,7 @@ Footnote Alma 18w: Cópias (Copias) (copias en otros lugares de 1886)
 Alma 19:22 espadav (espada) (espada en 1886)
 Alma 20:8 encontraton (encontraron) (encontráron en 1886)
 Alma 20:29 cútis (cutis) (cútis en 1886, mas es cutis en 6 otros lugares en 1886)
+Footnote Alma 21q, 2191 Versiculos (Versículos) -- falta la tilde; véase Footnote 2 Nefi 9i, 366
 Alma 21:21 alredeor (alrededor) (alrededor en 1886)
 Alma 22:2 deciéndole (diciéndole) (diciéndole en 1886)
 Alma 22:14 Faltando la nota de pie t.
@@ -348,6 +361,7 @@ Alma 29:4 qne (que) (que en 1886)
 Alma 30:31 ingreídas (engreídas) (ingreidas en 1886)
 Alma 30:36 Corihor (Korihor) (Corihor en 1886 but Korihor en todo el capítulo en ambas ediciones)
 Alma 30:35 enagñar (engañar) (engañar en 1886)
+Footnote Alma 30-2e, 2419 Versiculos (Versículos) -- falta la tilde; véase Footnote 2 Nefi 9i, 366
 Alma 30:53 engaño (engañó) (engañó en 1886)
 Alma 30:57 inmediamente (inmediatamente) (inmediamente en 1886)
 Alma 30:59 aqui (aquí) (aquí en 1886)
@@ -370,6 +384,7 @@ Alma 34:2 se entre (de entre) (de entre en 1886)
 Alma 34:2 abundantantemente (abundantemente) (abundantemente en 1886)
 Alma 34:7 Zenoch (Zenock) (Zenoch en 1886 pero las dos versiones usan Zenock en otros versículos)
 Alma 34:11 sacrificiar (sacrificar) (sacrificar en 1886)
+Footnote Alma 34k, 2493 Versiculos (Versículos) -- falta la tilde; véase Footnote 2 Nefi 9i, 366
 Alma 34:28 despresiareis (despreciareis) (despreciáreis en 1886)
 Alma 34:31 arrepentiereis (arrepintiereis) (arrepintiéreis en 1886)
 Alma 34:31 vostros (vosotros) (vosotros en 1886)
@@ -499,7 +514,7 @@ Alma 60:16 hubieramos (hubiéramos) (hubieramos en 1886, hubiéramos en cino lug
 Alma 60:30 impdeir (impedir) (impedir en 1886)
 Alma 60:32 nosortos (nosotros) (nosotros en 1886)
 Alma 60:33 quí (aquí) (aquí en 1886)
-Footnote r Alma 60:35 Versiculo (Versículo) (Versículo en otras notas de 1920)
+Footnote Alma 60r, 3082 (Alma 60:35) Versiculo (Versículo) -- falta la tilde; preservado como se imprime; véase Footnote 2 Nefi 9i, 366
 Alma 60:34 alegaré (alegraré) (alegraré en 1886)
 Alma 61:2 aflijido (afligido) (aflijido en 1886)
 Alma 61:17 caermos (caerémos) (caerémos en 1886)
@@ -783,6 +798,7 @@ Mormón (encabezado del libro) LIBRO DF MORMON (LIBRO DE MORMÓN) (1920 imprime 
 Mormón 1:5 recodré (recordé) (1920 imprime "recodré", omitiendo la "r", en "recodré lo que me había sido mandado por Ammarón"; confirmado a zoom en alta resolución; 1886 en este lugar exacto (pages_1886/page_0569.png, book page 551/file 569) imprime "recordé" completo; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Mormón 1:5) usa igualmente "recordé"; la RAE no tiene entrada para "recodré", solo para "recordé"; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
 Mormón 1:15 tante (tanto) (1920 imprime "tante" en vez de "tanto" en "por lo tante me vistó el Señor"; confirmado a zoom en alta resolución; 1886 en este lugar exacto (pages_1886/page_0570.png, book page 552/file 570) imprime "tanto" correctamente; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Mormón 1:15) usa igualmente "por tanto"; la RAE no tiene entrada para "tante" como palabra española; cero apariciones de "tante" como palabra independiente en los tres corpus de referencia; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
 Mormón 1:15 vistó (visitó) (1920 imprime "vistó", omitiendo la "i", en "por lo tante me vistó el Señor"; confirmado a zoom en alta resolución; 1886 en este lugar exacto (pages_1886/page_0570.png, book page 552/file 570) imprime "me visitó" completo; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Mormón 1:15) usa igualmente "me visitó"; la RAE no tiene entrada para "vistó", solo para "visto"/"vistoso"; cero apariciones de "vistó" en los tres corpus de referencia; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
+Mormón 2:6 (llamada de nota espuria) -- 1920 imprime una marca en superíndice, con forma de letra volada bien formada (parece una "v" o "y" cursiva), inmediatamente antes de "fuímos" en "y saliendo, nos [.]fuímos al país de Josué" (página 556 / file 578); NO es una mota ni un defecto de impresión -- reexaminado sobre la imagen por el editor (2026-09-07), es un glifo de superíndice claro. No le corresponde ninguna entrada en el bloque de notas de 1920 de esta página: el bloque solo trae las entradas a-g (7), y los otros 7 superíndices del cuerpo del capítulo las agotan todas (v.1 a, v.2 b, v.3 c, v.4 d, v.8 e, v.9 f, v.10 g), con ajuste de contenido confirmado vía 1879. 1879 (pages_1879/page_0558.png, recorte superior): el v.6 equivalente ("And we marched forth and came to the land of Joshua...") NO tiene nota al pie en esa posición; el texto OCR de Google del PDF (google_text_1920/page_0578.txt) tampoco recoge letra ni palabra alguna ahí. Es, por tanto, un superíndice de llamada de nota espurio, impreso sin entrada correspondiente -- error exclusivo de 1920, no compartido con 1879. Al no haber texto de nota al que anclarlo, NO se transcribe como marcador [N]; el cuerpo se deja sin marca en ese punto y el hecho queda registrado aquí. Revisado en las Sesiones A/B de la página 556 como posible mota y reclasificado por el editor como superíndice espurio genuino (2026-09-07); véase el registro de Corrections de pages/page_556.txt.
 Footnote Mormón 2e, 4084 "Véase; 2c, IV Nefi 1." (Véase 2c, IV Nefi 1.)
 (1920 imprime un punto y coma extra inmediatamente después de "Véase" en
 esta cita del pie de página, sin una segunda referencia que lo
@@ -793,8 +809,14 @@ esta misma página, no una coma ni una mota de tinta; BOM 1879 Pratt
 (misma numeración de notas de esta página, pages_1879/page_0558.png)
 imprime la entrada equivalente sin punto y coma: "e, see 2c, IV. Nep.
 1."; 1886 no tiene aparato de notas al pie con el cual comparar;
-error exclusivo de 1920, no compartido con 1879; preservado como se
-imprime en el Bloque 1/Bloque 2 de la transcripción)
+error exclusivo de 1920, no compartido con 1879; el punto y coma
+espurio se conservó inicialmente como se imprime (regla 32), pero el
+editor lo normalizó -- lo suprimió -- el 2026-09-07 en el Bloque
+1/Bloque 2 y en pages/page_556.txt, porque impedía que
+generate_block2.py resolviera la referencia cruzada (su resolvedor
+exige el literal "Véase " con espacio); ya quitado, la entrada 4084
+resuelve a "Véase 4057." (IV Nefi 1-2c); el error de 1920 queda
+registrado aquí)
 Mormón 2:9 trienta (treinta) (mismo patrón ya documentado en IV Nefi 1:1,1:4,1:6, ver esas entradas más arriba en este archivo -- 1920 imprime "trienta" -- con una "i" adicional -- en "se habían pasado trescientos trienta años"; confirmado a zoom en alta resolución y por el propio texto OCR de Google del PDF (`google_text_1920/page_0578.txt`), que lee la palabra de la misma forma; 1886 en este lugar exacto (pages_1886/page_0571.png, book page 553/file 571) imprime "tréinta" (con tilde, pero sin la "i" adicional); la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Mormón 2:9) usa "treinta"; ya presente en `permitted words.txt` por las entradas previas de IV Nefi; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
 Mormón 3:1 tierras armas (tierras y armas) (1920 imprime "sus tierras  armas para el día de la batalla" con un espacio inusualmente ancho entre "tierras" y "armas" pero sin ninguna palabra en el hueco, confirmado a zoom en alta resolución; 1886 en este lugar exacto (pages_1886/page_0573.png, book page 555/file 573) imprime "sus tierras y sus armas"; 1879 (pages_1879/page_0561.png, book page 553/file 561) imprime "their lands and their arms"; ambas ediciones confirman que falta una palabra conectiva en 1920; error exclusivo de 1920, no compartido con 1886/1879; preservado como se imprime en la transcripción, con el espacio normalizado a uno solo por la regla 6)
 Mormón 3:14 por. sí (por sí) (1920 imprime un punto entre "por" y "sí" en "para vengar por. sí mismos la sangre de sus hermanos"; confirmado a zoom de alta resolución (20x) como un punto realmente impreso en la página, no una mota de tinta ni defecto de escaneo; 1886 en este lugar exacto (pages_1886/page_0574.png, book page 556/file 574) imprime "vengar por sí mismos" sin punto alguno; ninguna lectura gramatical admite un punto a mitad de oración en ese lugar; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
@@ -872,6 +894,7 @@ Footnote Éther 8b, 4404 10, (10.) (1920 imprime una coma al final de la cita, e
 Éther 14:17 perseguió (persiguió) (1920 imprime "perseguió" -- con "e" en la segunda sílaba, sin el cambio vocálico "e>i" propio del pretérito de este verbo -- en "Y sucedió, que Shiz perseguió á Coriántumr, y destruyó muchas ciudades", página 610; el propio texto OCR de Google del PDF (`google_text_1920/page_0632.txt`) corrobora la misma lectura "perseguió"; "perseguir" es verbo irregular: el pretérito de tercera persona del singular normativo es "persiguió" (RAE; conjugación con cambio e>i, como "seguir">"siguió"), y la forma "perseguió" no es normativa; ninguno de los tres corpus de referencia contiene la forma "perseguió": El Quijote (Gutenberg 2000) trae "persiguiéronle" y "persiguiese" (raíz "persigui-"); el Reina-Valera completo (BYU/archive.org) trae "persiguieron" cuatro veces; el Reina-Valera 1909 NT no trae ninguna forma de pretérito de 3.ª persona de este verbo; ninguno atestigua la raíz "persegu-" en el pretérito de 3.ª persona; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Éter 14:17) trae "Shiz persiguió a Coriántumr"; la propia página 610 imprime la forma correcta "persiguió" en el v.15 ("Y sucedió, que Lib le persiguió hasta que llegó á las llanuras"); 1886 en este lugar exacto (pages_1886/page_0624.png, book page 606/file 624) imprime igualmente "Shiz perseguió á Coriántumr" -- error compartido con 1886 (heredado de la misma tradición de traducción), no introducido por 1920; NO señalado por pptext en report_wsl_20260828d.html (aspell acepta "perseguió"); preservado como se imprime en la transcripción)
 Éther 14:21 large (larga) (1920 imprime "large" -- la palabra inglesa, o bien "larga" con la "a" final trocada por "e" -- en "y tan large había sido la escena de sangre y de carnicería, que toda la superficie del país se hallaba cubierta de cadáveres", página 611; confirmado a zoom en alta resolución que 1920 imprime genuinamente "large" (l-a-r-g-e); el propio texto OCR de Google del PDF (`google_text_1920/page_0633.txt`) corrobora la misma lectura "large"; "large" no es forma española válida ni arcaica -- la RAE DLE no tiene entrada alguna; cero apariciones de "large" en los tres corpus de referencia (Quijote, Reina-Valera 1909 NT, Reina-Valera completo), frente a "larga" atestiguada (24 en el Quijote, 10 en el Reina-Valera completo); 1886 en este lugar exacto (pages_1886/page_0624.png, book page 606/file 624) imprime "y tan larga había sido la escena de sangre y de carnicería" con la grafía correcta; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Éter 14:21) usa igualmente "tan grande y tan larga había sido la guerra"; señalado por pptext como Spellcheck Suspect Word y en Edit Distance Checks ("large(1):larga(5)" y "large(1):largo(8)") en la ejecución report_wsl_20260828e.html; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
 Éther 14:24 persiguir (perseguir) (1920 imprime el infinitivo "persiguir" -- con "i" en la segunda sílaba en vez de "e" -- en "No obstante, Shiz no cesaba de persiguir á Coriántumr", página 611; el propio texto OCR de Google del PDF (`google_text_1920/page_0633.txt`) corrobora la misma lectura "persiguir"; el infinitivo normativo de este verbo es "perseguir" con "e" (como "seguir", "conseguir", "proseguir"), y "persiguir" no es forma válida -- la "i" solo aparece en las formas conjugadas con acento en la raíz ("persigue", "persiguió"); cero apariciones del infinitivo "persiguir" en los tres corpus de referencia, frente a "perseguir" atestiguado (3 en el Quijote, 7 en el Reina-Valera completo); "perseguir" aparece 8 veces en `librodm.txt` frente a esta única "persiguir" (Edit Distance "persiguir(1):perseguir(8)"); la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Éter 14:24) usa "Shiz no cesó de perseguir a Coriántumr"; 1886 en este lugar exacto (pages_1886/page_0625.png, book page 607/file 625) imprime igualmente "Shiz no cesaba de persiguir á Coriántumr" -- error compartido con 1886 (heredado de la misma tradición de traducción), no introducido por 1920, mismo patrón que Éther 14:17 "perseguió"; señalado por pptext como Spellcheck Suspect Word y en Edit Distance Checks en la ejecución report_wsl_20260828e.html; preservado como se imprime en la transcripción)
+Footnote Éther 14e, 4517 Versiculo (Versículo) -- falta la tilde; preservado como se imprime; véase Footnote 2 Nefi 9i, 366 (cf. la nota de Correcciones en pages/page_611.txt, "Kept as printed")
 Éther 14:26 Coríantumr (Coriántumr) (1920 imprime "Coríantumr" -- con la tilde aguda desplazada a la primera "i" y sin tilde sobre la "a" -- en "Y sucedió, que Shiz continuó persiguiendo á Coríantumr hacia el Este", página 611, mientras que todas las demás apariciones del nombre en esta misma página y en el resto del documento son "Coriántumr" (tilde sobre la "a"); confirmado a zoom en alta resolución que la tilde/punto está sobre la "i" y no hay tilde sobre la "a"; el propio texto OCR de Google del PDF (`google_text_1920/page_0633.txt`) lo lee también "Coríantumr"; 1886 en este lugar exacto (pages_1886/page_0625.png, book page 607/file 625) imprime "Coriántumr" con la tilde sobre la "a" (partido a fin de renglón "Corián-tumr"); la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Éter 14:26) usa igualmente "Coriántumr"; no señalado por pptext (el nombre correcto "Coriántumr" figura en `permitted words.txt` y aspell acepta también la variante), por lo que no se añade a `permitted words.txt`; error exclusivo de 1920, no compartido con 1886; preservado como se imprime en la transcripción)
 Éther 14:31 "á su campo," ("á su campo.") (1920 imprime una coma en vez del punto final al término del versículo 31 -- que es también el final del capítulo 14 -- en "que Shiz dió la orden á su ejército, de que no persiguiera más al ejército de Coriántumr; por lo tanto, se volvieron á su campo,", páginas 611-612 (el versículo cruza el salto de página; la coma final está en la página 612); confirmado a zoom en alta resolución que es una coma con cola descendente sobre la línea de base, no un punto; tras la coma sigue una línea en blanco y el encabezado "CAPÍTULO 15.", de modo que no es un ajuste de fin de renglón sino un fin de oración y de capítulo; 1886 en este lugar exacto (pages_1886/page_0625.png, book page 607/file 625) imprime "por lo tanto, se volviéron á su campo." con punto final; la edición inglesa de 1879 (Pratt, pages_1879/page_0613.png) imprime igualmente "wherefore they returned to their camp." con punto; la edición moderna del Libro de Mormón en español (churchofjesuschrist.org, Éter 14:31) termina el versículo con punto ("...regresaron a su campamento."); es una cuestión de colocación de puntuación, no de ortografía, por lo que no se añade a `permitted words.txt` ni requiere investigación RAE/corpus -- basta la comparación con 1886/1879; señalado por pptext en la sección "paragraph ends in comma" de report_wsl_20260829.html; error exclusivo de 1920, no compartido con 1886/1879; preservado como se imprime en la transcripción)
 Éther 15:2 (nota b) quience (quince) (en el texto de la nota al pie b de este versículo, 1920 imprime "el número fué probablemente entre diez y quience millones", página 612; confirmado a zoom en alta resolución que la palabra es "quience" (q-u-i-e-n-c-e, con una "e" de más); el propio texto OCR de Google del PDF (`google_text_1920/page_0634.txt`) corrobora la misma lectura "quience"; "quience" no es forma española válida ni arcaica -- la RAE DLE solo tiene entrada para "quince"; cero apariciones de "quience" en los tres corpus de referencia (Quijote, Reina-Valera 1909 NT, Reina-Valera completo), frente a "quince" atestiguada (57 apariciones); la misma nota en la edición inglesa de 1879 (Pratt, pages_1879/page_0614.png), que comparte las mismas notas de Orson Pratt, dice "including wives and children, the numbers, very probably, must have been from ten to fifteen millions" -- confirma que la palabra pretendida es "quince" (fifteen); "quince" aparece 4 veces en `librodm.txt` con la grafía correcta; 1886 no reproduce las notas al pie, por lo que no hay comparación directa con 1886 para el texto de la nota; señalado por pptext como Spellcheck Suspect Word y en Edit Distance Checks ("quience(1):quince(4)") en la ejecución report_wsl_20260829.html; error exclusivo de 1920; preservado como se imprime en la transcripción)
