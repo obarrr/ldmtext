@@ -96,179 +96,113 @@ NNN often doesn't repeat "page NNN" in its own header. If a page has
 more than one matching entry, the latest date is the current, correct
 state — earlier entries may have been reversed.
 
-- **2026-09-03**: Sessions A–E run in one session for page 631 (Moroni
-  10:32-34), first footnote 4659, Moroni 10 letters y-2c (5 footnotes,
-  4659-4663). **THIS IS THE FINAL PAGE OF THE BOOK OF MORMON.** Page
-  CONTINUES and FINISHES Moroni 10 (last chapter). Page 630 ended
-  mid-verse 10:32 ("...y si por la gracia de Dios os hiciereis"), so
-  page 631 OPENS mid-verse with the continuation ("perfectos en Jesu
-  Cristo, de ningún modo negaréis entonces el poder de Dios.") —
-  "Página 631" on its own line, body on the next line, NO blank line
-  after the marker, NO heading (rule 1). Body = 12 print lines, ends
-  "...vivos y muertos. Amén." (Moroni 10:34). Nothing printed after it
-  — no "FIN", no colophon (mid/bot crops blank; 1886 file p.644 also
-  ends with only a decorative flourish after "Amen."). Running header
-  "CAP. X.) LIBRO DE MORONI. 631" discarded (rule 2). No page-boundary
-  word split (rule 10 N/A), no hyphen rejoins (rule 7 N/A). Rule 8
-  cascade: the 5 markers pushed raw lines 9-11 past 72 chars, cascading
-  three word-moves ("reunan"+[4662], "encontraros", "Eterno de" each ->
-  next line start); output stays 12 body lines. Rule 6: 2 sentence
-  double-spaces collapsed (v.34 "de todos.  Pronto", "muertos.  Amén.").
-  Rule 31 N/A (no body semicolons this page). Rule 36: faint speck
-  between "34." and "Ahora" (v.34) — Google OCR (page_0653.txt) AND
-  1886 file p.644 both print clean "34. Ahora"; stray debris,
-  transcribed without it, NOT logged. 5 markers: 10y=[4659] "ningún"
-  (v.32); 10z=[4660] "derrame" (v.33); 10-2a=[4661] "paraíso" (v.34);
-  10-2b=[4662] "reunan" (v.34); 10-2c=[4663] "agradable" (v.34). Block
-  1: 10y "Véase e, III Nefi 29."; 10z "Véase f, II Nefi 2."; 10-2a
-  "Véase l, II Nefi 9."; 10-2b "Véase d, II Nefi 2."; 10-2c "Jacob
-  6:13." Same book, same chapter -> Block 1 gets NO blank line / NO
-  book header (rule 20). MANDATORY i/l/1 check — 10-2a's cross-ref
-  target letter: the 1920 fn-block superscripts on this page are ALL
-  heavily over-inked blobs (entry letters AND every "Véase" target
-  letter unreadable from the 1920 glyph alone), so all 5 entries were
-  resolved entirely from 1879 file p.631 (Moroni 10 fn continuation,
-  letters r-2c, clean italic type): "y, see e, III. Nep. 29. z, see f,
-  II. Nep. 2. 2a, see l, II. Nep. 9. 2b, see d, II. Nep. 2. 2c, Jacob
-  6:13." The 2a target letter is an unmistakable "l" — plain tall
-  ascender, no dot/descender/crossbar — contrasting the dotted,
-  below-baseline "j" of "x, see j," directly above it. NOT "i".
-  Content-fit: 10-2c "Jacob 6:13" on "el agradable tribunal del gran
-  Jehová" — Jacob 6:13 = "la agradable barra de Dios" ("the pleasing
-  bar of God"), exact match; 10-2a "II Nefi 9" (Jacob's resurrection/
-  paradise discourse) on "el paraíso de Dios" — strong fit for "l".
-  Session B: fresh independent 1920 fn-block crop (8x) + fresh
-  body-marker crops (5x) + fresh 1879 file p.631 crop — all 5 Block 1
-  entries and all 5 markers UNCHANGED; 10-2a "l" re-confirmed. Session
-  C: insert_body_text.py 631 — librodm.txt 33070->33084 (+14);
-  librodm_foot.txt 4993->4998 (+5, NO blank line / NO book header, rule
-  20). Página sequence 620..631 contiguous; "Página 631" appears once.
-  Session D: generate_block2.py 631 appended 4659-4663 (librodm.txt
-  33084->33089) — no unresolved warnings, no wrapped/compound-entry
-  bugs (none of the 5 entries wrap). 4659->4016 (III Nefi 29e, text
-  cites "...Moroni 7:35-38; 10:19-29." — reciprocal); 4660->265 (II
-  Nefi 2f); 4661->369 (II Nefi 9l, text = "Alma 40:12,14; IV Nefi
-  1:14; Moroni 10:34." — cites this exact verse, reciprocal);
-  4662->263 (II Nefi 2d); 4663 direct "Jacob 6:13." Anchor<->Block-2:
-  max anchor 4663 = max def 4663, contiguous 1..4663, no gaps/dupes,
-  only the documented Jacob 2:15/812 def-without-anchor. Session E:
-  fresh full pptext report report_wsl_20260903e2.html walked end to
-  end. SPELLCHECK: ZERO new page-631 suspects ("perfeccionáis",
-  "negaréis", "vengáis", "seréis", "reunan" all unflagged) — NO
-  permitted words.txt additions. Every other page-631 pptext hit is a
-  known structural false positive (short-lines flood over 12 body lines
-  + 5 Block 2 entries; the page 630/631 mid-verse boundary
-  "...os hiciereis" in the "unexpected paragraph end" list — the book
-  now ends on a complete sentence so page 631's own last line is NOT
-  flagged). NO page-631 findings in edit-distance / repeated-word /
-  duplicate-line / adjacent-space / trailing-space / character /
-  scanno / curly-quote / spaced-punctuation / special-situations /
-  book-level / "full stop followed by unexpected sequence". Jeebies
-  clean. Footnote check: union of both buckets = 4643-4663 contiguous,
-  no dupes, no out-of-range. Dash check: the 5 new Block 2 entries have
-  NO hyphens; letter-hyphen-letter blind-spot scan of the page-631
-  segment = 0 tokens. Whole-document mechanical sweeps all clean
-  (check_spaced_punctuation librodm.txt 33089; check_footnote_punctuation
-  librodm_foot.txt 4998; check_verse_indent librodm.txt; curly-quote
-  scan of librodm.txt / librodm_foot.txt / page_631.txt all zero;
-  anchor<->Block-2 only [812]). 1886 comparison — Moroni 10:32-34 ALL
-  on 1886 file p.644 (book p.626); the ENTIRE text of page 631 compared
-  word-for-word. NO genuine 1920 deviations; NO errors-in-1920 entry.
-  Differences all previously-established house style: (a) 1920 supplies
-  acute accents 1886 omits — "perfeccionáis"/"negáis"/"vengáis"/
-  "ningún" for 1886 "perfeccionais"/"negais"/"vengais"/"ningun"; (b)
-  1920 modernizes 1886 archaic forms — "entonces"<-"entónces" (x2),
-  "remisión"<-"remision", "aire"<-"áire", "paraíso"<-"paraiso"; (c)
-  "Jesu Cristo" unhyphenated vs 1886 "Jesu-Cristo" — documented
-  legitimate archaic form (feedback_jesu_cristo_hyphen); (d) "Amén" vs
-  1886 "Amen" — acute-accent modernization, document-wide; (e) v.34
-  sentence double-spaces present in 1886 too — collapsed per rule 6.
-  1886 also ends the Book of Mormon here. feedback_narrow_space_vs_merge:
-  nothing noticed. NO text changes to page_631.txt or librodm.txt in
-  Session E.
+- **2026-09-12**: OCR-diff pilot (`workspace/_pilot_ocr_diff.py`, diffs
+  `librodm.txt` against the 1920 PDF's own embedded Google-OCR text) run
+  to completion across the ENTIRE book, pages 1–631, in 23 batches over
+  one extended session. Originally scoped to 1–436 (the range that never
+  got this project's image-reverification pipeline nor the
+  Google-OCR-crosscheck tool); after the 1–436 sweep finished clean, the
+  editor asked to extend it through 437–631 too, since a real bug found
+  late in the 1–436 pass (see below) proved the diff catches
+  integration-stage errors even in the already-tracked Session A–E
+  range. Full batch-by-batch methodology, resource costs, and the
+  complete false-positive taxonomy live in `workspace/diff1920ocr-trans.md`
+  (batches 1–23) — read that file, not this summary, for any question
+  about why a specific page/verse was or wasn't flagged.
+  **1–436 results:** 10 silent transcription-slip fixes + 1 newly logged
+  archaism (2 Nefi 8:12 "Quíen") from the systematic diff, overwhelmingly
+  concentrated on book pages 1–2 (pages 3–436 were otherwise very clean
+  after noise-filtering). One real bug: a "Página 411" marker was
+  misspelled "Pagina 411" (missing the accent), silently breaking
+  page-boundary detection for any script keying off that literal string
+  — found and fixed (batch 16). 3 period/comma print-defect ambiguities
+  flagged for the editor's own inspection, deliberately NOT resolved
+  unilaterally (see `diff1920ocr-trans.md`'s running flagged list).
+  Separately, at the editor's request, a manual full-image spot-audit of
+  book page 337 (Alma 32:37) — done outside the regular diff-batch flow,
+  word-for-word against the image plus 1886, independent of the Google
+  diff — found 2 MORE real errors ("empieze" for "empiece", and "he
+  aqui"/"he aquí" missing its accent twice) that the diff-based method
+  structurally cannot see: it only catches OCR *disagreement* between
+  the transcription and Google, so a clean, unambiguous misprint that
+  both sides read identically produces zero diff signal. This is the
+  pilot's known blind spot, confirmed directly in batch 13 when Google's
+  own raw OCR text for that same page was checked and found to read the
+  identical (wrong) unaccented spelling.
+  **437–631 results (batches 18–23, run after extending scope):** pages
+  in this range have `pages/page_NNN.txt` working files from the
+  original Session A–E work, so before finalizing any comma/period/
+  stray-mark candidate here the protocol was to check that page's
+  Corrections section first (several apparent defects turned out to
+  already be documented "scan/print artifact of this particular copy"
+  calls — pages 472, 475 — determined NOT to be real 1920 errors on
+  closer inspection). Found: 1 more silent accent-slip fix (Helamán
+  4:9 "Moronihah"→"Moroníhah", didn't match the image); 3 new
+  `errors in 1920.txt` entries covering 5 instances — Helamán 4:6
+  "Moronihah" unaccented (shared with 1886), Helamán 8:23 "he aqui, El
+  es Dios" missing both accents (1920-exclusive), and Helamán 8:27's
+  cluster of FOUR "punto por coma" defects in one verse (all
+  1920-exclusive, confirmed against 1886) — the last two both on the
+  SAME page (458), whose dense 19-candidate cluster in the raw diff is
+  what triggered the closer look; and 1 integration-stage regression
+  caught and reversed: book page 510's chapter heading, already
+  carefully verified during Session E as a genuine 1920 misprint
+  ("CAPTULO 12.", missing the Í) and correctly preserved in
+  `pages/page_510.txt`, had drifted back to its corrected spelling
+  ("CAPÍTULO 12.") in `librodm.txt` at some point after Session C
+  integration — restored to match the verified misprint. Every other
+  non-routine-looking candidate across 437–631 (batches 20–23 in
+  particular) turned out to already be thoroughly documented and
+  resolved in that page's own notes, confirming that range's existing
+  Session A–E work is generally solid — the pilot's value there was
+  specifically in catching integration/drift-stage slips the per-page
+  pipeline structurally can't see, not in finding fresh transcription
+  errors.
+  **Editor's plan going forward** (set 2026-09-12): treat this
+  diff-based pilot as a cheap, now-complete first pass across the whole
+  book. Next: a separate, more expensive manual page-by-page
+  proofreading pass (full image read, word-for-word comparison, 1886
+  cross-check — same method as the page-337 spot-audit) — not yet
+  started, batch size/starting point to be decided with the editor. Also
+  still open from before: diagnosing why a whole-document pptext run
+  with `permitted words.txt` suppressed apparently flagged "empieze" as
+  a suspect word without an `errors in 1920.txt` entry resulting from
+  it — relevant to item (3) below.
 
-- **Next page**: NONE — page 631 was the final page. The Book of
-  Mormon body transcription (pages 437-631, Sessions A–E) is COMPLETE.
-  Remaining project-level cleanup: (1) DONE 2026-09-03 —
-  `generate_block2.py --fix-unresolved` run on the finished document;
-  re-resolved 0 (all resolvable cross-refs were already resolved
-  page-by-page in each Session D). One compound entry (4341, Moroni 4d)
-  fixed by hand -> `Véase 102; ...`; one dead reference (4013, III Nefi
-  29b `Véase 2j, III Nefi 15` — no such letter, likely a 1920 misprint)
-  left in letter form and flagged for the editor. See sessions-log.md.
-  (2) IN PROGRESS — full-document pptext review (all categories except
-  short lines), findings in `workspace/fulltext_pptext_review_20260903.md`.
-  Editor working through it. 2026-09-05: rechecked the review file's
-  period-for-comma list — its "not yet logged" sub-list was wrong, ALL
-  of those are already in errors in 1920.txt (grep-detection artifact).
-  Editor then worked the whole category — 9 reversals, each with the
-  errors-log entry deleted and the text corrected as a PRINT DEFECT
-  (not a textual error): Helamán 13:22 "envidia.", IV Nefi 1:14
-  "pasado ya.", Helamán 9:6 "al pueblo.", III Nefi 24:15
-  "orgullosos.", IV Nefi 1:2 "disputas." (defective/weak commas →
-  comma); III Nefi 1:13 "por. boca", III Nefi 9:22 "quienquiera. que",
-  III Nefi 28:15 "poder. contemplar", Mormón 4:11 "corazón.se" (stray
-  specks → mark removed). Helamán 9:4's entry enriched with a fresh
-  1886 check; the rest confirmed genuine and staying logged. A 10th
-  print-defect reversal followed: Helamán 8:21 "ha-sido" -> "ha sido"
-  (the "hyphen" is a stray speck; 1920 writes "ha sido" correctly one
-  clause earlier), errors-log entry deleted.
-  **Editor rule established:** `errors in 1920.txt` is for TEXTUAL
-  errors only (wrong/misspelled/missing words, a punctuation mark
-  genuinely set wrong) — print defects (stray specks, weak/broken/
-  half-inked type) are fixed silently, not logged. See
-  `feedback_errors_log_textual_not_print`.
-  §5A/§5B done (2026-09-05): compound-ordinal / "sumo-sacerdote"
-  line-splits rejoined onto one line (Helamán 6:1/6:14/6:33, III Nefi
-  6:22; page files synced); Mosíah 11:11 "sumosacerdotes" hyphen
-  restored; Helamán 11:3 "septusgésimo-tercio" errors-log entry
-  enriched (already logged).
-  §5C done (2026-09-07): (a) `II Crónicas 36, 14-20` footnote (I Nefi
-  3d / fn 15) — faithful 1920 misprint (comma for colon), preserved as
-  printed, NEW errors-log entry "Footnote 1 Nefi 3d, 15". (b) Footnote
-  "Verículo/Verículos" (missing "s") family — faithful 1920 misprints,
-  preserved as printed, ALL logged: Mosíah 1b/3m/4d/4h/5e/6d/8n/8p. (c)
-  Footnote "Versiculo/Versiculos" (missing í-tilde) family — faithful
-  1920, preserved as printed, ALL logged under a master entry at
-  "Footnote 2 Nefi 9i, 366" (+ Omni 1i, Mosíah 18b/18c/18d, Alma
-  14h/17w/21q/30-2e/34k/60r, Éther 14e; Alma 60r's Block-1 text also
-  corrected back to unaccented to match). (d) `Alma:1:27,30`→`Alma
-  1:27,30` (fn 1125) — transcription slip, fixed silently, not logged.
-  (e) `I Nefi 1:4, 2:4`→`I Nefi 1:4; 2:4` (fn 1144) — house-style
-  normalization, fixed silently. (f) `Véase; 2c` stray semicolon
-  (Mormón 2e / fn 4084) — 1920 misprint already logged; the `;` was
-  normalized out (it blocked `generate_block2.py`'s "Véase " resolver),
-  then `--fix-unresolved` re-resolved fn 4084 → `Véase 4057.`;
-  page_556.txt notes synced. (g) `;,` double punctuation (I Nefi 22o /
-  fn 242) — transcription artifact, comma removed, not logged. (h)
-  BONUS, surfaced during §5C: Mormón 2:6 has a genuine SPURIOUS footnote
-  superscript (before "fuímos", no matching a–g entry; 1879 + Google
-  OCR both show nothing there) — reclassified from the page-556
-  Session-A "stray speck" call and NEWLY logged; not transcribed as a
-  `[N]` marker. (i) `4d, 1117` also carried `Alma ...; 22:13,42: 26`
-  — the `,` had to be a chapter-separating `;` (Alma 22 has only 35
-  verses, so `22:42` is impossible; `42:26` fits the ascending order),
-  plus a stray space; normalized to `22:13; 42:26`, fixed silently.
-  §5C fully DONE — all 8 review rows closed.
-  Footnote spaced-colon sweep (2026-09-07, prompted by the `4d` find):
-  swept `librodm_foot.txt` + `librodm.txt` Block 2 for `<digit>: <digit>`
-  in citation text. Fixed silently — 20 lines: 16 stray-space
-  closures (`I Nefi 22: 8-12` → `22:8-12`, etc.) + 2 cases where `: `
-  stood in for a chapter separator (`Moroni 7:...,48: 8:3` → `48; 8:3`;
-  `Alma 21:9: 34:9` → `21:9; 34:9`), each done in both files. The
-  `seqnum:`-prefix spaces (`4267: 1000 años…` etc.) were protected, not
-  touched. Noticed in passing, NOT fixed (need image checks): footnote
-  spelling typos `Doctrinas y Conveniós` (foot 671) and `Doctrinos y
-  Convenios` (foot 387 / Block 2 28455).
-  Still open in the review
-  file: §5D, §5E, §6 (`LIBRO DF MORMON` header typo),
-  Bienamado/Bien-amado, permitted-words housekeeping.
-  (3) STILL TO DO — the blanket-suppression pptext re-run with
-  `permitted words.txt` set aside, cross-referencing every fresh flag
-  against `errors in 1920.txt` (see the orthography-check skill).
-  Chapter emailing (Session F) continues independently.
-- **Completed pages**: 437–631, Sessions A–E fully done through page
-  631 — the entire Book of Mormon.
+- **Next page**: NONE — page-by-page transcription (pages 437–631,
+  Sessions A–E) has been complete since 2026-09-03; see that work's full
+  history in `sessions-log.md` (search `\b631\b` or earlier page
+  numbers). Current focus is document-wide quality passes, not new
+  pages. Remaining project-level work: (1) DONE — full-document pptext
+  review (§1–6) and the `permitted words.txt` reverse-consistency audit
+  (Category A/B, batches B1–B7) both completed 2026-09-08–10; full
+  detail in `sessions-log.md`. (2) DONE 2026-09-12 — the OCR-diff pilot
+  now covers the entire book, pages 1–631 (see above); full detail in
+  `workspace/diff1920ocr-trans.md`. (3) STILL TO DO — the
+  blanket-suppression pptext re-run with `permitted words.txt` set
+  aside, cross-referencing every fresh flag against
+  `errors in 1920.txt` (see the `orthography-check` skill); this is
+  also where the open "empieze"/pptext discrepancy noted above should
+  get resolved. (4) IN PROGRESS (started 2026-09-12) — the manual,
+  image-based, chapter-by-chapter proofreading pass that the OCR-diff
+  pilot's findings motivated; see "Editor's plan" above and the new
+  `manual-proofread` skill. Front matter through 1 Nefi 4 done so far;
+  a recurring pattern worth noting is the transcription occasionally
+  having silently "corrected" a genuine 1920 misprint toward the
+  standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
+  elsewhere. Full running log, per-chapter findings, and the
+  current-progress line (next unit to do) all live in
+  `workspace/proofread-1920.md` — read that file for status, not this
+  paragraph. Chapter emailing (Session F) continues independently.
+- **Completed pages**: All of it. `librodm.txt` contains the entire Book
+  of Mormon, book pages 1–631 (1 Nefi 1:1 through Moroni 10:34). Pages
+  437–631 went through the full tracked Session A–E per-page pipeline;
+  pages 1–436 went through an earlier editorial pass (458 pre-existing
+  `errors in 1920.txt` entries) plus the now-complete OCR-diff pilot
+  (item 2 above) — see that pilot's summary for what is and isn't
+  covered by "checked" for this range (it catches OCR-disagreement-shaped
+  errors, not every possible error type; see the page-337 spot-audit
+  note above).
 
 ## Script Reference
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom

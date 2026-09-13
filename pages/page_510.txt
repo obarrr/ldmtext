@@ -202,3 +202,13 @@ Corrections
   narrow-space-vs-merge notes above (v.35 "testimonio desde", chapter
   12 v.1 "que os bauticen") remain open for the editor's own look,
   per `feedback_narrow_space_vs_merge` — not resolved unilaterally.
+
+ADDENDUM 2026-09-12 (OCR-diff pilot audit, extended to pages 437-631): the
+Google-diff flagged a large gap at the chapter-12 heading position, which
+led to discovering `librodm.txt` had drifted from this page's own verified
+text — it read "CAPÍTULO 12." (accented, the corrected form) instead of
+"CAPTULO 12." (the genuine 1920 misprint this page correctly preserves per
+the Session A/E work above and the `errors in 1920.txt` entry). This was an
+integration-stage slip (Session C), not an error in this page file or the
+log entry. Corrected in `librodm.txt` to restore "CAPTULO 12." — no change
+needed here, since this page's own text was already right.

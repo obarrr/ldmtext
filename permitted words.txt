@@ -128,8 +128,6 @@ Gideón
 Melquisedek 
 Mosiah
 Nehor
-Mosiah
-Nehor
 prisón
 Píntanse
 reunan
@@ -562,7 +560,6 @@ jactábanse
 podia
 Shemlón
 forncaciones
-sumosacerdotes
 ziff
 íba
 arrepentieren
@@ -619,7 +616,6 @@ epacio
 hízome
 uniéronse
 vistó
-enter
 carácteres
 despues
 dey
@@ -970,7 +966,6 @@ dispertó
 Gid
 javalina
 nu
-encontraton
 acontecio
 caracter
 cayóles
@@ -984,7 +979,6 @@ envióla
 pertencía
 mprendido
 dijó
-occurrió
 echáronlas
 Vernículos
 Antipárah
@@ -1288,3 +1282,8 @@ Luram
 Sherrízah
 Zenefi
 perfeccionáos
+carbunclo
+limpiáos
+Pobrecita
+Remuévate
+Zerín

@@ -104,3 +104,23 @@ through v.38, supporting the 1879 range as the intended one; 1886 has
 no footnote apparatus on this page so it can't corroborate either way.
 Logged as a probable 1920 error in "errors in 1920.txt"; text preserved
 as printed here per rule (never silently correct).
+
+ADDENDUM 2026-09-12 (OCR-diff pilot audit, applied to pages 437-631 at
+editor's request): two issues in this page missed by the original
+Session A/B pass, found via a dense Google-diff candidate cluster and
+confirmed at high zoom + against 1886.
+[v.23] "he aquí, Él es Dios" → corrected to "he aqui, El es Dios" —
+1920 genuinely omits both accents (clean sharp type, not wear); the
+second "Él" three words later in the same verse ("redimidos por Él")
+keeps its accent, isolating the defect to these two marks. 1886
+(pages_1886/page_0473.png, book page 455/file 473) has both accents
+correct — exclusive to 1920. Logged in errors in 1920.txt.
+[v.27] Four commas corrected to periods to match the print: "Sí, he
+aquí" → "Sí. he aquí"; "sí, id al asiento" → "sí. id al asiento"; "ha
+sido asesinado, y yace" → "...asesinado. y yace"; "en su sangre,
+habiendo" → "...sangre. habiendo". All four are genuine round periods
+at baseline in clean type (pages_1920/page_0480.png, ~68-79%), not
+comma-shaped or defect marks. 1886 (same page/file as above) has comma
+in all four spots — exclusive to 1920, same "punto por coma" family as
+the v.20 "he quí"/"Zenoch." issues already on this page. Logged in
+errors in 1920.txt.
