@@ -28,6 +28,8 @@ libro_de_mormon_1920/
 ├── permitted words.txt        pptext good-words list
 ├── errors in 1920.txt         documented 1920 original errors
 ├── pages/                     completed page transcriptions (page_437.txt …)
+├── viewer/                    manual-check viewer app (see Script Reference:
+│                               build_viewer_data.py) — open viewer/index.html
 ├── workspace/                 temporary drafts, fn_check files, test files
 ├── pages_1920/                pre-rasterized 1920 PNGs: page_0001.png …
 ├── pages_1879/                pre-rasterized 1879 PNGs
@@ -186,14 +188,19 @@ state — earlier entries may have been reversed.
   get resolved. (4) IN PROGRESS (started 2026-09-12) — the manual,
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
-  `manual-proofread` skill. Front matter through 1 Nefi 4 done so far;
-  a recurring pattern worth noting is the transcription occasionally
+  `manual-proofread` skill. As of 2026-09-23: front matter through
+  Alma 43 is done; Alma 44 is next. A
+  recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
-  elsewhere. Full running log, per-chapter findings, and the
-  current-progress line (next unit to do) all live in
-  `workspace/proofread-1920.md` — read that file for status, not this
-  paragraph. Chapter emailing (Session F) continues independently.
+  elsewhere; a second recurring pattern found repeatedly during the
+  Mosíah pass is Block 2 cross-reference resolution bugs (a "Véase
+  <letter>, <Book> <chapter>" citation resolving to the wrong
+  chapter's same-lettered footnote) — several found and fixed. Full
+  running log, per-chapter findings, and the current-progress line
+  (next unit to do) all live in `workspace/proofread-1920.md` — read
+  that file for status, not this paragraph. Chapter emailing
+  (Session F) continues independently.
 - **Completed pages**: All of it. `librodm.txt` contains the entire Book
   of Mormon, book pages 1–631 (1 Nefi 1:1 through Moroni 10:34). Pages
   437–631 went through the full tracked Session A–E per-page pipeline;
@@ -205,6 +212,45 @@ state — earlier entries may have been reversed.
   note above).
 
 ## Script Reference
+- `build_viewer_data.py NNN [NNN ...]` / `build_viewer_data.py --all` —
+  added 2026-09-13. Data layer for `viewer/index.html`, a standalone
+  static-HTML tool (open the file directly, no server) for a human,
+  side-by-side manual check of the transcription against the source
+  image: page image on top, transcription below, both very wide/short
+  panes, scroll-synced. `--all` regenerates `viewer/all_pages.js` and
+  `viewer/chapter_map.js` from the current `librodm.txt` /
+  `librodm_foot.txt` / `chapter_map.csv` — re-run it after any of those
+  change so the viewer doesn't go stale. Footnote markers are remapped
+  from librodm's sequential numbers back to the chapter-local letter
+  (a, b, c, ...) parsed off each `librodm_foot.txt` entry's key, since
+  that's what's actually printed as a superscript in the image. Per-page
+  scroll-sync calibration (where the body/footnote divider and the
+  page's first line fall in the image) is saved in the browser's
+  localStorage as you adjust it, NOT in this repo — it's viewer-only
+  convenience state, browser-local and not currently backed by a file,
+  so a fresh browser/profile starts from the script's rough automatic
+  guess again. Three independent markers are calibrated per page: where
+  the first transcribed line starts, where body ends/footnotes begin,
+  and where footnote text actually ends (added 2026-09-13 -- footnote
+  text rarely runs to the image's literal bottom edge, so this is
+  separate from the body/footnote divider rather than forcing it to do
+  double duty). Front matter (title page, testimonies, table of
+  contents -- "Pagina i" through "Pagina xiv" in librodm.txt) is
+  included too (added 2026-09-13); it uses a DIFFERENT file-page offset
+  than the main text (+8, not +22 -- confirmed against the actual scan
+  images, not assumed) and is addressed by its roman-numeral label
+  rather than a plain page number. Two front-matter pages (ii, vi) are
+  blank in the original and have no "Pagina" marker at all, so they
+  have no viewer entry; navigation just skips over them. This whole
+  tool is fully static (open viewer/index.html directly -- no server,
+  and it never reads librodm.txt/librodm_foot.txt/chapter_map.csv live;
+  those are only read at --all build time), so after any edit to those
+  master files the viewer will look stale until --all is rerun. To hand
+  the viewer to someone else, package viewer/ (index.html, all_pages.js,
+  chapter_map.js) together with pages_1920/ (~170MB of PNGs) -- nothing
+  else is read at runtime. This is a live, still-evolving tool (not yet
+  fully self-sufficient for headers/new-book pages) — see chat history
+  for full design rationale if extending it.
 - `process_page.py <png> <label> [first_fn]` — crops page into top/mid/bot/fn/fn_zoom
 - `check_spaced_punctuation.py <file> [file2 ...]` — flags any line with a
   space immediately before a comma, semicolon, colon, "!", or "?" (rule
@@ -235,6 +281,24 @@ state — earlier entries may have been reversed.
   standard 400dpi crop pipeline has been shown to understate real gaps
   by roughly an order of magnitude (page 517's "vino á"/"cuando Jesús",
   both confirmed real ~20px gaps that measured only 1px at 400dpi).
+- `measure_accent_mark.py <page_png> <top> <bottom> <left> <right> [threshold]`
+  — added 2026-09-15 during the manual-proofread pass, after two specks
+  (2 Nefi 10:3 "sú", 2 Nefi 10:21 "qué") were each initially misjudged as
+  genuine accents by zoom + Google OCR and only caught by the editor's own
+  direct look. Crops the given pixel box straight out of the already-
+  rasterized 400dpi page PNG (no re-rasterization, unlike
+  `measure_word_gap.py`), binarizes it, and runs connected-component
+  labeling (`scipy.ndimage.label`), printing every blob's bounding box and
+  dark-pixel area. Run once over the candidate mark+letter and once over a
+  known-good accented letter on the same line/page, then compare: real
+  accents in this font run ~50-70 dark pixels as ONE component merged
+  (0px gap) with the letter below; both confirmed specks measured only
+  ~9-10 dark pixels, fragmented into 1-2 tiny disconnected blobs sitting
+  2-7px above the letter with a visible gap. See
+  [[feedback_stray_mark_google_ocr_order]] for the full calibration data
+  and how this fits into the check order (Google OCR, then zoom, then this
+  pixel measurement, then still surface it to the editor before logging —
+  this tool sharpens the call, it doesn't replace the escalation step).
 - `check_line_wrap.py <book_page> <file>` — advisory OCR-based cross-check
   added 2026-07-19 after page 475's line breaks were found to be entirely
   reflowed rather than image-derived (see rule 6 note in the rules doc);

@@ -206,5 +206,5 @@ Flagged/open (needs editor's eyes): <list, or "none">
 
 ## Current progress
 
-Front matter through 1 Nefi 11 complete — see `workspace/proofread-1920.md`.
-Next: 1 Nefi 12.
+1 Nefi fully proofread; 2 Nefi 1-3 also complete. See
+`workspace/proofread-1920.md`. Next: 2 Nefi 4.

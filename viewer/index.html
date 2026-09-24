@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Libro de Mormón — Manual Check Viewer</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #111; color: #eee; font-family: system-ui, sans-serif; overflow: hidden; }
+  body { display: flex; flex-direction: column; }
+
+  .toolbar {
+    flex: 0 0 auto;
+    display: flex; flex-direction: column; gap: 6px;
+    padding: 8px 16px; background: #1b1b1b; border-bottom: 1px solid #333;
+  }
+  .toolbar-row { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .toolbar label { font-size: 13px; color: #aaa; display: flex; align-items: center; gap: 6px; }
+  .toolbar select, .toolbar input[type=range] { font-size: 14px; }
+  .page-stepper { display: flex; align-items: center; gap: 4px; }
+  .page-stepper button { width: 28px; height: 28px; font-size: 16px; cursor: pointer; }
+  .page-stepper input[type=number] { width: 4.5em; font-size: 15px; text-align: center; }
+  .toolbar select { max-width: 16em; }
+  .calib-val { font-variant-numeric: tabular-nums; color: #7cf; width: 3.2em; display: inline-block; }
+
+  .viewer { flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; }
+
+  .pane-image {
+    position: relative; overflow: hidden; flex: 1 1 52%; min-height: 0;
+    background: #2a2a2a; cursor: grab; border-bottom: 3px solid #444;
+  }
+  .pane-image.dragging { cursor: grabbing; }
+  .pane-image img { position: absolute; top: 0; left: 0; image-rendering: -webkit-optimize-contrast; }
+  .divider-line {
+    position: absolute; left: 0; right: 0; height: 0; border-top: 2px dashed #ff5555;
+    pointer-events: none; opacity: .85;
+  }
+
+  .pane-text {
+    flex: 1 1 48%; min-height: 0; overflow-y: auto; background: #f6efdc; color: #1a1408;
+    padding: 0 var(--text-margin, 8vw) 0 calc(var(--text-margin, 8vw) * 1.3);
+  }
+  .pane-text .content { padding: 3vh 0; position: relative; }
+  .body-line {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(18px, 2.9vw, 38px);
+    line-height: var(--body-lh, 1.0);
+    white-space: pre-wrap;
+  }
+  .body-line.heading { color: #7a6a30; }
+  .fn-rule { border: none; border-top: 2px solid #8a7f5c; margin: 1.4em 0 .7em; }
+  .fn-flow {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(14px, 1.7vw, 23px);
+    line-height: 1.6;
+  }
+  .fn-num { font-weight: bold; margin-right: 3px; }
+  .fn-num:not(:first-child) { margin-left: 14px; }
+  sup.marker { color: #a33; font-weight: bold; }
+
+  .hint { flex: 0 0 auto; font-size: 12px; color: #888; padding: 4px 16px; }
+</style>
+</head>
+<body>
+
+<div class="toolbar">
+  <div class="toolbar-row">
+    <div class="page-stepper">
+      <button id="pageDown" title="Previous page">&#9664;</button>
+      <input type="text" id="pageNumInput" value="1" title="Book page number, or a front-matter page like iii">
+      <button id="pageUp" title="Next page">&#9654;</button>
+    </div>
+
+    <label>Book
+      <select id="bookSelect"></select>
+    </label>
+    <label>Chapter
+      <select id="chapterSelect"></select>
+    </label>
+
+    <label>Zoom
+      <select id="zoomSelect">
+        <option value="0.5">0.5x</option>
+        <option value="1" selected>1x</option>
+        <option value="2">2x</option>
+        <option value="3">3x</option>
+        <option value="4">4x</option>
+        <option value="5">5x</option>
+      </select>
+    </label>
+
+    <label>Text margin
+      <input type="range" id="textMarginSlider" min="0" max="16" step="0.5" value="8">
+      <span class="calib-val" id="textMarginVal">8.0</span>
+    </label>
+
+    <label>Line spacing
+      <input type="range" id="lineSpacingSlider" min="0.85" max="1.8" step="0.05" value="1.0">
+      <span class="calib-val" id="lineSpacingVal">1.00</span>
+    </label>
+  </div>
+
+  <div class="toolbar-row">
+    <label>First line marker
+      <input type="range" id="verse1Slider" min="0" max="0.98" step="0.002">
+      <span class="calib-val" id="verse1Val"></span>
+    </label>
+
+    <label>Body/footnote divider
+      <input type="range" id="dividerSlider" min="0.5" max="0.98" step="0.002">
+      <span class="calib-val" id="dividerVal"></span>
+    </label>
+
+    <label>Footnote end
+      <input type="range" id="footEndSlider" min="0.5" max="1" step="0.002">
+      <span class="calib-val" id="footEndVal"></span>
+    </label>
+
+    <label><input type="checkbox" id="showDividerLine" checked> show markers</label>
+  </div>
+</div>
+
+<div class="viewer">
+  <div class="pane-image" id="paneImage">
+    <img id="pageImg" src="" alt="page image">
+    <div class="divider-line" id="dividerLine"></div>
+    <div class="divider-line" id="verse1Line" style="border-top-color:#55aaff;"></div>
+    <div class="divider-line" id="footEndLine" style="border-top-color:#55dd55;"></div>
+  </div>
+  <div class="pane-text" id="paneText">
+    <div class="content">
+      <div id="textBody"></div>
+      <hr class="fn-rule" id="fnRule">
+      <div class="fn-flow" id="textFoot"></div>
+    </div>
+  </div>
+</div>
+
+<div class="hint">All 631 pages plus front matter (title page, testimonies, table of contents) loaded — type a page number or a roman numeral like "iii" into the page box, or use Book "Front Matter". Scroll the text pane — the image above tracks it. Drag the image left/right when zoomed in. Marker/divider adjustments are saved per page in this browser (localStorage) so recalibrating a page should only be needed once — most pages haven't been hand-tuned yet and start from a rough guess. Run "py build_viewer_data.py --all" from the project root after librodm.txt/librodm_foot.txt/chapter_map.csv change, to keep this in sync.</div>
+
+<script src="all_pages.js"></script>
+<script src="chapter_map.js"></script>
+<script>
+// ALL_PAGES is emitted in document order with a 0-based "order" field, so
+// ALL_PAGES[order] === that page -- prev/next just walk this array and
+// never need to know that front matter uses roman numerals. Lookup by
+// what the user actually types (a plain number or a roman numeral like
+// "iii") goes through PAGE_BY_LABEL instead, keyed by lowercased string.
+const PAGE_BY_LABEL = new Map(ALL_PAGES.map(p => [String(p.book_page).toLowerCase(), p]));
+const MAX_ORDER = ALL_PAGES.length - 1;
+
+const els = {
+  pageNumInput: document.getElementById('pageNumInput'),
+  pageUp: document.getElementById('pageUp'),
+  pageDown: document.getElementById('pageDown'),
+  bookSelect: document.getElementById('bookSelect'),
+  chapterSelect: document.getElementById('chapterSelect'),
+  zoomSelect: document.getElementById('zoomSelect'),
+  textMarginSlider: document.getElementById('textMarginSlider'),
+  textMarginVal: document.getElementById('textMarginVal'),
+  lineSpacingSlider: document.getElementById('lineSpacingSlider'),
+  lineSpacingVal: document.getElementById('lineSpacingVal'),
+  verse1Slider: document.getElementById('verse1Slider'),
+  verse1Val: document.getElementById('verse1Val'),
+  dividerSlider: document.getElementById('dividerSlider'),
+  dividerVal: document.getElementById('dividerVal'),
+  footEndSlider: document.getElementById('footEndSlider'),
+  footEndVal: document.getElementById('footEndVal'),
+  showDividerLine: document.getElementById('showDividerLine'),
+  paneImage: document.getElementById('paneImage'),
+  pageImg: document.getElementById('pageImg'),
+  dividerLine: document.getElementById('dividerLine'),
+  verse1Line: document.getElementById('verse1Line'),
+  footEndLine: document.getElementById('footEndLine'),
+  paneText: document.getElementById('paneText'),
+  textBody: document.getElementById('textBody'),
+  fnRule: document.getElementById('fnRule'),
+  textFoot: document.getElementById('textFoot'),
+};
+
+let state = {
+  bookPage: 1,
+  order: 0,
+  zoom: 1,
+  dividerFrac: 0.89,
+  footEndFrac: 1.0,
+  verse1Frac: 0,
+  firstVerseLineIdx: 0,
+  naturalW: 0, naturalH: 0,
+  panX: 0,
+  dragging: false, dragStartX: 0, dragStartPanX: 0,
+};
+
+// Calibration persistence: best-effort, browser-local only (localStorage
+// keyed by book page). Lets a page you've already dragged the markers on
+// stay calibrated across reloads without a real backend yet. Wrapped in
+// try/catch since file:// origins can restrict or vary localStorage access.
+function loadSavedCalibration(bookPage) {
+  try {
+    const raw = localStorage.getItem('lom-calib-' + bookPage);
+    return raw ? JSON.parse(raw) : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+function saveCalibration(bookPage, divider, verse1, footEnd) {
+  try {
+    localStorage.setItem('lom-calib-' + bookPage, JSON.stringify({ divider, verse1, footEnd }));
+  } catch (e) { /* ignore */ }
+}
+
+function populateBookChapterSelects() {
+  const books = [...new Set(CHAPTER_MAP.map(c => c.book))];
+  els.bookSelect.innerHTML = books.map(b => `<option value="${escapeHtml(b)}">${escapeHtml(b)}</option>`).join('');
+}
+
+function populateChapterSelect(book, selectChapter) {
+  const chapters = CHAPTER_MAP.filter(c => c.book === book);
+  els.chapterSelect.innerHTML = chapters
+    .map(c => `<option value="${escapeHtml(String(c.chapter))}">${escapeHtml(c.label_text || ('Chapter ' + c.chapter))}</option>`)
+    .join('');
+  if (selectChapter != null) els.chapterSelect.value = selectChapter;
+}
+
+// Reflect the current book page in the book/chapter dropdowns without
+// triggering their change handlers (which would navigate the page again).
+// Compares by "order" (a plain 0..N-1 index over the whole document, front
+// matter included) rather than book_page directly, since book_page mixes
+// roman-numeral strings (front matter) and numbers (main text) and can't
+// be compared with `>`.
+function syncChapterControls(pageData) {
+  let current = CHAPTER_MAP[0];
+  for (const c of CHAPTER_MAP) {
+    if (c.order > pageData.order) break;
+    current = c;
+  }
+  if (els.bookSelect.value !== current.book) {
+    els.bookSelect.value = current.book;
+    populateChapterSelect(current.book, current.chapter);
+  } else if (els.chapterSelect.value !== String(current.chapter)) {
+    els.chapterSelect.value = current.chapter;
+  }
+}
+
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function renderBodyLine(line, letterByNum) {
+  return escapeHtml(line).replace(/\[(\d+)\]/g, (whole, numStr) => {
+    const letter = letterByNum.get(parseInt(numStr, 10));
+    return `<sup class="marker">${letter || numStr}</sup>`;
+  });
+}
+
+// label: whatever identifies the page to the user -- a number (1, 458) or
+// a front-matter roman numeral (i, iii, ...), matched case-insensitively
+// against ALL_PAGES' own book_page values.
+function loadPage(label) {
+  const data = PAGE_BY_LABEL.get(String(label).toLowerCase());
+  if (data) loadPageData(data);
+}
+
+// order: the 0-based position in ALL_PAGES (document order, front matter
+// included) -- what prev/next actually navigate by, since it's a plain
+// int regardless of whether the page on either side uses a roman numeral.
+function loadPageByOrder(order) {
+  order = Math.max(0, Math.min(MAX_ORDER, order));
+  loadPageData(ALL_PAGES[order]);
+}
+
+function loadPageData(data) {
+  state.bookPage = data.book_page;
+  state.order = data.order;
+  els.pageNumInput.value = data.book_page;
+  syncChapterControls(data);
+
+  const saved = loadSavedCalibration(data.book_page);
+  state.dividerFrac = saved ? saved.divider : data.divider_guess;
+  state.verse1Frac = saved ? saved.verse1 : (data.verse1_guess || 0);
+  state.footEndFrac = (saved && saved.footEnd != null) ? saved.footEnd : (data.foot_end_guess != null ? data.foot_end_guess : 1.0);
+  state.firstVerseLineIdx = data.first_verse_line_idx || 0;
+  els.dividerSlider.value = state.dividerFrac;
+  els.dividerVal.textContent = state.dividerFrac.toFixed(3);
+  els.verse1Slider.value = state.verse1Frac;
+  els.verse1Val.textContent = state.verse1Frac.toFixed(3);
+  els.footEndSlider.value = state.footEndFrac;
+  els.footEndVal.textContent = state.footEndFrac.toFixed(3);
+
+  // Body markers show the page's own chapter-local letter (matching the
+  // image's superscripts), not the sequential number librodm.txt stores --
+  // those numbers never restart and so don't correspond to anything printed.
+  const letterByNum = new Map(data.footnotes.map(fn => [fn.num, fn.letter]));
+
+  els.textBody.innerHTML = data.body_lines
+    .map((l, i) => {
+      const cls = i < state.firstVerseLineIdx ? 'body-line heading' : 'body-line';
+      return `<div class="${cls}">${renderBodyLine(l, letterByNum) || '&nbsp;'}</div>`;
+    })
+    .join('');
+
+  els.textFoot.innerHTML = data.footnotes
+    .map(fn => `<span class="fn-num">${fn.letter || fn.num}</span>${escapeHtml(fn.text)} `)
+    .join('');
+
+  state.panX = 0;
+  state.naturalW = 0;
+  state.naturalH = 0;
+  els.pageImg.onload = () => {
+    state.naturalW = els.pageImg.naturalWidth;
+    state.naturalH = els.pageImg.naturalHeight;
+    applyZoom();
+  };
+  els.pageImg.src = '../' + data.image;
+
+  els.paneText.scrollTop = 0;
+}
+
+function applyZoom() {
+  if (!state.naturalW) return;
+  const paneW = els.paneImage.clientWidth;
+  const baseScale = paneW / state.naturalW;
+  const scale = baseScale * state.zoom;
+  els.pageImg.style.width = (state.naturalW * scale) + 'px';
+  els.pageImg.style.height = (state.naturalH * scale) + 'px';
+  clampPanX(scale);
+  updateImagePosition();
+}
+
+function clampPanX(scale) {
+  const paneW = els.paneImage.clientWidth;
+  const imgW = state.naturalW * scale;
+  const minPan = Math.min(0, paneW - imgW);
+  state.panX = Math.max(minPan, Math.min(0, state.panX));
+}
+
+// Piecewise-linear interpolation: anchors is a sorted list of [textX, imageY]
+// pairs. Given a text-space position, find which segment it falls in and
+// interpolate proportionally within that segment's image-space range.
+function piecewiseMap(anchors, x) {
+  for (let i = 0; i < anchors.length - 1; i++) {
+    const [x0, y0] = anchors[i];
+    const [x1, y1] = anchors[i + 1];
+    if (x <= x1 || i === anchors.length - 2) {
+      const span = x1 - x0;
+      const frac = span > 0 ? Math.max(0, Math.min(1, (x - x0) / span)) : 0;
+      return y0 + frac * (y1 - y0);
+    }
+  }
+  return anchors[0][1];
+}
+
+function updateImagePosition() {
+  if (!state.naturalH) return;
+  const paneW = els.paneImage.clientWidth;
+  const paneH = els.paneImage.clientHeight;
+  const baseScale = paneW / state.naturalW;
+  const scale = baseScale * state.zoom;
+
+  const bodyBottom = els.fnRule.offsetTop;                 // end of body flow (text space)
+  const footTop = els.textFoot.offsetTop;
+  const footHeight = els.textFoot.offsetHeight || 1;
+  const dividerY = state.dividerFrac * state.naturalH;      // image px
+  const verse1Y = state.verse1Frac * state.naturalH;        // image px
+  const footEndY = state.footEndFrac * state.naturalH;      // image px
+
+  const scrollTop = els.paneText.scrollTop;
+  const viewH = els.paneText.clientHeight;
+  const scrollH = els.paneText.scrollHeight;
+  const refY = scrollTop + viewH / 2;
+
+  // scrollTop+viewH/2 can never actually reach 0 or the content's true end
+  // -- it's always inset by half the viewport height. For the body text
+  // that inset is negligible (hundreds of lines to absorb it in), but the
+  // footnote block is often just a few lines, shorter than the viewport
+  // itself, so that inset alone can be bigger than the whole segment --
+  // scrolling to the bottom would never actually reach the calibrated
+  // "footnote end" marker. Snap to the true endpoints whenever the
+  // scrollbar itself is actually at an extreme, instead of relying on the
+  // center-of-viewport proxy there.
+  const atTop = scrollTop <= 0;
+  const atBottom = scrollTop + viewH >= scrollH - 1;
+
+  let imageY;
+  if (atTop) {
+    imageY = (state.firstVerseLineIdx > 0) ? 0 : verse1Y;
+  } else if (atBottom) {
+    imageY = footEndY;
+  } else if (refY <= bodyBottom) {
+    // Body region: interpolate across anchors instead of one straight line,
+    // since heading/synopsis text occupies very different image-height-per-
+    // line than verse text. The "first line" marker is calibrated on every
+    // page (not just ones with a heading) because even a plain continuation
+    // page usually has some header/margin gap above its first transcribed
+    // line that a hardcoded image-top=0 assumption would miss.
+    const anchors = [];
+    if (state.firstVerseLineIdx > 0 && els.textBody.children[state.firstVerseLineIdx]) {
+      anchors.push([0, 0]);
+      const verse1TextX = els.textBody.children[state.firstVerseLineIdx].offsetTop;
+      anchors.push([verse1TextX, verse1Y]);
+    } else {
+      anchors.push([0, verse1Y]);
+    }
+    anchors.push([bodyBottom, dividerY]);
+    imageY = piecewiseMap(anchors, refY);
+  } else {
+    // Footnote region: bottom bound is the calibrated "footnote end"
+    // marker, not the image's physical bottom edge -- scanned pages
+    // almost always have blank margin below the last footnote line, and
+    // how much varies page to page with how many footnotes there are.
+    const localRef = refY - footTop;
+    const frac = Math.max(0, Math.min(1, localRef / footHeight));
+    imageY = dividerY + frac * (footEndY - dividerY);
+  }
+
+  let translateY = -(imageY * scale - paneH / 2);
+  const imgH = state.naturalH * scale;
+  const minY = Math.min(0, paneH - imgH);
+  translateY = Math.max(minY, Math.min(0, translateY));
+
+  els.pageImg.style.transform = `translate(${state.panX}px, ${translateY}px)`;
+
+  if (els.showDividerLine.checked) {
+    const lineY = dividerY * scale + translateY;
+    els.dividerLine.style.top = lineY + 'px';
+    els.dividerLine.style.display = (lineY >= 0 && lineY <= paneH) ? 'block' : 'none';
+
+    const v1LineY = verse1Y * scale + translateY;
+    const showV1 = v1LineY >= 0 && v1LineY <= paneH;
+    els.verse1Line.style.top = v1LineY + 'px';
+    els.verse1Line.style.display = showV1 ? 'block' : 'none';
+
+    const feLineY = footEndY * scale + translateY;
+    const showFE = feLineY >= 0 && feLineY <= paneH;
+    els.footEndLine.style.top = feLineY + 'px';
+    els.footEndLine.style.display = showFE ? 'block' : 'none';
+  } else {
+    els.dividerLine.style.display = 'none';
+    els.verse1Line.style.display = 'none';
+    els.footEndLine.style.display = 'none';
+  }
+}
+
+els.pageUp.addEventListener('click', () => loadPageByOrder(state.order + 1));
+els.pageDown.addEventListener('click', () => loadPageByOrder(state.order - 1));
+els.pageNumInput.addEventListener('change', e => loadPage(e.target.value.trim() || state.bookPage));
+els.pageNumInput.addEventListener('keydown', e => {
+  if (e.key === 'Enter') loadPage(e.target.value.trim() || state.bookPage);
+});
+
+els.bookSelect.addEventListener('change', e => {
+  const chapters = CHAPTER_MAP.filter(c => c.book === e.target.value);
+  populateChapterSelect(e.target.value, chapters[0].chapter);
+  loadPage(chapters[0].book_page);
+});
+els.chapterSelect.addEventListener('change', e => {
+  const chapter = CHAPTER_MAP.find(c => c.book === els.bookSelect.value && String(c.chapter) === e.target.value);
+  if (chapter) loadPage(chapter.book_page);
+});
+
+els.zoomSelect.addEventListener('change', e => {
+  state.zoom = parseFloat(e.target.value);
+  applyZoom();
+});
+
+els.dividerSlider.addEventListener('input', e => {
+  state.dividerFrac = parseFloat(e.target.value);
+  els.dividerVal.textContent = state.dividerFrac.toFixed(3);
+  saveCalibration(state.bookPage, state.dividerFrac, state.verse1Frac, state.footEndFrac);
+  updateImagePosition();
+});
+
+els.footEndSlider.addEventListener('input', e => {
+  state.footEndFrac = parseFloat(e.target.value);
+  els.footEndVal.textContent = state.footEndFrac.toFixed(3);
+  saveCalibration(state.bookPage, state.dividerFrac, state.verse1Frac, state.footEndFrac);
+  updateImagePosition();
+});
+
+els.textMarginSlider.addEventListener('input', e => {
+  const v = parseFloat(e.target.value);
+  els.textMarginVal.textContent = v.toFixed(1);
+  els.paneText.style.setProperty('--text-margin', v + 'vw');
+  updateImagePosition();
+});
+
+els.lineSpacingSlider.addEventListener('input', e => {
+  const v = parseFloat(e.target.value);
+  els.lineSpacingVal.textContent = v.toFixed(2);
+  els.textBody.style.setProperty('--body-lh', v);
+  updateImagePosition();
+});
+
+els.verse1Slider.addEventListener('input', e => {
+  state.verse1Frac = parseFloat(e.target.value);
+  els.verse1Val.textContent = state.verse1Frac.toFixed(3);
+  saveCalibration(state.bookPage, state.dividerFrac, state.verse1Frac, state.footEndFrac);
+  updateImagePosition();
+});
+
+els.showDividerLine.addEventListener('change', updateImagePosition);
+
+els.paneText.addEventListener('scroll', updateImagePosition);
+window.addEventListener('resize', applyZoom);
+
+els.paneImage.addEventListener('mousedown', e => {
+  state.dragging = true;
+  state.dragStartX = e.clientX;
+  state.dragStartPanX = state.panX;
+  els.paneImage.classList.add('dragging');
+});
+window.addEventListener('mousemove', e => {
+  if (!state.dragging) return;
+  const paneW = els.paneImage.clientWidth;
+  const baseScale = paneW / state.naturalW;
+  const scale = baseScale * state.zoom;
+  state.panX = state.dragStartPanX + (e.clientX - state.dragStartX);
+  clampPanX(scale);
+  updateImagePosition();
+});
+window.addEventListener('mouseup', () => {
+  state.dragging = false;
+  els.paneImage.classList.remove('dragging');
+});
+
+populateBookChapterSelects();
+loadPage(1);
+</script>
+</body>
+</html>
