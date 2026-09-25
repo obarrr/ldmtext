@@ -189,7 +189,7 @@ state — earlier entries may have been reversed.
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
   `manual-proofread` skill. As of 2026-09-23: front matter through
-  Alma 43 is done; Alma 44 is next. A
+  Alma 49 is done; Alma 50 is next. A
   recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
