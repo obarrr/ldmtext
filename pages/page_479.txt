@@ -161,3 +161,6 @@ words.txt` since pptext actively flags both. Footnote-anchor check
 (3400-3401 both present, no duplicates/out-of-range), curly-quote scan,
 dash check, and Jeebies all clean for this page. No hyphenation
 findings (page has no hyphens).
+[v.3, v.4, v.7] 2026-10-02 manual-proofread: v.3 "habían muchos más" (1886
+     "había"; haber family), v.4 "conocieran de que" and v.7 "se iban á
+     echarse" (both shared with 1886) logged in errors in 1920.txt.

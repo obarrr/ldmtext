@@ -132,3 +132,5 @@ supporting the page's own v.16/v.22 "Zemnaríhah" as the intended
 spelling and v.23's 1920 "Zemnaríhan" as the likely misprint —
 carried forward as evidence for Session E's 1886 check. No errors
 found; no changes made.
+[v.15, v.24] 2026-10-02 manual-proofread: v.15 "sin que... volvieron" (1886
+     "volvieran") and v.24 "conociendo, su" (1886 no comma) logged.

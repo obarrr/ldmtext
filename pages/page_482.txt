@@ -3,7 +3,7 @@ He aquí, que ya ha pasado el tiempo, y no se han cumplido las
 palabras de Samuel; de modo que vuestra fe y gozo relativamente
 á esta cosa han sido vanos.
 7. Y aconteció que consiguieron levantar una gran agitación
-entre todo el país, y el pueblo que creía empezó á apesadumbrarse
+entre todo el país, y el pueblo que creía empezo á apesadumbrarse
 en extremo; temiendo que por cualquier motivo no llegaran á
 verificarse estas cosas que habían sido anunciadas.
 8. Pero, he aquí, que permanecieron constantes, esperando
@@ -185,3 +185,5 @@ and the three duplicate "Hela. 14:3,4" entries (h/l/p/q — 1879 prints
 this same citation four times too, so the repetition is a feature of
 the original cross-referencing, not a transcription slip). No errors
 found in Block 1 or marker placement.
+[v.7] 2026-10-02 manual-proofread: "empezó" → "empezo" restored as printed
+     (no accent in clean type; Google agrees; 1886 "empezó"). Logged.

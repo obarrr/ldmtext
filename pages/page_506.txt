@@ -41,7 +41,7 @@ yo os enseñaré, he aquí, que los que habían quedado del pueblo
 de Nefi, y también los que se habían salvado, que se llamaban
 Lamanitas, reciberon muchos favores, y muchas bendiciones
 
-10g, 3595: Véase i, Helamán 14.
+10g, 3595: Véase t, Helamán 14.
 10h, 3596: I Nefi 12:4,5; 19:10-12; Helamán 14:20-28.
 10i, 3597: Versículo 13; III Nefi 9:13.
 10j, 3598: III Nefi 8:9; 9:4-8.
@@ -50,7 +50,7 @@ Lamanitas, reciberon muchos favores, y muchas bendiciones
 10m, 3601: Versículo 14; III Nefi 8:16.
 10n, 3602: Véase 2i, III Nefi 8.
 10o, 3603: Véase h.
-10p, 3604: Véase i.
+10p, 3604: Véase l.
 10q, 3605: Véase 2i, III Nefi 8.
 10r, 3606: Véase v, Helamán 14.
 10s, 3607: Véase m.
@@ -212,3 +212,6 @@ post-rejoin). One item flagged for the editor per
 v.12 "más justa" (noted above) — a real but narrow gap, transcribed as
 two words per the current default, worth a look at the actual page
 whenever convenient.
+[fn g, fn p] 2026-10-02 manual-proofread: target letters corrected, g "i" → "t"
+     (crossbarred t; Helamán 14t cites this verse) and p "i" → "l" (clear l);
+     Block 2 3595 → 3373 and 3604 → 3600. v.13 "enterados" logged.

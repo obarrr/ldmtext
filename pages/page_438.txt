@@ -45,9 +45,9 @@ al [3166]Norte del país, haciéndolo de tal manera, que empezaron á
 3a, 3159: Véase h, Omni 1.
 3b, 3160: Norte América.
 3c, 3161: Véase i, Mosíah 8.
-3d, 3162: Véase j, Mosíah 8.
+3d, 3162: Véas j, Mosíah 8.
 3e, 3163: Véase 2l, Alma 22.
-3f, 3164: Versículos 9, 11.
+3f, 3164: Versículos 9,11.
 3g, 3165: Sur América.
 3h, 3166: Norte América.
 
@@ -59,3 +59,5 @@ Corrections
 [v.14] "noquiero" → "no quiero" — OCR missing space; restored.
 [fn 3163] "Véase al" — superscript retained for manual resolution;
 refer to 1879 English edition.
+[fn 3d] 2026-09-27 manual-proofread: printed "Véas j· Mosíah 8." with
+     NO "d," label -- misprint preserved ("Véas"), logged in errors in 1920.txt.

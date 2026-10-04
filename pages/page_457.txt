@@ -1,7 +1,7 @@
 Página 457
 ganado favor á los ojos de algunos, de tal manera que los otros
 se hallaban dominados por el temor.
-11. Por lo tanto, se vió impelido á hablarles más, diciéndoles:
+11. Por lo tanto, se vió impelido á habarles más, diciéndoles:
 He aquí, mis hermanos, ¿no habéis leído como Dios dió poder
 á un hombre, aún á Moisés, para herir las aguas del Mar Rojo,
 las que se dividieron á un lado y á otro de tal modo que pasaron
@@ -64,3 +64,10 @@ issue since Block 1 already normalizes verse-citation punctuation.
 [v.12] "alcan-" + "zarán" → "alcanzarán" — rejoined hyphenated
 line-break split; rejoined line (94 chars) exceeded 73, so per rule 8
 "alcanzarán," moved to start of next line.
+[v.11] 2026-10-01 manual-proofread: "hablarles" → "habarles", restored
+     as printed. The type is clean and Google agrees; 1886 has
+     "hablarles". Logged in errors in 1920.txt.
+[v.19] 2026-10-01 manual-proofread: "hubieron muchos profetas" (1886
+     has "hubo") was added to the existential-"haber" FAMILIA.
+[v.13] "á quién se le había sido dado tanto poder" is shared with
+     1886 ("á quien se le había sido dado"). Not logged.

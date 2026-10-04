@@ -11,7 +11,7 @@ que les llenó de un espantoso y solemne temor.
 de la nube de obscuridad, diciendo: Arrepentíos, arrepentíos,
 y no intentéis matar á mis siervos, los que he enviado para que
 os anuncien buenas nuevas.
-30. Y acaeció, que cuando hubieron oído esta voz, y se convencieron
+30. Y acaeció, que cuando hubieron oídio esta voz, y se convencieron
 de que no era la voz del trueno, ni la voz de ningún
 ruido tumultoso; mas, he aquí, que era [3237]el sonido de una voz
 apacible y de una perfecta suavidad, que se manifestaba en
@@ -57,3 +57,7 @@ split.
 line-break split.
 [v.35] "seperado" — preserved as printed; confirmed against 1886 (same
 spelling there too); logged in errors in 1920.txt.
+[v.30] 2026-09-30 manual-proofread: "oído" → "oídio", restored as
+     printed. The type is clean and Google OCR agrees. 1886 has "oido".
+     Logged in errors in 1920.txt. Also in v.30, "tumultoso" was already
+     transcribed as printed (1886 has "tumultuoso") and is now logged too.

@@ -4,7 +4,7 @@ si fuere de día;
 4. Por lo tanto, habrá un día, y una noche, y otro día, como
 si todo fuera un solo y mismo día, en él que no habrá habido
 noche: y esto os será de señal. Porque veréis la puesta y también
-la salida del sol; y así os asegurareis de que habrá dos días
+la salida del sol; y así os aseguraréis de que habrá dos días
 y una noche; no obstante, la noche no será obscura; y esta será la
 noche que precederá á su nacimiento:
 5. He aquí que aparacerá una [3356]nueva estrella, tal como nunca
@@ -86,3 +86,5 @@ heaven and of earth" at the identical position. Content-fit passes:
 target "Mosíah 3:8;15:4;Alma 11:39;III Nefi 9:15;Éther 4:7" are all
 passages describing Christ as Father of heaven and earth, matching
 v.12's own wording exactly.
+[v.4] 2026-10-02 manual-proofread: "asegurareis" → "aseguraréis" (accent
+     is in the print; Google agrees). Transcription slip, fixed silently.

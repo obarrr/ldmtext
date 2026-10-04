@@ -1,5 +1,5 @@
 Página 443
-negando sus vestidos á los que estaban desnudos, ó hiriendo á
+negando sus vestidos á los que estaban desnudos, é hiriendo á
 sus humildes hermanos en la mejilla; burlándose de las cosas
 santas, negando el Espíritu de revelación y de profecía, matando,
 robando, mintiendo, saqueando y cometiendo adulterio, entregándose
@@ -70,3 +70,6 @@ line-break split; rejoined word (64 chars) fits end of line.
 requires "hijos"; transcribed as printed; verify against 1886 edition.
 [fn 4i] "Mosíah 29 : 27" → "Mosíah 29:27" — removed spaces around colon.
 [fn 4j] "Alma 1 : 1" → "Alma 1:1" — removed spaces around colon.
+[v.12] 2026-09-30 manual-proofread: "ó hiriendo" → "é hiriendo". The
+     image clearly prints "é", and Google OCR agrees. This was a
+     transcription slip; fixed silently.

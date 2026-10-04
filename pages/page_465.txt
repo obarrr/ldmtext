@@ -108,3 +108,5 @@ llover sobre la tierra, de modo que en la época de la cosecha la
 tierra prodújo") was missed in the original Session A/B passes for
 this page and had been standing uncorrected in `librodm.txt` until
 now. Added to `errors in 1920.txt` and `permitted words.txt`.
+[v.12] 2026-10-02 manual-proofread: "desparezca" logged (1886 has
+     "desaparezca"; Google agrees).

@@ -13,7 +13,7 @@ un mes desde el día de mañana, daré orden á mis ejércitos, para
 que caigan sobre vosotros; y no pararán su mano, ni os perdonarán,
 sino que os matarán y dejarán caer la espada encima,
 sí, hasta que quedéis exterminados.
-9. He aquí, yo soy Giddianhi, gobernador de esta sociedad
+9. He aqui, yo soy Giddianhi, gobernador de esta sociedad
 [3446]secreta de Gadianton; sociedad y obras que tengo por buenas;
 y que son de antigua fecha, y nos han sido transmitidas.
 10. Os escribo esta carta, Lachoneus, en la confianza de que
@@ -136,3 +136,5 @@ level, dash, etc.) found nothing beyond already-documented false-
 positive patterns (verse numbers starting a paragraph, Block 2's "N:"
 format). No other `errors in 1920.txt` or `permitted words.txt` entries
 needed for this page.
+[v.9] 2026-10-02 manual-proofread: "He aquí" → "He aqui" restored as printed
+     (1886 "Hé aquí"). Logged.

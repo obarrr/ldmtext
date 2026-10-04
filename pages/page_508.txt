@@ -25,7 +25,7 @@ de Israel, y el [3628]Dios de toda la tierra, y que he muerto por los
 [3629]pecados del mundo.
 15. Y aconteció, que adelantándose la multitud, [3630]metieron
 sus manos en su costado, y tentaron las marcas que habían
-hecho los clavos en sus manos y pies, haciéndolo así unos después
+hecho los calvos en sus manos y pies, haciéndolo así unos después
 de otros, hasta que todos se hubieron convencido, viendo por
 sus propios ojos y tentando con sus propias manos, convenciéndose
 de este modo con toda seguridad, y dieron testimonio, de
@@ -159,3 +159,5 @@ needed (punctuation, not spelling). "aquéllo" (v.5) and "Jesu Cristo"
 already-established, already-suppressed forms (4 and 26+ existing
 instances respectively), not page-specific findings. No narrow-space-
 vs-merge notes were flagged on this page to batch for the editor.
+[v.15] 2026-10-03 manual-proofread: "clavos" → "calvos" restored as printed
+     (Google agrees; 1886 "clavos"). Logged.

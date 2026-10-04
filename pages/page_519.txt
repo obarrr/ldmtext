@@ -33,7 +33,8 @@ y entonces cumpliré yo la [3722]alianza que el Padre ha hecho con
 todo el pueblo de la casa de Israel.
 6. Y benditos son los Gentiles á causa de su fe en mí, en
 y [3723]por el Espíritu Santo, que les da testimonio [3724]de mí y del
-Padre. 7. He aquí, que á causa de su fe en mí, dice el Padre, y á
+Padre.
+7. He aquí, que á causa de su fe en mí, dice el Padre, y á
 causa de vuestra incredulidad, oh casa de Israel, en los [3725]últimos
 días vendrá la verdad á los Gentiles, para que les sea dada la
 plentitud de estas cosas;
@@ -165,3 +166,5 @@ findings were already resolved with their own 1879 cross-checks in
 Session A/B.
 
 [2026-09-04 em-dash normalization] The em dash(es) [saben--para (III Nefi 16:4)] in this page's body text, transcribed as the literal — character, were converted to "--" (the project's plain-text em-dash convention, rule/Session-E dash check) in this file and in librodm.txt. Same pass that fixed page 627's two; six U+2014 chars total remained document-wide, now zero. No wording change.
+[v.6/7] 2026-10-03 manual-proofread: split "Padre. 7. He aquí" onto separate lines
+     as printed. v.4 "a los Gentiles" logged.

@@ -40,7 +40,7 @@ otro, de modo que les confundieron;
 19. No obstante, hicieron los jueces que cogieran y ataran á
 Nefi, que fué traído ante la multitud, y empezaron á interrogarle
 de diferentes maneras, esperando cogerle en alguna
-contradicción, para poder condenarle á muerte;
+concontradicción, para poder condenarle á muerte;
 20. Diciéndole: Tú eres confederado; ¿quién es ese hombre
 
 9g, 3300: Véase t, Mosíah 27.
@@ -81,3 +81,11 @@ earlier "b" footnote target).
 page ("...¿quién es ese hombre"); continues on page 461 per rule 10
 (no hyphenated word split at the boundary, so no page-460 revision
 needed once page 461 is transcribed).
+[v.13] 2026-10-01 manual-proofread: "que les fueron presentados" is
+     logged (1886 has "fueren").
+[v.19] 2026-10-01 manual-proofread: "contradicción" →
+     "concontradicción", restored as printed. The print has "con-" at
+     the end of the line and "contradicción" at the start of the next
+     (a repeated syllable); rejoined per the line-break rule. Google
+     agrees; 1886 has "alguna contradiccion". Logged in errors in
+     1920.txt.

@@ -39,7 +39,7 @@ de ejecutarles según la ley.
 11. Pero, he aquí, que, cuando Gadianton se apercibió que
 Kishkumen no volvía, temió por su propia vida, y ordenó á
 la banda que le siguiera. Y se escaparon al desierto por un
-camino secreto, de modo que no pudieron ser hallados por la
+camino secreto, de modo que no pueidron ser hallados por la
 gente de Helamán.
 
 a: Véase e, Mosíah 29.
@@ -67,6 +67,9 @@ Corrections:
      word; rejoined, fits end of line
 [v7] "Hela-mán" → "Helamán" — image hyphen rejoined, fits line 1
 [v11] "pueidron" → "pudieron" — OCR transposition error
+     REVERSED 2026-09-27 (manual-proofread): "pueidron" is the
+     1920 misprint itself (image + Google OCR), already logged in
+     errors in 1920.txt; restored as printed.
 [fn] spaces around colons removed: "1 : 9" → "1:9"
 [fn] "Versí- culos" → "Versículos" — OCR line-break hyphen rejoined
 [fn] c,f,g cross-ref letter misread as f — high-res image shows i

@@ -16,7 +16,7 @@ los Nefitas, empezando la obra de muerte con tal fuerza, que en
 el año quincuagésimo-octavo consiguieron apoderarse del [3201]país
 de Zarahemla; conquistando también todas las tierras inmediatas
 al [3202]país de Abundancia;
-6. Y los Nefitas, así como los ejércitos de Moronihah, fueron
+6. Y los Nefitas, así como los ejércitos de Moroníhah, fueron
 rechazados hasta el país de Abundancia;
 7. Y allí se [3203]fortificaron contra los Lamanitas desde el mar del
 Oeste hasta el mar del Este; y esta línea que habían [3204]fortificado
@@ -27,7 +27,7 @@ un formidable ejército Lamanita, se apoderaron de las posesiones
 de los Nefitas en el país del Sud. Todo lo que tuvo lugar en los
 años quincuagésimo-octavo y nono del gobierno de los Jueces.
 9. Y sucedió, que en el año sexagésimo del gobierno de los
-Jueces, consiguió Moronihah con sus ejércitos conquistar muchas
+Jueces, consiguió Moroníhah con sus ejércitos conquistar muchas
 partes del país, y apoderarse de muchas ciudades que habían
 tomado los Lamanitas.
 10. Y aconteció que en el año sexagésimo-primo del gobierno
@@ -85,3 +85,10 @@ see note above. 1879 fn_zoom corroborates ("e, see c, Alma 48.").
 [fn 4e] "Alma 22 : 32" → "Alma 22:32" — removed spaces around colon.
 [fn 4f] cross-ref "l" in Mosíah 4 — confirmed lowercase l (not i/1) against
 1879 fn_zoom ("f, see l, Mos. 4.").
+[v.6, v.9] 2026-09-30 manual-proofread: both read "Moroníhah" WITH the
+     accent in the image. v.6's "í" was compared side by side with v.9's
+     "í" and with the round-dotted "i" of "iglesia". It has the same acute
+     stroke. Google OCR reads "Moroníhah" in both, and 1886 (file 457)
+     prints "Moroníhah" accented in v.6 too. The 2026-09-12 errors-log
+     entry calling v.6 unaccented "in both editions" was wrong and has
+     been removed. The page file is synced for both verses.

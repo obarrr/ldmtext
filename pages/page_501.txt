@@ -187,3 +187,5 @@ suspected-misprint/spelling notes to run through the mandatory 1886
 check (every note above is footnote-letter or line-wrap mechanics).
 No `permitted words.txt` or `errors in 1920.txt` entries needed for
 this page.
+[fn 2f] RESOLVED (editor, 2026-10-03): the target letter is "v" with ink
+     missing (matches the page's "v", not its "r"). Block 1 "Véase v" stands.

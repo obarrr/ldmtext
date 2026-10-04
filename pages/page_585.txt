@@ -53,7 +53,7 @@ como si fuera [4350]por el fuego,
 4i, 4346: Véase a, Mosiah 3; Mosiah 3:8; 4:2; 7:27; Helamán 16:18.
 4j, 4347: II Nefi 27:14; 28:29-30; 33:11-15.
 4k, 4348: Versículos 13-16; III Nefi 26:6-12.
-4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23, 9:2.
+4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23; 9:2.
 4m, 4350: Véase a, III Nefi 25.
 
 Corrections
@@ -204,3 +204,5 @@ with additional trailing bare citations, all under one un-terminated
 sentence, is at risk) and should be fixed in generate_block2.py
 itself rather than re-caught by hand on a future page; flagging for
 the editor's attention rather than patching the script now.
+[fn 4l] 2026-10-03 (editor): "Mormón 5:23, 9:2" normalized to "5:23; 9:2" under the
+     separator rule; supersedes the earlier "kept as printed" note above.

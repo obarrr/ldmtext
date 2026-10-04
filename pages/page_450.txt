@@ -6,7 +6,7 @@ operarios que trabajaban y refinaban los minerales de toda
 especie; y de este modo adquirieron grandes riquezas.
 12. También recogían grano en abundancia, tanto en el
 Norte como en el Sud, floreciendo en extremo estas comarcas,
-tanto las del Norte como las del Sud. Multiplicándose así, y
+tanto las del Norte como las del Sud. Multiplicándose así. y
 fortaleciéndose en el país. Y criaron muchos rebaños y ganados,
 sí, y muchos animales gordos.
 13. Y, he aquí, que sus mujeres [3253]trabajaban é hilaban,
@@ -76,3 +76,15 @@ content-consistent (10i, 398 cites Alma 37:21-32 and Helamán 1:11-12,
 the Kishkumen secret-murder narrative, directly on-topic for this
 verse's "empezaron á asesinar, robar y saquear"; 10l, 401 cites I
 Nefi 13, unrelated).
+[v.12] 2026-09-30 manual-proofread: FLAGGED for the editor, unresolved.
+     After "Multiplicándose así" the mark is a small round dot
+     (h 6px, area 32px at 400dpi). That is smaller than the "Sud."
+     period on the same line (h 8, area 38) and the "Superior," comma
+     on page 472 (h 10, area 51). Google reads "así. y". The
+     transcription keeps "así, y".
+[v.19] "judicial, pero" was checked and is a comma. Its mark is
+     identical in size and shape to the "hijo," comma on the same line
+     (h 8, area 38), and Google reads ",".
+[v.12] RESOLVED (editor, 2026-09-30): the mark is a real period.
+     "así, y" → "así. y" restored as printed and logged in errors in
+     1920.txt.

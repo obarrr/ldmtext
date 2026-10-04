@@ -43,7 +43,7 @@ las almas de los hombres.
 
 8h, 3288: Véase g, I Nefi 19.
 8i, 3289: Ezías pudiera haber sido idéntico con Isaías, quién vivió
-contemporáneamente con Abraham; Véase Doctrinas y Convenios 84:11-13.
+contemporaniamente con Abraham; Véase Doctrinas y Convenios 84:11-13.
 8j, 3290: Helamán 6:10; Véase h, Omni 1; Ezequiel 17:22-23; Véase i,
 Omni 1.
 8k, 3291: Véase c, Helamán 5.
@@ -124,3 +124,14 @@ comma-shaped or defect marks. 1886 (same page/file as above) has comma
 in all four spots — exclusive to 1920, same "punto por coma" family as
 the v.20 "he quí"/"Zenoch." issues already on this page. Logged in
 errors in 1920.txt.
+[fn i] 2026-10-01 manual-proofread: "contemporáneamente" →
+     "contemporaniamente", restored as printed in both blocks (Google
+     agrees). Logged in errors in 1920.txt.
+[v.24] 2026-10-01 manual-proofread: FLAGGED for the editor. "negar. á
+     menos" may be a period (h 8px, area 43px at 400dpi; the comma
+     after "ahora," on the line above measures h 11, area 66). Google
+     reads "."; 1886 has a comma. The transcription keeps ",". In
+     v.21 "asesinados," and v.22 "Cristo," the marks are also
+     ambiguous on this worn page, but Google reads "," and those stay.
+[v.24] RESOLVED (editor, 2026-10-03): "negar," is a comma (an under-inked
+     comma on a line with heavy ink loss). The text stands; no log entry.

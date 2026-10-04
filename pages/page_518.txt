@@ -11,7 +11,7 @@ verdad testificaron de mí.
 11. Y ahora, vino á suceder, que cuando Jesús hubo hablado
 estas palabras dijo á [3706]aquellos doce, á quiénes Él había
 escogido:
-12. Vosotros sois mis discípulos, y sois una luz para este
+12. Vosotros sois mis discipulos, y sois una luz para este
 pueblo, que es un resto de la casa de José.
 13. Y, he aquí, [3707]este es el país de vuestra herencia; y el
 Padre os lo ha dado.
@@ -149,3 +149,5 @@ feedback_narrow_space_vs_merge): none on this page -- no tight word
 pairs were flagged in Session A besides the true zero-width
 "obstinaciôné" merge, which is already resolved as a two-word default
 per rule 6, not an open question.
+[v.12] 2026-10-03 manual-proofread: "discípulos" → "discipulos" restored as printed;
+     v.20 missing "no" and fn m missing letter logged.

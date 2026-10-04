@@ -10,7 +10,7 @@ que prosperó en el país.
 21. Y vino á suceder que teniendo á dos hijos, dió al mayor
 el nombre de Nefi, y al menor el nombre de Lehi, creciendo
 ambos en el amor del Señor.
-22. Y vino á suceder, que hacia el fin del año cuadragésimo-octavo
+22. Y vino á suceder, que hacia el fin del año cuadragésimo-ocatvo
 del gobierno de los Jueces sobre el pueblo de Nefi, empezaron
 á cesar algún tanto las disensiones y guerras entre los
 Nefitas.
@@ -45,7 +45,7 @@ los malos,
 3-2f, 3190: Helamán 2:2.
 3-2g, 3191: Véase i, II Nefi 10.
 3-2h, 3192: Véase u, II Nefi 9.
-3-2i, 3193: Véase v, Mosíah 26.
+3-2i, 3193: Véase g, Mosíah 26.
 3-2j, 3194: Véase u, II Nefi 9.
 3-2k, 3195: Véase e, II Nefi 31.
 3-2l, 3196: Véase i, I Nefi 15.
@@ -77,3 +77,6 @@ line-break split.
 semicolon.
 [v.26] "prospero" — preserved as printed (1920 spelling).
 [fn] "Digitized by Google" — removed watermark text.
+[v.22] REVERSED 2026-09-27 (manual-proofread): "ocatvo" is the 1920
+     misprint itself (image), logged in errors in 1920.txt; restored.
+[fn 3-2i] 2026-09-27: letter is "g" (Mosíah 26g = Sumo Sacerdote), not "v".

@@ -48,7 +48,7 @@ tan poderosas como Tú eres, hasta predominar al que las lea.
 12j, 4471: Véase e, Éther 3.
 12k, 4472: Éther 3:26.
 12l, 4473: Éther 3:25,26.
-12m, 4474: Véase f Éther 3.
+12m, 4474: Véase f, Éther 3.
 12n, 4475: Véase c, Enos 1.
 12o, 4476: Versículos 26-28; Véase w, Mormón 8.
 12p, 4477: Torpeza en escribir ó grabar sobre planchas en
@@ -215,3 +215,5 @@ master files) all re-ran clean — only the long-documented Jacob
 2:15/812 gap remains.
 permitted words.txt: one addition ("harmano"). errors in 1920.txt:
 one addition (Éther 12:21 harmano).
+[fn 12m] 2026-09-30 Block 1/2 reconciliation: "Véase f Éther 3." -> "Véase f,
+     Éther 3." (missing separator comma added per the editor's 2026-09-08 rule).

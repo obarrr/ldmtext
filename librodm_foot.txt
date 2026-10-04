@@ -19,7 +19,7 @@ II Nefi 4:2; 5:12; Mosíah 1:3-4; 28:20; Alma 37:3-12;
 63:1,11-14; III Nefi 1:2.
 3b, 13: Josué 18:6,10; Jueces 20:9; Actos 1:26.
 3c, 14: I Nefi 2:4.
-3d, 15: II Crónicas 36, 14-20.
+3d, 15: II Crónicas 36:14-20.
 3e, 16: I Nefi 1:3; Mosíah 1:4.
 3f, 17: I Nefi 2:4; 3:16.
 3g, 18: Véase 3a.
@@ -230,7 +230,7 @@ Helamán 8:19; 15:11; III Nefi 10:16.
 20q, 201: Isaías 45:19.
 20r, 202: Génesis 22:17; Oseas 1:10.
 20s, 203: Jeremias 50:8; 51:6,44-45; Zacarías 2:6-7.
-20t, 204: Isaías 44, 22-23.
+20t, 204: Isaías 44:22-23.
 20u, 205: Salmos 107:35-38. Isaías 35:6-7; 41:17-18.
 21a, 206: Versículo 8; Isaías 51:5; 60:9; 66:19; I Nefi 22:4;
 II Nefi 10:20-22.
@@ -312,7 +312,7 @@ Mosíah 3:11,15-19; 4:2,6-7; 13:28; 18:2; Alma 5:27; 13:5,11; 21:9;
 22:14; 24:13; 30:17; 33:22; 34:8-16,36; 36:17; 42:15,23;
 Helamán 14:15-16; III Nefi 11:11; 27:19; Mormón 9:13; Moroni 7:41;
 8:20; 10:33.
-2g, 266: Versículos 15, 16;
+2g, 266: Versículos 15-16;
 2h, 267: Versículo 11;
 2i, 268: II Nefi 9:8; Perla de Gran Precio, Moisés 4:3-4.
 2j, 269: Versículo 25; Perla de Gran Precio, Moisés 5:11.
@@ -538,8 +538,9 @@ véase I Nefi 13.
 13l, 450: Isaías 22:12; Miquéas 1:16.
 13m, 451: Jeremías 14:2; Lamentaciones 1:4.
 13n, 452: Lamentaciones 2:10.
-14a, 453: Isaías 13:12; Los juicios de Dios harán escasarce los hombres de tal manera que siete mujeres tomarán á un hombre como
-esposo y serán llamados por su nombre.
+14a, 453: Isaías 13:12; Los juicios de Dios harán escasarce los hombres
+de tal manera que siete mujeres tomarán á un hombre como esposo y serán
+llamados por su nombre.
 14b, 454: II Nefi 3:5; Isaías 60:21.
 14c, 455: Mateo 13:41-43,47-50; 25:1-12.
 14d, 456: II Nefi 13:16-20.
@@ -609,7 +610,7 @@ Marcos 12:1; Lucas 20:9.
 19e, 519: Tito 2:13; véase 2b, Mosíah 7.
 19f, 520: Efesios 2:14-17.
 19g, 521: Daniel 2:44.
-19h, 522: Versículos 17, 21; Isaías 5:25; 10:4; Jeremías 4:8.
+19h, 522: Versículos 17,21; Isaías 5:25; 10:4; Jeremías 4:8.
 19i, 523: Versículo 15.
 19j, 524: Isaías 10:17.
 19k, 525: Versículo 14.
@@ -661,7 +662,8 @@ Marcos 12:1; Lucas 20:9.
 Jeremías 23:5-6.
 21b, 571: Isaías 61:1-3.
 21c, 572: Salmos 72:2,4; Revelaciones 19:11.
-21d, 573: Job 4:9; Malaquías 4:6; II Tesalonicenses 2:8; Revelaciones 1:16; 2:16; 19:15.
+21d, 573: Job 4:9; Malaquías 4:6; II Tesalonicenses 2:8; Revelaciones 1:16;
+2:16; 19:15.
 21e, 574: Efesios 6:14.
 21f, 575: Isaías 65:25; Ezequiel 34:25; Oséas 2:18.
 21g, 576: Job 5:23; Isaías 2:4; 35:9.
@@ -1213,7 +1215,7 @@ Véase Doctrinas y Convenios; Capítulo 3; Capítulo 10.
 1x, 1049: III Nefi 5:8-11; Mormón 4:23.
 1y, 1050: Los Nefitas.
 1z, 1051: Los Lamanitas.
-1-2a, 1052: II Nefi 25:18; 29:11; 33:11,14-15; III Nefi 27,23-27;
+1-2a, 1052: II Nefi 25:18; 29:11; 33:11,14-15; III Nefi 27:23-27;
 Ether 4:8-10; 5:4.
 1-2b, 1053: Vease b, II Nefi 5.
 1-2c, 1054: Vease a, I Nefi 4.
@@ -1602,7 +1604,7 @@ III Nefi 1:14; Mormón 9:12.
 21f, 1402: Véase w, Mosíah 19.
 21g, 1403: Mosíah 12:2-8.
 21h, 1404: Mosíah 11:24-25.
-21i, 1405: Versículos, 10-11.
+21i, 1405: Versículos 10-11.
 21j, 1406: Véase j, Jacob 2.
 21k, 1407: Mosiah 7:7,10.
 21l, 1408: Véase f, Mosíah 11.
@@ -1697,7 +1699,7 @@ Nefitas entre los Lamanitas se había corrompido.
 24r, 1491: Versículo 19.
 24s, 1492: Versículos 20-21.
 24t, 1493: Doce jornadas desde el valle de Alma. Desde Helam al valle
-de Alma fué una jornada, véase e, Mosiah 23. Así es que de la
+de Alma fué una jornada, véase c, Mosíah 23. Así es que de la
 ciudad de Nefi á Zarahemla era como 22 jornadas.
 24u, 1494: Véase h, Omni 1.
 24v, 1495: Mosíah 22:14.
@@ -2159,7 +2161,7 @@ Vease k, I Nefi 15.
 12-2v, 1930: Versículos 34-35; Alma 13:6,12-13,16,29; 16:17.
 13a, 1931: Perla de Gran Precio, Moisés 6:7; 8:19; Doctrinas y
 Convenios 84:6-28,107.
-13b, 1932: Perla de Gran Precio, Moisés 6:7; 8:19; Véase o.
+13b, 1932: Perla de Gran Precio, Moisés 6:7; 8:19; Véase a.
 13c, 1933: Véase d, Mosíah 4.
 13d, 1934: Versículo 7.
 13e, 1935: II Nefi 2:16; Alma 12:31.
@@ -2207,7 +2209,7 @@ Convenios 84:6-28,107.
 14f, 1976: Alma 10:31; 11:21-38.
 14g, 1977: Alma 15:1.
 14h, 1978: Versiculos 9-15; Alma 15:2.
-14i, 1979: Versículos 1, 14; Alma 13:20.
+14i, 1979: Versículos 1,14; Alma 13:20.
 14j, 1980: Véase h.
 14k, 1981: Versículos 26-29; Alma 8:30-31.
 14l, 1982: Versículos 26-29; Alma 16:2-3,9-11.
@@ -2349,7 +2351,7 @@ Convenios 84:6-28,107.
 18w, 2115: Cópias de las planchas de bronce; Alma 63:12.
 18x, 2116: I Nefi.
 18y, 2117: Copias de las planchas de Nefi.
-18z, 2118: Véase d Mosíah 4.
+18z, 2118: Véase d, Mosíah 4.
 18-2a, 2119: Versículo 23.
 18-2b, 2120: Versículo 43; Alma 19:1,5-12.
 18-2c, 2121: Alma 19:4,9.
@@ -2372,7 +2374,7 @@ Convenios 84:6-28,107.
 19p, 2138: Mosíah 28:7; Alma 17:35.
 19q, 2139: Versículo 22.
 19r, 2140: Véase b, Alma 18.
-19s, 2141: Versículos 16-17, 29.
+19s, 2141: Versículos 16-17,29.
 19t, 2142: Véase k, I Nefi 15.
 19u, 2143: Alma 18:36-39.
 19v, 2144: Véase u, II Nefi 9.
@@ -2506,7 +2508,7 @@ Sur América, Lehi, y Norte América, Mulek; Véase Helamán 6:10.
 23s, 2267: Véase c, Mosíah 6.
 23t, 2268: Alma 24:1-3,5,20; 25:1,13; 27:2,21,25; 43:11.
 23u, 2269: Cutis obscuro removido; Véase d, I Nefi 2;
-II Nefi 30:6; III Nefi 2:14-16.
+III Nefi 30:6; III Nefi 2:14-16.
 24a, 2270: Véase u, Mosíah 23.
 24b, 2271: Véase o, Mosíah 23.
 24c, 2272: Véase b, Alma 21.
@@ -2759,7 +2761,7 @@ II Nefi 30:6; III Nefi 2:14-16.
 35h, 2517: Véase l, Mosíah 4.
 35i, 2518: Véase j, Alma 30.
 35j, 2519: Alma 27:26.
-35k, 2520: Véase j, Alma 27.
+35k, 2520: Véase g, Alma 27.
 35l, 2521: Véase c, Alma 8.
 35m, 2522: Alma 43; 44.
 35n, 2523: Alma 31:7.
@@ -2791,7 +2793,7 @@ II Nefi 30:6; III Nefi 2:14-16.
 36v, 2549: Véase c, Mosíah 5.
 36w, 2550: I Nefi 10:17-19; II Nefi 31:13-14,17-18; 32:2,5;
 Alma 31:36; 34:38; Helamán 5:45; III Nefi 9:20; 11:35-36; 12:1-2;
-18:37; 19:13-14,30; IV Nefi1:1.
+18:37; 19:13-14,30; IV Nefi 1:1.
 36x, 2551: Véase c, Mosíah 5.
 36y, 2552: Alma 14:26-29.
 36z, 2553: Véase p, Mosíah 23.
@@ -3126,7 +3128,7 @@ III Nefi 8:9; 9:4.
 50m, 2874: Versículos 25-28,36; Alma 51:1,24,26; 59:5; 62:30.
 50n, 2875: Véase h, II Nefi 1.
 50o, 2876: Véase m.
-50p, 2877: Versículos 26,28,36; Alma 51:26; 55:33; 59:5.
+50p, 2877: Versículos 26,28,36; 51:26; 55:33; 59:5.
 50q, 2878: Véase p.
 50r, 2879: Véase m.
 50s, 2880: Véase m.
@@ -3163,7 +3165,7 @@ III Nefi 8:9; 9:4.
 51u, 2911: Véase k, Alma 50.
 51v, 2912: Véase k, Alma 50.
 51w, 2913: Véase l, Alma 50.
-51x, 2914: Véase m Alma 50.
+51x, 2914: Véase m, Alma 50.
 51y, 2915: Véase l, Alma 50.
 51z, 2916: Véase l, Alma 50.
 51-2a, 2917: Véase m, Alma 50.
@@ -3179,10 +3181,10 @@ III Nefi 8:9; 9:4.
 51-2k, 2927: Calor de la zona tórrida.
 52a, 2928: Norte América.
 52b, 2929: Véase 2d, Alma 51.
-52c, 2930: Véase e, Alma 48.
+52c, 2930: Véase c, Alma 48.
 52d, 2931: Véase c, Alma 48.
 52e, 2932: Véase 2k, Alma 22.
-52f, 2933: Véase 2r, Alma 22.
+52f, 2933: Véase 2v, Alma 22.
 52g, 2934: Norte América.
 52h, 2935: Véase c, Alma 48.
 52i, 2936: Véase h, Omni 1.
@@ -3218,7 +3220,7 @@ III Nefi 8:9; 9:4.
 54e, 2966: Véase b, II Nefi 5.
 54f, 2967: Véase b, II Nefi 5.
 54g, 2968: Alma 51:34.
-54h, 2969: II Nefi 5:1-4; Véase n, Jacob 7
+54h, 2969: II Nefi 5:1-4; Véase n, Jacob 7.
 54i, 2970: Versículo 9.
 54j, 2971: Alma 52:3.
 54k, 2972: I Nefi 4:35.
@@ -3253,7 +3255,7 @@ III Nefi 8:9; 9:4.
 56s, 3001: Véase g, Alma 2.
 56t, 3002: Esta no es la misma cuidad señalada por la letra l, Alma 50.
 56u, 3003: Alma 27:26.
-56v, 3004: Versículo 1O.
+56v, 3004: Versículo 10.
 56w, 3005: Véase h, Omni 1.
 56x, 3006: Véase m.
 56y, 3007: Véase m.
@@ -3310,7 +3312,7 @@ III Nefi 8:9; 9:4.
 59e, 3058: Véase k, Alma 50.
 59f, 3059: Véase m, Alma 50.
 59g, 3060: Véase p, Alma 50.
-59h, 3061: Véase h, Alma 16, Alma 58:29-30.
+59h, 3061: Véase h, Alma 16; 58:29-30.
 59i, 3062: Véase l, Alma 50.
 59j, 3063: Véase l, Alma 50.
 59k, 3064: Véase m, Mosíah 29.
@@ -3339,7 +3341,7 @@ III Nefi 8:9; 9:4.
 61d, 3087: Véase m, Mosíah 29.
 61e, 3088: Véase h, Omni 1.
 61f, 3089: Véase m, Mosíah 29.
-61g, 3090: Véase h Omni 1.
+61g, 3090: Véase h, Omni 1.
 61h, 3091: Alma 60:33.
 62a, 3092: Véase m, Alma 2.
 62b, 3093: Alma 46:12-13,36.
@@ -3416,9 +3418,9 @@ LIBRO DE HELAMÁN
 3a, 3159: Véase h, Omni 1.
 3b, 3160: Norte América.
 3c, 3161: Véase i, Mosíah 8.
-3d, 3162: Véase j, Mosíah 8.
+3d, 3162: Véas j, Mosíah 8.
 3e, 3163: Véase 2l, Alma 22.
-3f, 3164: Versículos 9, 11.
+3f, 3164: Versículos 9,11.
 3g, 3165: Sur América.
 3h, 3166: Norte América.
 3i, 3167: Atlántico, al sur del cabo Horn.
@@ -3430,15 +3432,15 @@ LIBRO DE HELAMÁN
 3o, 3173: Véase h, II Nefi 5.
 3p, 3174: Véase u, Alma 16.
 3q, 3175: Véase t, Alma 15.
-3r, 3176: Versículos 5, 9.
+3r, 3176: Versículos 5,9.
 3s, 3177: Véase f, Alma 63.
 3t, 3178: Norte América.
 3u, 3179: Véase f.
 3v, 3180: Alma 27:26.
 3w, 3181: Versículo 15.
-3x, 3182: Véase h, II Nefi 5.
+3x, 3182: III Nefi 26:6-11.
 3y, 3183: Véase f, Alma 63.
-3z, 3184: III Nefi 26:6-11.
+3z, 3184: Véase h, II Nefi 5.
 3-2a, 3185: Véase u, Alma 16.
 3-2b, 3186: Véase t, Alma 15.
 3-2c, 3187: Versículo 13.
@@ -3447,13 +3449,13 @@ LIBRO DE HELAMÁN
 3-2f, 3190: Helamán 2:2.
 3-2g, 3191: Véase i, II Nefi 10.
 3-2h, 3192: Véase u, II Nefi 9.
-3-2i, 3193: Véase v, Mosíah 26.
+3-2i, 3193: Véase g, Mosíah 26.
 3-2j, 3194: Véase u, II Nefi 9.
 3-2k, 3195: Véase e, II Nefi 31.
 3-2l, 3196: Véase i, I Nefi 15.
-3-2m, 3197: Alma 42:9,11; Véase i, Alma 12.
+3-2m, 3197: Alma 42:9,11; Véase t, Alma 12.
 3-2n, 3198: Véase h, Omni 1.
-3-2o, 3199: Véase i, Mosíah 27.
+3-2o, 3199: Véase t, Mosíah 27.
 3-2p, 3200: Helamán 2:2.
 4a, 3201: Véase h, Omni 1.
 4b, 3202: Véase 2k, Alma 22.
@@ -3545,7 +3547,7 @@ capítulos II y III, traducción inspirada por José Smith, hijo.
 8g, 3287: Véase h, I Nefi 19.
 8h, 3288: Véase g, I Nefi 19.
 8i, 3289: Ezías pudiera haber sido idéntico con Isaías, quién vivió
-contemporáneamente con Abraham; Véase Doctrinas y Convenios 84:11-13.
+contemporaniamente con Abraham; Véase Doctrinas y Convenios 84:11-13.
 8j, 3290: Helamán 6:10; Véase h, Omni 1; Ezequiel 17:22-23; Véase i,
 Omni 1.
 8k, 3291: Véase c, Helamán 5.
@@ -3591,7 +3593,7 @@ Alma 30.
 12e, 3330: Versículo 19; Helamán 13:17-23,30-37; Mormón 1:17-19; 2:10-14;
 Éther 14:1-2.
 12f, 3331: Véase k, Jacob 6.
-12g, 3332: Versículos 25, 26; Véase b, I Nefi 2.
+12g, 3332: Versículos 25-26; Véase b, I Nefi 2.
 12h, 3333: Véase g.
 12i, 3334: Véase m, Jacob 6.
 12j, 3335: Véase m, Jacob 6.
@@ -3662,7 +3664,7 @@ Alma 30.
 16c, 3400: Versículo 2.
 16d, 3401: Helamán 13:4.
 16e, 3402: Alma 13:26.
-16f, 3403: Véase e, Mosíah 3.
+16f, 3403: Véase a, Mosíah 3.
 16g, 3404: Versículo 13.
 
 III NEFI
@@ -3724,7 +3726,7 @@ III NEFI
 3q, 3459: Norte América.
 3r, 3460: Véase c, Alma 28.
 3s, 3461: Véase h.
-3t, 3462: Véase p, Alma 43.
+3t, 3462: Véase 2p, Alma 43.
 4a, 3463: Helamán 2:11-13.
 4b, 3464: Norte América.
 4c, 3465: Sur America.
@@ -3853,8 +3855,8 @@ Mosíah 5.
 9x, 3584: III Nefi 15:2-8.
 9y, 3585: I Nefi 10:17,19,22; 13:37; II Nefi 31:11-14,17-18; 32:2-5;
 33:1-2; Jacob 6:8; 7:12; Alma 13:28; 34:38; 36:24; Helamán 5:45;
-III Nefi 7:21; 11:35-36; 12:1-2; 15:23; 16:4,6; 18:37; 19:9,13-14,
-20-22; 26:17; 28:11,28; 30:2; IV Nefi 1:1,3,48; Mormón 1:14; 7:10;
+III Nefi 7:21; 11:35-36; 12:1-2; 15:23; 16:4,6; 18:37; 19:9,13-14,20-22;
+26:17; 28:11,28; 30:2; IV Nefi 1:1,3,48; Mormón 1:14; 7:10;
 Ether 5:4; 12:14,23,41; Moroni 2; 3:4; 4:3; 5:2; 6:4,9; 7:32,36;
 8:7,9,23,26; 10:4-7,9-19.
 9z, 3586: Helamán 5:45; Ether 12:14.
@@ -3871,7 +3873,7 @@ al sur del Istmo, los tres días de tinieblas en este último lugar
 hubieran comenzado y concluido a las 7:30 de la mañana, siendo el
 principio de las tinieblas, hora de Abundancia, la hora que Jesús
 expiró; III Nefi 8:19-23.
-10g, 3595: Véase i, Helamán 14.
+10g, 3595: Véase t, Helamán 14.
 10h, 3596: I Nefi 12:4-5; 19:10-12; Helamán 14:20-28.
 10i, 3597: Versículo 13; III Nefi 9:13.
 10j, 3598: III Nefi 8:9; 9:4-8.
@@ -3880,7 +3882,7 @@ expiró; III Nefi 8:19-23.
 10m, 3601: Versículo 14; III Nefi 8:16.
 10n, 3602: Véase 2i, III Nefi 8.
 10o, 3603: Véase h.
-10p, 3604: Véase i.
+10p, 3604: Véase l.
 10q, 3605: Véase 2i, III Nefi 8.
 10r, 3606: Véase v, Helamán 14.
 10s, 3607: Véase m.
@@ -4049,11 +4051,11 @@ Mormón 9:29; Moroni 4:5.
 18m, 3766: Véase e, II Nefi 32.
 18n, 3767: Alma 34:21; Véase e, II Nefi 32.
 18o, 3768: Véase m, Mosíah 16.
-18p, 3769: Versículos 22, 23.
-18q, 3770: III Nefi 11:14, 16.
+18p, 3769: Versículos 22-23.
+18q, 3770: III Nefi 11:14,16.
 18r, 3771: Véase c, III Nefi 12.
 18s, 3772: III Nefi 16:3.
-18t, 3773: Versículos 29, 30; III Nefi 20:8; Mormón 9:29.
+18t, 3773: Versículos 29-30; III Nefi 20:8; Mormón 9:29.
 18u, 3774: Véase u, II Nefi 9.
 18v, 3775: I Nefi 22:25.
 18w, 3776: Véase u, Alma 16.
@@ -4201,7 +4203,7 @@ Miquéas 5:8-15; 4:12-13.
 24i, 3917: III Nefi 27:25-26.
 24j, 3918: Doctrinas y Convenios 101:3.
 25a, 3919: Versículo 3; I Nefi 22:15,17-18,23; II Nefi 27:2; 30:10; Jacob 6:3;
-Isaías 24:6, 66:16.
+Isaías 24:6; 66:16.
 25b, 3920: III Nefi 24:16.
 25c, 3921: I Nefi 22:24.
 25d, 3922: Versículo 1.
@@ -4419,7 +4421,7 @@ LIBRO DE MORMÓN
 4g, 4122: Véase 2l, Alma 22.
 4h, 4123: Véase 2l, Alma 22.
 4i, 4124: Véase c.
-4j, 4125: Versículos 15, 21.
+4j, 4125: Versículos 15,21.
 4k, 4126: Véase i.
 4l, 4127: Véase 2l, Alma 22.
 4m, 4128: Véase j.
@@ -4428,9 +4430,9 @@ LIBRO DE MORMÓN
 5a, 4131: Mormón 3:11,16.
 5b, 4132: Versículos 9-15.
 5c, 4133: Véase c, II Nefi 27.
-5d, 4134: Versículos 19-20; I Nefi 13:14, 22:7; II Nefi 1:11-12;
+5d, 4134: Versículos 19-20; I Nefi 13:14; 22:7; II Nefi 1:11-12;
 10:18; 26:19; III Nefi 16:8-9; 20:27-28.
-5e, 4135: Véase a; Mormón 1.
+5e, 4135: Véase a, Mormón 1.
 5f, 4136: Los Lamanitas.
 5g, 4137: Mormón 8:4,13-14; Moroni 10:2.
 5h, 4138: Véase c, II Nefi 27.
@@ -4440,7 +4442,7 @@ LIBRO DE MORMÓN
 5l, 4142: I Nefi 13:20-29,38-41; Mormón 7:8-9.
 5m, 4143: Véase d.
 5n, 4144: Véase d, I Nefi 2.
-5o, 4145: Véase j; Mormón 4.
+5o, 4145: Véase j, Mormón 4.
 5p, 4146: I Nefi 13:12-19; II Nefi 1:11; 10:10-14,18-19; 26:19-20;
 30:3.
 5q, 4147: Véase d.
@@ -4561,9 +4563,9 @@ Helamán 14:16; Ether 3:13; Moroni 8:8.
 9u, 4257: Véase u, II Nefi 9.
 9v, 4258: Véase c; también Marcos 16:17-18.
 9w, 4259: Versículo 27.
-9-x, 4260: Véase u, II Nefi 9.
-9-y, 4261: Véase t, III Nefi 18.
-9-z, 4262: Véase h, II Nefi 31.
+9x, 4260: Véase u, II Nefi 9.
+9y, 4261: Véase t, III Nefi 18.
+9z, 4262: Véase h, II Nefi 31.
 9-2a, 4263: Mormón 8.
 9-2b, 4264: Véase w, Mormón 8.
 9-2c, 4265: Véase a, I Nefi 1.
@@ -4665,7 +4667,7 @@ de Cristo que después fué envuelto en un tabernáculo de carne y huesos.
 4i, 4346: Véase a, Mosiah 3; Mosiah 3:8; 4:2; 7:27; Helamán 16:18.
 4j, 4347: II Nefi 27:14; 28:29-30; 33:11-15.
 4k, 4348: Versículos 13-16; III Nefi 26:6-12.
-4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23, 9:2.
+4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23; 9:2.
 4m, 4350: Véase a, III Nefi 25.
 4n, 4351: Éther 5:4; Moroni 10:4-5.
 4o, 4352: Moroni 7:5-22; 10:6-7.
@@ -4797,7 +4799,7 @@ de Génesis.) Helamán 6:27; Véase i, II Nefi 10,
 12j, 4471: Véase e, Éther 3.
 12k, 4472: Éther 3:26.
 12l, 4473: Éther 3:25-26.
-12m, 4474: Véase f Éther 3.
+12m, 4474: Véase f, Éther 3.
 12n, 4475: Véase c, Enos 1.
 12o, 4476: Versículos 26-28; Véase w, Mormón 8.
 12p, 4477: Torpeza en escribir ó grabar sobre planchas en

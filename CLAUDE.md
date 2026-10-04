@@ -141,7 +141,8 @@ state — earlier entries may have been reversed.
   closer inspection). Found: 1 more silent accent-slip fix (Helamán
   4:9 "Moronihah"→"Moroníhah", didn't match the image); 3 new
   `errors in 1920.txt` entries covering 5 instances — Helamán 4:6
-  "Moronihah" unaccented (shared with 1886), Helamán 8:23 "he aqui, El
+  "Moronihah" unaccented (shared with 1886; REVERSED 2026-09-30 -- it is
+  accented in both, entry removed), Helamán 8:23 "he aqui, El
   es Dios" missing both accents (1920-exclusive), and Helamán 8:27's
   cluster of FOUR "punto por coma" defects in one verse (all
   1920-exclusive, confirmed against 1886) — the last two both on the
@@ -180,16 +181,23 @@ state — earlier entries may have been reversed.
   (Category A/B, batches B1–B7) both completed 2026-09-08–10; full
   detail in `sessions-log.md`. (2) DONE 2026-09-12 — the OCR-diff pilot
   now covers the entire book, pages 1–631 (see above); full detail in
-  `workspace/diff1920ocr-trans.md`. (3) STILL TO DO — the
-  blanket-suppression pptext re-run with `permitted words.txt` set
-  aside, cross-referencing every fresh flag against
-  `errors in 1920.txt` (see the `orthography-check` skill); this is
-  also where the open "empieze"/pptext discrepancy noted above should
-  get resolved. (4) IN PROGRESS (started 2026-09-12) — the manual,
+  `workspace/diff1920ocr-trans.md`. (3) DEFERRED (editor's
+  decision 2026-09-24) — the blanket-suppression pptext re-run with
+  `permitted words.txt` set aside, cross-referencing every fresh flag
+  against `errors in 1920.txt` (see the `orthography-check` skill).
+  NOT to be done until the manual proofread (item 4) is finished and
+  the faithful transcription is finalized as `librodm_transcribed.txt`
+  (the current `librodm.txt`: faithful to the 1920 image, misprints
+  preserved). It is the first step of producing `librodm_cleaned.txt`
+  (the corrected version proposed for Project Gutenberg, published
+  with a table of every difference from the transcribed text; the plan
+  and the draft table are in `workspace/error_table_20260909.md`,
+  alongside `errors in 1920.txt`). It is not current work. The open "empieze"/pptext discrepancy noted above
+  gets resolved then too. (4) IN PROGRESS (started 2026-09-12) — the manual,
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
-  `manual-proofread` skill. As of 2026-09-23: front matter through
-  Alma 49 is done; Alma 50 is next. A
+  `manual-proofread` skill. As of 2026-09-30: front matter through
+  III Nefi 16 is done; III Nefi 17 is next. A
   recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
@@ -222,7 +230,7 @@ state — earlier entries may have been reversed.
   `librodm_foot.txt` / `chapter_map.csv` — re-run it after any of those
   change so the viewer doesn't go stale. Footnote markers are remapped
   from librodm's sequential numbers back to the chapter-local letter
-  (a, b, c, ...) parsed off each `librodm_foot.txt` entry's key, since
+  (a, b, c, ..., then 2a, 2b, ... past z -- keys like "51-2a"; fixed 2026-09-24, previously showed the raw number for those) parsed off each `librodm_foot.txt` entry's key, since
   that's what's actually printed as a superscript in the image. Per-page
   scroll-sync calibration (where the body/footnote divider and the
   page's first line fall in the image) is saved in the browser's

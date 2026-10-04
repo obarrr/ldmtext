@@ -8,7 +8,7 @@ al asiento judicial; sí, y eran [3294]cinco los que fueron, los
 que iban, diciendo entre sí:
 2. Ahora vamos á saber con certeza, si este hombre es profeta
 ó no; y si ha sido mandado por Dios á que nos profetice tantas
-cosas maravillosas. He aquí, que nosotros no creemos que lo sea;
+cosas marvillosas. He aquí, que nosotros no creemos que lo sea;
 sí, no creemos que es profeta; no obstante, si lo que ha dicho
 tocante al Juez Superior es cierto, si él es muerto, entonces
 creeremos que las demás de sus palabras son también verdaderas.
@@ -96,3 +96,8 @@ Block 1 already normalizes verse-citation punctuation.
 page ("...en la mañana siguiente"); continues on page 460 per rule 10
 (no hyphenated word split at the boundary, so no page-459 revision
 needed once page 460 is transcribed).
+[v.2] 2026-10-01 manual-proofread: "maravillosas" → "marvillosas",
+     restored as printed (clean type, Google agrees; 1886 has
+     "maravillosas"). Logged in errors in 1920.txt.
+[v.8] 2026-10-01: "nostros" now has its own errors in 1920.txt entry
+     (1886 has "nosotros").

@@ -42,7 +42,7 @@ hallaban en disposición de subsistir durante siete años, en cuyo
 3q, 3459: Norte América.
 3r, 3460: Véase c, Alma 28.
 3s, 3461: Véase h.
-3t, 3462: Véase p, Alma 43.
+3t, 3462: Véase 2p, Alma 43.
 4a, 3463: Helamán 2:11-13.
 4b, 3464: Norte América.
 4c, 3465: Sur America.
@@ -131,7 +131,7 @@ line range.
 [fn p-t] Chapter 3's continuing lettering (p-t) reads directly from the
 footnote block at the bottom of the chapter (before "CAPÍTULO 4."):
 "p, Sur América. q, Norte América. r, Véase c, Alma 28. s, Véase h.
-t, Véase p, Alma 43." All five letters are printed as raised
+t, Véase 2p, Alma 43." All five letters are printed as raised
 superscripts with the same small serif/tick styling seen throughout
 this edition (not a digit "2" as an initial fast read suggested for
 the "t, Véase p" entry — zoomed confirmation ruled that out). Body
@@ -163,9 +163,13 @@ provision-storing, printed without a book name).
 markers against fresh crops of pages_1920/page_0511.png (fn_zoom, top,
 mid, bot); all match the page as written, including both footnote
 blocks ("p, Sur América. q, Norte América. r, Véase c, Alma 28.
-s, Véase h. t, Véase p, Alma 43." and "a, Helamán 2:11-13. b, Norte
+s, Véase h. t, Véase 2p, Alma 43." and "a, Helamán 2:11-13. b, Norte
 América. c, Sur America. d, III Nefi 3:13,14,22-24. e, Véase m, I Nefi
 18. f, Véase d. g, Versículos 16-18. h, Véase m, I Nefi 18.") and all
 13 body marker positions. None of this page's own letters (p-t, a-h)
 or their cross-reference targets (c, h, p, m, d) are i/l/1, so no
 mandatory 1879 check applies. No errors found; no changes made.
+[v.25, fn r, fn t] 2026-10-02 manual-proofread: v.25 "pais" (shared) and
+     "llegarán" (1886 "llegaran") logged. fn r "Alma 28" is a 1920 misprint for
+     "Alma 48" (1879 "see c, Alma 48"); logged, Block 2 → 2823. fn t corrected
+     "Véase p" → "Véase 2p, Alma 43" (print and 1879 have "2p"); Block 2 → 2719.

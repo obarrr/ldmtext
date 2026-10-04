@@ -134,3 +134,5 @@ body2/body3 crops covering the full page). Worth teaching
 check_line_wrap.py about mid-page chapter boundaries if this
 recurs.
 [2026-07-24, user correction] 13 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.
+[fn 2a] 2026-10-02 manual-proofread: "IV Nefi 23:7-13" (a nonexistent
+     chapter; intended III Nefi 23:7-13) is inherited from 1879; logged.

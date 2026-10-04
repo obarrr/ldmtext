@@ -17,7 +17,7 @@ en todo la voluntad de vuestros corazones; si un hombre viene
 y os habla de esta manera, es seguro que le recibiréis bien, y
 diréis que es un profeta;
 28. Sí, vosotros le exaltaréis, le daréis de vuestros bienes
-le daréis de vuestro oro, y de vuestra plata, y le cubriréis con
+le daréis de vuestro oro, y de vuestro plata, y le cubriréis con
 suntuosos vestidos; y esto porque él os dice palabras de alabanza,
 y porque os dice que todo está bien, así que entonces no encontráis
 ninguna falta en él.
@@ -34,7 +34,7 @@ vuestras riquezas, las que se harán tan [3347]resbaladizas, que no las
 podréis agarrar; y en el día de vuestra pobreza no las podréis
 retener;
 32. Cuando lleguen los días de vuestra pobreza, clamaréis al
-Señor; pero clamaréis en vano; porque ya os tenéis encima
+Señor; pero clamaréis en vano; porque ya os tenéis encíma
 vuestra desolación, y vuestra exterminación es infalible; entonces
 lloraréis, sí, entonces serán vuestros lamentos, dice el
 Señor de los Ejércitos, y entonces será cuando os lamentaréis, y
@@ -90,3 +90,7 @@ placement (k at "cursed" v.30, l at "slippery" v.31, m at "O that"
 v.33) and target content. The 1920 glyph itself was also directly
 confirmed as "l" (continuous unbroken curved stroke, no separated dot)
 via same-page zoom, distinguishing it from the "i" glyphs on page 471.
+[v.28, v.32] 2026-10-02 manual-proofread: "vuestra plata" → "vuestro
+     plata" and "encima" → "encíma", both restored as printed (Google
+     agrees; 1886 has "vuestra"/"encima"); both logged, along with the
+     missing ";" after "bienes" in v.28.

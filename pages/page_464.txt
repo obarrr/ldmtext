@@ -90,3 +90,6 @@ matches 1920 exactly, so the letter "a" is correctly assigned above.
 not in the i/l/1 set — no mandatory check required. This is a
 forward/back cross-reference pair with page 463's own "10b, 3309:
 Helamán 11:4-18." entry.
+[v.4, fn a] 2026-10-02 manual-proofread: "volverían a Ti" (shared with
+     1886 "a tí") and the missing "a," label of footnote a (precedent:
+     2 Nefi 23g, Helamán 3d) are now logged in errors in 1920.txt.

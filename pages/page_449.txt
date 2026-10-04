@@ -63,3 +63,6 @@ sexagésimo-segundo" / "del gobierno de los Jueces..."), hyphen kept,
 matching how every other compound ordinal in the document is set.
 Synced to librodm.txt. No errors in 1920.txt entry — line-break choice
 only.
+[v.1] 2026-09-30 manual-proofread: "se había convertida" is preserved
+     as printed (1886 has "convertido"). It is logged under the new
+     FAMILIA participio concordado con "haber" in errors in 1920.txt.

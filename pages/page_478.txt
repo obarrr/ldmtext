@@ -173,3 +173,5 @@ transcription-mechanics note (hyphen rejoins, space normalization,
 footnote-letter resolution, the mandatory/discretionary 1879 checks) —
 none flagged a suspected 1920-original error needing an `errors in
 1920.txt` or `permitted words.txt` entry.
+[v.8, v.12] 2026-10-02 manual-proofread: v.8 "cuántos" (1886 "cuantos") and
+     v.12 "a pesar" (1886 "á pesar") logged in errors in 1920.txt.

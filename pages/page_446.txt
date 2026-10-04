@@ -7,7 +7,7 @@ desde allí al [3227]país de Zarahemla [3228]en medio de los Lamanitas.
 17. Y vino á suceder que predicaron con gran poder, de tal
 modo que confundieron á muchos de [3229]los disidentes que habían
 dejado el país de los Nefitas; tanto que vinieron y confesaron
-sus pecados y recibieron el [3230]bautismo de arrepentimiento, volviendo
+sus pecados y recibieron el [3230]bautismo de arrepentiniento, volviendo
 inmediatamente al país de los Nefitas, para procurar
 remediar los males que habían causado.
 18. Y acaeció, que Nefi y Lehi predicaron á los Lamanitas
@@ -63,3 +63,7 @@ Corrections
 [v.23] "estuvie-" + "ren" → "estuvieren" — rejoined line-break split.
 [v.23] "como⊃si" — print artifact connector between "como" and "si";
 transcribed as "como si" (standard Spanish form).
+[v.17] 2026-09-30 manual-proofread: "arrepentimiento" → "arrepentiniento",
+     restored as printed. The image has a clean, full-width "n" for the
+     "m", and Google OCR agrees. 1886 has "arrepentimiento". Logged in
+     errors in 1920.txt.

@@ -149,3 +149,4 @@ unilaterally (all transcribed as two words per the current default,
 none needing an `errors in 1920.txt` entry): v.3 "no ser" (printed
 "noser"), v.7 "mi muy" (printed "mimuy"), v.8 "vista al" (a narrow but
 real gap, not a true merge).
+[v.19] 2026-10-02 manual-proofread: "ministrio" logged (1886 "ministerio").

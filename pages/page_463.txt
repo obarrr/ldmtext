@@ -26,7 +26,7 @@ del país y empezó á anunciarles la palabra de Dios relativamente
 13. Pero á pesar del gran milagro que Nefi realizó, [3312]anunciando
 la muerte del Juez Superior, endurecieron sus corazones, y no
 oyeron las palabras del Señor;
-14. Por lo tanto, Nefi les declaró la palabra de Dios, diciendoles:
+14. Por lo tanto, Nefi les declaró la palabra de Dios, dicíendoles:
 Excepto que os arrepintieiereis, dice el Señor, seréis
 [3313]heridos hasta la destrucción.
 15. Y sucedió, que cuando Nefi les hubo anunciado esta
@@ -86,3 +86,13 @@ in the i/l/1 ambiguous set — no mandatory 1879 check required. No
 other footnote on this page has an i/l/1 target letter either.
 [rule 23] "Actos 8:39, 40" (consecutive verse numbers) formatted as
 "Actos 8:39-40" per rule 23.
+[v.14] 2026-10-01 manual-proofread: "diciendoles" → "dicíendoles". The
+     print puts the acute on the "i" ("dicíen-/doles"); a zoom shows an
+     acute stroke, not a dot, and Google reads "dicíen-". This corrects
+     a transcription slip; the misplaced accent is logged under FAMILIA
+     acento agudo espurio (with Mosíah 22:3, Alma 14:14 and III Nefi
+     3:15).
+[v.9] 2026-10-01 manual-proofread: "a esta montaña" is now logged in
+     errors in 1920.txt (1886 has "á"), following the precedent of
+     Alma 44:3 and 52:2. The no-missing-accent convention above has
+     been superseded.

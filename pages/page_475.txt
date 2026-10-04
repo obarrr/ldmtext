@@ -111,3 +111,5 @@ thematic connection. 1886 carries no footnote apparatus on this page,
 so no third source to arbitrate. Likely a dropped "1" in the 1920
 print; preserved as printed per rule 32, added to `errors in
 1920.txt`.
+[fn o] 2026-10-02 manual-proofread: the print repeats the entry "o, Véase
+     q, Alma 12." twice; logged in errors in 1920.txt. Kept once here.

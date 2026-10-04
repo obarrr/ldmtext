@@ -37,7 +37,7 @@ del gobierno de los Jueces sobre el pueblo de Nefi.
 fueron otra vez en contra de estos bandidos, matando á muchos
 de elos; y fueron también visitados con gran destrucción;
 31. Y ellos fueron de nuevo obligados á volverse del desierto
-y de las montañas, á causa del gran aumento
+y de las montañas, á sus propias tierras, á causa del gran aumento
 del número de estos ladrones, quiénes infestaban las montañas
 y el desierto.
 32. Y aconteció, que así concluyó este año. Y los ladrones
@@ -80,3 +80,7 @@ readings exactly, including both the marker's own letter and the
 target letter for footnote i. 1920 fn_zoom re-read fresh also matches
 Block 1 exactly, and body marker placements (before "secretos" and
 "montañas") re-confirmed against the image.
+[v.31] 2026-10-02 manual-proofread: restored the dropped words "á sus
+     propias tierras," ("y de las montañas, á sus propias tierras, á
+     causa del gran aumento"). They are in the image and in Google's
+     OCR; a transcription slip, fixed silently in librodm.txt and here.

@@ -84,3 +84,5 @@ just the marker: a curved diagonal swash stroke with no dot, matching
 the confirmed "f" label glyph in this page's footnote block exactly.
 Resolved as "f", consistent with the footnote sequence c, d, e, f.
 [2026-07-24, user correction] 1 instance of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.
+[v.12] 2026-10-02 manual-proofread: "¡ay esta gran ciudad!" (missing
+     "de"; 1886 has it) is logged in errors in 1920.txt.

@@ -132,7 +132,9 @@ def load_front_matter_pages():
     return roman
 
 
-LETTER_SUFFIX = re.compile(r'^\d+([a-zA-Z]+)$')
+# Chapter number, then the letter; past "z" the letters restart with a
+# round prefix ("51-2a"), printed as the superscript "2a".
+LETTER_SUFFIX = re.compile(r'^\d+(?:-(\d+))?([a-zA-Z]+)$')
 
 
 def load_footnote_entries():
@@ -161,7 +163,7 @@ def load_footnote_entries():
             flush()
             key = m.group(1)
             lm = LETTER_SUFFIX.match(key)
-            current_letter = lm.group(1) if lm else None
+            current_letter = (lm.group(1) or "") + lm.group(2) if lm else None
             current_num = int(m.group(2))
             current_text = [m.group(3)]
         elif line.strip() == "" or _is_caps_title(line):

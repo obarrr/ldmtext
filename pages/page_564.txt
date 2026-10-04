@@ -43,7 +43,7 @@ el viento, ó como barco sacudido por las olas, sin ancla, ni velas,
 ni nada que lo pueda dirigir; sí, lo mismo como él, este pueblo es.
 19. Pero, he aquí, que el Señor ha reservado sus bendiciones,
 
-5e, 4135: Véase a; Mormón 1.
+5e, 4135: Véase a, Mormón 1.
 5f, 4136: Los Lamanitas.
 5g, 4137: Mormón 8:4,13-14; Moroni 10:2.
 5h, 4138: Véase c, II Nefi 27.
@@ -53,7 +53,7 @@ ni nada que lo pueda dirigir; sí, lo mismo como él, este pueblo es.
 5l, 4142: I Nefi 13:20-29,38-41; Mormón 7:8-9.
 5m, 4143: Véase d.
 5n, 4144: Véase d, I Nefi 2.
-5o, 4145: Véase j; Mormón 4.
+5o, 4145: Véase j, Mormón 4.
 
 Corrections:
 Rule-31 space-before-semicolon instances found in the original print and
@@ -165,3 +165,6 @@ phrases with no plausible single-word reading, unlike the "quefueron"-
 style cases that rule 6 asks Session E to flag.
 No line-break hyphens (rule 7) on this page -- every line read from the
 image ends on a complete word.
+[fn 5e, 5o] 2026-09-30 Block 1/2 reconciliation: "Véase a; Mormón 1." and
+     "Véase j; Mormón 4." normalized to a comma per the editor's 2026-09-08 rule
+     (separator punctuation fixed silently); supersedes the "kept as printed" call above.

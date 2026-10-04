@@ -127,3 +127,5 @@ it as "j". Content-fit check also passes: g's target "Véase m, Alma 2"
 fits "ciudad de Gideón" (a place named in Alma), and j's target
 "Versículo 26" is a forward self-reference within this same chapter
 (v.26 appears on page 472).
+[v.17, v.24] 2026-10-02 manual-proofread: v.17 "a causa" logged (1886
+     "á cáusa"). v.24 "Sí, ay" without "¡" is shared with 1886; not logged.
