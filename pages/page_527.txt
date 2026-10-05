@@ -44,16 +44,16 @@ los que crean en sus palabras.
 
 19e, 3787: Véase h, III Nefi 17.
 19f, 3788: III Nefi Capítulos 11-18.
-19g, 3789: Véase v, III Nefi 9.
+19g, 3789: Véase y, III Nefi 9.
 19h, 3790: Véase u, II Nefi 9.
-19i, 3791: Véase v, III Nefi 9.
+19i, 3791: Véase y, III Nefi 9.
 19j, 3792: Helamán 5:23,24,36,43-45; III Nefi 17:24.
 19k, 3793: Helamán 5:45.
 19l, 3794: Véase h, III Nefi 17.
-19m, 3795: Véase c, II Nefi 32.
-19n, 3796: Véase v, III Nefi 9.
+19m, 3795: Véase e, II Nefi 32.
+19n, 3796: Véase y, III Nefi 9.
 19o, 3797: Véase c, III Nefi 12.
-19p, 3798: Véase v, III Nefi 9.
+19p, 3798: Véase y, III Nefi 9.
 
 Corrections:
 Continues chapter 19 from page 526 (page 526 ended at letter d, 3786);
@@ -142,3 +142,14 @@ swallow that label line into `librodm.txt`'s body text right before
 `librodm_foot.txt` was unaffected (footnote entries appended
 correctly regardless). Fixed by removing the label line from both
 `pages/page_527.txt` and the stray line from `librodm.txt`.
+
+CORRECTED (manual-proofread of III Nefi 19, 2026-10-03): footnotes g, i,
+n and p are "Véase y, III Nefi 9." (were "v"), and footnote m is "Véase
+e, II Nefi 32." (was "c"). This is the same v/y small superscript problem
+as page 529's 20c and page 510. BOM 1879 (file 529) reads "g, see y, III.
+Nep. 9.", "i, see y", "n, see y", "p, see y" and "m, see e, II. Nep. 32."
+Content agrees: III Nefi 9y (3585) itself cites "III Nefi 19:9,13-14,
+20-22", which are exactly the verses of g/i/n/p. II Nefi 32e (783) cites
+"III Nefi ... 19:6-10,17-36", which covers v.17 ("orasen", footnote m);
+32c (781) is "I Nefi 12:6". Fixed in librodm_foot.txt and in Block 2
+(3789/3791/3796/3798 -> 3585; 3795 -> 783).

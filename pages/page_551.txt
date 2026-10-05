@@ -46,7 +46,7 @@ más en común.
 1q, 4045: Nueve otros como sucesores.
 1r, 4046: El padre de Nefi fué uno de los doce.
 1s, 4047: Véase f, I Nefi 1:17.
-1t, 4048: Véase v, III Nefi 26.
+1t, 4048: Véase y, III Nefi 26.
 
 Corrections:
 Page continues IV Nefi chapter 1 from page 550 (verse 14 continuation
@@ -209,3 +209,7 @@ Nefi 9." -- an explicit back-reference to IV Nefi 1:1 (the original
 verse 25 ("ya no tuvieron sus bienes ... más en común") is contrasting
 against. A good demonstration of Section 8's content-fit check being
 confirmed after the fact by the target's own back-reference.
+
+CORRECTED (manual-proofread of IV Nefi 1, 2026-10-04): footnote 1t
+"Véase v, III Nefi 26" -> "Véase y" (1879 "see y"; III Nefi 26y/3950
+cites IV Nefi 1:2-3,25-26; Block 2 3947 -> 3950).

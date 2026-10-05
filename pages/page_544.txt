@@ -23,7 +23,7 @@ que nadie puede trabajar.
 CAPÍTULO 28.
 
 1. Y sucedió, que después que Jesús dijo estas palabras, habló
-á sus discípulos, uno á uno, diciéndoles: ¿Qué es lo que deseáis
+á sus discipulos, uno á uno, diciéndoles: ¿Qué es lo que deseáis
 de mí después que me haya ido al Padre?
 2. Y contestaron todos á excepción de tres: Deseamos que
 después que vivamos hasta la edad del hombre, y hayamos
@@ -174,3 +174,7 @@ purely because `[3975]cuarta` happens to open its own output line,
 not because it's actually missing -- the known bucket-split quirk).
 No new narrow-space-vs-merge candidates to flag for the editor from
 this page (none were found in Session A).
+
+CORRECTED (manual-proofread of III Nefi 28, 2026-10-04): v.1 restored
+to the printed "á sus discipulos" (no accent; zoom 5x and Google OCR
+agree; 1886 "discípulos"). Logged as a 1920-only error.

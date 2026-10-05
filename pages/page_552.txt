@@ -15,7 +15,7 @@ sus corazones.
 perseguía á la verdadera Iglesia de Cristo, á causa de su humildad,
 y de su creencia en Jesu Cristo; también la despreciaba á causa
 de los numerosos milagros que se verificaban en medio de ellos;
-30. Y así ejercían poder y autoridad sobre los [4050]discípulos
+30. Y así ejercían poder y autoridad sobre los [4050]discipulos
 de Jesús que habían quedado con ellos; á los que pusieron en
 prisión; pero por el poder de la palabra de Dios, que estaba en
 ellos, rompieron las [4051]prisiones, y salieron de ellas haciendo
@@ -147,3 +147,14 @@ Whole-document mechanical sweeps
 (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
 `check_verse_indent.py`/`check_lines.py`) all clean against both
 master files.
+
+CORRECTED (manual-proofread of IV Nefi 1, 2026-10-04): v.30 restored to
+the printed "discipulos" (no accent; zoom + Google OCR; 1886
+"discípulos"). Logged as 1920-only.
+REVERSED (editor, 2026-10-04): v.30 restored to "discípulos". The mark
+over the second i has parallel slanted flats (a truncated acute), not a
+round dot; benefit of the doubt. Errors-log entry removed.
+RE-REVERSED (editor, 2026-10-04, final): v.30 back to "discipulos".
+Unaccented i-dots on this page are sometimes slightly angled; true
+accents are offset from the stem, and this mark is centered over it.
+Logged as a 1920-only missing accent.

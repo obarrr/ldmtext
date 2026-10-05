@@ -46,7 +46,7 @@ porque él que pide, recibe, y al que llama, se le abre.
 27k, 3963: Alma 11:37; Véase r, Alma 7.
 27l, 3964: Véase h, II Nefi 31.
 27m, 3965: Véase u, II Nefi 9.
-27n, 3966: Véase v, III Nefi 9.
+27n, 3966: Véase y, III Nefi 9.
 27o, 3967: Véase p, Mosíah 23.
 27p, 3968: III Nefi 26:16,18.
 27q, 3969: Versículo 26; Véase c, II Nefi 27.
@@ -192,3 +192,11 @@ this page. Cross-reference target-letter discrepancies to flag for
 the editor (not logged as errors, see full writeup above): 27r
 ("Véase i, II Nefi 29" vs 1879's "see j") and 27n ("Véase v, III Nefi
 9" vs 1879's "see y").
+
+CORRECTED (manual-proofread of III Nefi 27, 2026-10-04): footnote 27n
+target read as "y" (was "v"): "Véase y, III Nefi 9." Same v/y swash
+ambiguity as III Nefi 19g/i/n/p and 20c (page 529). 1879 reads "n, see
+y, III. Nep. 9."; 9y (3585) is the Holy Ghost chain, which fits v.20
+"santificados, recibiendo al Espíritu Santo". Block 2 3582 -> 3585. The
+errors-log entry that called this a possible 1920 letter substitution
+was removed (a transcription misread, not a 1920 error).

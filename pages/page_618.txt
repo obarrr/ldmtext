@@ -48,7 +48,7 @@ malo ante el Señor.
 7a, 4561: Versículos 21-39,40-44,45-48; Éther 12:3-37; Moroni 8:14,26;
 10:20-23.
 7b, 4562: Véase u, Alma 16.
-7c, 4563: III Nefi 5:13; Véase j, III Nefi 5; Véase e, IV Nefi 1.
+7c, 4563: III Nefi 5:13; Véase j, III Nefi 5; Véase q, IV Nefi 1.
 7d, 4564: III Nefi 14:15-20.
 
 Corrections
@@ -511,3 +511,10 @@ Moroni 6:8); librodm.txt — same one char; permitted words.txt
 1920.txt 896→901 (Footnote Moroni 6:i missing label; Moroni 6:7
 "condemaban"; 6:8 "arrepintían"; 6:9 "obrabran"; heading "CAPÍTULO. 7."
 period).
+
+CORRECTED (footnote-letter sweep, 2026-10-04): a cross-reference target
+letter on this page was misread from the small swash superscript (o->g
+for "Véase g, Mosíah 18" = authority to baptize; or e->q for Moroni 7c);
+confirmed against BOM 1879 and the target note's content; Block 1 and
+Block 2 corrected. See workspace/proofread-1920.md, "Footnote-letter
+sweep".

@@ -38,16 +38,16 @@ Señor todos los del pueblo, sobre toda la faz de la tierra, tanto
 
 30a, 4021: Mormón.
 30b, 4022: III Nefi 21:19-21.
-30c, 4023: Véase v, II Nefi 9.
+30c, 4023: Véase y, II Nefi 9.
 30d, 4024: Véase i, II Nefi 10.
-30e, 4025: Véase z, II Nefi 26.
+30e, 4025: Véase x, II Nefi 26.
 30f, 4026: Véase u, II Nefi 9.
-30g, 4027: Véase v, III Nefi 9.
-30h, 4028: Véase z, III Nefi 16.
+30g, 4027: Véase y, III Nefi 9.
+30h, 4028: Véase x, III Nefi 16.
 1a, 4029: III Nefi 2:6-8.
 1b, 4030: Véase c, III Nefi 12.
 1c, 4031: Véase u, II Nefi 9.
-1d, 4032: Véase v, III Nefi 9.
+1d, 4032: Véase y, III Nefi 9.
 
 Corrections:
 Book/chapter transition: III Nefi closes at chapter 30 (v.1-2 only,
@@ -259,3 +259,17 @@ año" was transcribed as "se pasó" (two words) by default, since
 grammar requires it and no one-word reading makes sense — worth a
 glance at pages_1920/page_0571.png (top of the IV Nefi 1 body, first
 line) whenever convenient, but not blocking anything.
+
+CORRECTED (manual-proofread of III Nefi 30, 2026-10-04): four footnote
+target letters misread in the swash superscript font (v/y and x/z).
+1879 (file 551) reads c "see y, II. Nep. 9", e "see x, II. Nep. 26",
+g "see y, III. Nep. 9", h "see x, III. Nep. 16". Content confirms:
+II Nefi 9y (382) is the sexual-sin chain ("fornicaciones"); II Nefi 26x
+(677) and III Nefi 16x (3737) both cite III Nefi 30 itself; 9y (3585)
+is the Holy Ghost chain. Block 1 corrected (c, g: v -> y; e, h:
+z -> x); Block 2 4023 379->382, 4025 679->677, 4027 3582->3585, 4028
+3739->3737.
+
+CORRECTED (manual-proofread of IV Nefi 1, 2026-10-04): footnote 1d
+"Véase v, III Nefi 9" -> "Véase y" (1879 "see y"; Block 2 3582 ->
+3585).

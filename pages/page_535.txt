@@ -39,7 +39,7 @@ el Señor, y como á mujer moza, cuando fuíste repudiada, dice
 tu Dios.
 7. Por un pequeño momento te dejé, más te [3896]recogeré con
 grandes misericordias.
-8. Con un poco de ira escondí mi rostro de ti por un momento.
+8. Con un poco de ira escondí mi rostro de ti por un momento,
 
 21-2p, 3887: Véase b, II Nefi 30.
 21-2q, 3888: Véase p, III Nefi 20:22.
@@ -50,7 +50,7 @@ grandes misericordias.
 22c, 3893: Los Gentiles.
 22d, 3894: Isaías 49:19-20.
 22e, 3895: Israel.
-22f, 3896: Véase c, I Nefi 15.
+22f, 3896: Véase e, I Nefi 15.
 
 Corrections:
 No i/l/1 ambiguity on this page: chapter 21's continuing two-letter
@@ -210,3 +210,22 @@ document) all clean. Page has zero
 hyphens in its final body text, so no dash-check findings. No
 narrow-space-vs-merge defaults were made on this page needing an
 editor pointer.
+
+CORRECTED (manual-proofread of III Nefi 21, 2026-10-04): Block 2 for
+3888 (21-2q, printed "Véase p, III Nefi 20:22.") changed from 3818
+(III Nefi 20p, Miquéas 4:12-13, unrelated) to 3708 (III Nefi 15p,
+"Las Diez Tribus"). 1879 (file 537) reads "2q, see p, III. Nep. 15.",
+and v.26 is "aún entre las tribus perdidas". The 1920 reference looks
+copied from 2n/2o just above it. Block 1 is kept as printed; logged
+as a 1920 error, following the III Nefi 3r precedent.
+
+CORRECTED (manual-proofread of III Nefi 22, 2026-10-04): footnote 22f
+target changed from "Véase c, I Nefi 15" (126) to "Véase e, I Nefi 15"
+(128). The 1920 letter is an unreadable blob (Google's OCR drops it).
+1879 (file 538) reads "f, see e, I. Nep. 15.", and 15e is the
+gathering note, which fits v.7 "te recogeré" (15c is about II Nefi 3 /
+Jacob 5). Fixed in librodm_foot.txt, Block 2 and here.
+
+CORRECTED (editor, 2026-10-04): v.8 "por un momento." -> "por un
+momento," (end of page 557). The editor sees a comma with a truncated
+tail (print defect; 1886 also has a comma). Not logged.

@@ -20,7 +20,7 @@ trajeran [3755]pan y vino.
 2. Y mientras que iban por ello, hizo que se sentara en el
 suelo la multitud.
 3. Y llegando sus discípulos con pan y vino, cogió el pan, lo
-partió, y bendiciéndolo, se lo dio á sus discípulos, mandándoles
+partió, y bendicíendolo, se lo dío á sus discípulos, mandándoles
 que lo comieran.
 4. Y cuando lo hubieron comido, y se hallaron hartos, les
 mandó que dieran á la multitud.
@@ -146,3 +146,13 @@ two editions' footnote content can differ; transcribed exactly as 1920
 prints it ("Moroni 3:4."), flagged here for Session E's awareness in
 case it warrants further comparison, but not altering the 1920 reading,
 which is unambiguous on its own.
+
+REVERSED (manual-proofread of III Nefi 18, 2026-10-03): the Session E
+"dio" correction above was wrong. At 5x zoom, v.3 reads "dío", with a
+clear accent on the "i" of the same weight and shape as the accent on
+the following "á". Google's OCR also reads "dío". Session A's original
+reading was right; restored to "dío" (same misprint as Alma 49:28 and
+2 Nefi 15:2). The errors-log entry was rewritten as "dío (dió)". The
+same line also prints "bendicíendolo" (accent on the "i" of "-ci-", not
+the "e"), which had been silently corrected to "bendiciéndolo". It was
+restored and logged (1886 has "bendiciéndolo" and "dió").

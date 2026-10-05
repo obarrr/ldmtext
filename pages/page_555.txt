@@ -41,7 +41,7 @@ y sortilegios; y el poder del demonio se extendió sobre todo el
 país, hasta que se cumplieron todas las [4079]palabras de Abínadi y
 también de Samuel, el Lamanita.
 
-1k, 4072: Véase o, Alma 2.
+1k, 4072: Véase g, Alma 2.
 1l, 4073: Los tres que no habían de gustar la muerte; Véase d, III Nefi 28.
 1m, 4074: Véase 2a, IV Nefi 1.
 1n, 4075: Véase l.
@@ -175,3 +175,9 @@ contiguous, gap-free, and duplicate-free. Whole-document mechanical
 sweeps (`check_spaced_punctuation.py`/`check_footnote_punctuation.py`/
 `check_verse_indent.py`/`check_lines.py`) all clean against both
 master files. No curly quotes found in either master file.
+
+CORRECTED (manual-proofread of Mormón 1, 2026-10-04): footnote 1k
+"Véase o, Alma 2" -> "Véase g, Alma 2" (the small superscript "g"
+reads like "o", as in III Nefi 17l/m; 1879 "k, see g, Alma 2"; Alma 2g
+(1648) is the Sidón river note, fitting v.10 "aguas del río Sidón").
+Block 2 1656 -> 1648.

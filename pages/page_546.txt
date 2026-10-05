@@ -43,7 +43,7 @@ al Padre en el nombre de Jesús, puedan mostrarse á cualqiuer
 hombre, según consideren conveniente;
 
 28p, 3995: Véase u, II Nefi 9.
-28q, 3996: Véase v, III Nefi 9.
+28q, 3996: Véase y, III Nefi 9.
 28r, 3997: IV Nefi 1:5,30-33; Mormón 8:24.
 28s, 3998: III Nefi 27:30-31.
 28t, 3999: III Nefi 19:4.
@@ -196,3 +196,8 @@ across `librodm.txt`/`librodm_foot.txt`; zero curly quotes in either
 master file. No narrow-space-vs-merge candidates were flagged on this
 page during Session A, so there is nothing to batch into this
 summary for the editor per that standing convention.
+
+CORRECTED (manual-proofread of III Nefi 28, 2026-10-04): footnote 28q
+read as "Véase y, III Nefi 9." (was "v"; v/y swash ambiguity, 1879 "see
+y"; Block 2 3582 -> 3585). The errors-log entry "probably y" was
+removed (transcription misread, not a 1920 error).

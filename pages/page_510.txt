@@ -52,8 +52,8 @@ visto, y de saber que yo soy.
 12b, 3663: III Nefi 13:25;15:11;18:1-17,26-39;19:4-36;20:1-6;22:10;26:17;27:28;
 IV Nefi 1:1,5,13,14,30-33,37,44,46; Mormón 1:13;3:19;8:10,11;9:22,25;
 Éther 12:17; Moroni 2:3.
-12c, 3664: Véase o, Mosíah 18.
-12d, 3665: Véase o, Mosíah 18.
+12c, 3664: Véase g, Mosíah 18.
+12d, 3665: Véase g, Mosíah 18.
 12e, 3666: Véase y, III Nefi 9.
 
 Corrections
@@ -212,3 +212,10 @@ the Session A/E work above and the `errors in 1920.txt` entry). This was an
 integration-stage slip (Session C), not an error in this page file or the
 log entry. Corrected in `librodm.txt` to restore "CAPTULO 12." — no change
 needed here, since this page's own text was already right.
+
+CORRECTED (footnote-letter sweep, 2026-10-04): a cross-reference target
+letter on this page was misread from the small swash superscript (o->g
+for "Véase g, Mosíah 18" = authority to baptize; or e->q for Moroni 7c);
+confirmed against BOM 1879 and the target note's content; Block 1 and
+Block 2 corrected. See workspace/proofread-1920.md, "Footnote-letter
+sweep".

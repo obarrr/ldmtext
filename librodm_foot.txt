@@ -1243,7 +1243,7 @@ LIBRO DE MOSIAH
 1r, 1073: Vease h, II Nefi 5.
 2a, 1074: Mosíah 1:10,18.
 2b, 1075: Vease h, II Nefi 5.
-2c, 1076: Vease c, II Nefi 25.
+2c, 1076: Vease o, II Nefi 25.
 2d, 1077: Vease h, Omni 1.
 2e, 1078: Vease h, II Nefi 5.
 2f, 1079: Vease h, II Nefi 5.
@@ -2100,8 +2100,8 @@ Mormón 6.
 11o, 1872: Versículo 36.
 11p, 1873: Versículo 39; Véase a, Mosiah 3.
 11q, 1874: Mosiah 14:5,8.
-11r, 1875: Véase g y j, II Nefi 9.
-11s, 1876: Véase g y j, II Nefi 9.
+11r, 1875: Véase g, y, j, II Nefi 9.
+11s, 1876: Véase g, y, j, II Nefi 9.
 11t, 1877: Vease d, II Nefi 2.
 11u, 1878: Véase n, II Nefi 9.
 11v, 1879: Véase d, II Nefi 2.
@@ -2840,7 +2840,7 @@ Palabras de Mormón 1:6-11.
 38b, 2593: Véase h, II Nefi 31.
 38c, 2594: Véase 2j, Alma 30.
 38d, 2595: Véase p, Mosíah 23.
-38e, 2596: Véase e, Mosíah 5.
+38e, 2596: Véase c, Mosíah 5.
 38f, 2597: Mosíah 27:11-17.
 38g, 2598: Mosíah 27:19-23; Alma 36:10,16.
 38h, 2599: Véase d, Mosíah 5.
@@ -2893,7 +2893,7 @@ Palabras de Mormón 1:6-11.
 42d, 2646: Versículos 6,8; Alma 12:23,26.
 42e, 2647: Véase w, Alma 12.
 42f, 2648: Véase b, II Nefi 2.
-42g, 2649: Véase e, II Nefi 2.
+42g, 2649: Véase c, II Nefi 2.
 42h, 2650: Véase l, II Nefi 2.
 42i, 2651: Véase d.
 42j, 2652: Versículo 11; Nunca pudiera ser disuelta, ó sus partes
@@ -3913,13 +3913,13 @@ expiró; III Nefi 8:19-23.
 11r, 3632: Véase 2b, Mosíah 7.
 11s, 3633: III Nefi 1:2-3,10; 7:15,20,23-26.
 11t, 3634: III Nefi 17:10.
-11u, 3635: Véase o, Mosíah 18.
+11u, 3635: Véase g, Mosíah 18.
 11v, 3636: Véase u, II Nefi 9.
 11w, 3637: III Nefi 18:39.
-11x, 3638: Véase o, Mosíah 18.
+11x, 3638: Véase g, Mosíah 18.
 11y, 3639: Versículos 28-30; III Nefi 18:34.
 11z, 3640: Mosíah 18:12; III Nefi 19:10-13.
-11-2a, 3641: Véase o, Mosíah 18.
+11-2a, 3641: Véase g, Mosíah 18.
 11-2b, 3642: Véase u, II Nefi 9.
 11-2c, 3643: Véase k, II Nefi 31.
 11-2d, 3644: Véase p, III Nefi 9.
@@ -3944,8 +3944,8 @@ expiró; III Nefi 8:19-23.
 12b, 3663: III Nefi 13:25; 15:11; 18:1-17,26-39; 19:4-36; 20:1-6;
 22:10; 26:17; 27:28; IV Nefi 1:1,5,13-14,30-33,37,44,46; Mormón 1:13;
 3:19; 8:10-11; 9:22,25; Éther 12:17; Moroni 2:3.
-12c, 3664: Véase o, Mosíah 18.
-12d, 3665: Véase o, Mosíah 18.
+12c, 3664: Véase g, Mosíah 18.
+12d, 3665: Véase g, Mosíah 18.
 12e, 3666: Véase y, III Nefi 9.
 12f, 3667: Véase u, II Nefi 9.
 12g, 3668: Véase y, III Nefi 9.
@@ -4071,16 +4071,16 @@ Mormón 9:29; Moroni 4:5.
 19d, 3786: Véase c, III Nefi 12.
 19e, 3787: Véase h, III Nefi 17.
 19f, 3788: III Nefi Capítulos 11-18.
-19g, 3789: Véase v, III Nefi 9.
+19g, 3789: Véase y, III Nefi 9.
 19h, 3790: Véase u, II Nefi 9.
-19i, 3791: Véase v, III Nefi 9.
+19i, 3791: Véase y, III Nefi 9.
 19j, 3792: Helamán 5:23-24,36,43-45; III Nefi 17:24.
 19k, 3793: Helamán 5:45.
 19l, 3794: Véase h, III Nefi 17.
-19m, 3795: Véase c, II Nefi 32.
-19n, 3796: Véase v, III Nefi 9.
+19m, 3795: Véase e, II Nefi 32.
+19n, 3796: Véase y, III Nefi 9.
 19o, 3797: Véase c, III Nefi 12.
-19p, 3798: Véase v, III Nefi 9.
+19p, 3798: Véase y, III Nefi 9.
 19q, 3799: Véase p, III Nefi 9.
 19r, 3800: Véase k, II Nefi 31.
 19s, 3801: Versículo 9.
@@ -4095,7 +4095,7 @@ Mormón 9:29; Moroni 4:5.
 20d, 3810: III Nefi 16:17; Isaías 52; 9,10.
 20e, 3811: Véase j, III Nefi 15.
 20f, 3812: Véase e, I Nefi 15.
-20g, 3813: Véase o, III Nefi 15.
+20g, 3813: Véase o, Nefi 15.
 20h, 3814: Véase l, III Nefi 16.
 20m, 3815: Véase c, II Nefi 27.
 20n, 3816: Los Indios.
@@ -4179,7 +4179,7 @@ Miquéas 5:8-15; 4:12-13.
 22c, 3893: Los Gentiles.
 22d, 3894: Isaías 49:19-20.
 22e, 3895: Israel.
-22f, 3896: Véase c, I Nefi 15.
+22f, 3896: Véase e, I Nefi 15.
 22g, 3897: Helamán 12:8-12; Isaías 40:4-5.
 22h, 3898: Véase j, III Nefi 15.
 22i, 3899: Isaías 49:21.
@@ -4198,7 +4198,7 @@ Miquéas 5:8-15; 4:12-13.
 24d, 3912: Doctrinas y Convenios 84:31-34.
 24e, 3913: Ezequiel 43:1-2,4-7.
 24f, 3914: III Nefi 25:1,3,6; Véase w, III Nefi 20.
-24g, 3915: Doctrinas y Convenios 64:23; 119:120.
+24g, 3915: Doctrinas y Convenios 64:23; 119; 120.
 24h, 3916: Moroni 6:5-6.
 24i, 3917: III Nefi 27:25-26.
 24j, 3918: Doctrinas y Convenios 101:3.
@@ -4254,7 +4254,7 @@ Mormón 9:13-14.
 27k, 3963: Alma 11:37; Véase r, Alma 7.
 27l, 3964: Véase h, II Nefi 31.
 27m, 3965: Véase u, II Nefi 9.
-27n, 3966: Véase v, III Nefi 9.
+27n, 3966: Véase y, III Nefi 9.
 27o, 3967: Véase p, Mosíah 23.
 27p, 3968: III Nefi 26:16,18.
 27q, 3969: Versículo 26; Véase c, II Nefi 27.
@@ -4279,13 +4279,13 @@ IV Nefi 1:14,37; Mormón 8:10-12; Ether 12:17.
 28h, 3987: Véase d.
 28i, 3988: IV Nefi 1:44; Mormón 8:10.
 28j, 3989: Véase k, II Nefi 31.
-28k, 3990: Véase v, III Nefi 9.
+28k, 3990: Véase y, III Nefi 9.
 28l, 3991: Los tres.
 28m, 3992: Véase w, III Nefi 19.
 28n, 3993: Versículo 14.
 28o, 3994: Versículos 36-40.
 28p, 3995: Véase u, II Nefi 9.
-28q, 3996: Véase v, III Nefi 9.
+28q, 3996: Véase y, III Nefi 9.
 28r, 3997: IV Nefi 1:5,30-33; Mormón 8:24.
 28s, 3998: III Nefi 27:30-31.
 28t, 3999: III Nefi 19:4.
@@ -4312,21 +4312,21 @@ IV Nefi 1:14,37; Mormón 8:10-12; Ether 12:17.
 29i, 4020: Véase j, III Nefi 15.
 30a, 4021: Mormón.
 30b, 4022: III Nefi 21:19-21.
-30c, 4023: Véase v, II Nefi 9.
+30c, 4023: Véase y, II Nefi 9.
 30d, 4024: Véase i, II Nefi 10.
-30e, 4025: Véase z, II Nefi 26.
+30e, 4025: Véase x, II Nefi 26.
 30f, 4026: Véase u, II Nefi 9.
-30g, 4027: Véase v, III Nefi 9.
-30h, 4028: Véase z, III Nefi 16.
+30g, 4027: Véase y, III Nefi 9.
+30h, 4028: Véase x, III Nefi 16.
 
 IV NEFI
 
 1a, 4029: III Nefi 2:6-8.
 1b, 4030: Véase c, III Nefi 12.
 1c, 4031: Véase u, II Nefi 9.
-1d, 4032: Véase v, III Nefi 9.
-1e, 4033: Véase v, III Nefi 26.
-1f, 4034: Véase v, III Nefi 9.
+1d, 4032: Véase y, III Nefi 9.
+1e, 4033: Véase y, III Nefi 26.
+1f, 4034: Véase y, III Nefi 9.
 1g, 4035: Véase r, III Nefi 28.
 1h, 4036: Véase h, Omni 1; III Nefi 8:8,24; 9:3.
 1i, 4037: III Nefi 8:9; 9:4,7.
@@ -4340,7 +4340,7 @@ IV NEFI
 1q, 4045: Nueve otros como sucesores.
 1r, 4046: El padre de Nefi fué uno de los doce.
 1s, 4047: Véase f, I Nefi 1:17.
-1t, 4048: Véase v, III Nefi 26.
+1t, 4048: Véase y, III Nefi 26.
 1u, 4049: III Nefi 18:28-29.
 1v, 4050: Los tres; Véase d, III Nefi 28.
 1w, 4051: Versículo 5; III Nefi 28:19.
@@ -4368,7 +4368,7 @@ LIBRO DE MORMÓN
 1h, 4069: III Nefi 5:12,20; Véase b, Mosíah 18.
 1i, 4070: Sur América.
 1j, 4071: Véase h, Omni 1.
-1k, 4072: Véase o, Alma 2.
+1k, 4072: Véase g, Alma 2.
 1l, 4073: Los tres que no habían de gustar la muerte; Véase d, III Nefi 28.
 1m, 4074: Véase 2a, IV Nefi 1.
 1n, 4075: Véase l.
@@ -4387,7 +4387,7 @@ LIBRO DE MORMÓN
 2i, 4088: IV Nefi 1:48-49.
 2j, 4089: Mormón 1:4; Véase I Nefi 1.
 2k, 4090: Mormón 1:4.
-2l, 4091: Véase o, III Nefi 5.
+2l, 4091: Véase g, III Nefi 5.
 2m, 4092: Véase p, Mosíah 23.
 2n, 4093: Véase c, Alma 48.
 2o, 4094: Véase 2c, IV Nefi 1.
@@ -4899,7 +4899,7 @@ EL LIBRO DE MORONI
 7a, 4561: Versículos 21-39,40-44,45-48; Éther 12:3-37; Moroni 8:14,26;
 10:20-23.
 7b, 4562: Véase u, Alma 16.
-7c, 4563: III Nefi 5:13; Véase j, III Nefi 5; Véase e, IV Nefi 1.
+7c, 4563: III Nefi 5:13; Véase j, III Nefi 5; Véase q, IV Nefi 1.
 7d, 4564: III Nefi 14:15-20.
 7e, 4565: Véase o, Éther 4.
 7f, 4566: Versículo 18; III Nefi 14:2; Mormón 8:19.

@@ -41,10 +41,10 @@ crean en mí;
 son los que heredarán el reino de Dios.
 34. Y los que no crean en mí, ni sean bautizados se condenarán.
 
-11x, 3638: Véase o, Mosíah 18.
+11x, 3638: Véase g, Mosíah 18.
 11y, 3639: Versículos 28-30; III Nefi 18:34.
 11z, 3640: Mosíah 18:12; III Nefi 19:10-13.
-11-2a, 3641: Véase o, Mosíah 18.
+11-2a, 3641: Véase g, Mosíah 18.
 11-2b, 3642: Véase u, II Nefi 9.
 11-2c, 3643: Véase k, II Nefi 31.
 11-2d, 3644: Véase p, III Nefi 9.
@@ -154,3 +154,10 @@ showed nothing new in this page's line range (the one nearby hit,
 1" false-positive pattern for a Block 2 entry starting with "1," and
 isn't even this page's own content — it's the very first Block 2
 entry in the Notas section, geographically adjacent by coincidence).
+
+CORRECTED (footnote-letter sweep, 2026-10-04): a cross-reference target
+letter on this page was misread from the small swash superscript (o->g
+for "Véase g, Mosíah 18" = authority to baptize; or e->q for Moroni 7c);
+confirmed against BOM 1879 and the target note's content; Block 1 and
+Block 2 corrected. See workspace/proofread-1920.md, "Footnote-letter
+sweep".

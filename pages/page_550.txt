@@ -8,7 +8,7 @@ libres y participantes del don [4034]celestial.
 paz en el país.
 5. Y grandes y maravillosas obras fueron [4035]ejecutadas por los
 discípulos de Jesús, de tal modo que curaban enfermos, levantaban
-los muertos hacían andar á cojos, daban vista á ciegos, y
+los muertos, hacían andar á cojos, daban vista á ciegos, y
 á sordos; y en el nombre de Jesús hicieron toda clase de milagros
 éntre los hijos de los hombres; y no hicieron milagros más que
 en el nombre de Jesús.
@@ -43,8 +43,8 @@ años habían pasado ya, cuando los discípulos de Jesús, todos
 los que Él había escogido, habían ido ya al [4043]paraíso de Dios
 exceptuando unicamente los [4044]tres que debían permanecer
 
-1e, 4033: Véase v, III Nefi 26.
-1f, 4034: Véase v, III Nefi 9.
+1e, 4033: Véase y, III Nefi 26.
+1f, 4034: Véase y, III Nefi 9.
 1g, 4035: Véase r, III Nefi 28.
 1h, 4036: Véase h, Omni 1; III Nefi 8:8,24;9:3.
 1i, 4037: III Nefi 8:9;9:4,7.
@@ -318,3 +318,13 @@ zero instances in either master file (direct character count, all
 four smart-quote characters). `check_spaced_punctuation.py`/
 `check_footnote_punctuation.py`/`check_verse_indent.py`/
 `check_lines.py` all clean against both whole master files.
+
+CORRECTED (manual-proofread of IV Nefi 1, 2026-10-04): v.5 "los
+muertos hacían" -> "los muertos, hacían" and v.14 "debían permanecer"
+-> "debían permanecer." (an under-inked comma and a damaged, raised
+period are visible at zoom; 1886 has both; worn type given the benefit
+of the doubt; print defects, not logged). Footnotes 1e/1f: "Véase v"
+-> "Véase y" (III Nefi 26y / 9y; 1879 "see y"; Block 2 updated).
+REVISED (editor, 2026-10-04): v.14 period removed again. The dot after
+"permanecer" is too high to be a period (a speck); the missing
+punctuation is logged as a 1920 error (1886 ".", 1879 ";").

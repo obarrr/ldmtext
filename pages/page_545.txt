@@ -53,7 +53,7 @@ IV Nefi 1:14,37; Mormón 8:10-12; Ether 12:17.
 28h, 3987: Véase d.
 28i, 3988: IV Nefi 1:44; Mormón 8:10.
 28j, 3989: Véase k, II Nefi 31.
-28k, 3990: Véase v, III Nefi 9.
+28k, 3990: Véase y, III Nefi 9.
 28l, 3991: Los tres.
 28m, 3992: Véase w, III Nefi 19.
 28n, 3993: Versículo 14.
@@ -184,3 +184,10 @@ italic stroke, not a short-stroke-plus-dot "i" -- same conclusion as
 Session A, reached from the 1879 source again rather than by trusting
 Session A's note. No other i/l/1 letters appear anywhere on this page
 (in either the page's own lettering or any cross-reference target).
+
+CORRECTED (manual-proofread of III Nefi 28, 2026-10-04): footnote 28k
+read as "Véase y, III Nefi 9." (was "v"; v/y swash ambiguity, 1879 "see
+y"; Block 2 3582 -> 3585). Footnote 28c (printed "Véase f, III Nefi
+25:27,"): Block 2 changed from 3924 to 3958 (III Nefi 27f, which cites
+III Nefi 28:6; 1879 "see f, III. Nep. 27"); Block 1 kept as printed;
+logged as a 1920 error.

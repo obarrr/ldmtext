@@ -2,16 +2,16 @@ Página 530
 12. En verdad, en verdad, os digo, que cuando ellas se cumplan,
 entonces será cuándo se cumplirá la [3811]alianza que el Padre ha
 hecho con su pueblo, oh casa de Israel.
-13. Entonces el resto de mi pueblo que ha [3812]sido dispersado
-sobre toda la superficie de la tierra, será [3813]recogido del Este y
+13. Entonces el resto de mi pueblo que ha sido dispersado
+sobre toda la superficie de la tierra, será [3812]recogido del Este y
 del Oeste, del Sud y del Norte, y vendrá al conocimiento del
 Señor, su Dios, Quién les ha redimido.
-14. Y el Padre me ha mandado que [3814]os dé este país para
+14. Y el Padre me ha mandado que [3813]os dé este país para
 vuestra herencia.
-15. Y os digo, que si los Gentiles [3815]no se arrepienten después
-de la [3816]bendición que han de recibir, después de haber dispersado
-á [3817]mi pueblo,
-16. Entonces [3818]vosotros, que sois un resto de la casa de Jacob,
+15. Y os digo, que si los Gentiles [3814]no se arrepienten después
+de la [3815]bendición que han de recibir, después de haber dispersado
+á [3816]mi pueblo,
+16. Entonces [3817]vosotros, que sois un resto de la casa de Jacob,
 os adelantaréis entre ellos; iréis en medio de los Gentiles que
 serán muchos; y estaréis en medio de ellos como un leon en medio
 de los animales del bosque, y como un cachorro de leon entre los
@@ -19,7 +19,7 @@ rebaños de ovejas, á las que despedaza y arrolla con sus pies, si
 pasa por en medio de ellas, sin que nadie las pueda librar.
 17. Tu mano se levantará contra tus adversarios, y todos tus
 enemigos serán tallados.
-18. Y yo recogeré y [3819]reuniré á mi pueblo, como un hombre
+18. Y yo recogeré y [3818]reuniré á mi pueblo, como un hombre
 reune sus gavillas en su era,
 19. Porque yo haré que mi pueblo, con qulén mi padre ha
 hecho alianza, sí, haré tu cuermo de hierro y tus uñas de bronce.
@@ -29,12 +29,12 @@ tierra. Y, he aquí, que yo soy Quién lo hace.
 20. Y sucederá que en aquel día, dice el Padre, que la espada
 de mi justicia estará colgada sobre ellos; y excepto que se
 arrepintieren, caerá sobre ellos, dice el Padre, sí, aún lo mismo que
-sobre [3820]todas las naciones de los Gentiles.
+sobre [3819]todas las naciones de los Gentiles.
 21. Y sucederá que estableceré yo á mi pueblo, oh casa de
 Israel.
-22. He aquí, pues que yo le estableceré [3821]en este mismo país,
-en cumplimiento de la [3822]alianza que he hecho con vuestro padre
-Jacob; y será una nueva Jerusalem. Y los [3823]poderes del cielo
+22. He aquí, pues que yo le estableceré [3820]en este mismo país,
+en cumplimiento de la [3821]alianza que he hecho con vuestro padre
+Jacob; y será una [3822]nueva Jerusalem. Y los [3823]poderes del cielo
 estarán en medio de este pueblo; sí, yo mismo [3824]estaré en medio
 de vosotros.
 23. He aquí, que yo soy Aquel de Quién Moisés habló, diciendo:
@@ -43,7 +43,7 @@ hermanos, semejante á mí, al que oiréis en todas las cosas que
 
 20e, 3811: Véase j, III Nefi 15.
 20f, 3812: Véase e, I Nefi 15.
-20g, 3813: Véase o, III Nefi 15.
+20g, 3813: Véase o, Nefi 15.
 20h, 3814: Véase l, III Nefi 16.
 20m, 3815: Véase c, II Nefi 27.
 20n, 3816: Los Indios.
@@ -163,3 +163,17 @@ paragraph-level checks showed nothing new in this page's range; book-
 level checks and Jeebies both clean. Mandatory sweep of this page's own
 Corrections log found nothing else needing research beyond the four
 items above.
+
+CORRECTED (manual-proofread of III Nefi 20, 2026-10-04): body markers
+f-t were one position off. The small mark after "ha" in v.13 ("ha˙
+sido") is a speck, not a footnote letter; the print's markers are f
+"recogido", g "os dé", h "no se arrepienten", m "bendición", n "mi
+pueblo", o "vosotros", p "reuniré", q "todas las naciones", r "en este
+mismo país", s "alianza" (v.22), t "nueva Jerusalem" (this marker had
+been missed), u "poderes". 1879 (file 532) has exactly these positions
+("f gathered", "g you this land", "h not", ... "t New Jerusalem"), and
+content agrees (t = Éther 13, the New Jerusalem; s = Génesis 49,
+Jacob's blessing; g/r = 15o "Norte y Sur América" on "este país").
+Moved in librodm.txt and here; Block 1/Block 2 entries unchanged.
+Also restored footnote g to the printed "Véase o, Nefi 15." (no "III";
+1879 has "III. Nep. 15"), and logged it.
