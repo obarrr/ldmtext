@@ -32,7 +32,7 @@ pisotearon al pueblo de los Nefitas.
 fuga, escapándose de la muerte aquéllos cuya celeridad era
 mayor que la de los Lamanitas; y los que fueron alcanzados,
 fueron barridos y destruidos.
-8. Y ahora, he aquí, que yo, Mormón, no quiero afligir las almas
+8. Y ahora, he aquí, que yo, Mormón, no quero afligir las almas
 de los hombres, pintándoles las terribles escenas de sangre y
 destrucción tales como presenciaron mis ojos, aunque sepa yo
 no obstante, que [4132]estas cosas han de llegar á ser sabidas, y que
@@ -94,3 +94,7 @@ Session B: independently re-verified all 4 Block 1 entries and all 4
 needed. No i/l/1 letters present on this page (letters run a-d only,
 cross-reference target letter is "c"), so the mandatory 1879
 cross-check does not apply.
+[REVERSED 2026-10-04, manual-proofread of Mormón 5] v.8 "quiero" ->
+"quero". The image (high zoom) and Google's OCR both read "quero",
+with no "i"; 1886 reads "quiero", so this is a 1920-only misprint,
+now logged in errors in 1920.txt and preserved as printed.

@@ -14,7 +14,7 @@ futuro lo dispusiere el Señor en su sabiduría.
 3. Y serán mostradas á [4370]tres por el poder de Dios; los que
 sabrán con certeza que estas cosas son verdaderas.
 4. Y en la boca de [4371]tres testigos se establecerán estas cosas;
-y el testimonio de tres, y esta obra, en la que será demostrado
+y el testimonio de tres, y esta obra, en la que será demonstrado
 el [4372]poder de Dios, como también su palabra testificada [4373]por el
 Padre, el Hijo y el Espíritu Santo; y esto todo aparecerá como
 testimonio contra el mundo en el postrer día.
@@ -160,3 +160,10 @@ printed" items were logged on this page (unlike page 586's "ne"
 misprint), so nothing to promote to `errors in 1920.txt`. No
 narrow-space-vs-merge flags arose to batch for the editor. No
 `permitted words.txt` additions from this page.
+[REVERSED 2026-10-08, manual-proofread of Éther 5] v.4 "demostrado" ->
+"demonstrado": the print and Google's OCR both read "demonstrado";
+1886 "demostrado". Added to the existing errors-in-1920 entry for the
+latinizing "demonstr-" spelling (2 Nefi 27:21, 30:18). Also checked
+v.4 "establecerán": a small detached mark over the second "e" (17 px,
+gap above the letter; the real accent on "á" is a merged 392 px
+component) -- a speck, transcription unchanged.

@@ -1,5 +1,5 @@
 Página 583
-Señor, que era como el dedo del hombre, como de carne y sangre; y el
+que era como el dedo del hombre, como de carne y sangre; y el
 hermano de Jared cayó delante del Señor, herido de temor.
 7. Y el Señor vió que el hermano de Jared había caído al suelo,
 y le dijo: Levántate, ¿porqué has caído?
@@ -169,3 +169,6 @@ don't track page-for-page here. The actual matching content (1920
 target verses (13-17) are on 1879 file_page 585 (book 577) — both
 located by paging forward and confirmed by matching footnote-block
 content, not from the chapter_map page number directly.
+[FIX 2026-10-08, manual-proofread of Éther 3] First line: "Señor," moved
+back to the end of page 582 to match the print; this page begins "que
+era como el dedo del hombre".

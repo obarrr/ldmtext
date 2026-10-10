@@ -23,7 +23,7 @@ nos has dado el mandamiento de que clamemos á Ti, para que
 recibamos según nuestros deseos.
 3. He aquí, oh Señor, que Tú nos has castigado á causa de
 nuestras iniquidades; y nos has echado, y nos has hecho caminar
-por el desierto estos años; no obstante, Tú has sido misericordioso
+por el desierto estos áños; no obstante, Tú has sido misericordioso
 con nosotros. Oh Señor, ten piedad de mí, y retira tu cólera de
 este tu pueblo, y no permitas que atravesemos ese furioso abismo
 en la obscuridad; sino que mira estas [4310]cosas que he fundido de
@@ -40,7 +40,7 @@ al entendimiento de los hombres.
 6. Y sucedió, que cuando el hermano de Jared hubo pronunciado
 estas palabras, he aquí, que el Señor extendió su mano
 y tocó las piedras, una por una, con su dedo; y desapareciendo
-el [4312]velo de los ojos del hermano de Jared, [4313]vió el dedo del
+el [4312]velo de los ojos del hermano de Jared, [4313]vió el dedo del Señor,
 
 3a, 4307: De esto se ve que el arte de fabricar vidrio fué conocido aún en
 esa edad primitiva.
@@ -154,3 +154,9 @@ page_582.txt word-for-word, including "summergidos", plain "años", and
 mandatory Section 8 1879 check does not apply; independently
 reconfirmed this by re-reading each of the seven superscripts (a-g)
 directly. No discrepancies found; no corrections needed from Session B.
+[FIX 2026-10-08, manual-proofread of Éther 3] (1) v.3 "años" -> "áños":
+the print has a well-formed acute accent on the "a" (zoom; same shape
+as other "á" on the page); Google OCR dropped it. Logged under FAMILIA
+acento agudo espurio. (2) v.6 line break: "Señor," ends the last line
+of this page in the print ("vió el dedo del Señor,"); it had been
+carried to page 583. Moved back; no text change.

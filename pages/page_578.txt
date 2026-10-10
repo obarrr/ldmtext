@@ -16,7 +16,8 @@ con algunos otros y sus familias, de la [4279]gran torre, en la época
 en que el Señor [4280]confundió la lengua del pueblo, jurando en su
 cólera que [4281]serían dispersados sobre toda la superficie de la
 tierra; y conforme á la palabra del Señor, los pueblos fueron
-dispersados. 34. Y el hermano de Jared era hombre de gran estatura y
+dispersados.
+34. Y el hermano de Jared era hombre de gran estatura y
 poderoso, y era altamente favorecido del Señor; y Jared le dijo:
 Clama al Señor, que [4282]no nos confunda, de modo que no podamos
 entender nuestras palabras.
@@ -102,3 +103,7 @@ pages_1879/page_0579.png (g,h,i) and pages_1879/page_0580.png
 (j,k,l,m) — both confirm the 1920 reading exactly, including letter j
 (the glyph easily misread as "i"). No discrepancies found; no
 corrections needed from Session B.
+[FIX 2026-10-05, manual-proofread of Éther 1] v.33/34 line break: the
+print starts v.34 on its own line; the transcription had run "34. Y el
+hermano de Jared..." onto the end of v.33 ("dispersados. 34. ...").
+Split to match the image (rule 6). No text change.

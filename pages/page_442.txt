@@ -3,7 +3,7 @@ Página 442
 del país; yéndose al rey de los Lamanitas.
 3. Y vino á suceder que trataron de excitar á los Lamanitas,
 á que hicieran la guerra á los Nefitas; empero, he aquí, que era
-tal el miedo de los Lamanitas, que no quisieron escuchar las
+tal el miedo de los Lamanitas, que no quisieron eschuchar las
 palabras de estos disidentes.
 4. Pero acaeció, que en el año quincuagésimo-sexto del gobierno
 de los Jueces, hubo nuevos disidentes que también fueron á
@@ -92,3 +92,4 @@ see note above. 1879 fn_zoom corroborates ("e, see c, Alma 48.").
      prints "Moroníhah" accented in v.6 too. The 2026-09-12 errors-log
      entry calling v.6 unaccented "in both editions" was wrong and has
      been removed. The page file is synced for both verses.
+[REVERSED 2026-10-09, whole-book silent-correction sweep] "escuchar" -> "eschuchar": the print reads "eschuchar" (image crop; Google OCR agrees). Logged in errors in 1920.txt.

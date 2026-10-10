@@ -14,7 +14,7 @@ autoridad, riquezas, y cosas vanas del mundo.
 16. Y así satán extravió los corazones del pueblo, para que
 cometieran toda clase de iniquidad; de modo que no gozaron
 sino por pocos años de la paz.
-17. Y así al principiar el año [3500]treinta, habiéndose el pueblo
+17. Y así al principiar el año [3500]treinta, habíendose el pueblo
 visto por mucho tiempo dominado por las tentaciones del diablo,
 por doquiera que deseare él llevarles, y hacerles hacer cualquiera
 iniquidad que él deseare; así, á principios de este año se hallaban
@@ -161,3 +161,4 @@ space, in this file and in `librodm.txt`. See rule 31 in
 verse-wrap structure, no action needed. Paragraph-level "full stop
 followed by unexpected sequence" check has no hits anywhere in this page's
 line range. Jeebies clean.
+[REVERSED 2026-10-09, whole-book silent-correction sweep] "habiéndose" -> "habíendose": the print reads "habíendose" (image crop; Google OCR agrees). Logged in errors in 1920.txt.

@@ -19,7 +19,7 @@ Santo, que constituyen á [4174]un solo Dios.
 8. Por tanto, arrepentíos y [4175]bautizáos en el nombre de Jesús,
 y recibid el evangelio de Cristo, que os será dado no solamente
 en [4176]estos anales, sino que también en los anales que vendrán
-[4177]de los Judíos á los Gentiles, los cuáles vendrán á vosotros de los
+[4177]de los Judios á los Gentiles, los cuáles vendrán á vosotros de los
 Gentiles.
 9. Porque, he aquí, que [4178]ésto ha sido escrito, para que creyerais
 en [4179]aquéllo, y si creyeseis en aquéllo, creereis también en ésto; y
@@ -42,11 +42,11 @@ cuantas cosas que me padre me mandó.
 
 7b, 4169: Véase g, II Nefi 3.
 7c, 4170: Véase h, Mosíah 16.
-7d, 4171: Véase i, Mosíah 16.
+7d, 4171: Vease i, Mosíah 16.
 7e, 4172: Véase d, II Nefi 2.
 7f, 4173: Mosíah 11:28.
 7g, 4174: Véase k, II Nefi 31.
-7h, 4175: Véase u, II Nefi 9.
+7h, 4175: Vease u, II Nefi 9.
 7i, 4176: Véase a, Mormón 1.
 7j, 4177: Véase l, Mormón 5.
 7k, 4178: Véase a, Mormón 1.
@@ -179,3 +179,8 @@ Mandatory Corrections-log sweep (this page's own log, checked against
   stress rules and the modern edition, so no log entry either way.
 No narrow-space-vs-merge instances on this page (no tight word-pairs
 encountered) -- nothing to batch for the editor.
+[REVERSED 2026-10-05, manual-proofread of Mormón 7] Three silent
+normalizations restored to the print: v.8 "Judíos" -> "Judios" (no
+accent; Google OCR agrees; 1886 "Judíos"); footnotes 7d and 7h
+"Véase" -> "Vease" (no accent in the print; Google OCR agrees). Both
+logged in errors in 1920.txt (Mormón 7:8; FAMILIA Véase/Vease).

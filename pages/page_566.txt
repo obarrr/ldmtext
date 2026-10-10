@@ -32,7 +32,7 @@ Lamanitas hubieron vuelto á su campamento, desde la cima del
 mi hijo Moroni.
 13. Y, he aquí, que los diez mil de Gidgiddónah habían caído
 y él mismo en medio de ellos.
-14. Y había caído Lámah con sus diez mil; y había caído
+14. Y había caido Lámah con sus diez mil; y había caído
 Gilgal con sus diez mil; y Límhah había caído con sus diez mil;
 y había caído Jonéam con sus diez mil; y habían caído Cameníhah,
 y Moroníhah, y Antiónum, y Shiblom, y Shem, y Josh,
@@ -205,3 +205,9 @@ los", "con sus"/"mujeres y") were ordinary justification spacing
 between unambiguous separate words, never true merge candidates, so
 none needed the `feedback_narrow_space_vs_merge` two-word-default
 treatment or an editor pointer.
+[REVERSED 2026-10-04, manual-proofread of Mormón 6] v.14 first
+"caído" -> "caido" (before "Lámah"). High zoom shows a plain dotted
+"i" with no accent (the second "caído" on the same line is accented);
+Google's OCR also reads "caido". 1886 prints "caido" throughout; 1920
+has "caído" in all 78 other places. Logged in errors in 1920.txt and
+preserved as printed.

@@ -46,13 +46,13 @@ por manos de sus apóstoles.
 
 9d, 4240: Versículos 10,19; I Nefi 10:18-19; Alma 7:20; Moroni 8:18.
 9e, 4241: Véase m, Mosíah 2.
-9f, 4242: II Nefi 2:18-19,21; 9:6-9; Mosiah 3:26; 16:3-5; Alma 12:22,26;
+9f, 4242: II Nefi 2:18-19,21; 9:6-9; Mosíah 3:26; 16:3-5; Alma 12:22,26;
 Helamán 14:16; Ether 3:13; Moroni 8:8.
-9g, 4243: Véase c, Mosiah 15.
-9h, 4244: Véase b, Mosiah 3.
-9i, 4245: Véase i, II Nefi 9.
+9g, 4243: Véase c, Mosíah 15.
+9h, 4244: Véase b, Mosíah 3.
+9i, 4245: Véase j, II Nefi 9.
 9j, 4246: Véase d, II Nefi 2.
-9k, 4247: Véase f, II Nefi 9.
+9k, 4247: Véase g, II Nefi 9.
 9l, 4248: Véase o, II Nefi 9.
 9m, 4249: Véase c.
 9n, 4250: Véase m, Mosíah 2.
@@ -102,3 +102,14 @@ BOM 1879 Pratt page_0576.png fresh (same file used in Session A) and
 re-read its footnote block at high zoom -- reproduces the identical
 findings reported above (entry i's target book/chapter matches, entry
 l matches letter-for-letter). No discrepancies found; no changes made.
+[REVERSED 2026-10-05, manual-proofread of Mormón 9] Five Block 1 fixes,
+all transcription misreads (none a 1920 error):
+- 9i target "i" -> "j": a tall crop shows the curved descender, same
+  shape as the "j," label beside it; 1879 "i, see j, II. Nep. 9";
+  content fits II Nefi 9j (deliverance of all men from death and hell)
+  for v.13 "redención á todos los hombres". Block 2 4245: 366 -> 367.
+- 9k target "f" -> "g": the 1920 swash g (same as the "g," label);
+  1879 "k, see g, II. Nep. 9"; II Nefi 9g (resurrection, first
+  judgment) fits v.13 "eterno sueño". Block 2 4247: 363 -> 364.
+- 9f, 9g, 9h "Mosiah" -> "Mosíah": accented in the print (same glyph as
+  9e "Mosíah 2"); also Block 2 4242.

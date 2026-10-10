@@ -10,7 +10,7 @@ como la que había entre este pueblo.
 13. Y sucedió que los Lamanitas se apoderaron de la [4123]ciudad
 de Desolación, y esto á causa de su número que excedía el número
 de los Nefitas.
-14. Y siguieron después avanzando hacia la [4124]ciudad de Teáncum,
+14. Y sigueron después avanzando hacia la [4124]ciudad de Teáncum,
 de donde arrojaron á los habitantes, haciendo á muchos
 prisioneros, tanto mujeres como niños [4125]los qué ofrecieron como
 sacrificio á sus ídolos.
@@ -154,3 +154,9 @@ m/n discrepancies already resolved and documented above. Re-verified
 the two mandatory i/l/1 body markers (v.14 "i", v.19 "l") from fresh
 crops -- confirmed matching. All 8 `[N]` body markers confirmed
 correctly placed immediately before their annotated word.
+[REVERSED 2026-10-04, manual-proofread of Mormón 4] v.14 "siguieron"
+-> "sigueron". A high-zoom crop of the image shows only one dot (over
+the "i" of "si-") and no letter between "g" and "u"; Google's OCR gap
+was a real missing letter, not an OCR drop. 1886 reads "siguiéron",
+so this is a 1920-only misprint, now logged in errors in 1920.txt and
+preserved as printed.

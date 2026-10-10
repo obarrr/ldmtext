@@ -22,7 +22,7 @@ el nombre del Señor Dios Todopoderoso, del Más Alto Dios!
 33. Y se llenaron de alegría sus corazones, hasta derramar
 muchas lágrimas, á causa de la inmensa bondad de Dios en
 librarles de las manos de sus enemigos; y sabían que era á causa
-de su arrepentimiento y de su humildad por lo que habían sido
+de su arrepentimiento y de su humilidad por lo que habían sido
 librados de una destrucción eterna.
 
 CAPÍTULO 5.
@@ -130,3 +130,4 @@ footnote-anchor check (regex scan, union of both pptext buckets): max
 Curly-quote scan (zero curly quotes in either master file) and a
 hyphen-compound scan (page 492's body text has no hyphens at all,
 post-rejoin) both clean.
+[REVERSED 2026-10-09, whole-book silent-correction sweep] "humildad" -> "humilidad": the print reads "humilidad" (image crop; Google OCR agrees). Logged in errors in 1920.txt.

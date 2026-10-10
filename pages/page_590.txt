@@ -8,7 +8,7 @@ CAPÍTULO 7.
 
 1. Y occurió que Oríhah juzgó con justicia en el país por todos
 sus días, que fueron muchos.
-2. Y engendró hijos é hijas: sí, engendró [4389]treinta y uno,
+2. Y engendró hijos é hijas: sí, engendró [4389]treínta y uno,
 de los cuales veintitrés eran hijos.
 3. Y aconteció, que también engendró á [4390]Kib en su vejez,
 él que le sucedió en el trono. Y Kib engendró á [4391]Corihor.
@@ -21,7 +21,7 @@ lo tanto, Corihor se atrajo á muchos de su pueblo.
 para que se cumpliera lo que había anunciado el hermano de
 Jared, de que serían [4394]reducidos al cautiverio.
 6. Ahora, el país de [4395]Morón, donde residía el rey, estaba
-situado cerca del país que los Nefitas llamaban [4396]Desolación.
+situado cerca del país que los Nefitas llamaban [4396]Desolacion.
 7. Y sucedió, que Kib continuó en cautividad hasta una edad
 muy avanzada, siendo gobernador de su pueblo, su hijo Corihor.
 No obstante, Kib en su vejez engendró á un hijo, llamado Shule,
@@ -49,7 +49,7 @@ numeroso.
 7f, 4394: Éther 6:23.
 7g, 4395: Véase e.
 7h, 4396: Véase 2l, Alma 22.
-7i, 4397: Véase e, I Nefi 16.
+7i, 4397: Véase i, I Nefi 16.
 7j, 4398: Versículo 4.
 
 Corrections
@@ -168,3 +168,10 @@ a fresh independent `process_page.py` pass on pages_1879/page_0592.png
 (not reused from Session A) — reconfirmed the identical reading "g,
 see e. h, see 2l, Alma 22. i, see e, I. Nep. 16. j, ver. 4." with no
 discrepancy. No corrections needed from Session B.
+[REVERSED 2026-10-08, manual-proofread of Éther 7] Three silent
+normalizations restored to the print: v.2 "treinta" -> "treínta"
+(well-formed accent on the "í"; Google missed it; 1886 "tréinta");
+v.6 "Desolación" -> "Desolacion" (no accent; Google agrees; 1886
+"Desolacion"); footnote 7i "Véase e" -> "Véase i" (dotted "i" in the
+print; 1879 "see e"; I Nefi 16 has no note "i"). Block 2 4397 left
+resolved to 140 (I Nefi 16e, the intended note). All three logged.

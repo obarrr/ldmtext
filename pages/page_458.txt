@@ -30,7 +30,7 @@ en lugar de amontonar [3291]tesoros para vosotros en el cielo, dónde
 nada se corrompe, y á donde nada impuro puede penetrar, estáis
 amontonando por vosotros mismos la ira para el día del juicio;
 26. Sí, aun ahora mismo, á causa de vuestros asesinatos, de
-vuestras fornicaciones y vuestros crímenes estáis sazonando
+vuestras fornicaciones y vuestros crimenes estáis sazonando
 realmente para vuestra eterna destrucción; sí, y excepto que
 os arrepintiereis pronto, ella caerá sobre vosotros;
 27. Sí, he aquí, está ahora á vuestras puertas; sí, id al asiento
@@ -135,3 +135,4 @@ errors in 1920.txt.
      ambiguous on this worn page, but Google reads "," and those stay.
 [v.24] RESOLVED (editor, 2026-10-03): "negar," is a comma (an under-inked
      comma on a line with heavy ink loss). The text stands; no log entry.
+[REVERSED 2026-10-09, whole-book silent-correction sweep] "crímenes" -> "crimenes": the print reads "crimenes" (image crop; Google OCR agrees). Logged in errors in 1920.txt.

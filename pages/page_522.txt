@@ -3,7 +3,7 @@ que se hallaban afligidos por cualquier género de enfermedad;
 y Él les [3745]curó á todos, á medida que iban llegando á Él.
 10. Y prosternándose todos á sus pies, tanto los que habían
 sido curados, como los sanos, le adoraron; y tantos como lo
-permitía la multitud, venían á [3746]besar sus pies, de tal modo que
+permitía la multitud, venián á [3746]besar sus pies, de tal modo que
 los bañaban con sus lágrimas.
 11. Y vino á suceder que mandó entonces que le trajeran
 á sus niños [3747]pequeñitos.
@@ -135,3 +135,4 @@ paragraph-level checks, and Jeebies all showed nothing new in this
 page's range. Corrections-log sweep found nothing else needing
 promotion -- the footnote-target correction (l -> g) and the floating
 scan-artifact dot were both already resolved at transcription time.
+[REVERSED 2026-10-09, whole-book silent-correction sweep] "venían" -> "venián": the print reads "venián" (image crop; Google OCR agrees). Logged in errors in 1920.txt.

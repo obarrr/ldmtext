@@ -31,7 +31,7 @@ una [4294]nube, de modo que el hermano de Jared no le podía ver.
 5. Y ocurrió, que le mandó el Señor que salieran para el desierto;
 sí, hacia aquella parte en que aun no había entrado el
 hombre. Y sucedió que iba el Señor [4295]delante de ellos, y les
-habló desde una nube, diciéndoles, por donde habían de caminar.
+habló desde una nube, diciendoles, por donde habían de caminar.
 6. Y aconteció, que viajaron así por el desierto y construyeron
 barcas, con las cuales atravesaron [4296]muchas aguas, yendo siempre
 dirigidos por la mano del Señor.
@@ -145,3 +145,6 @@ on review: Block 1 entry 1p's missing footnote-key letter (see above)
 notas", matching the existing "Footnote Alma 9g faltando la g."
 precedent.
 
+[REVERSED 2026-10-07, manual-proofread of Éther 2] Éther 2:5
+"diciéndoles" -> "diciendoles": no accent in the print (zoom; Google
+OCR "diciendoles"); 1886 "diciéndoles". Logged in errors in 1920.txt.

@@ -197,7 +197,7 @@ state — earlier entries may have been reversed.
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
   `manual-proofread` skill. As of 2026-10-04: front matter through
-  Mormón 1 is done; Mormón 2 is next. A
+  Éther 7 is done; Éther 8 is next. A
   recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for

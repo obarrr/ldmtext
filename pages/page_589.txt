@@ -49,7 +49,7 @@ inmensas riquezas.
 6k, 4385: Versículos 19,21.
 6l, 4386: Éther 7:5.
 6m, 4387: Versículos 14,30; Éther 1:32; 7:1.
-6n, 4388: Versículo 19.
+6n, 4388: Versicúlo 19.
 
 Corrections
 Rule 31 space-before-punctuation cleanup: removed a printed space before
@@ -160,3 +160,7 @@ is re-affirmed here as satisfying the mandatory check — 1879's own
 footnote block content ("i, vers. 21, 22. ... l, Ether 7:5. ...")
 matches this page's Spanish entries target-for-target with no
 discrepancy. No corrections needed from Session B.
+[REVERSED 2026-10-08, manual-proofread of Éther 6] footnote 6n
+"Versículo 19." -> "Versicúlo 19.": the print has the accent on the
+"u" and a plain dotted "i" (zoom; Google OCR "Versicúlo"). Logged in
+errors in 1920.txt; also Block 2 4388.

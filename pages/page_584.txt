@@ -47,13 +47,13 @@ los hombres.
 3v, 4328: Versículo 18.
 3w, 4329: Éther 4:1-2.
 3x, 4330: Versículo 27.
-3y, 4331: Véase n, Mosiah 8.
+3y, 4331: Véase n, Mosíah 8.
 3z, 4332: Véase h, Éther 1.
 3-2a, 4333: Versículo 22.
-3-2b, 4334: Véase n, Mosiah 8.
+3-2b, 4334: Véase n, Mosíah 8.
 3-2c, 4335: Versículo 26; Éther 4:4.
-3-2d, 4336: II Nefi 27:6-23; Mosiah 28:11-20; Alma 37:21-31.
-3-2e, 4337: Véase n, Mosiah 8.
+3-2d, 4336: II Nefi 27:6-23; Mosíah 28:11-20; Alma 37:21-31.
+3-2e, 4337: Véase n, Mosíah 8.
 
 Corrections
 Rule 7 hyphen rejoin: v.25's line-break split "mos-" / "tró" (marker

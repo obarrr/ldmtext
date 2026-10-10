@@ -49,7 +49,7 @@ por motivo de las imperfecciones que contienen, á éstos les será
 Nefi; Mormón 6:6.
 8h, 4190: Versículo 3.
 8i, 4191: Moroni 1; 10:1-2.
-8j, 4192: Véase d, I Nefi 12.
+8j, 4192: Vease d, I Nefi 12.
 8k, 4193: I Nefi 12:20-23.
 8l, 4194: Véase 2c, IV Nefi 1.
 8m, 4195: Los tres que habían de quedar; Véase d, III Nefi 28.
@@ -176,3 +176,6 @@ Narrow-space-vs-merge instances for the editor's own convenience (per
 the standing batching convention, already independently confirmed via
 1886 above): v.7 "que los" (Lamanitas), v.8 "que fué" (la mano) and
 "mano del" (Señor).
+[REVERSED 2026-10-05, manual-proofread of Mormón 8] footnote 8j
+"Véase" -> "Vease" (no accent in the print; Google OCR agrees). Added
+to FAMILIA Véase/Vease in errors in 1920.txt.

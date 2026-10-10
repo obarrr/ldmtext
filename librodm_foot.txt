@@ -4411,7 +4411,7 @@ LIBRO DE MORMÓN
 3o, 4112: Véase d, III Nefi 26.
 3p, 4113: I Nefi 13:20-29,41-42.
 3q, 4114: Véase k, II Nefi 25.
-3r, 4115: II Nefi 26:12; Véase b, Mosiah 3.
+3r, 4115: II Nefi 26:12; Véase b, Mosíah 3.
 4a, 4116: Véase 2l, Alma 22.
 4b, 4117: Véase 2l, Alma 22.
 4c, 4118: Versículos 6-7,14.
@@ -4470,11 +4470,11 @@ en Manchester, condado de Ontario, nueva York, E. U. A.
 7a, 4168: Los Lamanitas ó Indios.
 7b, 4169: Véase g, II Nefi 3.
 7c, 4170: Véase h, Mosíah 16.
-7d, 4171: Véase i, Mosíah 16.
+7d, 4171: Vease i, Mosíah 16.
 7e, 4172: Véase d, II Nefi 2.
 7f, 4173: Mosíah 11:28.
 7g, 4174: Véase k, II Nefi 31.
-7h, 4175: Véase u, II Nefi 9.
+7h, 4175: Vease u, II Nefi 9.
 7i, 4176: Véase a, Mormón 1.
 7j, 4177: Véase l, Mormón 5.
 7k, 4178: Véase a, Mormón 1.
@@ -4492,7 +4492,7 @@ en Manchester, condado de Ontario, nueva York, E. U. A.
 Nefi; Mormón 6:6.
 8h, 4190: Versículo 3.
 8i, 4191: Moroni 1; 10:1-2.
-8j, 4192: Véase d, I Nefi 12.
+8j, 4192: Vease d, I Nefi 12.
 8k, 4193: I Nefi 12:20-23.
 8l, 4194: Véase 2c, IV Nefi 1.
 8m, 4195: Los tres que habían de quedar; Véase d, III Nefi 28.
@@ -4544,13 +4544,13 @@ Mormón 8:28; 9:15-26; Véase r, II Nefi 26.
 9c, 4239: Véase e, III Nefi 29; Véase 2f, Mormón 8.
 9d, 4240: Versículos 10,19; I Nefi 10:18-19; Alma 7:20; Moroni 8:18.
 9e, 4241: Véase m, Mosíah 2.
-9f, 4242: II Nefi 2:18-19,21; 9:6-9; Mosiah 3:26; 16:3-5; Alma 12:22,26;
+9f, 4242: II Nefi 2:18-19,21; 9:6-9; Mosíah 3:26; 16:3-5; Alma 12:22,26;
 Helamán 14:16; Ether 3:13; Moroni 8:8.
-9g, 4243: Véase c, Mosiah 15.
-9h, 4244: Véase b, Mosiah 3.
-9i, 4245: Véase i, II Nefi 9.
+9g, 4243: Véase c, Mosíah 15.
+9h, 4244: Véase b, Mosíah 3.
+9i, 4245: Véase j, II Nefi 9.
 9j, 4246: Véase d, II Nefi 2.
-9k, 4247: Véase f, II Nefi 9.
+9k, 4247: Véase g, II Nefi 9.
 9l, 4248: Véase o, II Nefi 9.
 9m, 4249: Véase c.
 9n, 4250: Véase m, Mosíah 2.
@@ -4649,13 +4649,13 @@ de Cristo que después fué envuelto en un tabernáculo de carne y huesos.
 3v, 4328: Versículo 18.
 3w, 4329: Éther 4:1-2.
 3x, 4330: Versículo 27.
-3y, 4331: Véase n, Mosiah 8.
+3y, 4331: Véase n, Mosíah 8.
 3z, 4332: Véase h, Éther 1.
 3-2a, 4333: Versículo 22.
-3-2b, 4334: Véase n, Mosiah 8.
+3-2b, 4334: Véase n, Mosíah 8.
 3-2c, 4335: Versículo 26; Éther 4:4.
-3-2d, 4336: II Nefi 27:6-23; Mosiah 28:11-20; Alma 37:21-31.
-3-2e, 4337: Véase n, Mosiah 8.
+3-2d, 4336: II Nefi 27:6-23; Mosíah 28:11-20; Alma 37:21-31.
+3-2e, 4337: Véase n, Mosíah 8.
 4a, 4338: Éther 3:1.
 4b, 4339: Éther 3:21.
 4c, 4340: Mosíah 28:11-20.
@@ -4663,8 +4663,8 @@ de Cristo que después fué envuelto en un tabernáculo de carne y huesos.
 4e, 4342: Versículos 5-7,13-16; II Nefi 27:6-11,15,17,21-22; Éther 5:1.
 4f, 4343: Véase n, Mosíah 8.
 4g, 4344: Versículos 7-16; II Nefi 27:7-8,11,21.
-4h, 4345: Ether 3.
-4i, 4346: Véase a, Mosiah 3; Mosiah 3:8; 4:2; 7:27; Helamán 16:18.
+4h, 4345: Éther 3.
+4i, 4346: Véase a, Mosíah 3; Mosíah 3:8; 4:2; 7:27; Helamán 16:18.
 4j, 4347: II Nefi 27:14; 28:29-30; 33:11-15.
 4k, 4348: Versículos 13-16; III Nefi 26:6-12.
 4l, 4349: Helamán 12:8-18; III Nefi 26:3; Mormón 5:23; 9:2.
@@ -4709,7 +4709,7 @@ del Istmo; Éther 7:6; Alma 22:29-34.
 6k, 4385: Versículos 19,21.
 6l, 4386: Éther 7:5.
 6m, 4387: Versículos 14,30; Éther 1:32; 7:1.
-6n, 4388: Versículo 19.
+6n, 4388: Versicúlo 19.
 7a, 4389: Indudablemente era polígamo.
 7b, 4390: Versículos 3-10; Ether 1:31-32.
 7c, 4391: Versículos 3-15.
@@ -4718,7 +4718,7 @@ del Istmo; Éther 7:6; Alma 22:29-34.
 7f, 4394: Éther 6:23.
 7g, 4395: Véase e.
 7h, 4396: Véase 2l, Alma 22.
-7i, 4397: Véase e, I Nefi 16.
+7i, 4397: Véase i, I Nefi 16.
 7j, 4398: Versículo 4.
 7k, 4399: Versículo 17; Véase e.
 7l, 4400: Véase k.
