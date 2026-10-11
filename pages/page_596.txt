@@ -44,7 +44,7 @@ engendró también otros hijos é hijas.
 9h, 4422: Éther 1:41.
 9i, 4423: Éther 10:24.
 9j, 4424: Éther 10:12,23.
-9k, 4425: Versículos 31,34; Éther 10:12,19,20,26.
+9k, 4425: Versículos 31,34; Ether 10:12,19,20,26.
 9l, 4426: Véase m, I Nefi 18.
 9m, 4427: Véase i, Éther 2.
 9n, 4428: Éther 2:8-11.

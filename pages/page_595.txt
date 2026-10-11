@@ -27,7 +27,7 @@ era Nímrah,) se irritó en extremo contra su padre á causa de lo
 que había hecho con su hermano.
 9. Y aconteció, que Nímrah reunió á un pequeño número de
 hombres, y se huyó del país, y vino á habitar [4420]con Omer,
-10. Y sucedió, que Akish engendró otros hijos, los cuales
+10. Y sucedió. que Akish engendró otros hijos, los cuales
 ganaron, los corazones del pueblo, no obstante de haberles ellos
 jurado el hacer toda clase de iniquidades, según su deseo.
 11. Ahora, el pueblo de Akish estaba deseoso de ganancias,
@@ -118,3 +118,10 @@ a fresh, independent crop_page.py pass on pages_1879/page_0597.png
 reading "b, see d, Mor. 1.  c, Mor. 6:1-15.  d, probably on the shore of
 the New England States.  e, see i, II. Nep. 10.  f, ver. 3.  g, see e,
 Ether 7." No corrections needed from Session B.
+v.10 "Y sucedió. que Akish" (manual-proofread, 2026-10-10): the mark
+after "sucedió" is a round, full-weight dot on the baseline with no
+tail (the comma after "ganaron" on the next line has a clear tail).
+Google reads a comma; 1886 has no mark ("Y sucedió que Akish"). The
+editor ruled it is not a comma and is a period that does not belong
+here. Transcription changed from "," to "." to match the print;
+logged in errors in 1920.txt (Éther 9:10 sucedió.).

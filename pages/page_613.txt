@@ -14,7 +14,7 @@ Shiz, se reunía al ejército de Shiz;
 espacio de cuatro años, por toda la superficie del país, con objeto
 de aumentar sus fuerzas tanto como les fuere posible.
 15. Y vino á suceder, que cuando les hubieron reunido todos,
-cada uno al ejército al que pertenecía, con sus mujeres ó hijos,
+cada uno al ejército al que pertenecía, con sus mujeres é hijos,
 les [4526]armaron todos, tanto hombres como mujeres y niños, con
 las armas de guerra, cubriéndose con escudos, corazas y cascos,
 y vestidos al estilo de la guerra; y marcharon á encontrarse unos
@@ -320,3 +320,9 @@ double-check the image at leisure — NOT blocking questions). 1886
 `errors in 1920.txt`: added Éther 15:10 (nota d) "Yendose" and
 Éther 15:15 "mujeres ó hijos", inserted in book/chapter/verse order
 after the Éther 15:2 (nota b) entry.
+v.15 "mujeres é hijos" REVERSED (manual-proofread, 2026-10-10): the
+editor looked at the page at 1x and the letter is clearly an accented
+"é" (heavily inked, which made the earlier 12x read look like "ó").
+Google and 1886 also read "é". Transcription changed to "é hijos" here
+and in librodm.txt; the errors in 1920.txt entry "Éther 15:15 mujeres
+ó hijos" was removed.

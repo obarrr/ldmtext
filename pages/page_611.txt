@@ -43,7 +43,7 @@ por la pérdida de sangre, y así fué llevado como muerto.
 31. Y fué tan grande la pérdida de ambas partes en hombres,
 mujeres y niños, que Shiz dió la orden á su ejército, de que no
 
-14e, 4517: Versiculo 16.
+14e, 4517: Versículo 16.
 14f, 4518: Éther 13:21.
 
 Corrections
@@ -284,3 +284,9 @@ too small/light). Body text changed "suceder. que" → "suceder que"
 in pages/page_611.txt and librodm.txt; the Éther 14:19 entry was
 removed from errors in 1920.txt (no permitted-words entry had been
 made for it). Whole-document sweeps + pptext re-run after the fix.
+Footnote 14e REVERSED (manual-proofread, 2026-10-10): at 6x zoom the
+mark over the "i" of "Versículo" is an acute (slanted wedge), not a
+dot; Google reads "Versículo"; the editor confirmed it is clearly
+accented even at 1x. Changed to "Versículo 16." here, in
+librodm_foot.txt and in librodm.txt (4517); the errors in 1920.txt
+entry "Footnote Éther 14e, 4517 Versiculo" was removed.

@@ -45,7 +45,7 @@ Torre de Babel.
 8b, 4404: Versículo 15; Estos secretos planes originaron en los
 días de Cain; Perla de Gran Precio página 11; (Véase traducción
 inspirada de las Escrituras, por José Smith, Capítulos II y III
-de Génesis.) Helamán 6:27; Véase i, II Nefi 10,
+de Génesis.) Helamán 6:27; Véase i, II Nefi 10.
 
 Corrections
 Rule 31 space-before-punctuation cleanup: removed a printed space before
@@ -121,3 +121,8 @@ transcribed" case. librodm_foot.txt confirms "10i, 398: II Nefi 9:9;
 2 to "Véase 398." (normalized to Block 2's own numeric+period
 convention, since Block 2 is a derived/resolved layer, not a verbatim
 transcription of Block 1's letter-form citation text).
+Footnote 8b final mark (manual-proofread, 2026-10-10): the editor
+judged the mark after "II Nefi 10" to be a period, not a comma, and in
+any case footnote end punctuation is normalized silently. Changed to
+"10." here and in librodm_foot.txt; the errors in 1920.txt entry
+"Footnote Éther 8b, 4404 10," was removed.
