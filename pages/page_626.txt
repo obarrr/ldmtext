@@ -2,7 +2,7 @@ Página 626
 
 CAPÍTULO 9.
 
-Segunda Epistola de Mormón á su Hijo Moroni.
+Segunda Epístola de Mormón á su Hijo Moroni.
 
 1. Mi amado hijo, te escribo otra vez, para que sepas que vivo
 todavía. Pero tengo que escribirte tristes nuevas.
@@ -297,3 +297,12 @@ librodm.txt / librodm_foot.txt / page_626.txt all zero. NO text changes
 to page_626.txt body or
 librodm.txt this session — both Moroni 9 errors preserved exactly as
 printed.
+Subtitle "Epístola" CORRECTED (manual-proofread, 2026-10-10): a side-by-
+side 4x crop of the italic subtitle line shows the mark over the "i" of
+"Epístola" is a slanted wedge rising to the right -- the same shape as
+the acute on the "ó" of "Mormón" in the same line -- while the "i" of
+"Moroni" at the end of the line has a small round dot. The earlier 16x
+read ("plain i-tittle") was wrong; Google dropped the italic accent and
+1886 does lack it, which made the misread look confirmed. Changed to
+"Epístola" here and in librodm.txt. Nothing logged (the print is
+correct).

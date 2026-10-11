@@ -518,3 +518,8 @@ for "Véase g, Mosíah 18" = authority to baptize; or e->q for Moroni 7c);
 confirmed against BOM 1879 and the target note's content; Block 1 and
 Block 2 corrected. See workspace/proofread-1920.md, "Footnote-letter
 sweep".
+Heading "CAPÍTULO. 7." REVERSED (manual-proofread, 2026-10-10): the
+editor judged the mark after "CAPÍTULO" a small stray dot, much smaller
+than the period after the "7" -- a speck, not a period. The errors in
+1920.txt entry was removed; the heading "CAPÍTULO 7." was already
+transcribed without it.

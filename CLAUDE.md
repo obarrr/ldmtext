@@ -193,11 +193,11 @@ state — earlier entries may have been reversed.
   with a table of every difference from the transcribed text; the plan
   and the draft table are in `workspace/error_table_20260909.md`,
   alongside `errors in 1920.txt`). It is not current work. The open "empieze"/pptext discrepancy noted above
-  gets resolved then too. (4) IN PROGRESS (started 2026-09-12) — the manual,
+  gets resolved then too. (4) DONE 2026-10-10 (started 2026-09-12) — the manual,
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
   `manual-proofread` skill. As of 2026-10-10: front matter through
-  Éther is done; Moroni 1 is next. A
+  Moroni 10 is done -- the whole book has been proofread. A
   recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
