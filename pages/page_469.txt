@@ -1,6 +1,6 @@
 Página 469
 21. Y si el Señor dice, á causa de tus iniquidades, tú serás
-arrojado [3332]de mi presencia. Él hará que así suceda.
+arrojado [3332]de mi presencia, Él hará que así suceda.
 22. Desgraciado de aquél, á quién Él diga esto; porque así
 será al que cometa iniquidad, y no podrá salvarse. Poi lo tanto,
 por esta causa ha sido declarado el arrepentimiento, para que
@@ -115,3 +115,8 @@ renders as an ambiguous solid round glyph at 1920 native resolution
 I Nep. 12" entry not yet encountered in the 1920 body text on this
 page (verses 1-5 only reach as far as "vengo á"); its marker likely
 falls later in v.5, to be confirmed when page 470 is transcribed.
+Helamán 12:21 "presencia, Él hará" CORRECTED (2026-10-11, three-way OCR
+check): the print has a comma with a short tail after "presencia" (the
+editor's zoom shows the stem); both OCRs read a comma; 1886 file 483
+also "presencia, Él hará". The transcription's period was changed to a
+comma here and in librodm.txt. Nothing logged (print matches 1886).
