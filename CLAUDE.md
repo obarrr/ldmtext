@@ -197,7 +197,12 @@ state — earlier entries may have been reversed.
   image-based, chapter-by-chapter proofreading pass that the OCR-diff
   pilot's findings motivated; see "Editor's plan" above and the new
   `manual-proofread` skill. As of 2026-10-10: front matter through
-  Moroni 10 is done -- the whole book has been proofread. A
+  Moroni 10 is done -- the whole book has been proofread. (5) IN
+  PROGRESS (since 2026-10-11) -- final verification checks before
+  librodm.txt is frozen as librodm_transcribed.txt: three-way OCR
+  (done), footnote accent sweep (step d left), then four more checks.
+  The plan, tools and next step are in the "Current Progress" section
+  at the top of workspace/proofread-1920.md -- READ IT FIRST. A
   recurring pattern worth noting is the transcription occasionally
   having silently "corrected" a genuine 1920 misprint toward the
   standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for

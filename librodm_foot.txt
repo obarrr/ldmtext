@@ -79,7 +79,7 @@ Alma 9:30,32.
 11a, 67: I Nefi 8:10-12; 11:8-9; 15:21-22.
 11b, 68: Juan 14:16-17.
 11c, 69: Lucas 1:26-27.
-11d, 70: Lucas 1:31-32; I Nefi 11:20-21; Mosiah 15:2-5; 19:13;
+11d, 70: Lucas 1:31-32; I Nefi 11:20-21; Mosíah 15:2-5; 19:13;
 Éther 3:9.
 11e, 71: I Nefi 11:25; Moroni 8:26.
 11f, 72: I Nefi 8:19.
@@ -306,7 +306,7 @@ LIBRO SEGUNDO DE NEFI
 Alma 5:15; 7:12; 11:41-45; 12:12-18,24-25; 22:14; 33:22;
 Capítulo 40; 41:2-5; 42:23; Helamán 14:15-17,25; III Nefi 23:9-13;
 26:5; Mormón 6:21; 7:6; 9:13; Moroni 7:41; 10:34.
-2e, 264: Versículo 10; Mosiah 14:12; 15:8; Moroni 7:27-28.
+2e, 264: Versículo 10; Mosíah 14:12; 15:8; Moroni 7:27-28.
 2f, 265: II Nefi 9:7,21-22,25-26; 10:25; 25:16; Jacob 4:11-12;
 Mosíah 3:11,15-19; 4:2,6-7; 13:28; 18:2; Alma 5:27; 13:5,11; 21:9;
 22:14; 24:13; 30:17; 33:22; 34:8-16,36; 36:17; 42:15,23;
@@ -426,7 +426,7 @@ III Nefi 27:14-15; Mormón 9:13; Moroni 10:34.
 9d, 361: Véase d, II Nefi 2.
 9e, 362: Versículo 9; Alma 42:7,9,11,14,23; Helamán 14:16-17.
 9f, 363: Véase f, II Nefi 2.
-9g, 364: Versículos 8-16; Mosiah 3:26-27; 16:4-11; Alma 11:45;
+9g, 364: Versículos 8-16; Mosíah 3:26-27; 16:4-11; Alma 11:45;
 12:18,26,36; 42:6,9,14; Helamán 14:16-17; Mormón 9:13.
 9h, 365: Véase i, II Nefi 2.
 9i, 366: Versículos 16,26,37,46; I Nefi 14:3-4,7; II Nefi 28:20-23;
@@ -443,7 +443,7 @@ Mosíah 16:2-5,11.
 9q, 374: Véase k, I Nefi 15.
 9r, 375: Alma 7:13; 13:7; 18:32; 26:35; Helamán 9:41;
 III Nefi 27:26; Mormón 8:17; Moroni 7:22.
-9s, 376: Versículos 5,7; Mosiah 3:7,14; 15:10; Alma 7:11-13; 11:40;
+9s, 376: Versículos 5,7; Mosíah 3:7,14; 15:10; Alma 7:11-13; 11:40;
 22:14; 34:8-15; Helamán 14:15-17; III Nefi 9:22; 11:11,14-15;
 27:14-15; Mormón 9:13-14.
 9t, 377: Véase d, II Nefi 2.
@@ -931,7 +931,7 @@ Capítulo 26; Capítulo 27; 29:11-14; 30:1-6.
 1j, 803: II Nefi 9:44; Jacob 2:2.
 2a, 804: Véase j, Jacob 1.
 2b, 805: Versículos 9,28,33,35; Jacob 3:7; Moroni 9:9-10.
-2c, 806: II Nefi 9:44; Jacob 2:15; Mosiah 27:31.
+2c, 806: II Nefi 9:44; Jacob 2:15; Mosíah 27:31.
 2d, 807: Véase c, II Nefi 33.
 2e, 808: Véase h, II Nefi 5.
 2f, 809: I Nefi 2:20; 4:14; 5:22; 12:1,4; 13:12,14,30; 17:13-14;
@@ -1084,7 +1084,7 @@ Israel esparcido.
 6h, 946: Versículos 7-10; Doctrinas y Convenios 41:1.
 6i, 947: Jacob 5:77; III Nefi 26:3.
 6j, 948: Véase k, Jacob 4.
-6k, 949: Jacob 7:19; Mosiah 15:26; Alma 39:5-6; III Nefi 29:7.
+6k, 949: Jacob 7:19; Mosíah 15:26; Alma 39:5-6; III Nefi 29:7.
 6l, 950: Véase k, I Nefi 15.
 6m, 951: Doctrinas y Convenios 19:10-12; Mosíah 3:25,27; 28:3;
 II Nefi 9:16,19,26; 28:23; I Nefi 15:29-30,35; Alma 12:17;
@@ -1176,9 +1176,9 @@ por los reyes.
 1x, 1019: Véase b, I Nefi 6.
 1y, 1020: Véase e, II Nefi 32.
 1z, 1021: Véase b, II Nefi 5.
-1-2a, 1022: Mosiah 9:1-2,4.
+1-2a, 1022: Mosíah 9:1-2,4.
 1-2b, 1023: Véase h.
-1-2c, 1024: Mosiah 9:3-4.
+1-2c, 1024: Mosíah 9:3-4.
 1-2d, 1025: El registro sobre las pequeñas planchas abraza una breve
 historia de cosa de cuatro siglos, y termina con las palabras de Amalekí.
 
@@ -1298,7 +1298,7 @@ Mosíah 15:7; III Nefi 11:14-15.
 22:13; 42:26; Helamán 5:47; III Nefi 1:14; 26:5; Éther 3:14.
 4e, 1118: Véase f, II Nefi 2.
 4f, 1119: Véase a.
-4g, 1120: Véase q, Mosiah 2.
+4g, 1120: Véase q, Mosíah 2.
 4h, 1121: Verículos 19,20,22-25.
 4i, 1122: Véase h.
 4j, 1123: Véase e, II Nefi 32.
@@ -1310,9 +1310,9 @@ Moroni 7:6-8.
 5a, 1127: Véase m, Jacob 6.
 5b, 1128: Mosíah 3:2-3; 4:1.
 5c, 1129: Mosíah 27:24-27; Alma 5:14,49; 22:15; 36:23,26; 38:6.
-5d, 1130: I Nefi 10:6; II Nefi 2:8; 11:6; 25:20; 31:21; Mosiah 4:8;
+5d, 1130: I Nefi 10:6; II Nefi 2:8; 11:6; 25:20; 31:21; Mosíah 4:8;
 13:28; 15:19; 16:4; Alma 21:9; 34:9; 38:9.
-5e, 1131: Verículos 9-14; Mosiah 26:18,24; Alma 5:38; 34:38;
+5e, 1131: Verículos 9-14; Mosíah 26:18,24; Alma 5:38; 34:38;
 III Nefi 27:5-9; Mormón 8:38.
 5f, 1132: Véase e.
 5g, 1133: Mosíah 1:11-12.
@@ -1320,7 +1320,7 @@ III Nefi 27:5-9; Mormón 8:38.
 5i, 1135: Versículo 10.
 5j, 1136: Véase e.
 5k, 1137: Mosíah 3:5,17-18,21.
-5l, 1138: Mosiah 3:8; 4:2; Alma 11:39; III Nefi 9:15; Mormón 9:17;
+5l, 1138: Mosíah 3:8; 4:2; Alma 11:39; III Nefi 9:15; Mormón 9:17;
 Ether 3:14-16; 4:7.
 6a, 1139: Véase e, Mosíah 5.
 6b, 1140: Véase i, Mosíah 1.
@@ -1338,7 +1338,7 @@ Ether 3:14-16; 4:7.
 7c, 1147: Véase b, II Nefi 5.
 7d, 1148: Omni 1:14.
 7e, 1149: Véase d, II Nefi 5.
-7f, 1150: Versículos 7,16,21; Mosiah 9:6,8,14; 10:8; 11:12-13;
+7f, 1150: Versículos 7,16,21; Mosíah 9:6,8,14; 10:8; 11:12-13;
 22:8,11; 24:1; Alma 23:12.
 7g, 1151: Véase b, II Nefi 5. 
 7h, 1152: Mosíah 11:1; 19:16.
@@ -1349,7 +1349,7 @@ Ether 3:14-16; 4:7.
 7m, 1157: Alma 47:22-23.
 7n, 1158: Omni 1:14.
 7o, 1159: Véase h, Omni 1.
-7p, 1160: Mosiah 9:1.
+7p, 1160: Mosíah 9:1.
 7q, 1161: Mosíah 21:25-26.
 7r, 1162: Versículo 22; Mosíah 19:15.
 7s, 1163: Versículo 5.
@@ -1365,16 +1365,16 @@ Ether 3:14-16; 4:7.
 Mosíah 3:5,8; 15:1-5; 16:15; 27:30-31; Alma 11:38-39;
 III Nefi 9:15; 11:14; Mormón 3:21; 9:11-12; Ether 4:7.
 7-2c, 1173: Alma 18:34; Ether 3:15-16.
-7-2d, 1174: Véase b, Mosiah 3.
+7-2d, 1174: Véase b, Mosíah 3.
 7-2e, 1175: Véase 2a.
 7-2f, 1176: Mosíah 12:6.
 8a, 1177: Véase h, Omni 1.
 8b, 1178: Véase p, Mosíah 7.
-8c, 1179: Mosiah 7:3.
+8c, 1179: Mosíah 7:3.
 8d, 1180: Mosíah Capítulos 3,4,5.
 8e, 1181: Véase anales de Zeniff, Mosíah 9.
 8f, 1182: Véase h, Omni 1.
-8g, 1183: Mosiah 21:25.
+8g, 1183: Mosíah 21:25.
 8h, 1184: Véase h, Omni 1.
 8i, 1185: Alma 50:29; Helamán 3:3-4; Mormón 6:4.
 8j, 1186: Mosíah 21:26-27; Helamán 3:3-12; Véase Libo, de Ether.
@@ -1382,7 +1382,7 @@ III Nefi 9:15; 11:14; Mormón 3:21; 9:11-12; Ether 4:7.
 Éther 1:1-5; 15:33.
 8l, 1188: Éther 15:15,24.
 8m, 1189: Ether 10:23.
-8n, 1190: Verículos 14-19; Omni 1:20-22; Mosiah 21:27-28; 28:11-19;
+8n, 1190: Verículos 14-19; Omni 1:20-22; Mosíah 21:27-28; 28:11-19;
 Alma 10:2; 37:21-26; Éther 3:23,28; 4:5;
 Doctrinas y Convenios 17:1.
 8o, 1191: Mosíah 21:28; 28:17.
@@ -1417,12 +1417,12 @@ Doctrinas y Convenios 17:1.
 10k, 1220: II Nefi 5:12.
 10l, 1221: Véase n, Jacob 7.
 10m, 1222: Véase k, Mosíah 9.
-10n, 1223: Mosiah 9:9,14.
+10n, 1223: Mosíah 9:9,14.
 11a, 1224: Véase n, Jacob 2.
 11b, 1225: Véase i, II Nefi 28.
 11c, 1226: Desconocido; Versículo 8.
 11d, 1227: Véase n, Jacob 2.
-11e, 1228: Véase c, Mosiah 6.
+11e, 1228: Véase c, Mosíah 6.
 11f, 1229: Versículos 7,11,14; Mosíah 12:17,25; 13:1; 17:1,6,12-18;
 19:21,23; 20:3,18,23; 21:20,23; 23:9,12,31-35,39; 24:1-6,8-11;
 Alma 21:2-4; 23:14; 24:1,28-30; 25:7-12; Alma 43:13-14.
@@ -1431,11 +1431,11 @@ Alma 21:2-4; 23:14; 24:1,28-30; 25:7-12; Alma 43:13-14.
 11i, 1232: Desconocido; Versículo 3.
 11j, 1233: Véase h, II Nefi 5.
 11k, 1234: Véase f.
-11l, 1235: Mosiah 19:5-6.
+11l, 1235: Mosíah 19:5-6.
 11m, 1236: Véase h, II Nefi 5.
 11n, 1237: Véase f, Mosíah 7.
 11o, 1238: Véase d, Mosíah 10.
-11p, 1239: Mosiah 7:5.
+11p, 1239: Mosíah 7:5.
 11q, 1240: Omni 1:12-13.
 11r, 1241: Véase n, Jacob 2.
 11s, 1242: Véase f.
@@ -1476,29 +1476,29 @@ Helamán 13:5-6; III Nefi 27:32; Mormón 6.
 13l, 1276: Véase b, Mosíah 3.
 13m, 1277: Véase d, II Nefi 2.
 15a, 1278: Véase 2b, Mosíah 7.
-15b, 1279: Véase b, Mosiah 3.
+15b, 1279: Véase b, Mosíah 3.
 15c, 1280: I Nefi 11:13-21; Mosíah 3:8-9; Alma 7:10; 19:13;
 III Nefi 1:14; Mormón 9:12.
-15d, 1281: Véase b, Mosiah 3.
+15d, 1281: Véase b, Mosíah 3.
 15e, 1282: Véase k, II Nefi 31.
 15f, 1283: Véase a, Mosíah 3.
 15g, 1284: Versículo 2.
 15h, 1285: Véase k, II Nefi 31.
 15i, 1286: Véase s, II Nefi 9.
-15j, 1287: Véase c, Mosiah 3.
+15j, 1287: Véase c, Mosíah 3.
 15k, 1288: Mosíah 14:7; Isaías 53:7.
-15l, 1289: Véase g, Mosiah 3.
+15l, 1289: Véase g, Mosíah 3.
 15m, 1290: Versículos 2,5.
 15n, 1291: Véase g, y j, II Nefi 9.
 15o, 1292: Véase e, II Nefi 2.
 15p, 1293: Véase g, y j, II Nefi 9.
-15q, 1294: Mosiah 14:5-8,11-12.
+15q, 1294: Mosíah 14:5-8,11-12.
 15r, 1295: Mosíah 14:8.
 15s, 1296: Mosíah 14:10.
 15t, 1297: Versículos 11-13.
 15u, 1298: Mosíah 14:12.
 15v, 1299: Mosíah 12:21-24; Isaías 52:7-10.
-15w, 1300: Véase d, Mosiah 4.
+15w, 1300: Véase d, Mosíah 4.
 15x, 1301: Véase e, y g, II Nefi 9.
 15y, 1302: Véase g, y j, II Nefi 9.
 15z, 1303: Véase d, II Nefi 2.
@@ -1516,7 +1516,7 @@ III Nefi 1:14; Mormón 9:12.
 16e, 1315: Véase e, y g, II Nefi 9.
 16f, 1316: Véase i, II Nefi 9.
 16g, 1317: Véase g, y j, Mosíah 15.
-16h, 1318: Mosiah 15:8,20; Alma 22:14; 27:28.
+16h, 1318: Mosíah 15:8,20; Alma 22:14; 27:28.
 16i, 1319: Versículo 8; Alma 22:14; 24:23; Mormón 7:5.
 16j, 1320: Véase d, II Nefi 11.
 16k, 1321: Versículo 7.
@@ -1528,10 +1528,10 @@ III Nefi 1:14; Mormón 9:12.
 16p, 1326: Véase o, II Nefi 25.
 16q, 1327: Véase a, Mosiah 3.
 17a, 1328: Véase f, Mosiah 11.
-17b, 1329: Véase f, Mosiah 11.
+17b, 1329: Véase f, Mosíah 11.
 17c, 1330: Mosíah 7:27; 13:34.
-17d, 1331: Véase f, Mosiah 11.
-17e, 1332: Versículos 18-20; Mosiah 7:28.
+17d, 1331: Véase f, Mosíah 11.
+17e, 1332: Versículos 18-20; Mosíah 7:28.
 17f, 1333: Mosíah 13:10; Alma 25:7-12.
 17g, 1334: Alma 25:8-9.
 17h, 1335: Véase e.
@@ -1580,12 +1580,12 @@ III Nefi 1:14; Mormón 9:12.
 19t, 1378: Versículos 14-15,19,22.
 19u, 1379: Versículos 20,23.
 19v, 1380: Véase k, Mosíah 9.
-19w, 1381: Mosiah 21:5; 22:6-10.
+19w, 1381: Mosíah 21:5; 22:6-10.
 19x, 1382: Véase k, Mosíah 9.
 20a, 1383: Véase d, Mosíah 10.
 20b, 1384: Véase f, Mosíah 11.
 20c, 1385: Véase b, II Nefi 5.
-20d, 1386: Mosiah 19:21.
+20d, 1386: Mosíah 19:21.
 20e, 1387: Versículos 6-7,15,23; Mosíah 23:30-35.
 20f, 1388: Mosíah 11:12.
 20g, 1389: Mosíah 19:25-26.
@@ -1600,17 +1600,17 @@ III Nefi 1:14; Mormón 9:12.
 21b, 1398: Versículo 3; Mosíah 12:2.
 21c, 1399: Versículo 13; Mosíah 12:5.
 21d, 1400: Versículo 13; Mosíah 12:5.
-21e, 1401: Mosiah 12:2-7; 20:21.
+21e, 1401: Mosíah 12:2-7; 20:21.
 21f, 1402: Véase w, Mosíah 19.
 21g, 1403: Mosíah 12:2-8.
 21h, 1404: Mosíah 11:24-25.
 21i, 1405: Versículos 10-11.
 21j, 1406: Véase j, Jacob 2.
-21k, 1407: Mosiah 7:7,10.
+21k, 1407: Mosíah 7:7,10.
 21l, 1408: Véase f, Mosíah 11.
-21m, 1409: Mosiah 20:5.
-21n, 1410: Versículo 23; Mosiah 7:7-10.
-21o, 1411: Mosiah 7:6-13.
+21m, 1409: Mosíah 20:5.
+21n, 1410: Versículo 23; Mosíah 7:7-10.
+21o, 1411: Mosíah 7:6-13.
 21p, 1412: Véase h, Omni 1.
 21q, 1413: Mosíah 7:14.
 21r, 1414: Mosíah 8:7.
@@ -1621,13 +1621,13 @@ III Nefi 1:14; Mormón 9:12.
 21w, 1419: Véase k, Mosíah 8.
 21x, 1420: Véase n, Mosíah 8.
 21y, 1421: Vease f, Mosíah 11.
-21z, 1422: Mosiah 17:12-20.
-21-2a, 1423: Mosiah 18:34-35.
+21z, 1422: Mosíah 17:12-20.
+21-2a, 1423: Mosíah 18:34-35.
 21-2b, 1424: Mosíah 18:13,17; III Nefi 11:25.
 21-2c, 1425: Versículo 35.
 21-2d, 1426: Véase u, II Nefi 9.
-21-2e, 1427: Mosiah 25:17-18.
-21-2f, 1428: Mosiah 7:2-3.
+21-2e, 1427: Mosíah 25:17-18.
+21-2f, 1428: Mosíah 7:2-3.
 21-2g, 1429: Mosíah 21:13.
 22a, 1430: Mosíah 20:17.
 22b, 1431: Mosíah 20:17-22.
@@ -1658,7 +1658,7 @@ Véase j, Jacob 2.
 23i, 1455: Mosíah 11:2-15.
 23j, 1456: Versículos 1-3; Mosíah 18:34-35.
 23k, 1457: Versículos 6-9; Mosíah 29:5-36.
-23l, 1458: Mosíah 18:18-29.
+23l, 1458: Nosíah 18:18-29.
 23m, 1459: Mosíah 18:21; III Nefi 14:12.
 23n, 1460: Mosíah 18:18; Véase c, Mosíah 6.
 23o, 1461: Versículos 20,25-26,29,35,38-39; 27:16; Alma 24:1.
@@ -1679,8 +1679,8 @@ Alma 21:2-4; 23:14; 24:1,28-30; 25:4-12; 43:13-14.
 24a, 1474: Versículos 4-6.
 24b, 1475: Véase d, Mosíah 10.
 24c, 1476: Véase f, Mosíah 7.
-24d, 1477: Véase u, Mosiah 23.
-24e, 1478: Mosiah 9:10-11; 10:6.
+24d, 1477: Véase u, Mosíah 23.
+24e, 1478: Mosíah 9:10-11; 10:6.
 24f, 1479: Versículo 1.
 24g, 1480: Como 470 años habían transcurridos desde que los Nefitas
 y los Lamanitas se separaron, entretanto el lenguaje de los
@@ -1707,8 +1707,8 @@ ciudad de Nefi á Zarahemla era como 22 jornadas.
 25b, 1497: Versículo 13.
 25c, 1498: Véase el encabezamento de Mosíah 9.
 25d, 1499: Mosíah 9:3-4.
-25e, 1500: Mosiah 22:13.
-25f, 1501: Mosiah 9:3-4.
+25e, 1500: Mosíah 22:13.
+25f, 1501: Mosíah 9:3-4.
 25g, 1502: Mosíah 24:25.
 25h, 1503: Mosíah 22:11-13.
 25i, 1504: Mlsíah 24:16-25.
@@ -1716,11 +1716,11 @@ ciudad de Nefi á Zarahemla era como 22 jornadas.
 25k, 1506: Mosíah 20:5; 23:33.
 25l, 1507: Omni 1:19.
 25m, 1508: Versículos 5-7.
-25n, 1509: Mosiah 22:11-13; 24:16-25.
+25n, 1509: Mosíah 22:11-13; 24:16-25.
 25o, 1510: Véase u, II Nefi 9; Mosíah 21:32-35.
 25p, 1511: Mosíah 18:8-17.
-25q, 1512: Véase c, Mosiah 6.
-25r, 1513: Véase e, Mosiah 5.
+25q, 1512: Véase c, Mosíah 6.
+25r, 1513: Véase e, Mosíah 5.
 26a, 1514: Mosíah capítulos 2-5.
 26b, 1515: Véase d, II Nefi 2.
 26c, 1516: Véase u, II Nefi 9.
@@ -1767,7 +1767,7 @@ Helamán 3:25.
 27p, 1555: Véase g.
 27q, 1556: Véase h.
 27r, 1557: Versículo 22.
-27s, 1558: Véase c, Mosiah 6.
+27s, 1558: Véase c, Mosíah 6.
 27t, 1559: Versículo 23; Alma 5:46; 6:6; 8:26; 10:7; 17:3,9; 28:6;
 30:2; Helamán 3:35; III Nefi 13:16-18; 27:1; IV Nefi 1:12;
 Moroni 6:5.
@@ -1775,10 +1775,10 @@ Moroni 6:5.
 27v, 1561: Versículos 19:23.
 27w, 1562: Versículo 22; Véase t.
 27x, 1563: Véase c, Mosiah 5.
-27y, 1564: Véase c, Mosiah 5.
+27y, 1564: Véase c, Mosíah 5.
 27z, 1565: Véase k, I Nefi 15.
 27-2a, 1566: Véase m, Jacob 6.
-27-2b, 1567: Mosiah 16:1-2; Doctrinas y Convenios 88:104.
+27-2b, 1567: Mosíah 16:1-2; Doctrinas y Convenios 88:104.
 27-2c, 1568: Véase m, Jacob 6.
 27-2d, 1569: Véase c, Jacob 2.
 27-2e, 1570: Versículo 10.
@@ -1797,7 +1797,7 @@ Moroni 6:5.
 28j, 1583: Véase f, I Nefi 1.
 28k, 1584: Véase k, Mosíah 8.
 28l, 1585: Véase j, Mosíah 8.
-28m, 1586: Véase n, Mosiah 8.
+28m, 1586: Véase n, Mosíah 8.
 28n, 1587: Mosíah 8:13-18.
 28o, 1588: Véase j, Mosíah 8.
 28p, 1589: La Torre de Babel; Omni 1:20-22; Ether 1:1-5.
@@ -1920,15 +1920,15 @@ Alma 3:3; 4:4; 6:7; 8:3; 16:6-7; 43:22,27,32,35,39-41,50-53;
 4q, 1695: Véase g, y j, II Nefi 9.
 4r, 1696: Versículos 6-12.
 4s, 1697: Versículo 7.
-4t, 1698: Véase e, Mosiah 29.
+4t, 1698: Véase e, Mosíah 29.
 4u, 1699: Alma 1:1,14,18.
-4v, 1700: Véase g, Mosiah 26.
+4v, 1700: Véase g, Mosíah 26.
 4w, 1701: Versículos 17-18.
 4x, 1702: Véase g, Mosíah 26.
 5a, 1703: Véase h, Omni 1.
 5b, 1704: Véase g, Mosíah 26.
-5c, 1705: Véase g, Mosiah 18.
-5d, 1706: Véase b, Mosiah 18.
+5c, 1705: Véase g, Mosíah 18.
+5d, 1706: Véase b, Mosíah 18.
 5e, 1707: Véase u, II Nefi 9.
 5f, 1708: Mosíah 23:1-3.
 5g, 1709: Mosíah 23:37-39; 24:8-15.
@@ -1946,7 +1946,7 @@ Alma 3:3; 4:4; 6:7; 8:3; 16:6-7; 43:22,27,32,35,39-41,50-53;
 5s, 1721: Mosíah 18:1-31.
 5t, 1722: Véase h, II Nefi 31.
 5u, 1723: Véase c, Mosíah 5.
-5v, 1724: Véase l, Mosiah 5.
+5v, 1724: Véase l, Mosíah 5.
 5w, 1725: Véase d, II Nefi 2; También j, y m, II Nefi 9.
 5x, 1726: Véase n, II Nefi 9.
 5y, 1727: Véase q, Mosíah 2.
@@ -1969,7 +1969,7 @@ III Nefi 16-24.
 5-2o, 1743: Véase t, Mosíah 27.
 5-2p, 1744: Véase f, II Nefi 2.
 5-2q, 1745: Véase g, Mosíah 26.
-5-2r, 1746: Véase c, Mosiah 5.
+5-2r, 1746: Véase c, Mosíah 5.
 5-2s, 1747: Versículos 35,56; Jacob 6:7; III Nefi 27:11-12.
 5-2t, 1748: II Nefi 28:11-14; Mormón 8:36-39.
 5-2u, 1749: Véase j, Jacob 2.
@@ -1989,18 +1989,18 @@ III Nefi 16-24.
 6h, 1763: Alma 1:9,15.
 6i, 1764: Alma 1:15.
 6j, 1765: Véase m, Alma 2.
-6k, 1766: Véase g, Mosiah 26.
+6k, 1766: Véase g, Mosíah 26.
 7a, 1767: Mosíah 29:42.
 7b, 1768: Alma 4:16-18.
 7c, 1769: Véase h, Omni 1.
 7d, 1770: Véase 2t, Alma 5.
 7e, 1771: Mosíah 3:8.
 7f, 1772: I Nefi 11:13-21; Mosíah 3:8; Alma 7:10.
-7g, 1773: Mosiah 14:3-5.
+7g, 1773: Mosíah 14:3-5.
 7h, 1774: Véase g, y j, II Nefi 9.
 7i, 1775: Véase r, II Nefi 9.
 7j, 1776: Mosíah 14:5,8,12.
-7k, 1777: Véase c, Mosiah 5.
+7k, 1777: Véase c, Mosíah 5.
 7l, 1778: Véase u, II Nefi 9.
 7m, 1779: Véase f, II Nefi 2.
 7n, 1780: Véase u, II Nefi 9.
@@ -2032,7 +2032,7 @@ III Nefi 16-24.
 8r, 1805: Véase i.
 8s, 1806: Alma 10:7-9.
 8t, 1807: Versículos 22,26; Alma 10:7,11.
-8u, 1808: Véase g, Mosiah 26.
+8u, 1808: Véase g, Mosíah 26.
 8v, 1809: Versículo 13.
 8w, 1810: Versículo 16.
 8x, 1811: Versículo 20; Vease t.
@@ -2098,8 +2098,8 @@ Mormón 6.
 11m, 1870: Alma 10:10.
 11n, 1871: Versículos 37-38; Helamán 5:10-11.
 11o, 1872: Versículo 36.
-11p, 1873: Versículo 39; Véase a, Mosiah 3.
-11q, 1874: Mosiah 14:5,8.
+11p, 1873: Versículo 39; Véase a, Mosíah 3.
+11q, 1874: Mosíah 14:5,8.
 11r, 1875: Véase g, y, j, II Nefi 9.
 11s, 1876: Véase g, y, j, II Nefi 9.
 11t, 1877: Vease d, II Nefi 2.
@@ -2142,14 +2142,14 @@ También Véase k, I Nefi 15; Jacob 3:11.
 12-2e, 1913: Doctrinas y Convenios II Lectura 23,24; Perla de Gran
 Precio, Moisés 5:6; 7:25-27.
 12-2f, 1914: Perla de Gran Precio, Moisés 5:4-5; 6:3,46,53.
-12-2g, 1915: Véase d, Mosiah 4.
+12-2g, 1915: Véase d, Mosíah 4.
 12-2h, 1916: La ley de fruto prohibido.
 12-2i, 1917: II Nefi 2:16.
 12-2j, 1918: Perla de Gran Precio, Moisés 5:4-5; 6:46-68.
 12-2k, 1919: Versículos 16,36; Jacob 3:11; Alma 13:30; Véase o, II Nefi 9;
 Vease k, I Nefi 15.
 12-2l, 1920: Véase q.
-12-2m, 1921: Mosiah 15:27; Alma 34:15-16; 42:13-25.
+12-2m, 1921: Mosíah 15:27; Alma 34:15-16; 42:13-25.
 12-2n, 1922: Perla de Gran Precio, Moisés capítulo 5; 6:53-59.
 12-2o, 1923: Perla de Gran Precio, Moisés 5:15; 6:37; 7:10,57.
 12-2p, 1924: Versículo 31.
@@ -2176,7 +2176,7 @@ Convenios 84:6-28,107.
 13n, 1944: Véase a, Mosíah 3; Perla de Gran Precio, Abraham 1:2-3.
 13o, 1945: Versículo 3; Véase r, II Nefi 9.
 13p, 1946: Véase g, Mosíah 26.
-13q, 1947: Perla de Gran Precio, Abraham 1:2-3; Véase a, Mosiah 3.
+13q, 1947: Perla de Gran Precio, Abraham 1:2-3; Véase a, Mosíah 3.
 13r, 1948: Véase g, Mosíah 26.
 13s, 1949: Véase a, Mosíah 3; Perla de Gran Precio, Abraham 1:2-3.
 13t, 1950: Véase g, Mosíah 26.
@@ -2208,7 +2208,7 @@ Convenios 84:6-28,107.
 14e, 1975: Alma 11:33-37.
 14f, 1976: Alma 10:31; 11:21-38.
 14g, 1977: Alma 15:1.
-14h, 1978: Versiculos 9-15; Alma 15:2.
+14h, 1978: Versículos 9-15; Alma 15:2.
 14i, 1979: Versículos 1,14; Alma 13:20.
 14j, 1980: Véase h.
 14k, 1981: Versículos 26-29; Alma 8:30-31.
@@ -2246,7 +2246,7 @@ Convenios 84:6-28,107.
 15i, 2013: Véase a.
 15j, 2014: Véase u, II Nefi 9.
 15k, 2015: Véase a.
-15l, 2016: Véase c, Mosiah 6.
+15l, 2016: Véase c, Mosíah 6.
 15m, 2017: Véase u, II Nefi 9.
 15n, 2018: Véase i, Alma 8.
 15o, 2019: Alma 14:26-29.
@@ -2280,7 +2280,7 @@ Convenios 84:6-28,107.
 16u, 2046: Alma 21:4-5,11,16,20; 23:2,4; 26:29; 31:12-13;
 32:1-2,5,9-12; 33:2; Helamán 3:9,14; III Nefi 13:2,5.
 16v, 2047: II Nefi 5:16.
-16w, 2048: Mosiah 18:19-29; 23:15; 27:4; IV Nefi 1:3.
+16w, 2048: Mosíah 18:19-29; 23:15; 27:4; IV Nefi 1:3.
 16x, 2049: Véase 2v, Alma 12.
 16y, 2050: Véase c, Mosíah 6; Véase g, Mosíah 26.
 16z, 2051: III Nefi 30.
@@ -2292,7 +2292,7 @@ Convenios 84:6-28,107.
 17d, 2057: Véase h, Omni 1.
 17e, 2058: Mosíah 27:11-17.
 17f, 2059: Alma 63:12.
-17g, 2060: Véase e, II Nefi 32; Véase t, Mosiah 27.
+17g, 2060: Véase e, II Nefi 32; Véase t, Mosíah 27.
 17h, 2061: Mosíah 28:1,5-9; 29:41-44.
 17i, 2062: Mosíah 29:3.
 17j, 2063: Véase h, Omni 1.
@@ -2410,7 +2410,7 @@ Convenios 84:6-28,107.
 20-2d, 2174: Versículo 29.
 21a, 2175: Alma 17:13.
 21b, 2176: Versículos 2,4; Alma 24:1; III Nefi 9:7.
-21c, 2177: Véase b, Mosiah 18.
+21c, 2177: Véase b, Mosíah 18.
 21d, 2178: Véase u, Mosíah 23.
 21e, 2179: Versículos 1,4.
 21f, 2180: Véase u, Mosíah 23.
@@ -2448,13 +2448,13 @@ Convenios 84:6-28,107.
 22l, 2212: Véase t, Alma 15.
 22m, 2213: Véase b, Alma 18.
 22n, 2214: Copia de las planchas de bronce; Alma 63:12.
-22o, 2215: Versículo 13; Véase m, Mosiah 2.
-22p, 2216: Véase d, Mosiah 4.
+22o, 2215: Versículo 13; Véase m, Mosíah 2.
+22p, 2216: Véase d, Mosíah 4.
 22q, 2217: Véase f, II Nefi 2.
 22r, 2218: Véase g, y, j, II Nefi 9.
 22s, 2219: Véase h, Mosíah 16.
-22t, 2220: Véase i, Mosiah 16.
-22u, 2221: Véase c, Mosiah 5.
+22t, 2220: Véase i, Mosíah 16.
+22u, 2221: Véase c, Mosíah 5.
 22v, 2222: Véase q, Mosíah 2.
 22w, 2223: Versículos 17-18.
 22x, 2224: Véase e, II Nefi 32.
@@ -2475,8 +2475,8 @@ Convenios 84:6-28,107.
 4:5-6; 5:14; III Nefi 3:23; 11:1.
 22-2l, 2238: Versículos 31-32; Alma 46:17; 50:34; 63:5;
 III Nefi 3:23; Mormón 3:5,7; 4:1-3,8,13,19.
-22-2m, 2239: Libro de Ether.
-22-2n, 2240: Mosiah 8:7-12; 21:25-28; 28:11-19; Libro de Ether.
+22-2m, 2239: Libro de Éther.
+22-2n, 2240: Mosíah 8:7-12; 21:25-28; 28:11-19; Libro de Éther.
 22-2o, 2241: Omni 1:20-22.
 22-2p, 2242: Versículos 31-32; Omni 1:14-22; Helamán 6:10; 8:21-22.
 22-2q, 2243: Hasta Abundancia y Zarahemla, llamándose
@@ -2526,7 +2526,7 @@ III Nefi 30:6; III Nefi 2:14-16.
 24o, 2284: Véase n.
 24p, 2285: Véase t, Alma 23.
 24q, 2286: Alma 1:2-15.
-24r, 2287: Véase u, Mosiah 23.
+24r, 2287: Véase u, Mosíah 23.
 24s, 2288: Alma 1:2-15.
 24t, 2289: Versículos 1,28-29; Alma 21:3-11; 23:14; 47:36.
 25a, 2290: Véase t, Alma 23.
@@ -2538,7 +2538,7 @@ III Nefi 30:6; III Nefi 2:14-16.
 25g, 2296: Véase n, Jacob 7.
 25h, 2297: Véase u, Mosíah 23.
 25i, 2298: Véase f, Mosíah 17.
-25j, 2299: Véase u, Mosiah 23.
+25j, 2299: Véase u, Mosíah 23.
 25k, 2300: Mosíah 17:15-20.
 25l, 2301: Mosíah 13:10.
 25m, 2302: Mosíah 17:13-20.
@@ -2550,7 +2550,7 @@ III Nefi 30:6; III Nefi 2:14-16.
 25s, 2308: Véase l, Alma 24.
 25t, 2309: Véase o, II Nefi 25.
 25u, 2310: Véase e, II Nefi 32.
-26a, 2311: Mosiah 28:9; Alma 17:6-9.
+26a, 2311: Mosíah 28:9; Alma 17:6-9.
 26b, 2312: Véase h, Omni 1.
 26c, 2313: Alma 23:8-13.
 26d, 2314: Alma 23:5.
@@ -2653,7 +2653,7 @@ III Nefi 30:6; III Nefi 2:14-16.
 30v, 2410: Versículo 27.
 30w, 2411: Versículos 28-29,48.
 30x, 2412: Versículo 28.
-30y, 2413: Versículos 45,48-50.
+30y, 2413: Versícúlos 45,48-50.
 30z, 2414: Copias del las planchas de bronce; Alma 63:12.
 30-2a, 2415: Helamán 12:11-15.
 30-2b, 2416: Véase y.
@@ -2821,10 +2821,10 @@ Palabras de Mormón 1:6-11.
 37t, 2574: Véase i, II Nefi 10.
 37u, 2575: Versículos 23-26; Véase n, Mosíah 8.
 37v, 2576: Véase i, II Nefi 10.
-37w, 2577: Véase j, Mosiah 8.
+37w, 2577: Véase j, Mosíah 8.
 37x, 2578: Véase n, Mosíah 8.
 37y, 2579: Véase i, II Nefi 10.
-37z, 2580: Véase n, Mosiah 8.
+37z, 2580: Véase n, Mosíah 8.
 37-2a, 2581: Véase i, II Nefi 10.
 37-2b, 2582: Véase j, Mosíah 8.
 37-2c, 2583: Los Jareditas; Véase j, Mosíah 8.
@@ -3033,7 +3033,7 @@ Helamán 1:14; Mormón 6:9.
 46o, 2782: Véase 2b, Alma 22.
 46p, 2783: Norte América.
 46q, 2784: Véase 2f, Alma 43.
-46r, 2785: Véase e, Mosiah 5.
+46r, 2785: Véase e, Mosíah 5.
 46s, 2786: Véase c.
 46t, 2787: Versículo 12.
 46u, 2788: Véase 2f, Alma 43.
@@ -3061,7 +3061,7 @@ Helamán 1:14; Mormón 6:9.
 47i, 2810: Versículos 13,17.
 47j, 2811: Véase b, II Nefi 5.
 47k, 2812: Versículo 3.
-47l, 2813: Mosiah 7:12.
+47l, 2813: Mosíah 7:12.
 47m, 2814: Véase h, Omni 1.
 47n, 2815: Alma 27:26.
 47o, 2816: Versículo 20.
@@ -3111,7 +3111,7 @@ Helamán 1:14; Mormón 6:9.
 49x, 2858: Alma 48:5.
 49y, 2859: Véase b, II Nefi 5.
 49z, 2860: Alma 51:9-10.
-49-2a, 2861: Véase g, Mosiah 26.
+49-2a, 2861: Véase g, Mosíah 26.
 50a, 2862: Véase c, Alma 48.
 50b, 2863: Véase h, Omni 1.
 50c, 2864: Véase b, II Nefi 5.
@@ -3148,7 +3148,7 @@ III Nefi 8:9; 9:4.
 51d, 2894: Versículos 3,5.
 51e, 2895: Versículos 7-8,13,17-21.
 51f, 2896: Versículo 7.
-51g, 2897: Véase m, Mosiah 29.
+51g, 2897: Véase m, Mosíah 29.
 51h, 2898: Versículo 6.
 51i, 2899: Véase m, Mosíah 29.
 51j, 2900: Véase e.
@@ -3386,7 +3386,7 @@ III Nefi 8:9; 9:4.
 63k, 3132: Véase f.
 63l, 3133: Véase a.
 63m, 3134: Véase c.
-63n, 3135: Véase f.
+63n, 3135: Vease f.
 63o, 3136: Alma 37.
 63p, 3137: Estas numerosas copias de sagrados libros fueron indudablemente
 copiadas directamente de ó comparadas con los anales sobre las
@@ -3906,7 +3906,7 @@ expiró; III Nefi 8:19-23.
 11k, 3625: Versículo 14; III Nefi 9:21.
 11l, 3626: Véase b, I Nefi 12.
 11m, 3627: Versículo 15.
-11n, 3628: Véase 2b, Mosiah 7.
+11n, 3628: Véase 2b, Mosíah 7.
 11o, 3629: Véase k.
 11p, 3630: Versículo 14.
 11q, 3631: Versículo 10.
