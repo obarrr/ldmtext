@@ -3,7 +3,7 @@ Página 560
 se han arrepentido de sus pecados.
 14. Así fué que, cuando [4105]juraron por todo lo que les había sido
 prohibido por nuestro Señor y Salvador Jesu Cristo, diciendo que
-irían á pelear contra sus enemigos para vengar por. sí mismos la
+irían á pelear contra sus enemigos para vengar por sí mismos la
 sangre de sus hermanos, he aquí, que vino á mí la voz del Señor,
 diciendo:
 15. Mía es la venganza, y yo pagaré, y puesto que este pueblo
@@ -199,3 +199,9 @@ real print — corrected to "el Señor" in both `pages/page_560.txt` and
 No narrow-space-vs-merge defaults were applied on this page (no tight
 word-pairs required the two-word default), so nothing to batch as an
 editor pointer this session.
+
+REVERSED (editor, 2026-10-17, item-3 re-check): v.14 "por. sí" -- the
+dot is a stray mark, much too small for a typeset period (6x4 px, ~19
+dark px vs ~40 px for real periods on this page). Text changed to "por
+sí" (librodm.txt already had it); the errors-log entry was removed. The
+notes above about "por. sí" are superseded.

@@ -32,7 +32,7 @@ riquezas, sí, aún hasta grandes persecuciones;
 11. Porque habían muchos [3498]mercaderes en el país, como
 también muchos [3499]abogados y oficiales públicos.
 12. Y empezó el pueblo á dividirse por clases, según sus
-riquezas, y sus oportuñidades para la instrucción, sí, porque
+riquezas, y sus oportunidades para la instrucción, sí, porque
 habían muchos que eran ignorantes á causa de su indigencia,
 mientras que otros recibían grande instrucción á cause de sus
 riquezas;
@@ -176,3 +176,9 @@ transcribed as two words per the current default) — not a stopping
 point, just surfaced here for the editor to double-check against the
 image at their convenience.
 [2026-07-24, user correction] 11 instances of a space before ";" or "!" on this page were removed (in this file and in `librodm.txt`) per rule 31 in `libro_de_mormon_rules.md`, which already required this and was never actually superseded by any legitimate 1920-print exception. This corrects a run of Session E notes on pages 496-502 that wrongly treated space-before-semicolon/exclamation as an "established convention" to preserve as printed.
+
+REVERSED (editor, 2026-10-17, item-3 re-check): v.12 "oportuñidades" --
+no tilde; the mark over the "n" is debris (this page is heavily specked
+across many words). Text changed to "oportunidades" in librodm.txt and
+here; the errors-log entry was removed. The notes above about
+"oportuñidades" are superseded.

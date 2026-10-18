@@ -42,7 +42,7 @@ diréis:
 33. [3348]Oh, si me hubiese arrepentido, y si no hubiese matado
 á los profetas, si no les hubiese apedreado; y si no les hubiese
 echado fuera; sí, en aquel día diréis: Oh, si nos hubiésemos
-acordadodel Señor, nuestro Dios, en el día en que nos dió nuestras
+acordado del Señor, nuestro Dios, en el día en que nos dió nuestras
 
 13k, 3346: Véase e, Helamán 12.
 13l, 3347: Versículos 33-37; Mormón 1:17-19; Véase e, Helamán 12.
@@ -94,3 +94,8 @@ via same-page zoom, distinguishing it from the "i" glyphs on page 471.
      plata" and "encima" → "encíma", both restored as printed (Google
      agrees; 1886 has "vuestra"/"encima"); both logged, along with the
      missing ";" after "bienes" in v.28.
+
+REVERSED (editor, 2026-10-17, item 4b): v.33 "acordadodel" -> "acordado
+del". The gap between "o" and "d" is clearly wider than every
+letter-spacing inside both words: two words, tightly set. The notes
+above treating it as a merge are superseded. Not logged.

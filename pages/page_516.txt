@@ -46,7 +46,7 @@ demonios? ¿y no hemos hecho en tu nombre cosas maravillosas?
 mí, obradores de iniquidad.
 
 14a, 3690: III Nefi 27:29.
-14b, 3691: Véase a, II Nefi 9; III Nefi 27:33.
+14b, 3691: Véase 2a, II Nefi 9; III Nefi 27:33.
 
 Corrections
 - Rule 7 hyphen rejoins: v.6 "volvién-/dose" -> "volviéndose"; v.14
@@ -149,3 +149,10 @@ Corrections
   character scan all clean. No hyphens remain in this page's body
   text after the rule-7 rejoins, so no dash-check findings for this
   page's range.
+
+CORRECTION (2026-10-17, item 5 footnote audit): note b prints "Véase
+2a, II Nefi 9" (superscript "2a", pages_1920/page_0538.png); the
+transcription had dropped the "2". 1879 agrees ("b, see 2a, II. Nep.
+9"). Block 1 -> "Véase 2a, II Nefi 9; III Nefi 27:33.", Block 2 3691
+358 -> 384 (II Nefi 9:41, the strait path). Transcription slip, not
+logged.

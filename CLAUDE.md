@@ -118,8 +118,9 @@ state — earlier entries may have been reversed.
   misspelled "Pagina 411" (missing the accent), silently breaking
   page-boundary detection for any script keying off that literal string
   — found and fixed (batch 16). 3 period/comma print-defect ambiguities
-  flagged for the editor's own inspection, deliberately NOT resolved
-  unilaterally (see `diff1920ocr-trans.md`'s running flagged list).
+  flagged for the editor's own inspection (plus 2 more from the 2 Nefi 25
+  proofread) -- all RESOLVED by the editor 2026-09-30 (see
+  `diff1920ocr-trans.md`'s running flagged list).
   Separately, at the editor's request, a manual full-image spot-audit of
   book page 337 (Alma 32:37) — done outside the regular diff-batch flow,
   word-for-word against the image plus 1886, independent of the Google
@@ -200,7 +201,7 @@ state — earlier entries may have been reversed.
   Moroni 10 is done -- the whole book has been proofread. (5) IN
   PROGRESS (since 2026-10-11) -- final verification checks before
   librodm.txt is frozen as librodm_transcribed.txt: three-way OCR
-  (done), footnote accent sweep (step d left), then four more checks.
+  (done), footnote accent sweep (done 2026-10-16), then four more checks.
   The plan, tools and next step are in the "Current Progress" section
   at the top of workspace/proofread-1920.md -- READ IT FIRST. A
   recurring pattern worth noting is the transcription occasionally

@@ -46,7 +46,7 @@ anales que Ammarón había [4130]escondido para el Señor.
 4h, 4123: Véase 2l, Alma 22.
 4i, 4124: Véase c.
 4j, 4125: Versículos 15,21.
-4k, 4126: Véase i.
+4k, 4126: Véase j.
 4l, 4127: Véase 2l, Alma 22.
 4m, 4128: Véase j.
 4n, 4129: Mormón 1:3; Ether 9:3.
@@ -160,3 +160,10 @@ the "i" of "si-") and no letter between "g" and "u"; Google's OCR gap
 was a real missing letter, not an OCR drop. 1886 reads "siguiéron",
 so this is a 1920-only misprint, now logged in errors in 1920.txt and
 preserved as printed.
+
+CORRECTION (editor, 2026-10-17, item 5 footnote audit): note k is
+"Véase j." not "i." -- in this italic face the "i" tail turns RIGHT and
+the "j" tail turns LEFT (compare entries i and j on this line); k's
+letter has the left-turning tail and matches entry m's "j" exactly.
+Block 1 and page file -> "Véase j.", Block 2 4126 4124 -> 4125 (4j,
+"Versículos 15, 21", the sacrifices). Transcription misread; not logged.
