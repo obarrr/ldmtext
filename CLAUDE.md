@@ -98,132 +98,38 @@ NNN often doesn't repeat "page NNN" in its own header. If a page has
 more than one matching entry, the latest date is the current, correct
 state — earlier entries may have been reversed.
 
-- **2026-09-12**: OCR-diff pilot (`workspace/_pilot_ocr_diff.py`, diffs
-  `librodm.txt` against the 1920 PDF's own embedded Google-OCR text) run
-  to completion across the ENTIRE book, pages 1–631, in 23 batches over
-  one extended session. Originally scoped to 1–436 (the range that never
-  got this project's image-reverification pipeline nor the
-  Google-OCR-crosscheck tool); after the 1–436 sweep finished clean, the
-  editor asked to extend it through 437–631 too, since a real bug found
-  late in the 1–436 pass (see below) proved the diff catches
-  integration-stage errors even in the already-tracked Session A–E
-  range. Full batch-by-batch methodology, resource costs, and the
-  complete false-positive taxonomy live in `workspace/diff1920ocr-trans.md`
-  (batches 1–23) — read that file, not this summary, for any question
-  about why a specific page/verse was or wasn't flagged.
-  **1–436 results:** 10 silent transcription-slip fixes + 1 newly logged
-  archaism (2 Nefi 8:12 "Quíen") from the systematic diff, overwhelmingly
-  concentrated on book pages 1–2 (pages 3–436 were otherwise very clean
-  after noise-filtering). One real bug: a "Página 411" marker was
-  misspelled "Pagina 411" (missing the accent), silently breaking
-  page-boundary detection for any script keying off that literal string
-  — found and fixed (batch 16). 3 period/comma print-defect ambiguities
-  flagged for the editor's own inspection (plus 2 more from the 2 Nefi 25
-  proofread) -- all RESOLVED by the editor 2026-09-30 (see
-  `diff1920ocr-trans.md`'s running flagged list).
-  Separately, at the editor's request, a manual full-image spot-audit of
-  book page 337 (Alma 32:37) — done outside the regular diff-batch flow,
-  word-for-word against the image plus 1886, independent of the Google
-  diff — found 2 MORE real errors ("empieze" for "empiece", and "he
-  aqui"/"he aquí" missing its accent twice) that the diff-based method
-  structurally cannot see: it only catches OCR *disagreement* between
-  the transcription and Google, so a clean, unambiguous misprint that
-  both sides read identically produces zero diff signal. This is the
-  pilot's known blind spot, confirmed directly in batch 13 when Google's
-  own raw OCR text for that same page was checked and found to read the
-  identical (wrong) unaccented spelling.
-  **437–631 results (batches 18–23, run after extending scope):** pages
-  in this range have `pages/page_NNN.txt` working files from the
-  original Session A–E work, so before finalizing any comma/period/
-  stray-mark candidate here the protocol was to check that page's
-  Corrections section first (several apparent defects turned out to
-  already be documented "scan/print artifact of this particular copy"
-  calls — pages 472, 475 — determined NOT to be real 1920 errors on
-  closer inspection). Found: 1 more silent accent-slip fix (Helamán
-  4:9 "Moronihah"→"Moroníhah", didn't match the image); 3 new
-  `errors in 1920.txt` entries covering 5 instances — Helamán 4:6
-  "Moronihah" unaccented (shared with 1886; REVERSED 2026-09-30 -- it is
-  accented in both, entry removed), Helamán 8:23 "he aqui, El
-  es Dios" missing both accents (1920-exclusive), and Helamán 8:27's
-  cluster of FOUR "punto por coma" defects in one verse (all
-  1920-exclusive, confirmed against 1886) — the last two both on the
-  SAME page (458), whose dense 19-candidate cluster in the raw diff is
-  what triggered the closer look; and 1 integration-stage regression
-  caught and reversed: book page 510's chapter heading, already
-  carefully verified during Session E as a genuine 1920 misprint
-  ("CAPTULO 12.", missing the Í) and correctly preserved in
-  `pages/page_510.txt`, had drifted back to its corrected spelling
-  ("CAPÍTULO 12.") in `librodm.txt` at some point after Session C
-  integration — restored to match the verified misprint. Every other
-  non-routine-looking candidate across 437–631 (batches 20–23 in
-  particular) turned out to already be thoroughly documented and
-  resolved in that page's own notes, confirming that range's existing
-  Session A–E work is generally solid — the pilot's value there was
-  specifically in catching integration/drift-stage slips the per-page
-  pipeline structurally can't see, not in finding fresh transcription
-  errors.
-  **Editor's plan going forward** (set 2026-09-12): treat this
-  diff-based pilot as a cheap, now-complete first pass across the whole
-  book. Next: a separate, more expensive manual page-by-page
-  proofreading pass (full image read, word-for-word comparison, 1886
-  cross-check — same method as the page-337 spot-audit) — not yet
-  started, batch size/starting point to be decided with the editor. Also
-  still open from before: diagnosing why a whole-document pptext run
-  with `permitted words.txt` suppressed apparently flagged "empieze" as
-  a suspect word without an `errors in 1920.txt` entry resulting from
-  it — relevant to item (3) below.
+- **2026-10-16/17**: Final verification checks before freezing
+  `librodm.txt` as `librodm_transcribed.txt` -- ALL SIX DONE. Full
+  record, tools and every editor ruling: `workspace/proofread-1920.md`
+  ("Current Progress" at the top, items 2-6 at the end).
+  (1) three-way OCR (done 2026-10-11). (2) footnote accent sweep:
+  FAMILIA entries Mosíah/Véase/Versículos/Éxodo recounted image by
+  image. (3) every accent/punctuation log entry re-checked on contact
+  sheets (335 entries): 4 overturned (Mormón 3:14, III Nefi 6:12,
+  Mosíah 2:9, 2 Nefi 32:3). (4) accent-variant and single-occurrence
+  word scans: 3 transcription fixes, ~25 misprints newly logged, new
+  FAMILIA entries "grafía de época" and "zelo". (5) footnotes: all
+  2,194 Block 2 cross-references verified, plus a comparison with the
+  1879 Pratt notes (OCR, then image checks): 4 transcription fixes
+  (III Nefi 14b, Mormón 4k, Jacob 4i/4j swap), 6 footnote errors
+  logged. (6) blind random sample, 200 lines / 11,386 characters:
+  0 letter/accent/punctuation errors, 1 spacing slip (fixed) -- 95%
+  upper bound ~0.03% for the Project Gutenberg submission.
+  Lesson saved to memory: italic footnote i/j are told apart by tail
+  direction (i right, j left).
 
-- **Next page**: NONE — page-by-page transcription (pages 437–631,
-  Sessions A–E) has been complete since 2026-09-03; see that work's full
-  history in `sessions-log.md` (search `\b631\b` or earlier page
-  numbers). Current focus is document-wide quality passes, not new
-  pages. Remaining project-level work: (1) DONE — full-document pptext
-  review (§1–6) and the `permitted words.txt` reverse-consistency audit
-  (Category A/B, batches B1–B7) both completed 2026-09-08–10; full
-  detail in `sessions-log.md`. (2) DONE 2026-09-12 — the OCR-diff pilot
-  now covers the entire book, pages 1–631 (see above); full detail in
-  `workspace/diff1920ocr-trans.md`. (3) DEFERRED (editor's
-  decision 2026-09-24) — the blanket-suppression pptext re-run with
-  `permitted words.txt` set aside, cross-referencing every fresh flag
-  against `errors in 1920.txt` (see the `orthography-check` skill).
-  NOT to be done until the manual proofread (item 4) is finished and
-  the faithful transcription is finalized as `librodm_transcribed.txt`
-  (the current `librodm.txt`: faithful to the 1920 image, misprints
-  preserved). It is the first step of producing `librodm_cleaned.txt`
-  (the corrected version proposed for Project Gutenberg, published
-  with a table of every difference from the transcribed text; the plan
-  and the draft table are in `workspace/error_table_20260909.md`,
-  alongside `errors in 1920.txt`). It is not current work. The open "empieze"/pptext discrepancy noted above
-  gets resolved then too. (4) DONE 2026-10-10 (started 2026-09-12) — the manual,
-  image-based, chapter-by-chapter proofreading pass that the OCR-diff
-  pilot's findings motivated; see "Editor's plan" above and the new
-  `manual-proofread` skill. As of 2026-10-10: front matter through
-  Moroni 10 is done -- the whole book has been proofread. (5) IN
-  PROGRESS (since 2026-10-11) -- final verification checks before
-  librodm.txt is frozen as librodm_transcribed.txt: three-way OCR
-  (done), footnote accent sweep (done 2026-10-16), then four more checks.
-  The plan, tools and next step are in the "Current Progress" section
-  at the top of workspace/proofread-1920.md -- READ IT FIRST. A
-  recurring pattern worth noting is the transcription occasionally
-  having silently "corrected" a genuine 1920 misprint toward the
-  standard spelling (1 Nefi 1:16, footnote 4a) — worth watching for
-  elsewhere; a second recurring pattern found repeatedly during the
-  Mosíah pass is Block 2 cross-reference resolution bugs (a "Véase
-  <letter>, <Book> <chapter>" citation resolving to the wrong
-  chapter's same-lettered footnote) — several found and fixed. Full
-  running log, per-chapter findings, and the current-progress line
-  (next unit to do) all live in `workspace/proofread-1920.md` — read
-  that file for status, not this paragraph. Chapter emailing
+- **Next step**: freeze `librodm.txt` as `librodm_transcribed.txt`
+  (after the editor commits), then start `librodm_cleaned.txt`. The
+  plan, the editor's philosophy and the list of every place decisions
+  are recorded: `workspace/error_table_20260909.md` (section "Where to
+  look when building `_cleaned`"). Deferred to that phase: the pptext
+  re-run without `permitted words.txt` (cross-check every flag against
+  `errors in 1920.txt`) and the open "empieze" pptext question. Later,
+  possibly: `librodm_modern.txt` built on `_cleaned`. Chapter emailing
   (Session F) continues independently.
-- **Completed pages**: All of it. `librodm.txt` contains the entire Book
-  of Mormon, book pages 1–631 (1 Nefi 1:1 through Moroni 10:34). Pages
-  437–631 went through the full tracked Session A–E per-page pipeline;
-  pages 1–436 went through an earlier editorial pass (458 pre-existing
-  `errors in 1920.txt` entries) plus the now-complete OCR-diff pilot
-  (item 2 above) — see that pilot's summary for what is and isn't
-  covered by "checked" for this range (it catches OCR-disagreement-shaped
-  errors, not every possible error type; see the page-337 spot-audit
-  note above).
+- **Completed pages**: All of it -- book pages 1-631 plus front matter,
+  transcribed, manually proofread (2026-10-10) and fully verified
+  (2026-10-17).
 
 ## Script Reference
 - `build_viewer_data.py NNN [NNN ...]` / `build_viewer_data.py --all` —
