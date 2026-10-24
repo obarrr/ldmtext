@@ -122,11 +122,37 @@ state — earlier entries may have been reversed.
   (after the editor commits), then start `librodm_cleaned.txt`. The
   plan, the editor's philosophy and the list of every place decisions
   are recorded: `workspace/error_table_20260909.md` (section "Where to
-  look when building `_cleaned`"). Deferred to that phase: the pptext
+  look when building `_cleaned`"). Working file: `errores_1920_revision.xlsx`
+  (one row per logged error in book order; the editor is filling in the
+  1946 edition's readings and the Gutenberg/modern decisions -- do not
+  regenerate it without `--merge <current file>`, which carries the
+  editor's input over). Deferred to that phase: the pptext
   re-run without `permitted words.txt` (cross-check every flag against
   `errors in 1920.txt`) and the open "empieze" pptext question. Later,
   possibly: `librodm_modern.txt` built on `_cleaned`. Chapter emailing
   (Session F) continues independently.
+- **1946 review -- where we are (updated 2026-10-23)**: the editor is
+  checking every logged error against their printed 1946 Libro de
+  Mormón (no 1946 scan in the repo; the editor reads it and reports).
+  Plan: (1) Familias tab first -- for each FAMILIA, Claude gives ~5
+  sample verses with the exact 1920 word, page and context (column D
+  holds the suggested verses), the editor reports what 1946 prints, and
+  Claude records it: result in column E (corrige todos / mantiene
+  todos / mixto / no informa / corrige / reescribe), details in F, and
+  the matching Errores rows in P/Q. (2) Then the single-error rows on
+  the Errores tab, in book order. (3) Only after that, the Gutenberg
+  and modern decisions (columns R/S; Familias G/H).
+  **Done = Familias column E filled; Errores column P filled.**
+  Status: 29 of 34 families done. NEXT: "j por g" (sample 1 Nefi 17:19
+  aflijido/aflijirme, 2 Nefi 1:5 escojida, Alma 19:27 aflijirles, Alma
+  61:2 aflijido, Moroni 2:1 escojido), then "todas los", adverbios en
+  -mente, grafía de época, circum-. Then 1,144 single-error rows (20
+  front-matter rows already done). Findings so far: 1946 drops the
+  accent on the preposition "a" everywhere (1911 rule), so accent
+  questions on "a" are "no informa"; 1946 keeps "cuando" + future; it
+  sometimes rewords a verse instead of correcting a word. Before each
+  write: back up the workbook to `workspace/`, check for a LibreOffice
+  lock file, change only the cells involved.
 - **Completed pages**: All of it -- book pages 1-631 plus front matter,
   transcribed, manually proofread (2026-10-10) and fully verified
   (2026-10-17).
