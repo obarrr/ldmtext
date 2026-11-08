@@ -143,10 +143,20 @@ state — earlier entries may have been reversed.
   the Errores tab, in book order. (3) Only after that, the Gutenberg
   and modern decisions (columns R/S; Familias G/H).
   **Done = Familias column E filled; Errores column P filled.**
-  Status: 29 of 34 families done. NEXT: "j por g" (sample 1 Nefi 17:19
-  aflijido/aflijirme, 2 Nefi 1:5 escojida, Alma 19:27 aflijirles, Alma
-  61:2 aflijido, Moroni 2:1 escojido), then "todas los", adverbios en
-  -mente, grafía de época, circum-. Then 1,144 single-error rows (20
+  Status: FAMILIAS TAB DONE -- all 34 families have column E filled
+  (2026-10-24; the last five, "j por g", "todas los", adverbios en
+  -mente, grafía de época, circum-, are all corrige todos). NEXT: step
+  (2), the single-error rows on the Errores tab (column L empty), in
+  book order: 1,164 rows, 95 done (through 2 Nefi 15:11, 2026-10-28),
+  next is sheet row 203 (2 Nefi 15:12 footnote j "34:27" without
+  "Job"; batch 10 = rows 203, 204, 208, 210, 211, 213, 219). Batches
+  of 8 rows work well; give the full 1920 verse for each item (the
+  editor asks for it otherwise). Write P as exactly "corregido" /
+  "igual que 1920" / "reescribe" / "no informa" (the Leyenda counter
+  matches exact text) and put explanations in Q. Column I = the log's
+  correct form, reference only, not a decision.
+  Footnote rows: 1946 may keep the 1920 error (1 Nefi 4:9 "Covenios"
+  kept -> "igual que 1920"). Then 1,144 single-error rows (20
   front-matter rows already done). Findings so far: 1946 drops the
   accent on the preposition "a" everywhere (1911 rule), so accent
   questions on "a" are "no informa"; 1946 keeps "cuando" + future; it
