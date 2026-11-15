@@ -10838,3 +10838,25 @@ instead:
   covered by "checked" for this range (it catches OCR-disagreement-shaped
   errors, not every possible error type; see the page-337 spot-audit
   note above).
+
+- **2026-11-08/15**: 1946 review, step (2) (single-error rows on the
+  Errores tab of `errores_1920_revision.xlsx`), Omni 1:14 through
+  Mosíah 13:35: done went from 166 to 240 of 1,165. Most rows
+  "corregido". "reescribe": Mosíah 3:26 (2 rows, "les pudiera haber
+  negado", "Adam cayera por participar del fruto"), 7:22 ("de
+  cualquiera clase que fuesen"), 12:29 ("de modo que el Señor tiene
+  causa"). "igual que 1920": Mosíah 9:1 "en todo en el idioma".
+  "no informa": Mosíah 9 footnote j ("Dosconocido" and the missing
+  marker on "sheum"), since 1946 omits notes i and j. Footnote
+  references 1946 corrects: Mosíah 2q to 2 Nefi 2:17 (1920 "2:37"),
+  3a to 2 Nefi 19:6; 26:12 (agrees with 1879), 7e to "Véase b".
+  New error logged 2026-11-09 at the editor's ruling: Mosíah 1:7
+  "escudiñarlos" (only occurrence; confirmed on
+  pages_1920/page_0184.png; was on permitted words.txt), added to
+  `errors in 1920.txt` before "quisera" and as Errores row 410;
+  later rows renumbered, column O shifted +1 for old lines >= 225,
+  Leyenda/validation ranges extended to row 2188. Mosíah 11:5 and
+  11:11 ("todas los") were filled from the editor's 2026-10-24 family
+  answers. Backups: workspace/errores_1920_revision_backup_202611*.xlsx,
+  workspace/errors_in_1920_backup_20261109.txt. Next: sheet row 570
+  (Mosíah 15:1); items 570-591 already shown to the editor.

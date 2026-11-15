@@ -131,7 +131,7 @@ state — earlier entries may have been reversed.
   `errors in 1920.txt`) and the open "empieze" pptext question. Later,
   possibly: `librodm_modern.txt` built on `_cleaned`. Chapter emailing
   (Session F) continues independently.
-- **1946 review -- where we are (updated 2026-10-23)**: the editor is
+- **1946 review -- where we are (updated 2026-11-15)**: the editor is
   checking every logged error against their printed 1946 Libro de
   Mormón (no 1946 scan in the repo; the editor reads it and reports).
   Plan: (1) Familias tab first -- for each FAMILIA, Claude gives ~5
@@ -147,22 +147,39 @@ state — earlier entries may have been reversed.
   (2026-10-24; the last five, "j por g", "todas los", adverbios en
   -mente, grafía de época, circum-, are all corrige todos). NEXT: step
   (2), the single-error rows on the Errores tab (column L empty), in
-  book order: 1,164 rows, 95 done (through 2 Nefi 15:11, 2026-10-28),
-  next is sheet row 203 (2 Nefi 15:12 footnote j "34:27" without
-  "Job"; batch 10 = rows 203, 204, 208, 210, 211, 213, 219). Batches
-  of 8 rows work well; give the full 1920 verse for each item (the
-  editor asks for it otherwise). Write P as exactly "corregido" /
-  "igual que 1920" / "reescribe" / "no informa" (the Leyenda counter
-  matches exact text) and put explanations in Q. Column I = the log's
-  correct form, reference only, not a decision.
-  Footnote rows: 1946 may keep the 1920 error (1 Nefi 4:9 "Covenios"
-  kept -> "igual que 1920"). Then 1,144 single-error rows (20
-  front-matter rows already done). Findings so far: 1946 drops the
-  accent on the preposition "a" everywhere (1911 rule), so accent
-  questions on "a" are "no informa"; 1946 keeps "cuando" + future; it
-  sometimes rewords a verse instead of correcting a word. Before each
-  write: back up the workbook to `workspace/`, check for a LibreOffice
-  lock file, change only the cells involved.
+  book order: 1,165 rows, 240 done (through Mosíah 13:35, 2026-11-15),
+  next is sheet row 570 (Mosíah 15:1 "enter"; the 8 items Mosíah
+  15:1-17:10, rows 570-591, were already shown to the editor on
+  2026-11-15 and await answers). The row count went from 1,164 to
+  1,165 on 2026-11-09: "escudiñarlos" (Mosíah 1:7, 1 occurrence vs. 10
+  of "escudriñ-"; editor ruled it an error; 1946 "escudriñarlos") was
+  added as Errores row 410 and to `errors in 1920.txt` (line 225); the
+  later rows and log lines shifted by one and column O was renumbered.
+  Batches of 8 rows work well. For each item give the full 1920 verse,
+  the bold word, what 1920 prints wrong and what to look for in 1946;
+  never refer to "batch N" or "the eight items" without listing them
+  again (the editor asked for this, 2026-11-13). Write P as exactly
+  "corregido" / "igual que 1920" / "reescribe" / "no informa" (the
+  Leyenda counter matches exact text) and put the 1946 reading or an
+  explanation in Q. Column I = the log's correct form, reference
+  only, not a decision. Some single rows were already answered with a
+  family (Mosíah 11:5 and 11:11 "todas los", filled from the editor's
+  2026-10-24 answers) -- check before asking again.
+  Findings so far: 1946 drops the accent on the preposition "a"
+  everywhere (1911 rule), so accent questions on "a" are "no informa";
+  it also drops the accent on demonstratives ("aquellos"); it keeps
+  "cuando" + future but sometimes turns the future subjunctive into
+  -ra/-se ("fueren" > "fuesen", "arrepintieren" > "arrepintieran");
+  it sometimes rewords a sentence instead of correcting a word
+  ("reescribe"); it omits many footnotes (1 Nefi 13 e-h, 2 Nefi 14a,
+  2 Nefi 27 g-h, Mosíah 9 i-j -> "no informa"), and can keep a
+  footnote error (1 Nefi 4:9 "Covenios" -> "igual que 1920"); it cites
+  books with Arabic numerals (2 Nefi, 1 Crónicas). Kept 1920 forms
+  worth a _cleaned ruling: "ingert-" (1920 never "injert-"),
+  "Nahum", "Eclesiastes", "Face", "toda clasa", Mosíah 9:1 "en todo en
+  el idioma". Before each write: back up the workbook to
+  `workspace/`, check for a LibreOffice lock file, change only the
+  cells involved.
 - **Completed pages**: All of it -- book pages 1-631 plus front matter,
   transcribed, manually proofread (2026-10-10) and fully verified
   (2026-10-17).
