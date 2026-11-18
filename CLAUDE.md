@@ -147,11 +147,16 @@ state — earlier entries may have been reversed.
   (2026-10-24; the last five, "j por g", "todas los", adverbios en
   -mente, grafía de época, circum-, are all corrige todos). NEXT: step
   (2), the single-error rows on the Errores tab (column L empty), in
-  book order: 1,165 rows, 240 done (through Mosíah 13:35, 2026-11-15),
-  next is sheet row 570 (Mosíah 15:1 "enter"; the 8 items Mosíah
-  15:1-17:10, rows 570-591, were already shown to the editor on
-  2026-11-15 and await answers). The row count went from 1,164 to
-  1,165 on 2026-11-09: "escudiñarlos" (Mosíah 1:7, 1 occurrence vs. 10
+  book order: 1,167 rows, 288 done (through Mosíah 25:15, 2026-11-17),
+  next is sheet row 678 (Mosíah 25:18 "heho"; the 8 items Mosíah
+  25:18-27:22, rows 678-697, were shown to the editor on 2026-11-17
+  and await answers). 2026-11-17: Mosíah 25:11 "aimas" restored in
+  librodm.txt (the transcription had silently printed "almas"; viewer
+  rebuilt); log line for Mosíah 23:29 "posesion (posesión)" fixed. On 2026-11-15 two rows were added at
+  the editor's request: Alma 40:15 and 40:20 "ascención" (rows 1140
+  and 1144, log lines 572 and 574; 1920 has "ascención" 3x and
+  "ascensión" 3x; 1946 keeps it in Mosíah 18:2). The row count went
+  from 1,164 to 1,165 on 2026-11-09: "escudiñarlos" (Mosíah 1:7, 1 occurrence vs. 10
   of "escudriñ-"; editor ruled it an error; 1946 "escudriñarlos") was
   added as Errores row 410 and to `errors in 1920.txt` (line 225); the
   later rows and log lines shifted by one and column O was renumbered.
@@ -177,7 +182,9 @@ state — earlier entries may have been reversed.
   books with Arabic numerals (2 Nefi, 1 Crónicas). Kept 1920 forms
   worth a _cleaned ruling: "ingert-" (1920 never "injert-"),
   "Nahum", "Eclesiastes", "Face", "toda clasa", Mosíah 9:1 "en todo en
-  el idioma". Before each write: back up the workbook to
+  el idioma", Mosíah 18:2 "ascención", Mosíah 24:8 "ejecer". 1946 can
+  also add its own errors (Mosíah 21:2 "ótra"), so an odd form the
+  editor reports may be real: record it as given and ask. Before each write: back up the workbook to
   `workspace/`, check for a LibreOffice lock file, change only the
   cells involved.
 - **Completed pages**: All of it -- book pages 1-631 plus front matter,

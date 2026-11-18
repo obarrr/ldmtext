@@ -10860,3 +10860,21 @@ instead:
   answers. Backups: workspace/errores_1920_revision_backup_202611*.xlsx,
   workspace/errors_in_1920_backup_20261109.txt. Next: sheet row 570
   (Mosíah 15:1); items 570-591 already shown to the editor.
+
+- **2026-11-15/17**: 1946 review, step (2), Mosíah 15:1 through 25:15:
+  done went from 240 to 288 of 1,167. "reescribe": Mosíah 16:10 ("y
+  todos serán ... para ser juzgados"), 23:12 ("habéis estado en
+  cautividad a él"). "igual que 1920": Mosíah 18:2 "ascención",
+  24:8 "ejecer" (confirmed by the editor). 1946's own error: Mosíah
+  21:2 "ótra vez". Added at the editor's request (2026-11-15): Alma
+  40:15 and 40:20 "ascención" as separate entries (log lines 572/574,
+  Errores rows 1140/1144; 1920 has ascención 3x, ascensión 3x; 1886
+  "ascencion"), confirmed on pages_1920/page_0379/0380.png. Fixed
+  with approval: row 611 description (Mosíah 18 notes b-d,
+  "Versiculos/Versiculo", page 203); row 657 / log line 316
+  "Mosiah 23:29 posesion (posesión)" (was 23:28, "posesíon").
+  Mosíah 25:11 "aimas" restored in librodm.txt (the transcription had
+  silently printed "almas"; confirmed on pages_1920/page_0243.png;
+  log entry noted; viewer rebuilt). Backups in workspace/ dated
+  20261115*/20261117*. Next: sheet row 678 (Mosíah 25:18); items
+  678-697 already shown to the editor.

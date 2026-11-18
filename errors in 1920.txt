@@ -313,7 +313,7 @@ Mosiah 23:3 diás (días)(dias en 1886)
 Mosiah 23:12 vistó (visto) (visto en 1886)
 Footnote Mosiah 23d, 1450 Vernículos (Versículos) (1920 imprime "Vernículos 8-15" con "n" en vez de la primera "s" de "Versículos", página 216; confirmado a zoom en alta resolución (pages_1920/page_0237.png) -- tipo limpio, letra genuinamente "n"; corrige la descripción anterior de esta entrada, que decía "Versículo (Versículos)" [una "s" final faltante], defecto distinto del realmente impreso; 1886 no tiene aparato de notas con el cual comparar; error de imprenta exclusivo de este lugar; preservado como se imprime en ambos bloques; descripción corregida 2026-09-19 durante el `manual-proofread` de Mosíah 23 tras verificación a zoom -- véase `workspace/proofread-1920.md`)
 Footnote Mosiah 23l Nosíah (Mosíah) (typographical error) NOTA (2026-10-11): la transcripción tenía "Mosíah" (corregido en silencio pese a esta entrada); restaurado a "Nosíah" en ambos bloques, como en la impresión (confirmado también por el OCR de Google y Tesseract).
-Mosiah 23:28 posesion (posesíon) (posesion en 1886)
+Mosiah 23:29 posesion (posesión) (posesion en 1886)
 Mosiah 23:32 era era (era) (era en 1886)
 Mosiah 23:37 despues (después) (despues en 1886)
 Mosiah 24:1 dey (del) (del en 1886)
@@ -323,7 +323,7 @@ Mosiah 24:8 ejecer (ejercer) (ejercer en 1886)
 Mosiah 24:9 conocia (conocía) (conocía en 1886)
 Footnote Mosiah 25c encabezamento (encabezamiento)
 Mosiah 25:4 tambíen (también) (tambien en 1886)
-Mosiah 25:11 aimas (almas) (almas en 1886)
+Mosiah 25:11 aimas (almas) (almas en 1886) NOTA (2026-11-17): la transcripción tenía "almas" (corregido en silencio pese a esta entrada); restaurado a "aimas" como en la impresión, confirmado a la vista en pages_1920/page_0243.png, a petición del editor.
 Footnote Mosiah 25i Mlsíah (Mosíah)
 Mosiah 25:15 puebo (pueblo) (pueblo en 1886)
 Mosiah 25:18 heho (hecho) (hecho en 1886)
@@ -569,7 +569,9 @@ Alma 40:6 intérvalo (intervalo) (intérvalo en 1886)
 Alma 40:6 él de (el de) (1886 imprime "el de la resurreccion" sin tilde, pages_1886/page_0371.png -- la anotación anterior "él de en 1886" era errónea; lo mismo en 40:9) -- véase FAMILIA "él" por "el"
 Alma 40:9 intérvalo (intervalo) (intérvalo en 1886 see verse 6)(Real Academia says: Es errónea la forma esdrújula intérvalo.
 Footnote Alma 40c, 2611 Eclesiástes (Eclesiastés) (1920 imprime "Eclesiástes 12:7" en la cita del pie de página con la tilde sobre la "á" (forma llana), confirmado a zoom (pages_1920/page_0379.png); el nombre normativo del libro bíblico es "Eclesiastés" (aguda, tilde en "és"); sin comparación con 1886 (no tiene aparato de notas) ni 1879 (inglés, "Ecclesiastes"); error exclusivo de 1920; preservado como se imprime; hallado en la auditoría de permitted words.txt 2026-09-08)
+Alma 40:15 ascención (ascensión) (ascencion en 1886, pages_1886/page_0372.png; 1920 imprime "la ascención del espíritu", página 357, confirmado a la vista en pages_1920/page_0379.png; 1920 escribe "ascención" 3 veces (Mosíah 18:2, Alma 40:15, 40:20) y "ascensión" 3 veces (III Nefi 10:18, 18:39, 19:1); registrado 2026-11-15 a petición del editor; véase Mosiah 18:2)
 Alma 40:20 seran (serán) (estarán en 1886)
+Alma 40:20 ascención (ascensión) (ascencion en 1886, pages_1886/page_0372.png; 1920 imprime "y su ascención al cielo", página 358, confirmado a la vista en pages_1920/page_0380.png; misma grafía que Alma 40:15 y Mosíah 18:2; registrado 2026-11-15 a petición del editor)
 Alma 40:21 same as 40:9
 Alma 42:11 footnote n, nurieran (murieran)
 Alma 43:9 sus niños. (sus niños,) (sus niños, en 1886)
